@@ -1,19 +1,15 @@
 {
   "run_date": "2026-03-16",
-  "run_timestamp": "2026-03-16T10:32:24.912754+00:00",
+  "run_timestamp": "2026-03-16T15:08:20.824142+00:00",
   "mode": "general",
   "results": {
     "youtube": {
       "status": "success",
-      "items": 91
+      "items": 105
     },
     "google_trends": {
       "status": "success",
       "items": 30
-    },
-    "tiktok": {
-      "status": "error",
-      "reason": "HTTP 403"
     },
     "x_twitter": {
       "status": "success",
@@ -22,10 +18,6 @@
     "naver": {
       "status": "success",
       "items": 12
-    },
-    "reddit": {
-      "status": "success",
-      "items": 0
     },
     "pinterest": {
       "status": "success",
