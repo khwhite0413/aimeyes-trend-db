@@ -14,10 +14,8 @@ import importlib
 COLLECTORS = [
     "youtube",
     "google_trends",
-    "tiktok",
     "x_twitter",
     "naver",
-    "reddit",
     "pinterest",
 ]
 
