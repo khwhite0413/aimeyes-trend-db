@@ -1,6 +1,6 @@
 {
   "run_date": "2026-03-16",
-  "run_timestamp": "2026-03-16T07:38:19.358125+00:00",
+  "run_timestamp": "2026-03-16T10:03:40.967564+00:00",
   "mode": "fashion",
   "results": {
     "youtube": {
@@ -12,8 +12,8 @@
       "items": 45
     },
     "tiktok": {
-      "status": "skipped",
-      "reason": "TIKTOK_RAPIDAPI_KEY not set"
+      "status": "error",
+      "reason": "Invalid API response"
     },
     "x_twitter": {
       "status": "success",
