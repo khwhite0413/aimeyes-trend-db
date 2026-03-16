@@ -1,6 +1,7 @@
 {
   "platform": "tiktok",
   "status": "error",
-  "reason": "Invalid API response",
-  "collected_at": "2026-03-16T10:05:38.665889+00:00"
+  "reason": "HTTP 403",
+  "detail": "{\"message\":\"You are not subscribed to this API.\"}",
+  "collected_at": "2026-03-16T10:18:59.229359+00:00"
 }
