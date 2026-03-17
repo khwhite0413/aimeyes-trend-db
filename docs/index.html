@@ -268,6 +268,56 @@
       });
     }
 
+    function buildPlatformsForCountry(country, fashionData, generalData, fallbackPlatforms) {
+      if (country === 'CN') {
+        return PLATFORM_DEFS.map(def => ({ ...def, count: 0, active: false }));
+      }
+      return PLATFORM_DEFS.map((def, i) => {
+        let count = 0;
+        const fallback = fallbackPlatforms?.[i];
+
+        if (def.key === 'youtube') {
+          const cc = COUNTRY_YT_KEY[country];
+          const countYT = (ytData) => {
+            if (!ytData?.regions) return 0;
+            const trending = ytData.regions[`${cc}_trending`];
+            const search = ytData.regions[`${cc}_search`];
+            return (Array.isArray(trending) ? trending.length : 0) + (Array.isArray(search) ? search.length : 0);
+          };
+          count = countYT(fashionData?.youtube) + countYT(generalData?.youtube);
+        } else if (def.key === 'google_trends') {
+          const cc = COUNTRY_GT_KEY[country];
+          const countGT = (gtData) => {
+            if (!gtData?.countries?.[cc]) return 0;
+            const d = gtData.countries[cc];
+            const arr = d.all_trending || d.trending_fashion || [];
+            return Array.isArray(arr) ? arr.length : 0;
+          };
+          count = countGT(fashionData?.googleTrends) + countGT(generalData?.googleTrends);
+        } else if (def.key === 'x_twitter') {
+          const xtKey = COUNTRY_XT_KEY[country];
+          const countXT = (xtData) => {
+            if (!xtData?.countries?.[xtKey]) return 0;
+            const d = xtData.countries[xtKey];
+            const arr = d.all_trending || d.fashion_related || [];
+            return Array.isArray(arr) ? arr.length : 0;
+          };
+          count = countXT(fashionData?.xTwitter) + countXT(generalData?.xTwitter);
+        } else if (def.key === 'naver') {
+          if (country !== 'KR') {
+            return { ...def, count: 0, active: fallback?.active || false };
+          }
+          // For KR, use fallback (total) count since naver is KR-only
+          count = fallback?.count || 0;
+        } else if (def.key === 'pinterest') {
+          // Pinterest is global, use fallback count
+          count = fallback?.count || 0;
+        }
+
+        return { ...def, count, active: fallback?.active || count > 0 };
+      });
+    }
+
     function buildRecentCollections(fashionMeta, generalMeta) {
       const timestamp = fashionMeta?.run_timestamp || generalMeta?.run_timestamp || '';
       let timeStr = '--:--';
@@ -1160,9 +1210,15 @@
       const [activePlatform, setActivePlatform] = useState('youtube');
       const data = useData();
 
-      const platforms = data?.platforms || MOCK_PLATFORMS;
+      const basePlatforms = data?.platforms || MOCK_PLATFORMS;
       const activePlatformDef = PLATFORM_DEFS.find(p => p.key === activePlatform);
       const secondTab = PLATFORM_SECOND_TAB[activePlatform];
+
+      // Compute country-filtered platform counts
+      const platforms = useMemo(() => {
+        if (!data?.fashion && !data?.general) return basePlatforms;
+        return buildPlatformsForCountry(activeCountry, data.fashion, data.general, basePlatforms);
+      }, [activeCountry, data, basePlatforms]);
 
       // Compute keywords and second-tab data based on selected platform + country
       const keywordsFreq = useMemo(() => {
