@@ -85,6 +85,14 @@
     ::-webkit-scrollbar { width: 6px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: #858A9C40; border-radius: 3px; }
+    .loading-spinner {
+      border: 3px solid rgba(0,122,255,0.2);
+      border-top: 3px solid #007AFF;
+      border-radius: 50%;
+      width: 32px; height: 32px;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
   </style>
 </head>
 <body>
@@ -123,16 +131,382 @@
       );
     };
 
-    // ─── Data ───
-    const PLATFORMS = [
-      { name: 'YouTube', icon: 'play-circle', color: '#FF0000', count: 196, unit: 'videos collected' },
-      { name: 'Google Trends', icon: 'trending-up', color: '#4285F4', count: 30, unit: 'keywords tracked' },
-      { name: 'X (Twitter)', icon: 'twitter', color: '#1DA1F2', count: 170, unit: 'trending topics' },
-      { name: 'Naver', icon: 'search', color: '#03CF5D', count: 50, unit: 'search trends' },
-      { name: 'Pinterest', icon: 'pin', color: '#E60023', count: 25, unit: 'predictions' },
+    // ─── Data Fetching Layer ───
+    const DATA_BASE = '../data/';
+
+    function getRecentDates(count = 7) {
+      const dates = [];
+      const today = new Date();
+      for (let i = 0; i < count; i++) {
+        const d = new Date(today);
+        d.setDate(d.getDate() - i);
+        dates.push(d.toISOString().split('T')[0]);
+      }
+      return dates;
+    }
+
+    async function fetchJSON(url) {
+      const resp = await fetch(url);
+      if (!resp.ok) return null;
+      return resp.json();
+    }
+
+    async function discoverDates(count = 7) {
+      const candidates = getRecentDates(count);
+      const results = [];
+      for (const date of candidates) {
+        const meta = await fetchJSON(`${DATA_BASE}fashion/${date}/_meta.json`);
+        if (meta) results.push({ date, fashionMeta: meta });
+      }
+      return results;
+    }
+
+    async function loadAllData() {
+      const dates = getRecentDates(14);
+      const discovered = [];
+
+      // Fetch all fashion+general metas in parallel
+      const metaPromises = dates.map(async (date) => {
+        const [fashionMeta, generalMeta] = await Promise.all([
+          fetchJSON(`${DATA_BASE}fashion/${date}/_meta.json`),
+          fetchJSON(`${DATA_BASE}general/${date}/_meta.json`),
+        ]);
+        if (fashionMeta || generalMeta) {
+          return { date, fashionMeta, generalMeta };
+        }
+        return null;
+      });
+
+      const metaResults = (await Promise.all(metaPromises)).filter(Boolean);
+      metaResults.sort((a, b) => b.date.localeCompare(a.date));
+
+      if (metaResults.length === 0) return null;
+
+      const latestDate = metaResults[0].date;
+
+      // Fetch detailed data for latest date
+      const [youtube, googleTrends, xTwitter, naver, pinterest,
+             youtubeGen, googleTrendsGen, xTwitterGen, naverGen, pinterestGen] = await Promise.all([
+        fetchJSON(`${DATA_BASE}fashion/${latestDate}/youtube.json`),
+        fetchJSON(`${DATA_BASE}fashion/${latestDate}/google_trends.json`),
+        fetchJSON(`${DATA_BASE}fashion/${latestDate}/x_twitter.json`),
+        fetchJSON(`${DATA_BASE}fashion/${latestDate}/naver.json`),
+        fetchJSON(`${DATA_BASE}fashion/${latestDate}/pinterest.json`),
+        fetchJSON(`${DATA_BASE}general/${latestDate}/youtube.json`),
+        fetchJSON(`${DATA_BASE}general/${latestDate}/google_trends.json`),
+        fetchJSON(`${DATA_BASE}general/${latestDate}/x_twitter.json`),
+        fetchJSON(`${DATA_BASE}general/${latestDate}/naver.json`),
+        fetchJSON(`${DATA_BASE}general/${latestDate}/pinterest.json`),
+      ]);
+
+      return {
+        metaResults,
+        latestDate,
+        latestFashionMeta: metaResults[0].fashionMeta,
+        latestGeneralMeta: metaResults[0].generalMeta,
+        fashion: { youtube, googleTrends, xTwitter, naver, pinterest },
+        general: { youtube: youtubeGen, googleTrends: googleTrendsGen, xTwitter: xTwitterGen, naver: naverGen, pinterest: pinterestGen },
+      };
+    }
+
+    // ─── Data Processing ───
+    function buildPlatforms(fashionMeta, generalMeta) {
+      const platformDefs = [
+        { key: 'youtube', name: 'YouTube', icon: 'play-circle', color: '#FF0000', unit: 'videos collected' },
+        { key: 'google_trends', name: 'Google Trends', icon: 'trending-up', color: '#4285F4', unit: 'keywords tracked' },
+        { key: 'x_twitter', name: 'X (Twitter)', icon: 'twitter', color: '#1DA1F2', unit: 'trending topics' },
+        { key: 'naver', name: 'Naver', icon: 'search', color: '#03CF5D', unit: 'search trends' },
+        { key: 'pinterest', name: 'Pinterest', icon: 'pin', color: '#E60023', unit: 'predictions' },
+      ];
+
+      return platformDefs.map(def => {
+        const fItems = fashionMeta?.results?.[def.key]?.items || 0;
+        const gItems = generalMeta?.results?.[def.key]?.items || 0;
+        const fStatus = fashionMeta?.results?.[def.key]?.status || 'unknown';
+        const gStatus = generalMeta?.results?.[def.key]?.status || 'unknown';
+        const active = fStatus === 'success' || gStatus === 'success';
+        return { ...def, count: fItems + gItems, active };
+      });
+    }
+
+    function buildRecentCollections(fashionMeta, generalMeta) {
+      const platformDefs = [
+        { key: 'youtube', name: 'YouTube' },
+        { key: 'google_trends', name: 'Google Trends' },
+        { key: 'x_twitter', name: 'X (Twitter)' },
+        { key: 'naver', name: 'Naver' },
+        { key: 'pinterest', name: 'Pinterest' },
+      ];
+
+      const timestamp = fashionMeta?.run_timestamp || generalMeta?.run_timestamp || '';
+      let timeStr = '--:--';
+      if (timestamp) {
+        const d = new Date(timestamp);
+        const hours = String(d.getUTCHours() + 9).padStart(2, '0'); // KST
+        const mins = String(d.getUTCMinutes()).padStart(2, '0');
+        timeStr = `${hours > 23 ? String(hours - 24).padStart(2, '0') : hours}:${mins}`;
+      }
+
+      return platformDefs.map(def => {
+        const fItems = fashionMeta?.results?.[def.key]?.items || 0;
+        const gItems = generalMeta?.results?.[def.key]?.items || 0;
+        return { name: def.name, count: fItems + gItems, time: timeStr };
+      });
+    }
+
+    function extractKeywordsFromYouTube(fashionYT, generalYT) {
+      const titles = [];
+      const collectTitles = (ytData) => {
+        if (!ytData?.regions) return;
+        for (const regionKey of Object.keys(ytData.regions)) {
+          for (const video of ytData.regions[regionKey]) {
+            if (video.title) titles.push(video.title);
+          }
+        }
+      };
+      collectTitles(fashionYT);
+      collectTitles(generalYT);
+
+      // Extract words: hashtags and meaningful words
+      const freq = {};
+      const stopWords = new Set(['the','a','an','and','or','is','in','at','to','for','of','on','it',
+        'my','me','i','you','he','she','we','they','this','that','with','from','by','as','be',
+        'was','are','were','been','do','does','did','have','has','had','will','would','could',
+        'should','may','might','can','shall','its','his','her','our','your','their','not','no',
+        'but','if','than','then','so','up','out','about','into','over','after','before','all',
+        'just','also','how','what','when','where','which','who','why','very','only','now','new',
+        'one','two','more','some','any','each','every','much','many','most','other','been','being',
+        '|','-','&','the','de','la','le','les','des','du','et','en','un','une','au','que','qui',
+        'est','sur','pas','pour','ce','il','se','ne','son','sa','ses','ou','mais','comme','tout',
+        'plus','avec','dans','par','nous','vous','ils','elle','on','dit','fait','va','bien','même',
+        'encore','là','peu','trop','très','rien','car','donc','ni','sans','vers','chez','après',
+        '','–','—','...','「','」','【','】','『','』','(',')','[',']']);
+
+      for (const title of titles) {
+        // Extract hashtags
+        const hashtags = title.match(/#[^\s#]+/g) || [];
+        for (const tag of hashtags) {
+          const normalized = tag.toLowerCase();
+          if (normalized.length > 2) {
+            freq[normalized] = (freq[normalized] || 0) + 1;
+          }
+        }
+
+        // Extract meaningful words (3+ chars, non-numeric)
+        const words = title.replace(/[^\w\s가-힣ぁ-ヿ㐀-䶵一-鿋豈-頻々〇〻\u3400-\u9FFF#]/g, ' ').split(/\s+/);
+        for (const w of words) {
+          if (w.startsWith('#')) continue; // already handled
+          const lower = w.toLowerCase();
+          if (lower.length >= 3 && !stopWords.has(lower) && !/^\d+$/.test(lower)) {
+            freq[lower] = (freq[lower] || 0) + 1;
+          }
+        }
+      }
+
+      // Sort by frequency, take top 5
+      const sorted = Object.entries(freq)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 5);
+
+      const totalCount = sorted.reduce((s, [, c]) => s + c, 0);
+      const colors = ['#007AFF', '#34C759', '#FFD60A', '#AF52DE', '#FF4D40'];
+
+      return sorted.map(([label, count], i) => ({
+        label,
+        value: totalCount > 0 ? Math.round((count / totalCount) * 100) : 0,
+        count,
+        color: colors[i],
+        platforms: 'YouTube',
+      }));
+    }
+
+    function extractViewsFromYouTube(fashionYT, generalYT) {
+      // Group videos by keywords found in titles, sum views
+      const groups = {};
+      const processYT = (ytData) => {
+        if (!ytData?.regions) return;
+        for (const regionKey of Object.keys(ytData.regions)) {
+          for (const video of ytData.regions[regionKey]) {
+            const views = video.views || 0;
+            if (views === 0) continue;
+            // Extract primary keyword (hashtag or first meaningful word sequence)
+            const hashtags = (video.title || '').match(/#[^\s#]+/g) || [];
+            let keyword = hashtags[0]?.toLowerCase();
+            if (!keyword) {
+              // Use channel or title start as grouping key
+              const words = (video.title || '').split(/\s+/).slice(0, 2).join(' ');
+              keyword = words.length > 1 ? words : video.channel || 'other';
+            }
+            if (keyword.length > 20) keyword = keyword.substring(0, 20);
+            if (!groups[keyword]) groups[keyword] = { views: 0, videos: 0 };
+            groups[keyword].views += views;
+            groups[keyword].videos += 1;
+          }
+        }
+      };
+      processYT(fashionYT);
+      processYT(generalYT);
+
+      const sorted = Object.entries(groups)
+        .sort((a, b) => b[1].views - a[1].views)
+        .slice(0, 7);
+
+      // Add "other" for the rest
+      const topKeys = new Set(sorted.map(([k]) => k));
+      let otherViews = 0, otherVideos = 0;
+      for (const [k, v] of Object.entries(groups)) {
+        if (!topKeys.has(k)) { otherViews += v.views; otherVideos += v.videos; }
+      }
+
+      const totalViews = sorted.reduce((s, [, v]) => s + v.views, 0) + otherViews;
+      const colors = ['#007AFF', '#34C759', '#FF4D40', '#FFD60A', '#FF9500', '#AF52DE', '#5AC8FA', '#636366'];
+
+      const formatViews = (v) => {
+        if (v >= 1000000) return `${(v / 1000000).toFixed(1)}M`;
+        if (v >= 1000) return `${(v / 1000).toFixed(0)}K`;
+        return String(v);
+      };
+
+      const result = sorted.map(([label, data], i) => ({
+        label,
+        views: data.views,
+        viewsStr: formatViews(data.views),
+        pct: totalViews > 0 ? Math.round((data.views / totalViews) * 1000) / 10 : 0,
+        videos: data.videos,
+        color: colors[i],
+      }));
+
+      if (otherViews > 0) {
+        result.push({
+          label: '기타',
+          views: otherViews,
+          viewsStr: formatViews(otherViews),
+          pct: totalViews > 0 ? Math.round((otherViews / totalViews) * 1000) / 10 : 0,
+          videos: otherVideos,
+          color: colors[7],
+        });
+      }
+
+      return result;
+    }
+
+    function buildHistory(metaResults) {
+      // Build bar chart data from available dates (up to 7 most recent)
+      const recent = metaResults.slice(0, 7).reverse();
+      return recent.map(({ date, fashionMeta, generalMeta }) => {
+        const fResults = fashionMeta?.results || {};
+        const gResults = generalMeta?.results || {};
+        let success = 0, fail = 0;
+
+        for (const plat of ['youtube', 'google_trends', 'x_twitter', 'naver', 'pinterest']) {
+          if (fResults[plat]?.status === 'success') success++; else if (fResults[plat]) fail++;
+          if (gResults[plat]?.status === 'success') success++; else if (gResults[plat]) fail++;
+        }
+
+        const parts = date.split('-');
+        const shortDate = `${parseInt(parts[1])}/${parseInt(parts[2])}`;
+        return { date: shortDate, success, fail };
+      });
+    }
+
+    function buildPlatformRates(metaResults) {
+      const platformDefs = [
+        { key: 'youtube', name: 'YouTube' },
+        { key: 'google_trends', name: 'Google Trends' },
+        { key: 'x_twitter', name: 'X (Twitter)' },
+        { key: 'naver', name: 'Naver' },
+        { key: 'pinterest', name: 'Pinterest' },
+      ];
+
+      return platformDefs.map(def => {
+        let total = 0, successes = 0;
+        for (const { fashionMeta, generalMeta } of metaResults) {
+          if (fashionMeta?.results?.[def.key]) {
+            total++;
+            if (fashionMeta.results[def.key].status === 'success') successes++;
+          }
+          if (generalMeta?.results?.[def.key]) {
+            total++;
+            if (generalMeta.results[def.key].status === 'success') successes++;
+          }
+        }
+        const rate = total > 0 ? Math.round((successes / total) * 100) : 0;
+        const color = rate >= 95 ? '#34C759' : rate >= 85 ? '#FFD60A' : '#FF9500';
+        return { name: def.name, rate, color };
+      });
+    }
+
+    function buildMonitoringStats(metaResults, latestMeta) {
+      let totalCollections = 0, totalSuccess = 0;
+      for (const { fashionMeta, generalMeta } of metaResults) {
+        for (const plat of ['youtube', 'google_trends', 'x_twitter', 'naver', 'pinterest']) {
+          if (fashionMeta?.results?.[plat]) {
+            totalCollections++;
+            if (fashionMeta.results[plat].status === 'success') totalSuccess++;
+          }
+          if (generalMeta?.results?.[plat]) {
+            totalCollections++;
+            if (generalMeta.results[plat].status === 'success') totalSuccess++;
+          }
+        }
+      }
+
+      const errors = totalCollections - totalSuccess;
+      const rate = totalCollections > 0 ? ((totalSuccess / totalCollections) * 100).toFixed(1) : '0.0';
+
+      // Last collection time from latest meta
+      const timestamp = latestMeta?.run_timestamp || '';
+      let lastTime = '--:--', lastDate = '--';
+      if (timestamp) {
+        const d = new Date(timestamp);
+        const kstHour = d.getUTCHours() + 9;
+        const hour = kstHour >= 24 ? kstHour - 24 : kstHour;
+        lastTime = `${String(hour).padStart(2, '0')}:${String(d.getUTCMinutes()).padStart(2, '0')}`;
+        const kstDate = new Date(d.getTime() + 9 * 60 * 60 * 1000);
+        lastDate = kstDate.toISOString().split('T')[0] + ' KST';
+      }
+
+      return {
+        totalCollections,
+        totalSuccess,
+        rate,
+        errors,
+        lastTime,
+        lastDate,
+      };
+    }
+
+    function buildErrors(metaResults) {
+      // Find recent failed collections
+      const errors = [];
+      for (const { date, fashionMeta, generalMeta } of metaResults) {
+        for (const plat of ['youtube', 'google_trends', 'x_twitter', 'naver', 'pinterest']) {
+          const platNames = { youtube: 'YouTube', google_trends: 'Google Trends', x_twitter: 'X (Twitter)', naver: 'Naver', pinterest: 'Pinterest' };
+          if (fashionMeta?.results?.[plat] && fashionMeta.results[plat].status !== 'success') {
+            const ts = fashionMeta.run_timestamp || '';
+            const timeStr = ts ? new Date(ts).toLocaleString('ko-KR', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : date;
+            errors.push({ platform: platNames[plat], time: timeStr, msg: `Status: ${fashionMeta.results[plat].status} (fashion mode)` });
+          }
+          if (generalMeta?.results?.[plat] && generalMeta.results[plat].status !== 'success') {
+            const ts = generalMeta.run_timestamp || '';
+            const timeStr = ts ? new Date(ts).toLocaleString('ko-KR', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : date;
+            errors.push({ platform: platNames[plat], time: timeStr, msg: `Status: ${generalMeta.results[plat].status} (general mode)` });
+          }
+        }
+      }
+      return errors.slice(0, 5); // Show max 5 recent errors
+    }
+
+    // ─── Fallback Mock Data ───
+    const MOCK_PLATFORMS = [
+      { name: 'YouTube', icon: 'play-circle', color: '#FF0000', count: 196, unit: 'videos collected', active: true },
+      { name: 'Google Trends', icon: 'trending-up', color: '#4285F4', count: 30, unit: 'keywords tracked', active: true },
+      { name: 'X (Twitter)', icon: 'twitter', color: '#1DA1F2', count: 170, unit: 'trending topics', active: true },
+      { name: 'Naver', icon: 'search', color: '#03CF5D', count: 50, unit: 'search trends', active: true },
+      { name: 'Pinterest', icon: 'pin', color: '#E60023', count: 25, unit: 'predictions', active: true },
     ];
 
-    const KEYWORDS_FREQ = [
+    const MOCK_KEYWORDS_FREQ = [
       { label: '#패션트렌드', value: 32, count: 152, color: '#007AFF', platforms: 'YouTube, X, Naver' },
       { label: '#여름코디', value: 20, count: 95, color: '#34C759', platforms: 'YouTube, Naver' },
       { label: '#lookbook', value: 16, count: 76, color: '#FFD60A', platforms: 'YouTube, Pinterest' },
@@ -140,8 +514,8 @@
       { label: '#ootd 외', value: 20, count: 91, color: '#FF4D40', platforms: 'YouTube, X, Naver, Pinterest' },
     ];
 
-    const KEYWORDS_VIEWS = [
-      { label: '#패션트렌드', views: 1200000, viewsStr: '1.2M views', pct: 27.4, videos: 38, color: '#007AFF' },
+    const MOCK_KEYWORDS_VIEWS = [
+      { label: '#패션트렌드', views: 1200000, viewsStr: '1.2M', pct: 27.4, videos: 38, color: '#007AFF' },
       { label: '#여름코디', views: 820000, viewsStr: '820K', pct: 18.7, videos: 24, color: '#34C759' },
       { label: '#ootd', views: 680000, viewsStr: '680K', pct: 15.5, videos: 31, color: '#FF4D40' },
       { label: '#lookbook', views: 540000, viewsStr: '540K', pct: 12.3, videos: 18, color: '#FFD60A' },
@@ -151,7 +525,7 @@
       { label: '기타', views: 210000, viewsStr: '210K', pct: 4.8, videos: 7, color: '#636366' },
     ];
 
-    const HISTORY = [
+    const MOCK_HISTORY = [
       { date: '3/11', success: 48, fail: 0 },
       { date: '3/12', success: 46, fail: 2 },
       { date: '3/13', success: 50, fail: 0 },
@@ -161,19 +535,12 @@
       { date: '3/17', success: 45, fail: 2 },
     ];
 
-    const PLATFORM_RATES = [
-      { name: 'YouTube', rate: 100, color: '#34C759' },
-      { name: 'Google Trends', rate: 98, color: '#34C759' },
-      { name: 'X (Twitter)', rate: 95, color: '#34C759' },
-      { name: 'Naver', rate: 92, color: '#FFD60A' },
-      { name: 'Pinterest', rate: 88, color: '#FF9500' },
-    ];
+    // ─── Data Context ───
+    const DataContext = React.createContext(null);
 
-    const ERRORS = [
-      { platform: 'Pinterest', time: '3/14 09:01', msg: 'HTTP 429: Rate limit exceeded' },
-      { platform: 'Naver', time: '3/12 23:02', msg: 'Timeout: Connection timed out (15s)' },
-      { platform: 'X (Twitter)', time: '3/10 09:03', msg: 'HTTP 503: Service temporarily unavailable' },
-    ];
+    function useData() {
+      return React.useContext(DataContext);
+    }
 
     // ─── Toggle Switch ───
     function ToggleSwitch({ isDark, onToggle }) {
@@ -189,6 +556,16 @@
           </div>
           <Icon name="moon" size={15} color={isDark ? '#007AFF' : '#858A9C'} />
         </button>
+      );
+    }
+
+    // ─── Loading Spinner ───
+    function LoadingSpinner({ message }) {
+      return (
+        <div className="flex-1 flex flex-col items-center justify-center gap-4 page-enter">
+          <div className="loading-spinner" />
+          <span className="text-sm dark:text-gray-400 text-gray-500">{message || '데이터 로딩 중...'}</span>
+        </div>
       );
     }
 
@@ -287,10 +664,12 @@
         { x: 84.2, y: 57.7, w: 15.8, h: 42.3 },
       ];
 
+      const displayData = data.slice(0, layout.length);
+
       return (
         <div className="relative w-full h-[260px] rounded-lg overflow-hidden"
           onMouseMove={handleMouseMove} onMouseLeave={() => setHovered(null)}>
-          {data.map((item, i) => (
+          {displayData.map((item, i) => (
             <div key={i}
               className="treemap-block absolute p-2.5 cursor-pointer overflow-hidden"
               style={{
@@ -306,15 +685,15 @@
           ))}
           <Tooltip visible={hovered !== null} x={mousePos.x} y={mousePos.y}>
             {hovered !== null && (<>
-              <div className="font-semibold text-[13px] mb-1.5">{data[hovered].label}</div>
+              <div className="font-semibold text-[13px] mb-1.5">{displayData[hovered].label}</div>
               <div className="flex items-center gap-2 text-white/80 mb-0.5">
-                <Icon name="eye" size={11} color="#858A9C" /> 총 조회수: {data[hovered].views.toLocaleString()}
+                <Icon name="eye" size={11} color="#858A9C" /> 총 조회수: {displayData[hovered].views.toLocaleString()}
               </div>
               <div className="flex items-center gap-2 text-white/80 mb-0.5">
-                <Icon name="film" size={11} color="#858A9C" /> 영상 수: {data[hovered].videos}개
+                <Icon name="film" size={11} color="#858A9C" /> 영상 수: {displayData[hovered].videos}개
               </div>
               <div className="flex items-center gap-2 text-white/80">
-                <Icon name="percent" size={11} color="#858A9C" /> 비율: {data[hovered].pct}%
+                <Icon name="percent" size={11} color="#858A9C" /> 비율: {displayData[hovered].pct}%
               </div>
             </>)}
           </Tooltip>
@@ -364,8 +743,10 @@
           <div className="text-[32px] font-bold dark:text-white text-gray-900 leading-none">{platform.count}</div>
           <div className="text-xs dark:text-gray-400 text-gray-500 mt-1">{platform.unit}</div>
           <div className="flex items-center gap-1.5 mt-3">
-            <div className="w-2 h-2 rounded-full bg-green-500" />
-            <span className="text-xs font-medium text-green-500">Active</span>
+            <div className={`w-2 h-2 rounded-full ${platform.active ? 'bg-green-500' : 'bg-red-500'}`} />
+            <span className={`text-xs font-medium ${platform.active ? 'text-green-500' : 'text-red-500'}`}>
+              {platform.active ? 'Active' : 'Error'}
+            </span>
           </div>
         </div>
       );
@@ -374,17 +755,26 @@
     // ─── Trend Overview Tab ───
     function TrendOverview() {
       const [chartTab, setChartTab] = useState('freq');
+      const data = useData();
+
+      const platforms = data?.platforms || MOCK_PLATFORMS;
+      const keywordsFreq = data?.keywordsFreq?.length > 0 ? data.keywordsFreq : MOCK_KEYWORDS_FREQ;
+      const keywordsViews = data?.keywordsViews?.length > 0 ? data.keywordsViews : MOCK_KEYWORDS_VIEWS;
+      const recentCollections = data?.recentCollections || platforms.map(p => ({ name: p.name, count: p.count, time: '09:00' }));
+
       return (
         <div className="page-enter flex flex-col gap-6 flex-1">
           <div className="flex gap-4">
-            {PLATFORMS.map((p, i) => <PlatformCard key={p.name} platform={p} index={i} />)}
+            {platforms.map((p, i) => <PlatformCard key={p.name} platform={p} index={i} />)}
           </div>
           <div className="flex gap-4 flex-1 min-h-0">
             <div className="flex-1 dark:bg-navy-card bg-white rounded-xl p-6
               dark:border-navy-border border-gray-200 border flex flex-col gap-4">
               <div className="flex items-center justify-between">
                 <span className="text-lg font-semibold dark:text-white text-gray-900">Trending Keywords</span>
-                <span className="text-[11px] font-semibold text-white bg-brand-blue rounded-full px-3 py-1">Live</span>
+                <span className="text-[11px] font-semibold text-white bg-brand-blue rounded-full px-3 py-1">
+                  {data ? 'Live' : 'Mock'}
+                </span>
               </div>
               <div className="flex dark:bg-navy bg-gray-100 rounded-lg p-0.5">
                 <button onClick={() => setChartTab('freq')}
@@ -401,9 +791,9 @@
               <div className="flex-1 flex items-center">
                 {chartTab === 'freq' ? (
                   <div className="page-enter flex items-center gap-8 w-full" key="freq">
-                    <DonutChart data={KEYWORDS_FREQ} totalLabel="total" />
+                    <DonutChart data={keywordsFreq} totalLabel="total" />
                     <div className="flex-1 flex flex-col gap-3.5">
-                      {KEYWORDS_FREQ.map((kw, i) => (
+                      {keywordsFreq.map((kw, i) => (
                         <div key={i} className="flex items-center gap-2.5">
                           <div className="w-2.5 h-2.5 rounded-full flex-shrink-0" style={{ backgroundColor: kw.color }} />
                           <span className="flex-1 text-[13px] dark:text-white text-gray-900">{kw.label}</span>
@@ -414,24 +804,29 @@
                   </div>
                 ) : (
                   <div className="page-enter w-full" key="views">
-                    <Treemap data={KEYWORDS_VIEWS} />
+                    <Treemap data={keywordsViews} />
                   </div>
                 )}
               </div>
             </div>
             <div className="w-[340px] dark:bg-navy-card bg-white rounded-xl p-6
               dark:border-navy-border border-gray-200 border flex flex-col gap-4">
-              <span className="text-lg font-semibold dark:text-white text-gray-900">Recent Collections</span>
+              <div className="flex items-center justify-between">
+                <span className="text-lg font-semibold dark:text-white text-gray-900">Recent Collections</span>
+                {data && (
+                  <span className="text-[11px] dark:text-gray-400 text-gray-500">{data.latestDate}</span>
+                )}
+              </div>
               <div className="flex dark:border-b-navy-border border-b-gray-200 border-b pb-2">
                 <span className="flex-1 text-xs font-semibold dark:text-gray-400 text-gray-500">Platform</span>
                 <span className="w-14 text-xs font-semibold dark:text-gray-400 text-gray-500">Items</span>
                 <span className="w-16 text-xs font-semibold dark:text-gray-400 text-gray-500 text-right">Time</span>
               </div>
-              {PLATFORMS.map((p, i) => (
+              {recentCollections.map((p, i) => (
                 <div key={i} className="flex items-center py-1">
                   <span className="flex-1 text-[13px] dark:text-white text-gray-900">{p.name}</span>
                   <span className="w-14 text-[13px] font-semibold text-brand-blue">{p.count}</span>
-                  <span className="w-16 text-[13px] dark:text-gray-400 text-gray-500 text-right">09:00</span>
+                  <span className="w-16 text-[13px] dark:text-gray-400 text-gray-500 text-right">{p.time}</span>
                 </div>
               ))}
             </div>
@@ -442,12 +837,49 @@
 
     // ─── Monitoring Tab ───
     function Monitoring() {
-      const stats = [
-        { icon: 'refresh-cw', label: '총 수집 횟수', value: '348', sub: '최근 30일', color: 'dark:text-white text-gray-900', iconColor: '#858A9C' },
-        { icon: 'check-circle', label: '성공률', value: '96.8%', sub: '337 / 348 성공', color: 'text-green-500', iconColor: '#34C759' },
-        { icon: 'clock', label: '마지막 수집', value: '09:02', sub: '2026-03-17 KST', color: 'dark:text-white text-gray-900', iconColor: '#858A9C' },
-        { icon: 'alert-triangle', label: '에러 발생', value: '11', sub: '최근 30일', color: 'text-orange-500', iconColor: '#FF9500' },
+      const data = useData();
+
+      const monStats = data?.monitoringStats;
+      const history = data?.history?.length > 0 ? data.history : MOCK_HISTORY;
+      const platformRates = data?.platformRates || [
+        { name: 'YouTube', rate: 100, color: '#34C759' },
+        { name: 'Google Trends', rate: 98, color: '#34C759' },
+        { name: 'X (Twitter)', rate: 95, color: '#34C759' },
+        { name: 'Naver', rate: 92, color: '#FFD60A' },
+        { name: 'Pinterest', rate: 88, color: '#FF9500' },
       ];
+      const errors = data?.errors || [
+        { platform: 'Pinterest', time: '3/14 09:01', msg: 'HTTP 429: Rate limit exceeded' },
+        { platform: 'Naver', time: '3/12 23:02', msg: 'Timeout: Connection timed out (15s)' },
+      ];
+
+      const stats = [
+        {
+          icon: 'refresh-cw', label: '총 수집 횟수',
+          value: monStats ? String(monStats.totalCollections) : '348',
+          sub: monStats ? `${data.metaResults.length}일간 데이터` : '최근 30일',
+          color: 'dark:text-white text-gray-900', iconColor: '#858A9C',
+        },
+        {
+          icon: 'check-circle', label: '성공률',
+          value: monStats ? `${monStats.rate}%` : '96.8%',
+          sub: monStats ? `${monStats.totalSuccess} / ${monStats.totalCollections} 성공` : '337 / 348 성공',
+          color: 'text-green-500', iconColor: '#34C759',
+        },
+        {
+          icon: 'clock', label: '마지막 수집',
+          value: monStats ? monStats.lastTime : '09:02',
+          sub: monStats ? monStats.lastDate : '2026-03-17 KST',
+          color: 'dark:text-white text-gray-900', iconColor: '#858A9C',
+        },
+        {
+          icon: 'alert-triangle', label: '에러 발생',
+          value: monStats ? String(monStats.errors) : '11',
+          sub: monStats ? `${data.metaResults.length}일간 데이터` : '최근 30일',
+          color: 'text-orange-500', iconColor: '#FF9500',
+        },
+      ];
+
       return (
         <div className="page-enter flex flex-col gap-6 flex-1">
           <div className="flex gap-4">
@@ -468,16 +900,24 @@
             <div className="flex-1 dark:bg-navy-card bg-white rounded-xl p-6
               dark:border-navy-border border-gray-200 border flex flex-col gap-4">
               <div className="flex items-center justify-between">
-                <span className="text-base font-semibold dark:text-white text-gray-900">수집 히스토리 (7일)</span>
-                <span className="text-[11px] font-semibold text-green-500 bg-green-500/10 rounded-full px-3 py-1">정상</span>
+                <span className="text-base font-semibold dark:text-white text-gray-900">
+                  수집 히스토리 ({history.length}일)
+                </span>
+                <span className={`text-[11px] font-semibold rounded-full px-3 py-1 ${
+                  (monStats?.errors || 0) === 0
+                    ? 'text-green-500 bg-green-500/10'
+                    : 'text-orange-500 bg-orange-500/10'
+                }`}>
+                  {(monStats?.errors || 0) === 0 ? '정상' : `에러 ${monStats?.errors || 0}건`}
+                </span>
               </div>
-              <BarChart data={HISTORY} />
+              <BarChart data={history} />
             </div>
             <div className="w-[380px] dark:bg-navy-card bg-white rounded-xl p-5
               dark:border-navy-border border-gray-200 border flex flex-col gap-3 overflow-auto">
               <span className="text-base font-semibold dark:text-white text-gray-900">플랫폼별 성공률</span>
               <div className="dark:border-b-navy-border border-b-gray-200 border-b" />
-              {PLATFORM_RATES.map((p, i) => (
+              {platformRates.map((p, i) => (
                 <div key={i} className="flex flex-col gap-1.5">
                   <div className="flex justify-between">
                     <span className="text-[13px] dark:text-white text-gray-900">{p.name}</span>
@@ -490,15 +930,22 @@
               ))}
               <div className="dark:border-b-navy-border border-b-gray-200 border-b mt-1" />
               <span className="text-sm font-semibold dark:text-white text-gray-900">최근 에러</span>
-              {ERRORS.map((err, i) => (
-                <div key={i} className="flex flex-col gap-1 rounded-lg bg-red-500/10 p-2.5">
-                  <div className="flex justify-between">
-                    <span className="text-xs font-semibold text-brand-red">{err.platform}</span>
-                    <span className="text-[11px] dark:text-gray-400 text-gray-500">{err.time}</span>
-                  </div>
-                  <span className="text-[11px] dark:text-gray-300 text-gray-600">{err.msg}</span>
+              {errors.length === 0 ? (
+                <div className="flex items-center gap-2 rounded-lg bg-green-500/10 p-2.5">
+                  <Icon name="check-circle" size={14} color="#34C759" />
+                  <span className="text-[12px] text-green-500 font-medium">에러 없음 - 모든 수집 정상</span>
                 </div>
-              ))}
+              ) : (
+                errors.map((err, i) => (
+                  <div key={i} className="flex flex-col gap-1 rounded-lg bg-red-500/10 p-2.5">
+                    <div className="flex justify-between">
+                      <span className="text-xs font-semibold text-brand-red">{err.platform}</span>
+                      <span className="text-[11px] dark:text-gray-400 text-gray-500">{err.time}</span>
+                    </div>
+                    <span className="text-[11px] dark:text-gray-300 text-gray-600">{err.msg}</span>
+                  </div>
+                ))
+              )}
             </div>
           </div>
         </div>
@@ -509,10 +956,51 @@
     function App() {
       const [isDark, setIsDark] = useState(true);
       const [activeTab, setActiveTab] = useState('trend');
+      const [dashData, setDashData] = useState(null);
+      const [loading, setLoading] = useState(true);
 
       useEffect(() => {
         document.documentElement.classList.toggle('dark', isDark);
       }, [isDark]);
+
+      useEffect(() => {
+        let cancelled = false;
+        setLoading(true);
+
+        loadAllData().then(result => {
+          if (cancelled) return;
+
+          if (result) {
+            const platforms = buildPlatforms(result.latestFashionMeta, result.latestGeneralMeta);
+            const recentCollections = buildRecentCollections(result.latestFashionMeta, result.latestGeneralMeta);
+            const keywordsFreq = extractKeywordsFromYouTube(result.fashion.youtube, result.general.youtube);
+            const keywordsViews = extractViewsFromYouTube(result.fashion.youtube, result.general.youtube);
+            const history = buildHistory(result.metaResults);
+            const platformRates = buildPlatformRates(result.metaResults);
+            const monitoringStats = buildMonitoringStats(result.metaResults, result.latestFashionMeta);
+            const errors = buildErrors(result.metaResults);
+
+            setDashData({
+              latestDate: result.latestDate,
+              metaResults: result.metaResults,
+              platforms,
+              recentCollections,
+              keywordsFreq,
+              keywordsViews,
+              history,
+              platformRates,
+              monitoringStats,
+              errors,
+            });
+          }
+          setLoading(false);
+        }).catch(err => {
+          console.error('Failed to load data:', err);
+          if (!cancelled) setLoading(false);
+        });
+
+        return () => { cancelled = true; };
+      }, []);
 
       const tabs = [
         { id: 'trend', label: '트렌드 현황', icon: 'trending-up' },
@@ -520,55 +1008,73 @@
       ];
 
       const today = new Date().toLocaleDateString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric' });
+      const platformCount = dashData?.platforms?.length || 5;
 
       return (
-        <div className="flex h-screen dark:bg-navy bg-gray-50 font-inter overflow-hidden max-w-[1440px] mx-auto">
-          {/* Sidebar */}
-          <div className="w-60 flex-shrink-0 dark:bg-navy-dark bg-white flex flex-col
-            dark:border-r-navy-border border-r-gray-200 border-r p-5 gap-2">
-            <div className="flex items-center gap-2.5 pb-4">
-              <div className="w-8 h-8 rounded-lg bg-brand-red flex items-center justify-center">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
-                  <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/>
-                </svg>
+        <DataContext.Provider value={dashData}>
+          <div className="flex h-screen dark:bg-navy bg-gray-50 font-inter overflow-hidden max-w-[1440px] mx-auto">
+            {/* Sidebar */}
+            <div className="w-60 flex-shrink-0 dark:bg-navy-dark bg-white flex flex-col
+              dark:border-r-navy-border border-r-gray-200 border-r p-5 gap-2">
+              <div className="flex items-center gap-2.5 pb-4">
+                <div className="w-8 h-8 rounded-lg bg-brand-red flex items-center justify-center">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/>
+                  </svg>
+                </div>
+                <span className="text-lg font-bold dark:text-white text-gray-900 tracking-tight">AIMEYES</span>
               </div>
-              <span className="text-lg font-bold dark:text-white text-gray-900 tracking-tight">AIMEYES</span>
+              <div className="h-px dark:bg-navy-border bg-gray-200" />
+              <div className="mt-2 flex flex-col gap-1">
+                <span className="text-[11px] font-semibold dark:text-gray-400 text-gray-500 tracking-wider px-3 mb-1">MENU</span>
+                {tabs.map(tab => (
+                  <button key={tab.id}
+                    onClick={() => setActiveTab(tab.id)}
+                    className={`nav-item flex items-center gap-2.5 px-3 py-2.5 rounded-lg w-full text-left text-sm
+                      ${activeTab === tab.id
+                        ? 'bg-brand-blue text-white font-medium'
+                        : 'dark:text-gray-300 text-gray-600 dark:hover:bg-navy-card hover:bg-gray-100'}`}>
+                    <Icon name={tab.icon} size={18} color={activeTab === tab.id ? '#fff' : '#858A9C'} />
+                    {tab.label}
+                  </button>
+                ))}
+              </div>
+              {/* Data source indicator */}
+              <div className="mt-auto pt-4">
+                <div className="h-px dark:bg-navy-border bg-gray-200 mb-3" />
+                <div className="flex items-center gap-2 px-3">
+                  <div className={`w-2 h-2 rounded-full ${dashData ? 'bg-green-500' : loading ? 'bg-yellow-500' : 'bg-gray-400'}`} />
+                  <span className="text-[11px] dark:text-gray-400 text-gray-500">
+                    {dashData ? `Live Data (${dashData.latestDate})` : loading ? 'Loading...' : 'Mock Data'}
+                  </span>
+                </div>
+              </div>
             </div>
-            <div className="h-px dark:bg-navy-border bg-gray-200" />
-            <div className="mt-2 flex flex-col gap-1">
-              <span className="text-[11px] font-semibold dark:text-gray-400 text-gray-500 tracking-wider px-3 mb-1">MENU</span>
-              {tabs.map(tab => (
-                <button key={tab.id}
-                  onClick={() => setActiveTab(tab.id)}
-                  className={`nav-item flex items-center gap-2.5 px-3 py-2.5 rounded-lg w-full text-left text-sm
-                    ${activeTab === tab.id
-                      ? 'bg-brand-blue text-white font-medium'
-                      : 'dark:text-gray-300 text-gray-600 dark:hover:bg-navy-card hover:bg-gray-100'}`}>
-                  <Icon name={tab.icon} size={18} color={activeTab === tab.id ? '#fff' : '#858A9C'} />
-                  {tab.label}
-                </button>
-              ))}
-            </div>
-          </div>
 
-          {/* Main Content */}
-          <div className="flex-1 flex flex-col p-8 overflow-auto min-w-0">
-            <div className="flex items-center justify-between mb-6">
-              <div>
-                <h1 className="text-[28px] font-bold dark:text-white text-gray-900 tracking-tight">
-                  {activeTab === 'trend' ? '트렌드 현황' : '수집 모니터링'}
-                </h1>
-                <p className="text-[13px] dark:text-gray-400 text-gray-500 mt-1">
-                  {activeTab === 'trend'
-                    ? `${today} 기준 · 5개 플랫폼 수집 중`
-                    : 'GitHub Actions · 하루 2회 자동 수집 (09:00 / 23:00 KST)'}
-                </p>
+            {/* Main Content */}
+            <div className="flex-1 flex flex-col p-8 overflow-auto min-w-0">
+              <div className="flex items-center justify-between mb-6">
+                <div>
+                  <h1 className="text-[28px] font-bold dark:text-white text-gray-900 tracking-tight">
+                    {activeTab === 'trend' ? '트렌드 현황' : '수집 모니터링'}
+                  </h1>
+                  <p className="text-[13px] dark:text-gray-400 text-gray-500 mt-1">
+                    {activeTab === 'trend'
+                      ? `${today} 기준 · ${platformCount}개 플랫폼 수집 중`
+                      : 'GitHub Actions · 하루 2회 자동 수집 (09:00 / 23:00 KST)'}
+                  </p>
+                </div>
+                <ToggleSwitch isDark={isDark} onToggle={() => setIsDark(!isDark)} />
               </div>
-              <ToggleSwitch isDark={isDark} onToggle={() => setIsDark(!isDark)} />
+              {loading
+                ? <LoadingSpinner message="데이터를 불러오는 중..." />
+                : activeTab === 'trend'
+                  ? <TrendOverview key="trend" />
+                  : <Monitoring key="monitor" />
+              }
             </div>
-            {activeTab === 'trend' ? <TrendOverview key="trend" /> : <Monitoring key="monitor" />}
           </div>
-        </div>
+        </DataContext.Provider>
       );
     }
 
