@@ -9,17 +9,30 @@ _UA = {"User-Agent": "AIMEYES-TrendBot/1.0 (trend data collection)"}
 COUNTRIES = {
     "korea": "한국",
     "united-states": "미국",
+    "canada": "캐나다",
     "japan": "일본",
     "": "글로벌",
 }
 
-# 패션 관련 키워드 필터
+# 패션 관련 키워드 필터 (CLAUDE.md 지침서 반영)
 FASHION_TERMS = [
+    # 기본 패션 용어
     "fashion", "패션", "ootd", "outfit", "style", "코디", "룩북", "lookbook",
     "streetwear", "스트릿", "vintage", "빈티지", "y2k", "trend", "트렌드",
+    "wear", "dress", "shoes", "sneaker", "aesthetic",
+    # 브랜드/마켓플레이스
     "brand", "브랜드", "nike", "adidas", "zara", "uniqlo", "유니클로",
-    "ファッション", "コーデ", "wear", "dress", "shoes", "sneaker",
-    "gucci", "prada", "chanel", "무신사", "musinsa", "aesthetic",
+    "gucci", "prada", "chanel", "무신사", "musinsa", "지그재그",
+    "h&m", "shein", "temu", "amazon fashion",
+    # 트렌드 키워드
+    "quiet luxury", "coquette", "mob wife", "capsule wardrobe",
+    "미니멀", "minimal", "레이어링", "layering", "하울", "haul",
+    "thrift", "데일리룩", "봄코디", "spring outfit",
+    # 일본어
+    "ファッション", "コーデ", "着回し", "古着", "韓国ファッション",
+    "プチプラ", "骨格診断",
+    # 뷰티/메이크업 (연관)
+    "뷰티", "beauty", "메이크업", "makeup", "헤어", "hair",
 ]
 
 
