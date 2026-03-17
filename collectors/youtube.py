@@ -5,17 +5,44 @@ import time
 
 API_KEY = os.getenv("YOUTUBE_API_KEY", "")
 
-# 모드별 검색 쿼리
+# 모드별 검색 쿼리 (CLAUDE.md 지침서 키워드 반영)
+# YouTube API 쿼터 관리: 일 10,000 units, search=100 units/req
+# 하루 2회 실행 → 1회당 ~4,800 units 이하로 유지 (검색 48개 이하)
 SEARCHES = {
     "fashion": {
-        "KR": ["패션 트렌드 2026", "코디 룩북", "패션 하울"],
-        "US": ["fashion trend 2026", "outfit lookbook", "fashion haul"],
-        "JP": ["ファッション トレンド 2026", "コーデ ルックブック"],
+        "KR": [
+            "패션 트렌드 2026", "코디 룩북", "패션 하울",
+            "OOTD 데일리룩", "스트릿 패션 코디",
+            "무신사 인기 아이템", "빈티지 Y2K 패션",
+            "봄 코디 추천",
+        ],
+        "US": [
+            "fashion trend 2026", "outfit lookbook", "fashion haul",
+            "OOTD street style", "thrift haul capsule wardrobe",
+            "quiet luxury outfit", "spring outfits 2026",
+            "Amazon fashion finds",
+        ],
+        "JP": [
+            "ファッション トレンド 2026", "コーデ ルックブック",
+            "着回し 古着コーデ", "韓国ファッション",
+            "春コーデ 2026", "GU ユニクロ コーデ",
+        ],
     },
     "general": {
-        "KR": ["트렌드 2026", "요즘 유행"],
-        "US": ["trending today", "viral 2026"],
-        "JP": ["トレンド 2026", "話題"],
+        "KR": [
+            "트렌드 2026", "요즘 유행",
+            "틱톡 챌린지 바이럴", "생활 꿀팁 라이프핵",
+            "인테리어 DIY 자취", "맛집 레시피 먹방",
+        ],
+        "US": [
+            "trending today viral", "TikTok trends 2026",
+            "life hacks tips DIY", "viral recipe food",
+            "home makeover", "self improvement",
+        ],
+        "JP": [
+            "トレンド 2026 話題", "バズった TikTok トレンド",
+            "ライフハック 100均 DIY", "バズ レシピ",
+        ],
     },
 }
 
@@ -60,7 +87,7 @@ def _get_trending(region_code, max_results=15):
         return [{"error": str(e)}]
 
 
-def _search_videos(query, region_code="KR", max_results=10):
+def _search_videos(query, region_code="KR", max_results=5):
     """YouTube 키워드 검색"""
     if not API_KEY:
         return []
