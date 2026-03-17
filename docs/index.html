@@ -882,9 +882,16 @@
       );
     }
 
-    // ─── Ranked List (for Google Trends, X/Twitter, Naver) ───
+    // ─── Ranked List (for Google Trends, X/Twitter, Naver, Pinterest) ───
     function RankedList({ items, type }) {
-      const colors = ['#007AFF', '#34C759', '#FF4D40', '#FFD60A', '#FF9500', '#AF52DE', '#5AC8FA', '#636366', '#858A9C', '#FF6B6B'];
+      const rankColors = ['#007AFF', '#34C759', '#FF4D40', '#FFD60A', '#FF9500'];
+      const [hovered, setHovered] = useState(null);
+      const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
+
+      const handleMouseMove = useCallback((e) => {
+        setMousePos({ x: e.clientX, y: e.clientY });
+      }, []);
+
       if (!items || items.length === 0) {
         return (
           <div className="flex items-center justify-center h-[200px] text-sm dark:text-gray-400 text-gray-500">
@@ -893,62 +900,160 @@
         );
       }
 
+      // Country name lookup for X/Twitter tooltip
+      const countryNameMap = {
+        'korea': '한국', 'united-states': '미국', 'japan': '일본', 'china': '중국',
+        'KR': '한국', 'US': '미국', 'JP': '일본', 'CN': '중국',
+      };
+
       if (type === 'google_trends') {
         return (
-          <div className="flex flex-col gap-2 max-h-[280px] overflow-y-auto pr-1">
+          <div className="flex flex-col gap-1.5 max-h-[280px] overflow-y-auto pr-1"
+            onMouseMove={handleMouseMove} onMouseLeave={() => setHovered(null)}>
             {items.map((item, i) => (
-              <div key={i} className="flex items-center gap-3 py-1.5 px-2 rounded-lg dark:hover:bg-navy/50 hover:bg-gray-50">
+              <div key={i}
+                className="flex items-center gap-3 rounded-lg cursor-default"
+                style={{ padding: '8px 10px', borderRadius: 8 }}
+                onMouseEnter={() => setHovered(i)}
+                onMouseLeave={() => setHovered(null)}>
                 <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0"
-                  style={{ backgroundColor: colors[i % colors.length] }}>{item.rank || i + 1}</span>
+                  style={{ backgroundColor: rankColors[i % rankColors.length] }}>{item.rank || i + 1}</span>
                 <span className="flex-1 text-[13px] dark:text-white text-gray-900 font-medium">{item.keyword}</span>
                 <span className="text-[11px] dark:text-gray-400 text-gray-500 font-semibold">{item.traffic}</span>
               </div>
             ))}
+            <Tooltip visible={hovered !== null} x={mousePos.x} y={mousePos.y}>
+              {hovered !== null && (() => {
+                const item = items[hovered];
+                const newsCount = Array.isArray(item.news) ? item.news.length : 0;
+                return (<>
+                  <div className="font-semibold text-[13px] mb-1.5">{item.keyword}</div>
+                  <div className="flex items-center gap-2 text-white/80 mb-0.5">
+                    <Icon name="trending-up" size={11} color="#858A9C" /> 검색량: {item.traffic || 'N/A'}
+                  </div>
+                  <div className="flex items-center gap-2 text-white/80 mb-0.5">
+                    <Icon name="hash" size={11} color="#858A9C" /> 순위: {item.rank || hovered + 1}위
+                  </div>
+                  <div className="flex items-center gap-2 text-white/80">
+                    <Icon name="activity" size={11} color="#858A9C" /> 관련 뉴스: {newsCount}건
+                  </div>
+                </>);
+              })()}
+            </Tooltip>
           </div>
         );
       }
 
       if (type === 'x_twitter') {
         return (
-          <div className="flex flex-col gap-2 max-h-[280px] overflow-y-auto pr-1">
+          <div className="flex flex-col gap-1.5 max-h-[280px] overflow-y-auto pr-1"
+            onMouseMove={handleMouseMove} onMouseLeave={() => setHovered(null)}>
             {items.map((item, i) => (
-              <div key={i} className="flex items-center gap-3 py-1.5 px-2 rounded-lg dark:hover:bg-navy/50 hover:bg-gray-50">
+              <div key={i}
+                className="flex items-center gap-3 cursor-default"
+                style={{ padding: '8px 10px', borderRadius: 8 }}
+                onMouseEnter={() => setHovered(i)}
+                onMouseLeave={() => setHovered(null)}>
                 <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0"
-                  style={{ backgroundColor: colors[i % colors.length] }}>{item.rank || i + 1}</span>
+                  style={{ backgroundColor: rankColors[i % rankColors.length] }}>{item.rank || i + 1}</span>
                 <span className="flex-1 text-[13px] dark:text-white text-gray-900 font-medium truncate">{item.topic}</span>
-                {item.volume && <span className="text-[11px] dark:text-gray-400 text-gray-500">{item.volume}</span>}
+                {item.volume && (
+                  <span className="flex-shrink-0 px-2 py-0.5 rounded-full text-[10px] font-semibold"
+                    style={{ backgroundColor: '#1DA1F218', color: '#1DA1F2' }}>{item.volume}</span>
+                )}
               </div>
             ))}
+            <Tooltip visible={hovered !== null} x={mousePos.x} y={mousePos.y}>
+              {hovered !== null && (() => {
+                const item = items[hovered];
+                return (<>
+                  <div className="font-semibold text-[13px] mb-1.5">{item.topic}</div>
+                  <div className="flex items-center gap-2 text-white/80 mb-0.5">
+                    <Icon name="hash" size={11} color="#858A9C" /> 순위: {item.rank || hovered + 1}위
+                  </div>
+                  <div className="flex items-center gap-2 text-white/80 mb-0.5">
+                    <Icon name="twitter" size={11} color="#858A9C" /> 트윗량: {item.volume || 'N/A'}
+                  </div>
+                  <div className="flex items-center gap-2 text-white/80">
+                    <Icon name="search" size={11} color="#858A9C" /> 지역: {countryNameMap[item.country] || '전체'}
+                  </div>
+                </>);
+              })()}
+            </Tooltip>
           </div>
         );
       }
 
       if (type === 'naver') {
         return (
-          <div className="flex flex-col gap-2 max-h-[280px] overflow-y-auto pr-1">
+          <div className="flex flex-col gap-1.5 max-h-[280px] overflow-y-auto pr-1"
+            onMouseMove={handleMouseMove} onMouseLeave={() => setHovered(null)}>
             {items.map((item, i) => (
-              <div key={i} className="flex items-center gap-3 py-1.5 px-2 rounded-lg dark:hover:bg-navy/50 hover:bg-gray-50">
+              <div key={i}
+                className="flex items-center gap-3 cursor-default"
+                style={{ padding: '8px 10px', borderRadius: 8 }}
+                onMouseEnter={() => setHovered(i)}
+                onMouseLeave={() => setHovered(null)}>
                 <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0"
-                  style={{ backgroundColor: colors[i % colors.length] }}>{item.rank || i + 1}</span>
+                  style={{ backgroundColor: '#03CF5D' }}>{item.rank || i + 1}</span>
                 <span className="flex-1 text-[13px] dark:text-white text-gray-900 font-medium">{item.keyword}</span>
               </div>
             ))}
+            <Tooltip visible={hovered !== null} x={mousePos.x} y={mousePos.y}>
+              {hovered !== null && (() => {
+                const item = items[hovered];
+                return (<>
+                  <div className="font-semibold text-[13px] mb-1.5">{item.keyword}</div>
+                  <div className="flex items-center gap-2 text-white/80 mb-0.5">
+                    <Icon name="hash" size={11} color="#858A9C" /> 순위: {item.rank || hovered + 1}위
+                  </div>
+                  <div className="flex items-center gap-2 text-white/80">
+                    <Icon name="search" size={11} color="#858A9C" /> 카테고리: 쇼핑
+                  </div>
+                </>);
+              })()}
+            </Tooltip>
           </div>
         );
       }
 
       if (type === 'pinterest') {
         return (
-          <div className="flex flex-col gap-2 max-h-[280px] overflow-y-auto pr-1">
+          <div className="grid grid-cols-2 gap-2.5 max-h-[280px] overflow-y-auto pr-1"
+            onMouseMove={handleMouseMove} onMouseLeave={() => setHovered(null)}>
             {items.map((item, i) => (
-              <div key={i} className="flex items-start gap-3 py-2 px-2 rounded-lg dark:hover:bg-navy/50 hover:bg-gray-50">
-                <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0 mt-0.5"
-                  style={{ backgroundColor: '#E60023' }}>{i + 1}</span>
-                <div className="flex-1 min-w-0">
-                  <div className="text-[13px] dark:text-white text-gray-900 font-semibold">{item.name}</div>
-                </div>
+              <div key={i}
+                className="flex flex-col cursor-default"
+                style={{
+                  padding: '12px 14px', borderRadius: 10,
+                  backgroundColor: '#E6002310', border: '1px solid #E6002325',
+                }}
+                onMouseEnter={() => setHovered(i)}
+                onMouseLeave={() => setHovered(null)}>
+                <div className="text-[14px] dark:text-white text-gray-900" style={{ fontWeight: 600 }}>{item.name}</div>
+                {item.description && (
+                  <div className="text-[11px] dark:text-gray-400 text-gray-500 mt-1 line-clamp-2" style={{ display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+                    {item.description}
+                  </div>
+                )}
               </div>
             ))}
+            <Tooltip visible={hovered !== null} x={mousePos.x} y={mousePos.y}>
+              {hovered !== null && (() => {
+                const item = items[hovered];
+                return (<>
+                  <div className="font-semibold text-[13px] mb-1.5">{item.name}</div>
+                  <div className="flex items-center gap-2 text-white/80 mb-0.5">
+                    <Icon name="pin" size={11} color="#858A9C" /> 카테고리: {item.category || '라이프스타일'}
+                  </div>
+                  {item.description && (
+                    <div className="text-white/70 text-[11px] mt-1" style={{ maxWidth: 240, whiteSpace: 'normal' }}>
+                      {item.description}
+                    </div>
+                  )}
+                </>);
+              })()}
+            </Tooltip>
           </div>
         );
       }
