@@ -94,13 +94,28 @@
       animation: spin 0.8s linear infinite;
     }
     @keyframes spin { to { transform: rotate(360deg); } }
+    .country-tab {
+      transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      cursor: pointer; user-select: none;
+    }
+    .country-tab:hover { opacity: 0.85; }
+    .platform-card-clickable {
+      cursor: pointer;
+      transition: border-color 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+                  box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .platform-card-clickable:hover { opacity: 0.92; }
+    .platform-card-active {
+      border-color: #007AFF !important;
+      box-shadow: 0 0 12px rgba(0, 122, 255, 0.35);
+    }
   </style>
 </head>
 <body>
   <div id="root"></div>
 
   <script type="text/babel">
-    const { useState, useEffect, useRef, useCallback } = React;
+    const { useState, useEffect, useRef, useCallback, useMemo } = React;
 
     // ─── SVG Icons (Lucide style) ───
     const Icon = ({ name, size = 18, color = 'currentColor', className = '' }) => {
@@ -132,6 +147,39 @@
       );
     };
 
+    // ─── Constants ───
+    const PLATFORM_DEFS = [
+      { key: 'youtube', name: 'YouTube', icon: 'play-circle', color: '#FF0000', unit: 'videos collected' },
+      { key: 'google_trends', name: 'Google Trends', icon: 'trending-up', color: '#4285F4', unit: 'keywords tracked' },
+      { key: 'x_twitter', name: 'X (Twitter)', icon: 'twitter', color: '#1DA1F2', unit: 'trending topics' },
+      { key: 'naver', name: 'Naver', icon: 'search', color: '#03CF5D', unit: 'search trends' },
+      { key: 'pinterest', name: 'Pinterest', icon: 'pin', color: '#E60023', unit: 'predictions' },
+    ];
+
+    const COUNTRY_TABS = [
+      { id: 'KR', label: 'KR', labelFull: '한국', flags: [{ src: 'https://flagcdn.com/w80/kr.png', alt: 'KR' }] },
+      { id: 'NA', label: 'NA', labelFull: '북미', flags: [
+        { src: 'https://flagcdn.com/w80/us.png', alt: 'US', zIndex: 1, offset: 0 },
+        { src: 'https://flagcdn.com/w80/ca.png', alt: 'CA', zIndex: 2, offset: 10 },
+      ]},
+      { id: 'JP', label: 'JP', labelFull: '일본', flags: [{ src: 'https://flagcdn.com/w80/jp.png', alt: 'JP' }] },
+      { id: 'CN', label: 'CN', labelFull: '중국', flags: [{ src: 'https://flagcdn.com/w80/cn.png', alt: 'CN' }] },
+    ];
+
+    // Map country tab to data keys
+    const COUNTRY_YT_KEY = { KR: 'KR', NA: 'US', JP: 'JP', CN: 'CN' };
+    const COUNTRY_GT_KEY = { KR: 'KR', NA: 'US', JP: 'JP', CN: 'CN' };
+    const COUNTRY_XT_KEY = { KR: 'korea', NA: 'united-states', JP: 'japan', CN: 'china' };
+
+    // Platform-specific second tab config
+    const PLATFORM_SECOND_TAB = {
+      youtube: { id: 'views', label: 'YouTube 조회수', icon: 'eye' },
+      google_trends: { id: 'interest', label: '검색 관심도', icon: 'trending-up' },
+      x_twitter: { id: 'topics', label: '트렌딩 토픽', icon: 'twitter' },
+      naver: { id: 'rankings', label: '검색 순위', icon: 'search' },
+      pinterest: { id: 'predictions', label: '트렌드 예측', icon: 'pin' },
+    };
+
     // ─── Data Fetching Layer ───
     const DATA_BASE = 'https://raw.githubusercontent.com/khwhite0413/aimeyes-trend-db/master/data/';
 
@@ -152,21 +200,10 @@
       return resp.json();
     }
 
-    async function discoverDates(count = 7) {
-      const candidates = getRecentDates(count);
-      const results = [];
-      for (const date of candidates) {
-        const meta = await fetchJSON(`${DATA_BASE}fashion/${date}/_meta.json`);
-        if (meta) results.push({ date, fashionMeta: meta });
-      }
-      return results;
-    }
-
     async function loadAllData() {
       const dates = getRecentDates(14);
       const discovered = [];
 
-      // Fetch all fashion+general metas in parallel
       const metaPromises = dates.map(async (date) => {
         const [fashionMeta, generalMeta] = await Promise.all([
           fetchJSON(`${DATA_BASE}fashion/${date}/_meta.json`),
@@ -185,7 +222,6 @@
 
       const latestDate = metaResults[0].date;
 
-      // Fetch detailed data for latest date
       const [youtube, googleTrends, xTwitter, naver, pinterest,
              youtubeGen, googleTrendsGen, xTwitterGen, naverGen, pinterestGen] = await Promise.all([
         fetchJSON(`${DATA_BASE}fashion/${latestDate}/youtube.json`),
@@ -210,17 +246,19 @@
       };
     }
 
+    // ─── AM/PM Time Formatting ───
+    function formatTimeAMPM(hour, minute) {
+      const h = parseInt(hour);
+      const m = String(minute).padStart(2, '0');
+      if (h === 0) return `12:${m} AM`;
+      if (h < 12) return `${h}:${m} AM`;
+      if (h === 12) return `12:${m} PM`;
+      return `${h - 12}:${m} PM`;
+    }
+
     // ─── Data Processing ───
     function buildPlatforms(fashionMeta, generalMeta) {
-      const platformDefs = [
-        { key: 'youtube', name: 'YouTube', icon: 'play-circle', color: '#FF0000', unit: 'videos collected' },
-        { key: 'google_trends', name: 'Google Trends', icon: 'trending-up', color: '#4285F4', unit: 'keywords tracked' },
-        { key: 'x_twitter', name: 'X (Twitter)', icon: 'twitter', color: '#1DA1F2', unit: 'trending topics' },
-        { key: 'naver', name: 'Naver', icon: 'search', color: '#03CF5D', unit: 'search trends' },
-        { key: 'pinterest', name: 'Pinterest', icon: 'pin', color: '#E60023', unit: 'predictions' },
-      ];
-
-      return platformDefs.map(def => {
+      return PLATFORM_DEFS.map(def => {
         const fItems = fashionMeta?.results?.[def.key]?.items || 0;
         const gItems = generalMeta?.results?.[def.key]?.items || 0;
         const fStatus = fashionMeta?.results?.[def.key]?.status || 'unknown';
@@ -231,110 +269,176 @@
     }
 
     function buildRecentCollections(fashionMeta, generalMeta) {
-      const platformDefs = [
-        { key: 'youtube', name: 'YouTube' },
-        { key: 'google_trends', name: 'Google Trends' },
-        { key: 'x_twitter', name: 'X (Twitter)' },
-        { key: 'naver', name: 'Naver' },
-        { key: 'pinterest', name: 'Pinterest' },
-      ];
-
       const timestamp = fashionMeta?.run_timestamp || generalMeta?.run_timestamp || '';
       let timeStr = '--:--';
       if (timestamp) {
         const d = new Date(timestamp);
-        const hours = String(d.getUTCHours() + 9).padStart(2, '0'); // KST
-        const mins = String(d.getUTCMinutes()).padStart(2, '0');
-        timeStr = `${hours > 23 ? String(hours - 24).padStart(2, '0') : hours}:${mins}`;
+        const kstHour = d.getUTCHours() + 9;
+        const hour = kstHour >= 24 ? kstHour - 24 : kstHour;
+        const mins = d.getUTCMinutes();
+        timeStr = formatTimeAMPM(hour, mins);
       }
 
-      return platformDefs.map(def => {
+      return PLATFORM_DEFS.map(def => {
         const fItems = fashionMeta?.results?.[def.key]?.items || 0;
         const gItems = generalMeta?.results?.[def.key]?.items || 0;
         return { name: def.name, count: fItems + gItems, time: timeStr };
       });
     }
 
-    function extractKeywordsFromYouTube(fashionYT, generalYT) {
-      const titles = [];
-      const collectTitles = (ytData) => {
-        if (!ytData?.regions) return;
-        for (const regionKey of Object.keys(ytData.regions)) {
-          for (const video of ytData.regions[regionKey]) {
-            if (video.title) titles.push(video.title);
-          }
-        }
-      };
-      collectTitles(fashionYT);
-      collectTitles(generalYT);
+    // ─── Stop words set ───
+    const STOP_WORDS = new Set(['the','a','an','and','or','is','in','at','to','for','of','on','it',
+      'my','me','i','you','he','she','we','they','this','that','with','from','by','as','be',
+      'was','are','were','been','do','does','did','have','has','had','will','would','could',
+      'should','may','might','can','shall','its','his','her','our','your','their','not','no',
+      'but','if','than','then','so','up','out','about','into','over','after','before','all',
+      'just','also','how','what','when','where','which','who','why','very','only','now','new',
+      'one','two','more','some','any','each','every','much','many','most','other','been','being',
+      '|','-','&','the','de','la','le','les','des','du','et','en','un','une','au','que','qui',
+      'est','sur','pas','pour','ce','il','se','ne','son','sa','ses','ou','mais','comme','tout',
+      'plus','avec','dans','par','nous','vous','ils','elle','on','dit','fait','va','bien','m\u00eame',
+      'encore','l\u00e0','peu','trop','tr\u00e8s','rien','car','donc','ni','sans','vers','chez','apr\u00e8s',
+      '','–','—','...','「','」','【','】','『','』','(',')','[',']']);
 
-      // Extract words: hashtags and meaningful words
+    // ─── Keyword Extraction per Platform per Country ───
+    function extractKeywordsForPlatform(platformKey, country, fashionData, generalData) {
       const freq = {};
-      const stopWords = new Set(['the','a','an','and','or','is','in','at','to','for','of','on','it',
-        'my','me','i','you','he','she','we','they','this','that','with','from','by','as','be',
-        'was','are','were','been','do','does','did','have','has','had','will','would','could',
-        'should','may','might','can','shall','its','his','her','our','your','their','not','no',
-        'but','if','than','then','so','up','out','about','into','over','after','before','all',
-        'just','also','how','what','when','where','which','who','why','very','only','now','new',
-        'one','two','more','some','any','each','every','much','many','most','other','been','being',
-        '|','-','&','the','de','la','le','les','des','du','et','en','un','une','au','que','qui',
-        'est','sur','pas','pour','ce','il','se','ne','son','sa','ses','ou','mais','comme','tout',
-        'plus','avec','dans','par','nous','vous','ils','elle','on','dit','fait','va','bien','même',
-        'encore','là','peu','trop','très','rien','car','donc','ni','sans','vers','chez','après',
-        '','–','—','...','「','」','【','】','『','』','(',')','[',']']);
+      const colors = ['#007AFF', '#34C759', '#FFD60A', '#AF52DE', '#FF4D40'];
 
-      for (const title of titles) {
-        // Extract hashtags
-        const hashtags = title.match(/#[^\s#]+/g) || [];
-        for (const tag of hashtags) {
-          const normalized = tag.toLowerCase();
-          if (normalized.length > 2) {
-            freq[normalized] = (freq[normalized] || 0) + 1;
+      if (platformKey === 'youtube') {
+        // Use _search results only for keyword extraction
+        const titles = [];
+        const collectTitles = (ytData) => {
+          if (!ytData?.regions) return;
+          const cc = COUNTRY_YT_KEY[country];
+          const searchKey = `${cc}_search`;
+          const regionData = ytData.regions[searchKey];
+          if (Array.isArray(regionData)) {
+            for (const video of regionData) {
+              if (video.title) titles.push(video.title);
+            }
+          }
+        };
+        collectTitles(fashionData?.youtube);
+        collectTitles(generalData?.youtube);
+
+        for (const title of titles) {
+          const hashtags = title.match(/#[^\s#]+/g) || [];
+          for (const tag of hashtags) {
+            const normalized = tag.toLowerCase();
+            if (normalized.length > 2) freq[normalized] = (freq[normalized] || 0) + 1;
+          }
+          const words = title.replace(/[^\w\s가-힣ぁ-ヿ㐀-䶵一-鿋豈-頻々〇〻\u3400-\u9FFF#]/g, ' ').split(/\s+/);
+          for (const w of words) {
+            if (w.startsWith('#')) continue;
+            const lower = w.toLowerCase();
+            if (lower.length >= 3 && !STOP_WORDS.has(lower) && !/^\d+$/.test(lower)) {
+              freq[lower] = (freq[lower] || 0) + 1;
+            }
           }
         }
-
-        // Extract meaningful words (3+ chars, non-numeric)
-        const words = title.replace(/[^\w\s가-힣ぁ-ヿ㐀-䶵一-鿋豈-頻々〇〻\u3400-\u9FFF#]/g, ' ').split(/\s+/);
-        for (const w of words) {
-          if (w.startsWith('#')) continue; // already handled
-          const lower = w.toLowerCase();
-          if (lower.length >= 3 && !stopWords.has(lower) && !/^\d+$/.test(lower)) {
-            freq[lower] = (freq[lower] || 0) + 1;
+      } else if (platformKey === 'google_trends') {
+        const cc = COUNTRY_GT_KEY[country];
+        const collectGT = (gtData) => {
+          if (!gtData?.countries?.[cc]) return;
+          const countryData = gtData.countries[cc];
+          const trends = countryData.all_trending || countryData.trending_fashion || [];
+          for (const t of trends) {
+            if (t.keyword) {
+              const k = t.keyword.toLowerCase();
+              freq[k] = (freq[k] || 0) + 1;
+            }
           }
-        }
+        };
+        collectGT(fashionData?.googleTrends);
+        collectGT(generalData?.googleTrends);
+      } else if (platformKey === 'x_twitter') {
+        const xtKey = COUNTRY_XT_KEY[country];
+        const collectXT = (xtData) => {
+          if (!xtData?.countries?.[xtKey]) return;
+          const countryData = xtData.countries[xtKey];
+          const topics = countryData.all_trending || countryData.fashion_related || [];
+          for (const t of topics) {
+            if (t.topic) {
+              const k = t.topic.length > 25 ? t.topic.substring(0, 25) : t.topic;
+              freq[k] = (freq[k] || 0) + 1;
+            }
+          }
+        };
+        collectXT(fashionData?.xTwitter);
+        collectXT(generalData?.xTwitter);
+      } else if (platformKey === 'naver') {
+        if (country !== 'KR') return [];
+        const collectNaver = (naverData) => {
+          if (!naverData?.daily_rankings) return;
+          for (const day of naverData.daily_rankings) {
+            for (const kw of (day.keywords || [])) {
+              if (kw.keyword) {
+                freq[kw.keyword] = (freq[kw.keyword] || 0) + 1;
+              }
+            }
+          }
+        };
+        collectNaver(fashionData?.naver);
+        collectNaver(generalData?.naver);
+      } else if (platformKey === 'pinterest') {
+        const collectPinterest = (pData) => {
+          if (!pData?.trends) return;
+          for (const t of pData.trends) {
+            if (t.name) {
+              freq[t.name] = (freq[t.name] || 0) + 1;
+            }
+          }
+        };
+        collectPinterest(fashionData?.pinterest);
+        collectPinterest(generalData?.pinterest);
       }
 
-      // Sort by frequency, take top 5
-      const sorted = Object.entries(freq)
-        .sort((a, b) => b[1] - a[1])
-        .slice(0, 5);
-
+      const sorted = Object.entries(freq).sort((a, b) => b[1] - a[1]).slice(0, 5);
       const totalCount = sorted.reduce((s, [, c]) => s + c, 0);
-      const colors = ['#007AFF', '#34C759', '#FFD60A', '#AF52DE', '#FF4D40'];
 
       return sorted.map(([label, count], i) => ({
         label,
         value: totalCount > 0 ? Math.round((count / totalCount) * 100) : 0,
         count,
         color: colors[i],
-        platforms: 'YouTube',
+        platforms: PLATFORM_DEFS.find(p => p.key === platformKey)?.name || '',
       }));
     }
 
-    function extractViewsFromYouTube(fashionYT, generalYT) {
-      // Group videos by keywords found in titles, sum views
+    // ─── Second-tab data extraction per platform per country ───
+    function extractSecondTabData(platformKey, country, fashionData, generalData) {
+      if (platformKey === 'youtube') {
+        return extractViewsForCountry(country, fashionData, generalData);
+      } else if (platformKey === 'google_trends') {
+        return extractGoogleTrendsInterest(country, fashionData, generalData);
+      } else if (platformKey === 'x_twitter') {
+        return extractXTwitterTopics(country, fashionData, generalData);
+      } else if (platformKey === 'naver') {
+        if (country !== 'KR') return [];
+        return extractNaverRankings(fashionData, generalData);
+      } else if (platformKey === 'pinterest') {
+        return extractPinterestPredictions(fashionData, generalData);
+      }
+      return [];
+    }
+
+    function extractViewsForCountry(country, fashionData, generalData) {
       const groups = {};
+      const cc = COUNTRY_YT_KEY[country];
       const processYT = (ytData) => {
         if (!ytData?.regions) return;
-        for (const regionKey of Object.keys(ytData.regions)) {
-          for (const video of ytData.regions[regionKey]) {
+        // Use both trending and search for views
+        for (const suffix of ['_trending', '_search']) {
+          const regionKey = `${cc}${suffix}`;
+          const videos = ytData.regions[regionKey];
+          if (!Array.isArray(videos)) continue;
+          for (const video of videos) {
             const views = video.views || 0;
             if (views === 0) continue;
-            // Extract primary keyword (hashtag or first meaningful word sequence)
             const hashtags = (video.title || '').match(/#[^\s#]+/g) || [];
             let keyword = hashtags[0]?.toLowerCase();
             if (!keyword) {
-              // Use channel or title start as grouping key
               const words = (video.title || '').split(/\s+/).slice(0, 2).join(' ');
               keyword = words.length > 1 ? words : video.channel || 'other';
             }
@@ -345,23 +449,17 @@
           }
         }
       };
-      processYT(fashionYT);
-      processYT(generalYT);
+      processYT(fashionData?.youtube);
+      processYT(generalData?.youtube);
 
-      const sorted = Object.entries(groups)
-        .sort((a, b) => b[1].views - a[1].views)
-        .slice(0, 7);
-
-      // Add "other" for the rest
+      const sorted = Object.entries(groups).sort((a, b) => b[1].views - a[1].views).slice(0, 7);
       const topKeys = new Set(sorted.map(([k]) => k));
       let otherViews = 0, otherVideos = 0;
       for (const [k, v] of Object.entries(groups)) {
         if (!topKeys.has(k)) { otherViews += v.views; otherVideos += v.videos; }
       }
-
       const totalViews = sorted.reduce((s, [, v]) => s + v.views, 0) + otherViews;
       const colors = ['#007AFF', '#34C759', '#FF4D40', '#FFD60A', '#FF9500', '#AF52DE', '#5AC8FA', '#636366'];
-
       const formatViews = (v) => {
         if (v >= 1000000) return `${(v / 1000000).toFixed(1)}M`;
         if (v >= 1000) return `${(v / 1000).toFixed(0)}K`;
@@ -369,30 +467,104 @@
       };
 
       const result = sorted.map(([label, data], i) => ({
-        label,
-        views: data.views,
-        viewsStr: formatViews(data.views),
+        label, views: data.views, viewsStr: formatViews(data.views),
         pct: totalViews > 0 ? Math.round((data.views / totalViews) * 1000) / 10 : 0,
-        videos: data.videos,
-        color: colors[i],
+        videos: data.videos, color: colors[i],
       }));
-
       if (otherViews > 0) {
         result.push({
-          label: '기타',
-          views: otherViews,
-          viewsStr: formatViews(otherViews),
+          label: '기타', views: otherViews, viewsStr: formatViews(otherViews),
           pct: totalViews > 0 ? Math.round((otherViews / totalViews) * 1000) / 10 : 0,
-          videos: otherVideos,
-          color: colors[7],
+          videos: otherVideos, color: colors[7],
         });
       }
-
       return result;
     }
 
+    function extractGoogleTrendsInterest(country, fashionData, generalData) {
+      const items = [];
+      const cc = COUNTRY_GT_KEY[country];
+      const collectGT = (gtData) => {
+        if (!gtData?.countries?.[cc]) return;
+        const countryData = gtData.countries[cc];
+        const trends = countryData.all_trending || countryData.trending_fashion || [];
+        for (const t of trends) {
+          if (t.keyword) {
+            items.push({ keyword: t.keyword, traffic: t.traffic || '', rank: t.rank || 0, news: t.related_news || [] });
+          }
+        }
+      };
+      collectGT(fashionData?.googleTrends);
+      collectGT(generalData?.googleTrends);
+      // Deduplicate by keyword, keep highest rank
+      const seen = {};
+      for (const item of items) {
+        const k = item.keyword.toLowerCase();
+        if (!seen[k] || item.rank < seen[k].rank) seen[k] = item;
+      }
+      return Object.values(seen).sort((a, b) => a.rank - b.rank).slice(0, 10);
+    }
+
+    function extractXTwitterTopics(country, fashionData, generalData) {
+      const items = [];
+      const xtKey = COUNTRY_XT_KEY[country];
+      const collectXT = (xtData) => {
+        if (!xtData?.countries?.[xtKey]) return;
+        const countryData = xtData.countries[xtKey];
+        const topics = countryData.all_trending || countryData.fashion_related || [];
+        for (const t of topics) {
+          if (t.topic) items.push({ topic: t.topic, volume: t.volume || '', rank: t.rank || 0 });
+        }
+      };
+      collectXT(fashionData?.xTwitter);
+      collectXT(generalData?.xTwitter);
+      const seen = {};
+      for (const item of items) {
+        if (!seen[item.topic] || item.rank < seen[item.topic].rank) seen[item.topic] = item;
+      }
+      return Object.values(seen).sort((a, b) => a.rank - b.rank).slice(0, 15);
+    }
+
+    function extractNaverRankings(fashionData, generalData) {
+      const items = [];
+      const collectNaver = (naverData) => {
+        if (!naverData?.daily_rankings) return;
+        // Use last day's rankings
+        const lastDay = naverData.daily_rankings[naverData.daily_rankings.length - 1];
+        if (lastDay?.keywords) {
+          for (const kw of lastDay.keywords) {
+            items.push({ keyword: kw.keyword, rank: kw.rank });
+          }
+        }
+      };
+      collectNaver(fashionData?.naver);
+      collectNaver(generalData?.naver);
+      const seen = {};
+      for (const item of items) {
+        if (!seen[item.keyword] || item.rank < seen[item.keyword].rank) seen[item.keyword] = item;
+      }
+      return Object.values(seen).sort((a, b) => a.rank - b.rank).slice(0, 10);
+    }
+
+    function extractPinterestPredictions(fashionData, generalData) {
+      const items = [];
+      const collectPinterest = (pData) => {
+        if (!pData?.trends) return;
+        for (const t of pData.trends) {
+          items.push({ name: t.name, description: t.description || '' });
+        }
+      };
+      collectPinterest(fashionData?.pinterest);
+      collectPinterest(generalData?.pinterest);
+      // Deduplicate by name
+      const seen = {};
+      for (const item of items) {
+        if (!seen[item.name]) seen[item.name] = item;
+      }
+      return Object.values(seen).slice(0, 12);
+    }
+
     function buildHistory(metaResults) {
-      // Build bar chart data from available dates (up to 7 most recent)
       const recent = metaResults.slice(0, 7).reverse();
       return recent.map(({ date, fashionMeta, generalMeta }) => {
         const fResults = fashionMeta?.results || {};
@@ -411,15 +583,7 @@
     }
 
     function buildPlatformRates(metaResults) {
-      const platformDefs = [
-        { key: 'youtube', name: 'YouTube' },
-        { key: 'google_trends', name: 'Google Trends' },
-        { key: 'x_twitter', name: 'X (Twitter)' },
-        { key: 'naver', name: 'Naver' },
-        { key: 'pinterest', name: 'Pinterest' },
-      ];
-
-      return platformDefs.map(def => {
+      return PLATFORM_DEFS.map(def => {
         let total = 0, successes = 0;
         for (const { fashionMeta, generalMeta } of metaResults) {
           if (fashionMeta?.results?.[def.key]) {
@@ -455,30 +619,22 @@
       const errors = totalCollections - totalSuccess;
       const rate = totalCollections > 0 ? ((totalSuccess / totalCollections) * 100).toFixed(1) : '0.0';
 
-      // Last collection time from latest meta
       const timestamp = latestMeta?.run_timestamp || '';
       let lastTime = '--:--', lastDate = '--';
       if (timestamp) {
         const d = new Date(timestamp);
         const kstHour = d.getUTCHours() + 9;
         const hour = kstHour >= 24 ? kstHour - 24 : kstHour;
-        lastTime = `${String(hour).padStart(2, '0')}:${String(d.getUTCMinutes()).padStart(2, '0')}`;
+        const mins = d.getUTCMinutes();
+        lastTime = formatTimeAMPM(hour, mins);
         const kstDate = new Date(d.getTime() + 9 * 60 * 60 * 1000);
         lastDate = kstDate.toISOString().split('T')[0] + ' KST';
       }
 
-      return {
-        totalCollections,
-        totalSuccess,
-        rate,
-        errors,
-        lastTime,
-        lastDate,
-      };
+      return { totalCollections, totalSuccess, rate, errors, lastTime, lastDate };
     }
 
     function buildErrors(metaResults) {
-      // Find recent failed collections
       const errors = [];
       for (const { date, fashionMeta, generalMeta } of metaResults) {
         for (const plat of ['youtube', 'google_trends', 'x_twitter', 'naver', 'pinterest']) {
@@ -495,16 +651,16 @@
           }
         }
       }
-      return errors.slice(0, 5); // Show max 5 recent errors
+      return errors.slice(0, 5);
     }
 
     // ─── Fallback Mock Data ───
     const MOCK_PLATFORMS = [
-      { name: 'YouTube', icon: 'play-circle', color: '#FF0000', count: 196, unit: 'videos collected', active: true },
-      { name: 'Google Trends', icon: 'trending-up', color: '#4285F4', count: 30, unit: 'keywords tracked', active: true },
-      { name: 'X (Twitter)', icon: 'twitter', color: '#1DA1F2', count: 170, unit: 'trending topics', active: true },
-      { name: 'Naver', icon: 'search', color: '#03CF5D', count: 50, unit: 'search trends', active: true },
-      { name: 'Pinterest', icon: 'pin', color: '#E60023', count: 25, unit: 'predictions', active: true },
+      { key: 'youtube', name: 'YouTube', icon: 'play-circle', color: '#FF0000', count: 196, unit: 'videos collected', active: true },
+      { key: 'google_trends', name: 'Google Trends', icon: 'trending-up', color: '#4285F4', count: 30, unit: 'keywords tracked', active: true },
+      { key: 'x_twitter', name: 'X (Twitter)', icon: 'twitter', color: '#1DA1F2', count: 170, unit: 'trending topics', active: true },
+      { key: 'naver', name: 'Naver', icon: 'search', color: '#03CF5D', count: 50, unit: 'search trends', active: true },
+      { key: 'pinterest', name: 'Pinterest', icon: 'pin', color: '#E60023', count: 25, unit: 'predictions', active: true },
     ];
 
     const MOCK_KEYWORDS_FREQ = [
@@ -702,6 +858,80 @@
       );
     }
 
+    // ─── Ranked List (for Google Trends, X/Twitter, Naver) ───
+    function RankedList({ items, type }) {
+      const colors = ['#007AFF', '#34C759', '#FF4D40', '#FFD60A', '#FF9500', '#AF52DE', '#5AC8FA', '#636366', '#858A9C', '#FF6B6B'];
+      if (!items || items.length === 0) {
+        return (
+          <div className="flex items-center justify-center h-[200px] text-sm dark:text-gray-400 text-gray-500">
+            데이터가 없습니다
+          </div>
+        );
+      }
+
+      if (type === 'google_trends') {
+        return (
+          <div className="flex flex-col gap-2 max-h-[280px] overflow-y-auto pr-1">
+            {items.map((item, i) => (
+              <div key={i} className="flex items-center gap-3 py-1.5 px-2 rounded-lg dark:hover:bg-navy/50 hover:bg-gray-50">
+                <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0"
+                  style={{ backgroundColor: colors[i % colors.length] }}>{item.rank || i + 1}</span>
+                <span className="flex-1 text-[13px] dark:text-white text-gray-900 font-medium">{item.keyword}</span>
+                <span className="text-[11px] dark:text-gray-400 text-gray-500 font-semibold">{item.traffic}</span>
+              </div>
+            ))}
+          </div>
+        );
+      }
+
+      if (type === 'x_twitter') {
+        return (
+          <div className="flex flex-col gap-2 max-h-[280px] overflow-y-auto pr-1">
+            {items.map((item, i) => (
+              <div key={i} className="flex items-center gap-3 py-1.5 px-2 rounded-lg dark:hover:bg-navy/50 hover:bg-gray-50">
+                <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0"
+                  style={{ backgroundColor: colors[i % colors.length] }}>{item.rank || i + 1}</span>
+                <span className="flex-1 text-[13px] dark:text-white text-gray-900 font-medium truncate">{item.topic}</span>
+                {item.volume && <span className="text-[11px] dark:text-gray-400 text-gray-500">{item.volume}</span>}
+              </div>
+            ))}
+          </div>
+        );
+      }
+
+      if (type === 'naver') {
+        return (
+          <div className="flex flex-col gap-2 max-h-[280px] overflow-y-auto pr-1">
+            {items.map((item, i) => (
+              <div key={i} className="flex items-center gap-3 py-1.5 px-2 rounded-lg dark:hover:bg-navy/50 hover:bg-gray-50">
+                <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0"
+                  style={{ backgroundColor: colors[i % colors.length] }}>{item.rank || i + 1}</span>
+                <span className="flex-1 text-[13px] dark:text-white text-gray-900 font-medium">{item.keyword}</span>
+              </div>
+            ))}
+          </div>
+        );
+      }
+
+      if (type === 'pinterest') {
+        return (
+          <div className="flex flex-col gap-2 max-h-[280px] overflow-y-auto pr-1">
+            {items.map((item, i) => (
+              <div key={i} className="flex items-start gap-3 py-2 px-2 rounded-lg dark:hover:bg-navy/50 hover:bg-gray-50">
+                <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0 mt-0.5"
+                  style={{ backgroundColor: '#E60023' }}>{i + 1}</span>
+                <div className="flex-1 min-w-0">
+                  <div className="text-[13px] dark:text-white text-gray-900 font-semibold">{item.name}</div>
+                </div>
+              </div>
+            ))}
+          </div>
+        );
+      }
+
+      return null;
+    }
+
     // ─── Bar Chart ───
     function BarChart({ data }) {
       const maxVal = Math.max(...data.map(d => d.success + d.fail));
@@ -731,11 +961,52 @@
       );
     }
 
-    // ─── Platform Card ───
-    function PlatformCard({ platform, index }) {
+    // ─── Country Tab Bar ───
+    function CountryTabBar({ activeCountry, onSelect }) {
       return (
-        <div className="card-enter flex-1 dark:bg-navy-card bg-white rounded-xl p-5
-          dark:border-navy-border border-gray-200 border"
+        <div className="flex items-center gap-2">
+          {COUNTRY_TABS.map(tab => {
+            const isActive = activeCountry === tab.id;
+            return (
+              <button key={tab.id}
+                onClick={() => onSelect(tab.id)}
+                className={`country-tab flex items-center gap-2 px-3.5 py-1.5 rounded-full text-xs font-semibold border
+                  ${isActive
+                    ? 'bg-brand-blue text-white border-brand-blue shadow-md'
+                    : 'dark:bg-navy-card bg-white dark:text-gray-300 text-gray-600 dark:border-navy-border border-gray-200 dark:hover:bg-navy hover:bg-gray-100'
+                  }`}>
+                {tab.flags.length === 1 ? (
+                  <img src={tab.flags[0].src} alt={tab.flags[0].alt}
+                    style={{ width: 22, height: 16, borderRadius: 3, objectFit: 'cover' }} />
+                ) : (
+                  <div className="relative" style={{ width: 32, height: 16 }}>
+                    {tab.flags.map((flag, fi) => (
+                      <img key={fi} src={flag.src} alt={flag.alt}
+                        style={{
+                          width: 22, height: 16, borderRadius: 3, objectFit: 'cover',
+                          position: 'absolute', top: 0, left: flag.offset || 0,
+                          zIndex: flag.zIndex || 1,
+                          border: '1.5px solid white',
+                        }} />
+                    ))}
+                  </div>
+                )}
+                {tab.label}
+              </button>
+            );
+          })}
+        </div>
+      );
+    }
+
+    // ─── Platform Card (clickable) ───
+    function PlatformCard({ platform, index, isActive, onClick }) {
+      return (
+        <div
+          onClick={onClick}
+          className={`card-enter flex-1 dark:bg-navy-card bg-white rounded-xl p-5
+            dark:border-navy-border border-gray-200 border platform-card-clickable
+            ${isActive ? 'platform-card-active' : ''}`}
           style={{ animationDelay: `${index * 0.08}s` }}>
           <div className="flex items-center gap-2.5 mb-3">
             <Icon name={platform.icon} size={20} color={platform.color} />
@@ -756,82 +1027,180 @@
     // ─── Trend Overview Tab ───
     function TrendOverview() {
       const [chartTab, setChartTab] = useState('freq');
+      const [activeCountry, setActiveCountry] = useState('KR');
+      const [activePlatform, setActivePlatform] = useState('youtube');
       const data = useData();
 
       const platforms = data?.platforms || MOCK_PLATFORMS;
-      const keywordsFreq = data?.keywordsFreq?.length > 0 ? data.keywordsFreq : MOCK_KEYWORDS_FREQ;
-      const keywordsViews = data?.keywordsViews?.length > 0 ? data.keywordsViews : MOCK_KEYWORDS_VIEWS;
-      const recentCollections = data?.recentCollections || platforms.map(p => ({ name: p.name, count: p.count, time: '09:00' }));
+      const activePlatformDef = PLATFORM_DEFS.find(p => p.key === activePlatform);
+      const secondTab = PLATFORM_SECOND_TAB[activePlatform];
+
+      // Compute keywords and second-tab data based on selected platform + country
+      const keywordsFreq = useMemo(() => {
+        if (activeCountry === 'CN') return [];
+        if (!data) return MOCK_KEYWORDS_FREQ;
+        if (activePlatform === 'naver' && activeCountry !== 'KR') return [];
+        const result = extractKeywordsForPlatform(activePlatform, activeCountry, data.fashion, data.general);
+        return result.length > 0 ? result : MOCK_KEYWORDS_FREQ;
+      }, [activePlatform, activeCountry, data]);
+
+      const secondTabData = useMemo(() => {
+        if (activeCountry === 'CN') return [];
+        if (!data) {
+          if (activePlatform === 'youtube') return MOCK_KEYWORDS_VIEWS;
+          return [];
+        }
+        if (activePlatform === 'naver' && activeCountry !== 'KR') return [];
+        return extractSecondTabData(activePlatform, activeCountry, data.fashion, data.general);
+      }, [activePlatform, activeCountry, data]);
+
+      const recentCollections = data?.recentCollections || platforms.map(p => ({ name: p.name, count: p.count, time: '9:00 AM' }));
+
+      // Reset chartTab to 'freq' when platform changes
+      useEffect(() => {
+        setChartTab('freq');
+      }, [activePlatform]);
+
+      const handleCountrySelect = (countryId) => {
+        setActiveCountry(countryId);
+        // If switching to non-KR and naver is active, switch to youtube
+        if (countryId !== 'KR' && activePlatform === 'naver') {
+          setActivePlatform('youtube');
+        }
+      };
+
+      const isChinaSelected = activeCountry === 'CN';
+      const isNaverUnavailable = activePlatform === 'naver' && activeCountry !== 'KR';
 
       return (
-        <div className="page-enter flex flex-col gap-6 flex-1">
-          <div className="flex gap-4">
-            {platforms.map((p, i) => <PlatformCard key={p.name} platform={p} index={i} />)}
-          </div>
-          <div className="flex gap-4 flex-1 min-h-0">
-            <div className="flex-1 dark:bg-navy-card bg-white rounded-xl p-6
-              dark:border-navy-border border-gray-200 border flex flex-col gap-4">
-              <div className="flex items-center justify-between">
-                <span className="text-lg font-semibold dark:text-white text-gray-900">Trending Keywords</span>
-                <span className="text-[11px] font-semibold text-white bg-brand-blue rounded-full px-3 py-1">
-                  {data ? 'Live' : 'Mock'}
-                </span>
+        <div className="page-enter flex flex-col gap-5 flex-1">
+          {/* Country Tabs */}
+          <CountryTabBar activeCountry={activeCountry} onSelect={handleCountrySelect} />
+
+          {/* CN placeholder */}
+          {isChinaSelected ? (
+            <div className="flex-1 flex flex-col items-center justify-center gap-4 dark:bg-navy-card bg-white rounded-xl border dark:border-navy-border border-gray-200 p-12">
+              <img src="https://flagcdn.com/w80/cn.png" alt="CN" style={{ width: 48, height: 34, borderRadius: 6, objectFit: 'cover' }} />
+              <span className="text-lg font-semibold dark:text-gray-300 text-gray-600">데이터 준비 중</span>
+              <span className="text-sm dark:text-gray-400 text-gray-500">중국 지역 트렌드 데이터는 곧 제공될 예정입니다</span>
+            </div>
+          ) : (
+            <>
+              {/* Platform Cards */}
+              <div className="flex gap-4">
+                {platforms.map((p, i) => (
+                  <PlatformCard key={p.name || p.key} platform={p} index={i}
+                    isActive={(p.key || PLATFORM_DEFS[i]?.key) === activePlatform}
+                    onClick={() => setActivePlatform(p.key || PLATFORM_DEFS[i]?.key)} />
+                ))}
               </div>
-              <div className="flex dark:bg-navy bg-gray-100 rounded-lg p-0.5">
-                <button onClick={() => setChartTab('freq')}
-                  className={`flex items-center gap-1.5 px-4 py-1.5 rounded-lg text-xs font-medium transition-all duration-300 ease-smooth
-                    ${chartTab === 'freq' ? 'bg-brand-blue text-white shadow-md' : 'dark:text-gray-400 text-gray-500'}`}>
-                  <Icon name="hash" size={13} color={chartTab === 'freq' ? '#fff' : '#858A9C'} /> 키워드 빈도
-                </button>
-                <button onClick={() => setChartTab('views')}
-                  className={`flex items-center gap-1.5 px-4 py-1.5 rounded-lg text-xs font-medium transition-all duration-300 ease-smooth
-                    ${chartTab === 'views' ? 'bg-brand-blue text-white shadow-md' : 'dark:text-gray-400 text-gray-500'}`}>
-                  <Icon name="eye" size={13} color={chartTab === 'views' ? '#fff' : '#858A9C'} /> YouTube 조회수
-                </button>
-              </div>
-              <div className="flex-1 flex items-center">
-                {chartTab === 'freq' ? (
-                  <div className="page-enter flex items-center gap-8 w-full" key="freq">
-                    <DonutChart data={keywordsFreq} totalLabel="total" />
-                    <div className="flex-1 flex flex-col gap-3.5">
-                      {keywordsFreq.map((kw, i) => (
-                        <div key={i} className="flex items-center gap-2.5">
-                          <div className="w-2.5 h-2.5 rounded-full flex-shrink-0" style={{ backgroundColor: kw.color }} />
-                          <span className="flex-1 text-[13px] dark:text-white text-gray-900">{kw.label}</span>
-                          <span className="text-[13px] font-semibold dark:text-gray-300 text-gray-600">{kw.value}%</span>
-                        </div>
-                      ))}
+
+              {/* Keywords + Recent Collections */}
+              <div className="flex gap-4 flex-1 min-h-0">
+                <div className="flex-1 dark:bg-navy-card bg-white rounded-xl p-6
+                  dark:border-navy-border border-gray-200 border flex flex-col gap-4">
+                  {/* Header with platform indicator */}
+                  <div className="flex items-center justify-between">
+                    <div className="flex items-center gap-3">
+                      <span className="text-lg font-semibold dark:text-white text-gray-900">Trending Keywords</span>
+                      <div className="flex items-center gap-1.5 px-2.5 py-1 rounded-full dark:bg-navy bg-gray-100">
+                        <div className="w-2 h-2 rounded-full" style={{ backgroundColor: activePlatformDef?.color || '#007AFF' }} />
+                        <span className="text-[11px] font-semibold" style={{ color: activePlatformDef?.color || '#007AFF' }}>
+                          {activePlatformDef?.name || 'YouTube'}
+                        </span>
+                      </div>
                     </div>
+                    <span className="text-[11px] font-semibold text-white bg-brand-blue rounded-full px-3 py-1">
+                      {data ? 'Live' : 'Mock'}
+                    </span>
                   </div>
-                ) : (
-                  <div className="page-enter w-full" key="views">
-                    <Treemap data={keywordsViews} />
+
+                  {/* Sub-tabs (dynamic based on platform) */}
+                  <div className="flex dark:bg-navy bg-gray-100 rounded-lg p-0.5">
+                    <button onClick={() => setChartTab('freq')}
+                      className={`flex items-center gap-1.5 px-4 py-1.5 rounded-lg text-xs font-medium transition-all duration-300 ease-smooth
+                        ${chartTab === 'freq' ? 'bg-brand-blue text-white shadow-md' : 'dark:text-gray-400 text-gray-500'}`}>
+                      <Icon name="hash" size={13} color={chartTab === 'freq' ? '#fff' : '#858A9C'} /> 키워드 빈도
+                    </button>
+                    <button onClick={() => setChartTab('secondary')}
+                      className={`flex items-center gap-1.5 px-4 py-1.5 rounded-lg text-xs font-medium transition-all duration-300 ease-smooth
+                        ${chartTab === 'secondary' ? 'bg-brand-blue text-white shadow-md' : 'dark:text-gray-400 text-gray-500'}`}>
+                      <Icon name={secondTab.icon} size={13} color={chartTab === 'secondary' ? '#fff' : '#858A9C'} /> {secondTab.label}
+                    </button>
                   </div>
-                )}
-              </div>
-            </div>
-            <div className="w-[340px] dark:bg-navy-card bg-white rounded-xl p-6
-              dark:border-navy-border border-gray-200 border flex flex-col gap-4">
-              <div className="flex items-center justify-between">
-                <span className="text-lg font-semibold dark:text-white text-gray-900">Recent Collections</span>
-                {data && (
-                  <span className="text-[11px] dark:text-gray-400 text-gray-500">{data.latestDate}</span>
-                )}
-              </div>
-              <div className="flex dark:border-b-navy-border border-b-gray-200 border-b pb-2">
-                <span className="flex-1 text-xs font-semibold dark:text-gray-400 text-gray-500">Platform</span>
-                <span className="w-14 text-xs font-semibold dark:text-gray-400 text-gray-500">Items</span>
-                <span className="w-16 text-xs font-semibold dark:text-gray-400 text-gray-500 text-right">Time</span>
-              </div>
-              {recentCollections.map((p, i) => (
-                <div key={i} className="flex items-center py-1">
-                  <span className="flex-1 text-[13px] dark:text-white text-gray-900">{p.name}</span>
-                  <span className="w-14 text-[13px] font-semibold text-brand-blue">{p.count}</span>
-                  <span className="w-16 text-[13px] dark:text-gray-400 text-gray-500 text-right">{p.time}</span>
+
+                  {/* Chart content */}
+                  <div className="flex-1 flex items-center">
+                    {isNaverUnavailable ? (
+                      <div className="flex items-center justify-center w-full h-[200px] text-sm dark:text-gray-400 text-gray-500">
+                        Naver 데이터는 한국(KR)에서만 이용 가능합니다
+                      </div>
+                    ) : chartTab === 'freq' ? (
+                      keywordsFreq.length > 0 ? (
+                        <div className="page-enter flex items-center gap-8 w-full" key={`freq-${activePlatform}-${activeCountry}`}>
+                          <DonutChart data={keywordsFreq} totalLabel="total" />
+                          <div className="flex-1 flex flex-col gap-3.5">
+                            {keywordsFreq.map((kw, i) => (
+                              <div key={i} className="flex items-center gap-2.5">
+                                <div className="w-2.5 h-2.5 rounded-full flex-shrink-0" style={{ backgroundColor: kw.color }} />
+                                <span className="flex-1 text-[13px] dark:text-white text-gray-900">{kw.label}</span>
+                                <span className="text-[13px] font-semibold dark:text-gray-300 text-gray-600">{kw.value}%</span>
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      ) : (
+                        <div className="flex items-center justify-center w-full h-[200px] text-sm dark:text-gray-400 text-gray-500">
+                          데이터가 없습니다
+                        </div>
+                      )
+                    ) : (
+                      <div className="page-enter w-full" key={`secondary-${activePlatform}-${activeCountry}`}>
+                        {activePlatform === 'youtube' && secondTabData.length > 0 ? (
+                          <Treemap data={secondTabData} />
+                        ) : activePlatform === 'google_trends' ? (
+                          <RankedList items={secondTabData} type="google_trends" />
+                        ) : activePlatform === 'x_twitter' ? (
+                          <RankedList items={secondTabData} type="x_twitter" />
+                        ) : activePlatform === 'naver' ? (
+                          <RankedList items={secondTabData} type="naver" />
+                        ) : activePlatform === 'pinterest' ? (
+                          <RankedList items={secondTabData} type="pinterest" />
+                        ) : activePlatform === 'youtube' && secondTabData.length === 0 ? (
+                          <div className="flex items-center justify-center w-full h-[200px] text-sm dark:text-gray-400 text-gray-500">
+                            데이터가 없습니다
+                          </div>
+                        ) : null}
+                      </div>
+                    )}
+                  </div>
                 </div>
-              ))}
-            </div>
-          </div>
+
+                {/* Recent Collections sidebar */}
+                <div className="w-[340px] dark:bg-navy-card bg-white rounded-xl p-6
+                  dark:border-navy-border border-gray-200 border flex flex-col gap-4">
+                  <div className="flex items-center justify-between">
+                    <span className="text-lg font-semibold dark:text-white text-gray-900">Recent Collections</span>
+                    {data && (
+                      <span className="text-[11px] dark:text-gray-400 text-gray-500">{data.latestDate}</span>
+                    )}
+                  </div>
+                  <div className="flex dark:border-b-navy-border border-b-gray-200 border-b pb-2">
+                    <span className="flex-1 text-xs font-semibold dark:text-gray-400 text-gray-500">Platform</span>
+                    <span className="w-14 text-xs font-semibold dark:text-gray-400 text-gray-500">Items</span>
+                    <span className="w-20 text-xs font-semibold dark:text-gray-400 text-gray-500 text-right">Time</span>
+                  </div>
+                  {recentCollections.map((p, i) => (
+                    <div key={i} className="flex items-center py-1">
+                      <span className="flex-1 text-[13px] dark:text-white text-gray-900">{p.name}</span>
+                      <span className="w-14 text-[13px] font-semibold text-brand-blue">{p.count}</span>
+                      <span className="w-20 text-[13px] dark:text-gray-400 text-gray-500 text-right">{p.time}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </>
+          )}
         </div>
       );
     }
@@ -869,7 +1238,7 @@
         },
         {
           icon: 'clock', label: '마지막 수집',
-          value: monStats ? monStats.lastTime : '09:02',
+          value: monStats ? monStats.lastTime : '9:02 AM',
           sub: monStats ? monStats.lastDate : '2026-03-17 KST',
           color: 'dark:text-white text-gray-900', iconColor: '#858A9C',
         },
@@ -974,8 +1343,6 @@
           if (result) {
             const platforms = buildPlatforms(result.latestFashionMeta, result.latestGeneralMeta);
             const recentCollections = buildRecentCollections(result.latestFashionMeta, result.latestGeneralMeta);
-            const keywordsFreq = extractKeywordsFromYouTube(result.fashion.youtube, result.general.youtube);
-            const keywordsViews = extractViewsFromYouTube(result.fashion.youtube, result.general.youtube);
             const history = buildHistory(result.metaResults);
             const platformRates = buildPlatformRates(result.metaResults);
             const monitoringStats = buildMonitoringStats(result.metaResults, result.latestFashionMeta);
@@ -986,8 +1353,8 @@
               metaResults: result.metaResults,
               platforms,
               recentCollections,
-              keywordsFreq,
-              keywordsViews,
+              fashion: result.fashion,
+              general: result.general,
               history,
               platformRates,
               monitoringStats,
