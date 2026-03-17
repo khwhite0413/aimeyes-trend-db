@@ -96,6 +96,56 @@ def _filter_fashion(trends):
     )]
 
 
+# 패션 해시태그 직접 검색 (nitter/검색 대안)
+FASHION_HASHTAGS = {
+    "korea": ["패션", "OOTD", "데일리룩", "코디", "스트릿패션", "무신사"],
+    "united-states": ["fashion", "OOTD", "streetwear", "thrifthaul", "outfitinspo", "quietluxury"],
+    "canada": ["fashion", "OOTD", "thriftflip", "canadianfashion"],
+    "japan": ["ファッション", "コーデ", "古着", "韓国ファッション", "プチプラ"],
+    "": ["fashion", "OOTD", "streetstyle"],
+}
+
+
+def _search_fashion_hashtags(slug):
+    """getdaytrends.com에서 패션 해시태그별 트렌딩 여부 확인"""
+    hashtags = FASHION_HASHTAGS.get(slug, FASHION_HASHTAGS[""])
+    results = []
+
+    for tag in hashtags:
+        try:
+            # getdaytrends.com에서 특정 해시태그 검색
+            url = f"https://getdaytrends.com/trend/%23{tag}/"
+            r = requests.get(url, headers=_UA, timeout=10)
+            r.encoding = 'utf-8'
+            if r.status_code != 200:
+                results.append({"hashtag": f"#{tag}", "status": "not_trending", "volume": ""})
+                continue
+
+            soup = BeautifulSoup(r.text, "html.parser")
+            # 볼륨/트렌딩 정보 추출
+            volume = ""
+            trend_info = soup.select_one(".trend-detail, .trend-volume, .summary")
+            if trend_info:
+                vol_text = trend_info.get_text(strip=True)
+                vol_match = re.search(r"([\d,.]+[KkMm]?\+?\s*tweets?)", vol_text, re.IGNORECASE)
+                if vol_match:
+                    volume = vol_match.group(1)
+
+            status = "trending" if volume else "found"
+            results.append({
+                "hashtag": f"#{tag}",
+                "status": status,
+                "volume": volume,
+                "rank": len(results) + 1,
+            })
+            time.sleep(1)
+
+        except Exception:
+            results.append({"hashtag": f"#{tag}", "status": "error", "volume": ""})
+
+    return results
+
+
 def collect(mode="fashion"):
     results = {}
     for slug, name in COUNTRIES.items():
@@ -111,12 +161,18 @@ def collect(mode="fashion"):
                 pass
 
         if mode == "fashion":
+            # 패션 해시태그 직접 검색 추가
+            fashion_hashtags = _search_fashion_hashtags(slug)
+
             results[slug or "global"] = {
                 "fashion_related": _filter_fashion(trends),
                 "all_trending": trends,
+                "fashion_hashtags": fashion_hashtags,
             }
         else:
-            results[slug or "global"] = trends
+            results[slug or "global"] = {
+                "all_trending": trends,
+            }
         time.sleep(2)
 
     return {"platform": "x_twitter", "mode": mode, "countries": results}
