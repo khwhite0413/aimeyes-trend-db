@@ -13,17 +13,17 @@ COUNTRIES = {
 FASHION_KEYWORDS = {
     "KR": [
         "Y2K패션", "미니멀코어", "레이어링", "스트릿패션", "빈티지코디",
-        "OOTD", "무신사", "지그재그", "데일리룩", "봄코디",
+        "OOTD", "무신사", "지그재그", "데일리룩", "계절코디",
         "패션하울", "코디룩북", "뉴트럴톤", "콜라주레이어링",
     ],
     "US": [
         "quiet luxury", "mob wife aesthetic", "coquette", "streetwear", "vintage fashion",
-        "capsule wardrobe", "thrift fashion", "OOTD", "spring outfits",
+        "capsule wardrobe", "thrift fashion", "OOTD", "seasonal outfits",
         "Amazon fashion", "Y2K fashion", "outfit lookbook",
     ],
     "JP": [
         "韓国ファッション", "ストリート系", "古着コーデ", "ミニマル", "Y2Kファッション",
-        "着回しコーデ", "GUコーデ", "ユニクロコーデ", "春コーデ",
+        "着回しコーデ", "GUコーデ", "ユニクロコーデ", "季節コーデ",
         "プチプラコーデ", "骨格診断",
     ],
 }

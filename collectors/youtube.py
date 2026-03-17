@@ -14,18 +14,18 @@ SEARCHES = {
             "패션 트렌드 2026", "코디 룩북", "패션 하울",
             "OOTD 데일리룩", "스트릿 패션 코디",
             "무신사 인기 아이템", "빈티지 Y2K 패션",
-            "봄 코디 추천",
+            "계절별 코디 추천",
         ],
         "US": [
             "fashion trend 2026", "outfit lookbook", "fashion haul",
             "OOTD street style", "thrift haul capsule wardrobe",
-            "quiet luxury outfit", "spring outfits 2026",
+            "quiet luxury outfit", "seasonal outfits ideas",
             "Amazon fashion finds",
         ],
         "JP": [
             "ファッション トレンド 2026", "コーデ ルックブック",
             "着回し 古着コーデ", "韓国ファッション",
-            "春コーデ 2026", "GU ユニクロ コーデ",
+            "季節コーデ", "GU ユニクロ コーデ",
         ],
     },
     "general": {
