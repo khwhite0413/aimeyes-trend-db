@@ -39,6 +39,7 @@ FASHION_TERMS = [
 def _scrape_trends24(slug):
     url = f"https://trends24.in/{slug}/" if slug else "https://trends24.in/"
     r = requests.get(url, headers=_UA, timeout=15)
+    r.encoding = 'utf-8'
     if r.status_code != 200:
         return []
     soup = BeautifulSoup(r.text, "html.parser")
@@ -66,6 +67,7 @@ def _scrape_trends24(slug):
 def _scrape_getdaytrends(slug):
     url = f"https://getdaytrends.com/{slug}/" if slug else "https://getdaytrends.com/"
     r = requests.get(url, headers=_UA, timeout=15)
+    r.encoding = 'utf-8'
     if r.status_code != 200:
         return []
     soup = BeautifulSoup(r.text, "html.parser")

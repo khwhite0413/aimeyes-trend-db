@@ -429,7 +429,7 @@
       const processYT = (ytData) => {
         if (!ytData?.regions) return;
         // Use both trending and search for views
-        for (const suffix of ['_trending', '_search']) {
+        for (const suffix of ['_search']) {
           const regionKey = `${cc}${suffix}`;
           const videos = ytData.regions[regionKey];
           if (!Array.isArray(videos)) continue;
@@ -810,18 +810,42 @@
         setMousePos({ x: e.clientX, y: e.clientY });
       }, []);
 
-      const layout = [
-        { x: 0, y: 0, w: 48.8, h: 57.7 },
-        { x: 48.8, y: 0, w: 28.8, h: 57.7 },
-        { x: 0, y: 57.7, w: 35.5, h: 42.3 },
-        { x: 77.6, y: 0, w: 22.4, h: 33.8 },
-        { x: 35.5, y: 57.7, w: 31, h: 42.3 },
-        { x: 77.6, y: 33.8, w: 22.4, h: 23.8 },
-        { x: 66.5, y: 57.7, w: 17.7, h: 42.3 },
-        { x: 84.2, y: 57.7, w: 15.8, h: 42.3 },
-      ];
+      function computeTreemapLayout(items) {
+        const total = items.reduce((s, d) => s + d.views, 0);
+        if (total === 0) return items.map(() => ({ x: 0, y: 0, w: 100, h: 100 }));
+        const layouts = [];
+        const topRowItems = [];
+        const bottomRowItems = [];
+        let topSum = 0;
+        const halfTotal = total / 2;
+        for (const item of items) {
+          if (topSum < halfTotal && topRowItems.length < 4) {
+            topRowItems.push(item);
+            topSum += item.views;
+          } else {
+            bottomRowItems.push(item);
+          }
+        }
+        const topPct = (topSum / total) * 100;
+        const bottomPct = 100 - topPct;
+        let x = 0;
+        for (const item of topRowItems) {
+          const w = (item.views / topSum) * 100;
+          layouts.push({ x, y: 0, w, h: topPct });
+          x += w;
+        }
+        x = 0;
+        const bottomSum = total - topSum;
+        for (const item of bottomRowItems) {
+          const w = bottomSum > 0 ? (item.views / bottomSum) * 100 : 100 / bottomRowItems.length;
+          layouts.push({ x, y: topPct, w, h: bottomPct });
+          x += w;
+        }
+        return layouts;
+      }
 
-      const displayData = data.slice(0, layout.length);
+      const displayData = data.slice(0, 8);
+      const layout = computeTreemapLayout(displayData);
 
       return (
         <div className="relative w-full h-[260px] rounded-lg overflow-hidden"
