@@ -892,11 +892,11 @@
         badge?.type === 'rising' && React.createElement('span', {
           className: 'digest-badge inline-flex items-center px-1.5 py-0.5 rounded-md text-[9px] font-semibold',
           style: { backgroundColor: 'rgba(34,197,94,0.12)', color: '#22C55E' }
-        }, `↑ +${badge.change}%`),
+        }, `↑ ${badge.change}`),
         badge?.type === 'declining' && React.createElement('span', {
           className: 'digest-badge inline-flex items-center px-1.5 py-0.5 rounded-md text-[9px] font-semibold',
           style: { backgroundColor: 'rgba(239,68,68,0.12)', color: '#EF4444' }
-        }, `↓ ${badge.change}%`),
+        }, `↓ ${badge.change}`),
         badge?.type === 'new' && React.createElement('span', {
           className: 'digest-badge-new inline-flex items-center px-1.5 py-0.5 rounded-md text-[8px] font-bold',
           style: { backgroundColor: 'rgba(234,179,8,0.12)', color: '#EAB308' }
