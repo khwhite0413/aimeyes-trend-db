@@ -200,6 +200,8 @@
       .monitoring-stats-row > * { min-width: unset !important; flex: unset !important; }
       .monitoring-stat-card .monitoring-stat-value { font-size: 22px !important; }
       .monitoring-stat-card .monitoring-stat-label { font-size: 10px !important; }
+      .monitoring-countdown-desktop { display: none !important; }
+      .monitoring-countdown-mobile { display: block !important; }
 
       /* Monitoring bottom: vertical stack */
       .monitoring-bottom {
@@ -1884,6 +1886,44 @@
     function Monitoring() {
       const data = useData();
 
+      // Countdown timer to next collection (09:00 / 23:00 KST)
+      const [countdownTime, setCountdownTime] = useState('');
+      const [countdownNext, setCountdownNext] = useState('');
+      const [countdownProgress, setCountdownProgress] = useState(0);
+
+      useEffect(() => {
+        const update = () => {
+          const now = new Date();
+          const kst = new Date(now.getTime() + (9 * 60 - now.getTimezoneOffset()) * 60000);
+          const hours = kst.getHours();
+          const minutes = kst.getMinutes();
+
+          let nextHour;
+          if (hours < 9) nextHour = 9;
+          else if (hours < 23) nextHour = 23;
+          else nextHour = 9;
+
+          let diffMinutes;
+          if (nextHour > hours || (nextHour === hours && minutes === 0)) {
+            diffMinutes = (nextHour - hours) * 60 - minutes;
+          } else {
+            diffMinutes = (24 - hours + 9) * 60 - minutes;
+          }
+
+          const h = Math.floor(diffMinutes / 60);
+          const m = diffMinutes % 60;
+          setCountdownTime(`${h}h ${m}m`);
+          setCountdownNext(nextHour === 9 ? '09:00 KST 예정' : '23:00 KST 예정');
+
+          const totalInterval = hours < 9 ? 10 * 60 : (hours < 23 ? 14 * 60 : 10 * 60);
+          const elapsed = totalInterval - diffMinutes;
+          setCountdownProgress(Math.min(100, Math.max(0, (elapsed / totalInterval) * 100)));
+        };
+        update();
+        const interval = setInterval(update, 60000);
+        return () => clearInterval(interval);
+      }, []);
+
       const monStats = data?.monitoringStats;
       const history = data?.history?.length > 0 ? data.history : MOCK_HISTORY;
       const isHistoryMock = !(data?.history?.length > 0);
@@ -1939,6 +1979,21 @@
                 </div>
                 <div className={`monitoring-stat-value text-[28px] font-bold leading-none ${s.color}`}>{s.value}</div>
                 <div className="text-[11px] dark:text-gray-400 text-gray-500 mt-1">{s.sub}</div>
+                {s.icon === 'clock' && (
+                  <>
+                    <div className="monitoring-countdown-desktop mt-1 rounded-lg p-2" style={{ backgroundColor: 'rgba(0,122,255,0.08)' }}>
+                      <div className="text-[10px] dark:text-gray-400 text-gray-500">다음 수집까지</div>
+                      <div className="text-[20px] font-bold text-brand-blue">{countdownTime}</div>
+                      <div className="w-full h-1 rounded-full dark:bg-navy-border bg-gray-200 mt-1">
+                        <div className="h-full rounded-full bg-brand-blue transition-all duration-1000" style={{ width: `${countdownProgress}%` }} />
+                      </div>
+                      <div className="text-[9px] dark:text-gray-400 text-gray-500 mt-1">{countdownNext}</div>
+                    </div>
+                    <div className="monitoring-countdown-mobile mt-1 rounded-md px-1.5 py-1" style={{ backgroundColor: 'rgba(0,122,255,0.08)', display: 'none' }}>
+                      <span className="text-[9px] font-semibold text-brand-blue">다음 {countdownTime}</span>
+                    </div>
+                  </>
+                )}
               </div>
             ))}
           </div>
