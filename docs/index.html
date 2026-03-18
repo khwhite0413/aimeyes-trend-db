@@ -109,6 +109,18 @@
       border-color: #007AFF !important;
       box-shadow: 0 0 12px rgba(0, 122, 255, 0.35);
     }
+    @media (max-width: 1024px) {
+      .platform-cards-row { flex-wrap: wrap !important; }
+      .platform-cards-row > * { min-width: 45% !important; flex: 1 1 45% !important; }
+    }
+    @media (max-width: 768px) {
+      .dashboard-sidebar { display: none !important; }
+      .dashboard-main { padding: 16px !important; }
+      .platform-cards-row > * { min-width: 100% !important; flex: 1 1 100% !important; }
+      .bottom-section { flex-direction: column !important; }
+      .bottom-section > * { width: 100% !important; }
+      .country-tabs { flex-wrap: wrap !important; }
+    }
   </style>
 </head>
 <body>
@@ -1143,7 +1155,7 @@
     // ─── Country Tab Bar ───
     function CountryTabBar({ activeCountry, onSelect }) {
       return (
-        <div className="flex items-center gap-2">
+        <div className="country-tabs flex items-center gap-2">
           {COUNTRY_TABS.map(tab => {
             const isActive = activeCountry === tab.id;
             return (
@@ -1271,13 +1283,13 @@
           {isChinaSelected ? (
             <div className="flex-1 flex flex-col items-center justify-center gap-4 dark:bg-navy-card bg-white rounded-xl border dark:border-navy-border border-gray-200 p-12">
               <img src="https://flagcdn.com/w80/cn.png" alt="CN" style={{ width: 48, height: 34, borderRadius: 6, objectFit: 'cover' }} />
-              <span className="text-lg font-semibold dark:text-gray-300 text-gray-600">데이터 준비 중</span>
-              <span className="text-sm dark:text-gray-400 text-gray-500">중국 지역 트렌드 데이터는 곧 제공될 예정입니다</span>
+              <span className="text-lg font-semibold dark:text-gray-300 text-gray-600">&#x1F1E8;&#x1F1F3; 중국 데이터 준비 중</span>
+              <span className="text-sm dark:text-gray-400 text-gray-500">Douyin, 小红书(RED), Weibo 등 중국 플랫폼 수집기 추가 예정</span>
             </div>
           ) : (
             <>
               {/* Platform Cards */}
-              <div className="flex gap-4">
+              <div className="platform-cards-row flex gap-4">
                 {platforms.map((p, i) => (
                   <PlatformCard key={p.name || p.key} platform={p} index={i}
                     isActive={(p.key || PLATFORM_DEFS[i]?.key) === activePlatform}
@@ -1286,7 +1298,7 @@
               </div>
 
               {/* Keywords + Recent Collections */}
-              <div className="flex gap-4 flex-1 min-h-0">
+              <div className="bottom-section flex gap-4 flex-1 min-h-0">
                 <div className="flex-1 dark:bg-navy-card bg-white rounded-xl p-6
                   dark:border-navy-border border-gray-200 border flex flex-col gap-4">
                   {/* Header with platform indicator */}
@@ -1585,7 +1597,7 @@
         <DataContext.Provider value={dashData}>
           <div className="flex h-screen dark:bg-navy bg-gray-50 font-inter overflow-hidden max-w-[1440px] mx-auto">
             {/* Sidebar */}
-            <div className="w-60 flex-shrink-0 dark:bg-navy-dark bg-white flex flex-col
+            <div className="dashboard-sidebar w-60 flex-shrink-0 dark:bg-navy-dark bg-white flex flex-col
               dark:border-r-navy-border border-r-gray-200 border-r p-5 gap-2">
               <div className="flex items-center gap-2.5 pb-4">
                 <div className="w-8 h-8 rounded-lg bg-brand-red flex items-center justify-center">
@@ -1623,7 +1635,7 @@
             </div>
 
             {/* Main Content */}
-            <div className="flex-1 flex flex-col p-8 overflow-auto min-w-0">
+            <div className="dashboard-main flex-1 flex flex-col p-8 overflow-auto min-w-0">
               <div className="flex items-center justify-between mb-6">
                 <div>
                   <h1 className="text-[28px] font-bold dark:text-white text-gray-900 tracking-tight">

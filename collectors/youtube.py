@@ -133,8 +133,11 @@ def _get_video_stats(video_ids):
                         "likes": int(s.get("likeCount", 0)),
                         "comments": int(s.get("commentCount", 0)),
                     }
-        except Exception:
-            pass
+        except Exception as e:
+            # stats 조회 실패 시 에러 기록
+            for vid in batch:
+                if vid not in stats_map:
+                    stats_map[vid] = {"views": 0, "likes": 0, "comments": 0, "error": str(e)[:100]}
         time.sleep(0.3)
     return stats_map
 

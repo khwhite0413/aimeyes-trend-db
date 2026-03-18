@@ -11,6 +11,8 @@ import json
 import datetime
 import importlib
 
+# 활성 수집기 목록
+# reddit, tiktok: GitHub Actions IP 차단으로 제외 (로컬 MCP에서만 사용)
 COLLECTORS = [
     "youtube",
     "google_trends",
