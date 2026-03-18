@@ -94,6 +94,19 @@
       animation: spin 0.8s linear infinite;
     }
     @keyframes spin { to { transform: rotate(360deg); } }
+    .timeline-line {
+      stroke-dasharray: var(--line-length, 1000);
+      stroke-dashoffset: var(--line-length, 1000);
+      animation: lineDrawIn 1.2s cubic-bezier(0.25, 0.1, 0.25, 1) forwards;
+    }
+    @keyframes lineDrawIn { to { stroke-dashoffset: 0; } }
+    .timeline-dot {
+      opacity: 0;
+      animation: dotFadeIn 0.3s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+    }
+    @keyframes dotFadeIn { to { opacity: 1; } }
+    .period-tab-content { animation: periodFadeIn 0.25s cubic-bezier(0.4, 0, 0.2, 1) forwards; }
+    @keyframes periodFadeIn { from { opacity: 0; } to { opacity: 1; } }
     .country-tab {
       transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
       cursor: pointer; user-select: none;
@@ -156,6 +169,11 @@
       }
       .bottom-section > * { width: 100% !important; }
       .recent-collections-panel { width: 100% !important; }
+
+      /* Timeline chart mobile */
+      .timeline-chart-area { height: 200px !important; }
+      .timeline-legend { flex-wrap: wrap !important; gap: 8px 16px !important; }
+      .timeline-period-tabs button { padding: 4px 10px !important; font-size: 11px !important; }
 
       /* Chart area: donut + legend vertical */
       .chart-area-horizontal {
@@ -317,6 +335,28 @@
         fetchJSON(`${DATA_BASE}general/${latestDate}/pinterest.json`),
       ]);
 
+      // Load platform data for ALL discovered dates (for timeline)
+      const allDatesData = {};
+      const allDatesPromises = metaResults.map(async ({ date }) => {
+        const [fYt, fGt, fXt, fNv, fPn, gYt, gGt, gXt, gNv, gPn] = await Promise.all([
+          fetchJSON(`${DATA_BASE}fashion/${date}/youtube.json`),
+          fetchJSON(`${DATA_BASE}fashion/${date}/google_trends.json`),
+          fetchJSON(`${DATA_BASE}fashion/${date}/x_twitter.json`),
+          fetchJSON(`${DATA_BASE}fashion/${date}/naver.json`),
+          fetchJSON(`${DATA_BASE}fashion/${date}/pinterest.json`),
+          fetchJSON(`${DATA_BASE}general/${date}/youtube.json`),
+          fetchJSON(`${DATA_BASE}general/${date}/google_trends.json`),
+          fetchJSON(`${DATA_BASE}general/${date}/x_twitter.json`),
+          fetchJSON(`${DATA_BASE}general/${date}/naver.json`),
+          fetchJSON(`${DATA_BASE}general/${date}/pinterest.json`),
+        ]);
+        allDatesData[date] = {
+          fashion: { youtube: fYt, googleTrends: fGt, xTwitter: fXt, naver: fNv, pinterest: fPn },
+          general: { youtube: gYt, googleTrends: gGt, xTwitter: gXt, naver: gNv, pinterest: gPn },
+        };
+      });
+      await Promise.all(allDatesPromises);
+
       return {
         metaResults,
         latestDate,
@@ -324,6 +364,7 @@
         latestGeneralMeta: metaResults[0].generalMeta,
         fashion: { youtube, googleTrends, xTwitter, naver, pinterest },
         general: { youtube: youtubeGen, googleTrends: googleTrendsGen, xTwitter: xTwitterGen, naver: naverGen, pinterest: pinterestGen },
+        allDatesData,
       };
     }
 
@@ -1285,6 +1326,235 @@
     }
 
     // ─── Trend Overview Tab ───
+    // ─── Trend Timeline (Line Chart) ───
+    function TrendTimeline({ activePlatform, activeCountry, data }) {
+      const [period, setPeriod] = useState(7);
+      const [hoverIdx, setHoverIdx] = useState(null);
+      const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
+      const svgRef = useRef(null);
+      const lineRefs = useRef([]);
+
+      const COLORS = ['#007AFF', '#34C759', '#FFD60A', '#AF52DE', '#FF4D40'];
+      const activePlatformDef = PLATFORM_DEFS.find(p => p.key === activePlatform);
+
+      // Build timeline data from allDatesData
+      const timelineData = useMemo(() => {
+        if (!data?.allDatesData) return { dates: [], keywords: [], series: [] };
+
+        const availableDates = Object.keys(data.allDatesData).sort();
+        const sliced = availableDates.slice(-period);
+
+        // For each date, extract keyword frequencies using the same logic
+        const allKeywordFreqs = [];
+        for (const date of sliced) {
+          const dateData = data.allDatesData[date];
+          if (!dateData) continue;
+          const keywords = extractKeywordsForPlatform(activePlatform, activeCountry, dateData.fashion, dateData.general);
+          const freqMap = {};
+          for (const kw of keywords) {
+            freqMap[kw.label] = kw.count;
+          }
+          allKeywordFreqs.push({ date, freqMap });
+        }
+
+        // Collect all unique keywords across dates, pick top 5 by total count
+        const totalCounts = {};
+        for (const { freqMap } of allKeywordFreqs) {
+          for (const [k, v] of Object.entries(freqMap)) {
+            totalCounts[k] = (totalCounts[k] || 0) + v;
+          }
+        }
+        const topKeywords = Object.entries(totalCounts)
+          .sort((a, b) => b[1] - a[1])
+          .slice(0, 5)
+          .map(([k]) => k);
+
+        // Find max value for normalization
+        let maxVal = 0;
+        for (const { freqMap } of allKeywordFreqs) {
+          for (const kw of topKeywords) {
+            if ((freqMap[kw] || 0) > maxVal) maxVal = freqMap[kw];
+          }
+        }
+
+        // Build series: for each keyword, array of normalized values
+        const series = topKeywords.map(kw => ({
+          keyword: kw,
+          values: allKeywordFreqs.map(({ freqMap }) => {
+            const raw = freqMap[kw] || 0;
+            return maxVal > 0 ? Math.round((raw / maxVal) * 100) : 0;
+          }),
+          rawValues: allKeywordFreqs.map(({ freqMap }) => freqMap[kw] || 0),
+        }));
+
+        const dates = allKeywordFreqs.map(({ date }) => {
+          const d = new Date(date);
+          return `${d.getMonth() + 1}/${d.getDate()}`;
+        });
+
+        return { dates, keywords: topKeywords, series };
+      }, [data, activePlatform, activeCountry, period]);
+
+      // Measure line lengths for stroke-dasharray animation
+      useEffect(() => {
+        lineRefs.current.forEach((path, i) => {
+          if (path) {
+            const length = path.getTotalLength();
+            path.style.setProperty('--line-length', length);
+            // Reset animation
+            path.style.animation = 'none';
+            path.getBoundingClientRect();
+            path.style.animation = '';
+          }
+        });
+      }, [timelineData, period]);
+
+      const { dates, keywords, series } = timelineData;
+      const hasData = dates.length > 0 && series.length > 0;
+
+      // SVG dimensions
+      const padding = { top: 20, right: 20, bottom: 30, left: 40 };
+      const chartW = 800;
+      const chartH = 280;
+      const plotW = chartW - padding.left - padding.right;
+      const plotH = chartH - padding.top - padding.bottom;
+
+      const getX = (i) => padding.left + (dates.length > 1 ? (i / (dates.length - 1)) * plotW : plotW / 2);
+      const getY = (val) => padding.top + plotH - (val / 100) * plotH;
+
+      // Build cubic bezier path
+      const buildPath = (values) => {
+        if (values.length === 0) return '';
+        if (values.length === 1) return `M${getX(0)},${getY(values[0])}`;
+        let d = `M${getX(0)},${getY(values[0])}`;
+        for (let i = 1; i < values.length; i++) {
+          const x0 = getX(i - 1), y0 = getY(values[i - 1]);
+          const x1 = getX(i), y1 = getY(values[i]);
+          const cpx = (x0 + x1) / 2;
+          d += ` C${cpx},${y0} ${cpx},${y1} ${x1},${y1}`;
+        }
+        return d;
+      };
+
+      const handleMouseMove = useCallback((e) => {
+        if (!svgRef.current || dates.length === 0) return;
+        const rect = svgRef.current.getBoundingClientRect();
+        const scaleX = chartW / rect.width;
+        const mouseX = (e.clientX - rect.left) * scaleX;
+        const relX = mouseX - padding.left;
+        const step = dates.length > 1 ? plotW / (dates.length - 1) : plotW;
+        let idx = Math.round(relX / step);
+        idx = Math.max(0, Math.min(dates.length - 1, idx));
+        setHoverIdx(idx);
+        setMousePos({ x: e.clientX, y: e.clientY });
+      }, [dates.length, plotW]);
+
+      const handleMouseLeave = useCallback(() => setHoverIdx(null), []);
+
+      return (
+        <div className="dark:bg-navy-card bg-white rounded-xl border dark:border-navy-border border-gray-200 p-6 flex flex-col gap-4">
+          {/* Header */}
+          <div className="flex items-center justify-between flex-wrap gap-3">
+            <span className="text-lg font-semibold dark:text-white text-gray-900">Trend Timeline</span>
+            <div className="flex items-center gap-3">
+              {/* Period tabs */}
+              <div className="flex dark:bg-navy bg-gray-100 rounded-lg p-0.5 timeline-period-tabs">
+                {[7, 14, 30].map(p => (
+                  <button key={p} onClick={() => setPeriod(p)}
+                    className={`px-3 py-1 rounded-md text-xs font-medium transition-all duration-300 ease-smooth
+                      ${period === p ? 'bg-brand-blue text-white shadow-md' : 'dark:text-gray-400 text-gray-500'}`}>
+                    {p}일
+                  </button>
+                ))}
+              </div>
+              {/* Platform badge */}
+              <div className="flex items-center gap-1.5 px-2.5 py-1 rounded-full dark:bg-navy bg-gray-100">
+                <div className="w-2 h-2 rounded-full" style={{ backgroundColor: activePlatformDef?.color || '#007AFF' }} />
+                <span className="text-[11px] font-semibold" style={{ color: activePlatformDef?.color || '#007AFF' }}>
+                  {activePlatformDef?.name || 'YouTube'}
+                </span>
+              </div>
+            </div>
+          </div>
+
+          {/* Chart */}
+          {!hasData ? (
+            <div className="flex items-center justify-center h-[200px] text-sm dark:text-gray-400 text-gray-500">
+              타임라인 데이터가 없습니다
+            </div>
+          ) : (
+            <div className="period-tab-content" key={`${activePlatform}-${activeCountry}-${period}`}>
+              <div className="timeline-chart-area relative" style={{ height: 280 }}
+                onMouseMove={handleMouseMove} onMouseLeave={handleMouseLeave}>
+                <svg ref={svgRef} viewBox={`0 0 ${chartW} ${chartH}`} className="w-full h-full" preserveAspectRatio="xMidYMid meet">
+                  {/* Grid lines */}
+                  {[0, 25, 50, 75, 100].map(v => (
+                    <g key={v}>
+                      <line x1={padding.left} y1={getY(v)} x2={chartW - padding.right} y2={getY(v)}
+                        stroke="currentColor" strokeWidth="0.5" className="dark:text-navy-border text-gray-200" strokeDasharray={v === 0 ? 'none' : '4,4'} />
+                      <text x={padding.left - 8} y={getY(v) + 4} textAnchor="end"
+                        className="dark:fill-gray-500 fill-gray-400" style={{ fontSize: 10 }}>{v}</text>
+                    </g>
+                  ))}
+
+                  {/* X axis labels */}
+                  {dates.map((d, i) => (
+                    <text key={i} x={getX(i)} y={chartH - 6} textAnchor="middle"
+                      className="dark:fill-gray-500 fill-gray-400" style={{ fontSize: 10 }}>{d}</text>
+                  ))}
+
+                  {/* Lines */}
+                  {series.map((s, si) => (
+                    <path key={si} ref={el => lineRefs.current[si] = el}
+                      d={buildPath(s.values)} fill="none" stroke={COLORS[si]}
+                      strokeWidth="2.5" strokeLinecap="round" className="timeline-line"
+                      style={{ animationDelay: `${si * 0.15}s` }} />
+                  ))}
+
+                  {/* Data point dots */}
+                  {series.map((s, si) => s.values.map((v, vi) => (
+                    <circle key={`${si}-${vi}`} cx={getX(vi)} cy={getY(v)} r="3.5"
+                      fill={COLORS[si]} stroke="white" strokeWidth="1.5"
+                      className="timeline-dot" style={{ animationDelay: `${0.8 + vi * 0.05 + si * 0.15}s` }} />
+                  )))}
+
+                  {/* Hover vertical line */}
+                  {hoverIdx !== null && (
+                    <line x1={getX(hoverIdx)} y1={padding.top} x2={getX(hoverIdx)} y2={chartH - padding.bottom}
+                      stroke="currentColor" strokeWidth="1" className="dark:text-gray-500 text-gray-300" strokeDasharray="4,4" />
+                  )}
+                </svg>
+              </div>
+
+              {/* Tooltip */}
+              <Tooltip visible={hoverIdx !== null} x={mousePos.x} y={mousePos.y}>
+                {hoverIdx !== null && (<>
+                  <div className="font-semibold text-[13px] mb-1.5">{dates[hoverIdx]}</div>
+                  {series.map((s, si) => (
+                    <div key={si} className="flex items-center gap-2 text-white/80 mb-0.5">
+                      <div className="w-2 h-2 rounded-full flex-shrink-0" style={{ backgroundColor: COLORS[si] }} />
+                      <span className="flex-1">{s.keyword}</span>
+                      <span className="font-semibold ml-2">{s.rawValues[hoverIdx]}</span>
+                    </div>
+                  ))}
+                </>)}
+              </Tooltip>
+
+              {/* Legend */}
+              <div className="timeline-legend flex items-center justify-center gap-6 mt-3 flex-wrap">
+                {series.map((s, si) => (
+                  <div key={si} className="flex items-center gap-2">
+                    <div className="w-4 h-0.5 rounded-full" style={{ backgroundColor: COLORS[si] }} />
+                    <span className="text-[12px] dark:text-gray-300 text-gray-600">{s.keyword}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      );
+    }
+
     function TrendOverview() {
       const [chartTab, setChartTab] = useState('freq');
       const [activeCountry, setActiveCountry] = useState('KR');
@@ -1475,6 +1745,13 @@
                   ))}
                 </div>
               </div>
+
+              {/* Trend Timeline */}
+              <TrendTimeline
+                activePlatform={activePlatform}
+                activeCountry={activeCountry}
+                data={data}
+              />
             </>
           )}
         </div>
@@ -1639,6 +1916,7 @@
               recentCollections,
               fashion: result.fashion,
               general: result.general,
+              allDatesData: result.allDatesData,
               history,
               platformRates,
               monitoringStats,
