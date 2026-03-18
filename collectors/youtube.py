@@ -57,6 +57,15 @@ FASHION_FILTER_TERMS = [
     "quiet luxury", "coquette", "capsule", "레이어링", "layering",
 ]
 
+# 패션 검색 결과에서 제외할 블랙리스트 (비관련 콘텐츠)
+BLACKLIST_TERMS = [
+    "saree", "sari", "lehenga", "kurti", "salwar", "anarkali", "mehndi", "henna",
+    "bridal wear", "wedding wear", "mangalsutra", "bindi",
+    "ramadan", "ramadhan", "hijab tutorial", "abaya",
+    "necklace design", "gold jewellery", "prime jeweller",
+    "rangoli", "mehendi", "dupatta",
+]
+
 REGION_MAP = {"KR": "KR", "US": "US", "JP": "JP"}
 
 
@@ -214,6 +223,12 @@ def collect(mode="fashion"):
                     search_results.append(v)
             time.sleep(0.5)
         search_results = search_results[:20]
+
+        # 블랙리스트 필터링 (비관련 콘텐츠 제거)
+        if mode == "fashion":
+            search_results = [v for v in search_results
+                              if not any(term in (v.get("title", "") + " " + v.get("channel", "")).lower()
+                                         for term in BLACKLIST_TERMS)]
 
         # 3. 검색 결과에 조회수 추가 (videos.list API, 1 unit per 50 videos)
         video_ids = [v["video_id"] for v in search_results if v.get("video_id")]
