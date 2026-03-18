@@ -33,8 +33,12 @@ def collect(mode="fashion"):
             descs = re.findall(r'"trend_description"\s*:\s*"([^"]*)"', text)
             for i, name in enumerate(names):
                 desc = descs[i] if i < len(descs) else ""
+                # 유니코드 이스케이프를 실제 문자로 변환 후 HTML 태그 제거
+                desc = desc.replace("\\u003c", "<").replace("\\u003e", ">")
+                desc = desc.replace("\\u0026", "&").replace("\\u0027", "'")
+                desc = desc.replace("\\n", " ").replace("\\r", "")
                 desc = re.sub(r"<[^>]+>", "", desc)
-                desc = desc.replace("\\u0026", "&").replace("\\n", " ").strip()
+                desc = re.sub(r"\s+", " ", desc).strip()
                 if name and name not in [t.get("name") for t in trends]:
                     trends.append({"name": name, "description": desc[:300]})
 
