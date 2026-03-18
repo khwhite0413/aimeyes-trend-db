@@ -68,6 +68,41 @@ BLACKLIST_TERMS = [
 
 REGION_MAP = {"KR": "KR", "US": "US", "JP": "JP"}
 
+# 이전 Google Trends related_queries에서 발견된 키워드를 동적으로 로드
+def _load_dynamic_keywords(mode):
+    """이전 수집의 Google Trends related_queries에서 rising 키워드를 추출하여 검색어로 활용"""
+    import os, json, glob
+    base = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", mode)
+    dynamic = {"KR": [], "US": [], "JP": []}
+    geo_map = {"KR": "KR", "US": "US", "JP": "JP"}
+
+    # 최근 날짜의 google_trends.json에서 related_queries 추출
+    dates = sorted(glob.glob(os.path.join(base, "*")), reverse=True)
+    for date_dir in dates[:3]:  # 최근 3일치
+        gt_path = os.path.join(date_dir, "google_trends.json")
+        if not os.path.exists(gt_path):
+            continue
+        try:
+            with open(gt_path, encoding="utf-8") as f:
+                gt_data = json.load(f)
+            for geo in geo_map:
+                country_data = gt_data.get("countries", {}).get(geo, {})
+                related = country_data.get("related_queries", [])
+                for item in related:
+                    query = item.get("query", "").strip()
+                    if query and len(query) >= 2 and query not in dynamic[geo]:
+                        # 블랙리스트 체크
+                        if not any(bl in query.lower() for bl in BLACKLIST_TERMS):
+                            dynamic[geo].append(query)
+        except Exception:
+            continue
+
+    # 각 국가별 최대 5개까지만 추가
+    for geo in dynamic:
+        dynamic[geo] = dynamic[geo][:5]
+
+    return dynamic
+
 
 def _filter_fashion_videos(videos):
     """패션 관련 영상만 필터링 (제목+채널명 기반)"""
@@ -198,6 +233,14 @@ def collect(mode="fashion"):
         return {"platform": "youtube", "status": "skipped", "reason": "YOUTUBE_API_KEY not set"}
 
     queries = SEARCHES.get(mode, SEARCHES["fashion"])
+
+    # 0. 동적 키워드 로드 (이전 Google Trends related_queries 기반)
+    dynamic_kw = _load_dynamic_keywords(mode)
+    for code in queries:
+        if code in dynamic_kw and dynamic_kw[code]:
+            queries[code] = queries[code] + dynamic_kw[code]
+            print(f"    [동적 키워드 추가] {code}: {dynamic_kw[code]}")
+
     results = {}
 
     # 1. 각 국가별 인기 급상승
