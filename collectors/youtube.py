@@ -87,6 +87,37 @@ def _get_trending(region_code, max_results=15):
         return [{"error": str(e)}]
 
 
+def _get_video_stats(video_ids):
+    """video ID 목록으로 조회수/좋아요 등 통계 일괄 조회 (videos.list: 1 unit per request, 최대 50개)"""
+    if not API_KEY or not video_ids:
+        return {}
+    stats_map = {}
+    # 50개씩 배치 (API 최대)
+    for i in range(0, len(video_ids), 50):
+        batch = video_ids[i:i+50]
+        url = "https://www.googleapis.com/youtube/v3/videos"
+        params = {
+            "part": "statistics",
+            "id": ",".join(batch),
+            "key": API_KEY,
+        }
+        try:
+            resp = requests.get(url, params=params, timeout=15)
+            if resp.status_code == 200:
+                for item in resp.json().get("items", []):
+                    vid = item.get("id", "")
+                    s = item.get("statistics", {})
+                    stats_map[vid] = {
+                        "views": int(s.get("viewCount", 0)),
+                        "likes": int(s.get("likeCount", 0)),
+                        "comments": int(s.get("commentCount", 0)),
+                    }
+        except Exception:
+            pass
+        time.sleep(0.3)
+    return stats_map
+
+
 def _search_videos(query, region_code="KR", max_results=5):
     """YouTube 키워드 검색"""
     if not API_KEY:
@@ -156,6 +187,19 @@ def collect(mode="fashion"):
                     v["rank"] = len(search_results) + 1
                     search_results.append(v)
             time.sleep(0.5)
-        results[f"{code}_search"] = search_results[:20]
+        search_results = search_results[:20]
+
+        # 3. 검색 결과에 조회수 추가 (videos.list API, 1 unit per 50 videos)
+        video_ids = [v["video_id"] for v in search_results if v.get("video_id")]
+        if video_ids:
+            stats = _get_video_stats(video_ids)
+            for v in search_results:
+                vid = v.get("video_id", "")
+                if vid in stats:
+                    v["views"] = stats[vid]["views"]
+                    v["likes"] = stats[vid]["likes"]
+                    v["comments"] = stats[vid]["comments"]
+
+        results[f"{code}_search"] = search_results
 
     return {"platform": "youtube", "mode": mode, "regions": results}
