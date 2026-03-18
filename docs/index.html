@@ -207,6 +207,11 @@
       }
       .monitoring-bottom > * { width: 100% !important; }
       .monitoring-bottom .monitoring-rates-panel { width: 100% !important; }
+
+      /* Digest badges mobile */
+      .digest-badge { font-size: 8px !important; padding: 1px 4px !important; }
+      .digest-badge-new { font-size: 7px !important; padding: 1px 4px !important; }
+      .confidence-badge { font-size: 9px !important; padding: 1px 6px !important; }
     }
   </style>
 </head>
@@ -281,6 +286,7 @@
 
     // ─── Data Fetching Layer ───
     const DATA_BASE = 'https://raw.githubusercontent.com/khwhite0413/aimeyes-trend-db/master/data/';
+    const DIGEST_BASE = 'https://raw.githubusercontent.com/khwhite0413/aimeyes-trend-db/master/digest/';
 
     function getRecentDates(count = 7) {
       const dates = [];
@@ -357,9 +363,17 @@
       });
       await Promise.all(allDatesPromises);
 
+      // Fetch digest data
+      const [fashionDigest, generalDigest] = await Promise.all([
+        fetchJSON(`${DIGEST_BASE}fashion/daily_digest.json`),
+        fetchJSON(`${DIGEST_BASE}general/daily_digest.json`),
+      ]);
+
       return {
         metaResults,
         latestDate,
+        fashionDigest,
+        generalDigest,
         latestFashionMeta: metaResults[0].fashionMeta,
         latestGeneralMeta: metaResults[0].generalMeta,
         fashion: { youtube, googleTrends, xTwitter, naver, pinterest },
@@ -826,6 +840,96 @@
       return errors.slice(0, 5);
     }
 
+    // ─── Digest Helpers ───
+    function getDigestBadge(keyword, fashionDigest, generalDigest) {
+      const kw = (keyword || '').toLowerCase();
+      for (const digest of [fashionDigest, generalDigest]) {
+        if (!digest) continue;
+        const rising = (digest.rising || []).find(r => r.keyword?.toLowerCase() === kw);
+        if (rising) return { type: 'rising', change: rising.change };
+        const declining = (digest.declining || []).find(d => d.keyword?.toLowerCase() === kw);
+        if (declining) return { type: 'declining', change: declining.change };
+        const isNew = (digest.new_entries || []).some(n => (typeof n === 'string' ? n : n?.keyword || '').toLowerCase() === kw);
+        if (isNew) return { type: 'new' };
+      }
+      return null;
+    }
+
+    function getCrossPlatform(keyword, fashionDigest, generalDigest) {
+      const kw = (keyword || '').toLowerCase();
+      for (const digest of [fashionDigest, generalDigest]) {
+        if (!digest?.cross_platform_hot) continue;
+        const entry = digest.cross_platform_hot.find(c => c.keyword?.toLowerCase() === kw);
+        if (entry) return entry.platforms || [];
+      }
+      return null;
+    }
+
+    function getOverallConfidence(fashionDigest, generalDigest) {
+      for (const digest of [fashionDigest, generalDigest]) {
+        if (digest?.overall_confidence) return digest.overall_confidence;
+      }
+      return null;
+    }
+
+    const PLATFORM_DOT_COLORS = {
+      'youtube': '#FF0000',
+      'google trends': '#4285F4',
+      'google_trends': '#4285F4',
+      'x': '#1DA1F2',
+      'x/twitter': '#1DA1F2',
+      'twitter': '#1DA1F2',
+      'naver': '#03CF5D',
+      'pinterest': '#E60023',
+    };
+
+    // ─── DigestBadge Component ───
+    function DigestBadge({ keyword, fashionDigest, generalDigest }) {
+      const badge = getDigestBadge(keyword, fashionDigest, generalDigest);
+      const crossPlatforms = getCrossPlatform(keyword, fashionDigest, generalDigest);
+
+      return React.createElement('span', { className: 'inline-flex items-center gap-1 flex-shrink-0' },
+        badge?.type === 'rising' && React.createElement('span', {
+          className: 'digest-badge inline-flex items-center px-1.5 py-0.5 rounded-md text-[9px] font-semibold',
+          style: { backgroundColor: 'rgba(34,197,94,0.12)', color: '#22C55E' }
+        }, `↑ +${badge.change}%`),
+        badge?.type === 'declining' && React.createElement('span', {
+          className: 'digest-badge inline-flex items-center px-1.5 py-0.5 rounded-md text-[9px] font-semibold',
+          style: { backgroundColor: 'rgba(239,68,68,0.12)', color: '#EF4444' }
+        }, `↓ ${badge.change}%`),
+        badge?.type === 'new' && React.createElement('span', {
+          className: 'digest-badge-new inline-flex items-center px-1.5 py-0.5 rounded-md text-[8px] font-bold',
+          style: { backgroundColor: 'rgba(234,179,8,0.12)', color: '#EAB308' }
+        }, 'NEW'),
+        crossPlatforms && crossPlatforms.length > 0 && React.createElement('span', {
+          className: 'inline-flex items-center gap-0.5 px-1 py-0.5 rounded',
+          style: { backgroundColor: 'rgba(59,130,246,0.08)', gap: '2px' }
+        }, crossPlatforms.map((p, i) => React.createElement('span', {
+          key: i,
+          className: 'rounded-full',
+          style: { width: 5, height: 5, backgroundColor: PLATFORM_DOT_COLORS[p.toLowerCase()] || '#888' }
+        })))
+      );
+    }
+
+    // ─── ConfidenceBadge Component ───
+    function ConfidenceBadge({ fashionDigest, generalDigest }) {
+      const confidence = getOverallConfidence(fashionDigest, generalDigest);
+      if (!confidence) return null;
+
+      const styles = {
+        low: { bg: 'rgba(249,115,22,0.12)', border: 'rgba(249,115,22,0.25)', color: '#F97316', label: 'Low Confidence' },
+        medium: { bg: 'rgba(59,130,246,0.12)', border: 'rgba(59,130,246,0.25)', color: '#3B82F6', label: 'Medium' },
+        high: { bg: 'rgba(34,197,94,0.12)', border: 'rgba(34,197,94,0.25)', color: '#22C55E', label: 'High' },
+      };
+      const s = styles[confidence] || styles.medium;
+
+      return React.createElement('span', {
+        className: 'confidence-badge inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold border',
+        style: { backgroundColor: s.bg, borderColor: s.border, color: s.color }
+      }, '●', ` ${s.label}`);
+    }
+
     // ─── Fallback Mock Data ───
     const MOCK_PLATFORMS = [
       { key: 'youtube', name: 'YouTube', icon: 'play-circle', color: '#FF0000', count: 196, unit: 'videos collected', active: true },
@@ -1055,7 +1159,7 @@
     }
 
     // ─── Ranked List (for Google Trends, X/Twitter, Naver, Pinterest) ───
-    function RankedList({ items, type }) {
+    function RankedList({ items, type, fashionDigest, generalDigest }) {
       const rankColors = ['#007AFF', '#34C759', '#FF4D40', '#FFD60A', '#FF9500'];
       const [hovered, setHovered] = useState(null);
       const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
@@ -1090,7 +1194,10 @@
                 onMouseLeave={() => setHovered(null)}>
                 <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0"
                   style={{ backgroundColor: rankColors[i % rankColors.length] }}>{item.rank || i + 1}</span>
-                <span className="flex-1 text-[13px] dark:text-white text-gray-900 font-medium">{item.keyword}</span>
+                <span className="flex-1 text-[13px] dark:text-white text-gray-900 font-medium inline-flex items-center gap-1.5 flex-wrap">
+                  {item.keyword}
+                  <DigestBadge keyword={item.keyword} fashionDigest={fashionDigest} generalDigest={generalDigest} />
+                </span>
                 <span className="text-[11px] dark:text-gray-400 text-gray-500 font-semibold">{item.traffic}</span>
               </div>
             ))}
@@ -1128,7 +1235,10 @@
                 onMouseLeave={() => setHovered(null)}>
                 <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0"
                   style={{ backgroundColor: rankColors[i % rankColors.length] }}>{item.rank || i + 1}</span>
-                <span className="flex-1 text-[13px] dark:text-white text-gray-900 font-medium truncate">{item.topic}</span>
+                <span className="flex-1 text-[13px] dark:text-white text-gray-900 font-medium inline-flex items-center gap-1.5 flex-wrap" style={{ minWidth: 0 }}>
+                  <span className="truncate">{item.topic}</span>
+                  <DigestBadge keyword={item.topic} fashionDigest={fashionDigest} generalDigest={generalDigest} />
+                </span>
                 {item.volume && (
                   <span className="flex-shrink-0 px-2 py-0.5 rounded-full text-[10px] font-semibold"
                     style={{ backgroundColor: '#1DA1F218', color: '#1DA1F2' }}>{item.volume}</span>
@@ -1168,7 +1278,10 @@
                 onMouseLeave={() => setHovered(null)}>
                 <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0"
                   style={{ backgroundColor: '#03CF5D' }}>{item.rank || i + 1}</span>
-                <span className="flex-1 text-[13px] dark:text-white text-gray-900 font-medium">{item.keyword}</span>
+                <span className="flex-1 text-[13px] dark:text-white text-gray-900 font-medium inline-flex items-center gap-1.5 flex-wrap">
+                  {item.keyword}
+                  <DigestBadge keyword={item.keyword} fashionDigest={fashionDigest} generalDigest={generalDigest} />
+                </span>
               </div>
             ))}
             <Tooltip visible={hovered !== null} x={mousePos.x} y={mousePos.y}>
@@ -1202,7 +1315,10 @@
                 }}
                 onMouseEnter={() => setHovered(i)}
                 onMouseLeave={() => setHovered(null)}>
-                <div className="text-[14px] dark:text-white text-gray-900" style={{ fontWeight: 600 }}>{item.name}</div>
+                <div className="text-[14px] dark:text-white text-gray-900 inline-flex items-center gap-1.5 flex-wrap" style={{ fontWeight: 600 }}>
+                  {item.name}
+                  <DigestBadge keyword={item.name} fashionDigest={fashionDigest} generalDigest={generalDigest} />
+                </div>
                 {item.description && (
                   <div className="text-[11px] dark:text-gray-400 text-gray-500 mt-1 line-clamp-2" style={{ display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
                     {item.description}
@@ -1651,9 +1767,12 @@
                         </span>
                       </div>
                     </div>
-                    <span className={`text-[11px] font-semibold rounded-full px-3 py-1 ${data ? 'text-white bg-brand-blue' : 'text-orange-900 bg-orange-300 animate-pulse'}`}>
-                      {data ? 'Live' : '\u26A0 \uC0D8\uD50C \uB370\uC774\uD130'}
-                    </span>
+                    <div className="flex items-center gap-2">
+                      <ConfidenceBadge fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} />
+                      <span className={`text-[11px] font-semibold rounded-full px-3 py-1 ${data ? 'text-white bg-brand-blue' : 'text-orange-900 bg-orange-300 animate-pulse'}`}>
+                        {data ? 'Live' : '\u26A0 \uC0D8\uD50C \uB370\uC774\uD130'}
+                      </span>
+                    </div>
                   </div>
 
                   {/* Sub-tabs (dynamic based on platform) */}
@@ -1689,7 +1808,10 @@
                             {keywordsFreq.map((kw, i) => (
                               <div key={i} className="flex items-center gap-2.5">
                                 <div className="w-2.5 h-2.5 rounded-full flex-shrink-0" style={{ backgroundColor: kw.color }} />
-                                <span className="flex-1 text-[13px] dark:text-white text-gray-900">{kw.label}</span>
+                                <span className="flex-1 text-[13px] dark:text-white text-gray-900 inline-flex items-center gap-1.5 flex-wrap">
+                                  {kw.label}
+                                  <DigestBadge keyword={kw.label} fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} />
+                                </span>
                                 <span className="text-[13px] font-semibold dark:text-gray-300 text-gray-600">{kw.value}%</span>
                               </div>
                             ))}
@@ -1705,13 +1827,13 @@
                         {activePlatform === 'youtube' && secondTabData.length > 0 ? (
                           <Treemap data={secondTabData} />
                         ) : activePlatform === 'google_trends' ? (
-                          <RankedList items={secondTabData} type="google_trends" />
+                          <RankedList items={secondTabData} type="google_trends" fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} />
                         ) : activePlatform === 'x_twitter' ? (
-                          <RankedList items={secondTabData} type="x_twitter" />
+                          <RankedList items={secondTabData} type="x_twitter" fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} />
                         ) : activePlatform === 'naver' ? (
-                          <RankedList items={secondTabData} type="naver" />
+                          <RankedList items={secondTabData} type="naver" fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} />
                         ) : activePlatform === 'pinterest' ? (
-                          <RankedList items={secondTabData} type="pinterest" />
+                          <RankedList items={secondTabData} type="pinterest" fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} />
                         ) : activePlatform === 'youtube' && secondTabData.length === 0 ? (
                           <div className="flex items-center justify-center w-full h-[200px] text-sm dark:text-gray-400 text-gray-500">
                             데이터가 없습니다
@@ -1921,6 +2043,8 @@
               platformRates,
               monitoringStats,
               errors,
+              fashionDigest: result.fashionDigest,
+              generalDigest: result.generalDigest,
             });
           }
           setLoading(false);
