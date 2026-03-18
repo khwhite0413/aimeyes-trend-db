@@ -97,9 +97,9 @@ def _load_dynamic_keywords(mode):
         except Exception:
             continue
 
-    # 각 국가별 최대 5개까지만 추가
+    # 각 국가별 최대 2개까지만 추가 (API 쿼터 관리)
     for geo in dynamic:
-        dynamic[geo] = dynamic[geo][:5]
+        dynamic[geo] = dynamic[geo][:2]
 
     return dynamic
 
@@ -234,12 +234,13 @@ def collect(mode="fashion"):
 
     queries = SEARCHES.get(mode, SEARCHES["fashion"])
 
-    # 0. 동적 키워드 로드 (이전 Google Trends related_queries 기반)
-    dynamic_kw = _load_dynamic_keywords(mode)
-    for code in queries:
-        if code in dynamic_kw and dynamic_kw[code]:
-            queries[code] = queries[code] + dynamic_kw[code]
-            print(f"    [동적 키워드 추가] {code}: {dynamic_kw[code]}")
+    # 0. 동적 키워드 로드 (fashion 모드에서만, 쿼터 관리)
+    if mode == "fashion":
+        dynamic_kw = _load_dynamic_keywords(mode)
+        for code in queries:
+            if code in dynamic_kw and dynamic_kw[code]:
+                queries[code] = list(queries[code]) + dynamic_kw[code]
+                print(f"    [동적 키워드 추가] {code}: {dynamic_kw[code]}")
 
     results = {}
 
