@@ -46,7 +46,28 @@ SEARCHES = {
     },
 }
 
+FASHION_FILTER_TERMS = [
+    "패션", "fashion", "코디", "outfit", "style", "wear", "룩", "look",
+    "ファッション", "コーデ", "着回し", "古着",
+    "브랜드", "brand", "옷", "dress", "shoes", "sneaker",
+    "트렌드", "trend", "뷰티", "beauty", "메이크업", "makeup",
+    "ootd", "haul", "하울", "thrift", "빈티지", "vintage",
+    "streetwear", "스트릿", "y2k", "aesthetic", "minimal", "미니멀",
+    "무신사", "지그재그", "zara", "uniqlo", "유니클로",
+    "quiet luxury", "coquette", "capsule", "레이어링", "layering",
+]
+
 REGION_MAP = {"KR": "KR", "US": "US", "JP": "JP"}
+
+
+def _filter_fashion_videos(videos):
+    """패션 관련 영상만 필터링 (제목+채널명 기반)"""
+    filtered = []
+    for v in videos:
+        title_lower = (v.get("title", "") + " " + v.get("channel", "")).lower()
+        if any(term in title_lower for term in FASHION_FILTER_TERMS):
+            filtered.append(v)
+    return filtered
 
 
 def _get_trending(region_code, max_results=15):
@@ -170,6 +191,8 @@ def collect(mode="fashion"):
     # 1. 각 국가별 인기 급상승
     for code in REGION_MAP:
         trending = _get_trending(code)
+        if mode == "fashion":
+            trending = _filter_fashion_videos(trending)
         if trending:
             results[f"{code}_trending"] = trending
         time.sleep(0.5)

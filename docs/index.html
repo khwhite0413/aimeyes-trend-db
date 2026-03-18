@@ -1211,6 +1211,7 @@
       const data = useData();
 
       const basePlatforms = data?.platforms || MOCK_PLATFORMS;
+      const isPlatformsMock = !data?.platforms;
       const activePlatformDef = PLATFORM_DEFS.find(p => p.key === activePlatform);
       const secondTab = PLATFORM_SECOND_TAB[activePlatform];
 
@@ -1221,23 +1222,27 @@
       }, [activeCountry, data, basePlatforms]);
 
       // Compute keywords and second-tab data based on selected platform + country
-      const keywordsFreq = useMemo(() => {
-        if (activeCountry === 'CN') return [];
-        if (!data) return MOCK_KEYWORDS_FREQ;
-        if (activePlatform === 'naver' && activeCountry !== 'KR') return [];
+      const keywordsFreqRaw = useMemo(() => {
+        if (activeCountry === 'CN') return { data: [], isMock: false };
+        if (!data) return { data: MOCK_KEYWORDS_FREQ, isMock: true };
+        if (activePlatform === 'naver' && activeCountry !== 'KR') return { data: [], isMock: false };
         const result = extractKeywordsForPlatform(activePlatform, activeCountry, data.fashion, data.general);
-        return result.length > 0 ? result : MOCK_KEYWORDS_FREQ;
+        return result.length > 0 ? { data: result, isMock: false } : { data: MOCK_KEYWORDS_FREQ, isMock: true };
       }, [activePlatform, activeCountry, data]);
+      const keywordsFreq = keywordsFreqRaw.data;
+      const isKeywordsMock = keywordsFreqRaw.isMock;
 
-      const secondTabData = useMemo(() => {
-        if (activeCountry === 'CN') return [];
+      const secondTabRaw = useMemo(() => {
+        if (activeCountry === 'CN') return { data: [], isMock: false };
         if (!data) {
-          if (activePlatform === 'youtube') return MOCK_KEYWORDS_VIEWS;
-          return [];
+          if (activePlatform === 'youtube') return { data: MOCK_KEYWORDS_VIEWS, isMock: true };
+          return { data: [], isMock: false };
         }
-        if (activePlatform === 'naver' && activeCountry !== 'KR') return [];
-        return extractSecondTabData(activePlatform, activeCountry, data.fashion, data.general);
+        if (activePlatform === 'naver' && activeCountry !== 'KR') return { data: [], isMock: false };
+        return { data: extractSecondTabData(activePlatform, activeCountry, data.fashion, data.general), isMock: false };
       }, [activePlatform, activeCountry, data]);
+      const secondTabData = secondTabRaw.data;
+      const isSecondTabMock = secondTabRaw.isMock;
 
       const recentCollections = data?.recentCollections || platforms.map(p => ({ name: p.name, count: p.count, time: '9:00 AM' }));
 
@@ -1295,8 +1300,8 @@
                         </span>
                       </div>
                     </div>
-                    <span className="text-[11px] font-semibold text-white bg-brand-blue rounded-full px-3 py-1">
-                      {data ? 'Live' : 'Mock'}
+                    <span className={`text-[11px] font-semibold rounded-full px-3 py-1 ${data ? 'text-white bg-brand-blue' : 'text-orange-900 bg-orange-300 animate-pulse'}`}>
+                      {data ? 'Live' : '\u26A0 \uC0D8\uD50C \uB370\uC774\uD130'}
                     </span>
                   </div>
 
@@ -1315,7 +1320,12 @@
                   </div>
 
                   {/* Chart content */}
-                  <div className="flex-1 flex items-center">
+                  <div className="flex-1 flex items-center relative">
+                    {((chartTab === 'freq' && isKeywordsMock) || (chartTab === 'secondary' && isSecondTabMock)) && (
+                      <div className="absolute top-0 left-0 right-0 z-10 flex items-center gap-2 px-3 py-1.5 bg-orange-100 dark:bg-orange-900/30 border border-orange-300 dark:border-orange-700 rounded-lg text-[11px] text-orange-700 dark:text-orange-300 font-medium">
+                        <span>&#9888;</span> 샘플 데이터입니다 — 실제 수집 데이터가 로드되면 자동으로 교체됩니다
+                      </div>
+                    )}
                     {isNaverUnavailable ? (
                       <div className="flex items-center justify-center w-full h-[200px] text-sm dark:text-gray-400 text-gray-500">
                         Naver 데이터는 한국(KR)에서만 이용 가능합니다
@@ -1396,6 +1406,7 @@
 
       const monStats = data?.monitoringStats;
       const history = data?.history?.length > 0 ? data.history : MOCK_HISTORY;
+      const isHistoryMock = !(data?.history?.length > 0);
       const platformRates = data?.platformRates || [
         { name: 'YouTube', rate: 100, color: '#34C759' },
         { name: 'Google Trends', rate: 98, color: '#34C759' },
@@ -1458,13 +1469,20 @@
                 <span className="text-base font-semibold dark:text-white text-gray-900">
                   수집 히스토리 ({history.length}일)
                 </span>
-                <span className={`text-[11px] font-semibold rounded-full px-3 py-1 ${
-                  (monStats?.errors || 0) === 0
-                    ? 'text-green-500 bg-green-500/10'
-                    : 'text-orange-500 bg-orange-500/10'
-                }`}>
-                  {(monStats?.errors || 0) === 0 ? '정상' : `에러 ${monStats?.errors || 0}건`}
-                </span>
+                <div className="flex items-center gap-2">
+                  {isHistoryMock && (
+                    <span className="text-[11px] font-semibold rounded-full px-3 py-1 text-orange-900 bg-orange-300">
+                      샘플 데이터
+                    </span>
+                  )}
+                  <span className={`text-[11px] font-semibold rounded-full px-3 py-1 ${
+                    (monStats?.errors || 0) === 0
+                      ? 'text-green-500 bg-green-500/10'
+                      : 'text-orange-500 bg-orange-500/10'
+                  }`}>
+                    {(monStats?.errors || 0) === 0 ? '정상' : `에러 ${monStats?.errors || 0}건`}
+                  </span>
+                </div>
               </div>
               <BarChart data={history} />
             </div>
