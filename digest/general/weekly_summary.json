@@ -1,0 +1,65 @@
+{
+  "mode": "general",
+  "week_range": {
+    "from": "2026-03-16",
+    "to": "2026-03-18"
+  },
+  "days_analyzed": 3,
+  "confidence": "low",
+  "top_rising": [
+    {
+      "keyword": "viral",
+      "growth": "+50%",
+      "total_mentions": 53
+    },
+    {
+      "keyword": "trend",
+      "growth": "+160%",
+      "total_mentions": 38
+    },
+    {
+      "keyword": "shorts",
+      "growth": "+150%",
+      "total_mentions": 35
+    },
+    {
+      "keyword": "dance",
+      "growth": "+86%",
+      "total_mentions": 35
+    },
+    {
+      "keyword": "#shorts",
+      "growth": "+180%",
+      "total_mentions": 33
+    }
+  ],
+  "most_cross_platform": [
+    {
+      "keyword": "클라이맥스",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    }
+  ],
+  "naver_shopping_hot": [
+    "트위드자켓",
+    "원피스",
+    "스웨이드자켓",
+    "트렌치코트",
+    "여성자켓"
+  ],
+  "top_keywords_overall": [
+    "viral",
+    "trend",
+    "트위드자켓",
+    "원피스",
+    "스웨이드자켓",
+    "트렌치코트",
+    "shorts",
+    "dance",
+    "#shorts",
+    "여성자켓"
+  ]
+}

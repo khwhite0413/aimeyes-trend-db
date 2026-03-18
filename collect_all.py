@@ -127,6 +127,15 @@ def main():
     for mode in modes:
         run_collection(mode)
 
+    # 수집 완료 후 자동 분석 (Daily Digest, Keyword Tracker, Weekly Summary)
+    print("\n  === 데이터 분석 시작 ===")
+    try:
+        from analyze import run_analysis
+        run_analysis()
+        print("\n  분석 완료!")
+    except Exception as e:
+        print(f"\n  분석 실패: {e}")
+
 
 if __name__ == "__main__":
     main()

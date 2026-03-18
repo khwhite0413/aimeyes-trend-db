@@ -1,0 +1,73 @@
+{
+  "mode": "fashion",
+  "week_range": {
+    "from": "2026-03-16",
+    "to": "2026-03-18"
+  },
+  "days_analyzed": 3,
+  "confidence": "low",
+  "top_rising": [
+    {
+      "keyword": "fashion",
+      "growth": "+88%",
+      "total_mentions": 31
+    },
+    {
+      "keyword": "trend",
+      "growth": "+62%",
+      "total_mentions": 24
+    },
+    {
+      "keyword": "여성가디건",
+      "growth": "+29%",
+      "total_mentions": 24
+    },
+    {
+      "keyword": "#shorts",
+      "growth": "+100%",
+      "total_mentions": 18
+    },
+    {
+      "keyword": "shorts",
+      "growth": "+100%",
+      "total_mentions": 18
+    }
+  ],
+  "most_cross_platform": [
+    {
+      "keyword": "원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "클라이맥스",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    }
+  ],
+  "naver_shopping_hot": [
+    "트위드자켓",
+    "원피스",
+    "스웨이드자켓",
+    "트렌치코트",
+    "여성자켓"
+  ],
+  "top_keywords_overall": [
+    "원피스",
+    "트위드자켓",
+    "스웨이드자켓",
+    "트렌치코트",
+    "여성자켓",
+    "가죽자켓",
+    "fashion",
+    "바람막이",
+    "에고이스트",
+    "trend"
+  ]
+}
