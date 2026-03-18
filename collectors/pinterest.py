@@ -6,6 +6,13 @@ import datetime
 
 _UA = {"User-Agent": "AIMEYES-TrendBot/1.0 (trend data collection)"}
 
+FASHION_TREND_TERMS = [
+    "fashion", "style", "outfit", "wear", "beauty", "makeup", "hair",
+    "dress", "jewelry", "accessory", "aesthetic", "decor", "design",
+    "nail", "skin", "glow", "vintage", "retro", "boho", "minimal",
+    "luxury", "chic", "elegant", "bold", "color", "pattern", "texture",
+]
+
 
 def collect(mode="fashion"):
     year = str(datetime.date.today().year)
@@ -40,12 +47,22 @@ def collect(mode="fashion"):
                     desc = " ".join(p.get_text(strip=True) for p in ps) if ps else ""
                     trends.append({"name": text, "description": desc[:300]})
 
-        return {
+        result = {
             "platform": "pinterest",
             "year": year,
             "source_url": url,
             "trends": trends,
+            "mode": mode,
         }
+
+        if mode == "fashion":
+            fashion_trends = [t for t in trends if any(
+                term in (t.get("name", "") + " " + t.get("description", "")).lower()
+                for term in FASHION_TREND_TERMS
+            )]
+            result["fashion_trends"] = fashion_trends
+
+        return result
 
     except Exception as e:
         return {"platform": "pinterest", "status": "error", "reason": str(e)}
