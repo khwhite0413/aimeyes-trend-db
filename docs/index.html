@@ -109,17 +109,86 @@
       border-color: #007AFF !important;
       box-shadow: 0 0 12px rgba(0, 122, 255, 0.35);
     }
+    /* Mobile top bar & nav tabs - hidden on desktop */
+    .mobile-top-bar { display: none; }
+    .mobile-nav-tabs { display: none; }
+    .mobile-header { display: none; }
+
     @media (max-width: 1024px) {
       .platform-cards-row { flex-wrap: wrap !important; }
       .platform-cards-row > * { min-width: 45% !important; flex: 1 1 45% !important; }
     }
     @media (max-width: 768px) {
+      /* Hide sidebar, show mobile top bar & tabs */
       .dashboard-sidebar { display: none !important; }
-      .dashboard-main { padding: 16px !important; }
-      .platform-cards-row > * { min-width: 100% !important; flex: 1 1 100% !important; }
-      .bottom-section { flex-direction: column !important; }
+      .mobile-top-bar { display: flex !important; }
+      .mobile-nav-tabs { display: flex !important; }
+      .mobile-header { display: block !important; }
+
+      /* Main layout adjustments */
+      .dashboard-main { padding: 0 !important; }
+      .main-content-inner { padding: 16px !important; gap: 14px !important; }
+      .main-header { display: none !important; }
+
+      /* Platform cards: 2-column grid */
+      .platform-cards-row {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr !important;
+        gap: 8px !important;
+      }
+      .platform-cards-row > * {
+        min-width: unset !important;
+        flex: unset !important;
+      }
+      .platform-card-mobile {
+        padding: 14px !important;
+      }
+      .platform-card-mobile .platform-card-name { font-size: 11px !important; }
+      .platform-card-mobile .platform-card-count { font-size: 24px !important; }
+      .platform-card-mobile .platform-card-unit { font-size: 9px !important; }
+      .platform-card-mobile .platform-card-status { font-size: 9px !important; }
+      .platform-card-mobile .platform-card-status-dot { width: 6px !important; height: 6px !important; }
+
+      /* Bottom section: vertical stack */
+      .bottom-section {
+        flex-direction: column !important;
+        gap: 14px !important;
+      }
       .bottom-section > * { width: 100% !important; }
-      .country-tabs { flex-wrap: wrap !important; }
+      .recent-collections-panel { width: 100% !important; }
+
+      /* Chart area: donut + legend vertical */
+      .chart-area-horizontal {
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 12px !important;
+      }
+
+      .donut-chart-wrapper svg {
+        width: 120px !important;
+        height: 120px !important;
+      }
+
+      /* Country tabs */
+      .country-tabs { gap: 6px !important; flex-wrap: wrap !important; }
+      .country-tab { padding: 6px 12px !important; font-size: 11px !important; }
+
+      /* Monitoring stats: 2x2 grid */
+      .monitoring-stats-row {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr !important;
+        gap: 8px !important;
+      }
+      .monitoring-stats-row > * { min-width: unset !important; flex: unset !important; }
+      .monitoring-stat-card .monitoring-stat-value { font-size: 22px !important; }
+      .monitoring-stat-card .monitoring-stat-label { font-size: 10px !important; }
+
+      /* Monitoring bottom: vertical stack */
+      .monitoring-bottom {
+        flex-direction: column !important;
+      }
+      .monitoring-bottom > * { width: 100% !important; }
+      .monitoring-bottom .monitoring-rates-panel { width: 100% !important; }
     }
   </style>
 </head>
@@ -1196,18 +1265,18 @@
         <div
           onClick={onClick}
           className={`card-enter flex-1 dark:bg-navy-card bg-white rounded-xl p-5
-            dark:border-navy-border border-gray-200 border platform-card-clickable
+            dark:border-navy-border border-gray-200 border platform-card-clickable platform-card-mobile
             ${isActive ? 'platform-card-active' : ''}`}
           style={{ animationDelay: `${index * 0.08}s` }}>
           <div className="flex items-center gap-2.5 mb-3">
             <Icon name={platform.icon} size={20} color={platform.color} />
-            <span className="text-sm font-semibold dark:text-white text-gray-900">{platform.name}</span>
+            <span className="platform-card-name text-sm font-semibold dark:text-white text-gray-900">{platform.name}</span>
           </div>
-          <div className="text-[32px] font-bold dark:text-white text-gray-900 leading-none">{platform.count}</div>
-          <div className="text-xs dark:text-gray-400 text-gray-500 mt-1">{platform.unit}</div>
+          <div className="platform-card-count text-[32px] font-bold dark:text-white text-gray-900 leading-none">{platform.count}</div>
+          <div className="platform-card-unit text-xs dark:text-gray-400 text-gray-500 mt-1">{platform.unit}</div>
           <div className="flex items-center gap-1.5 mt-3">
-            <div className={`w-2 h-2 rounded-full ${platform.active ? 'bg-green-500' : 'bg-red-500'}`} />
-            <span className={`text-xs font-medium ${platform.active ? 'text-green-500' : 'text-red-500'}`}>
+            <div className={`platform-card-status-dot w-2 h-2 rounded-full ${platform.active ? 'bg-green-500' : 'bg-red-500'}`} />
+            <span className={`platform-card-status text-xs font-medium ${platform.active ? 'text-green-500' : 'text-red-500'}`}>
               {platform.active ? 'Active' : 'Error'}
             </span>
           </div>
@@ -1344,8 +1413,8 @@
                       </div>
                     ) : chartTab === 'freq' ? (
                       keywordsFreq.length > 0 ? (
-                        <div className="page-enter flex items-center gap-8 w-full" key={`freq-${activePlatform}-${activeCountry}`}>
-                          <DonutChart data={keywordsFreq} totalLabel="total" />
+                        <div className="chart-area-horizontal page-enter flex items-center gap-8 w-full" key={`freq-${activePlatform}-${activeCountry}`}>
+                          <div className="donut-chart-wrapper"><DonutChart data={keywordsFreq} totalLabel="total" /></div>
                           <div className="flex-1 flex flex-col gap-3.5">
                             {keywordsFreq.map((kw, i) => (
                               <div key={i} className="flex items-center gap-2.5">
@@ -1384,7 +1453,7 @@
                 </div>
 
                 {/* Recent Collections sidebar */}
-                <div className="w-[340px] dark:bg-navy-card bg-white rounded-xl p-6
+                <div className="recent-collections-panel w-[340px] dark:bg-navy-card bg-white rounded-xl p-6
                   dark:border-navy-border border-gray-200 border flex flex-col gap-4">
                   <div className="flex items-center justify-between">
                     <span className="text-lg font-semibold dark:text-white text-gray-900">Recent Collections</span>
@@ -1460,21 +1529,21 @@
 
       return (
         <div className="page-enter flex flex-col gap-6 flex-1">
-          <div className="flex gap-4">
+          <div className="monitoring-stats-row flex gap-4">
             {stats.map((s, i) => (
-              <div key={i} className="card-enter flex-1 dark:bg-navy-card bg-white rounded-xl p-5
+              <div key={i} className="monitoring-stat-card card-enter flex-1 dark:bg-navy-card bg-white rounded-xl p-5
                 dark:border-navy-border border-gray-200 border"
                 style={{ animationDelay: `${i * 0.08}s` }}>
                 <div className="flex items-center gap-2 mb-2">
                   <Icon name={s.icon} size={16} color={s.iconColor} />
-                  <span className="text-xs dark:text-gray-400 text-gray-500">{s.label}</span>
+                  <span className="monitoring-stat-label text-xs dark:text-gray-400 text-gray-500">{s.label}</span>
                 </div>
-                <div className={`text-[28px] font-bold leading-none ${s.color}`}>{s.value}</div>
+                <div className={`monitoring-stat-value text-[28px] font-bold leading-none ${s.color}`}>{s.value}</div>
                 <div className="text-[11px] dark:text-gray-400 text-gray-500 mt-1">{s.sub}</div>
               </div>
             ))}
           </div>
-          <div className="flex gap-4 flex-1 min-h-0">
+          <div className="monitoring-bottom flex gap-4 flex-1 min-h-0">
             <div className="flex-1 dark:bg-navy-card bg-white rounded-xl p-6
               dark:border-navy-border border-gray-200 border flex flex-col gap-4">
               <div className="flex items-center justify-between">
@@ -1498,7 +1567,7 @@
               </div>
               <BarChart data={history} />
             </div>
-            <div className="w-[380px] dark:bg-navy-card bg-white rounded-xl p-5
+            <div className="monitoring-rates-panel w-[380px] dark:bg-navy-card bg-white rounded-xl p-5
               dark:border-navy-border border-gray-200 border flex flex-col gap-3 overflow-auto">
               <span className="text-base font-semibold dark:text-white text-gray-900">플랫폼별 성공률</span>
               <div className="dark:border-b-navy-border border-b-gray-200 border-b" />
@@ -1595,7 +1664,30 @@
 
       return (
         <DataContext.Provider value={dashData}>
-          <div className="flex h-screen dark:bg-navy bg-gray-50 font-inter overflow-hidden max-w-[1440px] mx-auto">
+          <div className="flex flex-col md:flex-row h-screen dark:bg-navy bg-gray-50 font-inter overflow-hidden max-w-[1440px] mx-auto">
+            {/* Mobile Top Bar */}
+            <div className="mobile-top-bar items-center justify-between px-4 py-3 dark:bg-navy-dark bg-white border-b dark:border-navy-border border-gray-200">
+              <div className="flex items-center gap-2">
+                <div className="w-7 h-7 rounded-md bg-brand-red flex items-center justify-center">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/>
+                  </svg>
+                </div>
+                <span className="text-[15px] font-bold dark:text-white text-gray-900">AIMEYES</span>
+              </div>
+              <ToggleSwitch isDark={isDark} onToggle={() => setIsDark(!isDark)} />
+            </div>
+            {/* Mobile Nav Tabs */}
+            <div className="mobile-nav-tabs dark:bg-navy-dark bg-gray-50 border-b dark:border-navy-border border-gray-200">
+              {tabs.map(tab => (
+                <button key={tab.id} onClick={() => setActiveTab(tab.id)}
+                  className={`flex-1 flex items-center justify-center gap-1.5 py-2.5 text-xs font-medium
+                    ${activeTab === tab.id ? 'text-brand-blue border-b-2 border-brand-blue font-semibold' : 'dark:text-gray-400 text-gray-500'}`}>
+                  <Icon name={tab.icon} size={14} color={activeTab === tab.id ? '#007AFF' : '#858A9C'} />
+                  {tab.label}
+                </button>
+              ))}
+            </div>
             {/* Sidebar */}
             <div className="dashboard-sidebar w-60 flex-shrink-0 dark:bg-navy-dark bg-white flex flex-col
               dark:border-r-navy-border border-r-gray-200 border-r p-5 gap-2">
@@ -1636,7 +1728,9 @@
 
             {/* Main Content */}
             <div className="dashboard-main flex-1 flex flex-col p-8 overflow-auto min-w-0">
-              <div className="flex items-center justify-between mb-6">
+              <div className="main-content-inner flex flex-col gap-5 flex-1">
+              {/* Desktop header - hidden on mobile */}
+              <div className="main-header flex items-center justify-between mb-1">
                 <div>
                   <h1 className="text-[28px] font-bold dark:text-white text-gray-900 tracking-tight">
                     {activeTab === 'trend' ? '트렌드 현황' : '수집 모니터링'}
@@ -1649,12 +1743,24 @@
                 </div>
                 <ToggleSwitch isDark={isDark} onToggle={() => setIsDark(!isDark)} />
               </div>
+              {/* Mobile header - shown only on mobile */}
+              <div className="mobile-header">
+                <h1 className="text-[22px] font-bold dark:text-white text-gray-900">
+                  {activeTab === 'trend' ? '트렌드 현황' : '수집 모니터링'}
+                </h1>
+                <p className="text-[11px] dark:text-gray-400 text-gray-500 mt-0.5">
+                  {activeTab === 'trend'
+                    ? `${today} 기준 · ${platformCount}개 플랫폼`
+                    : '하루 2회 자동 수집 (09:00 / 23:00 KST)'}
+                </p>
+              </div>
               {loading
                 ? <LoadingSpinner message="데이터를 불러오는 중..." />
                 : activeTab === 'trend'
                   ? <TrendOverview key="trend" />
                   : <Monitoring key="monitor" />
               }
+              </div>
             </div>
           </div>
         </DataContext.Provider>
