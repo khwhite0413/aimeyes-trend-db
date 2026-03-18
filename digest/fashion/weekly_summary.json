@@ -9,13 +9,8 @@
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+88%",
-      "total_mentions": 31
-    },
-    {
-      "keyword": "trend",
       "growth": "+62%",
-      "total_mentions": 24
+      "total_mentions": 29
     },
     {
       "keyword": "여성가디건",
@@ -23,17 +18,30 @@
       "total_mentions": 24
     },
     {
-      "keyword": "#shorts",
-      "growth": "+100%",
-      "total_mentions": 18
+      "keyword": "shorts",
+      "growth": "+200%",
+      "total_mentions": 22
     },
     {
-      "keyword": "shorts",
-      "growth": "+100%",
-      "total_mentions": 18
+      "keyword": "#shorts",
+      "growth": "+175%",
+      "total_mentions": 21
+    },
+    {
+      "keyword": "outfit",
+      "growth": "+900%",
+      "total_mentions": 17
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "블라우스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "원피스",
       "platforms": [
@@ -65,9 +73,9 @@
     "트렌치코트",
     "여성자켓",
     "가죽자켓",
-    "fashion",
     "바람막이",
+    "fashion",
     "에고이스트",
-    "trend"
+    "여성가디건"
   ]
 }
