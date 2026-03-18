@@ -1,0 +1,927 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "펄어비스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "펄어비스 ‘붉은사막’ 출시 D-4…최대 900만장 판매 전망에 흥행 기대감 고조",
+              "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=79032"
+            },
+            {
+              "title": "예매로만 300억 벌었다…'붉은사막' 출시 전부터 글로벌 흥행 돌풍",
+              "url": "https://www.newsis.com/view/NISX20260318_0003553135"
+            },
+            {
+              "title": "K-오픈월드 게임 속속 출격…무대는 글로벌 [IT돋보기]",
+              "url": "https://v.daum.net/v/20260317092726997"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "대우건설 주가",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"수소·암모니아로 확장\" 그린 디벨로퍼 도약 [해외건설, 에너지가 미래다]",
+              "url": "https://v.daum.net/v/20260317181806804"
+            },
+            {
+              "title": "대우건설 주가 장중 18%대 올라, 해외 원전 사업 확대 기대에 52주 최고가",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=433218"
+            },
+            {
+              "title": "[대우건설 초격차②] 원전 재편 가속, SMR까지 '정조준'",
+              "url": "https://www.seoulwire.com/news/articleView.html?idxno=711454"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "보험연수원",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "보험연수원, '보험계약관리역' 자격시험 실시…사전교육 병행",
+              "url": "https://www.newsis.com/view/NISX20260317_0003552083"
+            },
+            {
+              "title": "보험계약관리역 시험 6월 실시…계약관리 전문인력 양성 확대",
+              "url": "https://www.g-enews.com/article/Finance/2026/03/202603171542477720e30fcb1ba8_1"
+            },
+            {
+              "title": "보험연수원, 보험계약관리역 자격시험 실시",
+              "url": "https://news.tf.co.kr/read/economy/2303208.htm"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "kbo",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Retail Giants Launch KBO Marketing Blitz Ahead of Baseball Season",
+              "url": "https://en.sedaily.com/finance/2026/03/18/retail-giants-launch-kbo-marketing-blitz-ahead-of-baseball"
+            },
+            {
+              "title": "Park Joon-soon's Home Run Fuels Doosan's Comeback Victory",
+              "url": "https://www.chosun.com/english/sports-en/2026/03/18/ZUGKQHARWRE5ZCKKCSSNN4UUIE/"
+            },
+            {
+              "title": "Why did KBO come back to 'Beyond Phone Power'? → 2 consecutive 'KKKKKKK' domination, even \"It gets better.\"\" expectations for the head coach",
+              "url": "https://www.starnewskorea.com/en/sports/2026/03/18/2026031721215194233"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "비츠로셀",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "비츠로셀, 애프터마켓서 10%대 급등",
+              "url": "https://www.yna.co.kr/view/AKR20260317170000008"
+            },
+            {
+              "title": "[특징주] 美 정부 러브콜 소식에…비츠로셀 ‘상한가’ - 조선비즈",
+              "url": "https://biz.chosun.com/stock/2026/03/18/ZV2EKEDVZFANFCZOVWAJ3SPVSA/"
+            },
+            {
+              "title": "[서울데이터랩]‘비츠로셀’ +29.96% 폭등…실시간 상승률 1위",
+              "url": "https://www.seoul.co.kr/news/economy/securities/2026/03/18/20260318500045"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "일기예보",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "3월 18일 일기예보: 베트남 북부는 낮에는 맑고 밤에는 비가 내리겠습니다.",
+              "url": "https://www.vietnam.vn/ko/thoi-tiet-ngay-18-3-bac-bo-ngay-nang-dem-co-mua"
+            },
+            {
+              "title": "아프리카 농업, 기후 변화 맞서다",
+              "url": "https://www.benews.co.kr/news/475653"
+            },
+            {
+              "title": "7월부터 9월까지 여러 차례 폭염이 예상됩니다.",
+              "url": "https://www.vietnam.vn/ko/du-bao-co-nhieu-dot-nang-nong-gay-gat-trong-thang-7-9"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "天気",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【近畿の天気】18日（水）朝 大阪は晴れのち雨 最高気温は17日と同じくらいのところが多い予想",
+              "url": "https://news.ntv.co.jp/n/ytv/category/society/ytd0d651175af347a68acb2569b653ce86"
+            },
+            {
+              "title": "関西（滋賀、京都、大阪、兵庫、奈良、和歌山） あす（１７日）の天気（スポーツ報知）",
+              "url": "https://news.yahoo.co.jp/articles/b1ddf2b881035af9f7119e705031c59c3d57517a"
+            },
+            {
+              "title": "【近畿の天気】１７日（火）はポカポカ陽気 日差したっぷりで雨傘よりも日傘が必要なくらい 全国的に桜開花ラッシュへ",
+              "url": "https://newsdig.tbs.co.jp/articles/mbs/2534158?display=1"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "날씨",
+          "traffic": "500000+",
+          "related_news": [
+            {
+              "title": "비 내리는 서울",
+              "url": "https://mobile.newsis.com/photo/NISI20260318_0021212612"
+            },
+            {
+              "title": "전북 오후까지 최대 20mm '봄비'…교통안전 주의",
+              "url": "https://www.news1.kr/local/jeonbuk/6105050"
+            },
+            {
+              "title": "비 내려도 중부 공기질 나쁨…주말 또 국외 먼지",
+              "url": "https://v.daum.net/v/20260318063929713"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "arsenal đấu với leverkusen",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Video bóng đá Arsenal - Bayer Leverkusen: 2 bàn thắng quý giá, an tâm vào tứ kết (Cúp C1)",
+              "url": "https://www.24h.com.vn/bong-da/video-bong-da-arsenal-bayer-leverkusen-2-ban-thang-quy-gia-an-tam-vao-tu-ket-cup-c1-c48a1745663.html"
+            },
+            {
+              "title": "Arsenal cũng có thể đá đẹp để vô địch Champions League",
+              "url": "https://thethaovanhoa.vn/arsenal-cung-co-the-da-dep-de-vo-dich-champions-league-20260318071433618.htm"
+            },
+            {
+              "title": "Chấm điểm Arsenal vs Bayer Leverkusen: Eze hoá Ronaldinho | Rice lập tuyệt phẩm",
+              "url": "https://voh.com.vn/bong-da/cham-diem-arsenal-vs-bayer-leverkusen-eze-hoa-ronaldinho-rice-lap-tuyet-pham-649756.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "c1",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Times like this breed champions, will Bayern Munich respond?",
+              "url": "https://www.bavarianfootballworks.com/bfw-weekend-and-midweek-warmups/178418/midweek-warm-up-times-like-this-breed-champions-will-bayern-munich-respond-throwing-it-back-to-the-libertines-champions-league-predictions-and-more"
+            },
+            {
+              "title": "Bischof on his versatility: “I trained myself to do a bit of everything\"",
+              "url": "https://bulinews.com/bischof-his-versatility-trained-myself-bit-everything"
+            },
+            {
+              "title": "Kompany warns of complacency as injury-hit Bayern host Atalanta",
+              "url": "https://www.rfi.fr/en/sports/20260317-kompany-warns-of-complacency-as-injury-hit-bayern-host-atalanta"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 1
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 2
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 3
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 4
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 6
+        },
+        {
+          "keyword": "무신사",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 7
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "griffin jax",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Team USA wears game-worn USA men's hockey jerseys ahead of Classic final",
+              "url": "https://www.mlb.com/news/team-usa-baseball-wears-team-usa-hockey-jerseys-world-baseball-classic"
+            },
+            {
+              "title": "Team USA arrives at WBC championship in game-worn USA Olympic hockey jerseys",
+              "url": "https://www.espn.com/mlb/story/_/id/48233724/team-usa-world-baseball-classic-usa-hockey-jerseys"
+            },
+            {
+              "title": "'This is the heaviest jersey I've worn.' Paul Skenes on representing USA in WBC Final vs Venezuela ⚾️",
+              "url": "https://www.foxnews.com/video/6391099413112"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "cal raleigh",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Mariners fans exposed to concerning Cal Raleigh update by WBC broadcast",
+              "url": "https://sodomojo.com/mariners-fans-exposed-to-concerning-cal-raleigh-update-by-wbc-broadcast"
+            },
+            {
+              "title": "USA, Dominican Republic Unveil Lineups for World Baseball Classic Semis, Cal Raleigh Not Starting",
+              "url": "https://bleacherreport.com/articles/25407112-usa-dominican-republic-unveil-lineups-world-baseball-classic-semis-cal-raleigh-not-starting"
+            },
+            {
+              "title": "Will Raleigh snub Rodríguez for a handshake?",
+              "url": "https://www.nytimes.com/athletic/live-blogs/usa-vs-dominican-republic-live-score-updates-wbc-2026-result/KGBtFDuZ4M7H/nn0ZhjMqwzNW/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "jalen green",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Suns' Jalen Green: Strong first half vs. Boston",
+              "url": "https://www.cbssports.com/fantasy/basketball/news/suns-jalen-green-strong-first-half-vs-boston/"
+            },
+            {
+              "title": "Jalen Green flirts with double-double in Monday’s loss to Celtics",
+              "url": "https://www.fantasypros.com/nba/news/574661/jalen-green-flirts-with-double-double-mondays-loss-to-celtics.php"
+            },
+            {
+              "title": "Jalen Green News: Strong first half vs. Boston",
+              "url": "https://www.rotowire.com/basketball/headlines/jalen-green-news-strong-first-half-vs-boston-523987"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "will smith",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "How Michael B. Jordan Won (and Timothée Chalamet Lost) Best Actor at 2026 Oscars",
+              "url": "https://www.nytimes.com/2026/03/16/movies/oscars-michael-b-jordan-timothee-chalamet.html"
+            },
+            {
+              "title": "Michael B. Jordan stops at Hollywood In-N-Out after Oscar win",
+              "url": "https://abc7.com/post/michael-jordan-stops-hollywood-oscar-win/18720908/"
+            },
+            {
+              "title": "Michael B. Jordan Gets Showered With Love — And Burgers — At This Popular Fast-Food Chain",
+              "url": "https://www.yahoo.com/entertainment/celebrity/articles/michael-b-jordan-gets-showered-171757447.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "south alabama vs auburn",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Top-seeded Auburn hosts South Alabama Tuesday in NIT opener",
+              "url": "https://auburntigers.com/news/2026/03/17/top-seeded-auburn-hosts-south-alabama-tuesday-in-nit-opener"
+            },
+            {
+              "title": "Why Auburn accepted an NIT bid after missing the NCAA tournament",
+              "url": "https://www.al.com/auburnbasketball/2026/03/why-auburn-accepted-an-nit-bid-after-missing-the-ncaa-tournament.html"
+            },
+            {
+              "title": "South Alabama features ‘bully-ball’ PG and turnover-forcing zone defense",
+              "url": "https://www.on3.com/teams/auburn-tigers/news/south-alabama-features-bully-ball-pg-and-turnover-forcing-zone-defense/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "texas baseball",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "TV, Streaming Information for No. 2 Texas Longhorns vs Tarleton State",
+              "url": "https://www.si.com/college/texas/baseball/tv-streaming-information-for-no-2-texas-longhorns-vs-tarleton-state"
+            },
+            {
+              "title": "Live updates: Texas baseball looks to score midweek win over Tarleton State",
+              "url": "https://247sports.com/college/texas/article/live-updates-texas-baseball-looks-to-score-midweek-win-over-tarleton-state--278026078/"
+            },
+            {
+              "title": "Texas Longhorns Bring a Ranked Midweek Test to UFCU Disch-Falk Field",
+              "url": "https://www.altitudesmagazine.com/no-2-texas-longhorns-host-tarleton-state-disch-falk/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "camila osorio",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Katerina Siniakova vs. Camila Osorio prediction, odds, picks for WTA Miami Open 2026",
+              "url": "https://www.dimers.com/news/katerina-siniakova-vs-camila-osorio-tennis-prediction-wta-miami-open-2026-ac"
+            },
+            {
+              "title": "WTA Miami Day 1 Predictions Including Katerina Siniakova vs Camila Osorio",
+              "url": "https://lastwordonsports.com/tennis/2026/03/16/wta-miami-day-1-predictions-siniakova-osorio/"
+            },
+            {
+              "title": "Katerina Siniakova vs Camila Osorio Preview & Prediction | 2026 Miami Open | First Round",
+              "url": "https://www.thestatszone.com/katerina-siniakova-vs-camila-osorio-preview-prediction-2026-miami-open-first-round-176860"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "angel zerpa",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Italy reaches semifinals, stays unbeaten in Classic with win over Puerto Rico",
+              "url": "https://www.mlb.com/news/puerto-rico-vs-italy-in-2026-world-baseball-classic-quarterfinals"
+            },
+            {
+              "title": "Italy holds off Puerto Rico rally, reaches WBC semifinals: Highlights",
+              "url": "https://www.usatoday.com/story/sports/mlb/wbc/2026/03/14/puerto-rico-italy-baseball-score-wbc-live-watch-highlights/89153154007/"
+            },
+            {
+              "title": "WBC Wrap-Up: Italy indomitable, Venezuela victorious over Japan",
+              "url": "https://www.batterypower.com/atlanta-braves-discussion/127425/wbc-wrap-up-italy-indomitable-venezuela-victorious-over-japan"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "wbc winners",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Here's who won each World Baseball Classic MVP",
+              "url": "https://www.mlb.com/news/world-baseball-classic-mvps"
+            },
+            {
+              "title": "Past WBC champions",
+              "url": "https://www.nytimes.com/athletic/live-blogs/usa-vs-venezuela-live-score-updates-wbc-2026-result/oANdflbuIsnK/64UyybyqB74F/"
+            },
+            {
+              "title": "USA Wins 2017 World Baseball Classic Title Over Puerto Rico",
+              "url": "https://nationaltoday.com/us/ca/los-angeles/news/2026/03/17/usa-wins-2017-world-baseball-classic-title-over-puerto-rico/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "lioness",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Lioness Creator Taylor Sheridan Faced One Major Challenge With The Paramount+ Series",
+              "url": "https://m.imdb.com/de/news/ni65751238/?ref_=nwc_art_perm"
+            },
+            {
+              "title": "Taylor Sheridan's Underrated Action Thriller Roars to Streaming Success",
+              "url": "https://movieweb.com/lioness-sheridan-action-stream-march-2026/"
+            },
+            {
+              "title": "Lioness Season 3 Filming Nears End as Late 2026 Release Looms",
+              "url": "https://thegww.com/lioness-season-3-filming-release-update/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 1
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 2
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 3
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 4
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 5
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 6
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 8
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 9
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 10
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 12
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ポッドキャスト",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "赤坂で「ジャパンポッドキャストフェス」 2日間で延べ3万人来場（みんなの経済新聞ネットワーク）",
+              "url": "https://news.yahoo.co.jp/articles/b41bf11d5fcc8dd3501c5f067fddf45a4f63273b"
+            },
+            {
+              "title": "村上信五「AIシンゴ」で大赤字告白",
+              "url": "https://www.asahi.com/and/entertainment/16424805"
+            },
+            {
+              "title": "「髭男爵山田ルイ53世の ルネッサンスラジオ」の収録の様子",
+              "url": "https://akasaka.keizai.biz/photoflash/7088/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "マチャド オリックス",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "ベネズエラ右腕、日本人に感謝「ありがとう」 決勝進出直前…明かした侍戦士との電話",
+              "url": "https://full-count.jp/2026/03/17/post1928393/"
+            },
+            {
+              "title": "ＷＢＣ決勝 ベネズエラのマチャドが炎の３連投！オリックスの守護神が圧巻投球でド軍・スミスを打ち取る（デイリースポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/4103d4f5e701c66db96251e2817b4e5ccb373478"
+            },
+            {
+              "title": "“世界にバレた”オリ右腕が「メジャー行ってしまう」 WBCで衝撃無双「打てないって」",
+              "url": "https://sportsbull.jp/p/2294198/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ベネズエラ マチャド",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "【侍ジャパン】ポスト井端に松井秀喜氏が浮上 大谷翔平の〝恩師〟コーチ招へい案も（東スポWEB）",
+              "url": "https://topics.smt.docomo.ne.jp/article/tokyosports/sports/tokyosports-381346?page=3"
+            },
+            {
+              "title": "「当然、若月に代打を送ると…」なぜ周東佑京は“出場しなかった”のか？「周東をスタメンに」まさかの敗北、WBCベネズエラ戦前にあった“幻の起用プラン”（Number Web）",
+              "url": "https://news.yahoo.co.jp/articles/11595f215aac7d79e5c2efb1c9de10a52763d7d1"
+            },
+            {
+              "title": "【ＷＢＣ】〝貧乏くじ〟と化した侍ジャパン監督 球界内からは井端監督に同情の声",
+              "url": "https://www.tokyo-sports.co.jp/articles/-/381248"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "バロー",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "バローのPB（プライベートブランド）商品に新しく仲間入り！",
+              "url": "https://prtimes.jp/main/html/rd/p/000000152.000119795.html"
+            },
+            {
+              "title": "バローnews｜PB｢バローセレクト｣からスライスチーズ2種発売",
+              "url": "https://news.shoninsha.co.jp/merchandising/301655"
+            },
+            {
+              "title": "バローのPB（プライベートブランド）商品に新しく仲間入り！",
+              "url": "https://news.nicovideo.jp/watch/nw19033751"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ディアエヴァンハンセン",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "柿澤勇人＆吉沢亮『ディア・エヴァン・ハンセン』東京での追加4公演が決定 キャスト16名のコメント動画解禁（ぴあ）",
+              "url": "https://news.yahoo.co.jp/articles/457e73e61db75893fe312eafa86e9aa10d45de22"
+            },
+            {
+              "title": "【柿澤勇人＆吉沢 亮主演】ミュージカル『ディア・エヴァン・ハンセン』東京公演 4公演追加決定！キャストコメント映像も解禁",
+              "url": "https://prtimes.jp/main/html/rd/p/000001273.000028143.html"
+            },
+            {
+              "title": "柿澤勇人＆吉沢亮主演ミュージカル『ディア・エヴァン・ハンセン』、追加4公演決定　キャストのコメント動画も公開",
+              "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2442886?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "杉本彩",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "宮島競艇",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "出走表",
+              "url": "https://sp.macour.jp/miyajima/racecards/20260317/"
+            },
+            {
+              "title": "【BOATRACE】宮島ヴィーナス 初日ドリームは松尾夏海が快勝 2日目ドリームは同期の藤原菜希か",
+              "url": "https://sports.yahoo.co.jp/official/detail/2026031700096-spnaviow"
+            },
+            {
+              "title": "【宮島ボート　ミッドナイトボートレース】来田衣織が連勝発進　大減量の成果は明らか",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260317-0316?fm=latestnews"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "ウィザーズ 対 ピストンズ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Pistons vs Wizards Discussion: Game Time, TV, Odds, and More",
+              "url": "https://www.detroitbadboys.com/detroit-pistons-game-day/49695/pistons-vs-wizards-discussion-game-time-tv-odds-and-more"
+            },
+            {
+              "title": "Pistons vs. Wizards",
+              "url": "https://www.detroitnews.com/picture-gallery/media/photo/2026/03/17/detroit-pistons-vs-washington-wizards/89203478007/"
+            },
+            {
+              "title": "Pistons vs Wizards Prediction, Picks & Odds for Tonight’s NBA Game",
+              "url": "https://www.covers.com/nba/pistons-vs-wizards-prediction-picks-best-bets-sgp-tuesday-3-17-2026"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "島原",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "長崎・島原市の整体院経営の男を不同意わいせつ容疑で逮捕 「施術」と容疑を否認（西日本新聞）",
+              "url": "https://news.yahoo.co.jp/articles/54f6c35e551a4eb84318325f6e7b308c2527680e"
+            },
+            {
+              "title": "長崎・島原市の整骨院経営者を不同意わいせつ容疑で逮捕 「施術」容疑を否認",
+              "url": "https://www.nishinippon.co.jp/item/1470767/"
+            },
+            {
+              "title": "施術中の女性にキスや胸触るなどの行為「整体院経営の男 わいせつ疑いで逮捕」“施術したまで”と否認《長崎》",
+              "url": "https://news.ntv.co.jp/category/society/ni24fc10d6ef734a578b0ea71fa1ffa91c"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "桜井日奈子",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "桜井日奈子 激変！アニメ実写化オフショットにファン驚がく「腹筋割れすぎ」「スタイル良すぎ」の声（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/fb0815f6f663f7d4f7e7919f8693a39997342c57"
+            },
+            {
+              "title": "桜井日奈子の腹筋が「割れすぎ」「かっこよすぎ」「すごい」筋肉美ショットが話題！",
+              "url": "https://hochi.news/articles/20260317-OHT1T51354.html"
+            },
+            {
+              "title": "“岡山の奇跡”から12年→「別人かと思った」「すごい痩せた」まさかの姿にネット騒然「腹筋やばい」（1/3） | エンタメ ねとらぼ",
+              "url": "https://nlab.itmedia.co.jp/cont/articles/3772436/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 1
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 2
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 3
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 4
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 5
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 6
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 7
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 8
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 9
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 10
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-03-18T02:26:42.451830+00:00"
+}
