@@ -83,6 +83,42 @@
                   transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
     }
     .treemap-block:hover { filter: brightness(1.1); transform: scale(1.02); z-index: 10; }
+    /* Deep Dive Panel */
+    .deep-dive-overlay {
+      position: fixed; inset: 0; z-index: 100;
+      background: rgba(0,0,0,0.5);
+      animation: deepDiveFadeIn 0.3s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+    }
+    .deep-dive-overlay.closing {
+      animation: deepDiveFadeOut 0.3s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+    }
+    .deep-dive-panel {
+      position: fixed; top: 0; right: 0; bottom: 0;
+      width: 400px; z-index: 101;
+      overflow-y: auto;
+      animation: deepDiveSlideIn 0.35s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+    }
+    .deep-dive-panel.closing {
+      animation: deepDiveSlideOut 0.3s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+    }
+    @keyframes deepDiveSlideIn {
+      from { transform: translateX(100%); }
+      to { transform: translateX(0); }
+    }
+    @keyframes deepDiveSlideOut {
+      from { transform: translateX(0); }
+      to { transform: translateX(100%); }
+    }
+    @keyframes deepDiveFadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    @keyframes deepDiveFadeOut {
+      from { opacity: 1; }
+      to { opacity: 0; }
+    }
+    .keyword-clickable { cursor: pointer; }
+    .keyword-clickable:hover { opacity: 0.75; }
     ::-webkit-scrollbar { width: 6px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: #858A9C40; border-radius: 3px; }
@@ -132,6 +168,7 @@
       .platform-cards-row > * { min-width: 45% !important; flex: 1 1 45% !important; }
     }
     @media (max-width: 768px) {
+      .deep-dive-panel { width: 100%; }
       /* Hide sidebar, show mobile top bar & tabs */
       .dashboard-sidebar { display: none !important; }
       .mobile-top-bar { display: flex !important; }
@@ -1029,7 +1066,7 @@
     }
 
     // ─── Donut Chart ───
-    function DonutChart({ data, totalLabel }) {
+    function DonutChart({ data, totalLabel, onKeywordClick }) {
       const [hovered, setHovered] = useState(null);
       const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
       const total = data.reduce((s, d) => s + d.value, 0);
@@ -1062,6 +1099,7 @@
               <path key={i} d={describeArc(90, 90, 88, seg.startAngle, seg.sweepAngle)}
                 fill={seg.color} className="donut-segment"
                 style={{ opacity: hovered !== null && hovered !== i ? 0.4 : 1 }}
+                onClick={() => onKeywordClick && onKeywordClick(seg.label)}
                 onMouseEnter={() => setHovered(i)}
               />
             ))}
@@ -1092,7 +1130,7 @@
     }
 
     // ─── Treemap ───
-    function Treemap({ data }) {
+    function Treemap({ data, onKeywordClick }) {
       const [hovered, setHovered] = useState(null);
       const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
 
@@ -1148,6 +1186,7 @@
                 width: `${layout[i].w}%`, height: `${layout[i].h}%`,
                 backgroundColor: item.color,
               }}
+              onClick={() => onKeywordClick && onKeywordClick(item.label)}
               onMouseEnter={() => setHovered(i)}
             >
               <div className="text-white font-semibold text-[12px] leading-tight">{item.label}</div>
@@ -1173,7 +1212,7 @@
     }
 
     // ─── Ranked List (for Google Trends, X/Twitter, Naver, Pinterest) ───
-    function RankedList({ items, type, fashionDigest, generalDigest }) {
+    function RankedList({ items, type, fashionDigest, generalDigest, onKeywordClick }) {
       const rankColors = ['#007AFF', '#34C759', '#FF4D40', '#FFD60A', '#FF9500'];
       const [hovered, setHovered] = useState(null);
       const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
@@ -1202,8 +1241,9 @@
             onMouseMove={handleMouseMove} onMouseLeave={() => setHovered(null)}>
             {items.map((item, i) => (
               <div key={i}
-                className="flex items-center gap-3 rounded-lg cursor-default"
+                className="flex items-center gap-3 rounded-lg keyword-clickable"
                 style={{ padding: '8px 10px', borderRadius: 8 }}
+                onClick={() => onKeywordClick && onKeywordClick(item.keyword)}
                 onMouseEnter={() => setHovered(i)}
                 onMouseLeave={() => setHovered(null)}>
                 <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0"
@@ -1243,8 +1283,9 @@
             onMouseMove={handleMouseMove} onMouseLeave={() => setHovered(null)}>
             {items.map((item, i) => (
               <div key={i}
-                className="flex items-center gap-3 cursor-default"
+                className="flex items-center gap-3 keyword-clickable"
                 style={{ padding: '8px 10px', borderRadius: 8 }}
+                onClick={() => onKeywordClick && onKeywordClick(item.topic)}
                 onMouseEnter={() => setHovered(i)}
                 onMouseLeave={() => setHovered(null)}>
                 <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0"
@@ -1286,8 +1327,9 @@
             onMouseMove={handleMouseMove} onMouseLeave={() => setHovered(null)}>
             {items.map((item, i) => (
               <div key={i}
-                className="flex items-center gap-3 cursor-default"
+                className="flex items-center gap-3 keyword-clickable"
                 style={{ padding: '8px 10px', borderRadius: 8 }}
+                onClick={() => onKeywordClick && onKeywordClick(item.keyword)}
                 onMouseEnter={() => setHovered(i)}
                 onMouseLeave={() => setHovered(null)}>
                 <span className="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-bold text-white flex-shrink-0"
@@ -1322,11 +1364,12 @@
             onMouseMove={handleMouseMove} onMouseLeave={() => setHovered(null)}>
             {items.map((item, i) => (
               <div key={i}
-                className="flex flex-col cursor-default"
+                className="flex flex-col keyword-clickable"
                 style={{
                   padding: '12px 14px', borderRadius: 10,
                   backgroundColor: '#E6002310', border: '1px solid #E6002325',
                 }}
+                onClick={() => onKeywordClick && onKeywordClick(item.name)}
                 onMouseEnter={() => setHovered(i)}
                 onMouseLeave={() => setHovered(null)}>
                 <div className="text-[14px] dark:text-white text-gray-900 inline-flex items-center gap-1.5 flex-wrap" style={{ fontWeight: 600 }}>
@@ -1685,10 +1728,335 @@
       );
     }
 
+    // ─── Deep Dive: find keyword data across platforms ───
+    function findKeywordData(keyword, fashionData, generalData, country) {
+      const kw = (keyword || '').toLowerCase().replace('#', '');
+      const results = { youtube: [], googleTrends: null, xTwitter: null, links: [] };
+
+      // YouTube: search through _search and _trending videos
+      const cc = COUNTRY_YT_KEY[country];
+      const processYT = (ytData) => {
+        if (!ytData?.regions) return;
+        for (const suffix of ['_search', '_trending']) {
+          const videos = ytData.regions[`${cc}${suffix}`] || [];
+          for (const v of videos) {
+            if (v.title && v.title.toLowerCase().includes(kw)) {
+              results.youtube.push(v);
+              if (v.url) results.links.push({ url: v.url, platform: 'YouTube', title: v.title });
+            }
+          }
+        }
+      };
+      processYT(fashionData?.youtube);
+      processYT(generalData?.youtube);
+
+      // Google Trends: check keyword_interest and trending
+      const gtCC = COUNTRY_GT_KEY[country];
+      const processGT = (gtData) => {
+        if (!gtData?.countries?.[gtCC]) return;
+        const countryData = gtData.countries[gtCC];
+        // Check keyword_interest
+        if (countryData.keyword_interest) {
+          const found = countryData.keyword_interest.find(k =>
+            k.keyword && k.keyword.toLowerCase().includes(kw));
+          if (found && !results.googleTrends) results.googleTrends = found;
+        }
+        // Also check trending keywords
+        const trends = countryData.all_trending || countryData.trending_fashion || [];
+        if (!results.googleTrends) {
+          const found = trends.find(t => t.keyword && t.keyword.toLowerCase().includes(kw));
+          if (found) results.googleTrends = { keyword: found.keyword, traffic: found.traffic, rank: found.rank, news: found.related_news };
+        }
+      };
+      processGT(fashionData?.googleTrends);
+      processGT(generalData?.googleTrends);
+
+      // X/Twitter: check trending topics
+      const xtKey = COUNTRY_XT_KEY[country];
+      const processXT = (xtData) => {
+        if (!xtData?.countries?.[xtKey]) return;
+        const countryData = xtData.countries[xtKey];
+        const topics = countryData.all_trending || countryData.fashion_related || [];
+        if (!results.xTwitter) {
+          results.xTwitter = topics.find(t => t.topic && t.topic.toLowerCase().includes(kw));
+        }
+      };
+      processXT(fashionData?.xTwitter);
+      processXT(generalData?.xTwitter);
+
+      return results;
+    }
+
+    // ─── Deep Dive Panel Component ───
+    function DeepDivePanel({ keyword, onClose, data, country, fashionDigest, generalDigest }) {
+      const [closing, setClosing] = useState(false);
+
+      const handleClose = useCallback(() => {
+        setClosing(true);
+        setTimeout(() => onClose(), 300);
+      }, [onClose]);
+
+      // ESC key to close
+      useEffect(() => {
+        const onKeyDown = (e) => { if (e.key === 'Escape') handleClose(); };
+        document.addEventListener('keydown', onKeyDown);
+        return () => document.removeEventListener('keydown', onKeyDown);
+      }, [handleClose]);
+
+      // Prevent body scroll when panel is open
+      useEffect(() => {
+        document.body.style.overflow = 'hidden';
+        return () => { document.body.style.overflow = ''; };
+      }, []);
+
+      const kwData = useMemo(() => {
+        if (!keyword || !data) return { youtube: [], googleTrends: null, xTwitter: null, links: [] };
+        return findKeywordData(keyword, data.fashion, data.general, country);
+      }, [keyword, data, country]);
+
+      const badge = getDigestBadge(keyword, fashionDigest, generalDigest);
+      const confidence = getOverallConfidence(fashionDigest, generalDigest);
+
+      const formatViews = (v) => {
+        if (!v) return 'N/A';
+        if (typeof v === 'string') return v;
+        if (v >= 1000000) return `${(v / 1000000).toFixed(1)}M`;
+        if (v >= 1000) return `${(v / 1000).toFixed(0)}K`;
+        return String(v);
+      };
+
+      const formatDate = (dateStr) => {
+        if (!dateStr) return '';
+        try {
+          const d = new Date(dateStr);
+          return d.toLocaleDateString('ko-KR', { month: 'short', day: 'numeric' });
+        } catch { return dateStr; }
+      };
+
+      const countryNameMap = {
+        'korea': '한국', 'united-states': '미국', 'japan': '일본', 'china': '중국',
+        'KR': '한국', 'US': '미국', 'JP': '일본', 'CN': '중국',
+      };
+
+      return ReactDOM.createPortal(
+        React.createElement(React.Fragment, null,
+          // Overlay
+          React.createElement('div', {
+            className: `deep-dive-overlay ${closing ? 'closing' : ''}`,
+            onClick: handleClose,
+          }),
+          // Panel
+          React.createElement('div', {
+            className: `deep-dive-panel ${closing ? 'closing' : ''} dark:bg-navy-dark bg-white dark:border-l-navy-border border-l border-l-gray-200 shadow-2xl`,
+          },
+            // Header
+            React.createElement('div', {
+              className: 'sticky top-0 z-10 dark:bg-navy-dark bg-white px-6 py-5 border-b dark:border-navy-border border-gray-200',
+            },
+              React.createElement('div', { className: 'flex items-start justify-between gap-3' },
+                React.createElement('div', { className: 'flex flex-col gap-2 min-w-0' },
+                  React.createElement('h2', {
+                    className: 'text-xl font-bold dark:text-white text-gray-900 truncate',
+                    style: { fontSize: 20 },
+                  }, keyword),
+                  React.createElement('div', { className: 'flex items-center gap-2 flex-wrap' },
+                    badge?.type === 'rising' && React.createElement('span', {
+                      className: 'inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-semibold',
+                      style: { backgroundColor: 'rgba(34,197,94,0.12)', color: '#22C55E' },
+                    }, `Rising ${badge.change}`),
+                    badge?.type === 'declining' && React.createElement('span', {
+                      className: 'inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-semibold',
+                      style: { backgroundColor: 'rgba(239,68,68,0.12)', color: '#EF4444' },
+                    }, `Declining ${badge.change}`),
+                    badge?.type === 'new' && React.createElement('span', {
+                      className: 'inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-bold',
+                      style: { backgroundColor: 'rgba(234,179,8,0.12)', color: '#EAB308' },
+                    }, 'NEW'),
+                    confidence && React.createElement('span', {
+                      className: 'inline-flex items-center px-2 py-0.5 rounded-full text-[10px] font-semibold border',
+                      style: {
+                        backgroundColor: confidence === 'high' ? 'rgba(34,197,94,0.12)' : confidence === 'medium' ? 'rgba(59,130,246,0.12)' : 'rgba(249,115,22,0.12)',
+                        borderColor: confidence === 'high' ? 'rgba(34,197,94,0.25)' : confidence === 'medium' ? 'rgba(59,130,246,0.25)' : 'rgba(249,115,22,0.25)',
+                        color: confidence === 'high' ? '#22C55E' : confidence === 'medium' ? '#3B82F6' : '#F97316',
+                      },
+                    }, confidence === 'high' ? 'High' : confidence === 'medium' ? 'Medium' : 'Low'),
+                  ),
+                ),
+                React.createElement('button', {
+                  onClick: handleClose,
+                  className: 'flex-shrink-0 w-8 h-8 rounded-lg flex items-center justify-center dark:bg-navy-card bg-gray-100 dark:text-gray-400 text-gray-500 hover:opacity-80 transition-opacity',
+                  style: { fontSize: 18, lineHeight: 1, cursor: 'pointer' },
+                }, '\u2715'),
+              ),
+            ),
+
+            // Scrollable content
+            React.createElement('div', { className: 'px-6 py-5 flex flex-col gap-6' },
+
+              // ── YouTube Section ──
+              React.createElement('div', { className: 'flex flex-col gap-3' },
+                React.createElement('div', { className: 'flex items-center gap-2' },
+                  React.createElement(Icon, { name: 'play-circle', size: 18, color: '#FF0000' }),
+                  React.createElement('span', { className: 'text-[15px] font-semibold dark:text-white text-gray-900' }, 'YouTube'),
+                  React.createElement('span', {
+                    className: 'text-[11px] font-semibold px-2 py-0.5 rounded-full',
+                    style: { backgroundColor: 'rgba(255,0,0,0.1)', color: '#FF0000' },
+                  }, `${kwData.youtube.length}건`),
+                ),
+                kwData.youtube.length > 0
+                  ? kwData.youtube.slice(0, 10).map((v, i) =>
+                    React.createElement('div', {
+                      key: i,
+                      className: 'rounded-lg p-3 dark:bg-navy-card bg-gray-50 border dark:border-navy-border border-gray-200',
+                    },
+                      React.createElement('div', {
+                        className: 'text-[13px] font-medium dark:text-white text-gray-900 leading-snug',
+                        style: { display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' },
+                      }, v.title),
+                      React.createElement('div', {
+                        className: 'text-[11px] dark:text-gray-400 text-gray-500 mt-1.5 flex items-center gap-1.5 flex-wrap',
+                      },
+                        v.channel && React.createElement('span', null, v.channel),
+                        v.views && React.createElement('span', null, `· ${formatViews(v.views)} views`),
+                        v.published_at && React.createElement('span', null, `· ${formatDate(v.published_at)}`),
+                      ),
+                      v.url && React.createElement('a', {
+                        href: v.url,
+                        target: '_blank',
+                        rel: 'noopener noreferrer',
+                        className: 'text-[11px] text-brand-blue hover:underline mt-1.5 inline-block',
+                      }, 'Watch on YouTube \u2192'),
+                    )
+                  )
+                  : React.createElement('div', {
+                    className: 'text-[12px] dark:text-gray-500 text-gray-400 py-3',
+                  }, '관련 YouTube 영상이 없습니다'),
+              ),
+
+              // ── Google Trends Section ──
+              React.createElement('div', { className: 'flex flex-col gap-3' },
+                React.createElement('div', { className: 'flex items-center gap-2' },
+                  React.createElement(Icon, { name: 'trending-up', size: 18, color: '#4285F4' }),
+                  React.createElement('span', { className: 'text-[15px] font-semibold dark:text-white text-gray-900' }, 'Google Trends'),
+                ),
+                kwData.googleTrends
+                  ? React.createElement('div', {
+                    className: 'rounded-lg p-4 dark:bg-navy-card bg-gray-50 border dark:border-navy-border border-gray-200',
+                  },
+                    React.createElement('div', { className: 'flex gap-6' },
+                      React.createElement('div', { className: 'flex flex-col gap-1' },
+                        React.createElement('span', { className: 'text-[11px] dark:text-gray-400 text-gray-500' }, '검색 관심도'),
+                        React.createElement('span', { className: 'text-2xl font-bold dark:text-white text-gray-900' },
+                          kwData.googleTrends.interest_score || kwData.googleTrends.traffic || kwData.googleTrends.rank || '--'),
+                      ),
+                      kwData.googleTrends.rank && React.createElement('div', { className: 'flex flex-col gap-1' },
+                        React.createElement('span', { className: 'text-[11px] dark:text-gray-400 text-gray-500' }, '순위'),
+                        React.createElement('span', { className: 'text-2xl font-bold text-brand-blue' }, `#${kwData.googleTrends.rank}`),
+                      ),
+                    ),
+                    kwData.googleTrends.traffic && React.createElement('div', {
+                      className: 'text-[12px] dark:text-gray-400 text-gray-500 mt-2',
+                    }, `검색량: ${kwData.googleTrends.traffic}`),
+                    kwData.googleTrends.news && kwData.googleTrends.news.length > 0 && React.createElement('div', {
+                      className: 'mt-3 pt-3 border-t dark:border-navy-border border-gray-200',
+                    },
+                      React.createElement('div', { className: 'text-[11px] font-semibold dark:text-gray-400 text-gray-500 mb-2' }, '관련 뉴스'),
+                      kwData.googleTrends.news.slice(0, 3).map((n, i) =>
+                        React.createElement('div', { key: i, className: 'text-[12px] dark:text-gray-300 text-gray-600 mb-1' },
+                          n.url
+                            ? React.createElement('a', {
+                              href: n.url, target: '_blank', rel: 'noopener noreferrer',
+                              className: 'text-brand-blue hover:underline',
+                            }, n.title || n.url)
+                            : (n.title || 'News'),
+                        )
+                      ),
+                    ),
+                  )
+                  : React.createElement('div', {
+                    className: 'text-[12px] dark:text-gray-500 text-gray-400 py-3',
+                  }, 'Google Trends 데이터가 없습니다'),
+              ),
+
+              // ── X (Twitter) Section ──
+              React.createElement('div', { className: 'flex flex-col gap-3' },
+                React.createElement('div', { className: 'flex items-center gap-2' },
+                  React.createElement(Icon, { name: 'twitter', size: 18, color: '#1DA1F2' }),
+                  React.createElement('span', { className: 'text-[15px] font-semibold dark:text-white text-gray-900' }, 'X (Twitter)'),
+                  kwData.xTwitter?.rank && React.createElement('span', {
+                    className: 'text-[11px] font-semibold px-2 py-0.5 rounded-full',
+                    style: { backgroundColor: 'rgba(29,161,242,0.1)', color: '#1DA1F2' },
+                  }, `#${kwData.xTwitter.rank}`),
+                ),
+                kwData.xTwitter
+                  ? React.createElement('div', {
+                    className: 'rounded-lg p-4 dark:bg-navy-card bg-gray-50 border dark:border-navy-border border-gray-200',
+                  },
+                    React.createElement('div', { className: 'flex gap-6' },
+                      React.createElement('div', { className: 'flex flex-col gap-1' },
+                        React.createElement('span', { className: 'text-[11px] dark:text-gray-400 text-gray-500' }, '트윗량'),
+                        React.createElement('span', { className: 'text-lg font-bold dark:text-white text-gray-900' },
+                          kwData.xTwitter.volume || 'N/A'),
+                      ),
+                      React.createElement('div', { className: 'flex flex-col gap-1' },
+                        React.createElement('span', { className: 'text-[11px] dark:text-gray-400 text-gray-500' }, '지역'),
+                        React.createElement('span', { className: 'text-lg font-bold dark:text-white text-gray-900' },
+                          countryNameMap[COUNTRY_XT_KEY[country]] || country),
+                      ),
+                    ),
+                  )
+                  : React.createElement('div', {
+                    className: 'text-[12px] dark:text-gray-500 text-gray-400 py-3',
+                  }, 'X (Twitter) 트렌딩 데이터가 없습니다'),
+              ),
+
+              // ── Related Links Section ──
+              kwData.links.length > 0 && React.createElement('div', { className: 'flex flex-col gap-3' },
+                React.createElement('div', { className: 'flex items-center gap-2' },
+                  React.createElement(Icon, { name: 'layers', size: 18, color: '#858A9C' }),
+                  React.createElement('span', { className: 'text-[15px] font-semibold dark:text-white text-gray-900' }, '관련 링크'),
+                ),
+                React.createElement('div', { className: 'flex flex-col gap-2' },
+                  kwData.links.slice(0, 8).map((link, i) =>
+                    React.createElement('a', {
+                      key: i,
+                      href: link.url,
+                      target: '_blank',
+                      rel: 'noopener noreferrer',
+                      className: 'flex items-center gap-2 rounded-lg p-2.5 dark:bg-navy-card bg-gray-50 border dark:border-navy-border border-gray-200 hover:opacity-80 transition-opacity',
+                    },
+                      React.createElement('div', {
+                        className: 'w-5 h-5 rounded-full flex items-center justify-center flex-shrink-0',
+                        style: { backgroundColor: link.platform === 'YouTube' ? 'rgba(255,0,0,0.1)' : 'rgba(0,122,255,0.1)' },
+                      },
+                        React.createElement(Icon, {
+                          name: link.platform === 'YouTube' ? 'play-circle' : 'layers',
+                          size: 12,
+                          color: link.platform === 'YouTube' ? '#FF0000' : '#007AFF',
+                        }),
+                      ),
+                      React.createElement('span', {
+                        className: 'text-[12px] text-brand-blue truncate flex-1',
+                      }, link.title || link.url),
+                    )
+                  ),
+                ),
+              ),
+
+              // Bottom padding
+              React.createElement('div', { style: { height: 24 } }),
+            ),
+          ),
+        ),
+        document.body
+      );
+    }
+
     function TrendOverview() {
       const [chartTab, setChartTab] = useState('freq');
       const [activeCountry, setActiveCountry] = useState('KR');
       const [activePlatform, setActivePlatform] = useState('youtube');
+      const [deepDiveKeyword, setDeepDiveKeyword] = useState(null);
       const data = useData();
 
       const basePlatforms = data?.platforms || MOCK_PLATFORMS;
@@ -1817,10 +2185,11 @@
                     ) : chartTab === 'freq' ? (
                       keywordsFreq.length > 0 ? (
                         <div className="chart-area-horizontal page-enter flex items-center gap-8 w-full" key={`freq-${activePlatform}-${activeCountry}`}>
-                          <div className="donut-chart-wrapper"><DonutChart data={keywordsFreq} totalLabel="total" /></div>
+                          <div className="donut-chart-wrapper"><DonutChart data={keywordsFreq} totalLabel="total" onKeywordClick={setDeepDiveKeyword} /></div>
                           <div className="flex-1 flex flex-col gap-3.5">
                             {keywordsFreq.map((kw, i) => (
-                              <div key={i} className="flex items-center gap-2.5">
+                              <div key={i} className="flex items-center gap-2.5 keyword-clickable"
+                                onClick={() => setDeepDiveKeyword(kw.label)}>
                                 <div className="w-2.5 h-2.5 rounded-full flex-shrink-0" style={{ backgroundColor: kw.color }} />
                                 <span className="flex-1 text-[13px] dark:text-white text-gray-900 inline-flex items-center gap-1.5 flex-wrap">
                                   {kw.label}
@@ -1839,15 +2208,15 @@
                     ) : (
                       <div className="page-enter w-full" key={`secondary-${activePlatform}-${activeCountry}`}>
                         {activePlatform === 'youtube' && secondTabData.length > 0 ? (
-                          <Treemap data={secondTabData} />
+                          <Treemap data={secondTabData} onKeywordClick={setDeepDiveKeyword} />
                         ) : activePlatform === 'google_trends' ? (
-                          <RankedList items={secondTabData} type="google_trends" fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} />
+                          <RankedList items={secondTabData} type="google_trends" fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} onKeywordClick={setDeepDiveKeyword} />
                         ) : activePlatform === 'x_twitter' ? (
-                          <RankedList items={secondTabData} type="x_twitter" fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} />
+                          <RankedList items={secondTabData} type="x_twitter" fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} onKeywordClick={setDeepDiveKeyword} />
                         ) : activePlatform === 'naver' ? (
-                          <RankedList items={secondTabData} type="naver" fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} />
+                          <RankedList items={secondTabData} type="naver" fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} onKeywordClick={setDeepDiveKeyword} />
                         ) : activePlatform === 'pinterest' ? (
-                          <RankedList items={secondTabData} type="pinterest" fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} />
+                          <RankedList items={secondTabData} type="pinterest" fashionDigest={data?.fashionDigest} generalDigest={data?.generalDigest} onKeywordClick={setDeepDiveKeyword} />
                         ) : activePlatform === 'youtube' && secondTabData.length === 0 ? (
                           <div className="flex items-center justify-center w-full h-[200px] text-sm dark:text-gray-400 text-gray-500">
                             데이터가 없습니다
@@ -1889,6 +2258,18 @@
                 data={data}
               />
             </>
+          )}
+
+          {/* Deep Dive Panel */}
+          {deepDiveKeyword && (
+            <DeepDivePanel
+              keyword={deepDiveKeyword}
+              onClose={() => setDeepDiveKeyword(null)}
+              data={data}
+              country={activeCountry}
+              fashionDigest={data?.fashionDigest}
+              generalDigest={data?.generalDigest}
+            />
           )}
         </div>
       );
