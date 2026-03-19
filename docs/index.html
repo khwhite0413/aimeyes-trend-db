@@ -210,6 +210,10 @@
       .monitoring-bottom > * { width: 100% !important; }
       .monitoring-bottom .monitoring-rates-panel { width: 100% !important; }
 
+      /* Week navigator: hide desktop, show mobile */
+      .week-nav-desktop { display: none !important; }
+      .week-nav-mobile { display: block !important; }
+
       /* Digest badges mobile */
       .digest-badge { font-size: 8px !important; padding: 1px 4px !important; }
       .digest-badge-new { font-size: 7px !important; padding: 1px 4px !important; }
@@ -1933,8 +1937,23 @@
       }, []);
 
       const monStats = data?.monitoringStats;
-      const history = data?.history?.length > 0 ? data.history : MOCK_HISTORY;
+      const fullHistory = data?.history?.length > 0 ? data.history : MOCK_HISTORY;
       const isHistoryMock = !(data?.history?.length > 0);
+
+      // Week navigator state
+      const [weekOffset, setWeekOffset] = useState(0);
+      const allDates = fullHistory;
+      const currentWeekEnd = Math.min(allDates.length - 1, allDates.length - 1 + weekOffset * 7);
+      const currentWeekStart = Math.max(0, currentWeekEnd - 6);
+      const history = allDates.slice(currentWeekStart, currentWeekEnd + 1);
+      const minOffset = -Math.floor((allDates.length - 1) / 7);
+      const weekLabel = history.length > 0
+        ? `${history[0].date} ~ ${history[history.length - 1].date}`
+        : '';
+      const prevWeek = () => setWeekOffset(w => Math.max(minOffset, w - 1));
+      const nextWeek = () => setWeekOffset(w => Math.min(0, w + 1));
+      const isCurrentWeek = weekOffset === 0;
+      const isOldestWeek = weekOffset <= minOffset;
       const platformRates = data?.platformRates || [
         { name: 'YouTube', rate: 100, color: '#34C759' },
         { name: 'Google Trends', rate: 98, color: '#34C759' },
@@ -2010,7 +2029,7 @@
               dark:border-navy-border border-gray-200 border flex flex-col gap-4">
               <div className="flex items-center justify-between">
                 <span className="text-base font-semibold dark:text-white text-gray-900">
-                  수집 히스토리 ({history.length}일)
+                  수집 히스토리
                 </span>
                 <div className="flex items-center gap-2">
                   {isHistoryMock && (
@@ -2018,6 +2037,19 @@
                       샘플 데이터
                     </span>
                   )}
+                  <div className="week-nav-desktop flex items-center gap-2">
+                    <button onClick={prevWeek} disabled={isOldestWeek} className={`w-7 h-7 rounded-lg flex items-center justify-center
+                      text-base font-semibold transition-opacity
+                      ${isOldestWeek ? 'opacity-30 cursor-not-allowed' : 'hover:opacity-80'}
+                      dark:bg-navy-card bg-white border dark:border-navy-border border-gray-200
+                      dark:text-gray-300 text-gray-500`}>‹</button>
+                    <span className="text-[13px] font-medium dark:text-white text-gray-900 min-w-[90px] text-center">
+                      {weekLabel}
+                    </span>
+                    <button onClick={nextWeek} disabled={isCurrentWeek} className={`w-7 h-7 rounded-lg flex items-center justify-center
+                      text-base font-semibold transition-opacity
+                      ${isCurrentWeek ? 'bg-brand-blue text-white opacity-100' : 'dark:bg-navy-card bg-white border dark:border-navy-border border-gray-200 dark:text-gray-300 text-gray-500 hover:opacity-80'}`}>›</button>
+                  </div>
                   <span className={`text-[11px] font-semibold rounded-full px-3 py-1 ${
                     (monStats?.errors || 0) === 0
                       ? 'text-green-500 bg-green-500/10'
@@ -2031,6 +2063,21 @@
             </div>
             <div className="monitoring-rates-panel w-[380px] dark:bg-navy-card bg-white rounded-xl p-5
               dark:border-navy-border border-gray-200 border flex flex-col gap-3 overflow-auto">
+              <div className="week-nav-mobile" style={{ display: 'none' }}>
+                <div className="flex items-center justify-center gap-1.5 mb-2">
+                  <button onClick={prevWeek} disabled={isOldestWeek} className={`w-6 h-6 rounded-md flex items-center justify-center
+                    text-sm font-semibold transition-opacity
+                    ${isOldestWeek ? 'opacity-30 cursor-not-allowed' : 'hover:opacity-80'}
+                    dark:bg-navy-card bg-white border dark:border-navy-border border-gray-200
+                    dark:text-gray-300 text-gray-500`}>‹</button>
+                  <span className="text-[11px] font-medium dark:text-white text-gray-900 min-w-[70px] text-center">
+                    {weekLabel}
+                  </span>
+                  <button onClick={nextWeek} disabled={isCurrentWeek} className={`w-6 h-6 rounded-md flex items-center justify-center
+                    text-sm font-semibold transition-opacity
+                    ${isCurrentWeek ? 'bg-brand-blue text-white opacity-100' : 'dark:bg-navy-card bg-white border dark:border-navy-border border-gray-200 dark:text-gray-300 text-gray-500 hover:opacity-80'}`}>›</button>
+                </div>
+              </div>
               <span className="text-base font-semibold dark:text-white text-gray-900">플랫폼별 성공률</span>
               <div className="dark:border-b-navy-border border-b-gray-200 border-b" />
               {platformRates.map((p, i) => (
