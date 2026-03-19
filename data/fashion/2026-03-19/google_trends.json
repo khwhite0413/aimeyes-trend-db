@@ -1,0 +1,901 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "충무아트센터",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 2,
+          "keyword": "inter miami",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "'One of a kind' Messi hits 900 career goals - numbers behind milestone",
+              "url": "https://www.bbc.com/sport/football/articles/c0rj25g225ro"
+            },
+            {
+              "title": "🚨 Nashville send Inter Miami crashing out of Champions Cup",
+              "url": "https://onefootball.com/en/news/nashville-send-inter-miami-crashing-out-of-champions-cup-42580016"
+            },
+            {
+              "title": "Argentine striker Lionel Messi scores his 900th goal against Nashville SC and intensifies his race for a global record",
+              "url": "https://www.mixvale.com.br/2026/03/18/argentine-striker-lionel-messi-scores-his-900th-goal-against-nashville-sc-and-intensifies-his-race-for-a-global-record-en/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "휴스턴 대 la 레이커스",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'돈치치 36점 활약' NBA 레이커스, 휴스턴 꺾고 6연승",
+              "url": "https://www.newsis.com/view/NISX20260317_0003551610"
+            },
+            {
+              "title": "“코비 이후 처음” 돈치치 놀라운 득점 행진…“14년 기록을 1년 반에?” LAL 레전드도 놀랐다",
+              "url": "https://v.daum.net/v/20260319000725587"
+            },
+            {
+              "title": "‘돈치치 36점’ 레이커스, 휴스턴 꺾고 파죽의 6연승…서부 3위 유지",
+              "url": "https://sports.khan.co.kr/article/202603171309013"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "대우건설",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "대우건설 주가 장중 18%대 올라, 해외 원전 사업 확대 기대에 52주 최고가",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=433218"
+            },
+            {
+              "title": "\"수소·암모니아로 확장\" 그린 디벨로퍼 도약 [해외건설, 에너지가 미래다]",
+              "url": "https://v.daum.net/v/20260317181806804"
+            },
+            {
+              "title": "[대우건설 초격차②] 원전 재편 가속, SMR까지 '정조준'",
+              "url": "http://www.seoulwire.com/news/articleView.html?idxno=711454"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "한준호",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "정청래 ‘김어준 출연’에 강득구는 ‘보이콧 선언’…친청계는 단골, 친명계는 발길 뜸해",
+              "url": "https://v.daum.net/v/20260319060439850"
+            },
+            {
+              "title": "'친명' 한준호, 김어준 방송 나가 鄭향해 \"대통령 언급 부적절\"",
+              "url": "https://www.yna.co.kr/view/AKR20260319073500001"
+            },
+            {
+              "title": "'경기지사' 출마 한준호 \"정청래, 김어준 방송 출연 내용 부적절\" [모닝콜]",
+              "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6808604_37012.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "도깨비",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "연차 없이 가는 ‘오사카 밤도깨비 에어텔’ 하나투어 론칭",
+              "url": "https://v.daum.net/v/20260318101055276"
+            },
+            {
+              "title": "하나투어 \"연차 쓰지 말고 오사카 여행 떠나세요\"",
+              "url": "https://news.nate.com/view/20260318n25695"
+            },
+            {
+              "title": "[KFE 유통로그]하나투어·서울신라호텔",
+              "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=655759"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "미세먼지",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "낙동강유역환경청, 봄철 비산먼지 사업장 특별점검",
+              "url": "https://www.newsis.com/view/NISX20260319_0003554692"
+            },
+            {
+              "title": "낙동강청, 봄철 비산먼지 잡는다…아스콘·레미콘업체 특별점검",
+              "url": "https://www.yna.co.kr/view/AKR20260319056200052"
+            },
+            {
+              "title": "“봄철 미세먼지 잡는다” 파주시, 대형 공사장 비산먼지 집중 단속",
+              "url": "https://www.kyeonggi.com/article/20260318580261"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "달러 원 환율",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "국제유가 급등에…원-달러 환율 1500원 훌쩍 넘어",
+              "url": "https://www.hani.co.kr/arti/economy/economy_general/1250048.html"
+            },
+            {
+              "title": "[신윤우의 외환분석] 격해진 전장과 매파 연준",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4404672"
+            },
+            {
+              "title": "[속보] 이란 최대 가스전 공격, 파월 매파적 발언에 달러 강세...원화 환율은 21.9원 오른 1505원에 개장",
+              "url": "https://www.chosun.com/economy/economy_general/2026/03/19/5PMFBRQJOVAOPCVS4FJYKVVX6U/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "메타",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "\"中, 메타에 인수된 중국계 AI기업 경영진 단속…출국 막을수도\"",
+              "url": "https://www.kita.net/board/totalTradeNews/totalTradeNewsDetail.do;JSESSIONID_KITA=2410B719D5B1F0F4960D7F5FE1B4882C.Hyper?no=100031&siteId=2"
+            },
+            {
+              "title": "중국, 메타의 ‘마누스’ 인수 관련 제재 검토…인재·기술 유출 차단 뜻",
+              "url": "https://www.hani.co.kr/arti/international/china/1249953.html"
+            },
+            {
+              "title": "메타 품에 안긴 ‘탈중국’ AI 마누스, 미·중 의제되나…“중 당국, 관계자 불러 경고”",
+              "url": "https://www.khan.co.kr/article/202603181600021"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "mlb",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "WBC: Max Scherzer has a Game-Changing Idea for the World Baseball Classic: 'Everyone Wants In'",
+              "url": "https://en.albat.com/thebigs/wbc-max-scherzer-has-a-game-changing-idea-for-the-world-baseball-classic-everyone-wants-in-20260318-0064.html"
+            },
+            {
+              "title": "Manfred says MLB might consider moving WBC to midseason",
+              "url": "https://www.indianagazette.com/sports/manfred-says-mlb-might-consider-moving-wbc-to-midseason/article_0b93df0e-4b3c-557b-ae11-d6c649e920d0.html"
+            },
+            {
+              "title": "Revitalizing Baseball: How the WBC Can Transform the Sport",
+              "url": "https://bvmsports.com/2026/03/18/revitalizing-baseball-how-the-wbc-can-transform-the-sport/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 1
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 2
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 3
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 4
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 6
+        },
+        {
+          "keyword": "무신사",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 7
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "zion williamson",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Game Recap: Pelicans 129, Mavericks 111",
+              "url": "https://www.nba.com/watch/video/game-recap-pelicans-129-mavericks-111"
+            },
+            {
+              "title": "Player Grades – Recapping the Mavericks vs. the Pelicans",
+              "url": "https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/56855/player-grades-mavericks-vs-pelicans-recap-cooper-flagg-zion-williamson-129-111"
+            },
+            {
+              "title": "Pelicans 129-111 Mavericks (Mar 16, 2026) Game Recap",
+              "url": "https://www.espn.com/nba/recap/_/gameId/401810843"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "brice sensabaugh",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Highlights From Brice Sensabaugh 31-Point Game",
+              "url": "https://www.nba.com/watch/video/highlights-from-brice-sensabaugh-31-point-game"
+            },
+            {
+              "title": "Jazz's Brice Sensabaugh: Hits for 22 in Sacramento",
+              "url": "https://www.cbssports.com/fantasy/basketball/news/jazzs-brice-sensabaugh-hits-for-22-in-sacramento/"
+            },
+            {
+              "title": "Brice Sensabaugh leads offense in Friday's loss to Trailblazers",
+              "url": "https://www.fantasypros.com/nba/news/574009/brice-sensabaugh-leads-offense-fridays-loss-to-trailblazers.php"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "texas rangers",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Texas Rangers lineup for March 18, 2026",
+              "url": "https://www.lonestarball.com/rangers-game-day-lineups/89137/texas-rangers-lineup-for-march-18-2026"
+            },
+            {
+              "title": "Kyle Higashioka News: Returns to lineup Monday",
+              "url": "https://www.rotowire.com/baseball/headlines/kyle-higashioka-news-returns-to-lineup-monday-993186"
+            },
+            {
+              "title": "Texas Rangers lineup for March 18, 2026",
+              "url": "https://sports.yahoo.com/articles/texas-rangers-lineup-march-18-201320121.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "saddiq bey",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "NO.pelicans.031926.015.jpg",
+              "url": "https://www.theadvocate.com/no-pelicans-031926-015-jpg/image_37f58eb1-43c7-514c-8b09-b48c36a1d381.html"
+            },
+            {
+              "title": "NO.pelicans.031926.316.jpg",
+              "url": "https://www.theadvocate.com/no-pelicans-031926-316-jpg/image_86dea3c2-d2df-5534-9363-6fc3264ec916.html"
+            },
+            {
+              "title": "NO.pelicans.031926.871.jpg",
+              "url": "https://www.theadvocate.com/no-pelicans-031926-871-jpg/image_462d1816-102c-5db6-bbb4-657b31c60d9d.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "pelicans",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Clippers vs. Pelicans Prediction, Odds and Best NBA Prop Bets for Wednesday, March 18",
+              "url": "https://www.si.com/betting/clippers-vs-pelicans-prediction-odds-and-best-nba-prop-bets-for-wednesday-march-18-01km0wxx562n"
+            },
+            {
+              "title": "Final Injury Report for Clippers-Pelicans: Will Kawhi Leonard, Darius Garland Play?",
+              "url": "https://sports.yahoo.com/articles/final-injury-report-clippers-pelicans-200000232.html"
+            },
+            {
+              "title": "Kawhi Leonard Cleared to Play Against Pelicans After Ankle Injury Recovery",
+              "url": "https://www.aol.com/articles/kawhi-leonard-cleared-play-against-231030172.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "marquense - cobán imperial",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Cobán Imperial busca mantener el liderato ante un Marquense que lucha por la permanencia",
+              "url": "https://www.guatemala.com/deportes/futbol-guatemalteco/marquense-vs-coban-imperial-jornada-14-torneo-clausura-2026.html"
+            },
+            {
+              "title": "Cobán Imperial viajó a San Marcos con nueve bajas",
+              "url": "https://onefootball.com/en/news/coban-imperial-viajo-a-san-marcos-con-nueve-bajas-42577914"
+            },
+            {
+              "title": "Cobán Imperial, con la misión de ganar para seguir en la cima",
+              "url": "https://www.prensalibre.com/deportes/futbol-nacional/coban-imperial-con-la-mision-de-ganar-para-seguir-en-la-cima/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "la casa de los famosos",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Así puedes votar para salvar a tu favorito de la Semana 5 en La Casa de los Famosos 2026",
+              "url": "https://as.com/us/tikitakas/asi-puedes-votar-para-salvar-a-tu-favorito-de-la-semana-5-en-la-casa-de-los-famosos-2026-f202603-n/"
+            },
+            {
+              "title": "¡Todo se dice! Dimes y diretes antes de la eliminación de La Casa de los Famosos 6",
+              "url": "https://www.yahoo.com/news/videos/todo-se-dice-dimes-y-233223949.html"
+            },
+            {
+              "title": "“La Jefa” sanciona a 12 habitantes por no seguir las reglas de convivencia en “LCDLF6″",
+              "url": "https://www.elnuevodia.com/entretenimiento/television/notas/la-jefa-sanciona-a-12-habitantes-por-no-seguir-las-reglas-de-convivencia-en-lcdlf6/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "miami basketball",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Can Missouri basketball get a March Madness win? Predictions for Miami game",
+              "url": "https://www.columbiatribune.com/story/sports/college/tiger-extra/2026/03/15/missouri-final-four-predictions-march-madness-picks-college-basketball/89146456007/"
+            },
+            {
+              "title": "Chuck Todd says Miami got 'screwed' in Mizzou basketball matchup",
+              "url": "https://www.thetelegraph.com/sports/article/chuck-todd-miami-missouri-march-madness-basketball-22080210.php"
+            },
+            {
+              "title": "Eight teams to battle in St. Louis during March Madness tournament",
+              "url": "https://fox2now.com/sports/eight-teams-to-battle-in-st-louis-during-march-madness-tournament/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "grace lilly arrested",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Grace Lilly of ‘Southern Hospitality’ arrested on suspicion of drug possession in S.C.",
+              "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-03-13/grace-lilly-southern-hospitality-arrested-drug-possession"
+            },
+            {
+              "title": "Southern Hospitality Star’s Addiction Journey To Air During Season 4",
+              "url": "https://www.yahoo.com/entertainment/tv/articles/southern-hospitality-star-addiction-journey-144541056.html"
+            },
+            {
+              "title": "New warrant issued for reality star Grace Lilly after pill test",
+              "url": "https://abcnews4.com/news/local/new-warrant-issued-for-reality-star-grace-lilly-after-pill-test-narcotics-violation-reality-tv-happy-pills-charleston-lowcountry-news"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "ty jerome",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Grizzlies' Ty Jerome: Out vs. Chicago",
+              "url": "https://www.cbssports.com/fantasy/basketball/news/grizzlies-ty-jerome-out-vs-chicago/"
+            },
+            {
+              "title": "Ty Jerome Good to Go Wednesday - NBA News | Fantasy Basketball",
+              "url": "https://www.rotoballer.com/player-news/ty-jerome-good-to-go-wednesday/1830429"
+            },
+            {
+              "title": "Ty Jerome Injury: Doubtful for Monday",
+              "url": "https://www.rotowire.com/basketball/headlines/ty-jerome-injury-doubtful-for-monday-523778"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 1
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 2
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 3
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 4
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 5
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 6
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 8
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 9
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 10
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 12
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "日本代表 メンバー発表",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "森保ジャパン、W杯へ異例のセンターバック大量招集 19日英国遠征メンバー発表（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/aa110cba4c5281709964d421674b1a92fd613f69"
+            },
+            {
+              "title": "【英国遠征】国際親善試合 スコットランド代表・イングランド代表 日本代表メンバー発表記者会｜3月19日（木）14:00〜 LIVE配信",
+              "url": "https://www.tv-tokyo.co.jp/sports/articles/2026/03/041390.html"
+            },
+            {
+              "title": "【日本代表の英国遠征メンバー予想】“アジア最強DF”がついに復帰か！１年間招集なしの主力ＭＦも招集濃厚、サプライズはドイツ移籍の20歳！久保＆南野不在の２シャドーはどうなる？",
+              "url": "https://www.soccerdigestweb.com/news/detail/id=187656"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "バンダイナムコ",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "timelesz",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【weeeek】名曲で大盛り上がり&お悩み相談対決で「あの男」が魅せる",
+              "url": "https://tver.jp/episodes/epyqqqdr9t"
+            },
+            {
+              "title": "NEWS増田貴久、対戦企画の敗因はtimelesz佐藤勝利の「顔面が強すぎ」＜timeleszファミリア＞",
+              "url": "https://thetv.jp/news/detail/1334258/"
+            },
+            {
+              "title": "画像・写真 | 増田貴久、timeleszと名曲「weeeek」熱唱 甘酸っぱい悩みに回答 3枚目",
+              "url": "https://www.oricon.co.jp/news/2442444/photo/3/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "帝京大学",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 5,
+          "keyword": "本田真凜",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "バッチリメイクの本田真凜に「素敵」「似合ってる」の声 自身のコスメを報告「してみました」（THE ANSWER）",
+              "url": "https://news.yahoo.co.jp/articles/bce34d8052618a46bf8f51d2a40980e11a2fb0e4"
+            },
+            {
+              "title": "本田真凜さん 自身ブランドのコスメでセルフメーク「血色感のあるナチュラルなツヤ肌」披露",
+              "url": "https://www.sponichi.co.jp/entertainment/news/2026/03/18/kiji/20260318s00041000386000c.html"
+            },
+            {
+              "title": "本田真凛さん、「血色感のあるナチュラルなツヤ肌」プロデュースブランドのコスメでセルフメイク＆透明感溢れるドレス姿公開",
+              "url": "https://news.nifty.com/article/entame/showbizd/12265-5052423/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "経済産業省",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "重点投資戦略で成長は実現するか 中空麻奈氏",
+              "url": "https://www.nikkei.com/article/DGXZQOCD134WI0T10C26A3000000/"
+            },
+            {
+              "title": "プレスリリース：経団連、ロボット（AI＋）戦略に関する提言を公表 社会課題解決と産業競争力強化の両立に向けた戦略の着実な展開を要望（PR TIMES）",
+              "url": "https://mainichi.jp/articles/20260318/pr2/00m/020/443000c"
+            },
+            {
+              "title": "フィジカルAI国産化進める 2040年までの戦略骨子経産省",
+              "url": "https://txbiz.tv-tokyo.co.jp/txn/news_txn/post_337174"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "ロケッツ 対 レイカーズ",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "【3月19日】八村塁出場予定 ロケッツvsレイカーズのテレビ放送・ネット配信｜NBA 2025-26",
+              "url": "https://lemino.docomo.ne.jp/leminonews/articles/nba-rockets-lakers-streaming-20260319"
+            },
+            {
+              "title": "「素晴らしかった」「勝つためのプレーをしてくれた」レブロンとレディックHCが勝負所で躍動したエイトンを称賛＜DUNKSHOOT＞",
+              "url": "https://news.yahoo.co.jp/articles/91b0d0c0e30c7e7c69ab795d6a6809582609543b"
+            },
+            {
+              "title": "右手の大ケガと移籍の苦難を乗り越え復活…守備と闘争心でレイカーズを支えるスマート",
+              "url": "https://sportsbull.jp/p/2293834/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "日銀",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "日銀利上げ見送りへ、原油高の経済・物価影響を点検 19日決定会合",
+              "url": "https://www.nikkei.com/article/DGXZQOUB1752E0X10C26A3000000/"
+            },
+            {
+              "title": "イラン情勢踏まえても、金融政策の具体的手法は日銀に委ねられるべき＝官房長官",
+              "url": "https://jp.reuters.com/business/VZGLEF5FABK5FLDNCDQNABG7BE-2026-03-19/"
+            },
+            {
+              "title": "日銀のタカ派シグナルに備え－円や利回り上昇見込むヘッジファンド",
+              "url": "https://www.bloomberg.com/jp/news/articles/2026-03-18/TC2LG2T96OSK00"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "いけちゃん",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "１級建築士合格の人気女性ユーチューバーが告白、グラビア引退の理由「限界露出を求められ…」",
+              "url": "https://www.nikkansports.com/entertainment/news/202603180001324.html"
+            },
+            {
+              "title": "人気YouTuber「限界露出求められ、嫌気が…」グラビア辞めた理由明かした (2026年3月19日掲載)",
+              "url": "https://news.livedoor.com/topics/detail/30797973/"
+            },
+            {
+              "title": "１級建築士合格の人気女性ユーチューバーが告白、グラビア引退の理由「限界露出を求められ…」",
+              "url": "https://news.livedoor.com/article/detail/30797973/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "帝京高校野球部",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "【帝京高校・硬式野球部】多大なるご支援に感謝申し上げます",
+              "url": "https://sports.yahoo.co.jp/official/detail/2026031800012-spnaviow"
+            },
+            {
+              "title": "返礼品のご紹介③ | 硬式野球部 | 帝京中学校・高等学校",
+              "url": "https://yellz.jp/detail/130492/post/660/"
+            },
+            {
+              "title": "”15年目の糸満キャンプ始動”青森中央学院大学歓迎セレモニー",
+              "url": "https://www.city.itoman.lg.jp/soshiki/21/35551.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 1
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 2
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 3
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 4
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 5
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 6
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 7
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 8
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 9
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 10
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'",
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-03-19T02:27:44.087823+00:00"
+}

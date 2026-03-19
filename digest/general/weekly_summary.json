@@ -2,38 +2,54 @@
   "mode": "general",
   "week_range": {
     "from": "2026-03-16",
-    "to": "2026-03-18"
+    "to": "2026-03-19"
   },
-  "days_analyzed": 3,
+  "days_analyzed": 4,
   "confidence": "low",
   "top_rising": [
     {
-      "keyword": "viral",
-      "growth": "+29%",
+      "keyword": "trend",
+      "growth": "+200%",
       "total_mentions": 50
     },
     {
-      "keyword": "trend",
-      "growth": "+100%",
-      "total_mentions": 35
-    },
-    {
-      "keyword": "shorts",
-      "growth": "+133%",
-      "total_mentions": 34
-    },
-    {
       "keyword": "#shorts",
-      "growth": "+140%",
-      "total_mentions": 31
+      "growth": "+180%",
+      "total_mentions": 45
+    },
+    {
+      "keyword": "#viral",
+      "growth": "+57%",
+      "total_mentions": 41
     },
     {
       "keyword": "dance",
-      "growth": "+14%",
-      "total_mentions": 30
+      "growth": "+43%",
+      "total_mentions": 40
+    },
+    {
+      "keyword": "여성가디건",
+      "growth": "+43%",
+      "total_mentions": 34
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "미세먼지",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "마이크론",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "클라이맥스",
       "platforms": [
@@ -51,15 +67,15 @@
     "여성자켓"
   ],
   "top_keywords_overall": [
-    "viral",
+    "trend",
     "트위드자켓",
     "원피스",
     "스웨이드자켓",
     "트렌치코트",
-    "trend",
-    "shorts",
+    "#shorts",
     "여성자켓",
+    "#viral",
     "가죽자켓",
-    "#shorts"
+    "dance"
   ]
 }

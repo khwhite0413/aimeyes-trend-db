@@ -2,40 +2,56 @@
   "mode": "fashion",
   "week_range": {
     "from": "2026-03-16",
-    "to": "2026-03-18"
+    "to": "2026-03-19"
   },
-  "days_analyzed": 3,
+  "days_analyzed": 4,
   "confidence": "low",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+62%",
-      "total_mentions": 29
+      "growth": "+50%",
+      "total_mentions": 41
     },
     {
       "keyword": "여성가디건",
-      "growth": "+29%",
-      "total_mentions": 24
-    },
-    {
-      "keyword": "shorts",
-      "growth": "+200%",
-      "total_mentions": 22
+      "growth": "+43%",
+      "total_mentions": 34
     },
     {
       "keyword": "#shorts",
-      "growth": "+175%",
-      "total_mentions": 21
+      "growth": "+200%",
+      "total_mentions": 33
+    },
+    {
+      "keyword": "trend",
+      "growth": "+12%",
+      "total_mentions": 28
     },
     {
       "keyword": "outfit",
-      "growth": "+900%",
-      "total_mentions": 17
+      "growth": "+700%",
+      "total_mentions": 25
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "블라우스",
+      "keyword": "미세먼지",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "마이크론",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "원피스",
       "platforms": [
         "naver",
         "youtube"
@@ -43,7 +59,7 @@
       "count": 2
     },
     {
-      "keyword": "원피스",
+      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
@@ -72,9 +88,9 @@
     "스웨이드자켓",
     "트렌치코트",
     "여성자켓",
+    "fashion",
     "가죽자켓",
     "바람막이",
-    "fashion",
     "에고이스트",
     "여성가디건"
   ]

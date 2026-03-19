@@ -1,25 +1,91 @@
 {
-  "date": "2026-03-18",
+  "date": "2026-03-19",
   "mode": "general",
-  "compared_to": "2026-03-17",
-  "total_keywords_today": 488,
-  "total_keywords_yesterday": 445,
-  "data_days_available": 3,
+  "compared_to": "2026-03-18",
+  "total_keywords_today": 469,
+  "total_keywords_yesterday": 478,
+  "data_days_available": 4,
   "overall_confidence": "low",
   "rising": [
     {
+      "keyword": "trend",
+      "change": "+50%",
+      "today_count": 15,
+      "yesterday_count": 10,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 15건, 어제 10건 기준"
+    },
+    {
+      "keyword": "#shorts",
+      "change": "+17%",
+      "today_count": 14,
+      "yesterday_count": 12,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 14건, 어제 12건 기준"
+    },
+    {
+      "keyword": "dance",
+      "change": "+25%",
+      "today_count": 10,
+      "yesterday_count": 8,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 10건, 어제 8건 기준"
+    },
+    {
       "keyword": "여성가디건",
+      "change": "+11%",
+      "today_count": 10,
+      "yesterday_count": 9,
+      "confidence": "low",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 10건, 어제 9건 기준"
+    },
+    {
+      "keyword": "#trending",
       "change": "+12%",
       "today_count": 9,
       "yesterday_count": 8,
       "confidence": "low",
       "platforms": [
-        "naver"
+        "youtube"
       ],
       "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
-      "keyword": "hack",
+      "keyword": "#trend",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
+      "keyword": "life",
+      "change": "+50%",
+      "today_count": 6,
+      "yesterday_count": 4,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 4건 기준"
+    },
+    {
+      "keyword": "요즘",
       "change": "+25%",
       "today_count": 5,
       "yesterday_count": 4,
@@ -30,7 +96,18 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "diy",
+      "keyword": "#dance",
+      "change": "+67%",
+      "today_count": 5,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 3건 기준"
+    },
+    {
+      "keyword": "#tiktok",
       "change": "+300%",
       "today_count": 4,
       "yesterday_count": 1,
@@ -41,7 +118,29 @@
       "sample_note": "오늘 4건, 어제 1건 기준"
     },
     {
-      "keyword": "생활꿀팁",
+      "keyword": "#lifehacks",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "lifehacks",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "makeover",
       "change": "+300%",
       "today_count": 4,
       "yesterday_count": 1,
@@ -50,174 +149,42 @@
         "youtube"
       ],
       "sample_note": "오늘 4건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#shortsfeed",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "shortsfeed",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#diy",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
-      "keyword": "home",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#생활꿀팁",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#duet",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#trendingshorts",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "duet",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "trendingshorts",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "9割が知らない",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
       "keyword": "블라우스",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
       "confidence": "low",
       "platforms": [
         "naver"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
       "keyword": "여성봄자켓",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "ranking",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
-        "naver"
+        "youtube"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "sea",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "lion",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "방법",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "food",
+      "keyword": "#dancetiktok",
       "change": "NEW",
       "today_count": 2,
       "yesterday_count": 0,
@@ -226,80 +193,113 @@
         "youtube"
       ],
       "sample_note": "오늘 2건 (신규)"
+    },
+    {
+      "keyword": "malu",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건 (신규)"
+    },
+    {
+      "keyword": "dancetiktok",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건 (신규)"
+    },
+    {
+      "keyword": "today",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
-      "keyword": "trend",
-      "change": "-50%",
-      "today_count": 10,
-      "yesterday_count": 20,
-      "confidence": "low"
-    },
-    {
-      "keyword": "dance",
-      "change": "-47%",
-      "today_count": 8,
-      "yesterday_count": 15,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#shorts",
-      "change": "-14%",
-      "today_count": 12,
-      "yesterday_count": 14,
-      "confidence": "low"
-    },
-    {
-      "keyword": "tiktok",
-      "change": "-62%",
-      "today_count": 5,
-      "yesterday_count": 13,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#viral",
-      "change": "-8%",
-      "today_count": 11,
-      "yesterday_count": 12,
-      "confidence": "low"
-    },
-    {
       "keyword": "가죽자켓",
-      "change": "-9%",
-      "today_count": 10,
-      "yesterday_count": 11,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#trending",
-      "change": "-20%",
-      "today_count": 8,
+      "change": "-10%",
+      "today_count": 9,
       "yesterday_count": 10,
       "confidence": "low"
     },
     {
-      "keyword": "trending",
-      "change": "-20%",
+      "keyword": "에고이스트",
+      "change": "-11%",
       "today_count": 8,
-      "yesterday_count": 10,
+      "yesterday_count": 9,
       "confidence": "low"
     },
     {
-      "keyword": "#fyp",
-      "change": "-50%",
-      "today_count": 3,
-      "yesterday_count": 6,
+      "keyword": "diy",
+      "change": "-75%",
+      "today_count": 1,
+      "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "fyp",
-      "change": "-50%",
-      "today_count": 3,
-      "yesterday_count": 6,
+      "keyword": "생활꿀팁",
+      "change": "-75%",
+      "today_count": 1,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "트렌드",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#diy",
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#생활꿀팁",
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#explore",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
       "confidence": "low"
     }
   ],
-  "new_entries": [],
-  "cross_platform_hot": []
+  "new_entries": [
+    "#dancetiktok",
+    "malu",
+    "dancetiktok"
+  ],
+  "cross_platform_hot": [
+    {
+      "keyword": "미세먼지",
+      "platform_count": 2,
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "total_count": 2
+    }
+  ]
 }
