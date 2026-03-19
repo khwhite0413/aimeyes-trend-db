@@ -33,6 +33,15 @@ STOP_WORDS = {
     "why", "very", "only", "now", "new", "one", "two", "more", "some", "any",
     "|", "-", "&", "", "–", "—", "...", "2026", "2025", "new", "best", "top",
     "most", "latest", "video", "official", "music",
+    # 플랫폼 메타 태그 (의미 없는 키워드)
+    "#shorts", "#short", "#trending", "#trendingreels", "#trendingshorts",
+    "#viral", "#viralvideo", "#viralshorts", "#fyp", "#foryou", "#foryoupage",
+    "#reels", "#reel", "#instagram", "#tiktok", "#youtube", "#subscribe",
+    "#like", "#follow", "#explore", "#trend", "#transition",
+    "shorts", "short", "trending", "trendingreels", "trendingshorts",
+    "viral", "viralvideo", "viralshorts", "fyp", "foryou", "foryoupage",
+    "reels", "reel", "instagram", "tiktok", "youtube", "subscribe",
+    "like", "follow", "explore", "transition",
 }
 
 
