@@ -159,11 +159,11 @@ def _fetch_related_queries(keywords, geo):
         return []
 
     related = []
-    # 상위 5개 키워드만 연관 검색어 조회 (쿼터 절약)
-    for kw in keywords[:5]:
+    # 상위 3개 키워드만 연관 검색어 조회 (Rate limiting 대응 + 쿼터 절약)
+    for kw in keywords[:3]:
         try:
             pytrends = TrendReq(hl='ko', tz=540, timeout=(10, 25),
-                                retries=2, backoff_factor=2)
+                                retries=3, backoff_factor=3)
             pytrends.build_payload([kw], cat=0, timeframe='now 7-d', geo=geo)
             queries = pytrends.related_queries()
 
@@ -177,10 +177,11 @@ def _fetch_related_queries(keywords, geo):
                             "value": str(row.get("value", "")),
                         })
 
-            time.sleep(2)
+            time.sleep(5)  # 429 방지 강화
 
-        except Exception:
-            pass
+        except Exception as e:
+            print(f"    [related_queries] {kw}: {str(e)[:60]}")
+            time.sleep(10)  # 에러 시 더 긴 대기
 
     return related
 

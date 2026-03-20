@@ -248,7 +248,10 @@ def collect(mode="fashion"):
     for code in REGION_MAP:
         trending = _get_trending(code)
         if mode == "fashion":
-            trending = _filter_fashion_videos(trending)
+            # 필터링 대신 태깅: 전체 트렌딩 유지 + fashion_related 플래그 추가
+            for v in trending:
+                title_lower = (v.get("title", "") + " " + v.get("channel", "")).lower()
+                v["fashion_related"] = any(term in title_lower for term in FASHION_FILTER_TERMS)
         if trending:
             results[f"{code}_trending"] = trending
         time.sleep(0.5)

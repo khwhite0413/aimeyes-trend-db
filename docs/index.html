@@ -579,11 +579,29 @@
         const collectGT = (gtData) => {
           if (!gtData?.countries?.[cc]) return;
           const countryData = gtData.countries[cc];
-          const trends = countryData.all_trending || countryData.trending_fashion || [];
-          for (const t of trends) {
-            if (t.keyword) {
-              const k = t.keyword.toLowerCase();
-              freq[k] = (freq[k] || 0) + 1;
+          // PRIORITY 1: keyword_interest (패션 키워드 관심도 점수)
+          const kwInterest = countryData.keyword_interest || [];
+          if (Array.isArray(kwInterest)) {
+            for (const item of kwInterest) {
+              if (item.keyword && item.interest_avg > 0) {
+                freq[item.keyword.toLowerCase()] = (freq[item.keyword.toLowerCase()] || 0) + item.interest_avg;
+              }
+            }
+          }
+          // PRIORITY 2: trending_fashion (패션 필터 트렌딩)
+          const fashionTrending = countryData.trending_fashion || [];
+          if (Array.isArray(fashionTrending)) {
+            for (const t of fashionTrending) {
+              if (t.keyword) freq[t.keyword.toLowerCase()] = (freq[t.keyword.toLowerCase()] || 0) + 1;
+            }
+          }
+          // FALLBACK: all_trending (패션 데이터 없을 때만)
+          if (Object.keys(freq).length === 0) {
+            const allTrending = countryData.all_trending || [];
+            if (Array.isArray(allTrending)) {
+              for (const t of allTrending) {
+                if (t.keyword) freq[t.keyword.toLowerCase()] = (freq[t.keyword.toLowerCase()] || 0) + 1;
+              }
             }
           }
         };
@@ -594,11 +612,33 @@
         const collectXT = (xtData) => {
           if (!xtData?.countries?.[xtKey]) return;
           const countryData = xtData.countries[xtKey];
-          const topics = countryData.all_trending || countryData.fashion_related || [];
-          for (const t of topics) {
-            if (t.topic) {
-              const k = t.topic.length > 25 ? t.topic.substring(0, 25) : t.topic;
-              freq[k] = (freq[k] || 0) + 1;
+          // PRIORITY 1: fashion_hashtags
+          const fashionHashtags = countryData.fashion_hashtags || [];
+          if (Array.isArray(fashionHashtags)) {
+            for (const h of fashionHashtags) {
+              if (h.hashtag) freq[h.hashtag.toLowerCase()] = (freq[h.hashtag.toLowerCase()] || 0) + 1;
+            }
+          }
+          // PRIORITY 2: fashion_related
+          const fashionRelated = countryData.fashion_related || [];
+          if (Array.isArray(fashionRelated)) {
+            for (const t of fashionRelated) {
+              if (t.topic) {
+                const k = t.topic.length > 25 ? t.topic.substring(0, 25) : t.topic;
+                freq[k] = (freq[k] || 0) + 1;
+              }
+            }
+          }
+          // FALLBACK: all_trending (패션 데이터 없을 때만)
+          if (Object.keys(freq).length === 0) {
+            const allTrending = countryData.all_trending || [];
+            if (Array.isArray(allTrending)) {
+              for (const t of allTrending) {
+                if (t.topic) {
+                  const k = t.topic.length > 25 ? t.topic.substring(0, 25) : t.topic;
+                  freq[k] = (freq[k] || 0) + 1;
+                }
+              }
             }
           }
         };
@@ -607,11 +647,20 @@
       } else if (platformKey === 'naver') {
         if (country !== 'KR') return [];
         const collectNaver = (naverData) => {
-          if (!naverData?.daily_rankings) return;
-          for (const day of naverData.daily_rankings) {
-            for (const kw of (day.keywords || [])) {
-              if (kw.keyword) {
-                freq[kw.keyword] = (freq[kw.keyword] || 0) + 1;
+          if (!naverData) return;
+          // PRIORITY: fashion_filtered
+          const fashionFiltered = naverData.fashion_filtered || [];
+          if (fashionFiltered.length > 0) {
+            for (const ranking of fashionFiltered) {
+              for (const item of ranking.keywords || []) {
+                if (item.keyword) freq[item.keyword.toLowerCase()] = (freq[item.keyword.toLowerCase()] || 0) + 1;
+              }
+            }
+          } else {
+            // FALLBACK: daily_rankings
+            for (const ranking of naverData.daily_rankings || []) {
+              for (const item of ranking.keywords || []) {
+                if (item.keyword) freq[item.keyword.toLowerCase()] = (freq[item.keyword.toLowerCase()] || 0) + 1;
               }
             }
           }
@@ -724,22 +773,41 @@
       const collectGT = (gtData) => {
         if (!gtData?.countries?.[cc]) return;
         const countryData = gtData.countries[cc];
-        const trends = countryData.all_trending || countryData.trending_fashion || [];
-        for (const t of trends) {
-          if (t.keyword) {
-            items.push({ keyword: t.keyword, traffic: t.traffic || '', rank: t.rank || 0, news: t.related_news || [] });
+        // PRIORITY: keyword_interest (패션 키워드 관심도 점수)
+        const kwInterest = countryData.keyword_interest || [];
+        if (Array.isArray(kwInterest)) {
+          for (const item of kwInterest) {
+            if (item.keyword && item.interest_avg > 0) {
+              items.push({
+                keyword: item.keyword,
+                traffic: `관심도 ${item.interest_avg}`,
+                rank: item.rank || 0,
+                interest_avg: item.interest_avg,
+                interest_latest: item.interest_latest || 0,
+                news: [],
+              });
+            }
+          }
+        }
+        // FALLBACK: all_trending (패션 관심도 데이터 없을 때만)
+        if (items.length === 0) {
+          const trends = countryData.trending_fashion || countryData.all_trending || [];
+          for (const t of trends) {
+            if (t.keyword) {
+              items.push({ keyword: t.keyword, traffic: t.traffic || '', rank: t.rank || 0, news: t.related_news || [] });
+            }
           }
         }
       };
       collectGT(fashionData?.googleTrends);
       collectGT(generalData?.googleTrends);
-      // Deduplicate by keyword, keep highest rank
+      // Deduplicate by keyword, keep highest interest or rank
       const seen = {};
       for (const item of items) {
         const k = item.keyword.toLowerCase();
-        if (!seen[k] || item.rank < seen[k].rank) seen[k] = item;
+        if (!seen[k] || (item.interest_avg || 0) > (seen[k].interest_avg || 0) || item.rank < seen[k].rank) seen[k] = item;
       }
-      return Object.values(seen).sort((a, b) => a.rank - b.rank).slice(0, 10);
+      return Object.values(seen).sort((a, b) => (b.interest_avg || 0) - (a.interest_avg || 0) || a.rank - b.rank).slice(0, 10);
     }
 
     function extractXTwitterTopics(country, fashionData, generalData) {
@@ -748,9 +816,28 @@
       const collectXT = (xtData) => {
         if (!xtData?.countries?.[xtKey]) return;
         const countryData = xtData.countries[xtKey];
-        const topics = countryData.all_trending || countryData.fashion_related || [];
-        for (const t of topics) {
-          if (t.topic) items.push({ topic: t.topic, volume: t.volume || '', rank: t.rank || 0 });
+        // PRIORITY 1: fashion_hashtags
+        const fashionHashtags = countryData.fashion_hashtags || [];
+        if (Array.isArray(fashionHashtags)) {
+          for (const h of fashionHashtags) {
+            if (h.hashtag) items.push({ topic: h.hashtag, volume: h.volume || '', rank: h.rank || 0 });
+          }
+        }
+        // PRIORITY 2: fashion_related
+        const fashionRelated = countryData.fashion_related || [];
+        if (Array.isArray(fashionRelated)) {
+          for (const t of fashionRelated) {
+            if (t.topic) items.push({ topic: t.topic, volume: t.volume || '', rank: t.rank || 0 });
+          }
+        }
+        // FALLBACK: all_trending (패션 데이터 없을 때만)
+        if (items.length === 0) {
+          const allTrending = countryData.all_trending || [];
+          if (Array.isArray(allTrending)) {
+            for (const t of allTrending) {
+              if (t.topic) items.push({ topic: t.topic, volume: t.volume || '', rank: t.rank || 0 });
+            }
+          }
         }
       };
       collectXT(fashionData?.xTwitter);
@@ -765,12 +852,23 @@
     function extractNaverRankings(fashionData, generalData) {
       const items = [];
       const collectNaver = (naverData) => {
-        if (!naverData?.daily_rankings) return;
-        // Use last day's rankings
-        const lastDay = naverData.daily_rankings[naverData.daily_rankings.length - 1];
-        if (lastDay?.keywords) {
-          for (const kw of lastDay.keywords) {
-            items.push({ keyword: kw.keyword, rank: kw.rank });
+        if (!naverData) return;
+        // PRIORITY: fashion_filtered
+        const fashionFiltered = naverData.fashion_filtered || [];
+        if (fashionFiltered.length > 0) {
+          const lastDay = fashionFiltered[fashionFiltered.length - 1];
+          if (lastDay?.keywords) {
+            for (const kw of lastDay.keywords) {
+              items.push({ keyword: kw.keyword, rank: kw.rank });
+            }
+          }
+        } else if (naverData.daily_rankings) {
+          // FALLBACK: daily_rankings
+          const lastDay = naverData.daily_rankings[naverData.daily_rankings.length - 1];
+          if (lastDay?.keywords) {
+            for (const kw of lastDay.keywords) {
+              items.push({ keyword: kw.keyword, rank: kw.rank });
+            }
           }
         }
       };
