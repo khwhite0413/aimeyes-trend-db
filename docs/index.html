@@ -583,8 +583,8 @@
           const kwInterest = countryData.keyword_interest || [];
           if (Array.isArray(kwInterest)) {
             for (const item of kwInterest) {
-              if (item.keyword && item.interest_avg > 0) {
-                freq[item.keyword.toLowerCase()] = (freq[item.keyword.toLowerCase()] || 0) + item.interest_avg;
+              if (item.keyword) {
+                freq[item.keyword.toLowerCase()] = (freq[item.keyword.toLowerCase()] || 0) + Math.max(item.interest_avg || 1, 1);
               }
             }
           }

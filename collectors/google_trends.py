@@ -111,8 +111,7 @@ def _fetch_keyword_interest(keywords, geo):
     for i in range(0, len(keywords), 5):
         batch = keywords[i:i+5]
         try:
-            pytrends = TrendReq(hl='ko', tz=540, timeout=(10, 25),
-                                retries=2, backoff_factor=2)
+            pytrends = TrendReq(hl='ko', tz=540, timeout=(10, 25))
             pytrends.build_payload(batch, cat=0, timeframe='now 7-d', geo=geo)
             interest = pytrends.interest_over_time()
 
@@ -162,8 +161,7 @@ def _fetch_related_queries(keywords, geo):
     # 상위 3개 키워드만 연관 검색어 조회 (Rate limiting 대응 + 쿼터 절약)
     for kw in keywords[:3]:
         try:
-            pytrends = TrendReq(hl='ko', tz=540, timeout=(10, 25),
-                                retries=3, backoff_factor=3)
+            pytrends = TrendReq(hl='ko', tz=540, timeout=(10, 25))
             pytrends.build_payload([kw], cat=0, timeframe='now 7-d', geo=geo)
             queries = pytrends.related_queries()
 
