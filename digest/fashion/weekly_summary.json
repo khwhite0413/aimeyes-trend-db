@@ -2,35 +2,35 @@
   "mode": "fashion",
   "week_range": {
     "from": "2026-03-16",
-    "to": "2026-03-21"
+    "to": "2026-03-22"
   },
-  "days_analyzed": 6,
-  "confidence": "low",
+  "days_analyzed": 7,
+  "confidence": "medium",
   "top_rising": [
-    {
-      "keyword": "트렌치코트",
-      "growth": "+8%",
-      "total_mentions": 73
-    },
     {
       "keyword": "fashion",
       "growth": "+75%",
-      "total_mentions": 73
+      "total_mentions": 87
+    },
+    {
+      "keyword": "트렌치코트",
+      "growth": "+8%",
+      "total_mentions": 86
     },
     {
       "keyword": "여성자켓",
       "growth": "+9%",
-      "total_mentions": 67
+      "total_mentions": 79
     },
     {
       "keyword": "바람막이",
       "growth": "+10%",
-      "total_mentions": 61
+      "total_mentions": 72
     },
     {
       "keyword": "여성가디건",
       "growth": "+43%",
-      "total_mentions": 54
+      "total_mentions": 64
     }
   ],
   "most_cross_platform": [
@@ -71,12 +71,12 @@
     "트위드자켓",
     "원피스",
     "트렌치코트",
-    "스웨이드자켓",
-    "여성자켓"
+    "여성자켓",
+    "바람막이"
   ],
   "top_keywords_overall": [
-    "트렌치코트",
     "fashion",
+    "트렌치코트",
     "원피스",
     "트위드자켓",
     "스웨이드자켓",
