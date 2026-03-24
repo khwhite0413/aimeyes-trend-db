@@ -1,39 +1,48 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-03-17",
-    "to": "2026-03-23"
+    "from": "2026-03-18",
+    "to": "2026-03-24"
   },
   "days_analyzed": 7,
   "confidence": "medium",
   "top_rising": [
     {
       "keyword": "#viral",
-      "growth": "+8%",
-      "total_mentions": 89
+      "growth": "+18%",
+      "total_mentions": 90
     },
     {
       "keyword": "여성자켓",
       "growth": "+9%",
-      "total_mentions": 80
+      "total_mentions": 81
     },
     {
       "keyword": "바람막이",
       "growth": "+10%",
-      "total_mentions": 73
+      "total_mentions": 74
     },
     {
       "keyword": "여성가디건",
-      "growth": "+25%",
-      "total_mentions": 67
+      "growth": "+11%",
+      "total_mentions": 69
     },
     {
       "keyword": "life",
-      "growth": "+75%",
-      "total_mentions": 36
+      "growth": "+50%",
+      "total_mentions": 38
     }
   ],
-  "most_cross_platform": [],
+  "most_cross_platform": [
+    {
+      "keyword": "미세먼지",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    }
+  ],
   "naver_shopping_hot": [
     "트위드자켓",
     "원피스",
@@ -42,14 +51,14 @@
     "바람막이"
   ],
   "top_keywords_overall": [
-    "trend",
     "#viral",
-    "#shorts",
+    "trend",
     "트위드자켓",
     "원피스",
     "트렌치코트",
-    "스웨이드자켓",
+    "#shorts",
     "여성자켓",
+    "스웨이드자켓",
     "바람막이",
     "여성가디건"
   ]

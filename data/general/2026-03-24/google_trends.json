@@ -1,0 +1,699 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "독도",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "日 정부, 방위산업 제조 공장 국유화 검토...“방위산업에 국가 개입 확대”",
+              "url": "https://www.g-enews.com/article/Global-Biz/2026/03/202603240707597361e7e8286d56_1"
+            },
+            {
+              "title": "[단독] 일, 해상자위대 새 조직도에 독도·센카쿠 열도 제외",
+              "url": "https://news.nate.com/view/20260324n05408"
+            },
+            {
+              "title": "일본 자위대 대규모 조직 개편 추진...\"난세이 제도 방위력 강화\"",
+              "url": "https://www.ytn.co.kr/_ln/0104_202603221945479479"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "빛과전자",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "젠슨 황 한마디에…광통신주 상한가",
+              "url": "https://www.hankyung.com/article/2026032306801"
+            },
+            {
+              "title": "[특징주] 빛과전자, CB 발행·감사 ‘적정’에 2거래일 연속 상한가",
+              "url": "http://www.seoulwire.com/news/articleView.html?idxno=712595"
+            },
+            {
+              "title": "[강세 토픽] 광섬유·광케이블·광통신 테마, 빛과전자 +29.91%, 티엠씨 +19.07% - 조선비즈",
+              "url": "https://biz.chosun.com/stock/c-biz_bot/2026/03/23/GZRTOZJVMM3TIY3FGYZTONRYMI/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "맞춤형복지",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "경북교육청, 교직원 맞춤형복지 운영…난임·출산 지원 확대",
+              "url": "https://www.news1.kr/local/daegu-gyeongbuk/6110088"
+            },
+            {
+              "title": "경북교육청, 2026년 교직원 맞춤형 복지 확대…난임 지원 강화",
+              "url": "http://pedien.com/html/view.php?idx=1011751"
+            },
+            {
+              "title": "교육공무직원 노무·직무 지원과 정서적 치유를 통합적으로 지원 ‘내일을 잇다’ 프로젝트 추진",
+              "url": "https://www.lecturernews.com/news/articleView.html?idxno=199115"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "적우",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "적우 \"나가수 출연 때 악플 심해…너 따위 죽으라고\"",
+              "url": "https://www.newsis.com/view/NISX20260324_0003561148"
+            },
+            {
+              "title": "'미스트롯4' 적우 \"트로트 가장 무서워, 꼬맹이 윤윤서가 내 선생님\"(아침마당)",
+              "url": "https://m.news.nate.com/view/20260324n05186?issue_sq=7377"
+            },
+            {
+              "title": "적우, 나는 가수다 악플 고백 무대보다 먼저 쏟아졌던 시선 : 네이버 블로그",
+              "url": "https://blog.naver.com/PostView.naver?blogId=yooju0913&logNo=224227566436&redirect=Dlog"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "미세먼지",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "[930 날씨] 한낮 포근…건조한 날씨에 공기 탁해",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8516487"
+            },
+            {
+              "title": "낮 최고 20도 '일교차 주의'…곳곳 건조·미세먼지",
+              "url": "https://www.newsis.com/view/NISX20260324_0003560660"
+            },
+            {
+              "title": "[날씨] 당분간 완연한 봄날씨…전국 곳곳 건조특보",
+              "url": "https://v.daum.net/v/20260324072529660"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "나스닥 지수",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "벼랑 끝 대치서 발 뺀 트럼프…‘타코(TACO)' 안도감에 뉴욕증시 랠리",
+              "url": "https://www.chosun.com/economy/economy_general/2026/03/24/HXC3I7HUYVCZNB6HUK6DYJ6DHI/"
+            },
+            {
+              "title": "美, 이란 공격 보류에 급락한 국제유가…증권가 \"불안요소 여전\"",
+              "url": "https://www.newsis.com/view/NISX20260324_0003560700"
+            },
+            {
+              "title": "“트럼프, ‘수상한 시점’에 이란 중대 발표”…증시 개장·마감 맞춤?",
+              "url": "https://v.daum.net/v/20260324102944015"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "김정은",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "김정은 “한국, 가장 적대적인 국가…건드리면 무자비한 대가 치를 것”",
+              "url": "https://www.chosun.com/politics/politics_general/2026/03/24/53QDHJOOLFHCXN4EISO73SFSEQ/"
+            },
+            {
+              "title": "김정은 \"한국 가장 적대국으로 공인‥건드리면 무자비한 대가\"",
+              "url": "https://imnews.imbc.com/news/2026/world/article/6809748_36925.html"
+            },
+            {
+              "title": "김정은, 북한 국무위원장에 재추대",
+              "url": "https://www.newsis.com/view/NISI20260324_0002091476"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "운세",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[오늘의 운세] 3월 24일 화요일 (음력 2월 6일 丁酉)",
+              "url": "https://www.chosun.com/national/national_general/2026/03/23/UXXGRP3BOZBRNMEC2EMOFAWYPE/"
+            },
+            {
+              "title": "[오늘의 운세] 2026년 03월 24일 별자리 운세",
+              "url": "https://www.ytn.co.kr/_ln/0121_202603240000000002"
+            },
+            {
+              "title": "[포토] 한국거래소 '성평등을 위한 링 더 벨' 행사",
+              "url": "https://m.news.nate.com/view/20260323n29562?mid=m02&list=recent&cpcd="
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "x",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Is Twitter Down Right Now?",
+              "url": "https://www.mensjournal.com/news/is-twitter-down-right-now"
+            },
+            {
+              "title": "Is Twitter down right now? Why is Twitter down?",
+              "url": "https://www.app.com/story/news/2026/03/23/twitter-this-page-is-down-twitter-outage-means-x-down-for-some-users/89292654007/"
+            },
+            {
+              "title": "X (Twitter) was down - Live updates as thousands report outages",
+              "url": "https://www.tomsguide.com/news/live/openi-outage-february-12-2026"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "환율 달러",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "\"이란 공격유예\" 메시지에…환율 나흘 만에 1,500원 아래로",
+              "url": "https://v.daum.net/v/20260324094502470"
+            },
+            {
+              "title": "미·이란 긴장 일시 완화에 원·달러 26.4원 하락 출발",
+              "url": "https://www.newsis.com/view/NISX20260324_0003560871"
+            },
+            {
+              "title": "원·달러 야간 거래 30원 급락…1,486.70원 마감",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8516221"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 2,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "자기계발",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 32,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 54,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "lauren betts",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Rare double-doubles: Betts sisters shine during UCLA’s NCAA tournament run",
+              "url": "https://www.latimes.com/sports/ucla/story/2026-03-23/ucla-tries-enjoy-rare-opportunity-for-lauren-sienna-bett"
+            },
+            {
+              "title": "No. 1 UCLA Uses Second Half Surge to Blow Out No. 16 Cal Baptist, Move to Second Round",
+              "url": "https://247sports.com/college/ucla/article/ucla-womens-basketball-no-1-bruins-second-half-surge-blowout-no-16-cal-baptist-278530619/"
+            },
+            {
+              "title": "Cori Close Breaks Down UCLA’s First-Round Win",
+              "url": "https://www.si.com/college/ucla/bruins-cori-close-breaks-down-first-round-win"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "danhausen",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "IShowSpeed Struts With Penta, Gets Cursed By Danhausen On WWE Raw",
+              "url": "https://www.fightful.com/wrestling/ishowspeed-struts-with-penta-gets-cursed-by-danhausen-on-wwe-raw/"
+            },
+            {
+              "title": "IShowSpeed Makes The Biggest Mistake Of His Life On WWE RAW",
+              "url": "https://itrwrestling.com/news/ishowspeed-makes-the-biggest-mistake-of-his-life-on-wwe-raw/"
+            },
+            {
+              "title": "Danhausen Curses IShowSpeed During 3/23 WWE RAW",
+              "url": "https://www.ringsidenews.com/danhausen-curses-ishowspeed-during-323-wwe-raw/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "jacie hoyt",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Oklahoma State Cowgirls @ UCLA Bruins: Live game updates, stats, play-by-play",
+              "url": "https://sports.yahoo.com/ncaaw/oklahoma-state-cowgirls-ucla-bruins-202603230606/"
+            },
+            {
+              "title": "Oklahoma State women beat Princeton 82-68 for coach Jacie Hoyt’s first March Madness win",
+              "url": "https://okstate.com/news/2026/3/21/cowgirl-basketball-oklahoma-state-women-beat-princeton-82-68-in-for-coach-jacie-hoyts-first-march-madness-win"
+            },
+            {
+              "title": "Oklahoma St Women's Basketball",
+              "url": "https://www.hjnews.com/sports/nation/oklahoma-st-womens-basketball/image_20e802ea-2cb4-5ff0-b2c6-b44cc7cd08f8.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "the rookie cast",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ABC’s ‘The Rookie’ is on tonight: How to watch new episode 12 for free",
+              "url": "https://www.cleveland.com/tv/2026/03/abcs-the-rookie-is-on-tonight-how-to-watch-new-episode-12-for-free.html"
+            },
+            {
+              "title": "‘The Rookie’ season 8 episode 12, how to watch for free",
+              "url": "https://www.nj.com/tv/2026/03/the-rookie-season-8-episode-12-how-to-watch-for-free.html"
+            },
+            {
+              "title": "Nathan Fillion’s Stellar 8-Part ABC Series Gets Official Sneak Peek Ahead of Tonight's New Episode [Exclusive]",
+              "url": "https://collider.com/the-rookie-season-8-episode-12-sneak-peek/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "anthony davis",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Anthony Davis sidelined through March with hand injury, still hasn't made Wizards debut",
+              "url": "https://sports.yahoo.com/nba/breaking-news/article/anthony-davis-sidelined-through-march-with-hand-injury-still-hasnt-made-wizards-debut-141449823.html"
+            },
+            {
+              "title": "Wizards To Reevaluate Anthony Davis At End Of Month",
+              "url": "https://www.hoopsrumors.com/2026/03/wizards-to-reevaluate-anthony-davis-at-end-of-month.html"
+            },
+            {
+              "title": "Anthony Davis Remains Out Indefinitely With Ligament Damage In Left Hand",
+              "url": "https://basketball.realgm.com/wiretap/284570/Anthony-Davis-Remains-Out-Indefinitely-With-Ligament-Damage-In-Left-Hand"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "cia show",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "‘CIA’ Scores Quick Season 2 Pickup at CBS",
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/cia-renewed-season-2-cbs-1236544375/"
+            },
+            {
+              "title": "Hit New CBS TV Show Gets Quick Season 2 Renewal",
+              "url": "https://www.yahoo.com/entertainment/tv/articles/hit-cbs-tv-show-gets-180401818.html"
+            },
+            {
+              "title": "'CIA' Renewed for Season 2: Cast, Premiere Date, More Details",
+              "url": "https://www.tvinsider.com/1253565/cia-season-2-cast-premiere-date-details/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "telemundo",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Registran presencia policial en el condado Brevard",
+              "url": "https://www.telemundo31.com/noticias/local/condado-brevard-presencia-policial/2403053/"
+            },
+            {
+              "title": "Concierto gratis en un estacionamiento: el evento que se llevará a cabo en la Biblioteca Central",
+              "url": "https://www.telemundosanantonio.com/noticias/concierto-gratis-en-un-estacionamiento-el-evento-que-se-llevara-a-cabo-en-la-biblioteca-central/2487722/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "casa de los famosos",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "El contundente Posicionamiento de Laura Zapata con Fabio en la Casa de los Famosos 6",
+              "url": "https://www.yahoo.com/news/videos/el-contundente-posicionamiento-laura-zapata-021538775.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "zach bryan",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "How to secure parking, merch at Zach Bryan's San Antonio concert",
+              "url": "https://www.mysanantonio.com/news/local/article/zach-bryan-concert-san-antonio-22085906.php"
+            },
+            {
+              "title": "Zach Bryan's 2026 ‘With Heaven On Tour’ Concert Tour Setlist",
+              "url": "https://holler.country/news/general/zach-bryans-2026-with-heaven-on-tour-concert-tour-setlist/"
+            },
+            {
+              "title": "Country singer Zach Bryan set to perform at Tiger Stadium in March",
+              "url": "https://www.wafb.com/2026/03/17/country-singer-zach-bryan-set-perform-tiger-stadium-march/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "klay thompson",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Klay Thompson has quietly lost one skill that once made him special",
+              "url": "https://bluemanhoop.com/klay-thompson-quietly-lost-one-skill-that-once-made-him-special"
+            },
+            {
+              "title": "Klay Thompson describes his two losing years in Dallas: \"It's still awesome being out there\"",
+              "url": "https://sports.yahoo.com/articles/klay-thompson-describes-two-losing-231100351.html"
+            },
+            {
+              "title": "Klay Thompson’s Dallas journey has been a winding road since Warriors exit",
+              "url": "https://www.mercurynews.com/2026/03/23/klay-thompson-warriors-mavericks-dallas-cooper-flagg/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 51,
+          "interest_max": 100,
+          "interest_latest": 41,
+          "rank": 1
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 6,
+          "interest_max": 100,
+          "interest_latest": 7,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 2,
+          "interest_max": 8,
+          "interest_latest": 2,
+          "rank": 3
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 2,
+          "interest_max": 17,
+          "interest_latest": 2,
+          "rank": 4
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 1,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "志田未来",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 2,
+          "keyword": "ドジャース 対 エンゼルス",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "大谷翔平のキャッチボールをエンゼルス時代の女房役２人が守る異例の光景 スズキ新監督も注視（スポーツ報知）",
+              "url": "https://news.yahoo.co.jp/articles/da85197aab47a7800bca71f0377b3052fae0d1a5"
+            },
+            {
+              "title": "大谷翔平が本拠地１打席目に二ゴロ　佐々木朗希初回４四死球で１死も奪えずＫＯ…開幕へ残り２試合",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260324-OHT1T51029"
+            },
+            {
+              "title": "ドジャース・大谷翔平、勝負強さ発揮 ＭＬＢ：時事ドットコム",
+              "url": "https://www.jiji.com/jc/article?k=2026032300616&g=spo"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ドジャース 試合",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "大谷翔平ら日本人選手の試合も多数。Prime Video「SPOTVチャンネル」中継試合数が大幅拡充（PHILE WEB）",
+              "url": "https://news.yahoo.co.jp/articles/4c7c888d3031083344ff26658cc8c488321baa24"
+            },
+            {
+              "title": "Prime VideoのSPOTVチャンネルで2026年のMLBのライブ配信 昨年から試合数を大幅に拡大",
+              "url": "https://prtimes.jp/main/html/rd/p/000002116.000004612.html"
+            },
+            {
+              "title": "アマゾン「Prime Video」、MLBをライブ配信 27日～",
+              "url": "https://k-tai.watch.impress.co.jp/docs/news/2095337.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "キオクシア",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "キオクシアがTSOPパッケージの低容量NAND製品をEOLか？ 海外メディア報道 | TECH+（テックプラス）",
+              "url": "https://news.mynavi.jp/techplus/article/20260323-4250433/"
+            },
+            {
+              "title": "キオクシア、MLC NAND撤退を加速──TSOP終了が示す“低容量フラッシュの終焉”｜Semiconductor Geek",
+              "url": "https://note.com/loyal_myrtle1528/n/nd51ec7b30c79"
+            },
+            {
+              "title": "キオクシアＨＤ---マドを空けての下げもトレンド変わらず(フィスコ)",
+              "url": "https://finance.yahoo.co.jp/news/detail/6cab02d31c06835cc75812764abfd11c80afac6e"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "メローニ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "メローニ政権打撃、司法改革否決 看板政策、憲法改正の国民投票（共同通信）",
+              "url": "https://news.yahoo.co.jp/articles/564245fbdead8b2478a5dc57b5d04a78d86bd35e"
+            },
+            {
+              "title": "伊メローニ首相肝いりの国民投票、反対多数で否決 就任後初の敗北に",
+              "url": "https://www.asahi.com/articles/ASV3R62BRV3RUHBI02CM.html"
+            },
+            {
+              "title": "イタリア、国民投票は反対多数 司法改革を拒否、政権に打撃",
+              "url": "https://www.jiji.com/jc/article?k=2026032400160&g=int"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "マーベリックス 対 ウォリアーズ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "How to watch Warriors vs. Mavericks",
+              "url": "https://sports.yahoo.com/articles/watch-warriors-vs-mavericks-213000710.html"
+            },
+            {
+              "title": "Warriors vs Mavericks Prediction, Picks & Best Bets for Tonight’s NBA Game",
+              "url": "https://www.covers.com/nba/warriors-vs-mavericks-prediction-picks-best-bets-sgp-monday-3-23-2026"
+            },
+            {
+              "title": "Golden State Warriors at Dallas Mavericks odds, picks and predictions",
+              "url": "https://sportsbookwire.usatoday.com/story/sports/nba/2026/03/23/warriors-at-mavericks-odds-picks-and-predictions/89280514007/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "不二家",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 8,
+          "keyword": "lakers vs pistons",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Pistons 113-110 Lakers (Mar 23, 2026) Game Recap",
+              "url": "https://www.espn.com/nba/recap?gameId=401810893"
+            },
+            {
+              "title": "Maxi Kleber (lumbar back strain) has been upgraded to …",
+              "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/03/23/maxi-kleber-lumbar-back-strain-has-been-upgraded-to/89289128007/"
+            },
+            {
+              "title": "Lakers Fans Receive Disappointing Update After Luka Doncic News",
+              "url": "https://sports.yahoo.com/articles/lakers-fans-receive-disappointing-luka-175451538.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "しまむら ポケモン",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "しまむらの「ポケモン」新グッズが可愛い！ミュウやニンフィアなどピンク推しなラインナップ（インサイド）",
+              "url": "https://news.yahoo.co.jp/articles/f69882177916e94631c11f519e9f5eb52cd7722c"
+            },
+            {
+              "title": "しまむらにて「ポケモン」グッズが3月24日発売！ミュウやニンフィアなどピンクなポケモンたちが勢ぞろい 1枚目の写真・画像",
+              "url": "https://s.inside-games.jp/article/img/2026/03/23/178885/1706688.html"
+            },
+            {
+              "title": "「ポケモン×しまむら」コラボアイテムが発売決定！靴下・ポーチ・トートバッグ・寝具まで充実のラインナップ",
+              "url": "https://nijimen.kusuguru.co.jp/topics/607599"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "子ども子育て支援金",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "4月開始の“独身税”でも広がる不公平感…結婚式のご祝儀・出産祝いで気づけば100万円以上。「払うばかりで損した気分」39歳独身女性の本音（THE GOLD ONLINE（ゴールドオンライン））",
+              "url": "https://news.yahoo.co.jp/articles/c36f9b945670bd5061244df5f1980f759f6a41bc"
+            },
+            {
+              "title": "4月スタート俗称『独身税』、給与天引きで手取り減…政府の“実質負担ゼロ”は本当か？「子ども・子育て支援金」【年収別試算】",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2545757"
+            },
+            {
+              "title": "社説：子育て支援金 社会で支え合う意識高めたい",
+              "url": "https://www.yomiuri.co.jp/editorial/20260322-GYT1T00274/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 17,
+          "interest_max": 47,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "バズった",
+          "interest_avg": 14,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 4,
+          "interest_max": 32,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 1,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 29,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-03-24T02:23:50.847411+00:00"
+}
