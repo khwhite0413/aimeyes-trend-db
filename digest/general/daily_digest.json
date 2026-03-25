@@ -2,11 +2,33 @@
   "date": "2026-03-25",
   "mode": "general",
   "compared_to": "2026-03-24",
-  "total_keywords_today": 433,
+  "total_keywords_today": 412,
   "total_keywords_yesterday": 474,
   "data_days_available": 10,
   "overall_confidence": "medium",
   "rising": [
+    {
+      "keyword": "trend",
+      "change": "+150%",
+      "today_count": 20,
+      "yesterday_count": 8,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 20건, 어제 8건 기준"
+    },
+    {
+      "keyword": "#viral",
+      "change": "+7%",
+      "today_count": 15,
+      "yesterday_count": 14,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 15건, 어제 14건 기준"
+    },
     {
       "keyword": "#shorts",
       "change": "+18%",
@@ -19,59 +41,48 @@
       "sample_note": "오늘 13건, 어제 11건 기준"
     },
     {
-      "keyword": "tips",
-      "change": "+83%",
-      "today_count": 11,
-      "yesterday_count": 6,
+      "keyword": "#trend",
+      "change": "+125%",
+      "today_count": 9,
+      "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 11건, 어제 6건 기준"
+      "sample_note": "오늘 9건, 어제 4건 기준"
+    },
+    {
+      "keyword": "#tiktok",
+      "change": "+60%",
+      "today_count": 8,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 8건, 어제 5건 기준"
+    },
+    {
+      "keyword": "dance",
+      "change": "+100%",
+      "today_count": 8,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 8건, 어제 4건 기준"
     },
     {
       "keyword": "life",
-      "change": "+67%",
-      "today_count": 10,
+      "change": "+33%",
+      "today_count": 8,
       "yesterday_count": 6,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 10건, 어제 6건 기준"
-    },
-    {
-      "keyword": "trend",
-      "change": "+12%",
-      "today_count": 9,
-      "yesterday_count": 8,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 9건, 어제 8건 기준"
-    },
-    {
-      "keyword": "#lifehacks",
-      "change": "+125%",
-      "today_count": 9,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 9건, 어제 4건 기준"
-    },
-    {
-      "keyword": "lifehacks",
-      "change": "+125%",
-      "today_count": 9,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 9건, 어제 4건 기준"
+      "sample_note": "오늘 8건, 어제 6건 기준"
     },
     {
       "keyword": "hack",
@@ -85,17 +96,6 @@
       "sample_note": "오늘 8건, 어제 6건 기준"
     },
     {
-      "keyword": "#tips",
-      "change": "+60%",
-      "today_count": 8,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 8건, 어제 5건 기준"
-    },
-    {
       "keyword": "여성봄자켓",
       "change": "+14%",
       "today_count": 8,
@@ -107,15 +107,15 @@
       "sample_note": "오늘 8건, 어제 7건 기준"
     },
     {
-      "keyword": "hacks",
-      "change": "+600%",
+      "keyword": "tips",
+      "change": "+17%",
       "today_count": 7,
-      "yesterday_count": 1,
+      "yesterday_count": 6,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 7건, 어제 1건 기준"
+      "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
       "keyword": "올리비아로렌",
@@ -140,7 +140,29 @@
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "smart",
+      "keyword": "#lifehacks",
+      "change": "+50%",
+      "today_count": 6,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 4건 기준"
+    },
+    {
+      "keyword": "lifehacks",
+      "change": "+50%",
+      "today_count": 6,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 4건 기준"
+    },
+    {
+      "keyword": "#trendingshorts",
       "change": "+200%",
       "today_count": 6,
       "yesterday_count": 2,
@@ -151,29 +173,18 @@
       "sample_note": "오늘 6건, 어제 2건 기준"
     },
     {
-      "keyword": "#trend",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
+      "keyword": "#tips",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
+      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "dance",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "love",
+      "keyword": "#beatbox",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -184,7 +195,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "diy",
+      "keyword": "#challenge",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -195,47 +206,29 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "#2026트렌드",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "#kpop",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "#ai",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "#treasure",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "2026트렌드",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     }
   ],
   "declining": [
-    {
-      "keyword": "#viral",
-      "change": "-21%",
-      "today_count": 11,
-      "yesterday_count": 14,
-      "confidence": "medium"
-    },
     {
       "keyword": "여성자켓",
       "change": "-8%",
@@ -249,13 +242,6 @@
       "today_count": 8,
       "yesterday_count": 9,
       "confidence": "medium"
-    },
-    {
-      "keyword": "#trending",
-      "change": "-50%",
-      "today_count": 4,
-      "yesterday_count": 8,
-      "confidence": "low"
     },
     {
       "keyword": "#funny",
@@ -272,13 +258,6 @@
       "confidence": "medium"
     },
     {
-      "keyword": "challenge",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
       "keyword": "에고이스트",
       "change": "-25%",
       "today_count": 3,
@@ -286,30 +265,27 @@
       "confidence": "low"
     },
     {
-      "keyword": "유행하는",
+      "keyword": "#데일리룩",
       "change": "-33%",
       "today_count": 2,
       "yesterday_count": 3,
       "confidence": "low"
     },
     {
-      "keyword": "#shortsfeed",
+      "keyword": "데일리룩",
       "change": "-33%",
       "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "유행하는",
+      "change": "-67%",
+      "today_count": 1,
       "yesterday_count": 3,
       "confidence": "low"
     }
   ],
   "new_entries": [],
-  "cross_platform_hot": [
-    {
-      "keyword": "카카오게임즈",
-      "platform_count": 2,
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "total_count": 2
-    }
-  ]
+  "cross_platform_hot": []
 }
