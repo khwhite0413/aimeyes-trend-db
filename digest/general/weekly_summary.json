@@ -8,11 +8,6 @@
   "confidence": "medium",
   "top_rising": [
     {
-      "keyword": "#viral",
-      "growth": "+13%",
-      "total_mentions": 98
-    },
-    {
       "keyword": "바람막이",
       "growth": "+10%",
       "total_mentions": 76
@@ -23,14 +18,19 @@
       "total_mentions": 71
     },
     {
-      "keyword": "dance",
-      "growth": "+22%",
-      "total_mentions": 58
-    },
-    {
       "keyword": "여성봄자켓",
       "growth": "+80%",
       "total_mentions": 47
+    },
+    {
+      "keyword": "hack",
+      "growth": "+17%",
+      "total_mentions": 40
+    },
+    {
+      "keyword": "블라우스",
+      "growth": "+100%",
+      "total_mentions": 40
     }
   ],
   "most_cross_platform": [
@@ -39,14 +39,6 @@
       "platforms": [
         "naver",
         "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "이디야 포켓몬",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
       ],
       "count": 2
     }
