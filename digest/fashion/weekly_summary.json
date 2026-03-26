@@ -1,39 +1,55 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-03-19",
-    "to": "2026-03-25"
+    "from": "2026-03-20",
+    "to": "2026-03-26"
   },
   "days_analyzed": 7,
   "confidence": "medium",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+15%",
-      "total_mentions": 100
-    },
-    {
       "keyword": "바람막이",
       "growth": "+10%",
-      "total_mentions": 75
+      "total_mentions": 76
     },
     {
-      "keyword": "#shorts",
-      "growth": "+167%",
-      "total_mentions": 55
-    },
-    {
-      "keyword": "outfit",
-      "growth": "+700%",
-      "total_mentions": 54
+      "keyword": "여성가디건",
+      "growth": "+10%",
+      "total_mentions": 71
     },
     {
       "keyword": "여성봄자켓",
+      "growth": "+80%",
+      "total_mentions": 47
+    },
+    {
+      "keyword": "데일리룩",
+      "growth": "+40%",
+      "total_mentions": 43
+    },
+    {
+      "keyword": "블라우스",
       "growth": "+100%",
-      "total_mentions": 42
+      "total_mentions": 40
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "청바지",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "이디야 포켓몬",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "트렌치코트",
       "platforms": [
@@ -47,7 +63,7 @@
     "트위드자켓",
     "원피스",
     "트렌치코트",
-    "여성자켓",
+    "여성가디건",
     "바람막이"
   ],
   "top_keywords_overall": [
@@ -57,9 +73,9 @@
     "원피스",
     "여성자켓",
     "바람막이",
-    "스웨이드자켓",
     "여성가디건",
-    "가죽자켓",
-    "#shorts"
+    "스웨이드자켓",
+    "#shorts",
+    "outfit"
   ]
 }
