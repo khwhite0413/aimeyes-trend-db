@@ -2,32 +2,21 @@
   "date": "2026-03-27",
   "mode": "general",
   "compared_to": "2026-03-26",
-  "total_keywords_today": 456,
+  "total_keywords_today": 430,
   "total_keywords_yesterday": 493,
   "data_days_available": 12,
   "overall_confidence": "medium",
   "rising": [
     {
       "keyword": "#viral",
-      "change": "+100%",
-      "today_count": 24,
+      "change": "+33%",
+      "today_count": 16,
       "yesterday_count": 12,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 24건, 어제 12건 기준"
-    },
-    {
-      "keyword": "#trending",
-      "change": "+167%",
-      "today_count": 16,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 16건, 어제 6건 기준"
+      "sample_note": "오늘 16건, 어제 12건 기준"
     },
     {
       "keyword": "dance",
@@ -63,7 +52,7 @@
       "sample_note": "오늘 10건, 어제 9건 기준"
     },
     {
-      "keyword": "funny",
+      "keyword": "#tiktok",
       "change": "+50%",
       "today_count": 9,
       "yesterday_count": 6,
@@ -85,40 +74,40 @@
       "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
-      "keyword": "#trend",
-      "change": "+60%",
-      "today_count": 8,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 8건, 어제 5건 기준"
-    },
-    {
       "keyword": "#funny",
-      "change": "+33%",
-      "today_count": 8,
+      "change": "+17%",
+      "today_count": 7,
       "yesterday_count": 6,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 8건, 어제 6건 기준"
+      "sample_note": "오늘 7건, 어제 6건 기준"
+    },
+    {
+      "keyword": "funny",
+      "change": "+17%",
+      "today_count": 7,
+      "yesterday_count": 6,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
       "keyword": "love",
-      "change": "+60%",
-      "today_count": 8,
+      "change": "+40%",
+      "today_count": 7,
       "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 8건, 어제 5건 기준"
+      "sample_note": "오늘 7건, 어제 5건 기준"
     },
     {
-      "keyword": "#tiktok",
+      "keyword": "#trending",
       "change": "+17%",
       "today_count": 7,
       "yesterday_count": 6,
@@ -130,14 +119,14 @@
     },
     {
       "keyword": "#love",
-      "change": "+75%",
-      "today_count": 7,
+      "change": "+50%",
+      "today_count": 6,
       "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 7건, 어제 4건 기준"
+      "sample_note": "오늘 6건, 어제 4건 기준"
     },
     {
       "keyword": "challenge",
@@ -226,28 +215,25 @@
         "youtube"
       ],
       "sample_note": "오늘 5건, 어제 3건 기준"
+    },
+    {
+      "keyword": "kpop",
+      "change": "+67%",
+      "today_count": 5,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 3건 기준"
     }
   ],
   "declining": [
     {
-      "keyword": "trend",
-      "change": "-6%",
-      "today_count": 15,
-      "yesterday_count": 16,
-      "confidence": "medium"
-    },
-    {
       "keyword": "#shorts",
-      "change": "-23%",
-      "today_count": 10,
+      "change": "-46%",
+      "today_count": 7,
       "yesterday_count": 13,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "hack",
-      "change": "-14%",
-      "today_count": 6,
-      "yesterday_count": 7,
       "confidence": "medium"
     },
     {
@@ -258,16 +244,9 @@
       "confidence": "medium"
     },
     {
-      "keyword": "life",
+      "keyword": "quot",
       "change": "-33%",
       "today_count": 4,
-      "yesterday_count": 6,
-      "confidence": "low"
-    },
-    {
-      "keyword": "quot",
-      "change": "-100%",
-      "today_count": 0,
       "yesterday_count": 6,
       "confidence": "low"
     },
@@ -279,16 +258,23 @@
       "confidence": "medium"
     },
     {
+      "keyword": "#trend",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
       "keyword": "#lifehacks",
-      "change": "-80%",
-      "today_count": 1,
+      "change": "-60%",
+      "today_count": 2,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
       "keyword": "lifehacks",
-      "change": "-80%",
-      "today_count": 1,
+      "change": "-60%",
+      "today_count": 2,
       "yesterday_count": 5,
       "confidence": "low"
     },
@@ -298,14 +284,23 @@
       "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
+    },
+    {
+      "keyword": "#dance",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "bubble",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
     }
   ],
-  "new_entries": [
-    "#shortsfeed",
-    "dmk",
-    "shortsfeed",
-    "songs"
-  ],
+  "new_entries": [],
   "cross_platform_hot": [
     {
       "keyword": "청바지",
