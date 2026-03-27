@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-03-20",
-    "to": "2026-03-26"
+    "from": "2026-03-21",
+    "to": "2026-03-27"
   },
   "days_analyzed": 7,
   "confidence": "medium",
   "top_rising": [
     {
+      "keyword": "#viral",
+      "growth": "+118%",
+      "total_mentions": 102
+    },
+    {
       "keyword": "바람막이",
-      "growth": "+10%",
-      "total_mentions": 76
+      "growth": "+9%",
+      "total_mentions": 78
     },
     {
       "keyword": "여성가디건",
       "growth": "+10%",
-      "total_mentions": 71
+      "total_mentions": 72
     },
     {
-      "keyword": "여성봄자켓",
-      "growth": "+80%",
-      "total_mentions": 47
+      "keyword": "#trending",
+      "growth": "+129%",
+      "total_mentions": 63
     },
     {
-      "keyword": "hack",
-      "growth": "+17%",
-      "total_mentions": 40
-    },
-    {
-      "keyword": "블라우스",
-      "growth": "+100%",
-      "total_mentions": 40
+      "keyword": "dance",
+      "growth": "+33%",
+      "total_mentions": 59
     }
   ],
   "most_cross_platform": [
@@ -47,19 +47,19 @@
     "트위드자켓",
     "원피스",
     "트렌치코트",
-    "여성가디건",
-    "바람막이"
+    "바람막이",
+    "여성가디건"
   ],
   "top_keywords_overall": [
-    "trend",
     "#viral",
-    "#shorts",
+    "trend",
     "트위드자켓",
     "원피스",
     "트렌치코트",
+    "#shorts",
     "여성자켓",
     "바람막이",
     "여성가디건",
-    "스웨이드자켓"
+    "#trending"
   ]
 }

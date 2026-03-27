@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-03-20",
-    "to": "2026-03-26"
+    "from": "2026-03-21",
+    "to": "2026-03-27"
   },
   "days_analyzed": 7,
   "confidence": "medium",
   "top_rising": [
     {
+      "keyword": "원피스",
+      "growth": "+8%",
+      "total_mentions": 85
+    },
+    {
       "keyword": "바람막이",
-      "growth": "+10%",
-      "total_mentions": 76
+      "growth": "+9%",
+      "total_mentions": 78
     },
     {
       "keyword": "여성가디건",
       "growth": "+10%",
-      "total_mentions": 71
-    },
-    {
-      "keyword": "#ootd",
-      "growth": "+200%",
-      "total_mentions": 54
-    },
-    {
-      "keyword": "ootd",
-      "growth": "+200%",
-      "total_mentions": 54
+      "total_mentions": 72
     },
     {
       "keyword": "여성봄자켓",
-      "growth": "+80%",
-      "total_mentions": 47
+      "growth": "+100%",
+      "total_mentions": 52
+    },
+    {
+      "keyword": "블라우스",
+      "growth": "+150%",
+      "total_mentions": 46
     }
   ],
   "most_cross_platform": [
@@ -51,6 +51,22 @@
       "count": 2
     },
     {
+      "keyword": "블라우스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
       "keyword": "트렌치코트",
       "platforms": [
         "naver",
@@ -63,19 +79,19 @@
     "트위드자켓",
     "원피스",
     "트렌치코트",
-    "여성가디건",
-    "바람막이"
+    "바람막이",
+    "여성가디건"
   ],
   "top_keywords_overall": [
     "fashion",
     "트렌치코트",
-    "트위드자켓",
     "원피스",
+    "트위드자켓",
     "여성자켓",
     "바람막이",
     "여성가디건",
     "스웨이드자켓",
-    "가죽자켓",
-    "outfit"
+    "#ootd",
+    "ootd"
   ]
 }
