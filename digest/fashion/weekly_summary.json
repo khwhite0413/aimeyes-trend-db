@@ -8,11 +8,6 @@
   "confidence": "medium",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+8%",
-      "total_mentions": 100
-    },
-    {
       "keyword": "바람막이",
       "growth": "+9%",
       "total_mentions": 79
@@ -24,26 +19,23 @@
     },
     {
       "keyword": "#ootd",
-      "growth": "+100%",
-      "total_mentions": 64
+      "growth": "+43%",
+      "total_mentions": 60
     },
     {
       "keyword": "ootd",
-      "growth": "+100%",
-      "total_mentions": 64
+      "growth": "+43%",
+      "total_mentions": 60
+    },
+    {
+      "keyword": "여성봄자켓",
+      "growth": "+83%",
+      "total_mentions": 58
     }
   ],
   "most_cross_platform": [
     {
       "keyword": "청바지",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "후드집업",
       "platforms": [
         "naver",
         "youtube"
@@ -60,6 +52,14 @@
     },
     {
       "keyword": "블라우스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "후드집업",
       "platforms": [
         "naver",
         "youtube"
