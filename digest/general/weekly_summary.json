@@ -1,35 +1,35 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-03-22",
-    "to": "2026-03-28"
+    "from": "2026-03-23",
+    "to": "2026-03-29"
   },
   "days_analyzed": 7,
-  "confidence": "medium",
+  "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#viral",
-      "growth": "+69%",
-      "total_mentions": 105
-    },
-    {
       "keyword": "trend",
-      "growth": "+38%",
-      "total_mentions": 104
+      "growth": "+283%",
+      "total_mentions": 111
     },
     {
       "keyword": "바람막이",
       "growth": "+9%",
+      "total_mentions": 80
+    },
+    {
+      "keyword": "dance",
+      "growth": "+271%",
       "total_mentions": 79
     },
     {
       "keyword": "여성가디건",
       "growth": "+20%",
-      "total_mentions": 74
+      "total_mentions": 76
     },
     {
-      "keyword": "dance",
-      "growth": "+30%",
+      "keyword": "여성봄자켓",
+      "growth": "+57%",
       "total_mentions": 63
     }
   ],
@@ -51,15 +51,15 @@
     "여성가디건"
   ],
   "top_keywords_overall": [
-    "#viral",
     "trend",
+    "#viral",
     "트위드자켓",
     "원피스",
     "트렌치코트",
     "바람막이",
-    "#shorts",
-    "여성자켓",
+    "dance",
     "여성가디건",
-    "dance"
+    "여성자켓",
+    "#shorts"
   ]
 }

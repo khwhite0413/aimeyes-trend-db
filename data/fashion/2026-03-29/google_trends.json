@@ -1,0 +1,915 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "두산베어스",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'KIA→두산' 80억 유격수 너마저…실책-실책-실책-실책 자멸→영봉패 굴욕, 우승 도전 첫 단추 왜 꼬였나",
+              "url": "https://sports.news.nate.com/view/20260329n00087"
+            },
+            {
+              "title": "'건창모는 神이야' 메이저리거에 KO승, 145㎞면 충분했던 '토종 자존심' 위용",
+              "url": "https://v.daum.net/v/GfG8BJUZlw"
+            },
+            {
+              "title": "'유일한 토종 개막전 선발' NC 구창모, 두산 상대 5이닝 무실점",
+              "url": "https://www.newsis.com/view/NISX20260328_0003567856"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "mlb",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Dodgers Comeback Eyes Third Straight Title",
+              "url": "https://www.chosun.com/english/sports-en/2026/03/28/AFJ4XYZYWRFDPLYWQO7LCRR6H4/"
+            },
+            {
+              "title": "A Special Introduction for the Champs ft. Will Ferrell",
+              "url": "https://bvmsports.com/2026/03/27/a-special-introduction-for-the-champs-ft-will-ferrell/"
+            },
+            {
+              "title": "Dodgers want to be ‘relentless’ as lineup. Opening Day was promising",
+              "url": "https://www.aol.com/articles/dodgers-want-relentless-lineup-opening-140229451.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "김효주",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "2주 연속 우승 보인다…김효주, LPGA 포드 챔피언십 3R 단독 선두",
+              "url": "https://www.chosun.com/sports/2026/03/29/Q7WSOJ42GNAIDBQ7OVVQSJSH3A/"
+            },
+            {
+              "title": "김효주, LPGA 포드 챔피언십 2R 단독 2위 '선두 경쟁'",
+              "url": "https://www.yonhapnewstv.co.kr/news/MYH20260329102653yek"
+            },
+            {
+              "title": "김효주, 2주 연속 우승 도전 \"코다와 경쟁 늘 즐거워…모든 샷 집중\"",
+              "url": "https://v.daum.net/v/zBuTdmQ9Gr"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "아데산야",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'3연패' 아데산야, 1년 1개월 만에 UFC 복귀…신예 파이퍼와 대결",
+              "url": "https://v.daum.net/v/20260328085637148"
+            },
+            {
+              "title": "UFC 아데산야 vs 파이퍼 경기일정 중계 티빙",
+              "url": "https://news.nate.com/view/20260329n00007"
+            },
+            {
+              "title": "[UFC] 아데산야 돌아온다, 1년 1개월 만에 UFC 복귀전",
+              "url": "https://www.newspim.com/news/view/20260328000036"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "양키스 대 자이언츠",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "이정후, MLB 개막 3경기 만에 침묵 깼다…양키스전 2루타 쾅",
+              "url": "https://www.chosun.com/sports/2026/03/29/BO5L5BWMHRA63ADVSXGWCZNBCU/"
+            },
+            {
+              "title": "이정후, 2루타로 시즌 첫 안타…첫 볼넷·득점도 신고(종합)",
+              "url": "https://www.newsis.com/view/NISX20260329_0003568176"
+            },
+            {
+              "title": "[속보] 이정후 8타수 무안타 끝! 낮은공 걷어올려 2루타로 시즌 첫 안타 신고→팀 시즌 첫 득점까지",
+              "url": "https://v.daum.net/v/U0rgGbvmOb"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "파이리츠 대 메츠",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "연봉은 팀에서 받는다, 애국하면 손해? WBC 참가한 사이영상 에이스, 개막전부터 희비 엇갈렸다",
+              "url": "https://www.chosun.com/sports/world-baseball/2026/03/28/HEZWIMRSG43TCYJSGU3DQZRZMI/"
+            },
+            {
+              "title": "리그 최고 투수, 시작부터 팀에 실망? 양키스 또 노릴까, “최고 유망주 4명 오퍼했다”",
+              "url": "https://v.daum.net/v/20260327223802769"
+            },
+            {
+              "title": "치명적 실책성 플레이 탓에‥0.2이닝 5실점",
+              "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6810856_37004.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "lpga",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Kim Hyo-joo Sits Second at LPGA Ford Championship After Round 2",
+              "url": "https://en.sedaily.com/sports/2026/03/28/kim-hyo-joo-sits-second-at-lpga-ford-championship-after"
+            },
+            {
+              "title": "Nelly Korda Motivated as Ever to Chase Down Hyo Joo Kim at the Ford Championship",
+              "url": "https://www.lpga.com/news/2026/nelly-korda-motivated-as-ever-to-chase-down-hyo-joo-kim-at-the-ford-championship"
+            },
+            {
+              "title": "World No. 4 Kim Hyoju: \"This Time, It's Back-to-Back Titles and Consecutive Wins\"",
+              "url": "https://www.asiae.co.kr/en/article/2026032421245871414"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "밀워키 대 샌안토니오",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "밀워키, 샌안토니오에 32점차 대패...연속 PO 진출 9시즌에서 중단",
+              "url": "https://www.mk.co.kr/news/sports/12001340"
+            },
+            {
+              "title": "\"그는 요키치보다 엠비드에 가깝다\" 부상 또 부상! 그리스 괴인에 대한 저주에 가까운 비판. \"이제 톱 5 플레이어 아냐!\"",
+              "url": "https://www.chosun.com/sports/basketball/2026/03/25/G5STSZBQMFSTCNDEHBSTMMRSMM/"
+            },
+            {
+              "title": "NBA 선수협, ‘아데토쿤보 결장’ 밀워키에 “리그의 진실성 훼손하는 거” 질책",
+              "url": "https://v.daum.net/v/20260325085839298"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "윤성준",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "초대형 유망주, '한국 아닌 일본' 택했다…'韓 U-18 대표' 2007년생 J리그 최고 신인, 日 국적 취득 준비 중",
+              "url": "https://v.daum.net/v/20260329074003498"
+            },
+            {
+              "title": "J리그가 주목하는 유망주 윤성준의 선택은 일본? 日 매체, “韓 연령별 대표 출신 윤성준, 일본 국적 취득 절차 진행 중”",
+              "url": "https://sports.donga.com/sports/article/all/20260329/133628670/1"
+            },
+            {
+              "title": "제일교포 2세 윤성준, 일본 귀화 추진…한국 축구계 '충격'",
+              "url": "http://www.specialtimes.co.kr/news/articleView.html?idxno=440242"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "2026 월드컵",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "월드컵 개막 멕시코시티서 올해 2달간 살인 104건…치안 비상",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8521091"
+            },
+            {
+              "title": "이발 중에 총 맞고 차 타고 가다가 공격당해 사망… 월드컵 개막하는 멕시코시티서 두달간 살인 104건",
+              "url": "https://www.munhwa.com/article/11578074"
+            },
+            {
+              "title": "월드컵 앞둔 멕시코, 드론 위협 대비 보안 강화",
+              "url": "https://v.daum.net/v/20260320125004452"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 67,
+          "interest_max": 100,
+          "interest_latest": 64,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 9,
+          "interest_max": 27,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 17,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 26,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 29,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 7,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "banana ball",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Banana Ball World Tour arrives in Conway this weekend",
+              "url": "https://wpde.com/news/local/banana-ball-2026-loco-beach-coconuts-spring-brooks-stadium-party-animals-savanna-bananas-date-time-sell-tickets"
+            },
+            {
+              "title": "Businesses and players prepare for first pitch of Banana Ball weekend",
+              "url": "https://www.wmbfnews.com/2026/03/27/businesses-players-prepare-first-pitch-banana-ball-weekend/"
+            },
+            {
+              "title": "Loco Beach Coconuts vs Party Animals Live Stream: How to Watch Banana Ball World Tour",
+              "url": "https://www.fubo.tv/news/banana-ball-world-tour/loco-beach-coconuts-vs-party-animals-live-stream-how-to-watch-banana-ball-world-tour/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "padres game today",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "What channel is Tigers vs Padres tonight? How to watch Detroit SportsNet",
+              "url": "https://www.freep.com/story/sports/mlb/tigers/2026/03/28/what-channel-is-tigers-padres-tonight/89354802007/"
+            },
+            {
+              "title": "Detroit Tigers TV channels: Here’s where to watch their games this season on cable",
+              "url": "https://www.clickondetroit.com/sports/2026/03/25/detroit-tigers-tv-channels-heres-where-to-watch-their-games-this-season-on-cable/"
+            },
+            {
+              "title": "How to subscribe to Tigers games on streaming services",
+              "url": "https://www.detroitnews.com/story/sports/mlb/tigers/2026/03/26/how-to-subscribe-to-detroit-tigers-games-on-streaming-services/89330966007/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "paulinho portugal",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "«O maior azar de Paulinho, além de ter Ronaldo e Gonçalo Ramos, é ter Roberto Martínez como selecionador»",
+              "url": "https://www.abola.pt/video/o-maior-azar-de-paulinho-alem-de-ter-ronaldo-e-goncalo-ramos-e-ter-roberto-martinez-como-selecionador-2026032720140040711"
+            },
+            {
+              "title": "«Paulinho? No futebol são precisos momentos de sorte e este pode ter sido um...»",
+              "url": "https://cnnportugal.iol.pt/videos/paulinho-no-futebol-sao-precisos-momentos-de-sorte-e-este-pode-ter-sido-um/69c6cbda0cf21fcd837710a6"
+            },
+            {
+              "title": "”É difícil competir para o lugar de Ronaldo”",
+              "url": "https://www.jm-madeira.pt/desporto/e-dificil-competir-para-o-lugar-de-ronaldo-KB19905618"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "josh giddey",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Bulls fall to Thunder 131-113, Donovan talks reality of missing postseason",
+              "url": "https://bulls.com/news/bulls-fall-to-thunder-131-113-donovan-talks-reality-of-missing-postseason"
+            },
+            {
+              "title": "Thunder 131-113 Bulls (Mar 27, 2026) Game Recap",
+              "url": "https://www.espn.com/nba/recap/_/gameId/401810925"
+            },
+            {
+              "title": "Shai Gilgeous-Alexander, OKC Thunder hold serve in NBA playoff race, run past Bulls",
+              "url": "https://www.oklahoman.com/story/sports/nba/thunder/2026/03/27/thunder-vs-bulls-score-shai-gilgeous-alexander-stats-nba-playoffs-standings-seeding/89358204007/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "krivas arizona",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "NCAA Tournament: Motiejus Krivas’ improvement on defense evident during opening weekend",
+              "url": "https://www.azdesertswarm.com/basketball/77605/arizona-wildcats-ncaa-tournament-motiejus-krivas-defense-blocked-shots-przemek-karnowski-arkansas-razorbacks-sweet16-san-jose-2026"
+            },
+            {
+              "title": "Arizona’s Motiejus Krivas — from slow-burn prospect to unique two-way talent",
+              "url": "https://arizonasports.com/ncaa/uofa-basketball/motiejus-krivas-2/3615611/"
+            },
+            {
+              "title": "Will Arizona center Motiejus Krivas be picked in NBA Draft?",
+              "url": "https://sports.yahoo.com/articles/arizona-center-motiejus-krivas-picked-223929498.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "is there a new snl tonight",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Is Saturday Night Live New Tonight, March 28, 2026? This Week's Host & Musical Guest",
+              "url": "https://www.nbc.com/nbc-insider/snl-tonight-march-28-saturday-night-live-host-musical-guest"
+            },
+            {
+              "title": "Is a new 'SNL' episode airing March 28? Here's what to know.",
+              "url": "https://www.usatoday.com/story/entertainment/tv/2026/03/28/no-new-snl-episode-march-28/89337942007/"
+            },
+            {
+              "title": "Is 'SNL' New Tonight? Here's What to Know",
+              "url": "https://people.com/is-snl-new-tonight-saturday-march-28-heres-what-to-know-11932197"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "lizzo",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Lizzo Tells Monica Lewinsky She's 'Deeply Offended' by How Media in the '90s 'Talked About Y'all's Bodies'",
+              "url": "https://www.yahoo.com/entertainment/celebrity/articles/lizzo-tells-monica-lewinsky-shes-170447272.html"
+            },
+            {
+              "title": "Lizzo explains how ‘harsh society’ instantly ‘ruined the stage’ for her",
+              "url": "https://www.thenews.com.pk/latest/1396835-lizzo-explains-how-harsh-society-instantly-ruined-the-stage-for-her"
+            },
+            {
+              "title": "Why Lizzo was deeply offended by 1990s body talk",
+              "url": "https://rollingout.com/2026/03/27/lizzo-offended-1990s-body-talk/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "south bay lakers",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Lakers Two-Way Standout Erupts as Dominant G League Run Continues",
+              "url": "https://heavy.com/sports/nba/los-angeles-lakers/nick-smith-jr-lakers-upside/"
+            },
+            {
+              "title": "Drew Timme News: Posts 20 points in G League win",
+              "url": "https://www.rotowire.com/basketball/headlines/drew-timme-news-posts-20-points-in-g-league-win-526012"
+            },
+            {
+              "title": "Skyforce Set for High-Stakes Road Test Against South Bay",
+              "url": "https://siouxfalls.gleague.nba.com/news/skyforce-set-for-high-stakes-road-test-against-south-bay"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "capitals vs golden knights",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Saturday Caps Clips: Capitals vs. Golden Knights Game Day",
+              "url": "https://www.japersrink.com/saturday-caps-clips-capitals-vs-golden-knights-game-day-dowd-hutson/"
+            },
+            {
+              "title": "SKATE SHAVINGS -- News and Notes from Caps Morning Skate",
+              "url": "https://www.nhl.com/capitals/news/skate-shavings-news-and-notes-from-caps-morning-skate-x9234"
+            },
+            {
+              "title": "Capitals Notebook: Miroshnichenko Gets Another Look As Kampf & Frank Remain Out, Thompson Starts vs. Vegas",
+              "url": "https://sports.yahoo.com/articles/capitals-notebook-miroshnichenko-gets-another-220625277.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "euphoria",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Euphoria to Half Man: 12 of the best TV shows to watch this April",
+              "url": "https://www.bbc.com/culture/article/20260326-12-of-the-best-tv-shows-to-watch-this-april"
+            },
+            {
+              "title": "Poll: Vote for Your Most Anticipated TV or Streaming Shows of April",
+              "url": "https://editorial.rottentomatoes.com/article/most-anticipated-tv-of-april-2026/"
+            },
+            {
+              "title": "What To Watch In April: Your Guide To 150+ TV Premieres And Finales",
+              "url": "https://www.tvline.com/2132477/what-to-watch-april-2026-tv-premieres-finales/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 40,
+          "interest_max": 100,
+          "interest_latest": 37,
+          "rank": 1
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 34,
+          "interest_max": 100,
+          "interest_latest": 57,
+          "rank": 2
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 32,
+          "interest_max": 100,
+          "interest_latest": 27,
+          "rank": 3
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 32,
+          "interest_max": 97,
+          "interest_latest": 37,
+          "rank": 4
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 23,
+          "interest_max": 68,
+          "interest_latest": 41,
+          "rank": 5
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 19,
+          "interest_max": 100,
+          "interest_latest": 19,
+          "rank": 6
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 18,
+          "interest_max": 34,
+          "interest_latest": 26,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 3,
+          "interest_max": 16,
+          "interest_latest": 5,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury shoes",
+          "value": "110"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "gucci",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "coach",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "demellier bag",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "the row bag",
+          "value": "40"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette phone case",
+          "value": "140"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "cider",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "dibujos coquette",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette room decor",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "mac coquette eyeshadow",
+          "value": "90"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "篠田麻里子",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "篠田麻里子 再婚を発表 19年に交際0日婚が話題も22年に別居報道 23年に離婚（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/5af894a8ab230900525677d106639a0286124151"
+            },
+            {
+              "title": "篠田麻里子、再婚を発表",
+              "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2445415"
+            },
+            {
+              "title": "篠田麻里子 結婚発表",
+              "url": "https://article.auone.jp/detail/1/5/9/202_9_r_20260329_1774750451408424"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "中京大中京",
+          "traffic": "2000+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "斎藤隆",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "「一生大事にする」大谷翔平が64万円高級腕時計をド軍全員に配る総額3800万円以上の\"太っ腹ギフト\"で「3連覇」へ好発進に今季限り引退ベテランが感激…指揮官も「寛大で思いやりのある人物」（RONSPO）",
+              "url": "https://news.yahoo.co.jp/articles/630df47d42d77f0efac2206c6c96bd47153308f6"
+            },
+            {
+              "title": "ドジャース右腕クライン「使うのが楽しみ」高級時計プレゼントの大谷翔平に感謝「特別なもの」",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260328-0169"
+            },
+            {
+              "title": "山本由伸 開幕戦登板の光景がすごい！ロッカーには大谷翔平の贈り物？白い紙袋に「ＳＥＩＫＯ」の文字が ド軍専属カメラマンが公開",
+              "url": "https://www.daily.co.jp/mlb/2026/03/28/0020175970.shtml"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "アーロン・ジャッジ",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "ヤンキースのジャッジが２試合連続アーチ メジャー通算３７０号（スポーツ報知）",
+              "url": "https://news.yahoo.co.jp/articles/2bccda69452e5f4ec9ae19633dfae8fc4ec55296"
+            },
+            {
+              "title": "低め判定に泣いた男に追い風　ジャッジ、ABS初使用で一発「これを武器として使うことはできる」",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260329-0198"
+            },
+            {
+              "title": "【開幕2連勝】ジャッジ＆スタントンが今季1号アベック弾 ヤンキースがジャイアンツを完封",
+              "url": "https://sportsbull.jp/p/2301801/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "中京大中京 野球部",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 6,
+          "keyword": "エンゼルス",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "開幕2戦目マウンド託されるも勝敗つかず エンゼルス菊池雄星投手が初登板 ドジャース大谷翔平選手はプレーでチームの勝利に貢献",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2561508"
+            },
+            {
+              "title": "菊池雄星、古巣相手に今季初登板で初勝利ならず...5回途中2失点 エ軍は敵地で開幕2連勝、トラウトが2戦連発",
+              "url": "https://article.auone.jp/detail/1/6/10/333_12_r_20260328_1774667766579929"
+            },
+            {
+              "title": "エンゼルスの菊池「プラン通り」 米大リーグ（時事通信）",
+              "url": "https://news.yahoo.co.jp/articles/71ce352b0dba0c34829f64c085c553ea1c30bbd3"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "万博記念公園 イベント",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "大阪・関西万博開幕1周年イベントの詳細発表及び「EXPO2025 Futures Festival」の事前抽選申し込みのご案内！",
+              "url": "https://www.expo2025.or.jp/news/news-20260326-03/"
+            },
+            {
+              "title": "【開幕1周年記念】万博ドローンショー特別演出応援プロジェクト！！",
+              "url": "https://camp-fire.jp/projects/932443/view"
+            },
+            {
+              "title": "万博1周年記念イベント一挙発表 吹田の万博記念公園で「Festival」、夢洲で「Station」、全国6都市「Tour」など【一覧・概要】",
+              "url": "https://www.niigata-nippo.co.jp/articles/-/803514"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "小学校 5 年",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "小学5年生の男の子が行方不明から5日目 校長「不手際があり、申し訳なかった」",
+              "url": "https://news.tv-asahi.co.jp/news_society/articles/900187068.html"
+            },
+            {
+              "title": "京都府南丹市の男児行方不明「勘違い」で初動遅れ 校長が悔恨「不手際だった」、今の手がかりは",
+              "url": "https://www.kyoto-np.co.jp/articles/-/1684025"
+            },
+            {
+              "title": "小学5年生の男の子が行方不明から5日目 校長「不手際があり、申し訳なかった」（テレ朝NEWS）",
+              "url": "https://topics.smt.docomo.ne.jp/article/tvasahinews/nation/tvasahinews-900187068?page=2"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "青森市 事故",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "ミゲル・ロハス",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "今季限りで引退のドジャース・ロハス激白「とにかく全力でチームのために」開幕戦逆転勝ち",
+              "url": "https://www.nikkansports.com/baseball/mlb/news/202603270000622.html"
+            },
+            {
+              "title": "【引退表明】ロハス激白「全力でチームのために」 2026年限りでユニホームを脱ぐ銀河系軍団の精神的支柱",
+              "url": "https://sportsbull.jp/p/2301138/"
+            },
+            {
+              "title": "今季で引退のドジャース・ロハス「開幕スタメンに抜てきしてくれて光栄」1安打で勝利貢献　日本語で感謝も",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260327-0207"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 35,
+          "interest_max": 100,
+          "interest_latest": 38,
+          "rank": 1
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 29,
+          "interest_max": 100,
+          "interest_latest": 26,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 26,
+          "interest_max": 72,
+          "interest_latest": 22,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 20,
+          "interest_max": 78,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 17,
+          "interest_max": 100,
+          "interest_latest": 25,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 10,
+          "interest_max": 56,
+          "interest_latest": 26,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 23,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 12,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 32,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-03-29T02:37:03.384109+00:00"
+}
