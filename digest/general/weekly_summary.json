@@ -1,39 +1,47 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-03-23",
-    "to": "2026-03-29"
+    "from": "2026-03-24",
+    "to": "2026-03-30"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#viral",
-      "growth": "+69%",
-      "total_mentions": 114
+      "keyword": "trend",
+      "growth": "+200%",
+      "total_mentions": 130
     },
     {
-      "keyword": "trend",
-      "growth": "+300%",
-      "total_mentions": 112
+      "keyword": "dance",
+      "growth": "+450%",
+      "total_mentions": 89
     },
     {
       "keyword": "바람막이",
       "growth": "+9%",
-      "total_mentions": 80
+      "total_mentions": 81
     },
     {
       "keyword": "여성가디건",
       "growth": "+20%",
-      "total_mentions": 76
+      "total_mentions": 78
     },
     {
-      "keyword": "dance",
-      "growth": "+200%",
-      "total_mentions": 74
+      "keyword": "여성봄자켓",
+      "growth": "+57%",
+      "total_mentions": 67
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "차량 5부제",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "청바지",
       "platforms": [
@@ -51,15 +59,15 @@
     "여성가디건"
   ],
   "top_keywords_overall": [
-    "#viral",
     "trend",
+    "#viral",
+    "dance",
     "트위드자켓",
     "원피스",
     "트렌치코트",
     "바람막이",
-    "#shorts",
     "여성가디건",
-    "dance",
+    "#shorts",
     "여성자켓"
   ]
 }

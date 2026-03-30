@@ -1,0 +1,694 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "kospi",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "KOSPI Drops 3.7% Amid Middle East Risks, TurboQuant Fallout",
+              "url": "https://www.chosun.com/english/market-money-en/2026/03/30/MNOFOVIDSZFGBCOPZNYEIHHLHE/"
+            },
+            {
+              "title": "Seoul stocks open sharply lower amid broader Middle East crisis fears",
+              "url": "https://en.yna.co.kr/view/AEN20260330001800320"
+            },
+            {
+              "title": "Last week, the domestic stock market repeated its surge, combining the prolonged war between the U.S..",
+              "url": "https://www.mk.co.kr/en/stock/12001920"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "오버워치 넥슨",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "넥슨, 블리자드 '오버워치' 한국 특화 서비스 맡아",
+              "url": "https://www.newsis.com/view/NISX20260330_0003568885"
+            },
+            {
+              "title": "넥슨, 오버워치 한국서 서비스한다… 블리자드와 퍼블리싱 계약 체결",
+              "url": "https://v.daum.net/v/20260330103503976"
+            },
+            {
+              "title": "오버워치, 넥슨이 맡는다…한국 서비스 판 바뀐다",
+              "url": "https://news.nate.com/view/20260330n12415?mid=n0802"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "우리로",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "젠슨 황 \"광반도체, AI 필수 기술\" 언급에…우리로 7거래일째 상한가",
+              "url": "https://www.hankyung.com/article/2026033050196"
+            },
+            {
+              "title": "우리로, 장 초반 또 상한가 터치…20%대 강세[핫종목]",
+              "url": "https://v.daum.net/v/20260330093828703"
+            },
+            {
+              "title": "우리로, '젠슨 황 픽' 광통신 기대 지속…7일째 '급등'",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02433766645388568"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "나상도",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "엄지인 아나운서 \"'아침마당' 35년 만에 개편, 유튜브 부캐까지 도전\" [Oh!쎈현장]",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/03/30/GM2GKYLCMRRTANLFGBQWKNBVGM/"
+            },
+            {
+              "title": "나상도 \"'아침마당'서 결혼할 것...父 드디어 '성공했다'고 인정\" [Oh!쎈 현장]",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/03/30/GRSDSZTCG4YDQMJRGBRWCMTGMQ/"
+            },
+            {
+              "title": "'아침마당' 박철규 \"출연 7개월 차, 아파트 장터에서 너무 알아봐\" 머쓱 [엑's 현장]",
+              "url": "https://m.news.nate.com/view/20260330n13820?mid=e02&list=recent&cpcd="
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "코스피",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "중동 쇼크·터보퀀트' 겹악재… 코스피 장 초반 3.7% 급락 ’5200선 위협'",
+              "url": "https://www.chosun.com/economy/economy_general/2026/03/30/UFTHFR254JDXNFP36UUI2BTPGU/"
+            },
+            {
+              "title": "중동 긴장 고조에 증시 충격...코스피 장중 4%대 급락 [HK영상]",
+              "url": "https://v.daum.net/v/20260330112604976"
+            },
+            {
+              "title": "구글 기술에 주가 ‘털썩’…삼전닉스에 기회일까 위기일까 [잇슈 머니]",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8521381"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "김양",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "김양, 겹경사 ‘박터진다’",
+              "url": "https://sports.khan.co.kr/article/202603300757003"
+            },
+            {
+              "title": "김양, 1년 만에 신곡 '박터진다'",
+              "url": "https://news.nate.com/view/20260330n14237?mid=e1200"
+            },
+            {
+              "title": "'명품 보이스' 김양, 신곡 '박터진다' 발매… 답답한 세상살이 날릴 '국민 응원가' 탄생",
+              "url": "https://www.newsbuzz.co.kr/news/articleView.html?idxno=20546"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "최석구",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "최석구, 17세 연하 아내에 \"국민연금 수령 나이인 나랑 살아줘 고마워\" (아침마당)",
+              "url": "https://news.nate.com/view/20260330n06453"
+            },
+            {
+              "title": "‘아침마당’ 차경아 “17살 연상 ♥최석구, 처음 만났을 때 거의 환갑” [순간포착]",
+              "url": "http://www.osen.co.kr/article/G1112770341"
+            },
+            {
+              "title": "최석구, 17살 연하 아내에 3번 퇴짜…“나이 많아 미안해” (아침마당)",
+              "url": "https://sports.donga.com/ent/article/all/20260330/133634662/1"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "lpga live",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "How to Watch the 2026 Ford Championship presented by Wild Horse Pass",
+              "url": "https://www.lpga.com/news/2026/how-to-watch-the-2026-ford-championship-presented-by-wild-horse-pass"
+            },
+            {
+              "title": "Here's the prize money payout for each golfer at the LPGA's 2026 Ford Championship",
+              "url": "https://www.golfdigest.com/story/here-is-the-prize-money-payout-for-each-golfer-at-the-2026-lpga-ford-championship"
+            },
+            {
+              "title": "What to know about 2026 Ford Championship as LPGA returns to Arizona",
+              "url": "https://sports.yahoo.com/articles/know-2026-ford-championship-lpga-160107911.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "차량 5부제",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "구윤철 \"유가 120∼130달러되면 위기3단계…차량부제 민간에도\"",
+              "url": "https://www.yna.co.kr/view/AKR20260329016300002"
+            },
+            {
+              "title": "민간 금융권에도 \"보험료, 카드수수료 인하\" 요청…합성수지에도 '최고가격제 도입' 검토",
+              "url": "https://v.daum.net/v/20260330101448762"
+            },
+            {
+              "title": "[속보]구윤철 “부동산 여러 정책 썼는데도 안 되면 세제도 판단”",
+              "url": "https://www.munhwa.com/article/11578093"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "빗썸",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "추신수의 손길, 여자야구에도 미쳤다...4000만원 상당 기부금 후원",
+              "url": "https://www.chosun.com/sports/baseball/2026/03/30/MNSDAYTCMZRWEZTDMNSDMNJXGM/"
+            },
+            {
+              "title": "빗썸과 손잡은 추신수, 여자야구에 4000만원+야구공 7500개 등 용품 기부",
+              "url": "https://v.daum.net/v/Zw6CFUOcTa"
+            },
+            {
+              "title": "NH투자증권, SSG랜더스 협업 프로야구 관람 이벤트 실시",
+              "url": "https://news.nate.com/view/20260330n10748?mid=n1101"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 4,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 31,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 30,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "steph curry",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Warriors' Stephen Curry out 2 more games due to lingering knee issue",
+              "url": "https://www.espn.com/nba/story/_/id/48325147/warriors-stephen-curry-2-more-games-due-lingering-knee-issue"
+            },
+            {
+              "title": "Warriors’ Steph Curry has ‘good session’ of rehab, with status update coming this week",
+              "url": "https://www.sfchronicle.com/sports/warriors/article/positive-news-warriors-steph-curry-ahead-team-22158588.php"
+            },
+            {
+              "title": "The Warriors are running out of time to bring Stephen Curry back, and that's a good thing",
+              "url": "https://www.cbssports.com/nba/news/stephen-curry-injury-golden-state-warriors-nba-draft/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "aaron gordon",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Aaron Gordon will not play tonight against Golden …",
+              "url": "https://sports.yahoo.com/articles/aaron-gordon-not-play-tonight-003657933.html"
+            },
+            {
+              "title": "Why Nuggets’ Aaron Gordon is out for Warriors game with calf soreness",
+              "url": "https://www.denverpost.com/2026/03/29/nuggets-aaron-gordon-injury-calf-warriors-game-out/"
+            },
+            {
+              "title": "Nuggets Rule Out Aaron Gordon Before Warriors Game",
+              "url": "https://www.si.com/nba/nuggets/onsi/news/denver-nuggets-rule-out-aaron-gordon-before-warriors-game"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "draymond green",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Draymond Green finally answers the Tyler Hansbrough question UNC fans have long asked",
+              "url": "https://keepingitheel.com/draymond-green-finally-answers-the-tyler-hansbrough-question-unc-fans-have-long-asked"
+            },
+            {
+              "title": "Draymond breaks down why Hansbrough couldn't make it in the NBA",
+              "url": "https://www.basketballnetwork.net/college/draymond-green-breaks-down-why-tyler-hansbrough-couldnt-make-it-in-the-nba-after-a-great-college-career"
+            },
+            {
+              "title": "Kia MVP Ladder: Victor Wembanyama surges past Shai Gilgeous-Alexander for No. 1",
+              "url": "https://www.nba.com/news/kia-mvp-ladder-march-27-2026"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "jeremy irons",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Jeremy Irons in ‘Monte Cristo,’ ‘Rooster’ Goes Joe College, ‘Comeback’s Big Secret, Weaving a ‘Golden Thread’",
+              "url": "https://www.tvinsider.com/1254703/jeremy-irons-count-of-monte-cristo-rooster-hbo-the-comeback-blessings-in-disguise/"
+            },
+            {
+              "title": "Palestine '36",
+              "url": "https://www.boxofficemojo.com/release/rl1084063745/weekend/"
+            },
+            {
+              "title": "‘Palestine ’36’ presents a complex, underseen history with the sweep of an old-school epic",
+              "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-03-27/palestine-36-review-annemarie-jacir-jeremy-irons"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "they will kill you movie",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Ryan Gosling's 'Project Hail Mary' Tops Box Office With $54.5 Million",
+              "url": "https://variety.com/2026/film/news/box-office-ryan-gosling-project-hail-mary-fsecond-weekend-they-will-kill-you-flops-1236702142/"
+            },
+            {
+              "title": "Here's some of the real science behind the science fiction film ‘Project Hail Mary’",
+              "url": "https://www.wcvb.com/article/heres-some-of-the-science-facts-behind-the-science-fiction-film-project-hail-mary/70866851"
+            },
+            {
+              "title": "Global Box Office: 'Project Hail Mary' Is Top Grossing Hollywood Movie YTD",
+              "url": "https://deadline.com/2026/03/box-office-global-project-hail-mary-hoppers-they-will-kill-you-1236768592/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "fire san diego",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Two dead after San Marcos home goes up in flames",
+              "url": "https://fox5sandiego.com/news/local-news/san-marcos/san-marcos-fatal-house-fire/"
+            },
+            {
+              "title": "Two found dead in San Marcos house fire",
+              "url": "https://www.10news.com/news/local-news/two-found-dead-in-san-marcos-house-fire"
+            },
+            {
+              "title": "Two people found dead in San Marcos house fire",
+              "url": "https://www.sandiegouniontribune.com/2026/03/29/two-people-found-dead-in-san-marcos-house-fire/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "amy hillyard missing",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Owner of legacy coffee shops in San Francisco, Oakland reported missing",
+              "url": "https://www.sfgate.com/bayarea/article/amy-hillyard-farleys-missing-22155783.php"
+            },
+            {
+              "title": "Missing Person Amy Hillyard",
+              "url": "https://www.oaklandca.gov/News-Releases/Police/Missing-Person-Amy-Hillyard"
+            },
+            {
+              "title": "Co-owner of Oakland coffee shop reported missing, believed to be at-risk",
+              "url": "https://www.cbsnews.com/sanfrancisco/news/oakland-coffee-shop-co-owner-reported-missing-at-risk/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "shoal line fire",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Mandatory evacuation issued for Hernando County neighborhood due to brush fire: HCFR",
+              "url": "https://www.fox13news.com/news/mandatory-evacuation-issued-neighborhood-due-brush-fire-hcfr"
+            },
+            {
+              "title": "Mandatory evacuations ordered in Hernando County due to large brush fire",
+              "url": "https://www.wfla.com/news/local-news/hernando-county/mandatory-evacuations-ordered-in-hernando-county-following-large-brush-fire/"
+            },
+            {
+              "title": "Mandatory evacuation issued for parts of Hernando County due to large brush fire",
+              "url": "https://www.wtsp.com/article/news/local/hernandocounty/mandatory-evacuation-hernando-county-brush-fire/67-a1ce603d-d2f7-47de-a69d-a368598a6021"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "mike rowe",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Opinion | Free Ex Q&A: Mike Rowe",
+              "url": "https://www.wsj.com/opinion/free-expression/free-ex-q-a-mike-rowe-c17746f8?gaa_at=eafs&gaa_n=AWEtsqfR9UZqbNtIA_JdCaACG47Sm4H1W88wNqEhUJy7s3BWfT-r8nIkS345&gaa_ts=69c9e591&gaa_sig=YoAB6Q2XpOFN5a-XgK5BEU4GWFg9ZhvkFdolkQreflTz9vcEHwdfDmginjgE7PU7NER3eyHZVL0aXhMhCabfUA%3D%3D"
+            },
+            {
+              "title": "Rowe warns of massive workforce shakeup, says Sanders is right: ‘Revolution unlike anything' we’ve seen coming",
+              "url": "https://www.foxbusiness.com/media/mike-rowe-warns-massive-workforce-shakeup-says-sanders-right-revolution-unlike-anything-seen-coming"
+            },
+            {
+              "title": "Mike Rowe rips schools for portraying skilled trades as ‘consolation prize’",
+              "url": "https://www.foxnews.com/video/6391480610112"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "santee fire",
+          "traffic": "2000+",
+          "related_news": []
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 58,
+          "interest_max": 100,
+          "interest_latest": 69,
+          "rank": 1
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 8,
+          "interest_max": 100,
+          "interest_latest": 7,
+          "rank": 2
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 2,
+          "interest_max": 9,
+          "interest_latest": 1,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 1,
+          "interest_max": 5,
+          "interest_latest": 1,
+          "rank": 4
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 2,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "高橋留美子",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「葬送のフリーレン」第3期 黄金郷編のティザービジュアルが公開 こちらを見つめる黄金郷のマハトの姿",
+              "url": "https://game.watch.impress.co.jp/docs/news/2097226.html"
+            },
+            {
+              "title": "三木眞一郎がサプライズで登壇「アフレコが今から楽しみ」第３期への意気込みも語られる＜葬送のフリーレン＞",
+              "url": "https://news.yahoo.co.jp/articles/a7c0dc1aef5ebc36d4c3cb06818ef50a13028236"
+            },
+            {
+              "title": "【写真・画像】来年10月まで「またね」アニメ『葬送のフリーレン』第2期を振り返るステージに種崎敦美らが登壇【イベントレポ】 1枚目 | アニメニュース | アニメフリークス",
+              "url": "https://times.abema.tv/articles/photo/10235277"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "北九州市",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "ワイドスクランブル",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "テレ朝・林美桜アナ 「ワイド！スクランブル」卒業「アナウンサー人生の中で一番長く…本当に寂しいです」（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/dd84bbce4d6b563b06baae630dcbf05cbc83c691"
+            },
+            {
+              "title": "「知らなかった！（泣）」テレ朝の”お昼の顔”35歳女子アナ、ANNニュース卒業報告に”ロス”組続出 ファンからねぎらい＆エール相次ぐ",
+              "url": "https://www.chunichi.co.jp/article/1229262"
+            },
+            {
+              "title": "「ショック」テレ朝美人アナ、４年半務め「お別れです」“突然の報告”に「急すぎ」SNS騒然",
+              "url": "https://trilltrill.jp/articles/4572364"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "キットカット",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "「キットカット」約12トン、トラックごと盗まれる（日テレNEWS NNN）",
+              "url": "https://news.yahoo.co.jp/articles/c85c86ca9701cb21b6d78126a32f4eb0ccc86e43"
+            },
+            {
+              "title": "キットカット41万個、欧州でトラックごと盗難 復活祭前に品薄危機",
+              "url": "https://www.asahi.com/articles/ASV3X4VSZV3XUHBI015M.html"
+            },
+            {
+              "title": "F1仕様の特別版「キットカット」41万個が輸送中に盗難被害 キットカット広報「犯人の味覚の良さは認めますが…」",
+              "url": "https://www.fnn.jp/articles/-/1020887"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "総武線",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "JR中央線快速が全線で運転見合わせ、総武線各駅は運転再開（TBS NEWS DIG Powered by JNN）",
+              "url": "https://news.yahoo.co.jp/articles/4f47bae0ec11ddb4320c7e4f8e78ef6b06dfdd31"
+            },
+            {
+              "title": "中央線(快速)で人身事故 運転見合わせ",
+              "url": "https://topics.smt.docomo.ne.jp/article/rescuenow/nation/rescuenow-00000018188748"
+            },
+            {
+              "title": "ＪＲ中央線快速電車が運転再開…東小金井駅で人身事故",
+              "url": "https://www.yomiuri.co.jp/national/20260326-GYT1T00294/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "中央線",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "特急「かいじ」走行中にドア開く",
+              "url": "https://www.oita-press.co.jp/1002000000/2026/03/29/NP2026032901001758"
+            },
+            {
+              "title": "JR東日本のロゴマーク",
+              "url": "https://www.sankei.com/article/20260329-5FU2ACJ2ZBL37O5OCR2W6RD5X4/photo/J2CDMEJ3SNBONCLCUEM6S6NE5Y/"
+            },
+            {
+              "title": "特急「かいじ」が走行中にドア開く、運転士が気づき非常ブレーキ…国交省が重大インシデントに認定",
+              "url": "https://www.yomiuri.co.jp/national/20260330-GYT1T00005/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "ナゲッツ 対 ウォリアーズ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Where to watch Golden State Warriors vs. Denver Nuggets: Live stream, start time, TV channel, odds for Sunday, March 29",
+              "url": "https://sports.yahoo.com/nba/article/where-to-watch-golden-state-warriors-vs-denver-nuggets-live-stream-start-time-tv-channel-odds-for-sunday-march-29-141821067.html"
+            },
+            {
+              "title": "Warriors getting some reinforcements against Nuggets",
+              "url": "https://www.goldenstateofmind.com/warriors-injury-report/109619/warriors-nuggets-injury-report-seth-curry-quinten-post-aaron-gordon"
+            },
+            {
+              "title": "NBA Sunday: Nuggets vs. Warriors betting preview and expert picks",
+              "url": "https://www.oregonlive.com/betting/2026/03/nba-sunday-nuggets-vs-warriors-betting-preview-and-expert-picks.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "吉澤嘉代子",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "吉澤嘉代子「気まずい」新幹線で外国人旅行客に注意も…「何も気にする事はないよ」（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/21e241ed64e599dda6e5cacf9eb2d457c6672091"
+            },
+            {
+              "title": "吉澤嘉代子「気まずい」新幹線で外国人旅行客に注意も…「何も気にする事はないよ」",
+              "url": "https://www.nikkansports.com/entertainment/news/202603290000692.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ペリカンズ 対 ロケッツ",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "ispace 株価",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "ispaceの株価がストップ安気配 月面着陸打ち上げ30年に延期",
+              "url": "https://www.nikkei.com/article/DGXZQOFL300CO0Q6A330C2000000/"
+            },
+            {
+              "title": "ispaceが売り気配､打ち上げ延期を嫌気",
+              "url": "https://shikiho.toyokeizai.net/news/0/939624"
+            },
+            {
+              "title": "アイスペース、月着陸船打ち上げ計画変更 2027年は見送り 新型機「ウルトラ」開発へ",
+              "url": "https://www.sankei.com/article/20260327-HUGZZCNJSBISHB4JJJCP6J6OOM/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 18,
+          "interest_max": 62,
+          "interest_latest": 21,
+          "rank": 1
+        },
+        {
+          "keyword": "バズった",
+          "interest_avg": 16,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 5,
+          "interest_max": 51,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 1,
+          "interest_max": 35,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-03-30T02:42:19.948585+00:00"
+}
