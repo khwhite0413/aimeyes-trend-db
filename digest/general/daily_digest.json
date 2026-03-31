@@ -2,21 +2,87 @@
   "date": "2026-03-31",
   "mode": "general",
   "compared_to": "2026-03-30",
-  "total_keywords_today": 382,
+  "total_keywords_today": 392,
   "total_keywords_yesterday": 423,
   "data_days_available": 16,
   "overall_confidence": "high",
   "rising": [
     {
+      "keyword": "trend",
+      "change": "+12%",
+      "today_count": 27,
+      "yesterday_count": 24,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 27건, 어제 24건 기준"
+    },
+    {
       "keyword": "#tiktok",
-      "change": "+57%",
-      "today_count": 11,
+      "change": "+71%",
+      "today_count": 12,
       "yesterday_count": 7,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 11건, 어제 7건 기준"
+      "sample_note": "오늘 12건, 어제 7건 기준"
+    },
+    {
+      "keyword": "#viral",
+      "change": "+9%",
+      "today_count": 12,
+      "yesterday_count": 11,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 12건, 어제 11건 기준"
+    },
+    {
+      "keyword": "#shorts",
+      "change": "+50%",
+      "today_count": 12,
+      "yesterday_count": 8,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 12건, 어제 8건 기준"
+    },
+    {
+      "keyword": "#trend",
+      "change": "+29%",
+      "today_count": 9,
+      "yesterday_count": 7,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 9건, 어제 7건 기준"
+    },
+    {
+      "keyword": "funny",
+      "change": "NEW",
+      "today_count": 7,
+      "yesterday_count": 0,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 7건 (신규)"
+    },
+    {
+      "keyword": "#funny",
+      "change": "NEW",
+      "today_count": 6,
+      "yesterday_count": 0,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건 (신규)"
     },
     {
       "keyword": "life",
@@ -30,6 +96,17 @@
       "sample_note": "오늘 6건, 어제 1건 기준"
     },
     {
+      "keyword": "hack",
+      "change": "NEW",
+      "today_count": 6,
+      "yesterday_count": 0,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건 (신규)"
+    },
+    {
       "keyword": "여성봄점퍼",
       "change": "+20%",
       "today_count": 6,
@@ -41,15 +118,15 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "hack",
-      "change": "NEW",
+      "keyword": "tips",
+      "change": "+25%",
       "today_count": 5,
-      "yesterday_count": 0,
+      "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건 (신규)"
+      "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
       "keyword": "후드집업",
@@ -63,6 +140,17 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
+      "keyword": "#love",
+      "change": "+300%",
+      "today_count": 4,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 1건 기준"
+    },
+    {
       "keyword": "challenge",
       "change": "NEW",
       "today_count": 4,
@@ -74,18 +162,29 @@
       "sample_note": "오늘 4건 (신규)"
     },
     {
-      "keyword": "trends",
-      "change": "+100%",
+      "keyword": "love",
+      "change": "+300%",
       "today_count": 4,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 1건 기준"
     },
     {
-      "keyword": "makeover",
+      "keyword": "#tips",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "cat",
       "change": "NEW",
       "today_count": 4,
       "yesterday_count": 0,
@@ -97,17 +196,6 @@
     },
     {
       "keyword": "#beatbox",
-      "change": "NEW",
-      "today_count": 3,
-      "yesterday_count": 0,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건 (신규)"
-    },
-    {
-      "keyword": "#funny",
       "change": "NEW",
       "today_count": 3,
       "yesterday_count": 0,
@@ -138,108 +226,13 @@
         "youtube"
       ],
       "sample_note": "오늘 3건 (신규)"
-    },
-    {
-      "keyword": "#treasure",
-      "change": "NEW",
-      "today_count": 3,
-      "yesterday_count": 0,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건 (신규)"
-    },
-    {
-      "keyword": "#love",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#1b",
-      "change": "NEW",
-      "today_count": 3,
-      "yesterday_count": 0,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건 (신규)"
-    },
-    {
-      "keyword": "#1million",
-      "change": "NEW",
-      "today_count": 3,
-      "yesterday_count": 0,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건 (신규)"
-    },
-    {
-      "keyword": "beatbox",
-      "change": "NEW",
-      "today_count": 3,
-      "yesterday_count": 0,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건 (신규)"
-    },
-    {
-      "keyword": "funny",
-      "change": "NEW",
-      "today_count": 3,
-      "yesterday_count": 0,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건 (신규)"
-    },
-    {
-      "keyword": "kpop",
-      "change": "NEW",
-      "today_count": 3,
-      "yesterday_count": 0,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건 (신규)"
-    },
-    {
-      "keyword": "treasure",
-      "change": "NEW",
-      "today_count": 3,
-      "yesterday_count": 0,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건 (신규)"
     }
   ],
   "declining": [
     {
-      "keyword": "trend",
-      "change": "-12%",
-      "today_count": 21,
-      "yesterday_count": 24,
-      "confidence": "high"
-    },
-    {
       "keyword": "dance",
-      "change": "-18%",
-      "today_count": 18,
+      "change": "-5%",
+      "today_count": 21,
       "yesterday_count": 22,
       "confidence": "high"
     },
@@ -251,16 +244,9 @@
       "confidence": "medium"
     },
     {
-      "keyword": "#viral",
-      "change": "-18%",
-      "today_count": 9,
-      "yesterday_count": 11,
-      "confidence": "medium"
-    },
-    {
       "keyword": "#dance",
-      "change": "-25%",
-      "today_count": 6,
+      "change": "-12%",
+      "today_count": 7,
       "yesterday_count": 8,
       "confidence": "medium"
     },
@@ -280,16 +266,9 @@
     },
     {
       "keyword": "#trending",
-      "change": "-57%",
-      "today_count": 3,
+      "change": "-14%",
+      "today_count": 6,
       "yesterday_count": 7,
-      "confidence": "low"
-    },
-    {
-      "keyword": "musiccreator169",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
       "confidence": "medium"
     },
     {
@@ -298,29 +277,40 @@
       "today_count": 2,
       "yesterday_count": 6,
       "confidence": "low"
+    },
+    {
+      "keyword": "유행",
+      "change": "-75%",
+      "today_count": 1,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#shortvideo",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "shortvideo",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
     }
   ],
   "new_entries": [
+    "funny",
+    "#funny",
     "hack",
     "challenge",
-    "makeover",
+    "cat",
     "#beatbox",
-    "#funny",
     "#challenge",
     "#kpop",
     "#treasure",
-    "#1b",
-    "#1million"
+    "#1b"
   ],
-  "cross_platform_hot": [
-    {
-      "keyword": "긴급재정명령",
-      "platform_count": 2,
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "total_count": 2
-    }
-  ]
+  "cross_platform_hot": []
 }
