@@ -1,39 +1,47 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-03-24",
-    "to": "2026-03-30"
+    "from": "2026-03-25",
+    "to": "2026-03-31"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "trend",
-      "growth": "+200%",
-      "total_mentions": 130
+      "growth": "+5%",
+      "total_mentions": 143
     },
     {
       "keyword": "dance",
-      "growth": "+450%",
-      "total_mentions": 89
+      "growth": "+125%",
+      "total_mentions": 103
     },
     {
       "keyword": "바람막이",
       "growth": "+9%",
-      "total_mentions": 81
+      "total_mentions": 82
     },
     {
       "keyword": "여성가디건",
       "growth": "+20%",
-      "total_mentions": 78
+      "total_mentions": 80
     },
     {
       "keyword": "여성봄자켓",
-      "growth": "+57%",
-      "total_mentions": 67
+      "growth": "+38%",
+      "total_mentions": 71
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "긴급재정명령",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "청바지",
       "platforms": [
@@ -60,6 +68,6 @@
     "바람막이",
     "여성가디건",
     "#shorts",
-    "여성자켓"
+    "여성봄자켓"
   ]
 }
