@@ -3,261 +3,290 @@
   "mode": "fashion",
   "countries": {
     "KR": {
-      "trending_fashion": [],
+      "trending_fashion": [
+        {
+          "rank": 6,
+          "keyword": "패션",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "TBH글로벌, 통합 AI 플랫폼 'TBH FIT 1024' 출시",
+              "url": "https://www.newsis.com/view/NISX20260401_0003573086"
+            },
+            {
+              "title": "롯데온, 맞춤상품 추천 '패션AI' 출시…\"개인화 쇼핑 강화\"",
+              "url": "https://www.yna.co.kr/view/AKR20260401026800030"
+            },
+            {
+              "title": "[유통 뉴스픽] 롯데온·11번가·알리바바·세븐일레븐",
+              "url": "https://v.daum.net/v/20260401163318956"
+            }
+          ]
+        }
+      ],
       "all_trending": [
         {
           "rank": 1,
-          "keyword": "류화영",
-          "traffic": "100+",
+          "keyword": "lsg vs dc",
+          "traffic": "200+",
           "related_news": [
             {
-              "title": "티아라 출신 배우 류화영, 9월 12일 결혼",
-              "url": "https://news.kbs.co.kr/news/view.do?ncd=8523923"
+              "title": "IPL 2026, LSG vs DC 5th Match Match Preview - All eyes on fit-again Mayank as LSG kickstart season against DC",
+              "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/lucknow-super-giants-vs-delhi-capitals-5th-match-1527678/match-preview"
             },
             {
-              "title": "티아라 출신 류화영 9월 결혼…남편 3살 연상 사업가",
-              "url": "https://www.newsis.com/view/NISX20260401_0003572707"
+              "title": "Rishabh Pant’s gamble goes horribly wrong in Delhi Capitals clash, ends in shocking run-out twist | Cricket",
+              "url": "https://www.hindustantimes.com/cricket/rishabh-pant-s-gamble-goes-horribly-wrong-in-delhi-capitals-clash-ends-in-shocking-run-out-twist-101775053417696.html"
             },
             {
-              "title": "티아라 출신 류화영, ‘9월의 신부’된다…예비신랑은 3살 연상 사업가",
-              "url": "https://biz.heraldcorp.com/article/10707203"
+              "title": "LSG vs DC IPL 2026: BRSABV Ekana Cricket Stadium Records And IPL Stats Ahead Of Match 5",
+              "url": "https://www.mykhel.com/cricket/lsg-vs-dc-ipl-2026-brsabv-ekana-cricket-stadium-records-and-ipl-stats-ahead-of-match-5-422875.html"
             }
           ]
         },
         {
           "rank": 2,
-          "keyword": "박덕흠",
-          "traffic": "500+",
+          "keyword": "커피",
+          "traffic": "100+",
           "related_news": [
             {
-              "title": "장동혁 \"국힘 새 공천위원장, 충북 4선 박덕흠 의원 모실 것\"",
-              "url": "https://v.daum.net/v/20260401094425979"
+              "title": "1.5L짜리 초대형 '양동이 커피' 선보여… 대용량 공식 깨지나",
+              "url": "https://v.daum.net/v/20260401120304882"
             },
             {
-              "title": "[속보]국민의힘 새 공관위원장에 충청 4선 박덕흠 의원",
-              "url": "https://www.chosun.com/politics/assembly/2026/04/01/FUE46SJ3HBHJVHE5IC6622U7XY/"
+              "title": "1.5리터를 양동이에 담았다… 성수동서 뜬 ‘양동이커피’ 정체",
+              "url": "https://www.newstap.co.kr/news/articleView.html?idxno=325494"
             },
             {
-              "title": "장동혁 \"새 공관위원장에 박덕흠‥재판장이 윤리위원장 하시라\"",
-              "url": "https://imnews.imbc.com/news/2026/politics/article/6811819_36911.html"
+              "title": "양동이에 커피를 담았더니 성수동에 줄 섰다… 대용량 저가 커피 다음은 ‘경험형 소비’",
+              "url": "https://www.newswire.co.kr/newsRead.php?no=1031333"
             }
           ]
         },
         {
           "rank": 3,
-          "keyword": "민방위 교육",
+          "keyword": "김원중",
           "traffic": "200+",
           "related_news": [
             {
-              "title": "대전 민방위 교육, 실전형 강사 30명 위촉",
-              "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1070788"
+              "title": "'롯데 1위' 낭만 클로저, 왜 걱정 안해도 될까…\"어떻게 해야 더 강한 공 던질까, 정체되면 안된다\"",
+              "url": "https://www.chosun.com/sports/baseball/2026/03/31/MZQWCNBWG4ZDEYRWHAZTAYZWGQ/"
             },
             {
-              "title": "울산시, 직장민방위대장 교육… 재난 대응 역량 강화",
-              "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065591274154826"
+              "title": "\"아직 덜 올라왔다\" 롯데 김원중 향한 냉정한 진단에도, \"세이브 상황 되면 내보낸다\" 신뢰 굳건 [IS 대구]",
+              "url": "https://v.daum.net/v/20260329143025152?f=p"
             },
             {
-              "title": "수원시 팔달구, 2026년 지역민방위대장 교육으로 위기 현장 대응능력 강화!",
-              "url": "https://nuriilbo.com/news/article.html?no=831062"
+              "title": "[사진] 역투하는 비슬리",
+              "url": "https://sports.news.nate.com/view/20260322n08396?mid=s0101"
             }
           ]
         },
         {
           "rank": 4,
-          "keyword": "검은사막",
-          "traffic": "200+",
+          "keyword": "조갑경",
+          "traffic": "100+",
           "related_news": [
             {
-              "title": "펄어비스 '검은사막', 만우절 및 부활절 기념 대규모 이벤트 실시",
-              "url": "https://m.news.nate.com/view/20260401n17806?mid=m05&list=recent&cpcd="
+              "title": "홍서범 전 며느리, 조갑경 예능 출연 저격…\"내 아이 가정은\"",
+              "url": "https://www.nocutnews.co.kr/news/6494933"
             },
             {
-              "title": "[정보] 소서러와 다크나이트 전이 비용 1은화, 고드아이드 장비 삭제",
-              "url": "https://www.inven.co.kr/webzine/news/?news=314738&site=black"
+              "title": "‘子 외도 논란’ 조갑경, 전 며느리 저격 속..‘라스’ 등장 “톱스타 울렁증 있어”",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/04/01/MU2WENRZGFSWMNZZHAZDGNZXMY/"
             },
             {
-              "title": "'하늘 나는 당나귀'부터 '달걀왕'까지…펄어비스 '검은사막', 만우절·부활절 이벤트 개막",
-              "url": "https://www.youthdaily.co.kr/mobile/article.html?no=216609"
+              "title": "홍서범 子, 양육비 미지급 독 됐다…\"항소심서 불리하게 작용할 수도\"",
+              "url": "https://www.newsis.com/view/NISX20260401_0003573478"
             }
           ]
         },
         {
           "rank": 5,
-          "keyword": "민방위",
-          "traffic": "500+",
+          "keyword": "트럼프 연설",
+          "traffic": "2000+",
           "related_news": [
             {
-              "title": "충남도, 공습대비 민방위훈련 실시",
-              "url": "http://www.jamill.kr/news/articleView.html?idxno=459653"
+              "title": "트럼프 “이란 새 대통령, 방금 휴전 요청” 주장",
+              "url": "https://www.chosun.com/international/us/2026/04/01/2TJBQBUO4FCBPFUTC6SKPQHGMA/"
             },
             {
-              "title": "양주시, 2026년 민방위대원 기본교육 실시",
-              "url": "http://www.mediatoday.asia/sub_read.html?uid=1683519&section=sc18&section2=%EC%96%91%EC%A3%BC"
+              "title": "트럼프 \"이란서 꽤 빨리 철수할 예정…필요하면 돌아오겠다\"",
+              "url": "https://www.newsis.com/view/NISX20260401_0003574302"
             },
             {
-              "title": "이도형 권한대행 \"민방위 훈련, 신속 대응체계 구축 목적\"",
-              "url": "https://skbnews.kr/news/article.html?no=51540"
+              "title": "트럼프 “이란 새 대통령 미국에 휴전 요청”…이란 쪽은 ‘부인’",
+              "url": "https://www.hani.co.kr/arti/international/international_general/1252237.html"
             }
           ]
         },
         {
           "rank": 6,
-          "keyword": "한국장학재단",
+          "keyword": "패션",
           "traffic": "200+",
           "related_news": [
             {
-              "title": "2026 중견기업 일자리 박람회",
-              "url": "https://www.newsis.com/view/NISI20260331_0021228853"
+              "title": "TBH글로벌, 통합 AI 플랫폼 'TBH FIT 1024' 출시",
+              "url": "https://www.newsis.com/view/NISX20260401_0003573086"
             },
             {
-              "title": "북적이는 취업시장",
-              "url": "https://www.yna.co.kr/view/PYH20260331102000013"
+              "title": "롯데온, 맞춤상품 추천 '패션AI' 출시…\"개인화 쇼핑 강화\"",
+              "url": "https://www.yna.co.kr/view/AKR20260401026800030"
             },
             {
-              "title": "한국장학재단, '중견기업 일자리 박람회'…우수기업 100곳 구직자 6000명 참석",
-              "url": "https://v.daum.net/v/20260331175125531"
+              "title": "[유통 뉴스픽] 롯데온·11번가·알리바바·세븐일레븐",
+              "url": "https://v.daum.net/v/20260401163318956"
             }
           ]
         },
         {
           "rank": 7,
-          "keyword": "국민카드",
-          "traffic": "200+",
+          "keyword": "김도빈",
+          "traffic": "1000+",
           "related_news": [
             {
-              "title": "[금융 이모저모] KB국민카드, 스테이블코인 하이브리드 결제모델 구현…카드 한 장으로 신용·디지털 자산 결제",
-              "url": "https://www.greened.kr/news/articleView.html?idxno=338678"
+              "title": "[사진]타석에 들어서는 박영현",
+              "url": "https://www.chosun.com/sports/sports_photo/2026/04/01/G4ZDSYLGHEYTOM3CMY3DKZBWGA/"
             },
             {
-              "title": "KB국민카드, 아발란체·오픈에셋과 협업해 '스테이블코인 결제' 준비 속도",
-              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=434541"
+              "title": "[영상] 한화 김도빈의 ‘마구’ 체인지업…인생 역전 필살기?",
+              "url": "https://v.daum.net/v/20260331123603262"
             },
             {
-              "title": "니움, 비자·마스터카드 기반 스테이블코인 카드 발급 플랫폼 출시",
-              "url": "https://news.nate.com/view/20260331n33267"
+              "title": "[사진]9회 역투하는 한화 박준영",
+              "url": "https://www.mt.co.kr/sports/2026/03/31/202603312219770854O"
             }
           ]
         },
         {
           "rank": 8,
-          "keyword": "청약홈",
-          "traffic": "1000+",
+          "keyword": "심우준",
+          "traffic": "2000+",
           "related_news": [
             {
-              "title": "더샵 신길센트럴시티 1순위 청약 평균 경쟁률 31.9대 1",
-              "url": "https://www.newsis.com/view/NISX20260401_0003572639"
+              "title": "깨어난 WBC 국대들 안현민 대형 아치, 몬스터월 넘긴 문현빈",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8524649"
             },
             {
-              "title": "\"강남 로또 청약보다 더 관심\"…국평 19억에 1.5만명 몰렸다 [주간이집]",
-              "url": "https://v.daum.net/v/20260401080259253"
+              "title": "'259분 걸린 승리' 집념의 KT, 개막 4연승→단독 1위 등극! 이강철 감독 \"선수들이 끝까지 포기하지 않았다\" [오!쎈 대전]",
+              "url": "https://www.chosun.com/sports/baseball/2026/04/01/GBSGIZJTHE3WKOJZHFSTIMZRMI/"
             },
             {
-              "title": "4월 전국 아파트 3만2793가구 일반분양…전월 대비 211% 증가",
-              "url": "https://www.viva100.com/article/20260401500417"
+              "title": "[스포츠 영상] kt 안현민, 류현진 상대 비거리 130m 시즌 1호 홈런",
+              "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6812006_37004.html"
             }
           ]
         },
         {
           "rank": 9,
-          "keyword": "april fools day",
-          "traffic": "200+",
+          "keyword": "kbo",
+          "traffic": "2000+",
           "related_news": [
             {
-              "title": "From spaghetti harvests to fake news: why the glory days of April Fools gags are over",
-              "url": "https://theconversation.com/from-spaghetti-harvests-to-fake-news-why-the-glory-days-of-april-fools-gags-are-over-279331"
+              "title": "Samsung Reaches Historic 3,000th Win in KBO League",
+              "url": "https://www.chosun.com/english/sports-en/2026/04/01/4IVTHYSJNFGXRFR2RVRX6KALXE/"
             },
             {
-              "title": "April Fools’ Day: Fun, lighthearted pranks to pull on your kids and families",
-              "url": "https://fox4kc.com/news/april-fools-day-fun-lighthearted-pranks-to-pull-on-your-kids-and-families/"
+              "title": "\"One-year, 100 million won contract with Hanwha.\" Son Ah-seop is now confidently challenging KBO's new history! What kind of milestone will it be this year",
+              "url": "https://www.starnewskorea.com/en/sports/2026/03/28/2026032716032066716"
             },
             {
-              "title": "APRIL 1, 2026 | APRIL FOOLS' DAY | NATIONAL TOM FOOLERYS DAY | PASSOVER BEGINS | TAKE DOWN TOBACCO NATIONAL DAY OF ACTION | NATIONAL SOURDOUGH BREAD DAY | NATIONAL WALKING DAY | NATIONAL ONE CENT DAY | CHIL",
-              "url": "https://www.nationaldaycalendar.com/read/april-1-2026-april-fools-day-national-tom-foolerys-day-passover-begins-take-down-tobacco-national-day-of-action-national-sourdough-bread-day-national-walking-day-national-one-cent-day-childhelp-national-day-of-hope"
+              "title": "The Samsung Lions will challenge the record of 3,000 wins for the first team ever. Yang Hyun-jong (K..",
+              "url": "https://www.mk.co.kr/en/sports/12000207"
             }
           ]
         },
         {
           "rank": 10,
-          "keyword": "식목일",
-          "traffic": "200+",
+          "keyword": "악뮤",
+          "traffic": "500+",
           "related_news": [
             {
-              "title": "탄소흡수원 확충을 위한 민간참여 나무심기 - 사진 | 멀티미디어",
-              "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=70245"
+              "title": "\"악뮤 포기할게\" 이수현 잡아준 이찬혁…\"슬럼프에 2년간 히키코모리\" ('유퀴즈')[종합]",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/04/01/GM2TKMJVGA2TGNBTGQ4WIY3EGU/"
             },
             {
-              "title": "충청북도교육청, 식목일 맞아 녹색 교육환경 조성 박차",
-              "url": "https://www.viva100.com/article/20260331501613"
+              "title": "악뮤, 7년 만에 컴백 심경…독보적 음악 세계로 돌아왔다 ('강호동네서점')",
+              "url": "https://v.daum.net/v/UEswCn71oP"
             },
             {
-              "title": "“나무야 잘 자라렴”",
-              "url": "https://www.chosun.com/national/transport-environment/2026/04/01/KZ4ZFYCPNJBWNLN2CT7LL7TGRQ/"
+              "title": "‘은둔+폭식’ 이수현 구한 이찬혁 곡 화제…“내 딸도 다시 돌아오길” 공감 줄이어 [스경X이슈]",
+              "url": "https://sports.khan.co.kr/article/202604011611003"
             }
           ]
         }
       ],
       "keyword_interest": [
         {
-          "keyword": "무신사",
-          "interest_avg": 65,
-          "interest_max": 100,
-          "interest_latest": 90,
-          "rank": 1
-        },
-        {
-          "keyword": "지그재그",
-          "interest_avg": 9,
-          "interest_max": 23,
-          "interest_latest": 19,
-          "rank": 2
-        },
-        {
           "keyword": "Y2K패션",
           "interest_avg": 0,
-          "interest_max": 52,
+          "interest_max": 0,
           "interest_latest": 0,
-          "rank": 3
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
         },
         {
           "keyword": "미니멀코어",
           "interest_avg": 0,
-          "interest_max": 51,
+          "interest_max": 0,
           "interest_latest": 0,
-          "rank": 4
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
         },
         {
           "keyword": "레이어링",
           "interest_avg": 0,
-          "interest_max": 67,
+          "interest_max": 0,
           "interest_latest": 0,
-          "rank": 5
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
         },
         {
           "keyword": "스트릿패션",
           "interest_avg": 0,
-          "interest_max": 100,
+          "interest_max": 0,
           "interest_latest": 0,
-          "rank": 6
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
         },
         {
           "keyword": "빈티지코디",
           "interest_avg": 0,
           "interest_max": 0,
           "interest_latest": 0,
-          "rank": 7
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
         },
         {
           "keyword": "OOTD",
           "interest_avg": 0,
-          "interest_max": 6,
+          "interest_max": 0,
           "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "무신사",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
           "rank": 8
         },
         {
           "keyword": "데일리룩",
           "interest_avg": 0,
-          "interest_max": 5,
+          "interest_max": 0,
           "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
           "rank": 9
         },
         {
@@ -265,33 +294,34 @@
           "interest_avg": 0,
           "interest_max": 0,
           "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
           "rank": 10
         },
         {
           "keyword": "패션하울",
           "interest_avg": 0,
-          "interest_max": 36,
+          "interest_max": 66,
           "interest_latest": 0,
           "rank": 11
         },
         {
           "keyword": "코디룩북",
           "interest_avg": 0,
-          "interest_max": 28,
+          "interest_max": 100,
           "interest_latest": 0,
           "rank": 12
         },
         {
           "keyword": "뉴트럴톤",
           "interest_avg": 0,
-          "interest_max": 100,
+          "interest_max": 73,
           "interest_latest": 0,
           "rank": 13
         },
         {
           "keyword": "콜라주레이어링",
           "interest_avg": 0,
-          "interest_max": 17,
+          "interest_max": 0,
           "interest_latest": 0,
           "rank": 14
         }
@@ -319,316 +349,293 @@
       "all_trending": [
         {
           "rank": 1,
-          "keyword": "jalen duren",
-          "traffic": "500+",
+          "keyword": "dion dawkins",
+          "traffic": "1000+",
           "related_news": [
             {
-              "title": "3 starters returning for Pistons after missing wild overtime game",
-              "url": "https://www.mlive.com/pistons/2026/03/3-starters-returning-for-pistons-after-missing-wild-overtime-game.html"
+              "title": "Bills' Dion Dawkins makes mixed comments about fans on live stream",
+              "url": "https://billswire.usatoday.com/story/sports/nfl/bills/2026/03/31/bills-dion-dawkins-mixed-comments-fans-live-stream-n3on-nfl/89407910007/"
             },
             {
-              "title": "Pistons’ Jalen Duren injury update vs. Raptors after missing wild Thunder game",
-              "url": "https://sports.yahoo.com/articles/pistons-jalen-duren-injury-vs-193611419.html"
+              "title": "Dion Dawkins launches unprecedented attack on Bills Mafia in clip that's going viral for all the wrong reasons",
+              "url": "https://atozsports.com/nfl/buffalo-bills-news/dion-dawkins-attack-bills-mafia-viral-clip/"
             },
             {
-              "title": "Jalen Duren is Back in Action on Tuesday - NBA News | Fantasy Basketball",
-              "url": "https://www.rotoballer.com/player-news/jalen-duren-is-back-in-action-on-tuesday/1838073"
+              "title": "Bills' Dion Dawkins makes mixed comments about fans on live stream",
+              "url": "https://sports.yahoo.com/articles/bills-dion-dawkins-makes-mixed-192443692.html"
             }
           ]
         },
         {
           "rank": 2,
-          "keyword": "savannah bananas",
-          "traffic": "1000+",
+          "keyword": "gabriel diallo",
+          "traffic": "200+",
           "related_news": [
             {
-              "title": "Dairy Queen offers $.99 Blizzard deal alongside return of summer flavors",
-              "url": "https://www.usatoday.com/story/money/food/2026/03/30/99-cent-blizzard-from-dairy-queen-summer-flavors-return/89391486007/"
+              "title": "Zandschulp vs. Shevchenko Odds & Predictions (Apr. 1, 2026)",
+              "url": "https://polymarket.com/sports/atp/atp-shevche-zandsch-2026-04-01"
             },
             {
-              "title": "Dairy Queen Is Turning A Beloved Spring Dessert Into An All-New Blizzard",
-              "url": "https://www.yahoo.com/lifestyle/articles/dairy-queen-turning-beloved-spring-141000417.html"
+              "title": "ATP Bucharest Day 2 Predictions Including Alexander Shevchenko vs Botic van de Zandschulp",
+              "url": "https://lastwordonsports.com/tennis/2026/03/31/atp-bucharest-day-2-predictions-shevchenko-zandschulp/"
             },
             {
-              "title": "DQ Launches \"Countdown to Summer\" Blizzard Treat Collection",
-              "url": "https://williamsonsource.com/dq-launches-countdown-to-summer-blizzard-treat-collection/"
+              "title": "2026 Tiriac Open: Maestrelli [112th] vs. Van de Zandschulp [65th] Prediction, Odds and Match Preview",
+              "url": "https://sportsbookwire.usatoday.com/story/sports/sports-betting/2026/03/28/francesco-maestrelli-vs-botic-van-de-zandschulp-tiriac-open-tennis-odds-lines-betting-3-30-2026/89374156007/"
             }
           ]
         },
         {
           "rank": 3,
-          "keyword": "willy adames",
+          "keyword": "amy coney barrett",
           "traffic": "500+",
           "related_news": [
             {
-              "title": "Measuring the stats on Willy Adames' home run",
-              "url": "https://www.mlb.com/giants/video/measuring-the-stats-on-willy-adames-home-run-x4776"
+              "title": "St. John’s College and UNM School of Law Host U.S. Supreme Court Justice Amy Coney Barrett",
+              "url": "https://lawschool.unm.edu/news/2026/03/st-johns-college-and-unm-school-of-law-host-u.s-supreme-court-justice-amy-coney-barrett.html"
             },
             {
-              "title": "Willy Adames News: Getting turn in leadoff spot",
-              "url": "https://www.rotowire.com/baseball/headlines/willy-adames-news-getting-turn-in-leadoff-spot-995003"
+              "title": "Not Dead Yet: Amy Coney Barrett",
+              "url": "https://www.aei.org/multimedia/not-dead-yet-amy-coney-barrett/"
             },
             {
-              "title": "Willy Adames Back in Leadoff Spot at Petco Park on Tuesday - MLB News | Fantasy Baseball",
-              "url": "https://www.rotoballer.com/player-news/willy-adames-back-in-leadoff-spot-at-petco-park-on-tuesday/1837965"
+              "title": "Justice Amy Coney Barrett: A controlled, scripted discussion",
+              "url": "https://www.santafenewmexican.com/opinion/my_view/justice-amy-coney-barrett-a-controlled-scripted-discussion/article_d9346251-cf8d-4c44-b24f-54d293c1cd95.html"
             }
           ]
         },
         {
           "rank": 4,
-          "keyword": "paradise show",
-          "traffic": "2000+",
+          "keyword": "sonia sotomayor",
+          "traffic": "500+",
           "related_news": [
             {
-              "title": "Breaking Down the Astonishing Ending of Paradise Season 2",
-              "url": "https://time.com/article/2026/03/30/breaking-down-ending-paradise-season-2/"
+              "title": "Justices Sotomayor and Jackson dissent from Supreme Court leaving an ‘injustice in place’",
+              "url": "https://www.yahoo.com/news/articles/justices-sotomayor-jackson-dissent-supreme-160920808.html"
             },
             {
-              "title": "'Paradise' Season 2 Finale: The Burning Questions Left Unanswered",
-              "url": "https://deadline.com/2026/03/paradise-season-2-finale-recap-questions-left-unanswered-1236762668/"
+              "title": "Croton Editorial: EverythingCroton blog posts blatantly racist and sexist article about Justice Ketanji Brown Jackson.",
+              "url": "https://thecrotonchronicle.substack.com/p/croton-editorial-everythingcroton"
             },
             {
-              "title": "Paradise's Latest Casualty Speaks: Why They Didn't Fight Back and What the Exit Means for Sinatra (Exclusive)",
-              "url": "https://people.com/the-latest-paradise-casualty-speaks-why-they-didnt-fight-back-11934378"
+              "title": "Sotomayor laments unequal treatment for two defendants in murder case",
+              "url": "https://www.courthousenews.com/sotomayor-laments-unequal-treatment-for-two-defendants-in-murder-case/"
             }
           ]
         },
         {
           "rank": 5,
-          "keyword": "where to watch cleveland guardians vs dodgers",
-          "traffic": "2000+",
+          "keyword": "boone high school",
+          "traffic": "200+",
           "related_news": [
             {
-              "title": "Where to watch Cleveland Guardians vs. Los Angeles Dodgers: Live stream, start time, TV Channel, odds for Monday, March 30",
-              "url": "https://sports.yahoo.com/mlb/article/where-to-watch-cleveland-guardians-vs-los-angeles-dodgers-live-stream-start-time-tv-channel-odds-for-monday-march-30-141037757.html"
+              "title": "Police investigation underway at Boone High School after reports of 'suspicious armed person'",
+              "url": "https://www.wesh.com/article/boone-high-school-police-investigation/70906993"
             },
             {
-              "title": "Guardians vs. Dodgers FREE STREAM today: Where to watch MLB",
-              "url": "https://www.cleveland.com/tv/2026/03/guardians-vs-dodgers-free-stream-today-where-to-watch-mlb.html"
+              "title": "Boone High School placed on lockdown after suspicious armed person call, Orlando police say",
+              "url": "https://www.clickorlando.com/news/local/2026/04/01/boone-high-school-placed-on-lockdown-after-suspicious-armed-person-call-orlando-police-say/"
             },
             {
-              "title": "Guardians vs Dodgers Prediction, Best Bets & Home Run Pick for Tonight's MLB Game",
-              "url": "https://www.covers.com/mlb/guardians-vs-dodgers-prediction-picks-odds-tuesday-3-31-2026"
+              "title": "Orlando police investigate potential threat at Boone High School",
+              "url": "https://www.wftv.com/news/local/orlando-police-investigate-potential-threat-boone-high-school/O35FLIZFZBH53KV2LSVNYVCLYA/"
             }
           ]
         },
         {
           "rank": 6,
-          "keyword": "rob refsnyder",
+          "keyword": "clarence thomas",
           "traffic": "500+",
           "related_news": [
             {
-              "title": "A brief foray into the Mariners lineup construction against lefties",
-              "url": "https://www.lookoutlanding.com/seattle-mariners-scores-standings/140986/about-last-night-a-brief-foray-into-lineup-construction"
+              "title": "Justice Clarence Thomas Asks the First Question",
+              "url": "https://www.wsj.com/livecoverage/supreme-court-us-birthright-citizenship-trump/card/justice-clarence-thomas-asks-the-first-question-eUELxVVFWWWO5d8OR4OX?gaa_at=eafs&gaa_n=AWEtsqd82YKvwte5WRV132pqHdsrA-WT1qUr1gVCNtE41JOTWTKErknxBvmR&gaa_ts=69cd3980&gaa_sig=bM73s4bexD-5p1-8BuhQW3glMfgSlouPnYZk5FrTIuWAjYpRgH5AcljGDGHrlptmp3XrX8F7LFmLwWsWiskkyg%3D%3D"
             },
             {
-              "title": "Mitch Garver Absent From Seattle Mariners First Lineup Against Left-Handed Pitching",
-              "url": "https://ca.sports.yahoo.com/news/mitch-garver-absent-seattle-mariners-232341166.html"
+              "title": "UT to host Supreme Court Justice Clarence Thomas in unpublicized April event",
+              "url": "https://www.statesman.com/news/education/article/ut-austin-clarence-thomas-supreme-court-22167049.php"
             },
             {
-              "title": "Mariners show new lineup facing first lefty starter",
-              "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-show-new-lineup-facing-first-lefty-starter/1844008"
+              "title": "UT to host Supreme Court Justice Clarence Thomas in unpublicized April event",
+              "url": "https://www.yahoo.com/news/articles/ut-host-supreme-court-justice-003553257.html"
             }
           ]
         },
         {
           "rank": 7,
-          "keyword": "dodgers vs guardians",
-          "traffic": "500+",
+          "keyword": "xom",
+          "traffic": "200+",
           "related_news": [
             {
-              "title": "Ohtani to make 2026 pitching debut tonight (7 p.m. PT)",
-              "url": "https://www.mlb.com/news/shohei-ohtani-2026-regular-season-pitching-debut"
+              "title": "Exxon, Chevron, and More Oil Stocks Fall. Why That Could Be the New Normal.",
+              "url": "https://www.barrons.com/articles/exxon-chevron-stocks-oil-prices-f7d80083?gaa_at=eafs&gaa_n=AWEtsqdXkuRXaGIHEZq_O9jpnZGv96m8FpNbmdkLiUVcB6plGptHu6N_gwbG&gaa_ts=69cd3981&gaa_sig=70dotIKtWkXzTKbaJFiabLewDUDvgf7QNHYj4j-uLEyhcSzBRwWRlKkrZOAyiogFh10udEMcd-n_esNgsdYDyQ%3D%3D"
             },
             {
-              "title": "Shohei Ohtani to make 2026 pitching debut against Guardians",
-              "url": "https://www.cbsnews.com/losangeles/news/shohei-ohtani-to-make-2026-pitching-debut-against-guardians/"
+              "title": "Why Exxon Mobil Stock Is Falling Tuesday Afternoon - Exxon Mobil (NYSE:XOM)",
+              "url": "https://www.benzinga.com/trading-ideas/movers/26/03/51584438/why-exxon-mobil-stock-is-falling-tuesday-afternoon"
             },
             {
-              "title": "Los Angeles Dodgers vs. Cleveland Guardians: How to watch Shohei Ohtani's first pitching start tonight, streaming info and more",
-              "url": "https://sports.yahoo.com/mlb/article/los-angeles-dodgers-vs-cleveland-guardians-how-to-watch-shohei-ohtanis-first-pitching-start-tonight-streaming-info-and-more-160050936.html"
+              "title": "Energy stocks tumble after massive March",
+              "url": "https://sherwood.news/markets/energy-stocks-tumble-after-massive-march/"
             }
           ]
         },
         {
           "rank": 8,
-          "keyword": "banana ball",
-          "traffic": "500+",
+          "keyword": "elena kagan",
+          "traffic": "1000+",
           "related_news": [
             {
-              "title": "Beyond the Cape: Banana Ball’s Reese Alexiades and His Family Ties to Disney",
-              "url": "https://disneyparksblog.com/disney-experiences/banana-ball-reese-alexiades-family-ties-to-disney/"
+              "title": "Kagan turns on liberal ally Jackson with footnote jab over free speech",
+              "url": "https://www.foxnews.com/politics/kagan-turns-liberal-ally-jackson-footnote-jab-over-free-speech"
             },
             {
-              "title": "San Diego Native making waves as part of Banana Ball craze",
-              "url": "https://fox5sandiego.com/video/san-diego-native-making-waves-as-part-of-banana-ball-craze/11655280/"
+              "title": "Justice Jackson, Alone on the Supreme Court’s Left Flank, Takes Criticism From Fellow Liberal Justices Kagan and Sotomayor",
+              "url": "https://www.nysun.com/article/justice-jackson-alone-on-the-supreme-courts-left-flank-takes-criticism-from-fellow-liberal-justices-kagan-and-sotomayor"
             },
             {
-              "title": "San Diego Native making waves as part of Banana Ball craze",
-              "url": "https://fox5sandiego.com/sports/san-diego-native-making-waves-as-part-of-banana-ball-craze/"
+              "title": "Croton Editorial: EverythingCroton blog posts blatantly racist and sexist article about Justice Ketanji Brown Jackson.",
+              "url": "https://thecrotonchronicle.substack.com/p/croton-editorial-everythingcroton"
             }
           ]
         },
         {
           "rank": 9,
-          "keyword": "cam smith",
-          "traffic": "200+",
-          "related_news": [
-            {
-              "title": "Astros’ Cam Smith swung at strike three. Instead, he walked in bizarre mishap",
-              "url": "https://www.nytimes.com/athletic/7162829/2026/03/31/astros-red-sox-cam-smith-missed-strike-three/"
-            },
-            {
-              "title": "Cam Smith's incredible running catch in foul ground",
-              "url": "https://www.mlb.com/astros/video/kai-wei-teng-in-play-out-s-to-zach-neto"
-            },
-            {
-              "title": "Astros' Cam Smith takes early MLB lead in important stat",
-              "url": "https://sports.yahoo.com/articles/astros-cam-smith-takes-early-212637463.html"
-            }
-          ]
+          "keyword": "solicitor general",
+          "traffic": "500+",
+          "related_news": []
         },
         {
           "rank": 10,
-          "keyword": "tyrus",
-          "traffic": "500+",
+          "keyword": "centerpoint energy",
+          "traffic": "1000+",
           "related_news": [
             {
-              "title": "Dr. Drew: The Truth About Narcissism, Addiction, and Recovery | Planet Tyrus",
-              "url": "https://www.foxnews.com/video/6392255963112"
+              "title": "CenterPoint Energy Inc. stock outperforms competitors on strong trading day",
+              "url": "https://www.marketwatch.com/data-news/centerpoint-energy-inc-stock-outperforms-competitors-on-strong-trading-day-15491696-a3a8794247b9?gaa_at=eafs&gaa_n=AWEtsqfUX5JifBvcXwPlnK05-r_5y1NvP4ENweb8f9403L3LBzx5UuVhMSsp&gaa_ts=69cd3982&gaa_sig=hHKirifqAOMn1YfQ1C5hJ5lB0d4BYh9MSas47iyocI0x74LOJaiteYx3wS0OWXEfMlM2MFrIaxY1QuekhqX58A%3D%3D"
             },
             {
-              "title": "Dr. Drew: The Truth About Narcissism, Addiction, and Recovery | Planet Tyrus",
-              "url": "https://www.yahoo.com/news/videos/dr-drew-truth-narcissism-addiction-135827824.html"
+              "title": "Nordea Investment Management AB Acquires 65,440 Shares of CenterPoint Energy, Inc. $CNP",
+              "url": "https://www.marketbeat.com/instant-alerts/filing-nordea-investment-management-ab-acquires-65440-shares-of-centerpoint-energy-inc-cnp-2026-03-25/"
             },
             {
-              "title": "PlanetTyrus Dr Drew FULL",
-              "url": "https://www.foxnews.com/video/6392254346112"
+              "title": "Assenagon Asset Management Boosts CenterPoint Energy Holdings",
+              "url": "https://nationaltoday.com/us/tx/houston/news/2026/03/27/assenagon-asset-management-boosts-centerpoint-energy-holdings/"
             }
           ]
         }
       ],
       "keyword_interest": [
         {
-          "keyword": "Amazon fashion",
-          "interest_avg": 47,
+          "keyword": "streetwear",
+          "interest_avg": 42,
           "interest_max": 100,
-          "interest_latest": 56,
+          "interest_latest": 26,
           "rank": 1
         },
         {
-          "keyword": "capsule wardrobe",
-          "interest_avg": 39,
-          "interest_max": 98,
-          "interest_latest": 25,
+          "keyword": "Amazon fashion",
+          "interest_avg": 38,
+          "interest_max": 80,
+          "interest_latest": 34,
           "rank": 2
         },
         {
-          "keyword": "streetwear",
-          "interest_avg": 38,
+          "keyword": "capsule wardrobe",
+          "interest_avg": 30,
           "interest_max": 100,
-          "interest_latest": 35,
+          "interest_latest": 27,
           "rank": 3
         },
         {
           "keyword": "OOTD",
-          "interest_avg": 34,
-          "interest_max": 80,
-          "interest_latest": 39,
+          "interest_avg": 28,
+          "interest_max": 73,
+          "interest_latest": 0,
           "rank": 4
         },
         {
           "keyword": "Y2K fashion",
           "interest_avg": 27,
           "interest_max": 100,
-          "interest_latest": 35,
+          "interest_latest": 0,
           "rank": 5
         },
         {
           "keyword": "vintage fashion",
-          "interest_avg": 22,
-          "interest_max": 84,
-          "interest_latest": 13,
+          "interest_avg": 26,
+          "interest_max": 95,
+          "interest_latest": 16,
           "rank": 6
         },
         {
           "keyword": "coquette",
-          "interest_avg": 17,
-          "interest_max": 29,
-          "interest_latest": 24,
+          "interest_avg": 20,
+          "interest_max": 35,
+          "interest_latest": 13,
           "rank": 7
         },
         {
           "keyword": "quiet luxury",
-          "interest_avg": 2,
+          "interest_avg": 3,
           "interest_max": 17,
-          "interest_latest": 6,
+          "interest_latest": 0,
           "rank": 8
         },
         {
           "keyword": "mob wife aesthetic",
           "interest_avg": 0,
-          "interest_max": 7,
+          "interest_max": 11,
           "interest_latest": 0,
           "rank": 9
         },
         {
           "keyword": "thrift fashion",
           "interest_avg": 0,
-          "interest_max": 56,
+          "interest_max": 48,
           "interest_latest": 0,
           "rank": 10
         },
         {
           "keyword": "seasonal outfits",
           "interest_avg": 0,
-          "interest_max": 10,
+          "interest_max": 16,
           "interest_latest": 0,
           "rank": 11
         },
         {
           "keyword": "outfit lookbook",
           "interest_avg": 0,
-          "interest_max": 34,
+          "interest_max": 27,
           "interest_latest": 0,
           "rank": 12
         }
       ],
       "related_queries": [
         {
-          "parent_keyword": "quiet luxury",
-          "query": "coach",
-          "value": "100"
-        },
-        {
-          "parent_keyword": "quiet luxury",
-          "query": "the row",
-          "value": "50"
-        },
-        {
           "parent_keyword": "coquette",
-          "query": "coquette bow drawing",
-          "value": "24950"
+          "query": "cider",
+          "value": "110"
         },
         {
           "parent_keyword": "coquette",
           "query": "coquette bake shop",
-          "value": "140"
-        },
-        {
-          "parent_keyword": "coquette",
-          "query": "prima boston",
           "value": "90"
         },
         {
           "parent_keyword": "coquette",
-          "query": "coquette raleigh menu",
-          "value": "80"
+          "query": "croquettes",
+          "value": "70"
         },
         {
           "parent_keyword": "coquette",
-          "query": "coquette pronunciation",
-          "value": "70"
+          "query": "coquette bow drawing",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette stickers",
+          "value": "40"
         }
       ],
       "monitoring_keywords": [
@@ -651,165 +658,178 @@
       "all_trending": [
         {
           "rank": 1,
-          "keyword": "ノジマ",
+          "keyword": "ヤマザキマリ",
           "traffic": "200+",
           "related_news": [
             {
-              "title": "65歳以上シニア従業員が100名を突破！",
-              "url": "https://prtimes.jp/main/html/rd/p/000000069.000163436.html"
+              "title": "俳優・杏さんインタビュー｜幼いお子さん3人とパリへ。旅行から移住、現在の二拠点生活のリアルとは",
+              "url": "https://www.fujingaho.jp/culture/famous-person/a70718533/anne-paris-books-20260329/"
             },
             {
-              "title": "65歳以上シニア従業員が100名を突破！～年齢に関係なく活躍の場を提供～",
-              "url": "https://news.nifty.com/article/item/neta/12310-5090936/"
+              "title": "大好評！杏さんのパリ暮らしを綴った初のエッセイ『杏のパリ細うで繁盛記』。ヤマザキマリさんの書評全文を公開しました！",
+              "url": "https://prtimes.jp/main/html/rd/p/000002802.000047877.html"
             },
             {
-              "title": "2季ぶりの年間王者に輝いた木下マイスター東京 王監督代行「衝撃を受けました。『ここまで成長したのか』と」＜卓球・Tリーグ2025-2026＞",
-              "url": "https://rallys.online/topic/tleague/260327finalkinoshita/"
+              "title": "コンサート＆トーク「大西順子×ヤマザキマリ ―自由を奏で、世界を描く」(2026/3/3) レポート",
+              "url": "https://www.waseda.jp/inst/wihl-annex/news/3348"
             }
           ]
         },
         {
           "rank": 2,
-          "keyword": "観戦 場所 ドジャース 対 クリーブランド・ガーディアンズ",
-          "traffic": "2000+",
+          "keyword": "ひっかかりニーチェ",
+          "traffic": "200+",
           "related_news": [
             {
-              "title": "大谷翔平が今季初の1番投手兼DH ドジャース日本投手ローテ3連戦",
-              "url": "https://www.asahi.com/articles/ASV3036V3V30UTQP00YM.html"
+              "title": "もう中学生、地元の友達からのダメ出しに悩む「ひっかかりニーチェ」今夜30分SP（お笑いナタリー）",
+              "url": "https://news.yahoo.co.jp/articles/f9fde816b4555f6428c6acc9f892059d64abcbdc"
             },
             {
-              "title": "「１番投手」大谷翔平が今季初登板初先発、初回３者凡退好発進、最速１５９・６キロマーク　初勝利＆１号なるか",
-              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260401-OHT1T51076"
+              "title": "もう中学生、地元の友達からのダメ出しに悩む「ひっかかりニーチェ」今夜30分SP",
+              "url": "https://natalie.mu/owarai/news/666464"
             },
             {
-              "title": "大谷翔平、今季初の”投打二刀流”初回は三者凡退に抑える、最速は159キロ（中日スポーツ）",
-              "url": "https://news.yahoo.co.jp/articles/f704b2d079696f60dfa167ad7093e49b601fb32c"
+              "title": "令和ロマンくるま、週刊誌スクープ写真＆M-1ネタで「自分が終わりました」と自虐",
+              "url": "https://post.tv-asahi.co.jp/post-715456/"
             }
           ]
         },
         {
           "rank": 3,
-          "keyword": "レイカーズ 対 キャバリアーズ",
-          "traffic": "200+",
+          "keyword": "ジープラン",
+          "traffic": "1000+",
           "related_news": [
             {
-              "title": "【4月1日】八村塁出場予定 レイカーズvsキャバリアーズのテレビ放送・ネット配信｜NBA 20... | Lemino ニュース",
-              "url": "https://lemino.docomo.ne.jp/leminonews/articles/nba-lakers-cavaliers-streaming-20260401"
+              "title": "KDDI、内部統制「絵に描いた餅」 専門家は報告書こう読む",
+              "url": "https://www.nikkei.com/article/DGXZQOUB311B70R30C26A3000000/"
             },
             {
-              "title": "【NBA】ペイサーズVSレイカーズのカメラ席に美女が！“歴史を変えた”女子バスケ選手の姿にネット反響（スポニチアネックス）",
-              "url": "https://news.yahoo.co.jp/articles/a384540ea0710cafe0ce7a1190728a3b0baba4e2"
+              "title": "KDDI子会社で2461億円の架空取引、なぜ7年間も見過ごされたのか？ 社員2人の巧妙な手口と高橋元社長の「懸念」",
+              "url": "https://news.yahoo.co.jp/articles/5f875a841dd73302280f8c8092b260d0439baaa7"
             },
             {
-              "title": "【NBA】ペイサーズVSレイカーズのカメラ席に美女が！“歴史を変えた”女子バスケ選手の姿にネット反響 (2026年3月26日掲載)",
-              "url": "https://news.livedoor.com/topics/detail/30846365/"
+              "title": "KDDI不正会計、担当は表彰 キャバクラ代などで3千万円受領も",
+              "url": "https://www.asahi.com/articles/ASV303JX8V30ULFA01BM.html"
             }
           ]
         },
         {
           "rank": 4,
-          "keyword": "バックス 対 マーベリックス",
+          "keyword": "柳田悠岐",
           "traffic": "100+",
           "related_news": [
             {
-              "title": "Mavericks vs Bucks Preview and Injury Update: Who wants it less?",
-              "url": "https://sports.yahoo.com/articles/mavericks-vs-bucks-preview-injury-000403262.html"
+              "title": "【ソフトバンク】ギータが新設本塁打ゾーンの記念すべき１号　「得した気分になる。いい記念になりました」",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260401-OHT1T51303"
             },
             {
-              "title": "Dallas Mavericks at Milwaukee Bucks odds, picks and predictions",
-              "url": "https://sportsbookwire.usatoday.com/story/sports/nba/2026/03/31/mavericks-at-bucks-odds-picks-and-predictions/89398933007/"
+              "title": "鷹が怒涛の開幕5連勝…柳田悠岐が先制2ラン、オリ助っ人が3年目の初完封、1日のパ",
+              "url": "https://article.auone.jp/detail/1/6/10/375_10_r_20260401_1775048177330261"
             },
             {
-              "title": "Rapid Recap: Bucks 123, Mavericks 99",
-              "url": "https://www.brewhoop.com/bucks-scores-results/63276/milwaukee-vs-dallas-mavericks-final-score-recap-kyle-kuzma-ryan-rollins-cooper-flagg"
+              "title": "【こんな人】よく使う日本語は「ヤバい」ソフトバンク徐若熙、“ヤバい”投球で来日初勝利（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/ed1a532263e0e829ced2f427ffbb530793a7c904"
             }
           ]
         },
         {
           "rank": 5,
-          "keyword": "スターリンク衛星",
-          "traffic": "500+",
+          "keyword": "剣持刀也",
+          "traffic": "1000+",
           "related_news": [
             {
-              "title": "スターリンク衛星、宇宙で分解した可能性",
-              "url": "https://japan.cnet.com/article/35245862/"
+              "title": "にじさんじから「エイプリ・レディーズ RETURNS」グッズが2026年4月1日(水)12時から期間限定で受注販売スタート！",
+              "url": "https://prtimes.jp/main/html/rd/p/000001469.000030865.html"
             },
             {
-              "title": "スペースX社のスターリンク衛星が軌道上で爆発し、数十個の破片が飛び散った。",
-              "url": "https://www.vietnam.vn/ja/ve-tinh-starlink-cua-spacex-phat-no-tren-quy-dao-tao-hang-chuc-manh-vo"
+              "title": "鹿鳴館キリコ、剣持刀子など、にじさんじライバーが“another style”で「にじぱぺっと」に！4月1日限定で本当に受注販売",
+              "url": "https://news.yahoo.co.jp/articles/5eb851c67f0cba31c83f822e0202f6288f790894"
             },
             {
-              "title": "スターリンク衛星、宇宙で分解した可能性",
-              "url": "https://article.auone.jp/detail/1/3/7/369_7_r_20260401_1774993256691040"
+              "title": "にじさんじから「SUSHIDOL PROJECT」記念グッズとボイスドラマが2026年4月1日(水)0時から販売スタート！さらにMVも公開！",
+              "url": "https://www.nijisanji.jp/news/3h25ntxlf0"
             }
           ]
         },
         {
           "rank": 6,
-          "keyword": "ビーマップ",
+          "keyword": "箕輪厚介",
           "traffic": "200+",
           "related_news": [
             {
-              "title": "ビーマップ－売り気配 整理銘柄に指定 上場廃止へ(トレーダーズ・ウェブ)",
-              "url": "https://finance.yahoo.co.jp/news/detail/f2a9c28ece5c9848de0f9102e3806a20571f2878"
+              "title": "篠田麻里子、再婚相手に「赤字22億円」発覚の不穏「家賃200万円」で“セレブママ街道”進む親友・板野友美と分かれた明暗",
+              "url": "https://news.yahoo.co.jp/articles/69ca5900cbe3a553000983e217f09d6bb21ae3ab"
             },
             {
-              "title": "ビーマップ[4316]：当社株式の上場廃止の決定及び整理銘柄の指定に関するお知らせ 2026年3月31日(適時開示) ：日経会社情報DIGITAL",
-              "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260331594728/"
+              "title": "「お相手は成金社長とは真逆のタイプ」...篠田麻里子 電撃再婚の裏に隠された「娘ファースト」",
+              "url": "https://topics.smt.docomo.ne.jp/article/friday/entertainment/friday-462985"
             },
             {
-              "title": "当社株式の上場廃止の決定及び整理銘柄の指定に関するお知らせ 投稿日時： 2026/03/31 18:30[適時開示]",
-              "url": "https://minkabu.jp/news/4478732"
+              "title": "《会食後1人ジムに直行》再婚発表の篠田麻里子（40）、“連ドラ連続内定”を実現した「ストイックな生活」…次は「松本まりか（41）さながらの悪女役」",
+              "url": "https://www.news-postseven.com/archives/20260331_2100926.html?DETAIL"
             }
           ]
         },
         {
           "rank": 7,
-          "keyword": "関東学院大学",
-          "traffic": "100+",
-          "related_news": []
-        },
-        {
-          "rank": 8,
-          "keyword": "iphone 18 pro max",
+          "keyword": "ダム貯水率",
           "traffic": "1000+",
           "related_news": [
             {
-              "title": "iPhone 20は「真のガラス板」を目指してるけど、まだ難しいらしい",
-              "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260401_1775001932172694"
+              "title": "貯水率0%→5%台に戻った 渇水の宇連ダムに“恵みの雨” きょうの緊急導水見送り 水不足心配で愛知のアスパラガス農家は？",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2567500"
             },
             {
-              "title": "iPhone18 Proの背面デザインが変更〜本体と背面ガラスの色味が統一へ？ - iPhone Mania",
-              "url": "https://iphone-mania.jp/iphone18-601153/"
+              "title": "東三河の渇水問題、宇連ダムの貯水率が1月初旬以来の10％超え 豊橋市では農地への通水を一部再開",
+              "url": "https://www.chunichi.co.jp/article/1231560"
             },
             {
-              "title": "iPhone 18 Proの「小型化されたDynamic Island」の写真がリーク。しかしリーク元……誰？",
-              "url": "https://gori.me/iphone/iphone-news/165089"
+              "title": "41年ぶり“緊急導水”に静岡県も協力...危機的な水不足が続く愛知県の豊川用水 「2つの水源」から異例の支援へ",
+              "url": "https://news.yahoo.co.jp/articles/266c2406c5994f157359d0cf2bc99d7b19fa5078"
             }
           ]
         },
         {
-          "rank": 9,
-          "keyword": "退所",
-          "traffic": "2000+",
+          "rank": 8,
+          "keyword": "永野",
+          "traffic": "200+",
           "related_news": []
         },
         {
-          "rank": 10,
-          "keyword": "ネッツ 対 ホーネッツ",
-          "traffic": "200+",
+          "rank": 9,
+          "keyword": "永尾まりや",
+          "traffic": "1000+",
           "related_news": [
             {
-              "title": "Charlotte Hornets vs Brooklyn Nets Mar 31, 2026 Box Scores",
-              "url": "https://www.nba.com/game/cha-vs-bkn-0022501100/box-score"
+              "title": "“イケメン格闘家”白鳥大珠と元AKB永尾まりやが真剣交際！ 恋リア「ラブキン2」でカップル成立（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/ea4f63b0769b1990ea3a9c4d41d01cf3cbffa3a0"
             },
             {
-              "title": "Hornets tie franchise record with 26 3-pointers against Kings team with 10 players out",
-              "url": "https://sports.yahoo.com/nba/article/hornets-tie-franchise-record-with-26-3-pointers-against-kings-team-with-10-players-out-025549542.html"
+              "title": "「悔いはない」「本能のままに好きって思う人に投票」 結果発表を直前に控えたメンバーたちの心境 『ラブパワーキングダム2』第8話",
+              "url": "https://article.auone.jp/detail/1/5/9/37_9_r_20260401_1775039245917944"
             },
             {
-              "title": "Kings Hornets Basketball",
-              "url": "https://www.bdtonline.com/sports/national_sports/kings-hornets-basketball/image_acd08585-3592-551a-97c5-759e06322cc8.html"
+              "title": "『ラブパワーキングダム2』格闘家・白鳥大珠＆元AKB48・永尾まりやが真剣交際へ「結婚を前提に付き合いたい」",
+              "url": "https://mainichi.jp/articles/20260402/orc/00m/200/000000c"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "トランプ 演説",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "トランプ氏、イラン巡り「合意があろうとなかろうと我々は撤退する」…「重要な最新情報」２日午前１０時演説",
+              "url": "https://www.yomiuri.co.jp/world/20260401-GYT1T00324/"
+            },
+            {
+              "title": "トランプ氏、イラン新指導者が停戦要請と投稿 イラン側は否定",
+              "url": "https://jp.reuters.com/world/security/DZB4F6C57NOKDLHQLHLXGISM5I-2026-04-01/"
+            },
+            {
+              "title": "ホルムズ封鎖解除、関与否定 各国に責任転嫁、対米不信も―トランプ氏",
+              "url": "https://www.jiji.com/jc/article?k=2026040100931&g=int&p=20260401at72S&rel=pv"
             }
           ]
         }
@@ -817,78 +837,78 @@
       "keyword_interest": [
         {
           "keyword": "骨格診断",
-          "interest_avg": 44,
+          "interest_avg": 45,
           "interest_max": 100,
-          "interest_latest": 27,
+          "interest_latest": 48,
           "rank": 1
         },
         {
           "keyword": "ユニクロコーデ",
-          "interest_avg": 36,
+          "interest_avg": 41,
           "interest_max": 100,
-          "interest_latest": 28,
+          "interest_latest": 0,
           "rank": 2
         },
         {
           "keyword": "ミニマル",
-          "interest_avg": 26,
-          "interest_max": 100,
-          "interest_latest": 30,
+          "interest_avg": 33,
+          "interest_max": 90,
+          "interest_latest": 90,
           "rank": 3
         },
         {
           "keyword": "GUコーデ",
-          "interest_avg": 21,
-          "interest_max": 74,
-          "interest_latest": 13,
+          "interest_avg": 26,
+          "interest_max": 71,
+          "interest_latest": 0,
           "rank": 4
         },
         {
           "keyword": "ストリート系",
-          "interest_avg": 16,
-          "interest_max": 61,
-          "interest_latest": 17,
+          "interest_avg": 21,
+          "interest_max": 100,
+          "interest_latest": 82,
           "rank": 5
         },
         {
           "keyword": "韓国ファッション",
-          "interest_avg": 9,
-          "interest_max": 49,
+          "interest_avg": 12,
+          "interest_max": 59,
           "interest_latest": 0,
           "rank": 6
         },
         {
           "keyword": "古着コーデ",
-          "interest_avg": 1,
-          "interest_max": 28,
+          "interest_avg": 2,
+          "interest_max": 29,
           "interest_latest": 0,
           "rank": 7
         },
         {
           "keyword": "Y2Kファッション",
           "interest_avg": 0,
-          "interest_max": 20,
+          "interest_max": 16,
           "interest_latest": 0,
           "rank": 8
         },
         {
           "keyword": "着回しコーデ",
           "interest_avg": 0,
-          "interest_max": 15,
+          "interest_max": 13,
           "interest_latest": 0,
           "rank": 9
         },
         {
           "keyword": "季節コーデ",
           "interest_avg": 0,
-          "interest_max": 11,
+          "interest_max": 15,
           "interest_latest": 0,
           "rank": 10
         },
         {
           "keyword": "プチプラコーデ",
           "interest_avg": 0,
-          "interest_max": 0,
+          "interest_max": 13,
           "interest_latest": 0,
           "rank": 11
         }
@@ -909,5 +929,5 @@
       ]
     }
   },
-  "collected_at": "2026-04-01T02:46:26.430258+00:00"
+  "collected_at": "2026-04-01T15:13:09.083604+00:00"
 }

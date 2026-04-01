@@ -9,13 +9,13 @@
   "top_rising": [
     {
       "keyword": "trend",
-      "growth": "+94%",
-      "total_mentions": 160
+      "growth": "+88%",
+      "total_mentions": 159
     },
     {
       "keyword": "dance",
-      "growth": "+211%",
-      "total_mentions": 126
+      "growth": "+133%",
+      "total_mentions": 119
     },
     {
       "keyword": "바람막이",
@@ -34,6 +34,14 @@
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "패션",
+      "platforms": [
+        "google_trends",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "만우절 장난",
       "platforms": [

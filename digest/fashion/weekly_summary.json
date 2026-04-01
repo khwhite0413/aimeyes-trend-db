@@ -35,6 +35,14 @@
   ],
   "most_cross_platform": [
     {
+      "keyword": "패션",
+      "platforms": [
+        "google_trends",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
       "keyword": "블라우스",
       "platforms": [
         "naver",
@@ -60,14 +68,6 @@
     },
     {
       "keyword": "후드집업",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "청바지",
       "platforms": [
         "naver",
         "youtube"
