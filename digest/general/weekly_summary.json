@@ -1,39 +1,47 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-03-25",
-    "to": "2026-03-31"
+    "from": "2026-03-26",
+    "to": "2026-04-01"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "trend",
-      "growth": "+35%",
-      "total_mentions": 149
+      "growth": "+94%",
+      "total_mentions": 160
     },
     {
       "keyword": "dance",
-      "growth": "+162%",
-      "total_mentions": 106
+      "growth": "+211%",
+      "total_mentions": 126
     },
     {
       "keyword": "바람막이",
       "growth": "+9%",
-      "total_mentions": 82
+      "total_mentions": 83
     },
     {
       "keyword": "여성가디건",
-      "growth": "+20%",
-      "total_mentions": 80
+      "growth": "+9%",
+      "total_mentions": 82
     },
     {
       "keyword": "여성봄자켓",
-      "growth": "+38%",
-      "total_mentions": 71
+      "growth": "+22%",
+      "total_mentions": 74
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "만우절 장난",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "청바지",
       "platforms": [
@@ -52,8 +60,8 @@
   ],
   "top_keywords_overall": [
     "trend",
-    "#viral",
     "dance",
+    "#viral",
     "트위드자켓",
     "원피스",
     "트렌치코트",

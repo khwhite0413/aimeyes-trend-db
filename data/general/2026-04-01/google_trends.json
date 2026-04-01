@@ -1,0 +1,711 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "류화영",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "티아라 출신 배우 류화영, 9월 12일 결혼",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8523923"
+            },
+            {
+              "title": "티아라 출신 류화영 9월 결혼…남편 3살 연상 사업가",
+              "url": "https://www.newsis.com/view/NISX20260401_0003572707"
+            },
+            {
+              "title": "티아라 출신 류화영, ‘9월의 신부’된다…예비신랑은 3살 연상 사업가",
+              "url": "https://biz.heraldcorp.com/article/10707203"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "박덕흠",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "장동혁 \"국힘 새 공천위원장, 충북 4선 박덕흠 의원 모실 것\"",
+              "url": "https://v.daum.net/v/20260401094425979"
+            },
+            {
+              "title": "[속보]국민의힘 새 공관위원장에 충청 4선 박덕흠 의원",
+              "url": "https://www.chosun.com/politics/assembly/2026/04/01/FUE46SJ3HBHJVHE5IC6622U7XY/"
+            },
+            {
+              "title": "장동혁 \"새 공관위원장에 박덕흠‥재판장이 윤리위원장 하시라\"",
+              "url": "https://imnews.imbc.com/news/2026/politics/article/6811819_36911.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "민방위 교육",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "대전 민방위 교육, 실전형 강사 30명 위촉",
+              "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1070788"
+            },
+            {
+              "title": "울산시, 직장민방위대장 교육… 재난 대응 역량 강화",
+              "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065591274154826"
+            },
+            {
+              "title": "수원시 팔달구, 2026년 지역민방위대장 교육으로 위기 현장 대응능력 강화!",
+              "url": "https://nuriilbo.com/news/article.html?no=831062"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "검은사막",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "펄어비스 '검은사막', 만우절 및 부활절 기념 대규모 이벤트 실시",
+              "url": "https://m.news.nate.com/view/20260401n17806?mid=m05&list=recent&cpcd="
+            },
+            {
+              "title": "[정보] 소서러와 다크나이트 전이 비용 1은화, 고드아이드 장비 삭제",
+              "url": "https://www.inven.co.kr/webzine/news/?news=314738&site=black"
+            },
+            {
+              "title": "'하늘 나는 당나귀'부터 '달걀왕'까지…펄어비스 '검은사막', 만우절·부활절 이벤트 개막",
+              "url": "https://www.youthdaily.co.kr/mobile/article.html?no=216609"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "민방위",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "충남도, 공습대비 민방위훈련 실시",
+              "url": "http://www.jamill.kr/news/articleView.html?idxno=459653"
+            },
+            {
+              "title": "양주시, 2026년 민방위대원 기본교육 실시",
+              "url": "http://www.mediatoday.asia/sub_read.html?uid=1683519&section=sc18&section2=%EC%96%91%EC%A3%BC"
+            },
+            {
+              "title": "이도형 권한대행 \"민방위 훈련, 신속 대응체계 구축 목적\"",
+              "url": "https://skbnews.kr/news/article.html?no=51540"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "한국장학재단",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "2026 중견기업 일자리 박람회",
+              "url": "https://www.newsis.com/view/NISI20260331_0021228853"
+            },
+            {
+              "title": "북적이는 취업시장",
+              "url": "https://www.yna.co.kr/view/PYH20260331102000013"
+            },
+            {
+              "title": "한국장학재단, '중견기업 일자리 박람회'…우수기업 100곳 구직자 6000명 참석",
+              "url": "https://v.daum.net/v/20260331175125531"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "국민카드",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[금융 이모저모] KB국민카드, 스테이블코인 하이브리드 결제모델 구현…카드 한 장으로 신용·디지털 자산 결제",
+              "url": "https://www.greened.kr/news/articleView.html?idxno=338678"
+            },
+            {
+              "title": "KB국민카드, 아발란체·오픈에셋과 협업해 '스테이블코인 결제' 준비 속도",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=434541"
+            },
+            {
+              "title": "니움, 비자·마스터카드 기반 스테이블코인 카드 발급 플랫폼 출시",
+              "url": "https://news.nate.com/view/20260331n33267"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "청약홈",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "더샵 신길센트럴시티 1순위 청약 평균 경쟁률 31.9대 1",
+              "url": "https://www.newsis.com/view/NISX20260401_0003572639"
+            },
+            {
+              "title": "\"강남 로또 청약보다 더 관심\"…국평 19억에 1.5만명 몰렸다 [주간이집]",
+              "url": "https://v.daum.net/v/20260401080259253"
+            },
+            {
+              "title": "4월 전국 아파트 3만2793가구 일반분양…전월 대비 211% 증가",
+              "url": "https://www.viva100.com/article/20260401500417"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "april fools day",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "From spaghetti harvests to fake news: why the glory days of April Fools gags are over",
+              "url": "https://theconversation.com/from-spaghetti-harvests-to-fake-news-why-the-glory-days-of-april-fools-gags-are-over-279331"
+            },
+            {
+              "title": "April Fools’ Day: Fun, lighthearted pranks to pull on your kids and families",
+              "url": "https://fox4kc.com/news/april-fools-day-fun-lighthearted-pranks-to-pull-on-your-kids-and-families/"
+            },
+            {
+              "title": "APRIL 1, 2026 | APRIL FOOLS' DAY | NATIONAL TOM FOOLERYS DAY | PASSOVER BEGINS | TAKE DOWN TOBACCO NATIONAL DAY OF ACTION | NATIONAL SOURDOUGH BREAD DAY | NATIONAL WALKING DAY | NATIONAL ONE CENT DAY | CHIL",
+              "url": "https://www.nationaldaycalendar.com/read/april-1-2026-april-fools-day-national-tom-foolerys-day-passover-begins-take-down-tobacco-national-day-of-action-national-sourdough-bread-day-national-walking-day-national-one-cent-day-childhelp-national-day-of-hope"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "식목일",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "탄소흡수원 확충을 위한 민간참여 나무심기 - 사진 | 멀티미디어",
+              "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=70245"
+            },
+            {
+              "title": "충청북도교육청, 식목일 맞아 녹색 교육환경 조성 박차",
+              "url": "https://www.viva100.com/article/20260331501613"
+            },
+            {
+              "title": "“나무야 잘 자라렴”",
+              "url": "https://www.chosun.com/national/transport-environment/2026/04/01/KZ4ZFYCPNJBWNLN2CT7LL7TGRQ/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 4,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 2,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 52,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "jalen duren",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "3 starters returning for Pistons after missing wild overtime game",
+              "url": "https://www.mlive.com/pistons/2026/03/3-starters-returning-for-pistons-after-missing-wild-overtime-game.html"
+            },
+            {
+              "title": "Pistons’ Jalen Duren injury update vs. Raptors after missing wild Thunder game",
+              "url": "https://sports.yahoo.com/articles/pistons-jalen-duren-injury-vs-193611419.html"
+            },
+            {
+              "title": "Jalen Duren is Back in Action on Tuesday - NBA News | Fantasy Basketball",
+              "url": "https://www.rotoballer.com/player-news/jalen-duren-is-back-in-action-on-tuesday/1838073"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "savannah bananas",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Dairy Queen offers $.99 Blizzard deal alongside return of summer flavors",
+              "url": "https://www.usatoday.com/story/money/food/2026/03/30/99-cent-blizzard-from-dairy-queen-summer-flavors-return/89391486007/"
+            },
+            {
+              "title": "Dairy Queen Is Turning A Beloved Spring Dessert Into An All-New Blizzard",
+              "url": "https://www.yahoo.com/lifestyle/articles/dairy-queen-turning-beloved-spring-141000417.html"
+            },
+            {
+              "title": "DQ Launches \"Countdown to Summer\" Blizzard Treat Collection",
+              "url": "https://williamsonsource.com/dq-launches-countdown-to-summer-blizzard-treat-collection/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "willy adames",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Measuring the stats on Willy Adames' home run",
+              "url": "https://www.mlb.com/giants/video/measuring-the-stats-on-willy-adames-home-run-x4776"
+            },
+            {
+              "title": "Willy Adames News: Getting turn in leadoff spot",
+              "url": "https://www.rotowire.com/baseball/headlines/willy-adames-news-getting-turn-in-leadoff-spot-995003"
+            },
+            {
+              "title": "Willy Adames Back in Leadoff Spot at Petco Park on Tuesday - MLB News | Fantasy Baseball",
+              "url": "https://www.rotoballer.com/player-news/willy-adames-back-in-leadoff-spot-at-petco-park-on-tuesday/1837965"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "paradise show",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Breaking Down the Astonishing Ending of Paradise Season 2",
+              "url": "https://time.com/article/2026/03/30/breaking-down-ending-paradise-season-2/"
+            },
+            {
+              "title": "'Paradise' Season 2 Finale: The Burning Questions Left Unanswered",
+              "url": "https://deadline.com/2026/03/paradise-season-2-finale-recap-questions-left-unanswered-1236762668/"
+            },
+            {
+              "title": "Paradise's Latest Casualty Speaks: Why They Didn't Fight Back and What the Exit Means for Sinatra (Exclusive)",
+              "url": "https://people.com/the-latest-paradise-casualty-speaks-why-they-didnt-fight-back-11934378"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "where to watch cleveland guardians vs dodgers",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Where to watch Cleveland Guardians vs. Los Angeles Dodgers: Live stream, start time, TV Channel, odds for Monday, March 30",
+              "url": "https://sports.yahoo.com/mlb/article/where-to-watch-cleveland-guardians-vs-los-angeles-dodgers-live-stream-start-time-tv-channel-odds-for-monday-march-30-141037757.html"
+            },
+            {
+              "title": "Guardians vs. Dodgers FREE STREAM today: Where to watch MLB",
+              "url": "https://www.cleveland.com/tv/2026/03/guardians-vs-dodgers-free-stream-today-where-to-watch-mlb.html"
+            },
+            {
+              "title": "Guardians vs Dodgers Prediction, Best Bets & Home Run Pick for Tonight's MLB Game",
+              "url": "https://www.covers.com/mlb/guardians-vs-dodgers-prediction-picks-odds-tuesday-3-31-2026"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "rob refsnyder",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "A brief foray into the Mariners lineup construction against lefties",
+              "url": "https://www.lookoutlanding.com/seattle-mariners-scores-standings/140986/about-last-night-a-brief-foray-into-lineup-construction"
+            },
+            {
+              "title": "Mitch Garver Absent From Seattle Mariners First Lineup Against Left-Handed Pitching",
+              "url": "https://ca.sports.yahoo.com/news/mitch-garver-absent-seattle-mariners-232341166.html"
+            },
+            {
+              "title": "Mariners show new lineup facing first lefty starter",
+              "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-show-new-lineup-facing-first-lefty-starter/1844008"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "dodgers vs guardians",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Ohtani to make 2026 pitching debut tonight (7 p.m. PT)",
+              "url": "https://www.mlb.com/news/shohei-ohtani-2026-regular-season-pitching-debut"
+            },
+            {
+              "title": "Los Angeles Dodgers vs. Cleveland Guardians: How to watch Shohei Ohtani's first pitching start tonight, streaming info and more",
+              "url": "https://sports.yahoo.com/mlb/article/los-angeles-dodgers-vs-cleveland-guardians-how-to-watch-shohei-ohtanis-first-pitching-start-tonight-streaming-info-and-more-160050936.html"
+            },
+            {
+              "title": "Shohei Ohtani makes his regular season pitching debut",
+              "url": "https://www.truebluela.com/dodgers-scores-standings/112490/shohei-ohtani-makes-debut"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "banana ball",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Beyond the Cape: Banana Ball’s Reese Alexiades and His Family Ties to Disney",
+              "url": "https://disneyparksblog.com/disney-experiences/banana-ball-reese-alexiades-family-ties-to-disney/"
+            },
+            {
+              "title": "San Diego Native making waves as part of Banana Ball craze",
+              "url": "https://fox5sandiego.com/video/san-diego-native-making-waves-as-part-of-banana-ball-craze/11655280/"
+            },
+            {
+              "title": "San Diego Native making waves as part of Banana Ball craze",
+              "url": "https://fox5sandiego.com/sports/san-diego-native-making-waves-as-part-of-banana-ball-craze/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "cam smith",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Astros’ Cam Smith swung at strike three, then walked in a bizarre mishap",
+              "url": "https://www.nytimes.com/athletic/7162829/2026/03/31/astros-red-sox-cam-smith-missed-strike-three/"
+            },
+            {
+              "title": "Cam Smith's incredible running catch in foul ground",
+              "url": "https://www.mlb.com/astros/video/kai-wei-teng-in-play-out-s-to-zach-neto"
+            },
+            {
+              "title": "Astros' Cam Smith takes early MLB lead in important stat",
+              "url": "https://sports.yahoo.com/articles/astros-cam-smith-takes-early-212637463.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "tyrus",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Dr. Drew: The Truth About Narcissism, Addiction, and Recovery | Planet Tyrus",
+              "url": "https://www.foxnews.com/video/6392255963112"
+            },
+            {
+              "title": "Dr. Drew: The Truth About Narcissism, Addiction, and Recovery | Planet Tyrus",
+              "url": "https://www.yahoo.com/news/videos/dr-drew-truth-narcissism-addiction-135827824.html"
+            },
+            {
+              "title": "PlanetTyrus Dr Drew FULL",
+              "url": "https://www.foxnews.com/video/6392254346112"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 56,
+          "interest_max": 100,
+          "interest_latest": 67,
+          "rank": 1
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 7,
+          "interest_max": 100,
+          "interest_latest": 7,
+          "rank": 2
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 2,
+          "interest_max": 9,
+          "interest_latest": 2,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 1,
+          "interest_max": 6,
+          "interest_latest": 2,
+          "rank": 4
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 1,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 2,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ロサンゼルス・ドジャース",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "ドジャース佐々木朗希から聞こえる「自己中離脱」のカウントダウン",
+              "url": "https://article.auone.jp/detail/1/6/10/467_10_r_20260401_1775009612121041"
+            },
+            {
+              "title": "佐々木朗希は今季初登板から一夜明け“裸足トレーニング”敢行！外野で靴履かずストレッチ＆ランニング",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260401-0166?fm=latestnews"
+            },
+            {
+              "title": "【ヤフコメで話題】「佐々木朗希の制球とメンタルに注目」「MLBでの適応と今後の成長を期待」 - 初登板後の評価と課題に多様な意見",
+              "url": "https://news.yahoo.co.jp/articles/e358034b49fcbab843daa5aa94c60dbc00993b62"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "クリーブランド",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "26 Reasons to Love Cleveland Right Now",
+              "url": "https://www.clevelandmagazine.com/articles/26-reasons-to-love-cleveland-right-now/"
+            },
+            {
+              "title": "Cleveland house fire displaces 2 adults, 3 children",
+              "url": "https://www.cleveland19.com/2026/03/29/cleveland-house-fire-displaces-2-adults-3-children/"
+            },
+            {
+              "title": "House fire in Cleveland displaces 2 adults, 3 children",
+              "url": "https://www.wkyc.com/article/news/local/cleveland/house-fire-cleveland-displaces-2-adults-3-children-parkmount-avenue/95-08b442ae-5b21-46c2-8a73-6aea1a797f08"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "株式会社嵐",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "ガーディアンズ",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "大谷翔平が今季初の1番投手兼DH ドジャース日本投手ローテ3連戦",
+              "url": "https://www.asahi.com/articles/ASV3036V3V30UTQP00YM.html"
+            },
+            {
+              "title": "「１番投手」大谷翔平が今季初登板初先発、初回３者凡退好発進、最速１５９・６キロマーク　初勝利＆１号なるか",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260401-OHT1T51076"
+            },
+            {
+              "title": "大谷翔平、今季初の”投打二刀流”初回は三者凡退に抑える、最速は159キロ（中日スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/f704b2d079696f60dfa167ad7093e49b601fb32c"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ノジマ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "65歳以上シニア従業員が100名を突破！",
+              "url": "https://prtimes.jp/main/html/rd/p/000000069.000163436.html"
+            },
+            {
+              "title": "65歳以上シニア従業員が100名を突破！～年齢に関係なく活躍の場を提供～",
+              "url": "https://news.nifty.com/article/item/neta/12310-5090936/"
+            },
+            {
+              "title": "2025年度ノジマアントレプレナーシップ塾Bコースを実施しました |",
+              "url": "https://www.chuo-u.ac.jp/campuslife/business_award/news/2026/03/85195/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "レイカーズ 対 キャバリアーズ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "【4月1日】八村塁出場予定 レイカーズvsキャバリアーズのテレビ放送・ネット配信｜NBA 20... | Lemino ニュース",
+              "url": "https://lemino.docomo.ne.jp/leminonews/articles/nba-lakers-cavaliers-streaming-20260401"
+            },
+            {
+              "title": "【NBA】ペイサーズVSレイカーズのカメラ席に美女が！“歴史を変えた”女子バスケ選手の姿にネット反響（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/a384540ea0710cafe0ce7a1190728a3b0baba4e2"
+            },
+            {
+              "title": "【NBA】ペイサーズVSレイカーズのカメラ席に美女が！“歴史を変えた”女子バスケ選手の姿にネット反響 (2026年3月26日掲載)",
+              "url": "https://news.livedoor.com/topics/detail/30846365/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "バックス 対 マーベリックス",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Mavericks vs Bucks Preview and Injury Update: Who wants it less?",
+              "url": "https://sports.yahoo.com/articles/mavericks-vs-bucks-preview-injury-000403262.html"
+            },
+            {
+              "title": "Dallas Mavericks at Milwaukee Bucks odds, picks and predictions",
+              "url": "https://sportsbookwire.usatoday.com/story/sports/nba/2026/03/31/mavericks-at-bucks-odds-picks-and-predictions/89398933007/"
+            },
+            {
+              "title": "Rapid Recap: Bucks 123, Mavericks 99",
+              "url": "https://www.brewhoop.com/bucks-scores-results/63276/milwaukee-vs-dallas-mavericks-final-score-recap-kyle-kuzma-ryan-rollins-cooper-flagg"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "スターリンク衛星",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "スターリンク衛星、宇宙で分解した可能性",
+              "url": "https://japan.cnet.com/article/35245862/"
+            },
+            {
+              "title": "スペースX社のスターリンク衛星が軌道上で爆発し、数十個の破片が飛び散った。",
+              "url": "https://www.vietnam.vn/ja/ve-tinh-starlink-cua-spacex-phat-no-tren-quy-dao-tao-hang-chuc-manh-vo"
+            },
+            {
+              "title": "スターリンク衛星、宇宙で分解した可能性",
+              "url": "https://article.auone.jp/detail/1/3/7/369_7_r_20260401_1774993256691040"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ビーマップ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ビーマップ－売り気配 整理銘柄に指定 上場廃止へ(トレーダーズ・ウェブ)",
+              "url": "https://finance.yahoo.co.jp/news/detail/f2a9c28ece5c9848de0f9102e3806a20571f2878"
+            },
+            {
+              "title": "ビーマップ[4316]：当社株式の上場廃止の決定及び整理銘柄の指定に関するお知らせ 2026年3月31日(適時開示) ：日経会社情報DIGITAL",
+              "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260331594728/"
+            },
+            {
+              "title": "当社株式の上場廃止の決定及び整理銘柄の指定に関するお知らせ 投稿日時： 2026/03/31 18:30[適時開示]",
+              "url": "https://minkabu.jp/news/4478732"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "関東学院大学",
+          "traffic": "100+",
+          "related_news": []
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 24,
+          "interest_max": 99,
+          "interest_latest": 40,
+          "rank": 1
+        },
+        {
+          "keyword": "バズった",
+          "interest_avg": 20,
+          "interest_max": 100,
+          "interest_latest": 19,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 6,
+          "interest_max": 43,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 2,
+          "interest_max": 59,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 45,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-04-01T02:48:46.160832+00:00"
+}
