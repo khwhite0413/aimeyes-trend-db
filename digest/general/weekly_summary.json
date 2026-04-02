@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-03-26",
-    "to": "2026-04-01"
+    "from": "2026-03-27",
+    "to": "2026-04-02"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "trend",
-      "growth": "+88%",
-      "total_mentions": 159
-    },
-    {
       "keyword": "dance",
-      "growth": "+133%",
-      "total_mentions": 119
-    },
-    {
-      "keyword": "바람막이",
-      "growth": "+9%",
-      "total_mentions": 83
+      "growth": "+25%",
+      "total_mentions": 125
     },
     {
       "keyword": "여성가디건",
       "growth": "+9%",
-      "total_mentions": 82
+      "total_mentions": 83
     },
     {
       "keyword": "여성봄자켓",
+      "growth": "+20%",
+      "total_mentions": 77
+    },
+    {
+      "keyword": "#shorts",
+      "growth": "+86%",
+      "total_mentions": 75
+    },
+    {
+      "keyword": "블라우스",
       "growth": "+22%",
-      "total_mentions": 74
+      "total_mentions": 70
     }
   ],
   "most_cross_platform": [
@@ -43,7 +43,7 @@
       "count": 2
     },
     {
-      "keyword": "만우절 장난",
+      "keyword": "트럼프 연설",
       "platforms": [
         "google_trends",
         "x_twitter"
@@ -57,14 +57,22 @@
         "youtube"
       ],
       "count": 2
+    },
+    {
+      "keyword": "만우절 장난",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
     }
   ],
   "naver_shopping_hot": [
     "트위드자켓",
     "원피스",
     "트렌치코트",
-    "바람막이",
-    "여성가디건"
+    "여성가디건",
+    "바람막이"
   ],
   "top_keywords_overall": [
     "trend",
@@ -75,7 +83,7 @@
     "트렌치코트",
     "바람막이",
     "여성가디건",
-    "#shorts",
-    "여성봄자켓"
+    "여성봄자켓",
+    "#shorts"
   ]
 }
