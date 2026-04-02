@@ -1,27 +1,27 @@
 {
   "run_date": "2026-04-02",
-  "run_timestamp": "2026-04-02T02:30:50.001225+00:00",
+  "run_timestamp": "2026-04-02T15:04:04.566079+00:00",
   "mode": "fashion",
   "results": {
     "youtube": {
       "status": "success",
-      "items": 103
+      "items": 101
     },
     "google_trends": {
       "status": "success",
-      "items": 109
+      "items": 104
     },
     "x_twitter": {
       "status": "success",
-      "items": 276
+      "items": 275
     },
     "naver": {
       "status": "success",
       "items": 24
     },
     "pinterest": {
-      "status": "error",
-      "reason": "HTTPSConnectionPool(host='business.pinterest.com', port=443): Max retries exceeded with url: /pinterest-predicts/2026/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f78b1b3c710>, 'Connection to business.pinterest.com timed out. (connect timeout=15)'))"
+      "status": "success",
+      "items": 36
     }
   }
 }

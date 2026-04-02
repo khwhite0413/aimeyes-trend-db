@@ -8,9 +8,14 @@
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "trend",
+      "growth": "+50%",
+      "total_mentions": 167
+    },
+    {
       "keyword": "dance",
-      "growth": "+25%",
-      "total_mentions": 125
+      "growth": "+33%",
+      "total_mentions": 126
     },
     {
       "keyword": "여성가디건",
@@ -23,22 +28,17 @@
       "total_mentions": 77
     },
     {
-      "keyword": "#shorts",
-      "growth": "+86%",
-      "total_mentions": 75
-    },
-    {
-      "keyword": "블라우스",
-      "growth": "+22%",
-      "total_mentions": 70
+      "keyword": "#tiktok",
+      "growth": "+11%",
+      "total_mentions": 74
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "패션",
+      "keyword": "만우절 장난",
       "platforms": [
         "google_trends",
-        "youtube"
+        "x_twitter"
       ],
       "count": 2
     },
@@ -59,10 +59,10 @@
       "count": 2
     },
     {
-      "keyword": "만우절 장난",
+      "keyword": "패션",
       "platforms": [
         "google_trends",
-        "x_twitter"
+        "youtube"
       ],
       "count": 2
     }
@@ -84,6 +84,6 @@
     "바람막이",
     "여성가디건",
     "여성봄자켓",
-    "#shorts"
+    "#tiktok"
   ]
 }
