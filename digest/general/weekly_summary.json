@@ -1,39 +1,47 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-03-27",
-    "to": "2026-04-02"
+    "from": "2026-03-28",
+    "to": "2026-04-03"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "trend",
-      "growth": "+50%",
-      "total_mentions": 167
-    },
-    {
       "keyword": "dance",
-      "growth": "+33%",
-      "total_mentions": 126
+      "growth": "+23%",
+      "total_mentions": 130
     },
     {
-      "keyword": "여성가디건",
+      "keyword": "#shorts",
       "growth": "+9%",
-      "total_mentions": 83
+      "total_mentions": 79
     },
     {
       "keyword": "여성봄자켓",
-      "growth": "+20%",
-      "total_mentions": 77
+      "growth": "+9%",
+      "total_mentions": 79
     },
     {
-      "keyword": "#tiktok",
-      "growth": "+11%",
-      "total_mentions": 74
+      "keyword": "블라우스",
+      "growth": "+22%",
+      "total_mentions": 72
+    },
+    {
+      "keyword": "#dance",
+      "growth": "+50%",
+      "total_mentions": 44
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "패션",
+      "platforms": [
+        "google_trends",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "만우절 장난",
       "platforms": [
@@ -57,33 +65,25 @@
         "youtube"
       ],
       "count": 2
-    },
-    {
-      "keyword": "패션",
-      "platforms": [
-        "google_trends",
-        "youtube"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
-    "트위드자켓",
     "원피스",
+    "트위드자켓",
+    "바람막이",
     "트렌치코트",
-    "여성가디건",
-    "바람막이"
+    "여성봄자켓"
   ],
   "top_keywords_overall": [
     "trend",
     "dance",
     "#viral",
-    "트위드자켓",
     "원피스",
-    "트렌치코트",
+    "트위드자켓",
     "바람막이",
+    "트렌치코트",
     "여성가디건",
-    "여성봄자켓",
-    "#tiktok"
+    "#shorts",
+    "여성봄자켓"
   ]
 }

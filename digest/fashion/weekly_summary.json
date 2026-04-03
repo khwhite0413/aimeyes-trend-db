@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-03-27",
-    "to": "2026-04-02"
+    "from": "2026-03-28",
+    "to": "2026-04-03"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+17%",
-      "total_mentions": 110
-    },
-    {
-      "keyword": "원피스",
-      "growth": "+8%",
-      "total_mentions": 88
-    },
-    {
-      "keyword": "여성가디건",
-      "growth": "+9%",
-      "total_mentions": 83
+      "growth": "+82%",
+      "total_mentions": 112
     },
     {
       "keyword": "블라우스",
-      "growth": "+20%",
-      "total_mentions": 81
+      "growth": "+10%",
+      "total_mentions": 82
     },
     {
       "keyword": "여성봄자켓",
-      "growth": "+20%",
-      "total_mentions": 77
+      "growth": "+9%",
+      "total_mentions": 79
+    },
+    {
+      "keyword": "outfit",
+      "growth": "+60%",
+      "total_mentions": 46
+    },
+    {
+      "keyword": "여성봄점퍼",
+      "growth": "+167%",
+      "total_mentions": 39
     }
   ],
   "most_cross_platform": [
@@ -38,22 +38,6 @@
       "keyword": "패션",
       "platforms": [
         "google_trends",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "블라우스",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "원피스",
-      "platforms": [
-        "naver",
         "youtube"
       ],
       "count": 2
@@ -73,21 +57,37 @@
         "x_twitter"
       ],
       "count": 2
+    },
+    {
+      "keyword": "원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "블라우스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
     }
   ],
   "naver_shopping_hot": [
-    "트위드자켓",
     "원피스",
+    "트위드자켓",
+    "바람막이",
     "트렌치코트",
-    "여성가디건",
-    "바람막이"
+    "여성봄자켓"
   ],
   "top_keywords_overall": [
     "fashion",
     "원피스",
     "트위드자켓",
-    "트렌치코트",
     "바람막이",
+    "트렌치코트",
     "여성가디건",
     "블라우스",
     "여성봄자켓",
