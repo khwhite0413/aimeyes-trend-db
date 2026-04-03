@@ -8,14 +8,14 @@
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "dance",
-      "growth": "+23%",
-      "total_mentions": 130
+      "keyword": "trend",
+      "growth": "+9%",
+      "total_mentions": 175
     },
     {
-      "keyword": "#shorts",
-      "growth": "+9%",
-      "total_mentions": 79
+      "keyword": "dance",
+      "growth": "+46%",
+      "total_mentions": 133
     },
     {
       "keyword": "여성봄자켓",
@@ -28,9 +28,9 @@
       "total_mentions": 72
     },
     {
-      "keyword": "#dance",
-      "growth": "+50%",
-      "total_mentions": 44
+      "keyword": "#trending",
+      "growth": "+17%",
+      "total_mentions": 54
     }
   ],
   "most_cross_platform": [
@@ -38,6 +38,14 @@
       "keyword": "패션",
       "platforms": [
         "google_trends",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "청바지",
+      "platforms": [
+        "naver",
         "youtube"
       ],
       "count": 2
@@ -55,14 +63,6 @@
       "platforms": [
         "google_trends",
         "x_twitter"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "청바지",
-      "platforms": [
-        "naver",
-        "youtube"
       ],
       "count": 2
     }
@@ -83,7 +83,7 @@
     "바람막이",
     "트렌치코트",
     "여성가디건",
-    "#shorts",
-    "여성봄자켓"
+    "여성봄자켓",
+    "#shorts"
   ]
 }

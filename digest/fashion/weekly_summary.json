@@ -9,13 +9,18 @@
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+82%",
-      "total_mentions": 112
+      "growth": "+73%",
+      "total_mentions": 111
+    },
+    {
+      "keyword": "원피스",
+      "growth": "+8%",
+      "total_mentions": 89
     },
     {
       "keyword": "블라우스",
-      "growth": "+10%",
-      "total_mentions": 82
+      "growth": "+20%",
+      "total_mentions": 83
     },
     {
       "keyword": "여성봄자켓",
@@ -23,14 +28,9 @@
       "total_mentions": 79
     },
     {
-      "keyword": "outfit",
-      "growth": "+60%",
-      "total_mentions": 46
-    },
-    {
-      "keyword": "여성봄점퍼",
-      "growth": "+167%",
-      "total_mentions": 39
+      "keyword": "#ootd",
+      "growth": "+10%",
+      "total_mentions": 74
     }
   ],
   "most_cross_platform": [
@@ -43,18 +43,10 @@
       "count": 2
     },
     {
-      "keyword": "만우절 장난",
+      "keyword": "블라우스",
       "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "트럼프 연설",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
+        "naver",
+        "youtube"
       ],
       "count": 2
     },
@@ -67,7 +59,15 @@
       "count": 2
     },
     {
-      "keyword": "블라우스",
+      "keyword": "후드집업",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "청바지",
       "platforms": [
         "naver",
         "youtube"
