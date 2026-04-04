@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-03-28",
-    "to": "2026-04-03"
+    "from": "2026-03-29",
+    "to": "2026-04-04"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+73%",
-      "total_mentions": 111
-    },
-    {
       "keyword": "원피스",
-      "growth": "+8%",
-      "total_mentions": 89
-    },
-    {
-      "keyword": "블라우스",
-      "growth": "+20%",
-      "total_mentions": 83
+      "growth": "+17%",
+      "total_mentions": 91
     },
     {
       "keyword": "여성봄자켓",
       "growth": "+9%",
-      "total_mentions": 79
+      "total_mentions": 80
     },
     {
       "keyword": "#ootd",
+      "growth": "+8%",
+      "total_mentions": 78
+    },
+    {
+      "keyword": "ootd",
+      "growth": "+8%",
+      "total_mentions": 78
+    },
+    {
+      "keyword": "#shorts",
       "growth": "+10%",
-      "total_mentions": 74
+      "total_mentions": 61
     }
   ],
   "most_cross_platform": [
@@ -43,14 +43,6 @@
       "count": 2
     },
     {
-      "keyword": "블라우스",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
       "keyword": "원피스",
       "platforms": [
         "naver",
@@ -59,7 +51,7 @@
       "count": 2
     },
     {
-      "keyword": "후드집업",
+      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
@@ -73,11 +65,19 @@
         "youtube"
       ],
       "count": 2
+    },
+    {
+      "keyword": "티셔츠",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
     }
   ],
   "naver_shopping_hot": [
-    "원피스",
     "트위드자켓",
+    "원피스",
     "바람막이",
     "트렌치코트",
     "여성봄자켓"

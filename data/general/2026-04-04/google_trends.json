@@ -1,0 +1,724 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "변우석",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "아이유 공식 계정 \"다음 주에 결혼합니다\"…깜짝 '대군부인' 영상 공개 (이지금)",
+              "url": "https://v.daum.net/v/20260404052144384"
+            },
+            {
+              "title": "설렘 충전해줄 로맨스 드라마 5",
+              "url": "https://woman.donga.com/Library/3/all/12/6164068/1"
+            },
+            {
+              "title": "방송도 안 했는데 화제성 1위? MBC ‘21세기 대군부인’, 이제 남은 건 ‘완성도’",
+              "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333536"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "天気",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "【画像まとめ】【速報】ホルムズ海峡“支配”強めるイラン 日本関係の船舶初通過",
+              "url": "https://news.tv-asahi.co.jp/news_international/articles/photos/900187615.html"
+            },
+            {
+              "title": "吹き荒れる暴風に警戒 桜には試練の荒天",
+              "url": "https://weathernews.jp/news/202604/040076/"
+            },
+            {
+              "title": "花散らしの嵐のち夏日続出 西日本中心に警報級の大雨・暴風のおそれ あす・あさってと夏日エリア拡大",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2578415"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "天氣",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "今明白天逐日熱偶有局部短暫雨",
+              "url": "http://www.metapp.org.tw/index.php/bossweathernews/3806-2026-04-01-21-20-29"
+            },
+            {
+              "title": "快訊／苗栗淹慘了！國華地下道淪水池 淹水警戒區域曝",
+              "url": "https://news.ebc.net.tw/news/living/545226"
+            },
+            {
+              "title": "春雨鋒面來了 吳聖宇：西半部留意豪雨 東半部局部大雨",
+              "url": "https://udn.com/news/story/7266/9421688"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "날씨",
+          "traffic": "500000+",
+          "related_news": [
+            {
+              "title": "봄비 내리는 토요일 아침…벚꽃 찬란한 봄날은 간다",
+              "url": "https://www.hani.co.kr/arti/society/environment/1252636.html"
+            },
+            {
+              "title": "[날씨] 낮까지 전국 대부분 비…제주, 남해안 중심 강풍",
+              "url": "https://v.daum.net/v/20260404093438698"
+            },
+            {
+              "title": "전국 낮까지 곳곳 비…전남·경상엔 강한 비바람",
+              "url": "https://www.khan.co.kr/article/202604040800021"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "weather",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Timeline: Severe weather threats return to Chicagoland on Friday",
+              "url": "https://wgntv.com/weather/timeline-severe-weather-threats-return-to-chicagoland-on-friday/"
+            },
+            {
+              "title": "FIRST ALERT: Strong to severe storms this evening",
+              "url": "https://www.kcrg.com/2026/04/03/first-alert-strong-severe-storms-this-evening/"
+            },
+            {
+              "title": "Staying cool Friday with a chance of thunderstorms",
+              "url": "https://www.ktiv.com/2026/04/03/staying-cool-friday-with-chance-thunderstorms/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "psg vs toulouse",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Lee Kang-in Stars in PSG Return, Overcomes Injury",
+              "url": "https://www.chosun.com/english/sports-en/2026/04/04/XLTCY4YDDBDTVCI5A4Y7QLUVNQ/"
+            },
+            {
+              "title": "Lee Kang-in's Second Straight Start Yields Dembélé Assist in PSG's 3-1 Victory",
+              "url": "https://www.chosun.com/english/sports-en/2026/04/04/AEOUYSD5SZGR7DAYD3GFUIPPVY/"
+            },
+            {
+              "title": "Paris Saint-Germain 3-1 Toulouse: Dembele at the double to open four-point lead on Lens",
+              "url": "https://www.fotmob.com/news/5wbdwapqlhz71axzjkgmyqgkr-paris-saint-germain-3-1-toulouse-dembele-at-double-open-four-point-lead-lens"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "부산날씨",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "부산, 흐리고 낮까지 비…예상 강수량 20~60㎜",
+              "url": "https://www.newsis.com/view/NISX20260404_0003577699"
+            },
+            {
+              "title": "[날씨] 경남 오늘 밤부터 비…강풍·풍랑 주의",
+              "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8526010"
+            },
+            {
+              "title": "부산·울산·경남 흐리다가 밤부터 비…낮 최고 18∼21도",
+              "url": "https://www.yna.co.kr/view/AKR20260403009200057"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "코너 그리핀",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "2114억 연장계약 논의할 만하네…ML 유망주 1위 임팩트 미쳤다! 메이저리그 데뷔전 어땠나",
+              "url": "https://v.daum.net/v/bP6lXfGhwJ"
+            },
+            {
+              "title": "‘前 LG 투수’에 삼진 당했지만…마침내 베일 벗은 ‘MLB 최고 유망주’ 그리핀, 데뷔전서 1타점 2루타에 볼...",
+              "url": "https://sports.khan.co.kr/article/202604040919003"
+            },
+            {
+              "title": "피츠버그, 리그 최고 유망주 코너 그리핀 전격 콜업...계약 연장도 논의",
+              "url": "https://www.mk.co.kr/news/sports/12006883"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "대전날씨",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "충북 곳곳에 오후까지 비…최대 20㎜",
+              "url": "https://www.newsis.com/view/NISX20260404_0003577686"
+            },
+            {
+              "title": "건조한 봄에 단비…대전·충남 밤사이 5~40㎜ 비, 낮부터 소강",
+              "url": "https://www.news1.kr/local/daejeon-chungnam/6125264"
+            },
+            {
+              "title": "충북 내일까지 10~40mm 비…낮 최고 20~25도",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8526114"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "민생회복 소비쿠폰",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "26.2조 원 규모의 추경으로, 위기를 슬기롭게 헤쳐나가겠습니다 - 전체 | 카드/한컷 | 멀티미디어",
+              "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148962013"
+            },
+            {
+              "title": "부부월급 630만원 이하면 받는다…이르면 내달까지 지급 [많이 본 경제기사]",
+              "url": "https://v.daum.net/v/20260404080317805"
+            },
+            {
+              "title": "[속보] 李대통령 \"소득하위 70%에 10만∼60만원 지역화폐 차등지원\"",
+              "url": "https://www.yna.co.kr/view/AKR20260402104600001"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 3,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "boston blue",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Watch 'Boston Blue' Episode 13 Tonight: Henry Reagan Visits Danny and Sean",
+              "url": "https://www.yahoo.com/entertainment/tv/articles/watch-boston-blue-episode-13-200825685.html"
+            },
+            {
+              "title": "‘Boston Blue’: All the Details on Len Cariou’s Return in Powerful Episode",
+              "url": "https://www.tvinsider.com/1249483/boston-blue-len-cariou-episode-henry-reagan-donnie-wahlberg/"
+            },
+            {
+              "title": "Boston Blue Teases Shocking Tragedy in New Episode",
+              "url": "https://nationaltoday.com/us/ma/boston/news/2026/04/02/boston-blue-teases-shocking-tragedy-in-new-episode/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "necaxa - mazatlán",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Necaxa vs Mazatlán EN VIVO Hoy. Juego de Fernando Gago con los Rayos en Liga MX 2026",
+              "url": "https://www.marca.com/mx/futbol/liga-mx/necaxa-mazatlan/2026/04/04/01_0168_20260404_1174_16906-directo.html?intcmp=flex_noticia_estatica"
+            },
+            {
+              "title": "Horario y dónde ver el Necaxa vs. Mazatlán FC de la Jornada 13 del Clausura 2026",
+              "url": "https://www.tudn.com/futbol/liga-mx/necaxa-vs-mazatlan-fc-horario-y-donde-ver-el-partido-de-la-jornada-13-de-la-liga-mx-clausura-2026"
+            },
+            {
+              "title": "En busca de sumar otro triunfo, Necaxa recibe a Mazatlán",
+              "url": "https://889noticias.mx/espacio-deportivo/en-busca-de-sumar-otro-triunfo-necaxa-recibe-a-mazatlan/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "alex antetokounmpo",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Giannis shows commitment to Milwaukee by joining Tuesday night bowling league",
+              "url": "https://onmilwaukee.com/articles/giannis-bowling"
+            },
+            {
+              "title": "Serena Williams’ husband Alexis Ohanian celebrates as Giannis Antetokounmpo, Alex and Thanasis make rare",
+              "url": "https://timesofindia.indiatimes.com/sports/international-sports/serena-williams-husband-alexis-ohanian-celebrates-as-giannis-antetokounmpo-alex-and-thanasis-make-rare-nba-history-with-bucks/articleshow/129960392.cms"
+            },
+            {
+              "title": "Bucks forward Kyle Kuzma’s heartfelt reaction to Alex Antetokounmpo’s NBA debut",
+              "url": "https://clutchpoints.com/nba/milwaukee-bucks/bucks-news-kyle-kuzmas-heartfelt-reaction-to-alex-antetokounmpos-nba-debut"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "angels baseball",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "It’s the home opener at Angel Stadium; the stadium’s future is up in the air",
+              "url": "https://www.ocregister.com/2026/04/03/its-opening-day-at-angel-stadium-the-stadiums-future-is-up-in-the-air/"
+            },
+            {
+              "title": "Angels celebrate 60 years in Anaheim at home opener",
+              "url": "https://ktla.com/news/orange-county/angels-celebrate-60-years-in-anaheim-at-home-opener/"
+            },
+            {
+              "title": "Pac-Man Concession Stand to Open at Angels Stadium for 2026 Season",
+              "url": "https://www.restart.run/articles/pac-man-concession-stand-to-open-at-angels-stadium-for-2026-season"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "queen",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Queen Elizabeth was 'on to' Meghan Markle 'from the start' and viewed her as an 'opportunist': book",
+              "url": "https://www.yahoo.com/entertainment/celebrity/articles/queen-elizabeth-meghan-markle-start-231042429.html"
+            },
+            {
+              "title": "Why Prince Harry Was Reportedly \"Rude\" to Queen Elizabeth Before His and Meghan Markle's Wedding",
+              "url": "https://www.instyle.com/prince-harry-queen-elizabeth-rude-meghan-markle-wedding-11937616"
+            },
+            {
+              "title": "Queen Elizabeth's savage 4-word nickname for Prince Harry revealed after he ditched the royal family",
+              "url": "https://www.wonderwall.com/celebrity/royals/queen-elizabeth-savage-4-word-nickname-prince-harry/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "news 9 okc",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Hoax call about baby thrown from car came from OKC officers, now put on administrative leave",
+              "url": "https://www.news9.com/oklahoma-city-news/okc-police-hoax-call-about-baby-thrown-from-car-came-from-officer"
+            },
+            {
+              "title": "Investigation underway into alleged ‘April Fools Prank’",
+              "url": "https://kfor.com/news/local/okc-police-investigating-fake-pursuit-officers-apparently-reported-to-dispatchers-as-april-fools-prank/"
+            },
+            {
+              "title": "OKC Police officers suspended while ‘April Fools’ prank is investigated",
+              "url": "https://www.yahoo.com/news/articles/okc-police-officers-suspended-while-225840130.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "tornado warning",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "LIVE UPDATES: Severe storms move across southwestern Oklahoma",
+              "url": "https://www.news9.com/live/live-updates-severe-storms-move-across-southwestern-oklahoma"
+            },
+            {
+              "title": "WATCH LIVE: Tornado warnings issued, severe storms approaching OKC metro",
+              "url": "https://www.koco.com/article/oklahoma-weather-tornado-risk-storms-radar-friday/70926890"
+            },
+            {
+              "title": "Cold front brings strong storms and flooding to Oklahoma",
+              "url": "https://kfor.com/weather/cold-front-brings-strong-storms-and-flooding-to-oklahoma/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "giannis antetokounmpo",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Giannis Antetokounmpo says Bucks telling him to sit out while healthy ‘a slap in the face’ - The Athletic",
+              "url": "https://www.nytimes.com/athletic/7161947/2026/04/03/giannis-antetokounmpo-injury-update-frustrated-bucks-decision/"
+            },
+            {
+              "title": "It’s almost like you waved the white flag and I don’t …",
+              "url": "https://sports.yahoo.com/articles/almost-waved-white-flag-don-013655990.html"
+            },
+            {
+              "title": "Giannis Antetokounmpo to Milwaukee Bucks: ‘I want to [expletive] play’",
+              "url": "https://www.jsonline.com/story/sports/nba/bucks/2026/04/03/giannis-antetokounmpo-to-milwaukee-bucks-i-want-to-expletive-play/89460225007/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "mets - giants",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Mets Morning News: Ugh",
+              "url": "https://www.amazinavenue.com/new-york-mets-news/92443/mets-lose-peterson-giants-manaea-losing-streak-tidwell-save-new-york"
+            },
+            {
+              "title": "David Peterson and bats both flop as Mets fall to Giants for third straight loss",
+              "url": "https://nypost.com/2026/04/03/sports/david-peterson-and-bats-both-flop-as-mets-fall-to-giants/"
+            },
+            {
+              "title": "Mets vs Giants Prediction, Picks & Odds for Tonight's MLB Game",
+              "url": "https://www.covers.com/mlb/mets-vs-giants-prediction-picks-odds-friday-4-3-2026"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "la angels",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Angels could be required to add Anaheim to name due to California legislation",
+              "url": "https://www.usatoday.com/story/sports/mlb/angels/2026/04/03/los-angeles-angels-anaheim-stadium/89460853007/"
+            },
+            {
+              "title": "L.A. Angels Team Stax",
+              "url": "https://www.times-news.com/ap/sports/agate/l-a-angels-team-stax/article_31eda270-f833-525f-9c8c-bd8b615e5beb.html"
+            },
+            {
+              "title": "Angels could be required to add Anaheim to name due to California legislation",
+              "url": "https://uk.sports.yahoo.com/news/angels-could-required-add-anaheim-020453779.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 51,
+          "interest_max": 100,
+          "interest_latest": 44,
+          "rank": 1
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 8,
+          "interest_max": 100,
+          "interest_latest": 10,
+          "rank": 2
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 2,
+          "interest_max": 11,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 1,
+          "interest_max": 6,
+          "interest_latest": 2,
+          "rank": 4
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 1,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 2,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "えんとつ町のプペル",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "『映画 えんとつ町のプペル』最新作のデザイン＆設定画が一挙公開 手描きとCGが融合した緻密な世界観（ぴあ）",
+              "url": "https://news.yahoo.co.jp/articles/b4ff8aa87c1636745fbbeab46958f5bfa0db69b9"
+            },
+            {
+              "title": "「心がきれいになれる映画です。」映画 えんとつ町のプペル 約束の時計台 seriさんの映画レビュー（感想・評価）",
+              "url": "https://eiga.com/movie/103760/review/06360407/"
+            },
+            {
+              "title": "小芝風花、HYの名曲「366日」を劇中で披露　『えんとつ町のプペル』新作で描かれる切ない愛の物語",
+              "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2446374"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ジャックブラック",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "巨大ヘビからどう逃げる？『俺たちのアナコンダ』主演コンビによる“迷”サバイバル動画が公開（ぴあ）",
+              "url": "https://news.yahoo.co.jp/articles/8640069baefbd8a4790464e70c367d08d9edb7fb"
+            },
+            {
+              "title": "「この映画の製作にＧＯを出したのはどこのどいつだ？」俺たちのアナコンダ リュウジさんの映画レビュー（感想・評価）",
+              "url": "https://eiga.com/movie/105320/review/06359432/"
+            },
+            {
+              "title": "「俺たちのアナコンダ」ポスタービジュアル [画像・動画ギャラリー 2/13]",
+              "url": "https://natalie.mu/eiga/gallery/news/666514/2816684"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "佐藤二朗",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "『名無し』完成披露試写会",
+              "url": "https://press.moviewalker.jp/shisyakai/12205/"
+            },
+            {
+              "title": "映画『名無し』試写会ご招待",
+              "url": "https://flying-postman.com/present/2026040214986/"
+            },
+            {
+              "title": "＼特典🎁／今週の特典ラインナップをご紹介！ 佐藤二朗、丸山隆平、佐々木蔵之介、城定秀夫監督 登壇予定『名無し』完成披露試写会ほか",
+              "url": "https://lp.p.pia.jp/article/news/462063/index.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "ブルーインパルス",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【航空自衛隊・ブルーインパルス】大空に「夢・感動」を描くアクロバットチームの知られざる裏側を徹底解説【edge23】",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2575156"
+            },
+            {
+              "title": "熊本地震から10年 熊本出身のブルーインパルスのパイロット・松永大誠3等空佐 4月11日に故郷・熊本市上空を展示飛行【熊本発】",
+              "url": "https://www.fnn.jp/articles/-/1024823"
+            },
+            {
+              "title": "ブルーインパルスで故郷の空へ パイロット・松永3佐がエール 11日、熊本市上空で展示飛行 「復興へ向け次の10年へ」 熊本地震",
+              "url": "https://kumanichi.com/articles/1975832"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "立神 杏 士郎",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "figure-eye：from FUKUOKA 描く氷上の羅針盤＜下＞ 立神杏士郎",
+              "url": "https://mainichi.jp/articles/20260329/k00/00m/050/129000c"
+            },
+            {
+              "title": "フィギュア界から届いた引退報告にX後悔「何故今まで気が付けなかった」 明かされた進路にも反響（THE ANSWER）",
+              "url": "https://news.yahoo.co.jp/articles/122b57b025ca0b1d6c38a2e93c4b24290f178b75"
+            },
+            {
+              "title": "「羽生結弦以来の衝撃」引退発表のフィギュアスケーター、イケメン過ぎて話題に。「突如現れた美形」",
+              "url": "https://topics.smt.docomo.ne.jp/article/allaboutnews/sports/allaboutnews-152630"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "チケット",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "【6/9～6/25】公式戦チケット販売情報！",
+              "url": "https://www.softbankhawks.co.jp/news/detail/202600978094.html"
+            },
+            {
+              "title": "日本生命セ・パ交流戦および6月公式戦（6/9～6/28）チケット販売概要のお知らせ",
+              "url": "https://www.buffaloes.co.jp/news/detail/202600724779.html"
+            },
+            {
+              "title": "【鷹祭 SUMMER BOOST】東京ドーム開催チケット販売情報",
+              "url": "https://www.softbankhawks.co.jp/news/detail/202600978109.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "インボイス制度",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "インボイス制度の経過措置の見直し、2026年4月から 3割特例も",
+              "url": "https://smbiz.asahi.com/article/16469437"
+            },
+            {
+              "title": "【速報】年収の壁が「178万円」に 参議院本会議で税制関連法成立",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2567511"
+            },
+            {
+              "title": "【速報】年収の壁が「178万円」に 参議院本会議で税制関連法成立",
+              "url": "https://article.auone.jp/detail/1/3/6/333_3_r_20260331_1774948097545683"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "ジャパネット",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "ジャパネットHDが「パサージュ琴海」経営権を取得 スタジアムシティと連動した″滞在型観光″へ",
+              "url": "https://newsdig.tbs.co.jp/articles/nbc/2566538?page=2"
+            },
+            {
+              "title": "ジャパネットが初のゴルフ事業参入「パサージュ琴海」買収…スタジアム試合観戦客の「滞在型観光」構築めざす",
+              "url": "https://news.yahoo.co.jp/articles/05776b90f64303a49760f3a7d74b7d3506ef67b1"
+            },
+            {
+              "title": "ジャパネット、複合リゾート施設「パサージュ琴海」を買収 ゴルフ場運営に初参入…滞在型観光促す 長崎",
+              "url": "https://www.47news.jp/14085618.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ジャイアンツ チケット",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "4月3日からのポケモン特別企画3連戦 来場者特典について",
+              "url": "https://www.giants.jp/news/29278/"
+            },
+            {
+              "title": "【巨人】勝利をゲットだぜ！　高橋ひかる、松丸亮吾、あばれる君が始球式　ポケモンとコラボ",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260403-OHT1T51233"
+            },
+            {
+              "title": "【隠しマイク】巨人・山瀬 特別キャップ姿の橋上コーチに「ロケット団みたいですよ」",
+              "url": "https://www.sponichi.co.jp/baseball/news/2026/04/04/kiji/20260404s00001173037000c.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "津競艇",
+          "traffic": "200+",
+          "related_news": []
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 22,
+          "interest_max": 100,
+          "interest_latest": 46,
+          "rank": 1
+        },
+        {
+          "keyword": "バズった",
+          "interest_avg": 17,
+          "interest_max": 75,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 4,
+          "interest_max": 39,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 1,
+          "interest_max": 32,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-04-04T02:26:34.401938+00:00"
+}
