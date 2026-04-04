@@ -2,65 +2,54 @@
   "date": "2026-04-04",
   "mode": "general",
   "compared_to": "2026-04-03",
-  "total_keywords_today": 441,
+  "total_keywords_today": 397,
   "total_keywords_yesterday": 428,
   "data_days_available": 20,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "dance",
-      "change": "+32%",
-      "today_count": 25,
+      "change": "+5%",
+      "today_count": 20,
       "yesterday_count": 19,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 25건, 어제 19건 기준"
-    },
-    {
-      "keyword": "#tiktok",
-      "change": "+27%",
-      "today_count": 14,
-      "yesterday_count": 11,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 14건, 어제 11건 기준"
-    },
-    {
-      "keyword": "#viral",
-      "change": "+62%",
-      "today_count": 13,
-      "yesterday_count": 8,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 13건, 어제 8건 기준"
+      "sample_note": "오늘 20건, 어제 19건 기준"
     },
     {
       "keyword": "#shorts",
-      "change": "+30%",
-      "today_count": 13,
+      "change": "+50%",
+      "today_count": 15,
       "yesterday_count": 10,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 13건, 어제 10건 기준"
+      "sample_note": "오늘 15건, 어제 10건 기준"
     },
     {
-      "keyword": "#dance",
-      "change": "+29%",
-      "today_count": 9,
-      "yesterday_count": 7,
+      "keyword": "#tiktok",
+      "change": "+18%",
+      "today_count": 13,
+      "yesterday_count": 11,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 13건, 어제 11건 기준"
+    },
+    {
+      "keyword": "#viral",
+      "change": "+50%",
+      "today_count": 12,
+      "yesterday_count": 8,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 9건, 어제 7건 기준"
+      "sample_note": "오늘 12건, 어제 8건 기준"
     },
     {
       "keyword": "#trending",
@@ -72,6 +61,17 @@
         "youtube"
       ],
       "sample_note": "오늘 9건, 어제 7건 기준"
+    },
+    {
+      "keyword": "#funny",
+      "change": "+100%",
+      "today_count": 8,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 8건, 어제 4건 기준"
     },
     {
       "keyword": "funny",
@@ -96,17 +96,6 @@
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "#funny",
-      "change": "+75%",
-      "today_count": 7,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 4건 기준"
-    },
-    {
       "keyword": "후드집업",
       "change": "+17%",
       "today_count": 7,
@@ -118,70 +107,26 @@
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "#beatbox",
-      "change": "+200%",
-      "today_count": 6,
-      "yesterday_count": 2,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 2건 기준"
-    },
-    {
       "keyword": "#challenge",
-      "change": "+100%",
-      "today_count": 6,
+      "change": "+67%",
+      "today_count": 5,
       "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 6건, 어제 3건 기준"
-    },
-    {
-      "keyword": "beatbox",
-      "change": "+200%",
-      "today_count": 6,
-      "yesterday_count": 2,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 2건 기준"
+      "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
       "keyword": "challenge",
-      "change": "+100%",
-      "today_count": 6,
+      "change": "+67%",
+      "today_count": 5,
       "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 6건, 어제 3건 기준"
-    },
-    {
-      "keyword": "#kpop",
-      "change": "+150%",
-      "today_count": 5,
-      "yesterday_count": 2,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#treasure",
-      "change": "+150%",
-      "today_count": 5,
-      "yesterday_count": 2,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 2건 기준"
+      "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
       "keyword": "#love",
@@ -195,7 +140,7 @@
       "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
-      "keyword": "#1b",
+      "keyword": "love",
       "change": "+150%",
       "today_count": 5,
       "yesterday_count": 2,
@@ -206,49 +151,97 @@
       "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
-      "keyword": "#1million",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
-      "confidence": "medium",
+      "keyword": "#beatbox",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#kpop",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "beatbox",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
       "keyword": "kpop",
-      "change": "+150%",
-      "today_count": 5,
+      "change": "+100%",
+      "today_count": 4,
       "yesterday_count": 2,
-      "confidence": "medium",
+      "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#viralvideo",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "recipe",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "에고이스트",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "quot",
-      "change": "-50%",
-      "today_count": 4,
+      "change": "-25%",
+      "today_count": 6,
       "yesterday_count": 8,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "keyword": "hack",
-      "change": "-88%",
-      "today_count": 1,
+      "change": "-12%",
+      "today_count": 7,
       "yesterday_count": 8,
-      "confidence": "low"
-    },
-    {
-      "keyword": "life",
-      "change": "-50%",
-      "today_count": 3,
-      "yesterday_count": 6,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "keyword": "올리비아로렌",
@@ -266,20 +259,27 @@
     },
     {
       "keyword": "#lifehacks",
-      "change": "-100%",
-      "today_count": 0,
+      "change": "-67%",
+      "today_count": 1,
       "yesterday_count": 3,
       "confidence": "low"
     },
     {
       "keyword": "cleaning",
-      "change": "-100%",
-      "today_count": 0,
+      "change": "-33%",
+      "today_count": 2,
       "yesterday_count": 3,
       "confidence": "low"
     },
     {
       "keyword": "lifehacks",
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "gacha",
       "change": "-100%",
       "today_count": 0,
       "yesterday_count": 3,
@@ -301,7 +301,8 @@
     }
   ],
   "new_entries": [
-    "potato"
+    "#youtubeshorts",
+    "youtubeshorts"
   ],
   "cross_platform_hot": []
 }
