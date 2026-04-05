@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-03-29",
-    "to": "2026-04-04"
+    "from": "2026-03-30",
+    "to": "2026-04-05"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "원피스",
-      "growth": "+8%",
-      "total_mentions": 90
-    },
-    {
       "keyword": "여성봄자켓",
       "growth": "+9%",
-      "total_mentions": 80
+      "total_mentions": 81
+    },
+    {
+      "keyword": "ootd",
+      "growth": "+44%",
+      "total_mentions": 77
+    },
+    {
+      "keyword": "#ootd",
+      "growth": "+33%",
+      "total_mentions": 75
     },
     {
       "keyword": "#shorts",
-      "growth": "+10%",
-      "total_mentions": 61
-    },
-    {
-      "keyword": "코디",
-      "growth": "+25%",
-      "total_mentions": 45
+      "growth": "+125%",
+      "total_mentions": 60
     },
     {
       "keyword": "여성봄점퍼",
-      "growth": "+100%",
-      "total_mentions": 44
+      "growth": "+80%",
+      "total_mentions": 49
     }
   ],
   "most_cross_platform": [
@@ -59,10 +59,10 @@
       "count": 2
     },
     {
-      "keyword": "청바지",
+      "keyword": "happy easter",
       "platforms": [
-        "naver",
-        "youtube"
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     },
@@ -79,8 +79,8 @@
     "트위드자켓",
     "원피스",
     "바람막이",
-    "트렌치코트",
-    "여성봄자켓"
+    "여성봄자켓",
+    "블라우스"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -88,8 +88,8 @@
     "블라우스",
     "트위드자켓",
     "바람막이",
-    "트렌치코트",
     "여성가디건",
+    "트렌치코트",
     "여성봄자켓",
     "ootd",
     "#ootd"

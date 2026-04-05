@@ -1,0 +1,973 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "inter miami vs austin",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Inter Miami CF Unveils Leo Messi Stand at Nu Stadium",
+              "url": "https://www.intermiamicf.com/news/inter-miami-cf-unveils-leo-messi-stand-at-nu-stadium"
+            },
+            {
+              "title": "Talk about a quick start 👀",
+              "url": "https://www.foxsports.com/watch-vertical/fmc-yx6v6hr04symtyo0"
+            },
+            {
+              "title": "Marc Anthony sings national anthem at Inter Miami’s historic Nu Stadium debut",
+              "url": "https://artthreat.net/16583-43440-marc-anthony-sings-national-anthem-at-inter-miami-s-historic-nu-stadium-debut/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "민호",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "민호, 축구감독 父 반대 심했다..“축구 절대 NO, 아이돌은 허락” (‘나혼산’)[순간포착]",
+              "url": "https://v.daum.net/v/20260404061744941?f=p"
+            },
+            {
+              "title": "'나혼산' 민호, 아버지 최윤겸 감독과의 애틋한 하루... 金 예능 프로그램 1위 [종합]",
+              "url": "https://www.mt.co.kr/entertainment/2026/04/04/2026040412397296380"
+            },
+            {
+              "title": "48세 전현무, 결혼 생각 없다더니..“민호같은 子, 있으면 살맛 날듯” (‘나혼산’)",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/04/04/HEZWGYJTME2DCN3BMIZGIYRTG4/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "happy easter",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "The mathematical formula that reveals when Easter is every year",
+              "url": "https://www.scientificamerican.com/article/the-mathematical-formula-that-reveals-when-easter-is-every-year/"
+            },
+            {
+              "title": "April's full moon decides the date of Easter — here's how it works",
+              "url": "https://www.space.com/stargazing/aprils-full-moon-decides-the-date-of-easter-heres-how-it-works"
+            },
+            {
+              "title": "When is Lent over? What to know ahead of Easter",
+              "url": "https://www.cincinnati.com/story/news/2026/04/02/when-is-lent-over-see-the-exact-time-it-ends-ahead-of-easter/89436312007/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "마라톤",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "김민석 총리, 광주 마라톤 대회 찾아 \"뉴 호남이 대한민국 새로운 선두주자\"",
+              "url": "https://v.daum.net/v/20260405112210657"
+            },
+            {
+              "title": "김 총리 \"뉴호남, 대한민국 선두주자될 것\"",
+              "url": "https://www.yonhapnewstv.co.kr/news/AKR20260405105020DaF"
+            },
+            {
+              "title": "전남대 518캠퍼스 마라톤 대회 출발하는 김민석 총리",
+              "url": "https://www.yna.co.kr/view/PYH20260405018200013?section=photo/index"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "불교박람회 2026",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[크랩] 이제는 조용한 게 더 어색하다는 불교박람회 근황",
+              "url": "https://v.daum.net/v/20260404200903952"
+            },
+            {
+              "title": "'사랑아 부처해'…MZ 불러 모은 '힙불교'",
+              "url": "https://www.yonhapnewstv.co.kr/news/MYH20260404134602nMf"
+            },
+            {
+              "title": "'도파민 단식'에 푹 빠진 MZ들…출가 상담하려고 줄 섰다는데",
+              "url": "https://m.news.nate.com/view/20260403n25526?sect=sisa&list=rank&cate=interest"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "인터 마이애미 대 오스틴",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "MLS Austin Inter Miami Soccer",
+              "url": "https://news.nate.com/view/20260405n04031?mid=n1101"
+            },
+            {
+              "title": "MLS Austin Inter Miami Soccer",
+              "url": "https://news.nate.com/view/20260405n01901?mid=n1101"
+            },
+            {
+              "title": "MLS Austin Inter Miami Soccer",
+              "url": "https://news.nate.com/view/20260405n03885?mid=n1101"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "부활",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "부활절 맞아 전국 성당·교회 미사·예배 이어진다…\"평화와 생명\" 메시지",
+              "url": "https://www.newsis.com/view/NISX20260405_0003578077"
+            },
+            {
+              "title": "“부활절연합예배에 숨은 이야기… 왜 갈라지고 다시 모였나”",
+              "url": "https://v.daum.net/v/20260405070255965"
+            },
+            {
+              "title": "이용훈 주교, “절망 넘어 부활의 희망 증언하는 삶 살길”",
+              "url": "https://www.kyeonggi.com/article/20260404580114"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "天氣",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "強對流降雨又要來了！天氣風險：周二前天氣不穩定各地有陣雨或雷雨",
+              "url": "https://udn.com/news/story/7266/9423024"
+            },
+            {
+              "title": "今明白天逐日熱偶有局部短暫雨",
+              "url": "http://www.metapp.org.tw/index.php/bossweathernews/3806-2026-04-01-21-20-29"
+            },
+            {
+              "title": "「煙囪雲」來了大豪雨狂炸！專家示警：3縣市小心",
+              "url": "https://tw.news.yahoo.com/%E7%85%99%E5%9B%AA%E9%9B%B2-%E4%BE%86%E4%BA%86%E5%A4%A7%E8%B1%AA%E9%9B%A8%E7%8B%82%E7%82%B8-%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6-3%E7%B8%A3%E5%B8%82%E5%B0%8F%E5%BF%83-002900924.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "easter",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Severe weather risk Saturday Evening, cooling down Easter Sunday",
+              "url": "https://www.wivb.com/weather-news/todays-forecast/april-2026-easter-passover-earth-day/"
+            },
+            {
+              "title": "Weekend cold front coming to South Texas. Here's when it arrives.",
+              "url": "https://www.expressnews.com/san-antonio-weather/forecast/article/cold-front-storms-strong-texas-san-antonio-22185758.php"
+            },
+            {
+              "title": "Video: Rainy and breezy, but mild Easter Sunday",
+              "url": "https://www.wcvb.com/article/video-rainy-and-breezy-but-mild-easter-sunday/70934649"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "mlb",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Cardinals' Jordan Walker, with 97 MPH trend, brings St. Louis hope",
+              "url": "https://www.sportingnews.com/us/mlb/st-louis-cardinals/news/cardinals-jordan-walker-97-mph-trend-brings-st-louis-hope/a9a0eec7ff5412410f888bed"
+            },
+            {
+              "title": "Jordan Walker’s elite arm is the talk of early MLB 2026",
+              "url": "https://rollingout.com/2026/04/04/jordan-walker-fastest-statcast-throw/"
+            },
+            {
+              "title": "Jordan Walker throws out Javy Baez at the plate",
+              "url": "https://www.espn.com/video/clip?id=48387468"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 62,
+          "interest_max": 100,
+          "interest_latest": 41,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 8,
+          "interest_max": 23,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 36,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 32,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 8,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [
+        {
+          "rank": 3,
+          "keyword": "brandon mccoy",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Michigan basketball eyes 5-star recruit Brandon McCoy for 2026",
+              "url": "https://sports.yahoo.com/articles/michigan-basketball-eyes-5-star-235437826.html"
+            },
+            {
+              "title": "McDonald's All American Game: Five-star Brandon McCoy says his decision is about fit and feeling",
+              "url": "https://247sports.com/college/basketball/recruiting/article/mcdonalds-all-american-game-five-star-brandon-mccoy-alabama-arkansas-miami-michigan-279617410/"
+            },
+            {
+              "title": "Dusty May, Michigan projected to land a 5-star in 2026, who'll make an instant impact",
+              "url": "https://www.msn.com/en-us/sports/other/dusty-may-michigan-projected-to-land-a-5-star-in-2026-who-ll-make-an-instant-impact/ar-AA1ZR0GU"
+            }
+          ]
+        }
+      ],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "santos laguna vs club américa",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Santos vs América: Posibles alineaciones de la Jornada 13",
+              "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/16496757/santos-vs-america-alineaciones-jornada-13-clausura-2026"
+            },
+            {
+              "title": "Horario y dónde ver el Santos vs. América de la Jornada 13 del Clausura 2026",
+              "url": "https://www.tudn.com/futbol/liga-mx/santos-laguna-vs-america-horario-y-donde-ver-el-partido-de-la-jornada-13-de-la-liga-mx-clausura-2026"
+            },
+            {
+              "title": "América visita a Santos con obligación de ganar: así llegan al duelo de la Jornada 13",
+              "url": "https://www.lavozarizona.com/story/deportes/futbol/2026/04/04/america-vs-santos-hora-canal-donde-ver-jornada-13-clausura-2026-previa/89438184007/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "avatar fire and ash",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Before 'Avatar: Fire and Ash’ Hits Digital on March 31 You Can Get a Stunning Look Behind the Scenes [Exclusive]",
+              "url": "https://www.imdb.com/news/ni65772338/"
+            },
+            {
+              "title": "'Avatar: Fire and Ash' streaming release date on Disney+ the latest",
+              "url": "https://www.northjersey.com/story/entertainment/movies/2026/03/30/avatar-fire-and-ash-streaming-release-date-disney/89384574007/"
+            },
+            {
+              "title": "'Avatar: Fire & Ash' Star on Why Streaming the Sci-Fi Action Blockbuster at Home Might Be Even Better",
+              "url": "https://movieweb.com/avatar-fire-ash-chaplin-digital-best/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "brandon mccoy",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Michigan basketball eyes 5-star recruit Brandon McCoy for 2026",
+              "url": "https://sports.yahoo.com/articles/michigan-basketball-eyes-5-star-235437826.html"
+            },
+            {
+              "title": "McDonald's All American Game: Five-star Brandon McCoy says his decision is about fit and feeling",
+              "url": "https://247sports.com/college/basketball/recruiting/article/mcdonalds-all-american-game-five-star-brandon-mccoy-alabama-arkansas-miami-michigan-279617410/"
+            },
+            {
+              "title": "Dusty May, Michigan projected to land a 5-star in 2026, who'll make an instant impact",
+              "url": "https://www.msn.com/en-us/sports/other/dusty-may-michigan-projected-to-land-a-5-star-in-2026-who-ll-make-an-instant-impact/ar-AA1ZR0GU"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "giancarlo stanton",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "With record on line, Yankees’ Giancarlo Stanton out of lineup",
+              "url": "https://www.nj.com/yankees/2026/04/with-record-on-line-yankees-giancarlo-stanton-out-of-lineup.html"
+            },
+            {
+              "title": "Giancarlo Stanton Back in the Lineup Against Marlins - MLB News | Fantasy Baseball",
+              "url": "https://www.rotoballer.com/player-news/giancarlo-stanton-back-in-the-lineup-against-marlins/1839436"
+            },
+            {
+              "title": "Craig and Chris debate decision to sit Giancarlo Stanton",
+              "url": "https://www.audacy.com/wfan/video/craig-and-chris-debate-decision-to-sit-giancarlo-stanton"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "camilo doval",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Michael Kay torches Yankees fans questioning Aaron Boone despite hot start",
+              "url": "https://www.nj.com/yankees/2026/04/michael-kay-torches-yankees-fans-questioning-aaron-boone-despite-hot-start.html"
+            },
+            {
+              "title": "Erik Boland: Yankees' bullpen has been everything Aaron Boone could have hoped for",
+              "url": "https://www.newsday.com/sports/columnists/erik-boland/camilo-doval-yankees-my2bzlof"
+            },
+            {
+              "title": "Yankees fans slam Aaron Boone for his polarizing move against Mariners",
+              "url": "https://larrybrownsports.com/baseball/yankees-fans-slam-aaron-boone-polarizing-move-mariners/748045"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "tobe awaka",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "From unknown to indispensable: Tobe Awaka’s selfless rise at Arizona",
+              "url": "https://arizonasports.com/ncaa/uofa-basketball/tobe-awaka-selfless/3616625/"
+            },
+            {
+              "title": "Exclusive | Tobe Awaka, once overlooked NYC prep star, shining for Arizona ahead of Final Four",
+              "url": "https://nypost.com/2026/04/02/sports/tobe-awaka-once-overlooked-nyc-prep-star-shining-for-arizona/"
+            },
+            {
+              "title": "Basketball Player Searched Every Religion Until He Found Jesus. Here’s What He Learned.",
+              "url": "https://www.movieguide.org/news-articles/basketball-player-searched-every-religion-until-he-found-jesus.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "a24 movies",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'The Drama' plot twist, explained: What did Zendaya's character do, and what happens to her wedding?",
+              "url": "https://www.yahoo.com/entertainment/movies/article/the-drama-plot-twist-explained-what-did-zendayas-character-do-and-what-happens-to-her-wedding-110000112.html"
+            },
+            {
+              "title": "The Drama Character Is Declared The Biggest Hypocrite In Robert Pattinson & Zendaya's New A24 Movie",
+              "url": "https://www.imdb.com/news/ni65781422/?ref_=nmnw_art_perm"
+            },
+            {
+              "title": "Parkland Survivor Jackie Corin on ‘The Drama’ and Her Concerns About Casting Zendaya and Robert Pattinson",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/the-drama-parkland-shooting-jackie-corin-zendaya-pattinson-1236555461/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "chris hemsworth",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Chris Hemsworth's 2026 Crime Thriller Flop With An A-List Cast Is Finding Fans On Streaming",
+              "url": "https://www.imdb.com/news/ni65779003/?ref_=nwc_art_perm"
+            },
+            {
+              "title": "Chris Hemsworth And Mark Ruffalo's New Movie With 89% On Rotten Tomatoes Is Already Killing It On Prime Video",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/chris-hemsworth-mark-ruffalos-movie-191550100.html"
+            },
+            {
+              "title": "One Of 2026’s Best, Most Overlooked Movies Is Now Streaming On Amazon",
+              "url": "https://www.forbes.com/sites/paultassi/2026/04/04/one-of-2026s-best-most-overlooked-movies-is-now-streaming-on-amazon/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "roddy gayle jr",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Roddy Gayle Jr Rising to the occasion; Talks Confidence, Chemistry, & Chasing a Championship in the Final Four",
+              "url": "https://247sports.com/college/michigan/article/roddy-gayle-michigan-basketball-dusty-may-final-four-arizona-vs-michigan-ncaa-tournament-trey-mckenney-yaxel-lendeborg-college-basketball-2026-280315596/"
+            },
+            {
+              "title": "Despite being big-centric, Michigan guards have been standout in March",
+              "url": "https://www.michigandaily.com/sports/mens-basketball/despite-being-big-centric-michigan-guards-have-been-standout/"
+            },
+            {
+              "title": "Roddy Gayle Jr. flies in for nice Michigan slam",
+              "url": "https://www.espn.co.uk/video/clip/_/id/48340175"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "tori spelling",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Tori Spelling Transported to Hospital After Car Hit By Another Driver",
+              "url": "https://www.tmz.com/2026/04/04/tori-spelling-kids-taken-hospital-after-car-crash/"
+            },
+            {
+              "title": "Tori Spelling and 4 of Her Kids Taken to Hospital After Car Crash",
+              "url": "https://people.com/tori-spelling-and-four-of-her-kids-taken-to-hospital-after-car-crash-11943011"
+            },
+            {
+              "title": "Tori Spelling and four of her children taken to the hospital after horror car accident in Temecula",
+              "url": "https://www.dailymail.co.uk/tvshowbiz/article-15707187/tori-spelling-four-children-hospital-car-accident.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 46,
+          "interest_max": 100,
+          "interest_latest": 46,
+          "rank": 1
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 46,
+          "interest_max": 100,
+          "interest_latest": 44,
+          "rank": 2
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 34,
+          "interest_max": 88,
+          "interest_latest": 40,
+          "rank": 3
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 31,
+          "interest_max": 98,
+          "interest_latest": 23,
+          "rank": 4
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 30,
+          "interest_max": 81,
+          "interest_latest": 30,
+          "rank": 5
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 30,
+          "interest_max": 100,
+          "interest_latest": 49,
+          "rank": 6
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 22,
+          "interest_max": 48,
+          "interest_latest": 27,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 4,
+          "interest_max": 16,
+          "interest_latest": 4,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 26,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 47,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "moynat",
+          "value": "110"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "chanel",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury aesthetic",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d10 pursuit",
+          "value": "500"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "prima boston",
+          "value": "350"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d10",
+          "value": "120"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "my girl boston",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coqueta",
+          "value": "70"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "見取り図 リリー",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "見取り図リリー「教えてください」リリー・フランキーにどうしても伝えたいこと 共演きっかけに交流（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/fe5683966954b21ed50a4840b648951728684a99"
+            },
+            {
+              "title": "見取り図リリー、リリー・フランキーから突然来た連絡に困惑…返信するも「2年経過しても音沙汰がない」 | チバテレ＋プラス",
+              "url": "https://www.chiba-tv.com/plus/detail/2026041483418"
+            },
+            {
+              "title": "見取り図リリー、リリー・フランキーから突然来た連絡に困惑…返信するも「2年経過しても音沙汰がない」（ABEMA TIMES）",
+              "url": "https://topics.smt.docomo.ne.jp/article/abematimes/trend/abematimes-10236138"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "新庄剛志",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "濱家隆一",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "レギュラー17本のかまいたち濱家、終わったらショックな番組を告白「7年目かな？」（ENCOUNT）",
+              "url": "https://news.yahoo.co.jp/articles/0ac663e304676adc9e800149ac4e78a9f0b697cd"
+            },
+            {
+              "title": "見取り図＆ニューヨーク、若手時代の“忘れられない”ハプニング「めっちゃ青春だった」",
+              "url": "https://post.tv-asahi.co.jp/post-717270/"
+            },
+            {
+              "title": "ニューヨーク屋敷、全てを手に入れたカリスマ先輩芸人に「でも誰からも好かれてないですよね？」 | チバテレ＋プラス",
+              "url": "https://www.chiba-tv.com/plus/detail/2026041484248"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "mensa",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Mensa’s idea of ‘intelligence’ is plain stupid",
+              "url": "https://www.spiked-online.com/2026/04/04/mensas-idea-of-intelligence-is-plain-stupid/"
+            },
+            {
+              "title": "Meet Pontefract maths whiz Michael who has become a member of Mensa - aged four",
+              "url": "https://www.wakefieldexpress.co.uk/education/meet-pontefract-maths-whiz-michael-who-has-become-a-member-of-mensa-aged-four-6550403"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "セネガル",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "まさか負けるとは…。サッカー日本代表が敗れたFIFAランキング下位国5選。過去に苦戦した相手は？",
+              "url": "https://www.footballchannel.jp/2026/04/03/post875943/"
+            },
+            {
+              "title": "「韓国、落胆！ 日本、また日本、さらにまた日本が１位に」最新FIFAランクに韓メディアが見解。森保Jの躍進ぶりに「W杯優勝への挑戦に青信号」（SOCCER DIGEST Web）",
+              "url": "https://topics.smt.docomo.ne.jp/article/soccerdigestweb/sports/soccerdigestweb-188668?page=2"
+            },
+            {
+              "title": "最新FIFAランクでフランスが1位に返り咲き、18位浮上日本とW杯対戦決定スウェーデンは38位",
+              "url": "https://web.gekisaka.jp/news/japan/detail/?448829-448829-fl"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "一目千本桜",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "名所「一目千本桜」も開花 おおがわら桜まつり始まる 宮城",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2570937"
+            },
+            {
+              "title": "【中継】宮城県内有数の桜の名所「一目千本桜」でライトアップ開始",
+              "url": "https://topics.smt.docomo.ne.jp/article/oxtv/region/oxtv-29999"
+            },
+            {
+              "title": "おおがわら桜まつり実行委員会・タイムズ２４、宮城県大河原町「おおがわら桜まつり」の特設駐車場運営に「タイムズパーキング キャラバン」を初導入",
+              "url": "https://www.asahi.com/and/pressrelease/16465954"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "mls",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Inter Miami CF Unveils Leo Messi Stand at Nu Stadium",
+              "url": "https://www.intermiamicf.com/news/inter-miami-cf-unveils-leo-messi-stand-at-nu-stadium"
+            },
+            {
+              "title": "Talk about a quick start 👀",
+              "url": "https://www.foxsports.com/watch-vertical/fmc-yx6v6hr04symtyo0"
+            },
+            {
+              "title": "Join the Excitement! Plan for Travel Around MIA on April 4",
+              "url": "https://news.miami-airport.com/join-the-excitement-plan-for-travel-around-mia-on-april-4/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "津競艇",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【BOATRACE】津G1ダイヤモンドカップ 松田大志郎が連勝で得点率2位に上昇！ 1位は菊地孝平",
+              "url": "https://sports.yahoo.co.jp/official/detail/2026040500008-spnaviow"
+            },
+            {
+              "title": "【ボート】津Ｇ１　上田龍星が準優へ２走１５点勝負　「イメージはいい」水面で一発を狙う",
+              "url": "https://topics.smt.docomo.ne.jp/article/dailysports/sports/20260404124"
+            },
+            {
+              "title": "【ボート】津Ｇ１ 求めていた伸びが来て調整もバッチリの尾嶋一広",
+              "url": "https://sportsbull.jp/p/2306267/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "優香",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "オリコンニュース：優香、料理番組初レギュラーが決定 エプロン姿で「家族に素敵なものを作ってみたい」［コメント全文］",
+              "url": "https://mainichi.jp/articles/20260404/orc/00m/200/115000c"
+            },
+            {
+              "title": "優香のサンデークッキング｜バラエティ｜見逃し無料配信はTVer！人気の動画見放題",
+              "url": "https://tver.jp/series/srmxl8qs32"
+            },
+            {
+              "title": "新番組「優香のサンデークッキング」に京セラが提供開始 京セラ株式会社",
+              "url": "https://www.niigata-nippo.co.jp/articles/-/808386"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "辻仁成",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "熱血しげちゃんが行く、6",
+              "url": "https://www.designstoriesinc.com/panorama/daily-7655/"
+            },
+            {
+              "title": "毎日が勝負飯、「ニューヨーク・ミートローフ」",
+              "url": "https://www.designstoriesinc.com/panorama/daily-7653/"
+            },
+            {
+              "title": "辻村相談窓口、「和を乱す者への向き合い方」",
+              "url": "https://www.designstoriesinc.com/tsujiville/daily-7650/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 51,
+          "interest_max": 100,
+          "interest_latest": 93,
+          "rank": 1
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 48,
+          "interest_max": 100,
+          "interest_latest": 55,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 30,
+          "interest_max": 80,
+          "interest_latest": 28,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 28,
+          "interest_max": 94,
+          "interest_latest": 27,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 18,
+          "interest_max": 83,
+          "interest_latest": 22,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 12,
+          "interest_max": 64,
+          "interest_latest": 34,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 3,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 16,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 41,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 75,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 アイドル 空港 ファッション",
+          "value": "110"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "y2k ファッション",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "マーティン キム",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 系 ファッション 男子",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "y2k",
+          "value": "80"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-04-05T02:39:25.847308+00:00"
+}
