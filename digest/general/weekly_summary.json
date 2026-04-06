@@ -8,9 +8,14 @@
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "dance",
+      "growth": "+5%",
+      "total_mentions": 138
+    },
+    {
       "keyword": "#shorts",
-      "growth": "+25%",
-      "total_mentions": 94
+      "growth": "+33%",
+      "total_mentions": 95
     },
     {
       "keyword": "#viral",
@@ -26,14 +31,17 @@
       "keyword": "블라우스",
       "growth": "+20%",
       "total_mentions": 78
-    },
-    {
-      "keyword": "여성봄점퍼",
-      "growth": "+67%",
-      "total_mentions": 54
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "프링글스",
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "패션",
       "platforms": [

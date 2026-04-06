@@ -2,21 +2,21 @@
   "date": "2026-04-06",
   "mode": "general",
   "compared_to": "2026-04-05",
-  "total_keywords_today": 446,
+  "total_keywords_today": 449,
   "total_keywords_yesterday": 463,
   "data_days_available": 22,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "dance",
-      "change": "+11%",
-      "today_count": 21,
+      "change": "+16%",
+      "today_count": 22,
       "yesterday_count": 19,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 21건, 어제 19건 기준"
+      "sample_note": "오늘 22건, 어제 19건 기준"
     },
     {
       "keyword": "#viral",
@@ -74,15 +74,15 @@
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "musiccreator169",
-      "change": "+20%",
+      "keyword": "chocounwrapworld",
+      "change": "NEW",
       "today_count": 6,
-      "yesterday_count": 5,
+      "yesterday_count": 0,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
+      "sample_note": "오늘 6건 (신규)"
     },
     {
       "keyword": "티셔츠",
@@ -130,6 +130,17 @@
     },
     {
       "keyword": "유행",
+      "change": "+300%",
+      "today_count": 4,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 1건 기준"
+    },
+    {
+      "keyword": "#lifehacks",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -140,37 +151,26 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "work",
-      "change": "+50%",
+      "keyword": "lifehacks",
+      "change": "+200%",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "cleaning",
-      "change": "+50%",
+      "keyword": "party",
+      "change": "+200%",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "ranking",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
       "keyword": "#diy",
@@ -185,6 +185,17 @@
     },
     {
       "keyword": "diy",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "tips",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -215,24 +226,20 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
-      "keyword": "ai",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
+      "keyword": "trend",
+      "change": "-11%",
+      "today_count": 16,
+      "yesterday_count": 18,
+      "confidence": "high"
+    },
+    {
       "keyword": "#shorts",
-      "change": "-17%",
-      "today_count": 15,
+      "change": "-11%",
+      "today_count": 16,
       "yesterday_count": 18,
       "confidence": "high"
     },
@@ -279,27 +286,32 @@
       "confidence": "low"
     },
     {
+      "keyword": "musiccreator169",
+      "change": "-100%",
+      "today_count": 0,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
       "keyword": "#kpop",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#love",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "kpop",
       "change": "-20%",
       "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     }
   ],
-  "new_entries": [],
-  "cross_platform_hot": []
+  "new_entries": [
+    "chocounwrapworld"
+  ],
+  "cross_platform_hot": [
+    {
+      "keyword": "프링글스",
+      "platform_count": 2,
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "total_count": 2
+    }
+  ]
 }
