@@ -1,43 +1,59 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-03-30",
-    "to": "2026-04-05"
+    "from": "2026-03-31",
+    "to": "2026-04-06"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "fashion",
+      "growth": "+7%",
+      "total_mentions": 104
+    },
+    {
+      "keyword": "바람막이",
+      "growth": "+8%",
+      "total_mentions": 85
+    },
+    {
       "keyword": "여성봄자켓",
       "growth": "+9%",
-      "total_mentions": 81
-    },
-    {
-      "keyword": "ootd",
-      "growth": "+22%",
-      "total_mentions": 75
-    },
-    {
-      "keyword": "#ootd",
-      "growth": "+11%",
-      "total_mentions": 73
-    },
-    {
-      "keyword": "#shorts",
-      "growth": "+100%",
-      "total_mentions": 59
+      "total_mentions": 82
     },
     {
       "keyword": "여성봄점퍼",
-      "growth": "+80%",
-      "total_mentions": 49
+      "growth": "+67%",
+      "total_mentions": 54
+    },
+    {
+      "keyword": "#봄코디",
+      "growth": "+40%",
+      "total_mentions": 39
     }
   ],
   "most_cross_platform": [
     {
+      "keyword": "원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
       "keyword": "패션",
       "platforms": [
         "google_trends",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "바람막이",
+      "platforms": [
+        "naver",
         "youtube"
       ],
       "count": 2
@@ -51,26 +67,10 @@
       "count": 2
     },
     {
-      "keyword": "원피스",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
       "keyword": "티셔츠",
       "platforms": [
         "naver",
         "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "만우절 장난",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
       ],
       "count": 2
     }
@@ -80,17 +80,17 @@
     "원피스",
     "바람막이",
     "여성봄자켓",
-    "블라우스"
+    "여성가디건"
   ],
   "top_keywords_overall": [
     "fashion",
     "원피스",
+    "바람막이",
     "블라우스",
     "트위드자켓",
-    "바람막이",
     "여성가디건",
-    "트렌치코트",
     "여성봄자켓",
+    "트렌치코트",
     "ootd",
     "#ootd"
   ]
