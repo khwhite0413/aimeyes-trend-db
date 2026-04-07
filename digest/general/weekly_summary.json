@@ -1,8 +1,8 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-03-31",
-    "to": "2026-04-06"
+    "from": "2026-04-01",
+    "to": "2026-04-07"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -10,30 +10,38 @@
     {
       "keyword": "dance",
       "growth": "+5%",
-      "total_mentions": 138
+      "total_mentions": 139
     },
     {
       "keyword": "#shorts",
-      "growth": "+33%",
-      "total_mentions": 95
+      "growth": "+25%",
+      "total_mentions": 98
     },
     {
       "keyword": "#viral",
-      "growth": "+42%",
-      "total_mentions": 85
+      "growth": "+25%",
+      "total_mentions": 88
     },
     {
       "keyword": "여성봄자켓",
       "growth": "+9%",
-      "total_mentions": 82
+      "total_mentions": 83
     },
     {
       "keyword": "블라우스",
-      "growth": "+20%",
-      "total_mentions": 78
+      "growth": "+9%",
+      "total_mentions": 80
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "템플스테이",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "프링글스",
       "platforms": [
@@ -51,14 +59,6 @@
       "count": 2
     },
     {
-      "keyword": "만우절 장난",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
-    },
-    {
       "keyword": "트럼프 연설",
       "platforms": [
         "google_trends",
@@ -72,7 +72,7 @@
     "원피스",
     "바람막이",
     "여성봄자켓",
-    "여성가디건"
+    "블라우스"
   ],
   "top_keywords_overall": [
     "trend",
@@ -84,6 +84,6 @@
     "바람막이",
     "여성가디건",
     "여성봄자켓",
-    "트렌치코트"
+    "블라우스"
   ]
 }
