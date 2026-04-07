@@ -2,55 +2,21 @@
   "date": "2026-04-07",
   "mode": "fashion",
   "compared_to": "2026-04-06",
-  "total_keywords_today": 523,
+  "total_keywords_today": 526,
   "total_keywords_yesterday": 496,
   "data_days_available": 23,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "fashion",
-      "change": "+31%",
-      "today_count": 21,
+      "change": "+25%",
+      "today_count": 20,
       "yesterday_count": 16,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 21건, 어제 16건 기준"
-    },
-    {
-      "keyword": "ootd",
-      "change": "+15%",
-      "today_count": 15,
-      "yesterday_count": 13,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 15건, 어제 13건 기준"
-    },
-    {
-      "keyword": "#ootd",
-      "change": "+17%",
-      "today_count": 14,
-      "yesterday_count": 12,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 14건, 어제 12건 기준"
-    },
-    {
-      "keyword": "바람막이",
-      "change": "+8%",
-      "today_count": 13,
-      "yesterday_count": 12,
-      "confidence": "high",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "sample_note": "오늘 13건, 어제 12건 기준"
+      "sample_note": "오늘 20건, 어제 16건 기준"
     },
     {
       "keyword": "style",
@@ -65,14 +31,14 @@
     },
     {
       "keyword": "#fashion",
-      "change": "+57%",
-      "today_count": 11,
+      "change": "+29%",
+      "today_count": 9,
       "yesterday_count": 7,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 11건, 어제 7건 기준"
+      "sample_note": "오늘 9건, 어제 7건 기준"
     },
     {
       "keyword": "티셔츠",
@@ -108,17 +74,6 @@
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "april",
-      "change": "+20%",
-      "today_count": 6,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
-    },
-    {
       "keyword": "outfits",
       "change": "+20%",
       "today_count": 6,
@@ -131,6 +86,17 @@
     },
     {
       "keyword": "street",
+      "change": "+50%",
+      "today_count": 6,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 4건 기준"
+    },
+    {
+      "keyword": "데일리룩",
       "change": "+25%",
       "today_count": 5,
       "yesterday_count": 4,
@@ -141,18 +107,7 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "#shorts",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "trends",
+      "keyword": "#데일리룩",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -163,15 +118,15 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "milan",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
+      "keyword": "코디법",
+      "change": "NEW",
+      "today_count": 3,
+      "yesterday_count": 0,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 3건 (신규)"
     },
     {
       "keyword": "zara",
@@ -185,7 +140,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "dance",
+      "keyword": "#쇼츠",
       "change": "NEW",
       "today_count": 3,
       "yesterday_count": 0,
@@ -196,7 +151,29 @@
       "sample_note": "오늘 3건 (신규)"
     },
     {
-      "keyword": "trend",
+      "keyword": "쇼츠",
+      "change": "NEW",
+      "today_count": 3,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건 (신규)"
+    },
+    {
+      "keyword": "vs",
+      "change": "NEW",
+      "today_count": 3,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건 (신규)"
+    },
+    {
+      "keyword": "women",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -218,15 +195,37 @@
       "sample_note": "오늘 3건 (신규)"
     },
     {
-      "keyword": "#outfit",
-      "change": "+200%",
+      "keyword": "#fyp",
+      "change": "+50%",
       "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "italian",
+      "change": "+100%",
+      "today_count": 2,
       "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "beautiful",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건 (신규)"
     }
   ],
   "declining": [
@@ -252,14 +251,7 @@
       "confidence": "medium"
     },
     {
-      "keyword": "#봄코디",
-      "change": "-14%",
-      "today_count": 6,
-      "yesterday_count": 7,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "봄코디",
+      "keyword": "spring",
       "change": "-14%",
       "today_count": 6,
       "yesterday_count": 7,
@@ -267,10 +259,10 @@
     },
     {
       "keyword": "haul",
-      "change": "-29%",
-      "today_count": 5,
+      "change": "-43%",
+      "today_count": 4,
       "yesterday_count": 7,
-      "confidence": "medium"
+      "confidence": "low"
     },
     {
       "keyword": "#데일리룩코디",
@@ -281,8 +273,8 @@
     },
     {
       "keyword": "코디",
-      "change": "-50%",
-      "today_count": 3,
+      "change": "-33%",
+      "today_count": 4,
       "yesterday_count": 6,
       "confidence": "low"
     },
@@ -299,21 +291,21 @@
       "today_count": 5,
       "yesterday_count": 6,
       "confidence": "medium"
+    },
+    {
+      "keyword": "shopping",
+      "change": "-60%",
+      "today_count": 2,
+      "yesterday_count": 5,
+      "confidence": "low"
     }
   ],
   "new_entries": [
-    "dance",
+    "코디법",
+    "#쇼츠",
+    "쇼츠",
+    "vs",
     "#style"
   ],
-  "cross_platform_hot": [
-    {
-      "keyword": "바람막이",
-      "platform_count": 2,
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "total_count": 13
-    }
-  ]
+  "cross_platform_hot": []
 }
