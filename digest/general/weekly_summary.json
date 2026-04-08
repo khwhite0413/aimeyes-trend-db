@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-04-01",
-    "to": "2026-04-07"
+    "from": "2026-04-02",
+    "to": "2026-04-08"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "dance",
+      "growth": "+62%",
+      "total_mentions": 140
+    },
+    {
       "keyword": "#shorts",
       "growth": "+50%",
-      "total_mentions": 101
+      "total_mentions": 107
     },
     {
       "keyword": "#viral",
-      "growth": "+8%",
-      "total_mentions": 86
-    },
-    {
-      "keyword": "여성봄자켓",
-      "growth": "+9%",
-      "total_mentions": 83
+      "growth": "+70%",
+      "total_mentions": 91
     },
     {
       "keyword": "블라우스",
       "growth": "+9%",
-      "total_mentions": 80
+      "total_mentions": 81
     },
     {
       "keyword": "여성봄점퍼",
-      "growth": "+50%",
-      "total_mentions": 57
+      "growth": "+14%",
+      "total_mentions": 59
     }
   ],
   "most_cross_platform": [
@@ -41,41 +41,25 @@
         "youtube"
       ],
       "count": 2
-    },
-    {
-      "keyword": "패션",
-      "platforms": [
-        "google_trends",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "트럼프 연설",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
     "트위드자켓",
     "원피스",
     "바람막이",
-    "여성봄자켓",
-    "블라우스"
+    "블라우스",
+    "여성봄자켓"
   ],
   "top_keywords_overall": [
-    "trend",
     "dance",
+    "trend",
     "#shorts",
     "#viral",
     "트위드자켓",
     "원피스",
     "바람막이",
-    "여성가디건",
     "여성봄자켓",
+    "여성가디건",
     "블라우스"
   ]
 }
