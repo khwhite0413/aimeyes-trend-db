@@ -1,8 +1,8 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-04-02",
-    "to": "2026-04-08"
+    "from": "2026-04-03",
+    "to": "2026-04-09"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -10,27 +10,27 @@
     {
       "keyword": "바람막이",
       "growth": "+8%",
-      "total_mentions": 85
-    },
-    {
-      "keyword": "여성봄점퍼",
-      "growth": "+14%",
-      "total_mentions": 59
+      "total_mentions": 86
     },
     {
       "keyword": "style",
-      "growth": "+100%",
-      "total_mentions": 50
-    },
-    {
-      "keyword": "outfit",
-      "growth": "+40%",
-      "total_mentions": 47
+      "growth": "+12%",
+      "total_mentions": 55
     },
     {
       "keyword": "올리비아로렌",
-      "growth": "+33%",
-      "total_mentions": 44
+      "growth": "+50%",
+      "total_mentions": 47
+    },
+    {
+      "keyword": "티셔츠",
+      "growth": "+20%",
+      "total_mentions": 41
+    },
+    {
+      "keyword": "spring",
+      "growth": "+167%",
+      "total_mentions": 39
     }
   ],
   "most_cross_platform": [
@@ -60,9 +60,9 @@
     }
   ],
   "naver_shopping_hot": [
-    "트위드자켓",
     "원피스",
     "바람막이",
+    "트위드자켓",
     "블라우스",
     "여성봄자켓"
   ],
@@ -75,7 +75,7 @@
     "여성봄자켓",
     "여성가디건",
     "ootd",
-    "트렌치코트",
-    "#ootd"
+    "#ootd",
+    "트렌치코트"
   ]
 }
