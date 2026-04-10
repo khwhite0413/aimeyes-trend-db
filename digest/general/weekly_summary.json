@@ -1,39 +1,47 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-04-03",
-    "to": "2026-04-09"
+    "from": "2026-04-04",
+    "to": "2026-04-10"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "dance",
-      "growth": "+26%",
-      "total_mentions": 142
-    },
-    {
-      "keyword": "#shorts",
-      "growth": "+40%",
-      "total_mentions": 107
+      "growth": "+15%",
+      "total_mentions": 146
     },
     {
       "keyword": "#viral",
-      "growth": "+75%",
-      "total_mentions": 94
+      "growth": "+17%",
+      "total_mentions": 100
     },
     {
       "keyword": "블라우스",
       "growth": "+9%",
-      "total_mentions": 82
+      "total_mentions": 83
     },
     {
       "keyword": "#dance",
-      "growth": "+29%",
+      "growth": "+14%",
+      "total_mentions": 51
+    },
+    {
+      "keyword": "올리비아로렌",
+      "growth": "+80%",
       "total_mentions": 50
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "삼성전기",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "프링글스",
       "platforms": [
