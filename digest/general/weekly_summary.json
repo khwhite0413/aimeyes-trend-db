@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-04-04",
-    "to": "2026-04-10"
+    "from": "2026-04-05",
+    "to": "2026-04-11"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "dance",
-      "growth": "+15%",
-      "total_mentions": 146
+      "keyword": "#shorts",
+      "growth": "+6%",
+      "total_mentions": 116
     },
     {
       "keyword": "#viral",
-      "growth": "+17%",
-      "total_mentions": 100
-    },
-    {
-      "keyword": "블라우스",
-      "growth": "+9%",
-      "total_mentions": 83
-    },
-    {
-      "keyword": "#dance",
-      "growth": "+29%",
-      "total_mentions": 52
+      "growth": "+7%",
+      "total_mentions": 103
     },
     {
       "keyword": "올리비아로렌",
-      "growth": "+80%",
-      "total_mentions": 50
+      "growth": "+50%",
+      "total_mentions": 54
+    },
+    {
+      "keyword": "에고이스트",
+      "growth": "+40%",
+      "total_mentions": 46
+    },
+    {
+      "keyword": "티셔츠",
+      "growth": "+20%",
+      "total_mentions": 43
     }
   ],
   "most_cross_platform": [
@@ -39,6 +39,14 @@
       "platforms": [
         "x_twitter",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "두산베어스",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     }
@@ -52,14 +60,14 @@
   ],
   "top_keywords_overall": [
     "dance",
-    "trend",
     "#shorts",
+    "trend",
     "#viral",
     "원피스",
     "바람막이",
     "트위드자켓",
+    "블라우스",
     "여성봄자켓",
-    "여성가디건",
-    "블라우스"
+    "여성가디건"
   ]
 }

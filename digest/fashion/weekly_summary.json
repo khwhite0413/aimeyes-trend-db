@@ -1,39 +1,47 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-04-04",
-    "to": "2026-04-10"
+    "from": "2026-04-05",
+    "to": "2026-04-11"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+6%",
-      "total_mentions": 103
+      "growth": "+133%",
+      "total_mentions": 101
     },
     {
-      "keyword": "#fashion",
-      "growth": "+33%",
-      "total_mentions": 52
+      "keyword": "ootd",
+      "growth": "+45%",
+      "total_mentions": 84
+    },
+    {
+      "keyword": "#ootd",
+      "growth": "+50%",
+      "total_mentions": 80
     },
     {
       "keyword": "올리비아로렌",
-      "growth": "+80%",
-      "total_mentions": 50
+      "growth": "+50%",
+      "total_mentions": 54
     },
     {
-      "keyword": "outfit",
-      "growth": "+29%",
-      "total_mentions": 49
-    },
-    {
-      "keyword": "spring",
-      "growth": "+75%",
-      "total_mentions": 43
+      "keyword": "style",
+      "growth": "+20%",
+      "total_mentions": 52
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "두산베어스",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "원피스",
       "platforms": [
@@ -71,10 +79,10 @@
     "원피스",
     "바람막이",
     "블라우스",
+    "ootd",
     "트위드자켓",
     "여성봄자켓",
     "여성가디건",
-    "ootd",
     "#ootd",
     "트렌치코트"
   ]
