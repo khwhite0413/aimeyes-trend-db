@@ -2,7 +2,7 @@
   "date": "2026-04-12",
   "mode": "general",
   "compared_to": "2026-04-11",
-  "total_keywords_today": 488,
+  "total_keywords_today": 503,
   "total_keywords_yesterday": 499,
   "data_days_available": 28,
   "overall_confidence": "high",
@@ -41,7 +41,7 @@
       "sample_note": "오늘 8건, 어제 7건 기준"
     },
     {
-      "keyword": "challenge",
+      "keyword": "#trending",
       "change": "+17%",
       "today_count": 7,
       "yesterday_count": 6,
@@ -50,17 +50,6 @@
         "youtube"
       ],
       "sample_note": "오늘 7건, 어제 6건 기준"
-    },
-    {
-      "keyword": "hack",
-      "change": "+75%",
-      "today_count": 7,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 4건 기준"
     },
     {
       "keyword": "티셔츠",
@@ -226,6 +215,17 @@
         "youtube"
       ],
       "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "hack",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
     }
   ],
   "declining": [
@@ -237,9 +237,16 @@
       "confidence": "high"
     },
     {
+      "keyword": "#viral",
+      "change": "-6%",
+      "today_count": 15,
+      "yesterday_count": 16,
+      "confidence": "high"
+    },
+    {
       "keyword": "dance",
-      "change": "-71%",
-      "today_count": 4,
+      "change": "-79%",
+      "today_count": 3,
       "yesterday_count": 14,
       "confidence": "low"
     },
@@ -252,8 +259,8 @@
     },
     {
       "keyword": "trend",
-      "change": "-78%",
-      "today_count": 2,
+      "change": "-89%",
+      "today_count": 1,
       "yesterday_count": 9,
       "confidence": "low"
     },
@@ -291,15 +298,20 @@
       "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
-    },
-    {
-      "keyword": "easter",
-      "change": "-100%",
-      "today_count": 0,
-      "yesterday_count": 4,
-      "confidence": "low"
     }
   ],
-  "new_entries": [],
-  "cross_platform_hot": []
+  "new_entries": [
+    "maggi"
+  ],
+  "cross_platform_hot": [
+    {
+      "keyword": "우리동네 야구대장",
+      "platform_count": 2,
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "total_count": 2
+    }
+  ]
 }

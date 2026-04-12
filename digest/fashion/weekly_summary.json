@@ -8,6 +8,16 @@
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "ootd",
+      "growth": "+23%",
+      "total_mentions": 88
+    },
+    {
+      "keyword": "#ootd",
+      "growth": "+17%",
+      "total_mentions": 83
+    },
+    {
       "keyword": "#fashion",
       "growth": "+86%",
       "total_mentions": 64
@@ -19,21 +29,27 @@
     },
     {
       "keyword": "outfit",
-      "growth": "+67%",
-      "total_mentions": 53
-    },
-    {
-      "keyword": "에고이스트",
-      "growth": "+33%",
-      "total_mentions": 49
-    },
-    {
-      "keyword": "코디",
-      "growth": "+50%",
-      "total_mentions": 45
+      "growth": "+83%",
+      "total_mentions": 54
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "#coachella",
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "우리동네 야구대장",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "원피스",
       "platforms": [
@@ -60,14 +76,14 @@
   ],
   "top_keywords_overall": [
     "fashion",
+    "ootd",
     "바람막이",
     "원피스",
-    "ootd",
     "블라우스",
     "트위드자켓",
     "여성가디건",
-    "여성봄자켓",
     "#ootd",
+    "여성봄자켓",
     "#fashion"
   ]
 }

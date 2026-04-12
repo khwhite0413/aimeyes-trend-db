@@ -2,13 +2,24 @@
   "date": "2026-04-12",
   "mode": "fashion",
   "compared_to": "2026-04-11",
-  "total_keywords_today": 453,
+  "total_keywords_today": 476,
   "total_keywords_yesterday": 460,
   "data_days_available": 28,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "fashion",
+      "change": "+7%",
+      "today_count": 16,
+      "yesterday_count": 15,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 16건, 어제 15건 기준"
+    },
+    {
+      "keyword": "ootd",
       "change": "+7%",
       "today_count": 16,
       "yesterday_count": 15,
@@ -31,36 +42,25 @@
     },
     {
       "keyword": "outfit",
-      "change": "+11%",
-      "today_count": 10,
+      "change": "+22%",
+      "today_count": 11,
       "yesterday_count": 9,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 10건, 어제 9건 기준"
+      "sample_note": "오늘 11건, 어제 9건 기준"
     },
     {
       "keyword": "코디",
-      "change": "+12%",
-      "today_count": 9,
+      "change": "+25%",
+      "today_count": 10,
       "yesterday_count": 8,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 9건, 어제 8건 기준"
-    },
-    {
-      "keyword": "#shorts",
-      "change": "+14%",
-      "today_count": 8,
-      "yesterday_count": 7,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 8건, 어제 7건 기준"
+      "sample_note": "오늘 10건, 어제 8건 기준"
     },
     {
       "keyword": "에고이스트",
@@ -74,17 +74,6 @@
       "sample_note": "오늘 8건, 어제 7건 기준"
     },
     {
-      "keyword": "봄코디",
-      "change": "+17%",
-      "today_count": 7,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
-    },
-    {
       "keyword": "티셔츠",
       "change": "+17%",
       "today_count": 7,
@@ -94,17 +83,6 @@
         "naver"
       ],
       "sample_note": "오늘 7건, 어제 6건 기준"
-    },
-    {
-      "keyword": "데일리룩",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
       "keyword": "#outfit",
@@ -118,95 +96,51 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "#韓国ファッション",
-      "change": "+67%",
-      "today_count": 5,
+      "keyword": "denim",
+      "change": "+33%",
+      "today_count": 4,
       "yesterday_count": 3,
-      "confidence": "medium",
+      "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "#韓国ファッション",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
       "keyword": "韓国ファッション",
-      "change": "+67%",
-      "today_count": 5,
+      "change": "+33%",
+      "today_count": 4,
       "yesterday_count": 3,
-      "confidence": "medium",
+      "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "wego",
-      "change": "+150%",
-      "today_count": 5,
-      "yesterday_count": 2,
-      "confidence": "medium",
+      "keyword": "#코디",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
       "keyword": "#wego",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#ガーリー",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#カジュアル",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "ガーリー",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "カジュアル",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "입는",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -217,7 +151,73 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#코디",
+      "keyword": "wego",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "looks",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "2026一大トレンド",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "ハーフジップが進化",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "復活",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "데일리",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "봄맞이",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -229,20 +229,6 @@
     }
   ],
   "declining": [
-    {
-      "keyword": "ootd",
-      "change": "-20%",
-      "today_count": 12,
-      "yesterday_count": 15,
-      "confidence": "high"
-    },
-    {
-      "keyword": "#ootd",
-      "change": "-21%",
-      "today_count": 11,
-      "yesterday_count": 14,
-      "confidence": "high"
-    },
     {
       "keyword": "여성봄자켓",
       "change": "-8%",
@@ -265,31 +251,10 @@
       "confidence": "low"
     },
     {
-      "keyword": "#데일리룩코디",
+      "keyword": "#shorts",
       "change": "-14%",
       "today_count": 6,
       "yesterday_count": 7,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "데일리룩코디",
-      "change": "-14%",
-      "today_count": 6,
-      "yesterday_count": 7,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "haul",
-      "change": "-14%",
-      "today_count": 6,
-      "yesterday_count": 7,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "style",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
       "confidence": "medium"
     },
     {
@@ -298,8 +263,62 @@
       "today_count": 3,
       "yesterday_count": 6,
       "confidence": "low"
+    },
+    {
+      "keyword": "street",
+      "change": "-60%",
+      "today_count": 2,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "outfits",
+      "change": "-40%",
+      "today_count": 3,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "추천",
+      "change": "-40%",
+      "today_count": 3,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "후드집업",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "여성봄점퍼",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
     }
   ],
   "new_entries": [],
-  "cross_platform_hot": []
+  "cross_platform_hot": [
+    {
+      "keyword": "#coachella",
+      "platform_count": 2,
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "total_count": 2
+    },
+    {
+      "keyword": "우리동네 야구대장",
+      "platform_count": 2,
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "total_count": 2
+    }
+  ]
 }
