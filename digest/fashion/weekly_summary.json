@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-04-05",
-    "to": "2026-04-11"
+    "from": "2026-04-06",
+    "to": "2026-04-12"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+150%",
-      "total_mentions": 102
-    },
-    {
-      "keyword": "ootd",
-      "growth": "+36%",
-      "total_mentions": 83
-    },
-    {
-      "keyword": "#ootd",
-      "growth": "+40%",
-      "total_mentions": 79
+      "keyword": "#fashion",
+      "growth": "+86%",
+      "total_mentions": 64
     },
     {
       "keyword": "올리비아로렌",
       "growth": "+50%",
-      "total_mentions": 54
+      "total_mentions": 57
     },
     {
-      "keyword": "#fashion",
-      "growth": "+400%",
+      "keyword": "outfit",
+      "growth": "+67%",
       "total_mentions": 53
+    },
+    {
+      "keyword": "에고이스트",
+      "growth": "+33%",
+      "total_mentions": 49
+    },
+    {
+      "keyword": "코디",
+      "growth": "+50%",
+      "total_mentions": 45
     }
   ],
   "most_cross_platform": [
@@ -49,33 +49,25 @@
         "youtube"
       ],
       "count": 2
-    },
-    {
-      "keyword": "블라우스",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
     "원피스",
     "바람막이",
-    "트위드자켓",
     "블라우스",
-    "여성봄자켓"
+    "트위드자켓",
+    "여성가디건"
   ],
   "top_keywords_overall": [
     "fashion",
-    "원피스",
     "바람막이",
+    "원피스",
+    "ootd",
     "블라우스",
     "트위드자켓",
-    "여성봄자켓",
     "여성가디건",
-    "ootd",
+    "여성봄자켓",
     "#ootd",
-    "트렌치코트"
+    "#fashion"
   ]
 }

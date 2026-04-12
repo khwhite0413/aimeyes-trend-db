@@ -1,0 +1,942 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ufc",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "UFC 327 ‘Prochazka vs. Ulberg’ play-by-play, results & round scoring",
+              "url": "https://bitacora.com.uy/ufc-327-prochazka-vs-ulberg-play-by-play-results-round-scoring/"
+            },
+            {
+              "title": "UFC 327 Streams!MMA: UFC 327 LIVE Streams ON TV CHANNEL",
+              "url": "https://www.goldderby.com/topic/ufc-327-streamsmma-ufc-327-live-streams-on-tv-channel/"
+            },
+            {
+              "title": "Carlos Ulberg on goals for first title fight vs. Jiri Prochazka at UFC 327: ‘Keep my head intact and walk out of there alive’",
+              "url": "https://www.mmafighting.com/ufc/481065/carlos-ulberg-on-goals-for-first-title-fight-vs-jiri-prochazka-at-ufc-327-keep-my-head-intact-and-walk-out-of-there-alive"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "원자력",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "새울3호기 '첫 시동' 단계 성공…하반기 상업운전",
+              "url": "https://www.newsis.com/view/NISX20260412_0003587546"
+            },
+            {
+              "title": "새울원전 3호기 `첫 시동` 성공…올 하반기 상업운전 개시",
+              "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20260412.99099003168"
+            },
+            {
+              "title": "새울3호기 착공 10년 만에 ‘첫 시동’ 성공…하반기 상업운전",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01387446645415464"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "지점장",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[단독] 지점 경비 100만원으로 떡 구매해 이자 내게 한 하나은행 지점장…법원 “해고는 과하다”[세상&]",
+              "url": "https://biz.heraldcorp.com/article/10714901"
+            },
+            {
+              "title": "불법 ‘농업인 대출’ 농협 지점장 등 16명 기소",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8532183"
+            },
+            {
+              "title": "\"내 말대로 해봐\"…농협 지점장 수법에 100억 '줄줄'",
+              "url": "https://v.daum.net/v/20260410112711609"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "inter miami vs ny red bulls",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "RBNY lead in Miami; LAFC suffer first loss of the season in MLS",
+              "url": "https://onefootball.com/en/news/rbny-lead-in-miami-lafc-suffer-first-loss-of-the-season-in-mls-42695698"
+            },
+            {
+              "title": "FROM GOAL-SCORER TO PLAYMAKER: Hall's 2 assists help Red Bulls draw at Miami, gain a road point",
+              "url": "https://www.frontrowsoccer.com/2026/04/11/from-goal-scorer-to-playmaker-halls-2-assists-help-red-bulls-draw-at-miami-gain-a-road-point/"
+            },
+            {
+              "title": "Messi, Inter Miami aim for first win at Nu Stadium vs. revamped Red Bull New York",
+              "url": "https://www.miamiherald.com/sports/mls/inter-miami/article315363404.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "항공기",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[단독] ‘통합’ 대한항공, 아시아나 全기체 ‘동일한’ 운항 능력 갖춘다",
+              "url": "https://biz.heraldcorp.com/article/10714125"
+            },
+            {
+              "title": "[대한민국 항공 대전환-하늘길 넘어 우주로] 나홀로 흑자, 무엇이 달랐나?",
+              "url": "https://www.econovill.com/news/articleView.html?idxno=735009"
+            },
+            {
+              "title": "[칼럼] 대한항공-아시아나 성공적 기업결합 완수 위한 선결 과제는",
+              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260409010002297"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "왕 즈이",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "꿈의 ‘그랜드슬램’까지 단 1승···안세영, 대표팀 동료 심유진 꺾고 아시아선수권 결승행",
+              "url": "https://www.khan.co.kr/article/202604111238001"
+            },
+            {
+              "title": "안세영, 심유진 꺾고 결승서 왕즈이와 우승 다툼",
+              "url": "https://www.newsis.com/view/NISI20260412_0002108530"
+            },
+            {
+              "title": "‘최강’ 안세영, 아시아선수권 결승 안착…그랜드슬램 보인다",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8533424"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "전국 삼성 전자 노동 조합",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "삼성전자 노조 “성과급 40조원 달라”…주주들 “파업시 주가 떨어진다”",
+              "url": "https://v.daum.net/v/20260412071839368"
+            },
+            {
+              "title": "\"삼성 파운드리 직원들은 메모리보다 덜 벌어도 참고 헌신해야 하나\"",
+              "url": "https://www.investchosun.com/site/data/html_dir/2026/04/09/2026040980067.html"
+            },
+            {
+              "title": "\"20만 전자·100만 닉스\"…덩달아 뜨거워진 '취업 전선'",
+              "url": "https://www.newsis.com/view/NISX20260410_0003586766"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "한국첨단소재",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "한국첨단소재, 500원→1500원 주식병합 결정",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04408326645414808"
+            },
+            {
+              "title": "크리스탈신소재, 4월 28일 정기주총 소집…주식병합·정관 변경 안건 상정",
+              "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653934"
+            },
+            {
+              "title": "한국첨단소재, 3대1 주식병합 결정",
+              "url": "https://news.nate.com/view/20260410n27177"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "개",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "대형마트·온라인몰 제품 4개 중 1개, 정량 미달",
+              "url": "https://www.newsis.com/view/NISX20260411_0003587168"
+            },
+            {
+              "title": "'500g이라더니?'…4개 중 1개는 내용량 부족",
+              "url": "https://v.daum.net/v/20260412112101292"
+            },
+            {
+              "title": "“500g 아닌 480g?”…상품 4개 중 1개 표시량 못 채운다",
+              "url": "https://www.hani.co.kr/arti/economy/economy_general/1253778.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "노동절",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "근로자의 날엔 \"출근하지 말라\" 했는데…문의 폭주한 까닭 [곽용희의 인사노무노트]",
+              "url": "https://www.hankyung.com/article/202604114237i"
+            },
+            {
+              "title": "노동절 공휴일 지정…5월1일 프로야구 경기 시작 시간 변경",
+              "url": "https://www.newsis.com/view/NISX20260409_0003584985"
+            },
+            {
+              "title": "5월 1일 KBO 경기 시작 시간 변경… 잠실·고척 등 전국 5개 구장 집중!",
+              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1151855"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 60,
+          "interest_max": 100,
+          "interest_latest": 53,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 7,
+          "interest_max": 28,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 26,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 32,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 23,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 8,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "kehlani",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "She’s got another one! Kehlani teams up with Missy Elliott for “Back and Forth” ahead of eagerly awaited fifth LP",
+              "url": "https://www.yahoo.com/entertainment/music/articles/she-got-another-one-kehlani-133727249.html"
+            },
+            {
+              "title": "Kehlani Recruits Missy Elliott for New Song “Back and Forth”",
+              "url": "https://pitchfork.com/news/kehlani-recruits-missy-elliott-for-new-song-back-and-forth/"
+            },
+            {
+              "title": "The Birthday Drop: Everything About the Kehlani Fifth Studio Album Kehlani",
+              "url": "https://hypehair.com/16715/kehlani-fifth-studio-album/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "curacao",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "True blue? Curacao liqueur reveals its true color",
+              "url": "https://www.yahoo.com/lifestyle/articles/true-blue-curacao-liqueur-reveals-060021372.html"
+            },
+            {
+              "title": "True blue? Curacao liqueur reveals its true color",
+              "url": "https://www.communitynewspapergroup.com/news/nation/true-blue-curacao-liqueur-reveals-its-true-color/article_34f7f0c7-36b8-53d6-995e-417071ec570b.html"
+            },
+            {
+              "title": "True blue? Curacao liqueur reveals its true color",
+              "url": "https://www.cbs19news.com/true-blue-curacao-liqueur-reveals-its-true-color/article_7830ee3f-7422-5684-8d38-5510cac3292c.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "jared bednar",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Avalanche's Nazem Kadri to miss 'some games' with finger injury",
+              "url": "https://www.espn.com/nhl/story/_/id/48440271/avalanc-nazem-kadri-miss-some-games-finger-injury"
+            },
+            {
+              "title": "10 Takeaways: When Should The Avalanche Start Resting Players?",
+              "url": "https://coloradohockeynow.com/10-takeaways-should-the-avalanche-start-resting-players/"
+            },
+            {
+              "title": "Avalanche’s Kadri will ‘miss some games,’ should be back before playoffs",
+              "url": "https://www.dailyfaceoff.com/news/colorado-avalanche-nazem-kadri-will-miss-some-games-injury-should-be-back-before-nhl-stanley-cup-playoffs"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "luis castillo",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Reds seem close to defeat with big prize from Luis Castillo trade with Mariners",
+              "url": "https://sodomojo.com/reds-seem-close-to-defeat-with-big-prize-from-luis-castillo-trade-with-mariners"
+            },
+            {
+              "title": "Mariners Game #15 Preview and Discussion: HOU at SEA",
+              "url": "https://www.lookoutlanding.com/seattle-mariners-discussion/141617/mariners-game-15-preview-and-discussion-hou-at-sea"
+            },
+            {
+              "title": "Houston Astros at Seattle Mariners Preview - 04/12/2026",
+              "url": "https://www.mlb.com/stories/game-preview/823154"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "yordan alvarez",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Yordan Alvarez homers, drives in three in loss to Seattle",
+              "url": "https://www.fantasypros.com/mlb/news/579953/yordan-alvarez-clubs-hr-drives-three-loss-to-seattle.php"
+            },
+            {
+              "title": "Measuring the stats on Yordan Alvarez's home run",
+              "url": "https://www.mlb.com/astros/video/measuring-the-stats-on-yordan-alvarez-s-home-run-x2405"
+            },
+            {
+              "title": "Yordan Alvarez's three-run homer (5)",
+              "url": "https://sports.yahoo.com/videos/yordan-alvarezs-three-run-homer-042843731.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "avs",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Michigan hockey star T.J. Hughes signs with NHL's Colorado Avalanche",
+              "url": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2026/04/11/michigan-hockey-tj-hughes-nhl-colorado-avalanche-contract/89570558007/"
+            },
+            {
+              "title": "Hobey Baker finalist Hughes joins Eagles",
+              "url": "https://theahl.com/news/hobey-baker-finalist-hughes-joins-eagles"
+            },
+            {
+              "title": "Avalanche Signs T.J. Hughes",
+              "url": "https://www.nhl.com/avalanche/news/avalanche-signs-t-j-hughes"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "bryan johnson",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Anti-Ageing Influencer Bryan Johnson Claims 10 Squats Better Than 30-Minute Post-Meal Walk",
+              "url": "https://www.ndtv.com/offbeat/anti-ageing-influencer-bryan-johnson-claims-10-squats-better-than-30-minute-post-meal-walk-11335470"
+            },
+            {
+              "title": "Bryan Johnson’s 14% hack: Experts reveal if frequent squats are more effective than a 30-minute walk",
+              "url": "https://indianexpress.com/article/lifestyle/fitness/bryan-johnson-10-squat-30-minute-walking-blood-sugar-10628957/"
+            },
+            {
+              "title": "Bryan Johnson Suggests Simple Squat Routine for Improved Blood Sugar Control",
+              "url": "https://impressivetimes.com/latest/bryan-johnson-squats-vs-walking-metabolic-health/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "taylor trammell",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Astros Option J.P. France, Recall Jayden Murray",
+              "url": "https://www.mlbtraderumors.com/2026/04/astros-option-j-p-france-recall-jayden-murray.html"
+            },
+            {
+              "title": "Ex-Mariners OF called up by Astros before series in Seattle",
+              "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/ex-mariners-of-called-up-by-astros-before-series-in-seattle/1845340"
+            },
+            {
+              "title": "Astros' J.P. France: Sent back to Triple-A",
+              "url": "https://www.cbssports.com/fantasy/baseball/news/astros-j-p-france-sent-back-to-triple-a/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "américa - cruz azul",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "EN VIVO: Sigue el América vs. Cruz Azul C2026",
+              "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/16561834/clasico-joven-america-vs-cruz-azul-clausura-2026-minuto-a-minuto"
+            },
+            {
+              "title": "Horario y dónde ver el América vs. Cruz Azul de la Jornada 14 del Clausura 2026",
+              "url": "https://www.tudn.com/futbol/liga-mx/america-vs-cruz-azul-horario-y-donde-ver-el-partido-de-la-jornada-14-de-la-liga-mx-clausura-2026"
+            },
+            {
+              "title": "América vs Cruz Azul: del dominio águila en el Azteca, a un clásico marcado por dudas",
+              "url": "https://www.si.com/mx/liga-mx/america-vs-cruz-azul-dominio-aguila-azteca-a-clasico-marcado-dudas"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "la catalina",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "CMLL confirms departure of La Catalina",
+              "url": "https://www.postwrestling.com/2026/04/07/cmll-confirms-departure-of-la-catalina/"
+            },
+            {
+              "title": "La Catalina and the Hidden Cost of a Move to AAA",
+              "url": "https://www.el-balad.com/16910190"
+            },
+            {
+              "title": "La Catalina Crashes Flammer’s Celebration And Lays Claim To Reina de Reinas Title In AAA Return",
+              "url": "https://www.ringsidenews.com/la-catalina-crashes-flammers-celebration-and-lays-claim-to-reina-de-reinas-title-in-aaa-return/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 40,
+          "interest_max": 100,
+          "interest_latest": 35,
+          "rank": 1
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 34,
+          "interest_max": 77,
+          "interest_latest": 41,
+          "rank": 2
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 30,
+          "interest_max": 89,
+          "interest_latest": 26,
+          "rank": 3
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 23,
+          "interest_max": 100,
+          "interest_latest": 12,
+          "rank": 4
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 21,
+          "interest_max": 54,
+          "interest_latest": 28,
+          "rank": 5
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 21,
+          "interest_max": 100,
+          "interest_latest": 20,
+          "rank": 6
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 13,
+          "interest_max": 23,
+          "interest_latest": 15,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 2,
+          "interest_max": 12,
+          "interest_latest": 4,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 11,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 9,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "midwest quiet time pet bed",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "celine",
+          "value": "40"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette cast",
+          "value": "450"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette star",
+          "value": "400"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "sombr",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Sombr sets internet on fire after hinting on 'special guest' at Coachella",
+              "url": "https://www.geo.tv/latest/659569-sombr-sets-internet-on-fire-after-hinting-on-special-guest-at-coachella"
+            },
+            {
+              "title": "Sombr’s Coachella Performance Sparks Taylor Swift Guest Appearance Speculation",
+              "url": "https://news.ssbcrack.com/sombrs-coachella-performance-sparks-taylor-swift-guest-appearance-speculation/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "東京六大学野球",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "されど7.6センチ。東京六大学リーグが学生野球の先陣を切って「拡大ベース」を導入。（上原伸一） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/8899391c4523658802bb4a7f7ee3b2a60a523368"
+            },
+            {
+              "title": "慶大・小原大和が東京６大学初のDH弾、大谷翔平の花巻東後輩が「歴史に名を」刻んだ",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkansports/sports/f-bb-tp5-260411-202604110002199"
+            },
+            {
+              "title": "三浦の好救援で窮地しのぐ 東大に辛勝／東京六大学春季リーグ戦 – 明大スポーツ新聞部",
+              "url": "https://meisupo.net/news/48173/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "角野隼斗",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "ピアニスト・角野隼斗×俳優・斎藤工が対談。音楽、映画、そして表現の原点をめぐる対話を2週にわたってオンエア。J-WAVE『TOKYO TATEMONO MUSIC OF THE SPHERES』",
+              "url": "https://prtimes.jp/main/html/rd/p/000002004.000025404.html"
+            },
+            {
+              "title": "ピアニスト・角野隼斗×俳優・斎藤工がラジオ対談 表現のルーツや「音楽と数学の意外な関係」を語り尽くす",
+              "url": "https://emogram.sankei.com/81632"
+            },
+            {
+              "title": "ピアニスト・角野隼斗がナビゲートする、J-WAVE『TOKYO TATEMONO MUSIC OF THE SPHERES』　斎藤工がゲスト出演し、2週にわたって対談",
+              "url": "https://spice.eplus.jp/articles/345412"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "杉山一樹",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "鷹・杉山、ベンチ殴り左手骨折 日本ハム戦で1回1失点…自身の投球に不満、登録抹消へ（Full-Count）",
+              "url": "https://news.yahoo.co.jp/articles/59f076dc8a90eaf0393a94bcf78cd80b0ed56da5"
+            },
+            {
+              "title": "【ソフトバンク】衝撃！ 守護神・杉山一樹がベンチを殴打し左手骨折 出場選手登録抹消へ",
+              "url": "https://hochi.news/articles/20260412-OHT1T51069.html"
+            },
+            {
+              "title": "【12日の公示】ソフトバンクが杉山一樹を抹消　楽天は渡辺佳明、西武は豆田泰志を登録",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260412-0201"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "アナウンサー",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "田中みな実「訂正して！」連発「鶏ガラに見える」と悪口言った男性芸人に「それは普通に悪口」（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/304d667702185f81979f697e67038f8ca90073f8"
+            },
+            {
+              "title": "田中みな実 「好感持たれる」同期アナウンサー明かす「老若男女、誰からも好かれる笑顔と丸い雰囲気」",
+              "url": "https://www.sponichi.co.jp/entertainment/news/2026/04/11/kiji/20260411s00041000277000c.html"
+            },
+            {
+              "title": "田中みな実が実名告白「格好いい、モテそう」な54歳芸人「リンカーンでご一緒した時に…」",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkangeinou/entertainment/f-et-tp0-260412-202604110002834"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "杉村太蔵",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ウエストランド井口と作家飯塚とドンデコルテ小橋が語る「2026年3月のお笑い」",
+              "url": "https://natalie.mu/owarai/column/667582"
+            },
+            {
+              "title": "杉村太蔵以来!?「M-1」準優勝でブレイク・ドンデコルテ小橋の浮かれの正体にウエストランド井口が迫る！（お笑いナタリー）",
+              "url": "https://news.yahoo.co.jp/articles/dd96d78f4f6fcc9f7c6d82d94c9a2753c759f6e1"
+            },
+            {
+              "title": "子どもを助けたはずが“悪者扱い”に…人間関係が希薄になる現代社会において「不審者」の線引きはどこ？（ABEMA TIMES）",
+              "url": "https://news.yahoo.co.jp/articles/f689b136d73c17f7cab8c850323375312ef3047c"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "giveon",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Giveon announces ‘Beloved: Act II’ deluxe album",
+              "url": "https://themusicuniverse.com/giveon-announces-beloved-act-ii-deluxe-album/"
+            },
+            {
+              "title": "Giveon Announces ‘Beloved: Act II’ – the Deluxe Album",
+              "url": "https://thatgrapejuice.net/2026/04/giveon-announces-beloved-act-ii-the-deluxe-album/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "藤井聡太",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "藤井聡太“不調だった説”「ほとんどの人はAIの評価値しか…」永瀬拓矢がズバリ語る一方で「能力の持ち腐れですよ、持ち腐れ」にじむ王将戦の無念（Number Web）",
+              "url": "https://news.yahoo.co.jp/articles/b3ba61ff78bd81f6c2283bed9f914f8cac91adbc"
+            },
+            {
+              "title": "「敗着でしたね」永瀬拓矢33歳、藤井聡太23歳に敗れた王将戦“大長考2時間54分”の真相…決着前は「秘密でいいですか」とした準備も明かす（大川慎太郎）",
+              "url": "https://number.bunshun.jp/articles/-/869988"
+            },
+            {
+              "title": "藤井六冠、タイトル堅持「幸運だった」　カド番から計5連勝の底力　王将戦と棋王戦制す",
+              "url": "https://topics.smt.docomo.ne.jp/article/kobe/life/kobe-20260411006"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "王毅",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "中国外长王毅在北朝鲜会见金正恩总书记| NHK WORLD-JAPAN News",
+              "url": "https://www3.nhk.or.jp/nhkworld/zh/news/na-k10015097051000/"
+            },
+            {
+              "title": "金正恩会晤王毅 中国或促朝鲜与美直接会谈",
+              "url": "https://www.dw.com/zh/%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E6%99%A4%E7%8E%8B%E6%AF%85-%E4%B8%AD%E5%9B%BD%E6%88%96%E4%BF%83%E6%9C%9D%E9%B2%9C%E4%B8%8E%E7%BE%8E%E7%9B%B4%E6%8E%A5%E4%BC%9A%E8%B0%88/a-76734928"
+            },
+            {
+              "title": "中朝外长见面，中方重提“血盟条约” 巩固战略关系",
+              "url": "https://military.china.com/news/13004177/20260410/49404926.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "長嶋一茂",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "「一気にかっこよくなった！」トヨタ『ノア』＆『ヴォクシー』マイチェンがSNSで話題に、“ガソリン車廃止”や“価格”に注目 2枚目の写真・画像",
+              "url": "https://s.response.jp/article/img/2026/04/12/409954/2201800.html"
+            },
+            {
+              "title": "画像・写真 | 50帖ワンルームの家、家族4人暮らしで個室は1室「キリンが住めそうな天井」【住人十色】 6枚目",
+              "url": "https://www.oricon.co.jp/news/2448003/photo/6/"
+            },
+            {
+              "title": "トヨタがミニバン「ノア」を一部改良　エアロデザインの新グレード「S-X」を新規設定 【ニュース】",
+              "url": "https://www.webcg.net/articles/-/53626"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 47,
+          "interest_max": 100,
+          "interest_latest": 55,
+          "rank": 1
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 39,
+          "interest_max": 85,
+          "interest_latest": 53,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 28,
+          "interest_max": 97,
+          "interest_latest": 26,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 22,
+          "interest_max": 100,
+          "interest_latest": 38,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 17,
+          "interest_max": 100,
+          "interest_latest": 15,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 13,
+          "interest_max": 46,
+          "interest_latest": 23,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 23,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "オールド ファッション",
+          "value": "48850"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "くま だまさ し",
+          "value": "3950"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション 通販 安全",
+          "value": "200"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 流行り ファッション",
+          "value": "140"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション 通販 おすすめ",
+          "value": "50"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-04-12T02:46:20.397124+00:00"
+}
