@@ -1,39 +1,55 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-04-07",
-    "to": "2026-04-13"
+    "from": "2026-04-08",
+    "to": "2026-04-14"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "fashion",
+      "growth": "+33%",
+      "total_mentions": 116
+    },
+    {
       "keyword": "ootd",
-      "growth": "+23%",
-      "total_mentions": 91
+      "growth": "+100%",
+      "total_mentions": 94
     },
     {
       "keyword": "#ootd",
-      "growth": "+17%",
-      "total_mentions": 85
+      "growth": "+75%",
+      "total_mentions": 87
     },
     {
       "keyword": "#fashion",
-      "growth": "+67%",
-      "total_mentions": 72
+      "growth": "+114%",
+      "total_mentions": 78
     },
     {
       "keyword": "outfit",
-      "growth": "+200%",
-      "total_mentions": 63
-    },
-    {
-      "keyword": "올리비아로렌",
-      "growth": "+43%",
-      "total_mentions": 61
+      "growth": "+100%",
+      "total_mentions": 72
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "트렌치코트",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "하이닉스",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "바람막이",
       "platforms": [
@@ -60,21 +76,21 @@
     }
   ],
   "naver_shopping_hot": [
-    "바람막이",
     "원피스",
+    "바람막이",
     "트위드자켓",
-    "블라우스",
-    "여성가디건"
+    "여성가디건",
+    "블라우스"
   ],
   "top_keywords_overall": [
     "fashion",
     "ootd",
-    "바람막이",
     "#ootd",
+    "바람막이",
     "원피스",
     "트위드자켓",
-    "블라우스",
     "여성가디건",
+    "블라우스",
     "여성봄자켓",
     "#fashion"
   ]
