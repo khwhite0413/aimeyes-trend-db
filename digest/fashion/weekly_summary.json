@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-04-08",
-    "to": "2026-04-14"
+    "from": "2026-04-09",
+    "to": "2026-04-15"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+7%",
-      "total_mentions": 112
+      "growth": "+38%",
+      "total_mentions": 115
     },
     {
       "keyword": "ootd",
-      "growth": "+62%",
-      "total_mentions": 91
+      "growth": "+27%",
+      "total_mentions": 97
     },
     {
       "keyword": "#ootd",
-      "growth": "+50%",
-      "total_mentions": 85
+      "growth": "+18%",
+      "total_mentions": 90
     },
     {
       "keyword": "#fashion",
-      "growth": "+71%",
-      "total_mentions": 75
+      "growth": "+133%",
+      "total_mentions": 82
     },
     {
       "keyword": "outfit",
       "growth": "+57%",
-      "total_mentions": 69
+      "total_mentions": 73
     }
   ],
   "most_cross_platform": [
@@ -43,17 +43,17 @@
       "count": 2
     },
     {
-      "keyword": "바람막이",
+      "keyword": "#coachella",
       "platforms": [
-        "naver",
+        "x_twitter",
         "youtube"
       ],
       "count": 2
     },
     {
-      "keyword": "#coachella",
+      "keyword": "바람막이",
       "platforms": [
-        "x_twitter",
+        "naver",
         "youtube"
       ],
       "count": 2
@@ -77,13 +77,13 @@
   "top_keywords_overall": [
     "fashion",
     "ootd",
-    "바람막이",
     "#ootd",
+    "바람막이",
     "원피스",
     "트위드자켓",
     "여성가디건",
     "블라우스",
-    "여성봄자켓",
-    "#fashion"
+    "#fashion",
+    "여성봄자켓"
   ]
 }

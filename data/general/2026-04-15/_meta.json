@@ -1,0 +1,27 @@
+{
+  "run_date": "2026-04-15",
+  "run_timestamp": "2026-04-15T02:44:07.407510+00:00",
+  "mode": "general",
+  "results": {
+    "youtube": {
+      "status": "success",
+      "items": 105
+    },
+    "google_trends": {
+      "status": "success",
+      "items": 64
+    },
+    "x_twitter": {
+      "status": "success",
+      "items": 249
+    },
+    "naver": {
+      "status": "success",
+      "items": 12
+    },
+    "pinterest": {
+      "status": "success",
+      "items": 21
+    }
+  }
+}
