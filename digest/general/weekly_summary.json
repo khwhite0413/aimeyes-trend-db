@@ -1,39 +1,47 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-04-09",
-    "to": "2026-04-15"
+    "from": "2026-04-10",
+    "to": "2026-04-16"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#viral",
-      "growth": "+29%",
-      "total_mentions": 106
+      "growth": "+7%",
+      "total_mentions": 107
     },
     {
       "keyword": "올리비아로렌",
-      "growth": "+11%",
-      "total_mentions": 66
-    },
-    {
-      "keyword": "에고이스트",
-      "growth": "+14%",
-      "total_mentions": 54
-    },
-    {
-      "keyword": "funny",
-      "growth": "+40%",
-      "total_mentions": 50
+      "growth": "+22%",
+      "total_mentions": 68
     },
     {
       "keyword": "#trending",
       "growth": "+14%",
+      "total_mentions": 51
+    },
+    {
+      "keyword": "티셔츠",
+      "growth": "+50%",
       "total_mentions": 50
+    },
+    {
+      "keyword": "#kpop",
+      "growth": "+75%",
+      "total_mentions": 38
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "아이온큐",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "우리동네 야구대장",
       "platforms": [
@@ -46,20 +54,20 @@
   "naver_shopping_hot": [
     "원피스",
     "바람막이",
-    "트위드자켓",
+    "블라우스",
     "여성가디건",
-    "블라우스"
+    "트위드자켓"
   ],
   "top_keywords_overall": [
     "#viral",
     "#shorts",
     "원피스",
     "바람막이",
-    "트위드자켓",
-    "여성가디건",
     "블라우스",
+    "여성가디건",
+    "트위드자켓",
     "여성봄자켓",
-    "dance",
-    "올리비아로렌"
+    "올리비아로렌",
+    "dance"
   ]
 }
