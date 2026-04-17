@@ -1,39 +1,47 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-04-10",
-    "to": "2026-04-16"
+    "from": "2026-04-11",
+    "to": "2026-04-17"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#viral",
-      "growth": "+14%",
-      "total_mentions": 108
-    },
-    {
       "keyword": "올리비아로렌",
-      "growth": "+22%",
-      "total_mentions": 68
+      "growth": "+11%",
+      "total_mentions": 69
     },
     {
-      "keyword": "#trending",
+      "keyword": "funny",
       "growth": "+29%",
-      "total_mentions": 52
+      "total_mentions": 54
     },
     {
       "keyword": "티셔츠",
-      "growth": "+50%",
-      "total_mentions": 50
+      "growth": "+67%",
+      "total_mentions": 54
     },
     {
-      "keyword": "#kpop",
-      "growth": "+75%",
-      "total_mentions": 38
+      "keyword": "#trending",
+      "growth": "+17%",
+      "total_mentions": 52
+    },
+    {
+      "keyword": "#funny",
+      "growth": "+14%",
+      "total_mentions": 51
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "전주국제영화제",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "아이온큐",
       "platforms": [
@@ -66,8 +74,8 @@
     "블라우스",
     "여성가디건",
     "트위드자켓",
-    "여성봄자켓",
     "올리비아로렌",
-    "dance"
+    "여성봄자켓",
+    "funny"
   ]
 }
