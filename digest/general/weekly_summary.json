@@ -1,8 +1,8 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-04-12",
-    "to": "2026-04-18"
+    "from": "2026-04-13",
+    "to": "2026-04-19"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -13,29 +13,19 @@
       "total_mentions": 111
     },
     {
-      "keyword": "올리비아로렌",
-      "growth": "+11%",
-      "total_mentions": 70
-    },
-    {
       "keyword": "#trending",
-      "growth": "+57%",
-      "total_mentions": 58
+      "growth": "+67%",
+      "total_mentions": 61
     },
     {
       "keyword": "티셔츠",
       "growth": "+43%",
-      "total_mentions": 58
-    },
-    {
-      "keyword": "funny",
-      "growth": "+12%",
-      "total_mentions": 56
+      "total_mentions": 61
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "아이온큐",
+      "keyword": "광장시장",
       "platforms": [
         "google_trends",
         "x_twitter"
@@ -43,7 +33,15 @@
       "count": 2
     },
     {
-      "keyword": "우리동네 야구대장",
+      "keyword": "한화이글스",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "아이온큐",
       "platforms": [
         "google_trends",
         "x_twitter"
@@ -54,20 +52,20 @@
   "naver_shopping_hot": [
     "원피스",
     "바람막이",
-    "여성가디건",
     "블라우스",
+    "여성가디건",
     "올리비아로렌"
   ],
   "top_keywords_overall": [
     "#viral",
     "원피스",
     "바람막이",
-    "여성가디건",
     "블라우스",
+    "여성가디건",
     "#shorts",
     "트위드자켓",
     "올리비아로렌",
-    "여성봄자켓",
-    "#trending"
+    "#trending",
+    "티셔츠"
   ]
 }
