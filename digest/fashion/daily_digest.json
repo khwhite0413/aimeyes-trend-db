@@ -2,44 +2,11 @@
   "date": "2026-04-20",
   "mode": "fashion",
   "compared_to": "2026-04-19",
-  "total_keywords_today": 508,
+  "total_keywords_today": 521,
   "total_keywords_yesterday": 513,
   "data_days_available": 36,
   "overall_confidence": "high",
   "rising": [
-    {
-      "keyword": "#shorts",
-      "change": "+9%",
-      "today_count": 12,
-      "yesterday_count": 11,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 12건, 어제 11건 기준"
-    },
-    {
-      "keyword": "#ootd",
-      "change": "+14%",
-      "today_count": 8,
-      "yesterday_count": 7,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 8건, 어제 7건 기준"
-    },
-    {
-      "keyword": "ootd",
-      "change": "+14%",
-      "today_count": 8,
-      "yesterday_count": 7,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 8건, 어제 7건 기준"
-    },
     {
       "keyword": "meesho",
       "change": "+150%",
@@ -61,6 +28,28 @@
         "youtube"
       ],
       "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "trends",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "outfit",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
       "keyword": "#ファッション",
@@ -96,15 +85,26 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "요즘",
-      "change": "+200%",
+      "keyword": "#outfitideas",
+      "change": "+50%",
       "today_count": 3,
-      "yesterday_count": 1,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "outfitideas",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
       "keyword": "#meesho",
@@ -116,6 +116,17 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "ユニクロ",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
       "keyword": "#コーデ",
@@ -140,7 +151,18 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "세련돼",
+      "keyword": "#중년패션",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "중년패션",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -162,7 +184,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "보이는",
+      "keyword": "요즘",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -173,7 +195,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "ぽっちゃりコーデ",
+      "keyword": "#style",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -184,7 +206,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "ユニクロ",
+      "keyword": "#outfit",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -195,29 +217,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#着回し",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "着回し",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#古着",
+      "keyword": "suit",
       "change": "NEW",
       "today_count": 2,
       "yesterday_count": 0,
@@ -231,8 +231,8 @@
   "declining": [
     {
       "keyword": "fashion",
-      "change": "-36%",
-      "today_count": 9,
+      "change": "-43%",
+      "today_count": 8,
       "yesterday_count": 14,
       "confidence": "medium"
     },
@@ -279,6 +279,13 @@
       "confidence": "medium"
     },
     {
+      "keyword": "#봄코디",
+      "change": "-33%",
+      "today_count": 4,
+      "yesterday_count": 6,
+      "confidence": "low"
+    },
+    {
       "keyword": "#데일리룩코디",
       "change": "-17%",
       "today_count": 5,
@@ -286,16 +293,9 @@
       "confidence": "medium"
     },
     {
-      "keyword": "데일리룩코디",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "coachella",
-      "change": "-50%",
-      "today_count": 3,
+      "keyword": "봄코디",
+      "change": "-33%",
+      "today_count": 4,
       "yesterday_count": 6,
       "confidence": "low"
     }
@@ -328,15 +328,6 @@
         "youtube"
       ],
       "total_count": 12
-    },
-    {
-      "keyword": "블루오리진",
-      "platform_count": 2,
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "total_count": 2
     }
   ]
 }
