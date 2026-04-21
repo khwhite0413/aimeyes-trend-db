@@ -1,0 +1,883 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "위르겐 클린스만",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "클린스만 아들 조나단, 경추 골절 부상…시즌 아웃, 월드컵도 빨간불",
+              "url": "https://v.daum.net/v/1Y9S6L3G5y"
+            },
+            {
+              "title": "'韓 축구 망친' 클린스만 친아들 조너선, 치명적 목뼈 골절→들것에 실려나가... \"월드컵 출전 불가능\" - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/04/21/2026042108470976148"
+            },
+            {
+              "title": "前 국대 감독 아들에게 닥친 끔찍한 시련…목뼈 골절 중상",
+              "url": "https://sports.news.nate.com/view/20260421n05602"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "고유가 피해지원금 대상자",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "신한카드, '고유가 피해지원금' 원스톱 서비스 제공",
+              "url": "https://www.etnews.com/20260421000056"
+            },
+            {
+              "title": "횡성군, 27일부터 고유가 피해지원금 지급…최대 60만원",
+              "url": "https://www.newsis.com/view/NISX20260421_0003599708"
+            },
+            {
+              "title": "고유가 피해지원금 Q&A 2편 - 전체 | 카드/한컷 | 멀티미디어",
+              "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148963029"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "서울교통공사",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[단독] 파면된 노조 간부 징계 취소… 승진도 시킨 서울교통공사",
+              "url": "https://www.chosun.com/national/labor/2026/04/21/BBZW24FFXBDK5FM3PYBB2P3FRE/"
+            },
+            {
+              "title": "AI 냉방제어로 객실온도 조절…서울시 창의발표회 대상",
+              "url": "https://www.newsis.com/view/NISX20260420_0003598101"
+            },
+            {
+              "title": "나 죽으면 누가 주변에 알려주나···“1인 가구 부고, 여기서 대신 전해드릴게요”[서울25]",
+              "url": "https://v.daum.net/v/20260420101732615"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "기름",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "\"전쟁 끝나면 주가 뛴다\"…반토막 난 주식 '반전 전망' [종목+]",
+              "url": "https://www.hankyung.com/article/2026042032396"
+            },
+            {
+              "title": "WTI, 美·이란 협상 주시 속 하락(상보)",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410678"
+            },
+            {
+              "title": "호르무즈 봉쇄·역봉쇄, 개방, 그리고 재봉쇄…금값 방향은",
+              "url": "https://zdnet.co.kr/view/?no=20260420083806"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "주차 위반",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 6,
+          "keyword": "삼성전기 주가",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "삼성전기, AI서버·자율주행차 주역 부상",
+              "url": "https://v.daum.net/v/20260420180603943"
+            },
+            {
+              "title": "삼성전기 주가 장중 10%대 상승, MLCC와 FCBGA 성장 기대감에 사상 최고가",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=436151"
+            },
+            {
+              "title": "엔비디아 핵심 공급사 된 삼성전기",
+              "url": "https://www.smedaily.co.kr/news/articleView.html?idxno=355915"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "대우건설 주가",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "중동 재건 기대감에 건설주 급등…대우건설 16%↑[핫종목]",
+              "url": "https://www.news1.kr/finance/general-stock/6143375"
+            },
+            {
+              "title": "투자자들의 시선은 에너지 안보 수혜주로...투자금이 더 필요하다면",
+              "url": "https://www.asiae.co.kr/article/2026042011250395492"
+            },
+            {
+              "title": "[특징주] 미·이란 2차 협상 불확실성에 건설주 하락 마감(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20260420042951008"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "화물선",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "이란 외무부, 군부에 ‘혼쭐’ 난 장관 글 뒤늦게 해명… “이미 합의된 사안”",
+              "url": "https://v.daum.net/v/20260421092836923"
+            },
+            {
+              "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장 신청",
+              "url": "https://www.mk.co.kr/news/society/12022643"
+            },
+            {
+              "title": "이란 화물선 호르무즈 통과중…미국 협상단 곧 파키스탄 출발",
+              "url": "https://news.jtbc.co.kr/article/NB12295098"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "김포시",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "경기도, AI 챌린지 9개 과제 선정...구조·돌봄 로봇 개발",
+              "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202604201602140038"
+            },
+            {
+              "title": "안산시, AI로 화물차 불법주차 단속…처리시간 60% 단축",
+              "url": "https://www.newsis.com/view/NISX20260421_0003599819"
+            },
+            {
+              "title": "탁용석 경콘진 원장의 마법…‘상생 오픈 이노베이션’뜬다",
+              "url": "https://biz.heraldcorp.com/article/10721490"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "로스앤젤레스 다저스",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "다저스 마무리 투수 디아스, 팔꿈치 부상으로 수술대…3개월 이탈 예상",
+              "url": "https://www.newsis.com/view/NISX20260421_0003599408"
+            },
+            {
+              "title": "'충격의 0이닝 3실점, ERA 10.50' 1016억 마무리 투수, 팔꿈치 문제로 IL행, 다저스 뒷문 어쩌나",
+              "url": "https://www.chosun.com/sports/world-baseball/2026/04/21/MFSDKNLDMRTDMNRYGU3TQNBVGQ/"
+            },
+            {
+              "title": "[오피셜] '다저스 1000억 증발' 디아즈 팔꿈치 수술로 IL행…3개월 결장→스캇 마무리 본다",
+              "url": "https://v.daum.net/v/20260421073546297"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 65,
+          "interest_max": 100,
+          "interest_latest": 78,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 6,
+          "interest_max": 23,
+          "interest_latest": 9,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 24,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 34,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "barnwell county",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "Deputies arrest alleged suspect after deadly shooting in Barnwell County",
+              "url": "https://www.wjbf.com/news/arrest-made-in-barnwell-county-after-deadly-shooting/"
+            },
+            {
+              "title": "Man charged with murder in Barnwell County shooting",
+              "url": "https://www.wrdw.com/2026/04/17/man-charged-with-murder-barnwell-county-shooting/"
+            },
+            {
+              "title": "Deputies arrest alleged suspect after deadly shooting in Barnwell County",
+              "url": "https://www.aol.com/news/deputies-arrest-alleged-suspect-deadly-205821364.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "jacob fatu",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Photos: Fatu and McIntyre brutalize each other in lawless melee",
+              "url": "https://www.wwe.com/shows/wrestlemania/saturday-2026/fatu-vs-mcintyre-wrestlemania-saturday-2026"
+            },
+            {
+              "title": "WrestleMania 42 results: Jacob Fatu brutalizes, beats Drew McIntyre in unsanctioned match",
+              "url": "https://sports.yahoo.com/wrestling/breaking-news/article/wrestlemania-42-results-jacob-fatu-brutalizes-beats-drew-mcintyre-in-unsanctioned-match-230243278.html"
+            },
+            {
+              "title": "Jacob Fatu gains victory over Drew McIntyre",
+              "url": "https://www.espn.com/video/clip/_/id/48525791"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "bankruptcy",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "JetBlue CEO Says Airline Isn’t Considering Filing for Bankruptcy",
+              "url": "https://www.bloomberg.com/news/articles/2026-04-20/jetblue-ceo-says-airline-isn-t-considering-filing-for-bankruptcy"
+            },
+            {
+              "title": "JetBlue CEO says airline isn't considering filing for bankruptcy, Bloomberg News reports",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/jetblue-ceo-says-airline-isnt-184300366.html"
+            },
+            {
+              "title": "JetBlue CEO rules out bankruptcy this year despite surging fuel costs amid Iran war",
+              "url": "https://www.reuters.com/business/jetblue-ceo-says-airline-isnt-considering-filing-bankruptcy-bloomberg-news-2026-04-20/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "nhl playoff overtime rules",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "NHL playoff overtime rules: Postseason hockey bracket changes OT format",
+              "url": "https://www.usatoday.com/story/sports/nhl/2026/04/18/nhl-playoff-overtime-rules-hockey-postseason-bracket/89667622007/"
+            },
+            {
+              "title": "NHL Playoffs Return to Five-on-Five Sudden Death Overtime Format",
+              "url": "https://www.asatunews.co.id/en/nhl-playoffs-overtime-format-change"
+            },
+            {
+              "title": "The NHL Needs to Remove Shootouts From the Game",
+              "url": "https://thehockeywriters.com/the-nhl-needs-to-remove-shootouts-from-the-game/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "xfinity comcast",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Lost KSBY on Comcast Xfinity? Here's how to keep watching",
+              "url": "https://www.ksby.com/homepage-showcase/lost-ksby-on-comcast-xfinity-heres-how-to-keep-watching"
+            },
+            {
+              "title": "Comcast’s Xfinity WiFi Pro with Cellular Backup Provides Peace of Mind During Outages, But with a Few Bumps in the Road",
+              "url": "https://cordcuttersnews.com/comcasts-xfinity-wifi-pro-with-cellular-backup-provides-peace-of-mind-during-outages-but-with-a-few-bumps-in-the-road/"
+            },
+            {
+              "title": "Comcast Expands Xfinity StreamSaver Bundles With New Services",
+              "url": "https://www.mychesco.com/a/news/regional/comcast-expands-xfinity-streamsaver-bundles-with-new-services/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "cubs standings",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Early MLB 2026 trade deadline preview for all 30 teams",
+              "url": "https://www.espn.com/mlb/story/_/id/48505776/mlb-2026-early-trade-deadline-preview-all-30-teams"
+            },
+            {
+              "title": "Predicting trade deadline fire sales for each of MLB's struggling contenders",
+              "url": "https://fansided.com/mlb/predicting-trade-deadline-fire-sales-for-each-of-mlb-s-struggling-contenders"
+            },
+            {
+              "title": "Three Mock Panic Trades for MLB’s Struggling Contenders",
+              "url": "https://www.justbaseball.com/mlb/three-mock-panic-trades-struggling-contenders/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "final jeopardy today",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Jamie Ding 'Jeopardy!' win streak hits 27. He moves up in cash won ranking",
+              "url": "https://www.detroitnews.com/story/entertainment/2026/04/20/jamie-ding-jeopardy-win-streak-hits-27-how-much-has-he-won-ranking/89705570007/"
+            },
+            {
+              "title": "Michigan contestant is making ‘Jeopardy’ history, could dethrone Ken Jennings",
+              "url": "https://www.mlive.com/detroit/2026/04/michigan-contestant-is-making-jeopardy-history-could-dethrone-ken-jennings.html"
+            },
+            {
+              "title": "Metro Detroit native Jamie Ding wins 27th 'Jeopardy!' game, adds to streak",
+              "url": "https://www.freep.com/story/entertainment/people/2026/04/20/jamie-ding-jeopardy-champion-win-streak/89697188007/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "cal raleigh",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Cal Raleigh and MLB's Most Overhyped Stars for 2026 Season",
+              "url": "https://bleacherreport.com/articles/25417787-cal-raleigh-and-mlbs-most-overhyped-stars-2026-season"
+            },
+            {
+              "title": "Cal Raleigh's coldness for Mariners is more unpleasant than anyone wants to admit",
+              "url": "https://sodomojo.com/cal-raleigh-s-coldness-for-mariners-is-more-unpleasant-than-anyone-wants-to-admit"
+            },
+            {
+              "title": "These MLB stars have been anything but super to start the 2026 season",
+              "url": "https://fansided.com/mlb/these-mlb-stars-have-been-anything-but-super-to-start-the-2026-season"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ilhan omar",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Exclusive | Ilhan Omar Says She Isn’t a Multimillionaire, Blames Accounting Error",
+              "url": "https://www.wsj.com/politics/policy/ilhan-omar-says-she-isnt-a-multimillionaire-blames-accounting-error-e88ee14b"
+            },
+            {
+              "title": "Rep. Ilhan Omar updates financial disclosure form, citing accounting error",
+              "url": "https://www.startribune.com/rep-ilhan-omar-updates-financial-disclosure-form-citing-accounting-error/601782854"
+            },
+            {
+              "title": "James Comer jokes Ilhan Omar’s accountant attended ‘Quality Learing Center’ amid financial scandal",
+              "url": "https://www.foxnews.com/video/6393522408112"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "minnesota wild",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Minnesota Wild superfan buys iconic Xcel Energy Center 'X'",
+              "url": "https://www.fox9.com/news/minnesota-wild-superfan-buys-iconic-xcel-energy-center-x-april-2026"
+            },
+            {
+              "title": "Meet the diehard Wild fan keeping the ‘X’ alive in his front yard",
+              "url": "https://www.twincities.com/2026/04/20/meet-the-diehard-wild-fan-keeping-the-x-alive-in-his-front-yard/"
+            },
+            {
+              "title": "X marks the spot: Man cheers on Wild with massive 'X' sign",
+              "url": "https://www.kare11.com/video/news/local/x-marks-the-spot-man-cheers-on-wild-with-massive-x-sign/89-67761909-2d84-48db-ae96-52fae4ecd14e"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 12
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "佐々木成三",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「あさイチ」にも出てる！京都遺体遺棄事件で連日出ずっぱり 元埼玉県警の佐々木成三氏、髪形変えてネットも「あれ？」",
+              "url": "https://news.yahoo.co.jp/articles/ed42ba9d61d459b5899b0b73a1a05de4fd6b7ff1"
+            },
+            {
+              "title": "「あさイチ」にも出てる！京都遺体遺棄事件で連日出ずっぱり 元埼玉県警の佐々木成三氏、髪形変えてネットも「あれ？」",
+              "url": "https://portal.uqmobile.jp/detail/1/5/9/10245_9_r_20260421_1776732946088835"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ヒョンビン",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "『愛の不時着』ソン・イェジン&ヒョンビン夫妻、3歳長男が撮った“夫婦2ショット”に反響「名カメラマン」の声",
+              "url": "https://www.oricon.co.jp/news/2450016/full/"
+            },
+            {
+              "title": "女優ソン・イェジン、3歳の息子が撮影したヒョンビンとのカップル写真を公開",
+              "url": "https://www.jiji.com/jc/article?k=20260420_347872&g=cnp"
+            },
+            {
+              "title": "ヒョンビン＆ソン・イェジン お互いを呼ぶ時は「ヨボ」「チャギ」…「交際中は下の名前で」（朝鮮日報日本語版）",
+              "url": "https://news.yahoo.co.jp/articles/8dd786d8461c96ab01d2959cf0b6f1eaafb24813"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "坂本美雨",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "アイナ・ジ・エンド「これ以上ないくらい情けない姿」見せて「ふっきれた」 弱点に“かわいい”をつけるワケ",
+              "url": "https://dot.asahi.com/articles/-/280669?page=1"
+            },
+            {
+              "title": "MC菊池風磨＆畑芽育の音楽番組！アイナ・ジ・エンド登場",
+              "url": "https://tver.jp/episodes/ep1dcw1871"
+            },
+            {
+              "title": "LiSA、アイナ・ジ・エンド、ASKA、川崎鷹也がゲストに登場！TOKYO FM／JFN38局『ディア・フレンズ』",
+              "url": "https://prtimes.jp/main/html/rd/p/000003855.000004829.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "群馬県",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "群馬県 地震の被害想定１４年ぶり見直し 最大でM８.０想定",
+              "url": "https://news.web.nhk/newsweb/na/nb-1060021840"
+            },
+            {
+              "title": "群馬県が地震被害の想定見直し「震度７地震」で死者数５６００人可能性（群馬テレビ）",
+              "url": "https://news.yahoo.co.jp/articles/c589f19126aefdcef9c2d7970a227a29e99b4012"
+            },
+            {
+              "title": "群馬：Ｍ８死者最大５６５３人 県、１４年ぶり見直し 震度７地点拡大 深谷断層帯・綾瀬川断層被害想定 ：地域ニュース",
+              "url": "https://www.yomiuri.co.jp/local/gunma/news/20260421-GYTNT00038/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "インドネシア",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "インドネシアのジャカルタ・バンドン高速鉄道 旅客輸送数1500万人超",
+              "url": "https://www.afpbb.com/articles/-/3631619"
+            },
+            {
+              "title": "「日本の新幹線」が選ばれなくてよかった…習近平と組み、赤字を止められないインドネシア新幹線のジレンマ",
+              "url": "https://news.yahoo.co.jp/articles/51e25901784b6237f656281c983afe84066c26f2?page=3"
+            },
+            {
+              "title": "ジャカルタ-バンドン高速鉄道の延べ利用者数が1500万人を突破",
+              "url": "https://j.people.com.cn/n3/2026/0417/c94475-20447747.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "日出生台演習場",
+          "traffic": "5000+",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "平野ノラ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "平野ノラ、コギャルJKに大変身「朝からコギャルなロケでした！」",
+              "url": "https://article.auone.jp/detail/1/5/9/541_9_r_20260419_1776564974344567"
+            },
+            {
+              "title": "平野ノラ （C）ORICON NewS inc.",
+              "url": "https://www.sankei.com/article/20260418-Q4OTA6XSTNKATD7H5LI2TLMR2M/photo/DNYYNNBATRMZXG2MGXXWFR2CLQ/"
+            },
+            {
+              "title": "47歳・平野ノラ、“コギャル”に大変身 ラメメイク＆制服風コーデ公開",
+              "url": "https://www.sanyonews.jp/article/1907810?kw=NIB"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "ブラジル",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "韓国美容企業＝ブラジルで直接投資へ転換＝中国低迷で最大の外国拠点に＝政府間合意と科学志向で攻勢強化",
+              "url": "https://brasilnippou.com/ja/articles/260421-12brasil"
+            },
+            {
+              "title": "ブラジル》バスケ界の伝説オスカル氏死去＝「神の手」五輪最多得点の伝説（ブラジル日報",
+              "url": "https://news.yahoo.co.jp/articles/96584eab72c08c6375baff5353e3f199e77811c8"
+            },
+            {
+              "title": "ネイマール、死去したバスケレジェンドを追悼…NBAドラフト指名を断ってブラジル代表を選んだ国民的スター",
+              "url": "https://topics.smt.docomo.ne.jp/article/qoly/sports/qoly-8612e0324ffdd7998db256db916fe07c79e660f3?page=2"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "中村仁美",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "秋信守",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "大谷翔平 “打ち直し”の第3打席はニゴロで追加点奪えず 一直併殺と思いきや…ボーク（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/595d01441c0864bafe89c63ec5e57533193e1e23"
+            },
+            {
+              "title": "大谷翔平、「野球の神様」に並ぶ51試合連続出塁 爆発予感の吉兆二塁打…アジア記録まであと「1」、チームは今季初の連敗",
+              "url": "https://www.chunichi.co.jp/article/1240161"
+            },
+            {
+              "title": "大谷翔平 今季２２試合目で初盗塁 １打席目は投手エラーで出塁ならずも ５２試合連続出塁なら球団２位にあと１",
+              "url": "https://www.daily.co.jp/mlb/2026/04/21/0020267512.shtml"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-04-21T02:45:06.609214+00:00"
+}

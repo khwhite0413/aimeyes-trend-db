@@ -1,34 +1,41 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-04-14",
-    "to": "2026-04-20"
+    "from": "2026-04-15",
+    "to": "2026-04-21"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "원피스",
+      "growth": "+8%",
+      "total_mentions": 89
+    },
+    {
       "keyword": "티셔츠",
-      "growth": "+43%",
-      "total_mentions": 66
+      "growth": "+50%",
+      "total_mentions": 71
     },
     {
       "keyword": "#shorts",
-      "growth": "+38%",
-      "total_mentions": 59
+      "growth": "+50%",
+      "total_mentions": 60
+    },
+    {
+      "keyword": "에고이스트",
+      "growth": "+12%",
+      "total_mentions": 52
+    },
+    {
+      "keyword": "#데일리룩코디",
+      "growth": "+50%",
+      "total_mentions": 43
     }
   ],
   "most_cross_platform": [
     {
       "keyword": "원피스",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "청바지",
       "platforms": [
         "naver",
         "youtube"
@@ -44,7 +51,7 @@
       "count": 2
     },
     {
-      "keyword": "트렌치코트",
+      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
@@ -52,7 +59,15 @@
       "count": 2
     },
     {
-      "keyword": "블라우스",
+      "keyword": "티셔츠",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "트렌치코트",
       "platforms": [
         "naver",
         "youtube"
@@ -63,9 +78,9 @@
   "naver_shopping_hot": [
     "원피스",
     "바람막이",
-    "여성가디건",
     "블라우스",
-    "티셔츠"
+    "티셔츠",
+    "여성가디건"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -73,10 +88,10 @@
     "블라우스",
     "바람막이",
     "여성가디건",
-    "올리비아로렌",
-    "트위드자켓",
-    "ootd",
     "티셔츠",
+    "올리비아로렌",
+    "ootd",
+    "트위드자켓",
     "#ootd"
   ]
 }

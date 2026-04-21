@@ -1,55 +1,56 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-04-14",
-    "to": "2026-04-20"
+    "from": "2026-04-15",
+    "to": "2026-04-21"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+33%",
-      "total_mentions": 75
-    },
-    {
-      "keyword": "#trending",
-      "growth": "+11%",
-      "total_mentions": 65
+      "growth": "+8%",
+      "total_mentions": 80
     },
     {
       "keyword": "티셔츠",
-      "growth": "+43%",
-      "total_mentions": 64
-    }
-  ],
-  "most_cross_platform": [
+      "growth": "+50%",
+      "total_mentions": 69
+    },
     {
-      "keyword": "아이온큐",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
+      "keyword": "#trending",
+      "growth": "+38%",
+      "total_mentions": 67
+    },
+    {
+      "keyword": "에고이스트",
+      "growth": "+12%",
+      "total_mentions": 52
+    },
+    {
+      "keyword": "trend",
+      "growth": "+17%",
+      "total_mentions": 37
     }
   ],
+  "most_cross_platform": [],
   "naver_shopping_hot": [
     "원피스",
     "바람막이",
-    "여성가디건",
     "블라우스",
-    "티셔츠"
+    "티셔츠",
+    "여성가디건"
   ],
   "top_keywords_overall": [
     "#viral",
     "원피스",
     "바람막이",
-    "여성가디건",
     "블라우스",
+    "여성가디건",
     "#shorts",
     "올리비아로렌",
-    "트위드자켓",
+    "티셔츠",
     "#trending",
-    "티셔츠"
+    "트위드자켓"
   ]
 }
