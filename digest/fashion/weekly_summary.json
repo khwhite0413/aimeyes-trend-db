@@ -1,31 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-04-15",
-    "to": "2026-04-21"
+    "from": "2026-04-16",
+    "to": "2026-04-22"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "원피스",
-      "growth": "+8%",
-      "total_mentions": 89
-    },
-    {
       "keyword": "티셔츠",
-      "growth": "+50%",
-      "total_mentions": 71
+      "growth": "+33%",
+      "total_mentions": 75
     },
     {
       "keyword": "#shorts",
-      "growth": "+17%",
-      "total_mentions": 58
+      "growth": "+29%",
+      "total_mentions": 61
     },
     {
       "keyword": "에고이스트",
-      "growth": "+12%",
-      "total_mentions": 52
+      "growth": "+29%",
+      "total_mentions": 53
+    },
+    {
+      "keyword": "style",
+      "growth": "+20%",
+      "total_mentions": 38
+    },
+    {
+      "keyword": "남자반팔티",
+      "growth": "+300%",
+      "total_mentions": 34
     }
   ],
   "most_cross_platform": [
@@ -85,8 +90,8 @@
     "여성가디건",
     "티셔츠",
     "올리비아로렌",
-    "트위드자켓",
-    "ootd",
-    "#ootd"
+    "#shorts",
+    "#ootd",
+    "ootd"
   ]
 }

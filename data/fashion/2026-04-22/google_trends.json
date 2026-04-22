@@ -1,0 +1,955 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "이한비",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "'박정아·도로공사·이한비 현대건설 행'···FA 마무리한 페퍼저축은행, 남은 문제는 어떻게",
+              "url": "https://v.daum.net/v/20260421181715913"
+            },
+            {
+              "title": "'매각? 해체?' AI페퍼스 운명의 5월…\"광주 연고 사수 최우선\"",
+              "url": "https://www.newsis.com/view/NISX20260420_0003598417"
+            },
+            {
+              "title": "비시즌 V리그 최대 관심사는 ‘매각설’ 페퍼저축은행의 상황과 FA 박정아의 거취…모기업은 구미-전주 아닌 광주서 인수희망 기업 모집, 박정아는 한국도로공사행 유력",
+              "url": "https://sports.donga.com/sports/article/all/20260420/133772939/1"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "코스피지수",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "코스피, '6400선 돌파' 사상 최고치 경신",
+              "url": "https://www.newsis.com/view/NISI20260422_0021254667"
+            },
+            {
+              "title": "코스피, 장중 6,400선 최고치 찍고 하락 전환",
+              "url": "https://m.yonhapnewstv.co.kr/news/MYH20260422103902y4O"
+            },
+            {
+              "title": "코스피, 하루만에 최고치 경신 후 등락 혼조…코스닥 하락(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20260422048000008"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "kb손해보험",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "'3R 지명→2.5억 부산행' 28살 리베로, 왜 이적을 결심했나…313승 명장과 함께 하다 \"배구 열정이 남다르시다\" [MD인터뷰]",
+              "url": "https://v.daum.net/v/20260422064309949"
+            },
+            {
+              "title": "OK저축은행, 리베로 김도훈 FA 영입…미들블로커 박창성과도 재계약",
+              "url": "https://www.newsis.com/view/NISX20260420_0003598444"
+            },
+            {
+              "title": "남자 프로배구 OK저축은행, FA 김도훈 영입…박창성도 도장",
+              "url": "https://m.yonhapnewstv.co.kr/news/AKR20260420144414URE"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "블루제이스 대 에인절스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"마이너리그 같아\" ML서 보기 드문 6시간 버스 이동, 토론토 선수단에 대체 무슨 일이?",
+              "url": "https://www.chosun.com/sports/world-baseball/2026/04/21/GI4TIYRSGQ3WKOLEMQ3WGMZWGE/"
+            },
+            {
+              "title": "\"셔저, 비행기 사지 그래?\" 토론토, 6시간 버스 이동에도 에인절스 격파",
+              "url": "https://www.nocutnews.co.kr/news/6505669"
+            },
+            {
+              "title": "'사막 고속도로 6시간 달렸다' 토론토, 21일 LAA 원정 승리의 '비하인드'",
+              "url": "https://v.daum.net/v/20260421140146470"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "배정대",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[사진]런다운 플레이로 3루 주자 득점 시간 버는 배정대",
+              "url": "https://www.chosun.com/sports/sports_photo/2026/04/21/GZRGGOJTMMYTQMLGGRSTMNZQGQ/"
+            },
+            {
+              "title": "[사진]최원준-배정대, '아슬아슬'",
+              "url": "http://www.osen.co.kr/article/G1112786378"
+            },
+            {
+              "title": "[사진]런다운 플레이로 3루 주자 득점 시간 버는 배정대",
+              "url": "http://www.osen.co.kr/article/G1112786289"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "김범석",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[단독] \"쿠팡 김범석 신변 보장돼야 외교·안보 고위급 협의\"",
+              "url": "https://v.daum.net/v/20260421203011171"
+            },
+            {
+              "title": "김영배 “미국 속내는 쿠팡 자체 아니라 빅테크 규제 해결”",
+              "url": "https://www.hani.co.kr/arti/politics/politics_general/1255313.html"
+            },
+            {
+              "title": "쿠팡 김범석 '동일인' 지정되나…공정위, 내주 대기업집단 발표",
+              "url": "https://www.newsis.com/view/NISX20260421_0003599671"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "복권",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "20억 복권 당첨 유튜버 \"은행 직원이 '커피값 30만원' 요구\" 4년 지나 폭로",
+              "url": "https://www.news1.kr/society/general-society/6144515"
+            },
+            {
+              "title": "“기분 좋은데 30만원만” 복권1등 당첨자에 은행 직원 황당 요구",
+              "url": "https://biz.heraldcorp.com/article/10722769"
+            },
+            {
+              "title": "\"커피 마시게 30만원만\"…복권 1등 당첨자에 돈 요구한 은행 직원 - 머니투데이",
+              "url": "https://www.mt.co.kr/society/2026/04/21/2026042116354089501"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "로펌",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "“AI가 만든 가짜 판례”…월가 유명 로펌, 법원에 공식 사과",
+              "url": "https://www.donga.com/news/It/article/all/20260422/133788412/2"
+            },
+            {
+              "title": "美유명로펌, AI 생성 가짜 법조문·판례 인용했다가 사과문",
+              "url": "https://www.yna.co.kr/view/AKR20260422010000072"
+            },
+            {
+              "title": "법원에 AI가 만든 '가짜 법령·판례' 제출한 로펌…결국 사과",
+              "url": "https://v.daum.net/v/20260422103809821"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "다저스 대 자이언츠",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "'절친' 이정후·김혜성, MLB 시즌 첫 맞대결…3연전 격돌",
+              "url": "https://www.newsis.com/view/NISX20260421_0003600762"
+            },
+            {
+              "title": "하필 유격수 김혜성 악송구에서 위기 시작됐다, 야마모토 1회 3실점 와르르…이정후, 1타점 적시타",
+              "url": "https://www.chosun.com/sports/world-baseball/2026/04/22/MUYGKNBXGQ3TGYJQGIYTMMRRGA/"
+            },
+            {
+              "title": "SF 이정후-LAD 김혜성 나란히 선발 출격…2026시즌 첫 '코리안 더비' 성사",
+              "url": "https://v.daum.net/v/20260422090733126"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "경남도민연금",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'사흘 만에 완판'…경남도민연금 20일부터 2만 589명 추가 모집",
+              "url": "https://www.nocutnews.co.kr/news/6504550"
+            },
+            {
+              "title": "경남 도민연금 추가모집 첫날 사실상 마감 임박",
+              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=300634"
+            },
+            {
+              "title": "‘경남도민연금’ 2만여 명 추가 모집…30일까지",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8540095"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 63,
+          "interest_max": 100,
+          "interest_latest": 64,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 6,
+          "interest_max": 26,
+          "interest_latest": 21,
+          "rank": 2
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 1,
+          "interest_max": 87,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 76,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 87,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 9,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 71,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "hakeem jeffries",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Newly sworn-in Mejia noncommittal on backing Jeffries for Speaker",
+              "url": "https://thehill.com/homenews/house/5842034-rep-analilia-mejia-jeffries-speaker-support/"
+            },
+            {
+              "title": "Newly sworn-in Mejia noncommittal on backing Jeffries for Speaker",
+              "url": "https://www.aol.com/articles/newly-sworn-mejia-noncommittal-backing-215219809.html"
+            },
+            {
+              "title": "Flashback: Jeffries called failing to fully fund DHS an 'abdication of responsibility'",
+              "url": "https://www.aol.com/articles/flashback-jeffries-called-failing-fully-103533011.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "san diego weather",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Mild weather to start the week in San Diego, chance for rain coming",
+              "url": "https://www.kpbs.org/news/quality-of-life/2026/04/20/mild-weather-to-start-the-week-in-san-diego-chance-for-rain-coming"
+            },
+            {
+              "title": "Max's Forecast: Cloudy, breezy and a chance for showers",
+              "url": "https://www.10news.com/weather/abc-10news-pinpoint-forecast-for-april-21-2026-cloudy-breezy-and-a-chance-for-showers"
+            },
+            {
+              "title": "Sunny San Diego Set For Whiplash As Winds Roar In Tonight",
+              "url": "https://hoodline.com/2026/04/sunny-san-diego-set-for-whiplash-as-winds-roar-in-tonight/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "royals game",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Game thread XXII - Royals at Yankees",
+              "url": "https://www.royalsreview.com/kansas-city-royals-game-information/97184/game-thread-xxii-royals-at-yankees"
+            },
+            {
+              "title": "Yankees vs Royals game today delayed by rain. When will it start?",
+              "url": "https://www.northjersey.com/story/sports/mlb/yankees/2026/04/19/yankees-royals-sunday-start-to-be-delayed-by-rain/89690006007/"
+            },
+            {
+              "title": "Where to watch Kansas City Royals vs. New York Yankees: Live stream, TV channel, odds for Saturday, April 18",
+              "url": "https://sports.yahoo.com/mlb/article/where-to-watch-kansas-city-royals-vs-new-york-yankees-live-stream-tv-channel-odds-for-saturday-april-18-132938267.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "who",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Shreveport Man Arrested and Charged in Connection with Shamar Elkins Securing Firearm to Commit Mass Shooting",
+              "url": "https://www.justice.gov/usao-wdla/pr/shreveport-man-arrested-and-charged-connection-shamar-elkins-securing-firearm-commit"
+            },
+            {
+              "title": "DOJ arrests man accused of providing gun used by father who allegedly killed eight children",
+              "url": "https://www.foxnews.com/us/doj-arrests-man-accused-providing-gun-used-father-allegedly-killed-eight-children"
+            },
+            {
+              "title": "Louisiana gunman who killed eight children masked his rage before rampage",
+              "url": "https://www.washingtonpost.com/nation/2026/04/21/louisiana-shooting-children-eight-killed/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "monterrey - puebla",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Rayados se juega una de sus últimas cartas en casa ante Puebla, que también está urgido",
+              "url": "https://www.lavozarizona.com/story/deportes/futbol/2026/04/20/monterrey-vs-puebla-horario-como-llegan-canal-clausura-2026-jornada-16/89704843007/"
+            },
+            {
+              "title": "¿Irá la raza al estadio?",
+              "url": "https://www.elnorte.com/ira-la-raza-al-estadio-2026-04-21/op312183"
+            },
+            {
+              "title": "Se despedirá hoy Rayados de su afición en el BBVA",
+              "url": "https://elporvenir.mx/deportes/se-despedira-hoy-rayados-de-su-aficion-en-el-bbva/976012"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "olivier rioux",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Transfer portal shopping list: Best centers still on the market for BYU basketball",
+              "url": "https://lawlessrepublic.com/transfer-portal-shopping-list-best-centers-still-on-the-market-for-byu-basketball"
+            },
+            {
+              "title": "Should BYU basketball pursue this 7-foot-9 Goliath from Florida in the portal?",
+              "url": "https://www.msn.com/en-us/sports/other/should-byu-basketball-pursue-this-7-foot-9-goliath-from-florida-in-the-portal/ar-AA21h5z7"
+            },
+            {
+              "title": "BYU basketball whiffs on the ideal 7-foot center prospect in the transfer portal",
+              "url": "https://www.msn.com/en-us/sports/other/byu-basketball-whiffs-on-the-ideal-7-foot-center-prospect-in-the-transfer-portal/ar-AA21l7Yr"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "de'aaron fox",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Betting tips, DFS picks for Tuesday's NBA playoff games",
+              "url": "https://www.espn.com/fantasy/basketball/story/_/id/48550441/daily-fantasy-basketball-tips-nba-playoffs-betting-odds-picks-dfs-tuesday-4-21-2026"
+            },
+            {
+              "title": "NBA player prop picks, odds, free best bets: Model including Jaylen Brown for 2026 NBA Playoffs on April 21",
+              "url": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-free-best-bets-model-jaylen-brown-2026-nba-playoffs-tuesday-april-21/"
+            },
+            {
+              "title": "NBA Best Bets Today: Expert Picks, Predictions and Odds for Tuesday 4/21/26",
+              "url": "https://www.fanduel.com/research/nba-best-bets-today-expert-picks-predictions-and-odds-for-tuesday-4-21-26"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "bryce harper",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Is Luzardo (7.94 ERA) about to turn a corner? The data says ‘yes’",
+              "url": "https://www.mlb.com/news/jesus-luzardo-phillies-start-against-cubs"
+            },
+            {
+              "title": "Jesús Luzardo’s bumpy, puzzling start to Phillies season continues in blowout loss",
+              "url": "https://www.nytimes.com/athletic/7200914/2026/04/16/jesus-luzardo-phillies-stats-cubs/"
+            },
+            {
+              "title": "Winners and losers: Phillies embarrassed by Cubs in latest series setback",
+              "url": "https://www.phillyvoice.com/winners-losers-phillies-cubs-recap-bullpen-issues-jesus-luzardo-cris-sanchez-kyle-schwarber-schedule-news-analysis/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "brad keller",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "In his return to Chicago, Phillies reliever Brad Keller recalls the ‘cool moments’ he had with the Cubs",
+              "url": "https://www.inquirer.com/phillies/brad-keller-wrigley-field-return-cubs-phillies-series-20260420.html"
+            },
+            {
+              "title": "In his return to Chicago, Phillies reliever Brad Keller recalls the 'cool moments' he had with the Cubs",
+              "url": "https://www.msn.com/en-us/sports/mlb/in-his-return-to-chicago-phillies-reliever-brad-keller-recalls-the-cool-moments-he-had-with-the-cubs/ar-AA21nRGY"
+            },
+            {
+              "title": "Brad Keller Will \"Probably\" Earn First Save Situation in Modified Phillies Bullpen - MLB News | Fantasy Baseball",
+              "url": "https://www.rotoballer.com/player-news/brad-keller-will-probably-earn-first-save-situation-in-modified-phillies-bullpen/1848023"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "león vs club américa",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "¡Duelazo por Liguilla! Así puedes ver León vs. América",
+              "url": "https://www.tudn.com/futbol/liga-mx/leon-vs-america-horario-donde-ver-partido-jornada-16-liga-mx-clausura-2026"
+            },
+            {
+              "title": "América: Prohibido perder en su última salida del torneo",
+              "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/16603017/leon-vs-america-clausura-2026-henry-martin-liguilla"
+            },
+            {
+              "title": "León vs América, duelo clave de la Jornada 16 del Clausura 2026 hora y canal",
+              "url": "https://www.lavozarizona.com/story/deportes/futbol/2026/04/20/leon-vs-america-horas-y-cuando-juegan-la-jornada-16-del-clausura-2026/89704896007/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 40,
+          "interest_max": 100,
+          "interest_latest": 41,
+          "rank": 1
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 30,
+          "interest_max": 76,
+          "interest_latest": 29,
+          "rank": 2
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 28,
+          "interest_max": 69,
+          "interest_latest": 23,
+          "rank": 3
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 28,
+          "interest_max": 100,
+          "interest_latest": 12,
+          "rank": 4
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 24,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 20,
+          "interest_max": 56,
+          "interest_latest": 34,
+          "rank": 6
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 11,
+          "interest_max": 22,
+          "interest_latest": 13,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 2,
+          "interest_max": 10,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 1,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 8,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 39,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette blackfin",
+          "value": "31500"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette emojis copy and paste",
+          "value": "17850"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette blackfin",
+          "value": "800"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette pronunciation",
+          "value": "170"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette nola",
+          "value": "70"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "レイカーズ 対 ロケッツ",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "【4月22日】レイカーズvsロケッツの中継・放送予定｜NBAプレイオフ西1回戦ゲーム2",
+              "url": "https://www.sportingnews.com/jp/nba/news/2026-4-19-where-watch-playoff-lakers-rockets-game2/8e12f53358cb88fe95491323"
+            },
+            {
+              "title": "200万ドル以上の利益を上げたアカウントは総購入額49万ドル、NBAプレーインでOrlando MagicはPhiladelphia 76ersに勝利",
+              "url": "https://www.bitget.com/ja/news/detail/12560605368696"
+            },
+            {
+              "title": "NBA の試合前に Polymarket の勝率に無条件に従って取引すれば、安定して利益を得られるか？",
+              "url": "https://www.odaily.news/ja/post/5210327"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "町田浩樹",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「間に合う！」「絶対日本に必要」日本代表に朗報か！大怪我を負った28歳DFの“報告”にファン期待「待ってたよ」",
+              "url": "https://news.yahoo.co.jp/articles/34daa1ad056ba6f4d222f49cc3ce18a85ba3f322"
+            },
+            {
+              "title": "長期離脱から復帰へ前進…日本代表DF町田浩樹、チームトレーニングの一部に参加",
+              "url": "https://www.soccer-king.jp/news/japan/national/20260422/2151418.html"
+            },
+            {
+              "title": "町田浩樹、靱帯断裂後初めてホッフェンハイムの全体練習に一部参加！「完全復帰なら戦力として重要なオプション」",
+              "url": "https://topics.smt.docomo.ne.jp/article/qoly/sports/qoly-5cb8b315b7250678c13276bbf6a5323de65436d5"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "村上",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "村上宗隆、日本人3人目の4戦連発 大谷＆誠也に次ぐ…ジャッジに並ぶア2位9号、年63発ペース（Full-Count）",
+              "url": "https://news.yahoo.co.jp/articles/9506fb49c1f23c7834925259d7d6a0a55dbf0de7"
+            },
+            {
+              "title": "ホワイトソックス村上宗隆が４戦連発！昨季の大谷翔平に続く日本人２人目の偉業、２３年ＷＢＣ決勝で対戦投手から３年ぶりアーチ",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260422-OHT1T51026"
+            },
+            {
+              "title": "村上３戦連発 力強く８号",
+              "url": "https://www.shimotsuke.co.jp/articles/-/1330931"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "イ・ジョンフ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「復調気配が鮮明に！」イ・ジョンフ、ドジャース戦前に打率急上昇で存在感…母国メディアも評価「不振を克服しつつある」",
+              "url": "https://news.yahoo.co.jp/articles/fc8b8e760a42b3eee7ee670326cede9af7823134"
+            },
+            {
+              "title": "東部遠征3連戦で良い打撃感を見せたサンフランシスコ·ジャイアンツの李ジョンフ、今日は日ではなかった。",
+              "url": "https://www.mk.co.kr/jp/sports/12021320"
+            },
+            {
+              "title": "＜大リーグ＞李政厚、今季2回目の猛打賞…打率2割4分6厘に上昇",
+              "url": "https://topics.smt.docomo.ne.jp/article/japanesejoins/world/japanesejoins-347803"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "メッツ",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "「明らかに異常」11連敗中のメッツにNYメディア辛辣「冗談のように語られるが、現実の数字だ」チーム本塁打数はヤ軍ジャッジとライスの2人に及ばず（THE DIGEST）",
+              "url": "https://news.yahoo.co.jp/articles/45b02e5b8c64a3ba2ae9c75d641cbf50e3f66f39"
+            },
+            {
+              "title": "2026年4月22日（水） MLB メッツ vs ツインズ 試合結果",
+              "url": "https://topics.smt.docomo.ne.jp/article/sdaa/sports/sdaa-sdaa.jp-article-57306?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
+            },
+            {
+              "title": "鈴木誠也、連続試合出塁15で途切れる チームは延長サヨナラ勝利で５連勝",
+              "url": "https://www.nikkansports.com/baseball/mlb/photonews/photonews_nsInc_202604200000894-1.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "京セラ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "IVE、京セラドーム大阪でライブ初開催 7万9000人を動員 ウォニョンは関西弁で感謝伝える（日テレNEWS NNN）",
+              "url": "https://news.yahoo.co.jp/articles/6127d7119a8858ea1f33e6e9858a89405ea09dd4"
+            },
+            {
+              "title": "【PHOTO】IVE、初の京セラドーム公演を成功裏に終了…ソロステージも披露",
+              "url": "https://kstyle.com/article.ksn?articleNo=2278158"
+            },
+            {
+              "title": "人気K-POPグループ、京セラドーム初降臨",
+              "url": "https://mdpr.jp/k-enta/detail/4767913"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "ドジャース試合",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "大谷翔平 52試合連続出塁 アジア出身選手の大リーグ記録に並ぶ",
+              "url": "https://news.web.nhk/newsweb/na/na-k10015104541000"
+            },
+            {
+              "title": "〝大谷翔平にＭＬＢがひざまづいた！〟ロッキーズ戦の〝打ち直し判定〟に「えこひいきだ」ＳＮＳ騒然（東スポWEB）",
+              "url": "https://news.yahoo.co.jp/articles/2295a35c1913c02e40f07a09c02ae6f4561953cc"
+            },
+            {
+              "title": "大谷翔平が52試合連続出塁、球団史上2位まであと1試合",
+              "url": "https://www.mlb.com/ja/news/shohei-ohtani-extends-on-base-streak-to-52-games-with-single"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "ビクター・ウェンバンヤマ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "【NBA】サンダーのシェイ・ギルジャス・アレクサンダーが最優秀クラッチプレーヤー賞を受賞、クラッチ時にリーグ最多の175得点",
+              "url": "https://news.yahoo.co.jp/articles/a21f4336ef0265f37dd88d43750a74c0ab623157"
+            },
+            {
+              "title": "バスケットボール NBA ウェンバンヤマ 最優秀守備選手 最年少 初の満票選出",
+              "url": "https://mainichi.jp/articles/20260422/ddm/035/050/023000c"
+            },
+            {
+              "title": "ＮＢＡ＝ＳＧＡがＭＶＰ最終候補に、ヨキッチとウェンバンヤマも",
+              "url": "https://jp.reuters.com/life/sports/GRHJ22PVDJLD3DKL7IUDJI3Y7M-2026-04-21/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "中央線",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "中央線(快速)で人身事故 一部運転見合わせ（レスキューナウニュース）",
+              "url": "https://news.yahoo.co.jp/articles/55d843e666e5c39d14872c9bfc7cb8a230cebd47"
+            },
+            {
+              "title": "JR中央線快速 東京～高尾間の運転見合わせ 西八王子駅構内での人身事故のため",
+              "url": "https://news.ntv.co.jp/category/society/65d503d510cc440f8f84346c1a751816"
+            },
+            {
+              "title": "JR中央線快速　東京～高尾間の運転見合わせ　西八王子駅構内での人身事故のため | チバテレ＋プラス",
+              "url": "https://www.chiba-tv.com/plus/detail/2026041549817"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "サンフランシスコ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Exclusive: Legendary SF bar Toronado to be sold to one of its regulars",
+              "url": "https://www.sfgate.com/food/article/toronado-sf-new-owner-22218566.php"
+            },
+            {
+              "title": "Toronado, S.F.’s definitive craft beer bar, is being sold to new owners",
+              "url": "https://www.sfchronicle.com/food/wine/article/toronado-bar-sf-new-owner-22218844.php"
+            },
+            {
+              "title": "S.F. tower once worth $320 million went to auction. Nobody made an offer",
+              "url": "https://www.sfchronicle.com/realestate/article/sf-office-tower-auction-wework-22210832.php"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 41,
+          "interest_max": 100,
+          "interest_latest": 22,
+          "rank": 1
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 24,
+          "interest_max": 100,
+          "interest_latest": 16,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 17,
+          "interest_max": 100,
+          "interest_latest": 19,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 12,
+          "interest_max": 61,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 7,
+          "interest_max": 50,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 7,
+          "interest_max": 48,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 4,
+          "interest_max": 43,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 23,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 42,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 8,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 系 ファッション 男子",
+          "value": "170"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "ムシンサ",
+          "value": "120"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "dholic",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション サイト",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファスト ファッション",
+          "value": "50"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-04-22T02:43:33.536690+00:00"
+}
