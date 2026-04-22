@@ -8,6 +8,11 @@
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "fashion",
+      "growth": "+6%",
+      "total_mentions": 94
+    },
+    {
       "keyword": "티셔츠",
       "growth": "+33%",
       "total_mentions": 75
@@ -23,17 +28,20 @@
       "total_mentions": 53
     },
     {
-      "keyword": "style",
-      "growth": "+20%",
-      "total_mentions": 38
-    },
-    {
-      "keyword": "남자반팔티",
-      "growth": "+300%",
-      "total_mentions": 34
+      "keyword": "#fashion",
+      "growth": "+22%",
+      "total_mentions": 51
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "반팔티",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "원피스",
       "platforms": [
@@ -60,14 +68,6 @@
     },
     {
       "keyword": "티셔츠",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "트렌치코트",
       "platforms": [
         "naver",
         "youtube"
