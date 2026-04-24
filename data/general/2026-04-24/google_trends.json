@@ -1,0 +1,713 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "태진아",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "유승준, 태진아 공연 깜짝 등장…눈물로 '90도 인사'",
+              "url": "https://www.newsis.com/view/NISX20260424_0003604435"
+            },
+            {
+              "title": "유승준, 태진아 콘서트장 깜짝 등장···교민들 응원에 오열",
+              "url": "https://sports.khan.co.kr/article/202604240832013"
+            },
+            {
+              "title": "\"한국 아직도 못 가?\" 韓할머니 관객 발언, 노골적 의도..유승준, 태진아 콘서트서 눈물 [스타이슈]",
+              "url": "https://v.daum.net/v/FWHsEgpXCA"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "어쌔신 크리드 iv: 블랙 플래그",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "'어크 블랙 플래그’ 리메이크, 7월 9일 출시 확정",
+              "url": "https://www.gamemeca.com/view.php?gid=1774374"
+            },
+            {
+              "title": "다시 열리는 해적 시대, '블랙 플래그 리싱크드' 7월 9일 출시",
+              "url": "https://www.inven.co.kr/webzine/news/?news=315763"
+            },
+            {
+              "title": "어쌔신 크리드 블랙 플래그 리싱크드, 7월 9일 출시, 알아야 할 모든 것",
+              "url": "https://www.ubisoft.com/ko-kr/game/assassins-creed/news/3pdOduSqqhRaxjaGYP4QP7/7-9"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "주한 미군",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "주한미군사령관 “전작권 전환 조건, 2029년 1분기까지 달성…좋은 여건”",
+              "url": "https://www.hani.co.kr/arti/international/america/1255591.html"
+            },
+            {
+              "title": "주한미군 \"한국은 '권역 지속지원 거점'‥미군 자산 정비 확대 추진\"",
+              "url": "https://imnews.imbc.com/news/2026/politics/article/6817458_36911.html"
+            },
+            {
+              "title": "美 전작권 전환 시간표 첫 공식화…“전작권 전환 조건부 관리하면서 더 많은 국방비 요구” 분석",
+              "url": "https://www.munhwa.com/article/11584774"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "옥택연",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "옥택연, 오늘 오랜 연인과 결혼···2PM이 축가, 사회는 황찬성",
+              "url": "https://www.khan.co.kr/article/202604241013001"
+            },
+            {
+              "title": "옥택연, 오늘 4살 연하 연인과 결혼…10년 열애 결실",
+              "url": "https://www.newsis.com/view/NISX20260423_0003604391"
+            },
+            {
+              "title": "옥택연, 10년 열애 결실…24일 서울서 결혼식",
+              "url": "https://v.daum.net/v/20260424091408418"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "국가유산",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "춘향전 무대 '남원 광한루' 국보 지정 예고, 60여년만 승격",
+              "url": "https://v.daum.net/v/20260424074500159"
+            },
+            {
+              "title": "춘향전 무대 ‘광한루’ 국보로… 보물지정 63년만에 승격",
+              "url": "https://www.munhwa.com/article/11584765"
+            },
+            {
+              "title": "춘향과 몽룡의 사랑 흐르던 ′남원 광한루′, 국보 된다",
+              "url": "https://m.yonhapnewstv.co.kr/news/AKR20260424095029dUA"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "건강보험료",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"내 22만원 어디갔지?\" 통장보고 깜짝…4월마다 찾아오는 '건보료' 부담",
+              "url": "https://www.asiae.co.kr/visual-news/article/2026042311092674446"
+            },
+            {
+              "title": "직장인 4월 건보료 올랐나?…“지난해 연말정산 결과 반영”",
+              "url": "https://v.daum.net/v/UMwMs8TsHV"
+            },
+            {
+              "title": "작년 임금 오른 1035만명, 건보료 21.9만원 더 낸다",
+              "url": "https://www.sedaily.com/article/20035839"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "건강보험공단",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"심장 리듬 불규칙해\"…갤워치, 의료신호까지 연다",
+              "url": "https://biz.sbs.co.kr/article/20000305994"
+            },
+            {
+              "title": "양대노총 “감사원, 건보공단·심평원 민감 정보 개방 압력”",
+              "url": "http://www.hnews.kr/news/view.php?no=68327"
+            },
+            {
+              "title": "[공동성명] 국민의 생명과 기본권을 침해하는 ‘건강‧의료 데이터 개방’ 압박, 감사원은 즉각 중단하고 헌법적 책무인 국민 기본권을 보호하라",
+              "url": "https://nodong.org/statement/7929131"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "고영",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "고영테크놀러지, 1분기 매출 727억원…\"사상 최대\"",
+              "url": "https://www.newsis.com/view/NISX20260423_0003603939"
+            },
+            {
+              "title": "신한투자증권 \"고영, AI서버·광 인프라 낙수효과 확인…주가 리레이팅 지속 가능\"",
+              "url": "https://www.etoday.co.kr/news/view/2578748"
+            },
+            {
+              "title": "고영 1분기 영업이익 99억원…작년동기 대비 209.1%↑",
+              "url": "https://www.yna.co.kr/view/AKR20260423139400527"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "세종문화회관",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "세종문화회관, 내달 한강공원서 오페라 '라 트라비아타'",
+              "url": "https://www.newsis.com/view/NISX20260421_0003599698"
+            },
+            {
+              "title": "5월 야외 오페라 '라 트라비아타'…\"무대 설 시민 100명 모집\"",
+              "url": "https://v.daum.net/v/20260421114308515"
+            },
+            {
+              "title": "서울, 광화문광장서 펼쳐지는 K-클래식 향연",
+              "url": "https://www.pedien.com/html/view.php?idx=1038188"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "한국사",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[신문은 선생님] [뉴스 속의 한국사] 조선 말기 군인 봉기… 中·日에 침탈 계기 열어줬죠",
+              "url": "https://www.chosun.com/national/nie/2026/04/23/X5VWHPKMBFAJ7PIH3DMAK6ZRJI/"
+            },
+            {
+              "title": "165년 만의 귀환…기록 속에만 있던 이유원 초상, 베일 벗다",
+              "url": "https://v.daum.net/v/20260421164059621"
+            },
+            {
+              "title": "국립중앙박물관, '새로 맞이한 기증유물전' 첫 손님은 경주 이씨 이유원",
+              "url": "https://www.newspim.com/news/view/20260421001159"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "keylan rutledge",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Buffalo Bills trade 26th overall pick to Houston Texans, receive No. 28 overall in pick-swap",
+              "url": "https://www.buffalobills.com/news/buffalo-bills-trade-26th-overall-pick-to-houston-texans-receive-no-28-overall-in-pick-swap"
+            },
+            {
+              "title": "Texans trade up, draft Georgia Tech offensive guard Keylan ‘Big Red’ Rutledge",
+              "url": "https://www.click2houston.com/sports/2026/04/24/texans-trade-up-draft-georgia-tech-offensive-guard-keylan-big-red-rutledge/"
+            },
+            {
+              "title": "Buffalo Bills trade down in first round with Houston Texans in NFL Draft: What we know",
+              "url": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2026/04/23/buffalo-bills-nfl-draft-2026-trade-houston-texans-first-round/89573109007/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "anthony edwards",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Final Anthony Edwards Game 3 status for Timberwolves vs. Nuggets announced",
+              "url": "https://basketnews.com/news-245791-final-anthony-edwards-game-3-status-for-timberwolves-vs-nuggets-announced.html"
+            },
+            {
+              "title": "Anthony Edwards’ knee is aching, but his spirit is strong after Game 1 loss to Nuggets",
+              "url": "https://www.nytimes.com/athletic/7208006/2026/04/19/anthony-edwards-knee-game-1-nuggets-wolves/"
+            },
+            {
+              "title": "NBA playoffs 2026: Anthony Edwards cleared for Nuggets-Timberwolves Game 1",
+              "url": "https://sports.yahoo.com/nba/breaking-news/article/nba-playoffs-2026-anthony-edwards-cleared-for-nuggets-timberwolves-game-1-182129576.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ayo dosunmu",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Monday NBA Same Game Parlay: Can Aaron Gordon, Ayo Dosunmu Have Big Nights?",
+              "url": "https://www.oddschecker.com/us/picks-parlays/basketball/nba/20260419-monday-nba-same-game-parlay-can-aaron-gordon-ayo-dosunmu-have-big-nights"
+            },
+            {
+              "title": "Ayo Dosunmu (calf) off injury report Saturday",
+              "url": "https://www.fantasypros.com/nba/news/581179/ayo-dosunmu-calf-off-injury-report-saturday-.php"
+            },
+            {
+              "title": "Ayo Dosunmu And Timberwolves Take On Nuggets In Game 3",
+              "url": "https://www.fanduel.com/research/nba/player-news/game-updates/ayo-dosunmu-and-timberwolves-play-nuggetsin-game-3"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "chris johnson",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Cornerback Chris Johnson expected to end San Diego State’s NFL draft drought",
+              "url": "https://www.sandiegouniontribune.com/2026/04/22/cornerback-chris-johnson-expected-to-end-san-diego-states-nfl-draft-drought/"
+            },
+            {
+              "title": "Cowboys could use the Micah Parsons pick to crush Packers' dreams",
+              "url": "https://lombardiave.com/cowboys-could-use-micah-parsons-pick-crush-packers-dreams"
+            },
+            {
+              "title": "NFL Draft: San Diego’s top football talents await draft weekend",
+              "url": "https://sports.yahoo.com/articles/nfl-draft-san-diego-top-025329147.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "coby bryant",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Coby Bryant eager to begin first offseason program with Bears",
+              "url": "https://www.chicagobears.com/news/coby-bryant-eager-to-begin-first-offseason-program-with-bears"
+            },
+            {
+              "title": "3 things we learned from the Chicago Bears, including Coby Bryant’s similarities to his namesake",
+              "url": "https://www.chicagotribune.com/2026/04/20/chicago-bears-offseason-program-coby-bryant/"
+            },
+            {
+              "title": "What Coby Bryant said could change how Seahawks fans feel",
+              "url": "https://12thmanrising.com/what-coby-bryant-said-could-change-how-seattle-seahawks-fans-feel"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "travis hunter",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Travis Hunter's wife Leanna Lenee has a warning for WAGs heading into the 2026 NFL Draft",
+              "url": "https://www.foxnews.com/outkick-culture/travis-hunters-wife-leanna-lenee-warning-wags-heading-2026-nfl-draft"
+            },
+            {
+              "title": "Leanna Lenee's draft WAG advice sparks fresh debate around NFL spotlight culture",
+              "url": "https://www.marca.com/en/nfl/jacksonville-jaguars/2026/04/23/69ea6ffe46163fd8138b45a0.html"
+            },
+            {
+              "title": "Travis Hunter's Wife Leanna Shares 'Girl Advice' for NFL WAGs Ahead of Draft Week",
+              "url": "https://www.complex.com/sports/a/jaelaniturnerwilliams/travis-hunter-wife-leanna-girl-advice-draft-week"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "donte divincenzo",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "The Jaden McDaniels-Donte DiVincenzo-James White bond quietly fueling the Wolves",
+              "url": "https://www.nytimes.com/athletic/7215022/2026/04/23/the-jaden-mcdaniels-donte-divincenzo-james-white-bond-quietly-fueling-the-wolves/"
+            },
+            {
+              "title": "James White Drives Development for Timberwolves Duo During Playoffs",
+              "url": "https://www.koranmanado.co.id/en/timberwolves-player-development-james-white"
+            },
+            {
+              "title": "James White Drives Development of McDaniels and DiVincenzo",
+              "url": "https://www.asatunews.co.id/en/wolves-player-development-white-bond"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "dj moore",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Caleb Williams: I’ll miss D.J. Moore personally, understand trading him was business",
+              "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-ill-miss-d-j-moore-personally-understand-trading-him-was-business"
+            },
+            {
+              "title": "Chicago Bears QB Caleb Williams talks about $96M Buffalo Bills wide receiver",
+              "url": "https://timesofindia.indiatimes.com/sports/nfl/news/chicago-bears-qb-caleb-williams-talks-about-96m-buffalo-bills-wide-receiver/articleshow/130421778.cms"
+            },
+            {
+              "title": "Bears QB Caleb Williams sounds off on DJ Moore trade",
+              "url": "https://bearswire.usatoday.com/story/sports/nfl/bears/2026/04/20/bears-caleb-williams-reacts-dj-moore-trade/89706289007/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "minnesota",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "She warned DHS about fraud risks years ago. Now this Minnesota state worker is speaking up again.",
+              "url": "https://kstp.com/kstp-news/top-news/she-warned-dhs-about-fraud-risks-years-ago-now-this-minnesota-state-worker-is-speaking-up-again/"
+            },
+            {
+              "title": "'Made my life miserable': Minnesota WHISTLEBLOWER drops BOMBSHELL, exposes Walz admin | Somali fraud",
+              "url": "https://m.economictimes.com/news/international/world-news/made-my-life-miserable-minnesota-whistleblower-drops-bombshell-exposes-walz-admin-somali-fraud/videoshow/130305712.cms"
+            },
+            {
+              "title": "Minnesota Democrat Faye Bernstein Claims Walz Administration Targeted Her After She Exposed Fraud: ‘The Retaliation Is Strong’",
+              "url": "https://thenerdstash.com/minnesota-democrat-faye-bernstein-claims-walz-administration-targeted-her-after-she-exposed-fraud-the-retaliation-is-strong/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "declan rice",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Pep Guardiola interview: Man City boss says he loved the video clip of Arsenal midfielder Declan Rice saying the Premier League title race is not over",
+              "url": "https://www.skysports.com/football/news/33694/13534635/pep-guardiola-interview-man-city-boss-says-he-loved-the-video-clip-of-arsenal-midfielder-declan-rice-saying-the-premier-league-title-race-is-not-over"
+            },
+            {
+              "title": "Gary Neville Calls Out Declan Rice Over Post-Game Comments After Manchester City Loss",
+              "url": "https://sports.yahoo.com/articles/gary-neville-calls-declan-rice-205304556.html"
+            },
+            {
+              "title": "Neville says ‘nearly in tears’ Arsenal star is ‘done’ as Keane questions his ‘control’",
+              "url": "https://www.football365.com/news/neville-arsenal-star-done-keane-questions-control"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "蓮池薫",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「忠誠心が揺らいでしまう」北朝鮮国内でジュエ後継に拒否感（高英起） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/da8c3e7d5b8b0e22a694e33013c1cef601529fa7"
+            },
+            {
+              "title": "世論高める協力訴え 蓮池さん拉致問題で講演 福山 ／広島",
+              "url": "https://mainichi.jp/articles/20260423/ddl/k34/040/245000c"
+            },
+            {
+              "title": "「ちょっとしたきっかけで拉致問題動く」蓮池薫氏が講演 資金源のサイバー攻撃対応や日本独自の制裁緩和で解決を 広島県福山市",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2614900"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "感染",
+          "traffic": "5000+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "名越スタジオ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "名越稔洋氏率いる「名越スタジオ」のYouTubeアカウントが削除。4月24日時点ではスタジオ側からの説明はなし",
+              "url": "https://topics.smt.docomo.ne.jp/article/gamespark/trend/gamespark-165611"
+            },
+            {
+              "title": "名越稔洋氏率いる「名越スタジオ」のYouTubeアカウントが削除。4月24日時点ではスタジオ側からの説明はなし",
+              "url": "https://www.gamespark.jp/article/2026/04/24/165611.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "味の素",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【フィギュア】坂本花織 指導者の道へ抱負「心を鬼にして頑張っていきたい」（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/1e4b7a1ab56508c38087b9c9875258b8c5bed5a0"
+            },
+            {
+              "title": "フィギュア坂本、味の素を訪問 現役最後のシーズン、食事面支援",
+              "url": "https://www.okinawatimes.co.jp/articles/-/1823702"
+            },
+            {
+              "title": "坂本花織さん 「食サポート」に感謝 今季は体調不良が1度に激減「元気に過ごすことができた」平昌＆北京では救急搬送も経験 味の素本社を訪問",
+              "url": "https://article.auone.jp/detail/1/6/12/265_12_r_20260424_1776974744757931"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "人権",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "〈社説〉国家情報会議 市民監視の不安消えぬ",
+              "url": "https://www.tokyo-np.co.jp/article/484028"
+            },
+            {
+              "title": "「日本版CIA」国家情報局創設の日本…「中国牽制」「民主主義萎縮」激論（中央日報日本語版）",
+              "url": "https://news.yahoo.co.jp/articles/b4ea338daf2449f4536d7653622910a3b47014e5"
+            },
+            {
+              "title": "社説：インテリジェンスの強化 国会による監視が不可欠",
+              "url": "https://mainichi.jp/articles/20260424/ddm/005/070/083000c"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "秦野市",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "スコッティ・バーンズ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Scottie Barnes and Evan Mobley are already stars. But can they take the next step?",
+              "url": "https://www.nytimes.com/athletic/7219878/2026/04/23/scottie-barnes-evan-mobley-nba-playoffs-next-step/"
+            },
+            {
+              "title": "Will Scottie Barnes win the 2021 Draft duel vs. Evan Mobley? | Raptors-Cavs Mailbag!",
+              "url": "https://www.kare11.com/video/sports/locked-on/lo-toronto/raptors-show/will-scottie-barnes-win-the-2021-draft-duel-vs-evan-mobley-raptors-cavs-mailbag/535-a1abff58-0bf5-4f98-865e-aa078b00ab52"
+            },
+            {
+              "title": "Raptors’ first-round series could breathe new life into old Scottie Barnes debate",
+              "url": "https://raptorsrapture.com/raptors-first-round-series-could-breathe-new-life-into-old-scottie-barnes-debate"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "井の頭線",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "京王井の頭線で人身事故 一部運転見合わせ（レスキューナウニュース）",
+              "url": "https://news.yahoo.co.jp/articles/03dd313b54d6ecf300c67b8a1872616dd93b001b"
+            },
+            {
+              "title": "京王井の頭線 運転見合わせ 明大前〜永福町 上下線",
+              "url": "https://news.web.nhk/newsweb/na/nb-1000128054"
+            },
+            {
+              "title": "京王井の頭線で人身事故 一部運転見合わせ",
+              "url": "https://topics.smt.docomo.ne.jp/article/rescuenow/nation/rescuenow-00000018298437"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "井岡 一翔",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "井岡一翔陣営の〝異例行動〟に元王者が驚き「すげえな。あまり聞いたことがない」（東スポWEB）",
+              "url": "https://news.yahoo.co.jp/articles/f28fc1fc96f2ee9ef38e3909403ea49ee4451b5c"
+            },
+            {
+              "title": "ボクシング　井上拓真「どんだけすげえんだとそのとき思ってました」",
+              "url": "https://topics.smt.docomo.ne.jp/article/sanspo/sports/sanspo-_sports_others_TOJNLHMYJ5HGBMBGMR7PX6FECE"
+            },
+            {
+              "title": "来月２日バンタム級世界戦 井上拓、試金石のＶＳ井岡",
+              "url": "https://www.minpo.jp/articles/-/115485"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "シュガークン",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "屈腱炎で休養していたシュガークンは鞍上・武豊で新潟大賞典へ キタサンブラック半弟 宝塚記念を目指す （スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/2f0e7b5d3721ea91181962db741a70357161f492"
+            },
+            {
+              "title": "屈腱炎で休養していたシュガークンは新潟大賞典で復帰へ 鞍上は武豊 その後は宝塚記念も視野に【次走報】",
+              "url": "https://tospo-keiba.jp/breaking_news/70854"
+            },
+            {
+              "title": "キタサンブラック半弟のシュガークンは新潟大賞典で復帰　鞍上は引き続き武豊騎手　２４年のダービー後は屈腱炎発症していた...",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260424-OHT1T51050"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 13,
+          "interest_max": 100,
+          "interest_latest": 24,
+          "rank": 1
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 11,
+          "interest_max": 53,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 3,
+          "interest_max": 54,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 1,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-04-24T02:50:10.650722+00:00"
+}
