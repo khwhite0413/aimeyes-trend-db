@@ -1,47 +1,39 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-04-18",
-    "to": "2026-04-24"
+    "from": "2026-04-19",
+    "to": "2026-04-25"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+73%",
-      "total_mentions": 97
+      "growth": "+29%",
+      "total_mentions": 104
     },
     {
       "keyword": "티셔츠",
-      "growth": "+9%",
-      "total_mentions": 79
+      "growth": "+20%",
+      "total_mentions": 80
     },
     {
       "keyword": "#ootd",
-      "growth": "+83%",
-      "total_mentions": 60
+      "growth": "+71%",
+      "total_mentions": 66
     },
     {
       "keyword": "ootd",
-      "growth": "+83%",
-      "total_mentions": 60
+      "growth": "+71%",
+      "total_mentions": 66
     },
     {
-      "keyword": "에고이스트",
-      "growth": "+14%",
-      "total_mentions": 55
+      "keyword": "#fashion",
+      "growth": "+29%",
+      "total_mentions": 57
     }
   ],
   "most_cross_platform": [
-    {
-      "keyword": "반팔티",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
     {
       "keyword": "원피스",
       "platforms": [
@@ -67,7 +59,15 @@
       "count": 2
     },
     {
-      "keyword": "티셔츠",
+      "keyword": "청바지",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "반팔티",
       "platforms": [
         "naver",
         "youtube"
@@ -80,7 +80,7 @@
     "바람막이",
     "블라우스",
     "티셔츠",
-    "여성가디건"
+    "남자반팔티"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -90,8 +90,8 @@
     "티셔츠",
     "여성가디건",
     "올리비아로렌",
-    "#shorts",
     "#ootd",
-    "ootd"
+    "ootd",
+    "#shorts"
   ]
 }
