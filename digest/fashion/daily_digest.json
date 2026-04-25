@@ -2,22 +2,11 @@
   "date": "2026-04-25",
   "mode": "fashion",
   "compared_to": "2026-04-24",
-  "total_keywords_today": 561,
+  "total_keywords_today": 555,
   "total_keywords_yesterday": 528,
   "data_days_available": 41,
   "overall_confidence": "high",
   "rising": [
-    {
-      "keyword": "outfit",
-      "change": "+117%",
-      "today_count": 13,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 13건, 어제 6건 기준"
-    },
     {
       "keyword": "원피스",
       "change": "+8%",
@@ -53,6 +42,17 @@
       "sample_note": "오늘 12건, 어제 11건 기준"
     },
     {
+      "keyword": "outfit",
+      "change": "+83%",
+      "today_count": 11,
+      "yesterday_count": 6,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 11건, 어제 6건 기준"
+    },
+    {
       "keyword": "남자반팔티",
       "change": "+10%",
       "today_count": 11,
@@ -65,47 +65,26 @@
     },
     {
       "keyword": "style",
-      "change": "+43%",
-      "today_count": 10,
+      "change": "+14%",
+      "today_count": 8,
       "yesterday_count": 7,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 10건, 어제 7건 기준"
-    },
-    {
-      "keyword": "#fashion",
-      "change": "+29%",
-      "today_count": 9,
-      "yesterday_count": 7,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 9건, 어제 7건 기준"
-    },
-    {
-      "keyword": "중년패션코디",
-      "change": "+40%",
-      "today_count": 7,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 5건 기준"
+      "sample_note": "오늘 8건, 어제 7건 기준"
     },
     {
       "keyword": "여름원피스",
-      "change": "+17%",
-      "today_count": 7,
+      "change": "+33%",
+      "today_count": 8,
       "yesterday_count": 6,
       "confidence": "medium",
       "platforms": [
-        "naver"
+        "naver",
+        "youtube"
       ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
+      "sample_note": "오늘 8건, 어제 6건 기준"
     },
     {
       "keyword": "#데일리룩코디",
@@ -128,28 +107,6 @@
         "youtube"
       ],
       "sample_note": "오늘 6건, 어제 5건 기준"
-    },
-    {
-      "keyword": "#중년패션코디",
-      "change": "+20%",
-      "today_count": 6,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
-    },
-    {
-      "keyword": "스타일",
-      "change": "+100%",
-      "today_count": 6,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 3건 기준"
     },
     {
       "keyword": "#shorts",
@@ -196,7 +153,7 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "#outfit",
+      "keyword": "스타일",
       "change": "+67%",
       "today_count": 5,
       "yesterday_count": 3,
@@ -205,17 +162,6 @@
         "youtube"
       ],
       "sample_note": "오늘 5건, 어제 3건 기준"
-    },
-    {
-      "keyword": "summer",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
       "keyword": "beautiful",
@@ -227,13 +173,68 @@
         "youtube"
       ],
       "sample_note": "오늘 4건, 어제 1건 기준"
+    },
+    {
+      "keyword": "spring",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "your",
+      "change": "+300%",
+      "today_count": 4,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 1건 기준"
+    },
+    {
+      "keyword": "#중년패션",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "중년패션",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "패션",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "fashion",
-      "change": "-5%",
-      "today_count": 18,
+      "change": "-11%",
+      "today_count": 17,
       "yesterday_count": 19,
       "confidence": "high"
     },
@@ -242,13 +243,6 @@
       "change": "-10%",
       "today_count": 9,
       "yesterday_count": 10,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "코디",
-      "change": "-25%",
-      "today_count": 6,
-      "yesterday_count": 8,
       "confidence": "medium"
     },
     {
@@ -273,6 +267,13 @@
       "confidence": "low"
     },
     {
+      "keyword": "#мода",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
       "keyword": "린넨",
       "change": "-33%",
       "today_count": 2,
@@ -280,7 +281,21 @@
       "confidence": "low"
     },
     {
-      "keyword": "트위드자켓",
+      "keyword": "мода",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#style",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "dress",
       "change": "-33%",
       "today_count": 2,
       "yesterday_count": 3,
@@ -288,10 +303,18 @@
     }
   ],
   "new_entries": [
-    "ideas",
-    "룩북"
+    "ideas"
   ],
   "cross_platform_hot": [
+    {
+      "keyword": "여름원피스",
+      "platform_count": 2,
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "total_count": 8
+    },
     {
       "keyword": "원피스",
       "platform_count": 2,

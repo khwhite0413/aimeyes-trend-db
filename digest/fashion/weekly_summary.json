@@ -9,8 +9,8 @@
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+29%",
-      "total_mentions": 104
+      "growth": "+21%",
+      "total_mentions": 103
     },
     {
       "keyword": "티셔츠",
@@ -28,12 +28,20 @@
       "total_mentions": 66
     },
     {
-      "keyword": "#fashion",
-      "growth": "+29%",
-      "total_mentions": 57
+      "keyword": "에고이스트",
+      "growth": "+14%",
+      "total_mentions": 56
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "여름원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "원피스",
       "platforms": [
@@ -60,14 +68,6 @@
     },
     {
       "keyword": "청바지",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "반팔티",
       "platforms": [
         "naver",
         "youtube"
