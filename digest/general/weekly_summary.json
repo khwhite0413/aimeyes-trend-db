@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-04-20",
-    "to": "2026-04-26"
+    "from": "2026-04-21",
+    "to": "2026-04-27"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+50%",
-      "total_mentions": 102
+      "growth": "+23%",
+      "total_mentions": 106
     },
     {
-      "keyword": "원피스",
-      "growth": "+9%",
-      "total_mentions": 83
-    },
-    {
-      "keyword": "바람막이",
-      "growth": "+9%",
-      "total_mentions": 83
-    },
-    {
-      "keyword": "블라우스",
-      "growth": "+9%",
-      "total_mentions": 83
-    },
-    {
-      "keyword": "티셔츠",
+      "keyword": "#trending",
       "growth": "+20%",
-      "total_mentions": 82
+      "total_mentions": 83
+    },
+    {
+      "keyword": "trend",
+      "growth": "+100%",
+      "total_mentions": 78
+    },
+    {
+      "keyword": "남자반팔티",
+      "growth": "+71%",
+      "total_mentions": 69
+    },
+    {
+      "keyword": "올리비아로렌",
+      "growth": "+11%",
+      "total_mentions": 68
     }
   ],
   "most_cross_platform": [],
@@ -50,7 +50,7 @@
     "티셔츠",
     "#trending",
     "trend",
-    "여성가디건",
+    "남자반팔티",
     "올리비아로렌"
   ]
 }

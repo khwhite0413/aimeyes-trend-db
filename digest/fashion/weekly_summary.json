@@ -1,63 +1,39 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-04-20",
-    "to": "2026-04-26"
+    "from": "2026-04-21",
+    "to": "2026-04-27"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+112%",
-      "total_mentions": 106
-    },
-    {
-      "keyword": "원피스",
-      "growth": "+8%",
-      "total_mentions": 87
+      "growth": "+100%",
+      "total_mentions": 122
     },
     {
       "keyword": "블라우스",
-      "growth": "+9%",
-      "total_mentions": 84
+      "growth": "+17%",
+      "total_mentions": 87
     },
     {
-      "keyword": "티셔츠",
-      "growth": "+20%",
-      "total_mentions": 82
+      "keyword": "ootd",
+      "growth": "+62%",
+      "total_mentions": 75
     },
     {
       "keyword": "#ootd",
-      "growth": "+43%",
+      "growth": "+38%",
+      "total_mentions": 73
+    },
+    {
+      "keyword": "남자반팔티",
+      "growth": "+71%",
       "total_mentions": 69
     }
   ],
   "most_cross_platform": [
-    {
-      "keyword": "여름원피스",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "원피스",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "바람막이",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
     {
       "keyword": "블라우스",
       "platforms": [
@@ -68,6 +44,30 @@
     },
     {
       "keyword": "청바지",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "여름원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "반팔티",
       "platforms": [
         "naver",
         "youtube"
@@ -85,13 +85,13 @@
   "top_keywords_overall": [
     "fashion",
     "원피스",
-    "바람막이",
     "블라우스",
+    "바람막이",
     "티셔츠",
-    "#ootd",
     "ootd",
-    "여성가디건",
+    "#ootd",
+    "남자반팔티",
     "올리비아로렌",
-    "남자반팔티"
+    "여성가디건"
   ]
 }
