@@ -2,43 +2,54 @@
   "date": "2026-04-28",
   "mode": "general",
   "compared_to": "2026-04-27",
-  "total_keywords_today": 486,
+  "total_keywords_today": 489,
   "total_keywords_yesterday": 494,
   "data_days_available": 44,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "#shorts",
-      "change": "+19%",
-      "today_count": 19,
+      "change": "+12%",
+      "today_count": 18,
       "yesterday_count": 16,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 19건, 어제 16건 기준"
+      "sample_note": "오늘 18건, 어제 16건 기준"
     },
     {
       "keyword": "#viral",
-      "change": "+14%",
-      "today_count": 16,
+      "change": "+7%",
+      "today_count": 15,
       "yesterday_count": 14,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 16건, 어제 14건 기준"
+      "sample_note": "오늘 15건, 어제 14건 기준"
     },
     {
       "keyword": "#trending",
-      "change": "+45%",
-      "today_count": 16,
+      "change": "+27%",
+      "today_count": 14,
       "yesterday_count": 11,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 16건, 어제 11건 기준"
+      "sample_note": "오늘 14건, 어제 11건 기준"
+    },
+    {
+      "keyword": "trend",
+      "change": "+38%",
+      "today_count": 11,
+      "yesterday_count": 8,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 11건, 어제 8건 기준"
     },
     {
       "keyword": "에고이스트",
@@ -50,17 +61,6 @@
         "naver"
       ],
       "sample_note": "오늘 10건, 어제 9건 기준"
-    },
-    {
-      "keyword": "trend",
-      "change": "+12%",
-      "today_count": 9,
-      "yesterday_count": 8,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
       "keyword": "dance",
@@ -118,62 +118,18 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "#fyp",
-      "change": "+100%",
-      "today_count": 4,
+      "keyword": "trends",
+      "change": "+50%",
+      "today_count": 3,
       "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#lifehacks",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "lifehacks",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "#diy",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "diy",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "trends",
+      "keyword": "#fyp",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -226,6 +182,50 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "seven",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "editlyrics",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "lyrics",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "#minivlog",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
     }
   ],
   "declining": [
@@ -238,36 +238,36 @@
     },
     {
       "keyword": "challenge",
-      "change": "-43%",
-      "today_count": 4,
+      "change": "-29%",
+      "today_count": 5,
       "yesterday_count": 7,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "keyword": "#funny",
-      "change": "-40%",
-      "today_count": 3,
+      "change": "-20%",
+      "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
       "keyword": "#challenge",
-      "change": "-40%",
-      "today_count": 3,
+      "change": "-20%",
+      "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
       "keyword": "funny",
-      "change": "-40%",
-      "today_count": 3,
+      "change": "-20%",
+      "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
       "keyword": "love",
-      "change": "-40%",
-      "today_count": 3,
+      "change": "-20%",
+      "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
@@ -280,26 +280,36 @@
     },
     {
       "keyword": "#beatbox",
-      "change": "-50%",
-      "today_count": 2,
+      "change": "-25%",
+      "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
       "keyword": "#kpop",
-      "change": "-50%",
-      "today_count": 2,
+      "change": "-25%",
+      "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
       "keyword": "#treasure",
-      "change": "-50%",
-      "today_count": 2,
+      "change": "-25%",
+      "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     }
   ],
   "new_entries": [],
-  "cross_platform_hot": []
+  "cross_platform_hot": [
+    {
+      "keyword": "아랍에미리트",
+      "platform_count": 2,
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "total_count": 2
+    }
+  ]
 }

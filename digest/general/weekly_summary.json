@@ -9,31 +9,40 @@
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+19%",
-      "total_mentions": 112
+      "growth": "+12%",
+      "total_mentions": 111
     },
     {
       "keyword": "#viral",
-      "growth": "+33%",
-      "total_mentions": 94
+      "growth": "+25%",
+      "total_mentions": 93
     },
     {
       "keyword": "#trending",
-      "growth": "+45%",
-      "total_mentions": 88
+      "growth": "+27%",
+      "total_mentions": 86
+    },
+    {
+      "keyword": "trend",
+      "growth": "+10%",
+      "total_mentions": 82
     },
     {
       "keyword": "남자반팔티",
       "growth": "+50%",
       "total_mentions": 74
-    },
-    {
-      "keyword": "올리비아로렌",
-      "growth": "+11%",
-      "total_mentions": 69
     }
   ],
-  "most_cross_platform": [],
+  "most_cross_platform": [
+    {
+      "keyword": "아랍에미리트",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    }
+  ],
   "naver_shopping_hot": [
     "원피스",
     "바람막이",
