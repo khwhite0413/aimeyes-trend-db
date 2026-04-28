@@ -1,54 +1,54 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-04-21",
-    "to": "2026-04-27"
+    "from": "2026-04-22",
+    "to": "2026-04-28"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+23%",
-      "total_mentions": 106
+      "growth": "+19%",
+      "total_mentions": 112
+    },
+    {
+      "keyword": "#viral",
+      "growth": "+33%",
+      "total_mentions": 94
     },
     {
       "keyword": "#trending",
-      "growth": "+10%",
-      "total_mentions": 82
-    },
-    {
-      "keyword": "trend",
-      "growth": "+60%",
-      "total_mentions": 76
+      "growth": "+45%",
+      "total_mentions": 88
     },
     {
       "keyword": "남자반팔티",
-      "growth": "+71%",
-      "total_mentions": 69
+      "growth": "+50%",
+      "total_mentions": 74
     },
     {
       "keyword": "올리비아로렌",
       "growth": "+11%",
-      "total_mentions": 68
+      "total_mentions": 69
     }
   ],
   "most_cross_platform": [],
   "naver_shopping_hot": [
     "원피스",
     "바람막이",
-    "블라우스",
     "남자반팔티",
+    "블라우스",
     "티셔츠"
   ],
   "top_keywords_overall": [
     "#shorts",
     "#viral",
+    "#trending",
     "원피스",
     "바람막이",
     "블라우스",
     "티셔츠",
-    "#trending",
     "trend",
     "남자반팔티",
     "올리비아로렌"
