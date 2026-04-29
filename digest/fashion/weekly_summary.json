@@ -9,8 +9,8 @@
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+44%",
-      "total_mentions": 137
+      "growth": "+38%",
+      "total_mentions": 136
     },
     {
       "keyword": "원피스",
@@ -18,24 +18,24 @@
       "total_mentions": 89
     },
     {
+      "keyword": "ootd",
+      "growth": "+18%",
+      "total_mentions": 83
+    },
+    {
+      "keyword": "#ootd",
+      "growth": "+18%",
+      "total_mentions": 79
+    },
+    {
       "keyword": "남자반팔티",
       "growth": "+33%",
       "total_mentions": 78
-    },
-    {
-      "keyword": "올리비아로렌",
-      "growth": "+10%",
-      "total_mentions": 71
-    },
-    {
-      "keyword": "#fashion",
-      "growth": "+20%",
-      "total_mentions": 64
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "블라우스",
+      "keyword": "청바지",
       "platforms": [
         "naver",
         "youtube"
@@ -43,7 +43,7 @@
       "count": 2
     },
     {
-      "keyword": "청바지",
+      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
@@ -89,8 +89,8 @@
     "바람막이",
     "티셔츠",
     "ootd",
-    "남자반팔티",
     "#ootd",
+    "남자반팔티",
     "올리비아로렌",
     "#fashion"
   ]
