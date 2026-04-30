@@ -2,22 +2,11 @@
   "date": "2026-04-30",
   "mode": "general",
   "compared_to": "2026-04-29",
-  "total_keywords_today": 475,
+  "total_keywords_today": 473,
   "total_keywords_yesterday": 515,
   "data_days_available": 46,
   "overall_confidence": "high",
   "rising": [
-    {
-      "keyword": "trend",
-      "change": "+38%",
-      "today_count": 11,
-      "yesterday_count": 8,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 11건, 어제 8건 기준"
-    },
     {
       "keyword": "#tiktok",
       "change": "+17%",
@@ -42,17 +31,28 @@
     },
     {
       "keyword": "#funny",
-      "change": "+67%",
-      "today_count": 5,
+      "change": "+100%",
+      "today_count": 6,
       "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 6건, 어제 3건 기준"
     },
     {
       "keyword": "funny",
+      "change": "+100%",
+      "today_count": 6,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 3건 기준"
+    },
+    {
+      "keyword": "love",
       "change": "+67%",
       "today_count": 5,
       "yesterday_count": 3,
@@ -63,92 +63,37 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
-      "keyword": "love",
-      "change": "+33%",
+      "keyword": "#love",
+      "change": "+100%",
       "today_count": 4,
-      "yesterday_count": 3,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "#editlyrics",
-      "change": "+33%",
+      "keyword": "#food",
+      "change": "+300%",
       "today_count": 4,
-      "yesterday_count": 3,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 4건, 어제 1건 기준"
     },
     {
-      "keyword": "#lyrics",
-      "change": "+33%",
+      "keyword": "food",
+      "change": "+300%",
       "today_count": 4,
-      "yesterday_count": 3,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "#viralvideo",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "six",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "seven",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "editlyrics",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "lyrics",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 4건, 어제 1건 기준"
     },
     {
       "keyword": "セリア",
@@ -162,7 +107,18 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "메이크업",
+      "keyword": "유행하는",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#beatbox",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -184,7 +140,40 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#love",
+      "keyword": "#treasure",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#1b",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#1million",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "beatbox",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -206,7 +195,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#shortsfeed",
+      "keyword": "treasure",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -217,7 +206,18 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "shortsfeed",
+      "keyword": "1b",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "1million",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -231,16 +231,23 @@
   "declining": [
     {
       "keyword": "#viral",
-      "change": "-8%",
-      "today_count": 12,
+      "change": "-23%",
+      "today_count": 10,
       "yesterday_count": 13,
       "confidence": "high"
     },
     {
-      "keyword": "#trending",
-      "change": "-10%",
-      "today_count": 9,
-      "yesterday_count": 10,
+      "keyword": "#dance",
+      "change": "-33%",
+      "today_count": 4,
+      "yesterday_count": 6,
+      "confidence": "low"
+    },
+    {
+      "keyword": "dance",
+      "change": "-17%",
+      "today_count": 5,
+      "yesterday_count": 6,
       "confidence": "medium"
     },
     {
@@ -259,8 +266,8 @@
     },
     {
       "keyword": "challenge",
-      "change": "-50%",
-      "today_count": 2,
+      "change": "-25%",
+      "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     },
@@ -279,13 +286,6 @@
       "confidence": "low"
     },
     {
-      "keyword": "recipe",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
       "keyword": "청바지",
       "change": "-25%",
       "today_count": 3,
@@ -300,6 +300,8 @@
       "confidence": "low"
     }
   ],
-  "new_entries": [],
+  "new_entries": [
+    "ranking"
+  ],
   "cross_platform_hot": []
 }
