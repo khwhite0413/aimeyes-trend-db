@@ -1,69 +1,36 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "mode": "general",
-  "compared_to": "2026-04-29",
-  "total_keywords_today": 473,
-  "total_keywords_yesterday": 515,
-  "data_days_available": 46,
+  "compared_to": "2026-04-30",
+  "total_keywords_today": 478,
+  "total_keywords_yesterday": 473,
+  "data_days_available": 47,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "#tiktok",
-      "change": "+17%",
-      "today_count": 7,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
-    },
-    {
-      "keyword": "잇미샤원피스",
-      "change": "+17%",
-      "today_count": 7,
-      "yesterday_count": 6,
+      "keyword": "여름원피스",
+      "change": "+12%",
+      "today_count": 9,
+      "yesterday_count": 8,
       "confidence": "medium",
       "platforms": [
         "naver"
       ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
+      "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
-      "keyword": "#funny",
-      "change": "+100%",
+      "keyword": "dance",
+      "change": "+20%",
       "today_count": 6,
-      "yesterday_count": 3,
+      "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 6건, 어제 3건 기준"
+      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "funny",
-      "change": "+100%",
-      "today_count": 6,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 3건 기준"
-    },
-    {
-      "keyword": "love",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
-    },
-    {
-      "keyword": "#love",
+      "keyword": "april",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -74,29 +41,7 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "#food",
-      "change": "+300%",
-      "today_count": 4,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 1건 기준"
-    },
-    {
-      "keyword": "food",
-      "change": "+300%",
-      "today_count": 4,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 1건 기준"
-    },
-    {
-      "keyword": "セリア",
+      "keyword": "trends",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -107,7 +52,29 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "유행하는",
+      "keyword": "lifehacks",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "럭키슈에뜨",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "#minivlog",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -118,7 +85,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#beatbox",
+      "keyword": "minivlog",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -129,179 +96,212 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#kpop",
-      "change": "+50%",
+      "keyword": "photo",
+      "change": "NEW",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 0,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건 (신규)"
     },
     {
-      "keyword": "#treasure",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "mashup",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 2건 (신규)"
     },
     {
-      "keyword": "#1b",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "philippines",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 2건 (신규)"
     },
     {
-      "keyword": "#1million",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "party",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 2건 (신규)"
     },
     {
-      "keyword": "beatbox",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "25th",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 2건 (신규)"
     },
     {
-      "keyword": "kpop",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "useful",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "treasure",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "ஓட",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 2건 (신규)"
     },
     {
-      "keyword": "1b",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "#vlog",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "1million",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "vlog",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "batter",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건 (신규)"
+    },
+    {
+      "keyword": "college",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건 (신규)"
+    },
+    {
+      "keyword": "카프리팬츠",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
-      "keyword": "#viral",
-      "change": "-23%",
-      "today_count": 10,
-      "yesterday_count": 13,
+      "keyword": "#shorts",
+      "change": "-20%",
+      "today_count": 12,
+      "yesterday_count": 15,
       "confidence": "high"
     },
     {
-      "keyword": "#dance",
-      "change": "-33%",
-      "today_count": 4,
-      "yesterday_count": 6,
-      "confidence": "low"
+      "keyword": "남자반팔티",
+      "change": "-8%",
+      "today_count": 11,
+      "yesterday_count": 12,
+      "confidence": "high"
     },
     {
-      "keyword": "dance",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
+      "keyword": "#viral",
+      "change": "-10%",
+      "today_count": 9,
+      "yesterday_count": 10,
       "confidence": "medium"
     },
     {
-      "keyword": "여성가디건",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "life",
+      "keyword": "#trending",
       "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
+      "today_count": 8,
+      "yesterday_count": 10,
+      "confidence": "medium"
     },
     {
-      "keyword": "challenge",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
+      "keyword": "에고이스트",
+      "change": "-10%",
+      "today_count": 9,
+      "yesterday_count": 10,
+      "confidence": "medium"
     },
     {
-      "keyword": "hacks",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
+      "keyword": "trend",
+      "change": "-38%",
+      "today_count": 5,
+      "yesterday_count": 8,
+      "confidence": "medium"
     },
     {
-      "keyword": "tips",
-      "change": "-75%",
-      "today_count": 1,
-      "yesterday_count": 4,
-      "confidence": "low"
+      "keyword": "#tiktok",
+      "change": "-14%",
+      "today_count": 6,
+      "yesterday_count": 7,
+      "confidence": "medium"
     },
     {
-      "keyword": "청바지",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
+      "keyword": "잇미샤원피스",
+      "change": "-14%",
+      "today_count": 6,
+      "yesterday_count": 7,
+      "confidence": "medium"
     },
     {
-      "keyword": "fashion",
+      "keyword": "#funny",
       "change": "-33%",
-      "today_count": 2,
-      "yesterday_count": 3,
+      "today_count": 4,
+      "yesterday_count": 6,
+      "confidence": "low"
+    },
+    {
+      "keyword": "funny",
+      "change": "-33%",
+      "today_count": 4,
+      "yesterday_count": 6,
       "confidence": "low"
     }
   ],
   "new_entries": [
-    "ranking"
+    "photo"
   ],
   "cross_platform_hot": []
 }
