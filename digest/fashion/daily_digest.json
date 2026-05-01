@@ -2,22 +2,11 @@
   "date": "2026-05-01",
   "mode": "fashion",
   "compared_to": "2026-04-30",
-  "total_keywords_today": 506,
+  "total_keywords_today": 497,
   "total_keywords_yesterday": 519,
   "data_days_available": 47,
   "overall_confidence": "high",
   "rising": [
-    {
-      "keyword": "fashion",
-      "change": "+7%",
-      "today_count": 16,
-      "yesterday_count": 15,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 16건, 어제 15건 기준"
-    },
     {
       "keyword": "여름원피스",
       "change": "+12%",
@@ -28,39 +17,6 @@
         "naver"
       ],
       "sample_note": "오늘 9건, 어제 8건 기준"
-    },
-    {
-      "keyword": "street",
-      "change": "+75%",
-      "today_count": 7,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 4건 기준"
-    },
-    {
-      "keyword": "shopping",
-      "change": "+20%",
-      "today_count": 6,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
-    },
-    {
-      "keyword": "style",
-      "change": "+50%",
-      "today_count": 6,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 4건 기준"
     },
     {
       "keyword": "outfit",
@@ -85,7 +41,18 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "amp",
+      "keyword": "street",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "haul",
       "change": "+25%",
       "today_count": 5,
       "yesterday_count": 4,
@@ -173,17 +140,6 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "italian",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
       "keyword": "출근룩",
       "change": "+50%",
       "today_count": 3,
@@ -206,29 +162,80 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "look",
-      "change": "+200%",
-      "today_count": 3,
+      "keyword": "変化の2026年",
+      "change": "+100%",
+      "today_count": 2,
       "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "wear",
-      "change": "NEW",
+      "keyword": "ランウェイ注目ブランド10選を解説",
+      "change": "+100%",
       "today_count": 2,
-      "yesterday_count": 0,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건 (신규)"
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "2026年春夏",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "リーズナブルに買える",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "大人のトレンドアイテム",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "9選",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
+    {
+      "keyword": "fashion",
+      "change": "-13%",
+      "today_count": 13,
+      "yesterday_count": 15,
+      "confidence": "high"
+    },
     {
       "keyword": "#ootd",
       "change": "-14%",
@@ -280,8 +287,8 @@
     },
     {
       "keyword": "spring",
-      "change": "-43%",
-      "today_count": 4,
+      "change": "-57%",
+      "today_count": 3,
       "yesterday_count": 7,
       "confidence": "low"
     },
@@ -291,13 +298,6 @@
       "today_count": 6,
       "yesterday_count": 7,
       "confidence": "medium"
-    },
-    {
-      "keyword": "#중년패션코디",
-      "change": "-33%",
-      "today_count": 4,
-      "yesterday_count": 6,
-      "confidence": "low"
     }
   ],
   "new_entries": [],
@@ -319,6 +319,15 @@
         "youtube"
       ],
       "total_count": 13
+    },
+    {
+      "keyword": "대군부인",
+      "platform_count": 2,
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "total_count": 2
     }
   ]
 }
