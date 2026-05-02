@@ -2,7 +2,7 @@
   "date": "2026-05-02",
   "mode": "general",
   "compared_to": "2026-05-01",
-  "total_keywords_today": 460,
+  "total_keywords_today": 464,
   "total_keywords_yesterday": 501,
   "data_days_available": 48,
   "overall_confidence": "high",
@@ -31,14 +31,14 @@
     },
     {
       "keyword": "#trending",
-      "change": "+25%",
-      "today_count": 10,
+      "change": "+12%",
+      "today_count": 9,
       "yesterday_count": 8,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 10건, 어제 8건 기준"
+      "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
       "keyword": "dance",
@@ -50,17 +50,6 @@
         "youtube"
       ],
       "sample_note": "오늘 8건, 어제 6건 기준"
-    },
-    {
-      "keyword": "challenge",
-      "change": "+100%",
-      "today_count": 6,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 3건 기준"
     },
     {
       "keyword": "럭키슈에뜨",
@@ -94,6 +83,17 @@
         "youtube"
       ],
       "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "challenge",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
       "keyword": "minivlog",
@@ -173,28 +173,6 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#comedy",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "comedy",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
       "keyword": "#minivlog",
       "change": "+50%",
       "today_count": 3,
@@ -217,31 +195,53 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "team",
-      "change": "NEW",
-      "today_count": 2,
-      "yesterday_count": 0,
+      "keyword": "#tiktokメドレー",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건 (신규)"
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "tiktokメドレー",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "最新tiktokメドレー",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "#shorts",
-      "change": "-7%",
-      "today_count": 13,
+      "change": "-14%",
+      "today_count": 12,
       "yesterday_count": 14,
       "confidence": "high"
     },
     {
       "keyword": "#viral",
-      "change": "-9%",
-      "today_count": 10,
+      "change": "-18%",
+      "today_count": 9,
       "yesterday_count": 11,
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "keyword": "남자반팔티",
@@ -266,10 +266,10 @@
     },
     {
       "keyword": "#tiktok",
-      "change": "-33%",
-      "today_count": 4,
+      "change": "-17%",
+      "today_count": 5,
       "yesterday_count": 6,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "keyword": "funny",
