@@ -1,69 +1,80 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "mode": "general",
-  "compared_to": "2026-05-01",
-  "total_keywords_today": 464,
-  "total_keywords_yesterday": 501,
-  "data_days_available": 48,
+  "compared_to": "2026-05-02",
+  "total_keywords_today": 503,
+  "total_keywords_yesterday": 464,
+  "data_days_available": 49,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "올리비아로렌",
-      "change": "+9%",
-      "today_count": 12,
-      "yesterday_count": 11,
+      "keyword": "#shorts",
+      "change": "+17%",
+      "today_count": 14,
+      "yesterday_count": 12,
       "confidence": "high",
-      "platforms": [
-        "naver"
-      ],
-      "sample_note": "오늘 12건, 어제 11건 기준"
-    },
-    {
-      "keyword": "trend",
-      "change": "+57%",
-      "today_count": 11,
-      "yesterday_count": 7,
-      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 11건, 어제 7건 기준"
+      "sample_note": "오늘 14건, 어제 12건 기준"
     },
     {
       "keyword": "#trending",
-      "change": "+12%",
-      "today_count": 9,
-      "yesterday_count": 8,
+      "change": "+11%",
+      "today_count": 10,
+      "yesterday_count": 9,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 9건, 어제 8건 기준"
+      "sample_note": "오늘 10건, 어제 9건 기준"
     },
     {
-      "keyword": "dance",
-      "change": "+33%",
-      "today_count": 8,
-      "yesterday_count": 6,
+      "keyword": "challenge",
+      "change": "+75%",
+      "today_count": 7,
+      "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 8건, 어제 6건 기준"
+      "sample_note": "오늘 7건, 어제 4건 기준"
+    },
+    {
+      "keyword": "잇미샤원피스",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
       "keyword": "럭키슈에뜨",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
+      "keyword": "#fyp",
       "change": "+25%",
       "today_count": 5,
       "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
-        "naver"
+        "youtube"
       ],
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "#fyp",
+      "keyword": "quot",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -74,128 +85,7 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "#viralvideo",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "challenge",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "minivlog",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#editlyrics",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#lyrics",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "six",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "seven",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "editlyrics",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "lyrics",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#minivlog",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "vlog",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#tiktokメドレー",
+      "keyword": "fashion",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -206,7 +96,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "tiktokメドレー",
+      "keyword": "#challenge",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -217,7 +107,62 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "最新tiktokメドレー",
+      "keyword": "생활",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "꿀팁",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "비법",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "de",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "más",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "tutorial",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -226,84 +171,137 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "#リュウジ",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#バズレシピ",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "リュウジ",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "バズレシピ",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "써스데이아일랜드",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
     }
   ],
   "declining": [
     {
-      "keyword": "#shorts",
-      "change": "-14%",
-      "today_count": 12,
-      "yesterday_count": 14,
-      "confidence": "high"
-    },
-    {
-      "keyword": "#viral",
-      "change": "-18%",
-      "today_count": 9,
+      "keyword": "trend",
+      "change": "-45%",
+      "today_count": 6,
       "yesterday_count": 11,
       "confidence": "medium"
     },
     {
       "keyword": "남자반팔티",
-      "change": "-9%",
-      "today_count": 10,
-      "yesterday_count": 11,
-      "confidence": "high"
+      "change": "-10%",
+      "today_count": 9,
+      "yesterday_count": 10,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "dance",
+      "change": "-25%",
+      "today_count": 6,
+      "yesterday_count": 8,
+      "confidence": "medium"
     },
     {
       "keyword": "여름원피스",
-      "change": "-11%",
-      "today_count": 8,
-      "yesterday_count": 9,
+      "change": "-12%",
+      "today_count": 7,
+      "yesterday_count": 8,
       "confidence": "medium"
-    },
-    {
-      "keyword": "#funny",
-      "change": "-50%",
-      "today_count": 3,
-      "yesterday_count": 6,
-      "confidence": "low"
     },
     {
       "keyword": "#tiktok",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "funny",
-      "change": "-50%",
+      "change": "-40%",
       "today_count": 3,
-      "yesterday_count": 6,
-      "confidence": "low"
-    },
-    {
-      "keyword": "잇미샤원피스",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "#dance",
-      "change": "-20%",
-      "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "love",
+      "keyword": "#viralvideo",
+      "change": "-75%",
+      "today_count": 1,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "minivlog",
+      "change": "-75%",
+      "today_count": 1,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "セリア",
       "change": "-50%",
       "today_count": 2,
       "yesterday_count": 4,
       "confidence": "low"
+    },
+    {
+      "keyword": "#editlyrics",
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#lyrics",
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
+      "confidence": "low"
     }
   ],
   "new_entries": [
-    "team",
-    "winner",
-    "copines"
+    "챌린지"
   ],
   "cross_platform_hot": []
 }

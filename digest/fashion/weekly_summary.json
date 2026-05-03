@@ -1,39 +1,42 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-04-26",
-    "to": "2026-05-02"
+    "from": "2026-04-27",
+    "to": "2026-05-03"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "블라우스",
-      "growth": "+8%",
-      "total_mentions": 91
-    },
-    {
-      "keyword": "ootd",
-      "growth": "+20%",
-      "total_mentions": 87
-    },
-    {
-      "keyword": "#ootd",
-      "growth": "+20%",
-      "total_mentions": 83
-    },
-    {
       "keyword": "올리비아로렌",
       "growth": "+20%",
-      "total_mentions": 75
+      "total_mentions": 77
     },
     {
-      "keyword": "에고이스트",
+      "keyword": "#shorts",
+      "growth": "+57%",
+      "total_mentions": 56
+    },
+    {
+      "keyword": "outfit",
       "growth": "+12%",
-      "total_mentions": 65
+      "total_mentions": 49
+    },
+    {
+      "keyword": "잇미샤원피스",
+      "growth": "+50%",
+      "total_mentions": 39
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "에이블리",
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "블라우스",
       "platforms": [
@@ -44,14 +47,6 @@
     },
     {
       "keyword": "원피스",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "여름원피스",
       "platforms": [
         "naver",
         "youtube"
