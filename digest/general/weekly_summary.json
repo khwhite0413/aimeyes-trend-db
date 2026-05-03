@@ -8,9 +8,19 @@
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "#shorts",
+      "growth": "+12%",
+      "total_mentions": 108
+    },
+    {
       "keyword": "올리비아로렌",
       "growth": "+20%",
       "total_mentions": 77
+    },
+    {
+      "keyword": "dance",
+      "growth": "+50%",
+      "total_mentions": 47
     },
     {
       "keyword": "잇미샤원피스",
@@ -24,6 +34,14 @@
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "불닭냉면",
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "대군부인",
       "platforms": [
