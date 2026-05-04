@@ -1,31 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-04-27",
-    "to": "2026-05-03"
+    "from": "2026-04-28",
+    "to": "2026-05-04"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "원피스",
+      "growth": "+8%",
+      "total_mentions": 91
+    },
+    {
+      "keyword": "#ootd",
+      "growth": "+18%",
+      "total_mentions": 84
+    },
+    {
       "keyword": "올리비아로렌",
       "growth": "+20%",
-      "total_mentions": 77
+      "total_mentions": 79
     },
     {
       "keyword": "#shorts",
-      "growth": "+71%",
-      "total_mentions": 57
+      "growth": "+33%",
+      "total_mentions": 62
     },
     {
-      "keyword": "outfit",
-      "growth": "+12%",
-      "total_mentions": 49
-    },
-    {
-      "keyword": "잇미샤원피스",
-      "growth": "+50%",
-      "total_mentions": 39
+      "keyword": "#fashion",
+      "growth": "+20%",
+      "total_mentions": 60
     }
   ],
   "most_cross_platform": [
@@ -34,6 +39,22 @@
       "platforms": [
         "naver",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "자라",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "종소세 신고",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     },
@@ -52,22 +73,6 @@
         "youtube"
       ],
       "count": 2
-    },
-    {
-      "keyword": "대군부인",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "아랍에미리트",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
@@ -79,14 +84,14 @@
   ],
   "top_keywords_overall": [
     "fashion",
-    "블라우스",
     "원피스",
+    "블라우스",
     "ootd",
+    "#ootd",
     "바람막이",
     "티셔츠",
-    "#ootd",
-    "남자반팔티",
     "올리비아로렌",
+    "남자반팔티",
     "에고이스트"
   ]
 }

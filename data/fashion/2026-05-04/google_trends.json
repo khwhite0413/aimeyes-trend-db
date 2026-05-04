@@ -1,0 +1,930 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "김시우",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "트럼프 소유 골프장으로 돌아온 PGA 대회… 온 가족 이끌고 총출동",
+              "url": "https://www.chosun.com/international/us/2026/05/04/YXJ7KX3VSFAUXHGP2O4EWZX6DU/"
+            },
+            {
+              "title": "'시즌 6번째 톱10' 김시우, 남자골프 세계랭킹 20위로 도약",
+              "url": "https://www.newsis.com/view/NISX20260504_0003615608"
+            },
+            {
+              "title": "김시우, PGA 투어 캐딜락 챔피언십에서 시즌 여섯번째 톱10",
+              "url": "https://v.daum.net/v/20260504064812622"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "데이브 로버츠",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "\"뚱뚱한 XX\" 이정후에 욕설한 다저스 포수, 또 논란…대체 무슨 말 했길래",
+              "url": "https://www.chosun.com/sports/world-baseball/2026/04/30/MNRDQNRTGBSWKMBUMUZDOMDDHE/"
+            },
+            {
+              "title": "이정후 무리하게 홈으로 보내더니...SF 3루코치, 연이은 판단 실수로 ‘뭇매’",
+              "url": "https://www.mk.co.kr/news/sports/12034183"
+            },
+            {
+              "title": "이정후 향해 'FxxK' 욕설 논란→이번엔 심판과 말싸움…LAD 포수, MLB 최고 밉상 됐다→\"가장 미움받는 선수 되고자 전력 질주\"",
+              "url": "https://m.news.nate.com/view/20260503n00117?sect=spo&list=rank&cate=interest"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "gh",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "General Hospital Comings and Goings: Michael James Scott Returns",
+              "url": "https://www.yahoo.com/entertainment/tv/articles/general-hospital-comings-goings-michael-041500852.html"
+            },
+            {
+              "title": "General Hospital: Jack and Carly Face Off Over Cheating and Lies — Exclusive Preview From Laura Wright & Chris McKenna!",
+              "url": "https://www.soapoperadigest.com/content/general-hospital-jack-and-carly-face-off-over-cheating-and-lies-exclusive-preview/"
+            },
+            {
+              "title": "General Hospital Spoilers: Lucas Under Pressure After a Threat on May 4",
+              "url": "https://soaphub.com/general-hospital/spoilers-lucas-under-pressure-after-threat-may-4/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "종소세 신고",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 5,
+          "keyword": "한전",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "박정 의원, 기업 전기요금 선납제 도입하는…한전법 개정안 발의",
+              "url": "https://www.lawissue.co.kr/view.php?ud=20260503004711654792eef753eb_12"
+            },
+            {
+              "title": "73조원 전력망 사업 한전 독점 막 내린다",
+              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604281009227680907"
+            },
+            {
+              "title": "막힌 송전망, 민간이 뚫는다…거버넌스 유지·효율↑",
+              "url": "https://ket.kr/news/article.html?no=38194"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "캐시워크 정답",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "배달의민족 배짱할인 캐시워크 돈 버는 퀴즈, 정답은?",
+              "url": "https://www.ajunews.com/view/20260503111753093"
+            },
+            {
+              "title": "'일차의료 만성질환관리 사업' 캐시워크 돈 버는 퀴즈, 정답은?",
+              "url": "https://news.nate.com/view/20260503n05556"
+            },
+            {
+              "title": "[캐시워크 정답] 돈버는 퀴즈 정답 5월4일 11시 캐시워크 정답 확인",
+              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16051388"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "하이닉스 주가",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "[속보] 올해 128% 폭등…현대차 제치더니 \"이제는 110만원\"",
+              "url": "https://v.daum.net/v/20260504111347016"
+            },
+            {
+              "title": "美기술주 훈풍에 SK하닉, '140만닉스'로…삼전도 3%↑[핫스탁](종합)",
+              "url": "https://www.newsis.com/view/NISX20260504_0003616173"
+            },
+            {
+              "title": "[특징주] SK하이닉스 4%대 급등해 최고치 경신…삼전도 2.3%↑",
+              "url": "https://www.yna.co.kr/view/AKR20260504034600008"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "소득세",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "화성시, 6일부터 '지방세·국세 합동신고센터' 운영",
+              "url": "https://www.yna.co.kr/view/AKR20260504045400061"
+            },
+            {
+              "title": "인천시 개인지방소득세 6월1일까지 통합신고창구 운영",
+              "url": "https://www.newsis.com/view/NISX20260503_0003615183"
+            },
+            {
+              "title": "논산시, 개인지방소득세·종합소득세 신고·납부 안내",
+              "url": "https://www.news1.kr/local/daejeon-chungnam/6156260"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "nh투자증권",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "결국 강호동 회장이…NH증권 각자대표 만들었다",
+              "url": "https://dealsite.co.kr/articles/161066"
+            },
+            {
+              "title": "NH투자증권, 각자대표 전환 속 '경영지원부문' 향방은",
+              "url": "https://www.fetv.co.kr/news/articleView.html?idxno=301596"
+            },
+            {
+              "title": "NH투자증권도 '각자대표' 체제로…증권가 선호 이유는?",
+              "url": "https://www.mediapen.com/news/view/1096728"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "두산에너빌리티 주가",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "두산에너빌리티·우리기술·오르비텍·비에이치아이·한전기술, 원전주 엇갈린 흐름 속 수급 재편",
+              "url": "https://www.cbci.co.kr/news/articleView.html?idxno=572025"
+            },
+            {
+              "title": "두산에너빌리티 주가 4월 마지막장은 약세로, 5월 첫 장 흐름은?…美 원전주도 ‘숨고르기’",
+              "url": "https://www.cbci.co.kr/news/articleView.html?idxno=571940"
+            },
+            {
+              "title": "우리기술·두산에너빌리티 약세…원전주, 뉴욕증시 혼조 속 숨고르기",
+              "url": "https://www.cbci.co.kr/news/articleView.html?idxno=571353"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "무신사",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "nick foligno",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Former Blackhawks Captain Nick Foligno Deserves This Chance With Wild",
+              "url": "https://sports.yahoo.com/videos/former-blackhawks-captain-nick-foligno-175325052.html"
+            },
+            {
+              "title": "Former Blackhawks Captain Nick Foligno Deserves This Chance With Wild",
+              "url": "https://thehockeynews.com/nhl/chicago-blackhawks/latest-news/former-blackhawks-captain-nick-foligno-deserves-this-chance-with-wild"
+            },
+            {
+              "title": "3 Things to Watch: Wild at Avalanche, Game 1 of Western Conference 2nd Round",
+              "url": "https://www.nhl.com/news/minnesota-wild-colorado-avalanche-game-1-preview-may-3-2026"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "kevin costner",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Kevin Costner Western 'Horizon' To Stream on Prime Video for the First Time",
+              "url": "https://www.imdb.com/news/ni65823120/?ref_=nmnw_art_perm"
+            },
+            {
+              "title": "Kevin Costner Poured $38M of His Own Money Into 'Horizon' — Now It's Frozen, Sued, and Heading to Saudi Arabia",
+              "url": "https://www.comicbasics.com/kevin-costner-poured-38m-of-his-own-money-into-horizon-now-its-frozen-sued-and-heading-to-saudi-arabia/"
+            },
+            {
+              "title": "Kevin Costner's Epic $38 Million Western Bomb Officially Leaves HBO Max for Bigger Streaming Service",
+              "url": "https://movieweb.com/horizon-kevin-costner-streaming-prime-video-may-2026/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "lindsey vonn",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "CNN News Central sits down with Olympic great Lindsey Vonn: \"I'm still in survival mode\"",
+              "url": "https://www.cnn.com/2026/05/01/us/video/cnn-news-central-sits-down-with-olympic-great-lindsey-vonn-im-still-in-survival-mode-cnc"
+            },
+            {
+              "title": "Lindsey Vonn attends Jeff Bezos and Lauren Sanchez’s pre-Met Gala party on crutches",
+              "url": "https://nypost.com/2026/05/03/sports/lindsey-vonn-attends-jeff-bezos-and-lauren-sanchezs-pre-met-gala-party/"
+            },
+            {
+              "title": "Gold medal skier Lindsey Vonn opens up about her devastating crash and recovery",
+              "url": "https://www.pbs.org/newshour/show/gold-medal-skier-lindsey-vonn-opens-up-about-her-devastating-crash-and-recovery"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "keke palmer",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Billboard Women in Music Awards 2026 red carpet: Keke Palmer, Zara Larsson, Teyana Taylor and more",
+              "url": "https://pagesix.com/2026/04/29/style/billboard-women-in-music-awards-2026-red-carpet-keke-palmer-zara-larsson-teyana-taylor-and-more/"
+            },
+            {
+              "title": "A Closer Look at the Billboard Women in Music 2026 Beauty: Teyana Taylor, Keke Palmer, Tate McRae and More",
+              "url": "https://wwd.com/pop-culture/celebrity-news/gallery/billboard-women-in-music-2026-beauty-1238935501/"
+            },
+            {
+              "title": "APTOPIX 2026 Billboard's Women in Music",
+              "url": "https://www.bdtonline.com/news/nation_world/aptopix-2026-billboards-women-in-music/image_b035c236-f49a-5fb2-9d87-fde083670c6b.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "whitney leavitt",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Whitney Leavitt Leaving 'The Secret Lives of Mormon Wives'",
+              "url": "https://deadline.com/2026/05/whitney-leavitt-secret-lives-of-mormon-wives-exit-hulu-1236879529/"
+            },
+            {
+              "title": "Whitney Leavitt Exiting ‘The Secret Lives of Mormon Wives’ Cast",
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/whitney-leavitt-leaving-secret-lives-mormon-wives-cast-1236584517/"
+            },
+            {
+              "title": "'Secret Lives of Mormon Wives' Whitney Leavitt Announces Exit During 'Chicago' Show",
+              "url": "https://www.tmz.com/2026/05/03/secret-lives-of-mormon-wives-whitney-leavitt-announces-exit-during-chicago/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "kerala election results",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Indian shares poised to open higher on easing oil; state election results eyed",
+              "url": "https://www.reuters.com/world/india/indian-shares-poised-open-higher-easing-oil-state-election-results-eyed-2026-05-04/"
+            },
+            {
+              "title": "‘Poll results, earnings to drive markets this week’",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/poll-results-earnings-to-drive-markets-this-week/articleshow/130743055.cms"
+            },
+            {
+              "title": "Nifty bulls eye 500-point rally on peace hopes and Bengal buzz",
+              "url": "https://www.livemint.com/market/nifty-bulls-eye-500-point-rally-on-peace-hopes-and-bengal-buzz-11777784216177.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "bitcoin",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Bitcoin (BTC) Tops $80,000 for Three-Month High as Asian Stocks Rise",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-04/bitcoin-btc-tops-80-000-for-three-month-high-as-asian-stocks-rise"
+            },
+            {
+              "title": "Bitcoin above $78K, ETH, SOL, DOGE higher as Senate clears Clarity Act yield hurdle",
+              "url": "https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record"
+            },
+            {
+              "title": "Bitcoin targets $80,000 amid regulatory progress and S&P 500 record",
+              "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-targets-80000-amid-regulatory-progress-and-sp-500-record-4654822"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "ryan hartman",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Minnesota Wild 5 - Colorado Avalanche 7: 3rd 13:18",
+              "url": "https://sports.yahoo.com/nhl/minnesota-wild-colorado-avalanche-2026050317/"
+            },
+            {
+              "title": "Will Kirill Kaprizov Score a Goal vs. the Colorado Avalanche on May 3?",
+              "url": "https://www.bleachernation.com/picks/2026/05/02/will-kirill-kaprizov-score-a-goal-vs-the-colorado-avalanche-on-may-3/"
+            },
+            {
+              "title": "Will Ryan Hartman Score a Goal vs. the Colorado Avalanche on May 3?",
+              "url": "https://www.bleachernation.com/picks/2026/05/02/will-ryan-hartman-score-a-goal-vs-the-colorado-avalanche-on-may-3/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "vladimir tarasenko",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Red Wings shouldn't be criticized for trading Vladimir Tarasenko",
+              "url": "https://octopusthrower.com/red-wings-shouldn-t-be-criticized-for-trading-vladimir-tarasenko-01kqj6pek75s"
+            },
+            {
+              "title": "Vladimir Tarasenko Joins Minnesota Wild After Detroit Red Wings Trade",
+              "url": "https://www.asatunews.co.id/en/tarasenko-traded-minnesota-wild-detroit"
+            },
+            {
+              "title": "Vladimir Tarasenko Traded To Minnesota Wild For Future Considerations",
+              "url": "https://www.el-balad.com/17003633"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "sam allberry",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Sam Allberry Resigns from Church and Keller Center",
+              "url": "https://www.thegospelcoalition.org/article/announcement-from-tgc/"
+            },
+            {
+              "title": "Elders Disqualify Pastor Sam Allberry From Ministry Over ‘Inappropriate Relationship’ With Another Man",
+              "url": "https://churchleaders.com/news/2216873-sam-allberry-disqualify-ministry-inappropriate-relationship.html"
+            },
+            {
+              "title": "Sam Allberry Resigns from Ministry Over Inappropriate Relationship",
+              "url": "https://www.asatunews.co.id/en/sam-allberry-resigns-pastoral-resignation"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 37,
+          "interest_max": 93,
+          "interest_latest": 36,
+          "rank": 1
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 37,
+          "interest_max": 100,
+          "interest_latest": 36,
+          "rank": 2
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 34,
+          "interest_max": 100,
+          "interest_latest": 38,
+          "rank": 3
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 24,
+          "interest_max": 70,
+          "interest_latest": 22,
+          "rank": 4
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 24,
+          "interest_max": 100,
+          "interest_latest": 46,
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 22,
+          "interest_max": 52,
+          "interest_latest": 29,
+          "rank": 6
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 15,
+          "interest_max": 26,
+          "interest_latest": 15,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 2,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 11,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "bottega veneta",
+          "value": "170"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury nails",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury jewelry",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "celine",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "loro piana",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette d1",
+          "value": "700"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette pajamas",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette aesthetic outfits",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d1",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "citrus and salt",
+          "value": "80"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "バーガーキング",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "【総重量661g】バーガーキング“横綱級バーガー”再び ビーフ5枚×チーズ8枚の圧倒的ボリューム",
+              "url": "https://www.ssnp.co.jp/foodservice/679766/"
+            },
+            {
+              "title": "「これを待ってた」「パティ5枚はやばい」バーガーキングの『超特大2890円バーガー』にSNS騒然！まさに“横綱級”のボリュームなんです！（ハフポスト日本版）",
+              "url": "https://news.yahoo.co.jp/articles/949a36bbfc17d1591b3051c120afb490c6b0f871"
+            },
+            {
+              "title": "バーガーキング「二代目BABYBODYBURGER」(公式X@BURGERKINGJAPANより) - バーガーキング期間限定「BABY BODY BURGER」ボリューム感に驚き 日本相撲協会とのコラボ - 写真・画像(1/1)",
+              "url": "https://www.nishinippon.co.jp/image/1034948/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "梅沢富美男",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "バイきんぐ小峠、ののかちゃんと「ホテル三日月」で遊ぶ 妹・ひーちゃん3歳も合流（お笑いナタリー）",
+              "url": "https://news.yahoo.co.jp/articles/af9d37fa2535216d70649d8949b814f14db99ac7"
+            },
+            {
+              "title": "“ののちゃん”村方乃々佳、小峠英二と3年ぶり再会 妹の“ひーちゃん”とヒルナンデスロケへ",
+              "url": "https://www.oricon.co.jp/news/2452573/full/"
+            },
+            {
+              "title": "小峠英二タジタジ!? 小学2年生になった村方乃々佳と1年ぶりのロケ！梅沢富美男は40年ぶり鉄道旅へ！",
+              "url": "https://news.livedoor.com/article/detail/31172798/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ジョリーパスタ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【ジョリーパスタ】レモンが爽やかに香る、夏めくぜいたくパスタが登場！初夏にぴったりな“冷製パスタ”も販売開始！ジョリーパスタが「南イタリア横断フェア “シチリア編”」を開催",
+              "url": "https://prtimes.jp/main/html/rd/p/000000990.000097263.html"
+            },
+            {
+              "title": "【佐倉市】生谷にあるジョリーパスタでは、5月7日から、「南イタリア横断フェア “シチリア編”」を開催します。",
+              "url": "https://sakura-yotsukaido-yachimata.goguynet.jp/2026/05/03/jollypasta/"
+            },
+            {
+              "title": "ジョリーパスタ、シチリアテーマの新フェアを開催、レモン香る初夏向けパスタ登場",
+              "url": "https://kabu-ir.com/article/520587852.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "エヴァンジェリン・リリー",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「恥を知りなさい」『アントマン』エヴァンジェリン・リリー、マーベルのビジュアル開発チーム解雇に怒り ─ AI代替にも懸念",
+              "url": "https://theriver.jp/lilly-marvel-layoffs/"
+            },
+            {
+              "title": "『アントマン』エヴァンジェリン・リリーがディズニー人員削減に懸念｜AIが奪う“クリエイターの仕事”",
+              "url": "https://news.yahoo.co.jp/articles/af978305e9c2fc5aa4bba5a44fff2dea465215f0"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ららぽーと豊洲",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 6,
+          "keyword": "サイゼ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "サイゼ人気メニューが復活も危惧される“食の海外依存”、家庭を襲う「チキンショックの余波」",
+              "url": "https://article.auone.jp/detail/1/3/6/100_4_r_20260504_1777853517518611"
+            },
+            {
+              "title": "この価格はやっぱりスゴイ！サイゼリヤの『人気メニュー』がお値段そのままで復活！肉のうまみがあふれ出すの！《実食レビュー》（ハフポスト日本版）",
+              "url": "https://news.yahoo.co.jp/articles/8bf5de296783016e54c2c0a71abf673240384b68"
+            },
+            {
+              "title": "サイゼ人気メニューが復活も危惧…家庭を襲う「チキンショックの余波」 (2026年5月4日掲載)",
+              "url": "https://news.livedoor.com/topics/detail/31173395/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "セイコーマート",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 8,
+          "keyword": "データセンター",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ソフトバンクG系事業、米データセンターがジャンク債9億9900万ドル",
+              "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2641331?display=1"
+            },
+            {
+              "title": "ソフトバンクG関連データセンターのジャンク債、提示利回り引き上げ",
+              "url": "https://www.bloomberg.com/jp/news/articles/2026-05-01/TEBUMFT96OU000"
+            },
+            {
+              "title": "ソフトバンクがレアメタル使わぬ蓄電池 データセンター向け生産参入",
+              "url": "https://www.nikkei.com/article/DGXZQOUC271280X20C26A4000000/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "士業",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「士業で独立」を夢見る中高年の理想と現実 60歳を過ぎても役に立つ資格とは｜年金不安時代を生きるワーキングシニアの懊悩",
+              "url": "https://www.nikkan-gendai.com/articles/view/life/387234/2"
+            },
+            {
+              "title": "《老後資金を増やす方法》70才までは「厚生年金を受け取りながら働き、国民年金を繰り下げ」が現実的な選択　「老後の見通しが明るくなった」と再就職した60代女性も意欲",
+              "url": "https://topics.smt.docomo.ne.jp/article/moneypost/life/moneypost-1394238?page=2"
+            },
+            {
+              "title": "オーバー50女性が「スーパーの正社員になり月25万円」「登録販売者の資格取得でドラッグストアで手取り20万円」…将来の厚生年金を増やすための職場・資格選びのコツと実例",
+              "url": "https://www.moneypost.jp/1394236"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "高校野球 埼玉",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "高校野球＞埼玉大会、きょう準決勝 機動力でかき回す攻撃の立教新座、浦和学院は地力で落ち着かせるか…激戦の行方を展望、対決の鍵は（埼玉新聞）",
+              "url": "https://news.yahoo.co.jp/articles/82bc89cec27982280d7e1926dd13437596a000ac"
+            },
+            {
+              "title": "4日に準決勝！昌平と花咲徳栄の昨夏の激闘再び！春季埼玉県大会【26年春高校野球】",
+              "url": "https://sportsbull.jp/p/2325659/"
+            },
+            {
+              "title": "高校野球＞埼玉大会、きょう準決勝 切れ目ない花咲徳栄打線、爆発力ある昌平打線…激戦の行方を展望、見応えのある打ち合いに期待",
+              "url": "https://article.auone.jp/detail/1/2/5/474_5_r_20260504_1777855041839883"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 44,
+          "interest_max": 100,
+          "interest_latest": 79,
+          "rank": 1
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 40,
+          "interest_max": 100,
+          "interest_latest": 37,
+          "rank": 2
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 15,
+          "interest_max": 83,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 14,
+          "interest_max": 64,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 2,
+          "interest_max": 49,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-05-04T03:24:12.284112+00:00"
+}
