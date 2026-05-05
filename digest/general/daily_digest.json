@@ -2,32 +2,21 @@
   "date": "2026-05-05",
   "mode": "general",
   "compared_to": "2026-05-04",
-  "total_keywords_today": 510,
+  "total_keywords_today": 499,
   "total_keywords_yesterday": 531,
   "data_days_available": 51,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "#viral",
-      "change": "+8%",
-      "today_count": 14,
+      "change": "+15%",
+      "today_count": 15,
       "yesterday_count": 13,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 14건, 어제 13건 기준"
-    },
-    {
-      "keyword": "trend",
-      "change": "+40%",
-      "today_count": 7,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 5건 기준"
+      "sample_note": "오늘 15건, 어제 13건 기준"
     },
     {
       "keyword": "럭키슈에뜨",
@@ -52,7 +41,7 @@
       "sample_note": "오늘 6건, 어제 3건 기준"
     },
     {
-      "keyword": "mashup",
+      "keyword": "#fyp",
       "change": "+67%",
       "today_count": 5,
       "yesterday_count": 3,
@@ -96,6 +85,28 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
+      "keyword": "hacks",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#food",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 2건 기준"
+    },
+    {
       "keyword": "最新tiktokメドレー",
       "change": "+25%",
       "today_count": 5,
@@ -116,39 +127,6 @@
         "youtube"
       ],
       "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "philippines",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "party",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "hacks",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
       "keyword": "#shortsfeed",
@@ -173,17 +151,6 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "#food",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
       "keyword": "tips",
       "change": "+300%",
       "today_count": 4,
@@ -206,7 +173,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "today",
+      "keyword": "#funny",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -217,7 +184,18 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "recipe",
+      "keyword": "#skills",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "#comedy",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -226,18 +204,40 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#humor",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "#foryou",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
-      "keyword": "#shorts",
-      "change": "-12%",
-      "today_count": 15,
-      "yesterday_count": 17,
-      "confidence": "high"
+      "keyword": "dance",
+      "change": "-18%",
+      "today_count": 9,
+      "yesterday_count": 11,
+      "confidence": "medium"
     },
     {
-      "keyword": "dance",
+      "keyword": "#trending",
       "change": "-9%",
       "today_count": 10,
       "yesterday_count": 11,
@@ -251,43 +251,65 @@
       "confidence": "medium"
     },
     {
-      "keyword": "#dance",
+      "keyword": "trends",
       "change": "-20%",
       "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "challenge",
-      "change": "-75%",
-      "today_count": 1,
+      "keyword": "요즘",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#dance",
+      "change": "-40%",
+      "today_count": 3,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "hack",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "trend",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "유행하는",
+      "change": "-25%",
+      "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "#tiktok",
+      "keyword": "challenge",
       "change": "-50%",
       "today_count": 2,
       "yesterday_count": 4,
       "confidence": "low"
-    },
-    {
-      "keyword": "fashion",
-      "change": "-33%",
-      "today_count": 2,
-      "yesterday_count": 3,
-      "confidence": "low"
-    },
-    {
-      "keyword": "여성가디건",
-      "change": "-33%",
-      "today_count": 2,
-      "yesterday_count": 3,
-      "confidence": "low"
     }
   ],
-  "new_entries": [
-    "style"
-  ],
-  "cross_platform_hot": []
+  "new_entries": [],
+  "cross_platform_hot": [
+    {
+      "keyword": "샌디스크",
+      "platform_count": 2,
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "total_count": 2
+    }
+  ]
 }
