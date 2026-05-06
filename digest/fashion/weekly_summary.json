@@ -1,8 +1,8 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-04-29",
-    "to": "2026-05-05"
+    "from": "2026-04-30",
+    "to": "2026-05-06"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -10,27 +10,27 @@
     {
       "keyword": "원피스",
       "growth": "+8%",
-      "total_mentions": 91
-    },
-    {
-      "keyword": "#ootd",
-      "growth": "+8%",
-      "total_mentions": 87
-    },
-    {
-      "keyword": "ootd",
-      "growth": "+8%",
-      "total_mentions": 87
+      "total_mentions": 92
     },
     {
       "keyword": "올리비아로렌",
       "growth": "+9%",
-      "total_mentions": 81
+      "total_mentions": 82
     },
     {
-      "keyword": "#shorts",
-      "growth": "+140%",
-      "total_mentions": 65
+      "keyword": "#fashion",
+      "growth": "+57%",
+      "total_mentions": 63
+    },
+    {
+      "keyword": "outfit",
+      "growth": "+125%",
+      "total_mentions": 56
+    },
+    {
+      "keyword": "#데일리룩코디",
+      "growth": "+14%",
+      "total_mentions": 45
     }
   ],
   "most_cross_platform": [
@@ -44,6 +44,14 @@
     },
     {
       "keyword": "원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
@@ -65,33 +73,25 @@
         "x_twitter"
       ],
       "count": 2
-    },
-    {
-      "keyword": "블라우스",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
     "원피스",
-    "바람막이",
     "블라우스",
-    "티셔츠",
-    "올리비아로렌"
+    "바람막이",
+    "올리비아로렌",
+    "티셔츠"
   ],
   "top_keywords_overall": [
     "fashion",
     "원피스",
+    "ootd",
     "블라우스",
     "#ootd",
-    "ootd",
     "바람막이",
     "티셔츠",
     "올리비아로렌",
     "남자반팔티",
-    "에고이스트"
+    "#shorts"
   ]
 }
