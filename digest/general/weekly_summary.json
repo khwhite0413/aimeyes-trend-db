@@ -14,8 +14,8 @@
     },
     {
       "keyword": "#viral",
-      "growth": "+50%",
-      "total_mentions": 83
+      "growth": "+40%",
+      "total_mentions": 82
     },
     {
       "keyword": "올리비아로렌",
@@ -23,17 +23,25 @@
       "total_mentions": 82
     },
     {
-      "keyword": "#trending",
-      "growth": "+10%",
-      "total_mentions": 69
+      "keyword": "dance",
+      "growth": "+120%",
+      "total_mentions": 59
     },
     {
-      "keyword": "dance",
-      "growth": "+100%",
-      "total_mentions": 58
+      "keyword": "럭키슈에뜨",
+      "growth": "+167%",
+      "total_mentions": 39
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "섬총각 영웅",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "샌디스크",
       "platforms": [
@@ -66,8 +74,8 @@
     "티셔츠",
     "#viral",
     "올리비아로렌",
-    "#trending",
     "남자반팔티",
+    "#trending",
     "에고이스트"
   ]
 }
