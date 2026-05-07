@@ -1,0 +1,695 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "여자 농구",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[단독] 여자 프로농구 우리은행, 아시아 쿼터 아야노와 결별, 새로운 선수 물색한다",
+              "url": "https://v.daum.net/v/VQ4whNHlet?f=p"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "민지",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "민지, 뉴진스 복귀하나…어도어 \"긍정 방향 협의\"",
+              "url": "https://www.newsis.com/view/NISX20260507_0003620031"
+            },
+            {
+              "title": "뉴진스 민지 복귀설…어도어 “긍정적 방향에서 협의”",
+              "url": "https://v.daum.net/v/20260507112234185"
+            },
+            {
+              "title": "민지도 뉴진스 복귀하나…공식 SNS에 “해피 민지 데이”",
+              "url": "https://biz.heraldcorp.com/article/10732741"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "롯데면세점",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "롯데면세점, 장애인 선수 직접 고용…스포츠 ESG 확대",
+              "url": "https://www.newsis.com/view/NISX20260506_0003617780"
+            },
+            {
+              "title": "롯데면세점, 장애인 운동선수 5명 직접 고용…포상금 제도 마련",
+              "url": "https://www.yna.co.kr/view/AKR20260506029100030"
+            },
+            {
+              "title": "롯데면세점, 장애인 스포츠 선수 5명 직접 고용",
+              "url": "https://www.khan.co.kr/article/202605061134001"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "톨루카 대 엘에이 fc",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "경기 전 기념 촬영하는 LA FC 선수들",
+              "url": "https://www.newsis.com/view/NISI20260507_0002129325"
+            },
+            {
+              "title": "손흥민 앞에 열린 '지옥의 문'…해발 2670m 멕시코 고지대서 버텨야 북중미 챔스 결승행→LAFC 감독은 라이벌 구단에까지 도움 요청",
+              "url": "https://v.daum.net/v/20260507100635369"
+            },
+            {
+              "title": "“또 SON이다!” LAFC 결승행 운명 걸렸다…2600m 고지 원정서 모든 기대 집중-톨루카전 선발출전 - 조선비즈",
+              "url": "https://biz.chosun.com/sports/football/2026/05/07/GQ4DKZRSGUZDSZRRMNTGIZRWMQ/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "샌안토니오 대 미네소타",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "12블록슛 의미 없다! 웸반야마 공격력 부활이 관건→샌안토니오, 미네소타 상대 설욕 준비[NBA PO]",
+              "url": "https://v.daum.net/v/5yIKXVkLOn"
+            },
+            {
+              "title": "NBA 샌안토니오, '웸반야마 블록 신기록'에도 미네소타에 패배",
+              "url": "https://www.newsis.com/view/NISX20260505_0003617335"
+            },
+            {
+              "title": "[스포츠 영상] 패배에도 빛난 웸반야마‥'PO 최다 12블록'",
+              "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6820179_37004.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "한덕수",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "[속보] 한덕수 ‘내란 중요임무’ 징역 15년…1심보다 8년 줄어",
+              "url": "https://www.hani.co.kr/arti/society/society_general/1257517.html"
+            },
+            {
+              "title": "‘내란’ 항소심 첫 판단...1심 ‘징역 23년’ 한덕수 선고 생중계",
+              "url": "https://www.chosun.com/national/court_law/2026/05/07/XPKI443DHNGAVDU3UC6H5WMAGM/"
+            },
+            {
+              "title": "[속보]법원, 한덕수 항소심서도 “국헌 문란 고의 인정”",
+              "url": "https://www.khan.co.kr/article/202605071039001"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "삼성e&a",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "삼성E&A, 창사 이래 최고의 수주 환경…목표가 10%↑-KB",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03063526645446624"
+            },
+            {
+              "title": "삼성E&A 주가 장중 18%대 강세, 우호적 수주환경에 증권사 목표주가 상향",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=437228"
+            },
+            {
+              "title": "삼성E&A, 1분기 호실적 속 사외이사 자사주 매입…주주가치·상생경영 드라이브",
+              "url": "https://www.viva100.com/article/20260506500475"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "무엇 이든 물어 보살",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "\"17년 절친 오빠와 비밀 연애…몰래 나눈 스킨십 들킬 뻔\" 33세 여성 고민[물어보살]",
+              "url": "https://www.news1.kr/entertain/broadcast-tv/6157859"
+            },
+            {
+              "title": "33세 女 \"17년 친구 오빠와 몰래♥\"…손절 위기 '초긴장' (물어보살)",
+              "url": "https://news.nate.com/view/20260505n00151?mid=e0600"
+            },
+            {
+              "title": "\"언제까지 비밀로 해야할까요\"…17년 절친 오빠와의 비밀 연애 - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/05/05/2026050507030661918"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "공소취소 뜻",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "박성준 “시민들 공소 취소 몰라”…장동혁 “민주, 나쁜 짓인 건 아네”",
+              "url": "https://www.hani.co.kr/arti/politics/politics_general/1257515.html"
+            },
+            {
+              "title": "이준석 “민주당, 살아 있는 헌법부터 지켜라…‘특검법’ 철회해야”",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8554965"
+            },
+            {
+              "title": "장동혁 \"공소 취소는 이재명 독재로 가는 마지막 톨게이트\" [뉴시스Pic]",
+              "url": "https://www.newsis.com/view/NISX20260507_0003619938"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "국립중앙박물관",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[붓 끝의 美학]‘관모 쓴 야인’의 자화자찬…조선 유일 자화상",
+              "url": "https://www.khan.co.kr/article/202605062135005"
+            },
+            {
+              "title": "국립중앙박물관, '단원 김홍도, 시대를 그리다' 전시",
+              "url": "https://v.daum.net/v/Ub5Lb1x2GJ"
+            },
+            {
+              "title": "붓끝에서 피어난 ‘조선의 일상’…단군 이래 최고 화가를 만나다",
+              "url": "https://www.sedaily.com/article/20040435"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 2,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 41,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 61,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "beckett sennecke",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Islanders' Matthew Schaefer leads Calder Trophy finalists",
+              "url": "https://www.espn.com/nhl/story/_/id/48688573/islanders-matthew-schaefer-leads-calder-trophy-finalists"
+            },
+            {
+              "title": "Ivan Demidov named a finalist for the Calder Memorial Trophy",
+              "url": "https://www.nhl.com/canadiens/news/ivan-demidov-named-a-finalist-for-the-calder-memorial-trophy-may-5-2026"
+            },
+            {
+              "title": "2026 NHL Calder Trophy finalists: Islanders’ Schaefer remains heavy favorite - The Athletic",
+              "url": "https://www.nytimes.com/athletic/7253500/2026/05/05/nhl-calder-trophy-finalists-schaefer/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "paul skenes",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Skenes eyes bounce-back start against D-backs on Wednesday",
+              "url": "https://www.mlb.com/news/paul-skenes-pirates-start-vs-d-backs"
+            },
+            {
+              "title": "Game #37: Pittsburgh Pirates vs. Arizona Diamondbacks",
+              "url": "https://sports.yahoo.com/articles/game-37-pittsburgh-pirates-vs-004000557.html"
+            },
+            {
+              "title": "Pirates vs. Diamondbacks: Prediction, Lineups, How to Watch (5/6)",
+              "url": "https://globelynews.com/sports/pirates-vs-diamondbacks-prediction-lineups-how-to-watch-5-6/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "reds",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Reds closer Emilio Pagan carted off with hamstring injury",
+              "url": "https://www.espn.com/mlb/story/_/id/48690538/cincinnati-reds-closer-emilio-pagan-carted-hamstring-injury"
+            },
+            {
+              "title": "Reds lose closer Emilio Pagán to injury, lose to Cubs in extra innings",
+              "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/05/05/emilio-pagan-injury-reds-lose-cubs-in-extra-innings/89955160007/"
+            },
+            {
+              "title": "Roto Riteup: May 6, 2026",
+              "url": "https://fantasy.fangraphs.com/roto-riteup-may-6-2026/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "stephon castle",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Stephon Castle cooks a smooth jumper for the Spurs",
+              "url": "https://www.espn.com/video/clip?id=48699278"
+            },
+            {
+              "title": "Timberwolves present clear Stephon Castle challenge fans should have seen coming",
+              "url": "https://airalamo.com/timberwolves-present-clear-stephon-castle-challenge-fans-should-have-seen-coming"
+            },
+            {
+              "title": "SPORTSBOOK",
+              "url": "https://sportsbook.fanduel.com/teams/nba/roster/stephon-castle-over-3291"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "nat wolff",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Billie Eilish Gets Candid About Loneliness on Tour, Body Image, and Missing Finneas",
+              "url": "https://www.elle.com/culture/music/a71028922/billie-eilish-james-cameron-concert-film-interview-2026/"
+            },
+            {
+              "title": "‘Billie Eilish — Hit Me Hard & Soft’ Concert Film Premiere: Eilish, James Cameron, Finneas & More",
+              "url": "https://deadline.com/gallery/billie-eilish-hit-me-hard-soft-concert-film-premiere-eilish-james-cameron-finneas-more/"
+            },
+            {
+              "title": "Mortal Kombat II Now Playing in State College, PA",
+              "url": "https://www.statecollege.com/movies/mortal-kombat-ii/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "carson benge",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Mets rookie's game-changing glove is making waves",
+              "url": "https://www.mlb.com/news/mets-carson-benge-strong-outfield-defense"
+            },
+            {
+              "title": "Carson Benge has shown signs of improvement at the plate",
+              "url": "https://www.amazinavenue.com/new-york-mets-analysis/94105/mets-carson-benge-hitting-stats-2026-season-rookie-new-york"
+            },
+            {
+              "title": "Carson Benge sparks Mets' big inning with home run, playing with 'confidence'",
+              "url": "https://sny.tv/articles/carson-benge-sparks-mets-big-inning-home-run"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "nl central standings",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "MLB Standings Show What It Takes to Lead Best Division in Baseball",
+              "url": "https://www.si.com/mlb/mlb-standings-nl-central-best-division-cubs"
+            },
+            {
+              "title": "NL Central standings show every team is winning. We break down why",
+              "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/05/04/nl-central-standings-teams-winning-record/89932670007/"
+            },
+            {
+              "title": "MLB power rankings: Rampaging Cubs finally look like NL Central bullies",
+              "url": "https://www.usatoday.com/story/sports/mlb/2026/05/04/mlb-power-rankings-chicago-cubs-nl-central/89923954007/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "sacha baron cohen",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Sacha Baron Cohen stars in ‘Ladies First’ on Netflix May 22, gender-swap satire",
+              "url": "https://artthreat.net/29415-35030-sacha-baron-cohen-stars-in-ladies-first-on-netflix-may-22-gender-swap-satire/"
+            },
+            {
+              "title": "\"Who Would Want to See That Film?\": The Actor Who Lost the Freddie Mercury Role After Falling Out With Queen",
+              "url": "https://3dvf.com/en/sacha-baron-cohen-quit-bohemian-rhapsody-after-creative-clashes-with-queen/"
+            },
+            {
+              "title": "Sacha Baron Cohen Creative Clashes Resurface Amid Co-Star Accounts",
+              "url": "https://www.koranmanado.co.id/en/sacha-baron-cohen-creative-clashes"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "posiciones de independiente santa fe contra corinthians",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Santa Fe 1 - 1 Corinthians: Resultado, resumen y goles",
+              "url": "https://colombia.as.com/futbol/santa-fe-corinthians-en-vivo-online-copa-libertadores-en-directo-f202605-d/"
+            },
+            {
+              "title": "Cuándo juegan Santa Fe vs Corinthians por fecha 4 de Conmebol Libertadores: equipo, fecha, hora y TV en vivo",
+              "url": "https://espndeportes.espn.com/futbol/copa-libertadores/nota/_/id/16666093/santa-fe-vs-corinthians-fecha-4-equipo-fecha-hora-y-tv-en-vivo"
+            },
+            {
+              "title": "📋 Corinthians, alineado para asegurar la clasificación en la Libertadores",
+              "url": "https://onefootball.com/en/news/corinthians-alineado-para-asegurar-la-clasificacion-en-la-libertadores-42825597"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "de'aaron fox",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Spurs’ obvious De'Aaron Fox replacement is gaining traction by the game",
+              "url": "https://airalamo.com/spurs-obvious-de-aaron-fox-replacement-gaining-traction-game"
+            },
+            {
+              "title": "Why Spurs Feel 'No Concern' Over Victor Wembanyama, De'Aaron Fox's Off Nights",
+              "url": "https://www.si.com/nba/spurs/onsi/why-san-antonio-spurs-feel-no-concern-over-victor-wembanyama-deaaron-fox-off-nights"
+            },
+            {
+              "title": "De’Aaron Fox Sends Scathing Statement For Jaden McDaniels After Spurs-Timberwolves Game 1",
+              "url": "https://heavy.com/sports/nba/san-antonio-spurs/deaaron-fox-sends-statement-for-jaden-mcdaniels/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 57,
+          "interest_max": 100,
+          "interest_latest": 66,
+          "rank": 1
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 38,
+          "interest_max": 63,
+          "interest_latest": 43,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 10,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 8,
+          "interest_max": 65,
+          "interest_latest": 9,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 2,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "大河内奈々子",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 2,
+          "keyword": "銀座『平川口』",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "浜崎あゆみ 「とっても素敵で父ちゃんらしいお店で安心」父の店が銀座にオープン「ほんとーに頑張ったね」（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/d47fac84e8ef65eecb8fabce2cb3e9ac6dfb3e61"
+            },
+            {
+              "title": "浜崎あゆみ、“父のお店”が銀座でグランドオープン「リラックスしてるあゆちゃんかわいすぎ」「高級だぁ」",
+              "url": "https://news.allabout.co.jp/articles/o/117260/"
+            },
+            {
+              "title": "浜崎あゆみ 「とっても素敵で父ちゃんらしいお店で安心」父の店が銀座にオープン「ほんとーに頑張ったね」（スポニチ）",
+              "url": "https://mainichi.jp/articles/20260507/spp/sp0/006/144000c"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "フェイラー",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "レクサス",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "レクサスBEV初の3列席 TZ初公開",
+              "url": "https://news.yahoo.co.jp/pickup/6579129"
+            },
+            {
+              "title": "トヨタ、新型レクサスで狙う「EV全方位」 高級3列SUVで米中照準",
+              "url": "https://www.nikkei.com/article/DGXZQOFD306TT0Q6A430C2000000/"
+            },
+            {
+              "title": "レクサス、新型「TZ」を世界初公開 レクサス初の3列シートを持つバッテリEV",
+              "url": "https://car.watch.impress.co.jp/docs/news/2106686.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "防衛省",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "県内企業の受注 拡大向け2施策 防衛省が導入",
+              "url": "https://www.okinawatimes.co.jp/articles/-/1831617"
+            },
+            {
+              "title": "発注方式に整備加速型/建築、設備、土木を一括発注/26年度 十数件予定/防衛省",
+              "url": "https://www.kensetsunews.com/?p=1222231"
+            },
+            {
+              "title": "防衛省／発注方式に「整備加速型」追加／３業種以上を一括、規模や特性で選択",
+              "url": "https://www.decn.co.jp/?p=183975"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "宅間孝行",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "関口メンディー、11月に主演舞台！ 「記憶の片隅に残り続けるような作品を生み出していきたい」宅間孝行の「タクフェス」最新作",
+              "url": "https://news.yahoo.co.jp/articles/728062165906d63a01a3c56686b41f16d9bb0bc2"
+            },
+            {
+              "title": "タクフェス第14弾『北の島から』関口メンディー舞台初主演！",
+              "url": "https://www.astage-ent.com/stage-musical/news-stage-musical/s296113.html"
+            },
+            {
+              "title": "関口メンディー主演、宅間孝行作・演出　家族の絆を鋭く温かく描く、タクフェス第14弾『北の島から』の上演が決定　",
+              "url": "https://spice.eplus.jp/articles/345892"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "藤巻健史",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「日本円の紙くず化」へのカウントダウンが始まった…高市首相が狙う「借金1342兆円を帳消しにする」禁断の処方箋",
+              "url": "https://news.yahoo.co.jp/articles/ad6d2b46d637fe2d135450781753f41fc2131bd3"
+            },
+            {
+              "title": "円と国債は守れるのか、静かに進む経済非常事態",
+              "url": "https://www.nyseikatsu.com/featured-article/05/2026/46549/"
+            },
+            {
+              "title": "中央銀行が何かをする場合、それはプリンティングマネー（紙幣増刷）だけである",
+              "url": "https://media.rakuten-sec.net/articles/-/52293"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "宝塚記念",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "宝塚記念ファン投票スタート",
+              "url": "https://www.jra.go.jp/news/202605/050701.html"
+            },
+            {
+              "title": "【宝塚記念】ファン投票がスタート！ 得票上位10頭には優先出走権、WEB限定で24日（日）まで",
+              "url": "https://news.yahoo.co.jp/articles/5c6985640e4be51a9ccb3fcb7c23071ecef44423"
+            },
+            {
+              "title": "宝塚記念のファン投票がスタート 今年から優先出走馬の選定方法が変更 レース３日前登録の上位１０頭に",
+              "url": "https://sportsbull.jp/p/2327717/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "過去の天気",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "荒川静香",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "荒川静香さんと手をつなぐ美少年の正体→９年たった現在の姿！ファン驚き「大きくなったなぁ」の声",
+              "url": "https://hochi.news/articles/20260506-OHT1T51277.html"
+            },
+            {
+              "title": "荒川静香さんと手をつなぐ美少年の正体→９年たった現在の姿！ファン驚き「大きくなったなぁ」の声",
+              "url": "https://sportsbull.jp/p/2327612/"
+            },
+            {
+              "title": "荒川静香がアイスショーの写真を投稿 17歳の美少年「Rio」 (2026年5月7日掲載)",
+              "url": "https://news.livedoor.com/topics/detail/31196320/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-05-07T03:25:58.099484+00:00"
+}

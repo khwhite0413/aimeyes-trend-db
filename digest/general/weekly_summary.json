@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-04-30",
-    "to": "2026-05-06"
+    "from": "2026-05-01",
+    "to": "2026-05-07"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#shorts",
-      "growth": "+13%",
-      "total_mentions": 110
-    },
-    {
       "keyword": "#viral",
-      "growth": "+40%",
-      "total_mentions": 82
+      "growth": "+27%",
+      "total_mentions": 86
     },
     {
       "keyword": "올리비아로렌",
       "growth": "+9%",
-      "total_mentions": 82
+      "total_mentions": 83
+    },
+    {
+      "keyword": "#trending",
+      "growth": "+25%",
+      "total_mentions": 68
+    },
+    {
+      "keyword": "에고이스트",
+      "growth": "+11%",
+      "total_mentions": 67
     },
     {
       "keyword": "dance",
-      "growth": "+120%",
-      "total_mentions": 59
-    },
-    {
-      "keyword": "럭키슈에뜨",
-      "growth": "+167%",
-      "total_mentions": 39
+      "growth": "+100%",
+      "total_mentions": 66
     }
   ],
   "most_cross_platform": [
@@ -61,21 +61,21 @@
   ],
   "naver_shopping_hot": [
     "원피스",
-    "블라우스",
     "바람막이",
+    "티셔츠",
     "올리비아로렌",
-    "티셔츠"
+    "블라우스"
   ],
   "top_keywords_overall": [
     "#shorts",
+    "#viral",
     "원피스",
-    "블라우스",
     "바람막이",
     "티셔츠",
-    "#viral",
+    "블라우스",
     "올리비아로렌",
-    "남자반팔티",
     "#trending",
-    "에고이스트"
+    "에고이스트",
+    "dance"
   ]
 }
