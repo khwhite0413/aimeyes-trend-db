@@ -2,7 +2,7 @@
   "date": "2026-05-07",
   "mode": "general",
   "compared_to": "2026-05-06",
-  "total_keywords_today": 469,
+  "total_keywords_today": 473,
   "total_keywords_yesterday": 498,
   "data_days_available": 53,
   "overall_confidence": "high",
@@ -19,26 +19,37 @@
       "sample_note": "오늘 12건, 어제 11건 기준"
     },
     {
+      "keyword": "#trending",
+      "change": "+20%",
+      "today_count": 12,
+      "yesterday_count": 10,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 12건, 어제 10건 기준"
+    },
+    {
       "keyword": "may",
-      "change": "+75%",
-      "today_count": 7,
+      "change": "+50%",
+      "today_count": 6,
       "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 7건, 어제 4건 기준"
+      "sample_note": "오늘 6건, 어제 4건 기준"
     },
     {
       "keyword": "trends",
-      "change": "+75%",
-      "today_count": 7,
+      "change": "+50%",
+      "today_count": 6,
       "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 7건, 어제 4건 기준"
+      "sample_note": "오늘 6건, 어제 4건 기준"
     },
     {
       "keyword": "mashup",
@@ -74,6 +85,17 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
+      "keyword": "hack",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
       "keyword": "써스데이아일랜드",
       "change": "+25%",
       "today_count": 5,
@@ -85,17 +107,6 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "milan",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
       "keyword": "chocolate",
       "change": "+50%",
       "today_count": 3,
@@ -105,17 +116,6 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#39;",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
       "keyword": "#subscribe",
@@ -141,28 +141,6 @@
     },
     {
       "keyword": "love",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "street",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "fashion",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -217,7 +195,29 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#viralvideo",
+      "keyword": "#news",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "jabalpur",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "cruise",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -231,15 +231,15 @@
   "declining": [
     {
       "keyword": "#shorts",
-      "change": "-18%",
-      "today_count": 14,
+      "change": "-29%",
+      "today_count": 12,
       "yesterday_count": 17,
       "confidence": "high"
     },
     {
       "keyword": "#fyp",
-      "change": "-22%",
-      "today_count": 7,
+      "change": "-33%",
+      "today_count": 6,
       "yesterday_count": 9,
       "confidence": "medium"
     },
@@ -259,24 +259,24 @@
     },
     {
       "keyword": "#funny",
-      "change": "-33%",
-      "today_count": 4,
+      "change": "-50%",
+      "today_count": 3,
       "yesterday_count": 6,
       "confidence": "low"
     },
     {
       "keyword": "funny",
-      "change": "-33%",
-      "today_count": 4,
+      "change": "-50%",
+      "today_count": 3,
       "yesterday_count": 6,
       "confidence": "low"
     },
     {
       "keyword": "hacks",
-      "change": "-17%",
-      "today_count": 5,
+      "change": "-33%",
+      "today_count": 4,
       "yesterday_count": 6,
-      "confidence": "medium"
+      "confidence": "low"
     },
     {
       "keyword": "food",
@@ -294,12 +294,15 @@
     },
     {
       "keyword": "#comedy",
-      "change": "-20%",
-      "today_count": 4,
+      "change": "-40%",
+      "today_count": 3,
       "yesterday_count": 5,
       "confidence": "low"
     }
   ],
-  "new_entries": [],
+  "new_entries": [
+    "유행",
+    "vs"
+  ],
   "cross_platform_hot": []
 }
