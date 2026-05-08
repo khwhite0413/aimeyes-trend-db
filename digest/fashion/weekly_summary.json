@@ -1,8 +1,8 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-05-01",
-    "to": "2026-05-07"
+    "from": "2026-05-02",
+    "to": "2026-05-08"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -13,29 +13,29 @@
       "total_mentions": 93
     },
     {
-      "keyword": "올리비아로렌",
-      "growth": "+9%",
-      "total_mentions": 83
+      "keyword": "outfit",
+      "growth": "+86%",
+      "total_mentions": 72
+    },
+    {
+      "keyword": "#fashion",
+      "growth": "+100%",
+      "total_mentions": 69
     },
     {
       "keyword": "에고이스트",
       "growth": "+11%",
-      "total_mentions": 67
+      "total_mentions": 68
     },
     {
-      "keyword": "outfit",
-      "growth": "+117%",
-      "total_mentions": 65
-    },
-    {
-      "keyword": "#fashion",
-      "growth": "+57%",
-      "total_mentions": 64
+      "keyword": "럭키슈에뜨",
+      "growth": "+60%",
+      "total_mentions": 47
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "블라우스",
+      "keyword": "자라",
       "platforms": [
         "naver",
         "youtube"
@@ -43,7 +43,7 @@
       "count": 2
     },
     {
-      "keyword": "자라",
+      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
@@ -78,9 +78,9 @@
   "naver_shopping_hot": [
     "원피스",
     "바람막이",
+    "블라우스",
     "티셔츠",
-    "올리비아로렌",
-    "블라우스"
+    "올리비아로렌"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -91,7 +91,7 @@
     "올리비아로렌",
     "ootd",
     "#ootd",
-    "에고이스트",
-    "남자반팔티"
+    "outfit",
+    "#fashion"
   ]
 }

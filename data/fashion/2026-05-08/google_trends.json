@@ -1,0 +1,875 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "대한민국 독립유공자",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 2,
+          "keyword": "국가유산",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "세운4구역 주민-국가유산청, 협상 결렬…서울시 \"해법 찾겠다\"",
+              "url": "https://www.newsis.com/view/NISX20260507_0003620750"
+            },
+            {
+              "title": "종묘 재개발 제동…국가유산청, 서울시에 첫 행정 명령",
+              "url": "https://v.daum.net/v/20260508103111345"
+            },
+            {
+              "title": "세운4구역 개발 쟁점 분석발표 기자회견",
+              "url": "https://www.yna.co.kr/view/PYH20260506056500013"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "유튜버",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "음주운전 쫓던 유튜버, 결국 사망 사고 책임…1년 6개월 실형",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8555733"
+            },
+            {
+              "title": "음주 운전 의심 차량 추격전 끝 사망사고…40대 유튜버 법정 구속",
+              "url": "https://v.daum.net/v/20260507141018287"
+            },
+            {
+              "title": "사망사고 유발한 ‘유튜브 추격 생중계’…구독자도 유죄",
+              "url": "https://www.hani.co.kr/arti/area/honam/1257606.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "지커",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 5,
+          "keyword": "현대모비스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "현대모비스, 수익성 높은 전기차 심장 'PE시스템 ' 풀라인업 구축…미래차 '티어1' 진검승부 개시",
+              "url": "https://www.electimes.com/news/articleView.html?idxno=367780"
+            },
+            {
+              "title": "현대모비스가 전기차 파워트레인 ‘PE시스템’ 범용 모델도 독자 개발",
+              "url": "https://v.daum.net/v/20260508101716705"
+            },
+            {
+              "title": "현대모비스, 160kW급 'PE시스템' 독자개발…글로벌 수주 활동 본격화",
+              "url": "https://www.newsis.com/view/NISX20260507_0003619495"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "현대차",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "현대차그룹, 노무 컨트롤타워 재편…새 총괄에 최준영 사장",
+              "url": "https://www.hankyung.com/article/202605083227i"
+            },
+            {
+              "title": "기아 최준영 사장, 현대차그룹 정책개발실장으로…노무 대응 총괄",
+              "url": "https://m.yonhapnewstv.co.kr/news/AKR20260508113413WD3"
+            },
+            {
+              "title": "커진 노사 관계 리스크에…현대차그룹, 노무 총괄 '사장급'으로",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413802"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "현대오토에버",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "현대오토에버, 상한가 진입.. +29.97% ↑",
+              "url": "https://www.sedaily.com/article/20041665"
+            },
+            {
+              "title": "'현대오토에버' 52주 신고가 경신, 로봇 SI 기업으로 변화 - LS증권, BUY",
+              "url": "https://news.nate.com/view/20260508n09566"
+            },
+            {
+              "title": "[장중수급포착] 현대오토에버, 외국인/기관 동시 순매수… 주가 +29.97%",
+              "url": "https://www.newspim.com/news/view/20260508000709"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "현대무벡스",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[속보] 현대무벡스, 장초반 VI 발동…10.80% 괴리율",
+              "url": "https://www.cbci.co.kr/news/articleView.html?idxno=573070"
+            },
+            {
+              "title": "현대무벡스, 3거래일만에 17% 급등…3만6000원선 회복",
+              "url": "https://www.econonews.co.kr/news/articleView.html?idxno=437742"
+            },
+            {
+              "title": "특징주, 현대무벡스-로봇(산업용/협동로봇 등) 테마 상승세에 10.01% ↑",
+              "url": "https://www.mk.co.kr/news/stock/12040779"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "서울특별시",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "멜로망스·10CM 공연이 무료! 서울가든페스티벌 열린다",
+              "url": "https://mediahub.seoul.go.kr/archives/2018056"
+            },
+            {
+              "title": "서울숲, 한 달간 ‘음악이 흐르는 정원’",
+              "url": "https://v.daum.net/v/YdjTm3e43z?f=p"
+            },
+            {
+              "title": "뮤지션과 함께 서울숲을…16일부터 서울가든페스티벌",
+              "url": "https://ichannela.com/news/detail/000000527874.do"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "현대차 주가",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "\"현대차 얼마에 매수하는게 좋을까?\"…한경 '에픽AI'가 매수·매도 타점 찾아줍니다",
+              "url": "https://www.hankyung.com/article/2026050568141"
+            },
+            {
+              "title": "물구나무 서고 몸 뒤집고…아틀라스, 고난도 기계체조 거뜬",
+              "url": "https://dbr.donga.com/kfocus/view/article_no/2634"
+            },
+            {
+              "title": "현대차 보스턴다이나믹스 \"자율주행 기술로 로봇 성능 개선\", 카메라와 라이다 센서 접목",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=437354"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "무신사",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "fernando tatis jr",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "He has an elite hard-hit rate but 0 homers. What's going on here?",
+              "url": "https://www.mlb.com/news/fernando-tatis-jr-strange-start-2026"
+            },
+            {
+              "title": "Fernando Tatis Jr.’s Power Outage",
+              "url": "https://www.mlbtraderumors.com/2026/05/fernando-tatis-jr-s-power-outage.html"
+            },
+            {
+              "title": "Tatis Jr., Luzardo, O. Lopez, Vásquez, L. Hicks",
+              "url": "https://www.baseballhq.com/articles/skills/facts-flukes/tatis-jr-luzardo-o-lopez-vsquez-l-hicks"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "steve nash",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Lakers Look To Roll Back Thunder in Game 2",
+              "url": "https://lakers.com/news/lakers-look-to-roll-back-thunder-in-game-2"
+            },
+            {
+              "title": "Austin Reaves' shooting woes persist in Lakers' Game 1 loss to OKC",
+              "url": "https://www.espn.com/nba/story/_/id/48691002/austin-reaves-shooting-woes-persist-lakers-game-1-loss-thunder"
+            },
+            {
+              "title": "Marcus Smart is confident the Lakers will start knocking down shots vs. Thunder",
+              "url": "https://www.silverscreenandroll.com/lakers-news/116630/lakers-marcus-smart-rui-hachimura-offense-2026-nba-playoffs-thunder"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "airline",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Updated: Delta offers support to Spirit Airlines travelers and team members",
+              "url": "https://news.delta.com/delta-offers-rescue-fares-support-travelers-following-spirit-airlines-suspension-operations"
+            },
+            {
+              "title": "Business",
+              "url": "https://www.economist.com/the-world-this-week/2026/05/07/business"
+            },
+            {
+              "title": "Pete Buttigieg’s 2024 antitrust win just erased 17,000 jobs and the largest U.S. ultra-low-cost airline",
+              "url": "https://finance.yahoo.com/economy/policy/articles/pete-buttigieg-2024-antitrust-win-151350317.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "jenna elfman",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "‘Avatar: The Last Airbender’s Maria Zhang Joins Fox Drama Series ‘The Interrogator’",
+              "url": "https://deadline.com/2026/05/maria-zhang-cast-fox-series-the-interrogator-1236881869/"
+            },
+            {
+              "title": "Jenna Elfman Joins Fox's The Interrogator — What Does It Mean For Her Future On Shifting Gears?",
+              "url": "https://www.tvline.com/2164262/jenna-elfman-shifting-gears-season-3-return-eve-the-interrogator-fox/"
+            },
+            {
+              "title": "’90s Sitcom Star Jenna Elfman Returns to FOX in New Spy Thriller",
+              "url": "https://parade.com/news/90s-sitcom-star-jenna-elfman-returns-to-fox-in-new-spy-thriller"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "hacks season 5",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Hacks Recap: You Seem Pretty Sad For a Girl So in Love",
+              "url": "https://www.vulture.com/article/hacks-recap-season-5-episode-7-monecito.html"
+            },
+            {
+              "title": "'Hacks' stars dish on Deborah and Ava's pretend romance: 'So much fun'",
+              "url": "https://www.usatoday.com/story/entertainment/tv/2026/05/07/hacks-deborah-ava-romance-episode-7/89757183007/"
+            },
+            {
+              "title": "'Hacks' stars and creators break down the Ava-Deborah kiss that has been five seasons in the making: \"I threw my phone\"",
+              "url": "https://decider.com/2026/05/07/hacks-ava-deborah-kiss-explained-by-cast-and-creators/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "kill tony",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Kill Tony hits Intuit Dome in Inglewood tonight at Netflix Is A Joke Fest",
+              "url": "https://artthreat.net/29842-76803-kill-tony-hits-intuit-dome-in-inglewood-tonight-at-netflix-is-a-joke-fest/"
+            },
+            {
+              "title": "Tony Hinchcliffe Seals Kill Tony Deal with FOX’s Red Seat Ventures",
+              "url": "https://www.el-balad.com/17005917"
+            },
+            {
+              "title": "Tampa Bay’s best comedy gigs this week, including Healing with Humor fundraiser, Kill Tony and more",
+              "url": "https://www.cltampa.com/arts/tampa-bays-best-comedy-gigs-this-week-including-healing-with-humor-fundraiser-kill-tony-and-more/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "carabobo vs river plate",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Carabobo vs River Plate LIVE: goals, score and live updates from Copa Sudamericana",
+              "url": "https://www.beinsports.com/en-us/soccer/conmebol-sudamericana/articles/carabobo-vs-river-plate-live-goals-and-score-from-copa-sudamericana-on-bein-sports-2026-05-07"
+            },
+            {
+              "title": "Kevin Castaño travels and looks set to start",
+              "url": "https://onefootball.com/en/news/kevin-castano-travels-and-looks-set-to-start-42827708"
+            },
+            {
+              "title": "📝With one return: Chacho's squad for the trip to Venezuela",
+              "url": "https://sports.yahoo.com/articles/one-return-chachos-squad-trip-164800273.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "luka doncic",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "Lakers' Luka Doncic still unsure when he'll return from injury",
+              "url": "https://www.espn.com/nba/story/_/id/48695018/lakers-luka-doncic-unsure-return-injury"
+            },
+            {
+              "title": "LeBron James gets support from Ric Flair after Luka Doncic rant",
+              "url": "https://sports.yahoo.com/articles/lebron-james-gets-support-ric-012413388.html"
+            },
+            {
+              "title": "Luka Dončić unlikely to return during Lakers’ second-round series against Thunder",
+              "url": "https://www.nytimes.com/athletic/7258607/2026/05/06/luka-doncic-injury-update-lakers-thunder/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "shai gilgeous-alexander",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Courtside chess: Inside the Lakers' defensive plans to slow Shai Gilgeous-Alexander — and give themselves a puncher's chance",
+              "url": "https://sports.yahoo.com/nba/article/courtside-chess-inside-the-lakers-defensive-plans-to-slow-shai-gilgeous-alexander--and-give-themselves-a-punchers-chance-064446374.html"
+            },
+            {
+              "title": "How Shai Gilgeous-Alexander figured out the Lakers defense in Game 1",
+              "url": "https://www.silverscreenandroll.com/lakers-analysis/116490/lakers-thunder-shai-gilgeous-alexander-film-breakdown-nba-playoffs-game-1-defense"
+            },
+            {
+              "title": "Shai Gilgeous-Alexander, OKC Thunder shake off rust to rout Lakers in 'imperfect' Game 1",
+              "url": "https://www.oklahoman.com/story/sports/nba/thunder/2026/05/05/chet-holmgren-stats-lebron-james-thunder-lakers-game-1-nba-playoffs-report-card/89954198007/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "russian satellite",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'Whatever Russia is testing, it's sophisticated': 2 Russian satellites get within 10 feet of each other in orbit",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/whatever-russia-is-testing-its-sophisticated-2-russian-satellites-get-within-10-feet-of-each-other-in-orbit"
+            },
+            {
+              "title": "‘Whatever Russia is testing, it’s sophisticated’: Satellites pass within 3 metres of each other",
+              "url": "https://www.yahoo.com/news/articles/whatever-russia-testing-sophisticated-satellites-164742293.html"
+            },
+            {
+              "title": "Two Russian satellites came as close as 10 feet and went back. No one knows why",
+              "url": "https://www.indiatoday.in/science/story/two-russian-satellites-came-as-close-as-10-feet-and-went-back-no-one-knows-why-2907943-2026-05-07"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 12
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "マツダ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "さらばマツダCX-3！ 日本向け生産ついに幕、孤高の「プレミアム・コンパクト」が残した功績（ベストカーWeb）",
+              "url": "https://news.yahoo.co.jp/articles/927fd2379da5fb59f85c252b8f8cda26f5880b36"
+            },
+            {
+              "title": "還暦おじさん激推し!! 新社会人こそマツダ CX-3に乗れ!!",
+              "url": "https://bestcarweb.jp/feature/column/1501185"
+            },
+            {
+              "title": "還暦おじさん激推し!! 新社会人こそマツダ CX-3に乗れ!!（ベストカーWeb） | 自動車情報・ニュース",
+              "url": "https://carview.yahoo.co.jp/news/detail/6fe4dcc8f48fb064dfb13297db876a7b36e8eb52/?mode=top"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ソニー 決算",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【決算速報】ソニーＧ、税引前3.5%減益。アナリスト予想を下回る(アイフィス株予報)",
+              "url": "https://finance.yahoo.co.jp/news/detail/96e7a31edd6591986aac15e501f4f0b232537838"
+            },
+            {
+              "title": "【速報】ソニーグループの２７年３月期の連結純利益は１兆１６００億円と過去最高を更新する見通しとなった",
+              "url": "https://www.jiji.com/jc/article?k=2026050800565&g=flash"
+            },
+            {
+              "title": "ソニーG、今期営業利益は11%増の1兆6000億円－自己株取得5000億円",
+              "url": "https://www.bloomberg.com/jp/news/articles/2026-05-08/TEP45DT9NJLV00?srnd=jp-homepage"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ソニー",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ソニー創立80周年「あらかじめ“ソニーらしい”というトーンがあってはならない」。井深大、盛田昭夫メッセージ",
+              "url": "https://av.watch.impress.co.jp/docs/news/2106753.html"
+            },
+            {
+              "title": "ウォークマンやXperiaを生んだ「ソニーらしさ」の正体とは？ 創立80周年を迎え軌跡を振り返る（ITmedia Mobile）",
+              "url": "https://news.yahoo.co.jp/articles/1807f057899054d3cd7e33effbbf2a2e6139ccdc"
+            },
+            {
+              "title": "きょうは何の日 5月7日 東京通信工業設立",
+              "url": "https://www.tokyo-np.co.jp/article/486594"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "水崎綾女",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "｢裕福な家庭ではなかった｣『サレタ側』主演・水崎綾女が15歳で芸能界入りした理由。20歳引退の決意と転機『キューティーハニー』",
+              "url": "https://article.auone.jp/detail/1/5/9/410_9_r_20260506_1778054817208287"
+            },
+            {
+              "title": "「裕福な家庭ではなかった」『サレタ側』主演・水崎綾女が15歳で芸能界入りした理由。20歳引退の決意と転機『キューティーハニー』（双葉社 THE CHANGE）",
+              "url": "https://news.yahoo.co.jp/articles/72442548568473e48e2bbcc0b39423ff0f33d542?page=2"
+            },
+            {
+              "title": "｢毎日泣いてました｣｢靴下を豪速球で…｣水崎綾女が明かす『サレタ側の復讐』壮絶モラハラ撮影の裏側、30代でグラビアに出続ける理由",
+              "url": "https://futabasha-change.com/articles/-/2753?page=3"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "筑波大学",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 6,
+          "keyword": "赤西仁",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "金慧成",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "貝茲回歸腳步近了！南韓金慧成先發保衛戰數據有優勢",
+              "url": "https://tw.sports.yahoo.com/news/%E8%B2%9D%E8%8C%B2%E5%9B%9E%E6%AD%B8%E8%85%B3%E6%AD%A5%E8%BF%91%E4%BA%86-%E5%8D%97%E9%9F%93%E9%87%91%E6%85%A7%E6%88%90%E5%85%88%E7%99%BC%E4%BF%9D%E8%A1%9B%E6%88%B0%E6%95%B8%E6%93%9A%E6%9C%89%E5%84%AA%E5%8B%A2-021507226.html"
+            },
+            {
+              "title": "MLB／道奇主戰游擊貝茲最快下週歸隊！金慧成恐再次被下放3A？",
+              "url": "https://www.4gtv.tv/article/2026050809000005"
+            },
+            {
+              "title": "貝茲最快下周歸隊！金慧成有生存危機？洛媒點下放1人讓韓媒狂喜",
+              "url": "https://www.nownews.com/news/6827824"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "久能靖",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "leon must die forever",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "『バイオハザード レクイエム』いきなり無料アプデで“レオンの戦闘特化”新モード実装。「チート能力」を発動させつつ無双、やりこみ高難易度モード",
+              "url": "https://automaton-media.com/articles/newsjp/20260508-441731/"
+            },
+            {
+              "title": "Acclaim、ハチャメチャなホードサバイバルアクションローグライク『Ground Zero Hero』無料Steamデモ版をリリース",
+              "url": "https://gamebiz.jp/news/425431"
+            },
+            {
+              "title": "「バイオハザード レクイエム」に新要素「LEON MUST DIE FOREVER」が登場。レオンのチート能力を解放してステージ攻略に挑める",
+              "url": "https://www.4gamer.net/games/917/G091773/20260508004/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "lakers",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Pistons 107-97 Cavaliers (May 7, 2026) Final Score",
+              "url": "https://www.espn.com/nba/game/_/gameId/401871334/cavaliers-pistons"
+            },
+            {
+              "title": "How to Watch the 2026 Mizuho Americas Open",
+              "url": "https://www.lpga.com/news/2026/how-to-watch-the-2026-mizuho-americas-open"
+            },
+            {
+              "title": "Field Breakdown: 2026 Mizuho Americas Open",
+              "url": "https://www.lpga.com/news/2026/field-breakdown-2026-mizuho-americas-open"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-05-08T03:20:09.444825+00:00"
+}
