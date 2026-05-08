@@ -2,7 +2,7 @@
   "date": "2026-05-08",
   "mode": "fashion",
   "compared_to": "2026-05-07",
-  "total_keywords_today": 529,
+  "total_keywords_today": 526,
   "total_keywords_yesterday": 497,
   "data_days_available": 54,
   "overall_confidence": "high",
@@ -19,6 +19,39 @@
       "sample_note": "오늘 14건, 어제 13건 기준"
     },
     {
+      "keyword": "outfit",
+      "change": "+8%",
+      "today_count": 14,
+      "yesterday_count": 13,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 14건, 어제 13건 기준"
+    },
+    {
+      "keyword": "#ootd",
+      "change": "+20%",
+      "today_count": 12,
+      "yesterday_count": 10,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 12건, 어제 10건 기준"
+    },
+    {
+      "keyword": "ootd",
+      "change": "+20%",
+      "today_count": 12,
+      "yesterday_count": 10,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 12건, 어제 10건 기준"
+    },
+    {
       "keyword": "#fashion",
       "change": "+9%",
       "today_count": 12,
@@ -28,28 +61,6 @@
         "youtube"
       ],
       "sample_note": "오늘 12건, 어제 11건 기준"
-    },
-    {
-      "keyword": "#ootd",
-      "change": "+10%",
-      "today_count": 11,
-      "yesterday_count": 10,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 11건, 어제 10건 기준"
-    },
-    {
-      "keyword": "ootd",
-      "change": "+10%",
-      "today_count": 11,
-      "yesterday_count": 10,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 11건, 어제 10건 기준"
     },
     {
       "keyword": "럭키슈에뜨",
@@ -75,6 +86,17 @@
       "sample_note": "오늘 7건, 어제 4건 기준"
     },
     {
+      "keyword": "meesho",
+      "change": "NEW",
+      "today_count": 5,
+      "yesterday_count": 0,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건 (신규)"
+    },
+    {
       "keyword": "추천",
       "change": "+33%",
       "today_count": 4,
@@ -86,29 +108,29 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "이렇게",
+      "keyword": "#ytshorts",
       "change": "NEW",
-      "today_count": 3,
+      "today_count": 4,
       "yesterday_count": 0,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건 (신규)"
+      "sample_note": "오늘 4건 (신규)"
     },
     {
-      "keyword": "amp",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
+      "keyword": "ytshorts",
+      "change": "NEW",
+      "today_count": 4,
+      "yesterday_count": 0,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
+      "sample_note": "오늘 4건 (신규)"
     },
     {
-      "keyword": "meesho",
+      "keyword": "이렇게",
       "change": "NEW",
       "today_count": 3,
       "yesterday_count": 0,
@@ -131,17 +153,6 @@
     },
     {
       "keyword": "fashiontrends",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#haul",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -207,18 +218,7 @@
       "sample_note": "오늘 2건 (신규)"
     },
     {
-      "keyword": "스트릿",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "jewelry",
+      "keyword": "amp",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -266,13 +266,6 @@
       "confidence": "medium"
     },
     {
-      "keyword": "#shorts",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
-      "confidence": "medium"
-    },
-    {
       "keyword": "#outfit",
       "change": "-17%",
       "today_count": 5,
@@ -299,11 +292,20 @@
       "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
+    },
+    {
+      "keyword": "shopping",
+      "change": "-50%",
+      "today_count": 2,
+      "yesterday_count": 4,
+      "confidence": "low"
     }
   ],
   "new_entries": [
-    "이렇게",
-    "meesho"
+    "meesho",
+    "#ytshorts",
+    "ytshorts",
+    "이렇게"
   ],
   "cross_platform_hot": [
     {
@@ -332,6 +334,15 @@
         "youtube"
       ],
       "total_count": 13
+    },
+    {
+      "keyword": "은중과 상연",
+      "platform_count": 2,
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "total_count": 2
     }
   ]
 }
