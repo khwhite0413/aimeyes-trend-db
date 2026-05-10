@@ -1,8 +1,8 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-05-03",
-    "to": "2026-05-09"
+    "from": "2026-05-04",
+    "to": "2026-05-10"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -10,27 +10,27 @@
     {
       "keyword": "블라우스",
       "growth": "+8%",
-      "total_mentions": 88
+      "total_mentions": 89
     },
     {
       "keyword": "ootd",
-      "growth": "+22%",
-      "total_mentions": 80
+      "growth": "+8%",
+      "total_mentions": 85
     },
     {
       "keyword": "#ootd",
-      "growth": "+22%",
-      "total_mentions": 79
+      "growth": "+8%",
+      "total_mentions": 84
     },
     {
       "keyword": "outfit",
-      "growth": "+22%",
-      "total_mentions": 77
+      "growth": "+18%",
+      "total_mentions": 81
     },
     {
-      "keyword": "#fashion",
-      "growth": "+29%",
-      "total_mentions": 72
+      "keyword": "럭키슈에뜨",
+      "growth": "+33%",
+      "total_mentions": 52
     }
   ],
   "most_cross_platform": [
@@ -86,11 +86,11 @@
     "fashion",
     "원피스",
     "블라우스",
+    "ootd",
+    "#ootd",
     "바람막이",
     "티셔츠",
     "올리비아로렌",
-    "ootd",
-    "#ootd",
     "outfit",
     "#fashion"
   ]
