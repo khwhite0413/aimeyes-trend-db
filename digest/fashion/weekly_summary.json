@@ -1,8 +1,8 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-05-04",
-    "to": "2026-05-10"
+    "from": "2026-05-05",
+    "to": "2026-05-11"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -10,27 +10,27 @@
     {
       "keyword": "블라우스",
       "growth": "+17%",
-      "total_mentions": 90
+      "total_mentions": 92
     },
     {
       "keyword": "ootd",
-      "growth": "+15%",
-      "total_mentions": 86
+      "growth": "+21%",
+      "total_mentions": 90
     },
     {
       "keyword": "#ootd",
-      "growth": "+15%",
-      "total_mentions": 85
+      "growth": "+21%",
+      "total_mentions": 89
     },
     {
       "keyword": "outfit",
-      "growth": "+9%",
-      "total_mentions": 80
+      "growth": "+30%",
+      "total_mentions": 82
     },
     {
       "keyword": "럭키슈에뜨",
-      "growth": "+33%",
-      "total_mentions": 52
+      "growth": "+14%",
+      "total_mentions": 54
     }
   ],
   "most_cross_platform": [
@@ -51,17 +51,17 @@
       "count": 2
     },
     {
-      "keyword": "지그재그",
+      "keyword": "원피스",
       "platforms": [
-        "x_twitter",
+        "naver",
         "youtube"
       ],
       "count": 2
     },
     {
-      "keyword": "원피스",
+      "keyword": "지그재그",
       "platforms": [
-        "naver",
+        "x_twitter",
         "youtube"
       ],
       "count": 2
@@ -78,9 +78,9 @@
   "naver_shopping_hot": [
     "원피스",
     "바람막이",
-    "티셔츠",
+    "올리비아로렌",
     "블라우스",
-    "올리비아로렌"
+    "티셔츠"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -89,8 +89,8 @@
     "ootd",
     "#ootd",
     "바람막이",
-    "티셔츠",
     "올리비아로렌",
+    "티셔츠",
     "outfit",
     "#fashion"
   ]
