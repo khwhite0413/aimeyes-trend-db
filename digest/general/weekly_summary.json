@@ -1,8 +1,8 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-05-06",
-    "to": "2026-05-12"
+    "from": "2026-05-07",
+    "to": "2026-05-13"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -10,30 +10,30 @@
     {
       "keyword": "trend",
       "growth": "+133%",
-      "total_mentions": 63
+      "total_mentions": 71
     },
     {
       "keyword": "써스데이아일랜드",
-      "growth": "+75%",
-      "total_mentions": 41
+      "growth": "+60%",
+      "total_mentions": 45
     },
     {
-      "keyword": "hack",
-      "growth": "+50%",
-      "total_mentions": 37
+      "keyword": "요즘",
+      "growth": "+25%",
+      "total_mentions": 34
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "은중과 상연",
+      "keyword": "천연위고비",
       "platforms": [
-        "google_trends",
-        "x_twitter"
+        "x_twitter",
+        "youtube"
       ],
       "count": 2
     },
     {
-      "keyword": "섬총각 영웅",
+      "keyword": "은중과 상연",
       "platforms": [
         "google_trends",
         "x_twitter"
@@ -43,21 +43,21 @@
   ],
   "naver_shopping_hot": [
     "원피스",
-    "블라우스",
     "바람막이",
+    "블라우스",
     "올리비아로렌",
     "티셔츠"
   ],
   "top_keywords_overall": [
-    "#shorts",
     "#viral",
+    "#shorts",
     "원피스",
-    "블라우스",
     "바람막이",
+    "블라우스",
     "올리비아로렌",
     "티셔츠",
-    "dance",
     "#trending",
-    "에고이스트"
+    "trend",
+    "dance"
   ]
 }
