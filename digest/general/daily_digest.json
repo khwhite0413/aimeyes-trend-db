@@ -2,32 +2,32 @@
   "date": "2026-05-14",
   "mode": "general",
   "compared_to": "2026-05-13",
-  "total_keywords_today": 538,
+  "total_keywords_today": 513,
   "total_keywords_yesterday": 520,
   "data_days_available": 60,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "trend",
-      "change": "+15%",
-      "today_count": 15,
+      "change": "+31%",
+      "today_count": 17,
       "yesterday_count": 13,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 15건, 어제 13건 기준"
+      "sample_note": "오늘 17건, 어제 13건 기준"
     },
     {
       "keyword": "#trending",
-      "change": "+27%",
-      "today_count": 14,
+      "change": "+36%",
+      "today_count": 15,
       "yesterday_count": 11,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 14건, 어제 11건 기준"
+      "sample_note": "오늘 15건, 어제 11건 기준"
     },
     {
       "keyword": "#viral",
@@ -129,6 +129,17 @@
       "sample_note": "오늘 6건, 어제 2건 기준"
     },
     {
+      "keyword": "#trend",
+      "change": "+67%",
+      "today_count": 5,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 3건 기준"
+    },
+    {
       "keyword": "여름자켓",
       "change": "+25%",
       "today_count": 5,
@@ -138,28 +149,6 @@
         "naver"
       ],
       "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "#trend",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "summer",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
       "keyword": "#dance",
@@ -226,6 +215,17 @@
         "naver"
       ],
       "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "여성여름자켓",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
     }
   ],
   "declining": [
@@ -235,13 +235,6 @@
       "today_count": 11,
       "yesterday_count": 12,
       "confidence": "high"
-    },
-    {
-      "keyword": "#shorts",
-      "change": "-30%",
-      "today_count": 7,
-      "yesterday_count": 10,
-      "confidence": "medium"
     },
     {
       "keyword": "에고이스트",
@@ -272,13 +265,6 @@
       "confidence": "medium"
     },
     {
-      "keyword": "life",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
       "keyword": "#diy",
       "change": "-25%",
       "today_count": 3,
@@ -298,18 +284,22 @@
       "today_count": 1,
       "yesterday_count": 3,
       "confidence": "low"
+    },
+    {
+      "keyword": "love",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "trends",
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
+      "confidence": "low"
     }
   ],
   "new_entries": [],
-  "cross_platform_hot": [
-    {
-      "keyword": "천연위고비",
-      "platform_count": 2,
-      "platforms": [
-        "x_twitter",
-        "youtube"
-      ],
-      "total_count": 2
-    }
-  ]
+  "cross_platform_hot": []
 }
