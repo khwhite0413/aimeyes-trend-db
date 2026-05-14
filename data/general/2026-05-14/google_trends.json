@@ -1,0 +1,709 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "서울경제tv",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 2,
+          "keyword": "삼성sdi",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "특징주, 삼성SDI-2차전지(나트륨이온) 테마 상승세에 4.37% ↑",
+              "url": "https://stock.mk.co.kr/news/view/1086558"
+            },
+            {
+              "title": "[오늘의 주목주] '주가 고평가' 진단에 삼성SDI 8%대 내려, 코스피 외인·기관 매도세에 7640선 하락",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=437654"
+            },
+            {
+              "title": "[리포트 브리핑]삼성SDI, '상대적으로 양호한 포지션 대비 높은 가격' 목표가 593,000원 - LS증권",
+              "url": "https://www.newspim.com/news/view/20260512000956"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "강문경",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "쉐보레",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "쉐보레 타호 트림별 견인 능력 비교, 최고는 Z71 오프로드 패키지",
+              "url": "https://www.32cars.ru/ko/posts/id29401-swebore-taho-teurimbyeol-gyeonin-neungryeog-bigyo-coegoneun-z71-opeurodeu-paekiji"
+            },
+            {
+              "title": "2027년형 쉐보레 볼트, 실제 주행 거리 EPA 인증 수치 상회",
+              "url": "https://www.32cars.ru/ko/posts/id28805-2027nyeonhyeong-swebore-bolteu-silje-juhaeng-geori-epa-injeung-suci-sanghoe"
+            },
+            {
+              "title": "2027년형 쉐보레 볼트, 모든 트림 주문 가능…슈퍼 크루즈는 추후 출시",
+              "url": "https://tarantas.news/ko/posts/id28878-2027nyeonhyeong-swebore-bolteu-modeun-teurim-jumun-ganeung...syupeo-keurujeuneun-cuhu-culsi"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "심진화",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "'난임에 임신 포기' 47세 심진화 \"아기가 보여\" 미래 예측에 당황 [스타이슈]",
+              "url": "https://v.daum.net/v/20260513193105730"
+            },
+            {
+              "title": "'47세' 심진화, 자녀운 들어왔다 \"말도 안 돼\"('A급 장영란')[순간포착]",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/05/13/HEYDGMBWGA2TAOJVMY4TANZRGY/"
+            },
+            {
+              "title": "“나 47살이야”…심진화, 뜻밖의 아기 운에 눈물 - 스타투데이",
+              "url": "https://www.mk.co.kr/news/hot-issues/12046728"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "고유가 피해지원금 대상",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "강릉시, 2차 고유가 피해지원금 18일부터 신청",
+              "url": "https://www.newsis.com/view/NISX20260514_0003629223"
+            },
+            {
+              "title": "제천시, 고유가 지원금 추가 접수 진행…1인당 20만 원 지급",
+              "url": "https://v.daum.net/v/20260514100548455"
+            },
+            {
+              "title": "민생에 플러스+ 든든한 버팀목이 되겠습니다 - 전체 | 카드/한컷 | 멀티미디어",
+              "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148964214&pWise=sub&pWiseSub=I1"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "최두호",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "\"최두호 3라운드 KO시킬 것\" 진짜 한국인 킬러 되나…이정영→유주상→최두호, 한국인 상대 3연승 자신",
+              "url": "https://v.daum.net/v/20260514093449636"
+            },
+            {
+              "title": "[IS 인터뷰] '후반전' 접어든 UFC 최두호 \"더 강해지고 있다, 랭커·챔피언 도전도 가능\"",
+              "url": "https://m.news.nate.com/view/20260514n00287"
+            },
+            {
+              "title": "“한국 UFC 역사를 바꾼 남자” 최두호, 명경기와 KO 본능으로 남긴 전설",
+              "url": "https://www.ftimes.kr/news/articleView.html?idxno=37320"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "도둑",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'뉴토끼' 등 저작권침해 사이트 34곳에 첫 '긴급차단' 명령",
+              "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964176"
+            },
+            {
+              "title": "[수백만 명이 찾는 '그곳'] 4. 익숙해진 불법 웹툰 소비",
+              "url": "https://v.daum.net/v/qqebHWXSZC"
+            },
+            {
+              "title": "[단독]K콘텐츠 갉아먹는 뉴토끼, URL 바꿔가며 '숨바꼭질'",
+              "url": "https://www.etnews.com/20260512000351"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "신현송",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "박홍근 기획예산처 장관, 첫 한은 방문…신현송 총재 회동",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8560697"
+            },
+            {
+              "title": "박홍근 기획예산처 장관, 한은서 신현송 총재 만나...예산처 장관으로 첫 방문",
+              "url": "https://v.daum.net/v/20260514112818594"
+            },
+            {
+              "title": "한은 찾은 박홍근 기획처 장관 \" 기관 간 유기적인 협조·소통하자\"",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04155766645448920"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "배우",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "김신록, 살 얼마나 뺐으면..전지현 \"너무 말라, 쓰러질것 같아\" 걱정",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/05/13/GRSTMMJYHBSDENJXMQ2TCMLEME/"
+            },
+            {
+              "title": "\"혼자 몇 개를 하는 거냐\"…전지현, 구교환 폭주에 거침없는 돌직구 [RE:뷰]",
+              "url": "https://v.daum.net/v/20260513150316181"
+            },
+            {
+              "title": "전지현, 다 내려놨네..25년만에 외친 \"견우야~\" 구교환·지창욱 '감동'",
+              "url": "http://www.osen.co.kr/article/G1112800343"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 10,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "mariners",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Mariners Game #44 Preview and Discussion: SEA at HOU, 5/13",
+              "url": "https://www.lookoutlanding.com/seattle-mariners-game-information/143267/mariners-game-44-preview-and-discussion-sea-at-hou-5-13"
+            },
+            {
+              "title": "Mariners vs. Astros odds, prediction: MLB picks, odds, best bets Tuesday",
+              "url": "https://nypost.com/2026/05/12/betting/mariners-vs-astros-odds-prediction-mlb-picks-odds-best-bets-tuesday/"
+            },
+            {
+              "title": "Astros vs. Mariners Game Thread: Game 44, 5/13/2026",
+              "url": "https://sports.yahoo.com/articles/astros-vs-mariners-game-thread-233000856.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "nhl playoff bracket",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Updated 2026 NHL Stanley Cup Playoffs Bracket, Schedule and Top Highlights from May 12",
+              "url": "https://bleacherreport.com/articles/25427323-updated-2026-nhl-stanley-cup-playoffs-bracket-schedule-and-top-highlights-may-12"
+            },
+            {
+              "title": "Deen’s Daily: Bounce Back Opportunity; Montreal Dominates; Ducks Rebound",
+              "url": "https://coloradohockeynow.com/deens-daily-an-opportunity-to-bounce-back-montreal-dominates-ducks-rebound/"
+            },
+            {
+              "title": "2026 Inside Edge Advisory (Jr. A) vs WBS Knights Navy (Jr. A) - Videos",
+              "url": "https://www.flohockey.tv/events/15881849-2026-inside-edge-advisory-jr-a-vs-wbs-knights-navy-jr-a"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "wnba scores",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "WNBA, NBA approve sale of Connecticut Sun, which will relocate to Houston in 2027",
+              "url": "https://www.nba.com/news/connecticut-sun-sale-approved"
+            },
+            {
+              "title": "WNBA, NBA approve Sun sale to Fertitta, relocation to Houston",
+              "url": "https://www.espn.com/wnba/story/_/id/48763788/wnba-nba-approve-sun-sale-fertitta-relocation-houston"
+            },
+            {
+              "title": "WNBA and NBA approve sale of Connecticut Sun to Tilman Fertitta; team to relocate to Houston in 2027",
+              "url": "https://www.khou.com/article/sports/wnba/comets/wnba-nba-approve-connecticut-sun-tilman-fertitta-houston-2027/285-7fd15225-4257-4b21-a046-e260f6ff27c3"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "nick kurtz",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Game Discussion for St. Louis Cardinals vs Athletics Wednesday Night",
+              "url": "https://sports.yahoo.com/articles/game-discussion-st-louis-cardinals-012000116.html"
+            },
+            {
+              "title": "Where to watch St. Louis Cardinals vs Athletics : TV channel, start time, streaming for May 12",
+              "url": "https://www.usatoday.com/story/sports/mlb/2026/05/12/st-louis-cardinals-athletics-channel-stream-time-mlb-5-12-2026/90042975007/"
+            },
+            {
+              "title": "Game #42: Cardinals at Athletics Game Thread",
+              "url": "https://www.athleticsnation.com/athletics-game-information/104916/game-42-cardinals-at-athletics-game-thread"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "son heung-min",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Nathan Ordez on LAFC: “When we lose two games, it’s a big problem”",
+              "url": "https://en.as.com/soccer/nathan-ordez-on-lafc-when-we-lose-two-games-its-a-big-problem-f202605-n/"
+            },
+            {
+              "title": "Son Heung-min Shifts to Striker Amid Goal Drought",
+              "url": "https://www.chosun.com/english/sports-en/2026/05/14/4IX3VH4FHZDSFFRHFVDPIE3KY4/"
+            },
+            {
+              "title": "Son Heung-min's silence is getting longer.Son Heung-min's team, Los Angeles FC, was defeated 1-4 in",
+              "url": "https://www.mk.co.kr/en/sports/12043593"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "seattle mariners",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Mariners Challenge Astros to Care Bear Staring Contest, Bring Meatball Cannon",
+              "url": "https://www.lookoutlanding.com/seattle-mariners-scores-standings/143207/mariners-challenge-astros-to-care-bear-staring-contest-bring-meatball-cannon"
+            },
+            {
+              "title": "J-Rod answers fan BP challenge with HR, then duplicates it in win",
+              "url": "https://www.mlb.com/news/julio-rodriguez-answers-fan-batting-practice-challenge-homers-in-game"
+            },
+            {
+              "title": "Canzone, Arozarena power Mariners past Astros 10-2",
+              "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/canzone-arozarena-power-seattle-mariners-past-astros-10-2"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "c.d. guadalajara",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Kevin Mier suma nuevo error en juego clave con Cruz Azul",
+              "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/16708698/cruz-azul-kevin-mier-errores-portero-criticas-liga-mx"
+            },
+            {
+              "title": "Increíble error de Kevin Mier le da la ventaja a Chivas en la Semifinal",
+              "url": "https://www.marca.com/mx/futbol/liga-mx/2026/05/14/6a053611e2704e5a4a8b4592.html"
+            },
+            {
+              "title": "¡Gracias, Kevin Mier! El portero de Cruz Azul regaló un balón a Santiago Sandoval para el gol de Chivas",
+              "url": "https://chivaspasion.bolavip.com/ligamx/gracias-kevin-mier-el-portero-de-cruz-azul-regalo-un-balon-a-santiago-sandoval-para-el-gol-de-chivas"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "cbs news medical emergency",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Cameraman Suffers Medical Emergency During Live CBS Evening News Broadcast from Taiwan",
+              "url": "https://people.com/cameraman-suffers-medical-emergency-during-live-cbs-evening-news-broadcast-from-taiwan-11974492"
+            },
+            {
+              "title": "Exclusive: CBS’ Tony Dokoupil to broadcast from Taiwan after failing to get China visa in time",
+              "url": "https://www.semafor.com/article/05/13/2026/cbs-news-tony-dokoupil-to-broadcast-from-taiwan-after-failing-to-get-china-visa-in-time"
+            },
+            {
+              "title": "CBS Humiliated as MAGA-Coded Anchor Broadcasts From Wrong Location",
+              "url": "https://ca.news.yahoo.com/cbs-humiliated-maga-coded-anchor-200026550.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "colorado",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Capitol updates: Legislature adjourns after passing college abortion pill access bill, killing gun and workplace bills",
+              "url": "https://www.denverpost.com/2026/05/13/colorado-legislature-final-day-gun-control/"
+            },
+            {
+              "title": "In Ambitious Session, Democrats Focused on Affordability and Addressed Must-Fix Issues Amidst Federal Attacks and a Billion Dollar Deficit",
+              "url": "https://www.cohousedems.com/news/in-ambitious-session%2C-democrats-focused-on-affordability-and-addressed-must-fix-issues-amidst-federal-attacks-and-a-billion-dollar-deficit"
+            },
+            {
+              "title": "CO legislative session ends tonight; Ballot issue weighs TABOR refunds against funding for CO schools; U.S. Forest proposes Pitkin County manage Maroon Bells",
+              "url": "https://kgnu.org/co-legislative-session-ends-tonight-ballot-issue-weighs-tabor-refunds-against-funding-for-co-schools-u-s-forest-proposes-pitkin-county-manage-maroon-bells/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "astros score",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "MLB Gameday: Mariners 10, Astros 2 Final Score (05/12/2026)",
+              "url": "https://www.mlb.com/gameday/824197/final/video"
+            },
+            {
+              "title": "Mariners Challenge Astros to Care Bear Staring Contest, Bring Meatball Cannon",
+              "url": "https://www.lookoutlanding.com/seattle-mariners-scores-standings/143207/mariners-challenge-astros-to-care-bear-staring-contest-bring-meatball-cannon"
+            },
+            {
+              "title": "J-Rod answers fan BP challenge with HR, then duplicates it in win",
+              "url": "https://www.mlb.com/news/julio-rodriguez-answers-fan-batting-practice-challenge-homers-in-game"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 58,
+          "interest_max": 100,
+          "interest_latest": 60,
+          "rank": 1
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "中村倫也",
+          "traffic": "2000+",
+          "related_news": []
+        },
+        {
+          "rank": 2,
+          "keyword": "アナログ放送",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "知ってた？ テレビのアンテナ線、実はいまだにアナログ信号。その深いワケ",
+              "url": "https://www.phileweb.com/review/column/202605/14/3000.html"
+            },
+            {
+              "title": "知ってた？ テレビのアンテナ線、実はいまだにアナログ信号。その深いワケ | チバテレ＋プラス",
+              "url": "https://www.chiba-tv.com/plus/detail/2026051625096"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ダイヤモンド社",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "ホリエモンが「確実に稼げる選択肢」「間違いなく成長産業」と語る2つの有望領域〈再配信〉",
+              "url": "https://diamond.jp/articles/-/389923?page=2"
+            },
+            {
+              "title": "“小さなプロ野球”のリアル―「ホリエモン」球団、北九州下関フェニックスが挑む独立リーグ最前線―（阿佐智） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/085ec65e42f0153638b2a2aac746c44c6438bf56"
+            },
+            {
+              "title": "「チケット代だけでは『絶対回らない』」ホリエモン創設の独立リーグ球団が明かす“リアルな赤字額”",
+              "url": "https://news.livedoor.com/article/detail/31140140/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "アレックス・コール",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Dodgers’ Dave Roberts explains attention-grabbing Teoscar Hernandez decision vs. Giants",
+              "url": "https://clutchpoints.com/mlb/los-angeles-dodgers/dodgers-news-dave-roberts-teoscar-hernandez-decision-giants"
+            },
+            {
+              "title": "Dodgers Could Bench All-Star Outfielder More Often Amid Struggles",
+              "url": "https://www.si.com/mlb/dodgers/onsi/dodgers-could-bench-all-star-outfielder-more-often-amid-struggles"
+            },
+            {
+              "title": "Teoscar Hernández Could Lose Starts To Alex Call Amid Struggles",
+              "url": "https://www.yardbarker.com/mlb/articles/teoscar_hernndez_could_lose_starts_to_alex_call_amid_struggles/s1_17075_43831413"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "クレヨンしんちゃん 実写",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "実写化ショートムービー『クレヨンしんちゃん』風間トオル役に野村康太 爽やかスーツ姿でツンとしたヘアスタイル披露",
+              "url": "https://www.oricon.co.jp/news/2453916/full/"
+            },
+            {
+              "title": "SNSで考察白熱！実写“大人になった風間くん”は野村康太 高橋文哉と『ブルーロック』で共演（cinemacafe.net）",
+              "url": "https://news.yahoo.co.jp/articles/ff59782c1d097aae8f65fc0688c3122f89d50f2b"
+            },
+            {
+              "title": "「クレヨンしんちゃん」実写版最新話に「風間くん」が登場！「あいちゃん」の姿も!? 南野陽子が風間くんの母親役に「風間くんのお悩みだゾ！」篇 高橋文哉、野村康太、南野陽子が出演！",
+              "url": "https://www.cinematoday.jp/video/VIYW7l-RdkrEyk"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "ぽかぽか",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "明日のぽかぽか＞5月14日の出演者＆番組内容が公開（MANTANWEB）",
+              "url": "https://news.yahoo.co.jp/articles/2118cad03d03125ac76674667d2124f732e213df"
+            },
+            {
+              "title": "明日のぽかぽか：5月13日の出演者＆番組内容が公開",
+              "url": "https://mantan-web.jp/article/20260512dog00m200086000a.html"
+            },
+            {
+              "title": "水曜（2）ジェスチャーQ！お題を予想せよ！！",
+              "url": "https://tver.jp/episodes/epmbsbrb0h"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "ルイス・アラエス",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "ドジャース・山本由伸　日米でプロ初の1試合3被弾　5失点KOに「凄く悔しく思う」",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260514-0102"
+            },
+            {
+              "title": "前日に山本由伸からホームランを打った２人ともスタメンから外れる。今日の相手は大谷翔平（宇根夏樹） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/737bd36f4b947fe433bb38aa888df8a1464461ab"
+            },
+            {
+              "title": "ジャイアンツ戦に先発して6回1／3を投げ、5失点で3敗目を喫したドジャース・山本＝ロサンゼルス（共同） - 山本由伸、初の1試合3被弾 ジャイアンツ戦 - 写真・画像(1/1)",
+              "url": "https://www.nishinippon.co.jp/image/1038719/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "プジョー",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "プジョーの新世代SUVにBEVモデル「E-3008」が追加！ 一充電走行距離は604km【新車ニュース】（KURU KURA（くるくら））",
+              "url": "https://news.yahoo.co.jp/articles/ceabbf487ad6c6bb7413ee35c53a71ae179c2a11"
+            },
+            {
+              "title": "新着情報“ＣＸ－６０XD－ハイブリッド プレミアムスポーツ”2022年式ロジウムホワイトプレミアムメタリック入荷しました！",
+              "url": "https://221616.com/shop/hyogo/G01391/blog/new_arrival/G013911778631434244/"
+            },
+            {
+              "title": "プレミアムの表現はひとつじゃない!? “最新SUV”のプジョー「3008」＆マツダ「CX-60」を実力検証！ 見えてきたそれぞれの“違い”とは",
+              "url": "https://topics.smt.docomo.ne.jp/article/kurumanews/trend/kurumanews-1052781"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "齊藤京子",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "齊藤京子＆ヒコロヒー、泉ピン子サプライズから急展開 まさかの涙も「絶対に守り続けたい番組」【『キョコロヒー』イベントレポート】",
+              "url": "https://news.yahoo.co.jp/articles/6f29d1889acce8fb33713a1ce88b890300e83fad"
+            },
+            {
+              "title": "コメント | 大阪の夏フェス『ジャイガ』2026年の全ラインナップが判明 4日間に豪華アーティストずらり【一覧】",
+              "url": "https://www.oricon.co.jp/news/2454299/comment/"
+            },
+            {
+              "title": "画像・写真 | 齊藤京子、新型“箱の中身は何だろな”でやっぱり爆笑巻き起こす 佐々木久美＆佐々木美玲と日向坂46トークも「『ひなあい』最近どんな感じ？」 21枚目",
+              "url": "https://www.oricon.co.jp/news/2454102/photo/21/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "ランクルfj",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "ランクルFJ登場間近で再注目!! 頑強で頼れる「フレーム車」の魅力（ベストカーWeb）",
+              "url": "https://news.yahoo.co.jp/articles/efe82a4ca4c2efdf4c267fb38aab99311985ca4d"
+            },
+            {
+              "title": "トヨタ新型「ランドクルーザー」発表！ 464馬力の「最強モデル」！ 1リッターで「10km」走る「パフォーマンスハイブリッド」豪州に登場",
+              "url": "https://kuruma-news.jp/post/1056223"
+            },
+            {
+              "title": "未発売の「小さなランクル」をカスタム！ CG予想で描くトヨタ ランドクルーザーFJの可能性",
+              "url": "https://www.automesseweb.jp/2026/05/10/1957736"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-05-14T03:37:30.236984+00:00"
+}
