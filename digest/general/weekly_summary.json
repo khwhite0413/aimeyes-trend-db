@@ -1,39 +1,44 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-05-08",
-    "to": "2026-05-14"
+    "from": "2026-05-09",
+    "to": "2026-05-15"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "trend",
-      "growth": "+112%",
-      "total_mentions": 81
+      "growth": "+70%",
+      "total_mentions": 90
     },
     {
       "keyword": "#trending",
-      "growth": "+25%",
-      "total_mentions": 76
+      "growth": "+18%",
+      "total_mentions": 77
     },
     {
       "keyword": "남자반팔티",
-      "growth": "+11%",
-      "total_mentions": 60
+      "growth": "+38%",
+      "total_mentions": 62
     },
     {
       "keyword": "써스데이아일랜드",
-      "growth": "+40%",
-      "total_mentions": 47
+      "growth": "+17%",
+      "total_mentions": 49
+    },
+    {
+      "keyword": "#trend",
+      "growth": "+100%",
+      "total_mentions": 29
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "은중과 상연",
+      "keyword": "천연위고비",
       "platforms": [
-        "google_trends",
-        "x_twitter"
+        "x_twitter",
+        "youtube"
       ],
       "count": 2
     }
@@ -42,19 +47,19 @@
     "원피스",
     "바람막이",
     "블라우스",
-    "티셔츠",
-    "올리비아로렌"
+    "올리비아로렌",
+    "티셔츠"
   ],
   "top_keywords_overall": [
-    "#shorts",
-    "#viral",
+    "trend",
     "원피스",
     "바람막이",
     "블라우스",
+    "#shorts",
     "올리비아로렌",
+    "#viral",
     "티셔츠",
-    "trend",
     "#trending",
-    "dance"
+    "남자반팔티"
   ]
 }

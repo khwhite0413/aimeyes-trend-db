@@ -1,0 +1,698 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "윌 스미스",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Will Smith To Star In Action Movie 'Supermax', Amazon Takes WW Rights",
+              "url": "https://deadline.com/2026/05/will-smith-supermax-movie-amazon-mgm-worldwide-rights-1236903753/"
+            },
+            {
+              "title": "Will Smith to Star in Action Thriller ‘Supermax,’ Amazon MGM Lands Rights in $70 Million Streaming Deal",
+              "url": "https://www.imdb.com/news/ni65840626/"
+            },
+            {
+              "title": "Will Smith is Supermaxxing",
+              "url": "https://www.avclub.com/will-smith-supermax-announcement"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "iceman",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "The Stakes Have Never Been Higher for Drake",
+              "url": "https://www.billboard.com/music/rb-hip-hop/drake-iceman-kendrick-lamar-essay-1236248220/"
+            },
+            {
+              "title": "297 Days and an Immersive Rollout Later, Drake’s Iceman Album Drops Tonight",
+              "url": "https://www.xxlmag.com/drake-iceman-album-rollout/"
+            },
+            {
+              "title": "Watch Episode 4 of Drake's 'Iceman' Livestream Series",
+              "url": "https://www.complex.com/music/a/backwoodsaltar/watch-drake-iceman-episode-4-livestream"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "탁명환",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "한화솔루션 주가",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "한화솔루션 주가 장중 8% 대 상승, 국내 태양광산업 확대 기대감에 관련주 강세",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=437798"
+            },
+            {
+              "title": "한화솔루션, +10.66% 상승폭 확대 - 조선비즈",
+              "url": "https://biz.chosun.com/stock/c-biz_bot/2026/05/14/GI3DQMRVGNRDIMRSHA3DKZJZME/"
+            },
+            {
+              "title": "한화솔루션, 신재생 투자 보폭 확대…태양광 넘어 '우주전력' 정조준",
+              "url": "https://news.nate.com/view/20260514n27103"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "도박",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "임신한 아내 두고 바람피운 남편...\"부부관계 잘 못하니까\" - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/05/14/2026051423023958839"
+            },
+            {
+              "title": "\"이혼하세요, 못 고칩니다\"...이호선, 폭행·도박 남편에 단호 ('이혼숙려캠프')",
+              "url": "https://v.daum.net/v/20260515060417227"
+            },
+            {
+              "title": "서장훈, 父향해 섬뜩한 말 내뱉는 아이에 '경악'…\"몰랐다는 게 말이 돼?\" 아내 저격 ('이혼숙려캠프')",
+              "url": "http://www.osen.co.kr/article/G1112801650"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "현대건설 주가",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "현대건설 주가 4,700원 상승 후 장마감",
+              "url": "https://m.anewsa.com/article_sub3.php?number=3158687&type=&mobile="
+            },
+            {
+              "title": "현대건설 주가 하락 중",
+              "url": "https://m.anewsa.com/article_sub3.php?number=3159371&type=&mobile="
+            },
+            {
+              "title": "[장중수급포착] 현대건설, 외국인 5일 연속 순매수행진... 주가 +1.83%",
+              "url": "https://www.newspim.com/news/view/20260511000383"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "kospi",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "KOSPI Hits 8,000, Drops to 7,600 Amid Foreign Selling",
+              "url": "https://www.chosun.com/english/market-money-en/2026/05/15/BSDGT6WGHJBJNK6565FIUXJU5A/"
+            },
+            {
+              "title": "\"Addicted to Uncovering Hidden Value Investing Opportunities\"... Korean Stock Fever Sweeps the US",
+              "url": "https://www.asiae.co.kr/en/article/2026051420482844016"
+            },
+            {
+              "title": "Amid the KOSPI's record high, foreign investors have been net selling (more than selling prices) for..",
+              "url": "https://www.mk.co.kr/en/stock/12047165"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "두산로보틱스 주가",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "“삼전닉스 64조 팔아치운 외국인”…반도체 대신 ‘로봇’ 쓸어 담은 이유는? [잇슈 머니]",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8561574"
+            },
+            {
+              "title": "두산로보틱스 주가 장중 24% 뛰며 '사상 최고가', 엔비디아 협업 기대감 지속",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=437907"
+            },
+            {
+              "title": "특징주, 하이젠알앤엠-로봇(산업용/협동로봇 등) 테마 상승세에 6.22% ↑",
+              "url": "https://stock.mk.co.kr/news/view/1087842"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "컵스 대 브레이브스",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "빅리그 적응 중인 김하성, 컵스전 3타수 무안타…6회엔 송구 실책",
+              "url": "https://www.newsis.com/view/NISX20260515_0003630762"
+            },
+            {
+              "title": "김하성, 컵스전 3타수 무안타 침묵…결정적 송구 실책에 세일 '비자책 패전'",
+              "url": "https://www.nocutnews.co.kr/news/6517751"
+            },
+            {
+              "title": "김하성 복귀 후 전승 애틀랜타, 7할 승률까지 넘본다…8번타자 유격수로 5연승 도전",
+              "url": "https://v.daum.net/v/20260515061417343"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "아우디",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "아우디 A6 풀체인지...‘무엇’이 바뀌었길래",
+              "url": "https://v.daum.net/v/20260515113207759"
+            },
+            {
+              "title": "“남들은 다 벤츠, BMW만 보더라고요”… 국내서 유독 힘 못 쓰는 독일 명차",
+              "url": "https://www.news-wa.com/article/automobiles/new-car/2026/05/10/20260510500015"
+            },
+            {
+              "title": "아우디코리아, 제62회 백상예술대상에 '더 뉴 아우디 A6' 의전 차량 지원",
+              "url": "https://www.etnews.com/20260511000142"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 11,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 94,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "spider man brand new day",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Tom Holland Hypes Franchise-Best Stunts in ‘Spider-Man: Brand New Day’",
+              "url": "https://gizmodo.com/spider-man-brand-new-day-behind-scenes-stunts-tom-holland-2000758699"
+            },
+            {
+              "title": "Spider-Man: Brand New Day Behind the Scenes Footage Shows Off Movie's Practical Effects",
+              "url": "https://www.ign.com/articles/spider-man-brand-new-day-behind-the-scenes-footage-shows-off-movies-practical-effects"
+            },
+            {
+              "title": "Tom Holland is officially getting his Dark Knight moment in Spider-Man 4",
+              "url": "https://www.polygon.com/spider-man-4-promises-to-be-the-most-christopher-nolan-movie-of-the-marvel-series/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ben shapiro",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Inside Ben Shapiro’s MAGA meltdown",
+              "url": "https://www.washingtonpost.com/technology/2026/05/09/ben-shapiro-daily-wire-maga-media/"
+            },
+            {
+              "title": "Why Ben Shapiro’s Media Empire Is Collapsing",
+              "url": "https://nymag.com/intelligencer/article/why-ben-shapiros-media-empire-is-collapsing.html"
+            },
+            {
+              "title": "The Ben Commandments",
+              "url": "https://puck.news/ben-shapiros-slide-the-daily-wires-200m-revenue-crisis/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ucla baseball",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Baseball vs Oregon on 5/10/2026 - Box Score - UCLA",
+              "url": "https://uclabruins.com/sports/baseball/stats/2026/no-13-oregon/boxscore/34568"
+            },
+            {
+              "title": "Ducks Fall to UCLA in Series Finale, 9-6",
+              "url": "https://goducks.com/news/2026/5/10/baseball-ducks-fall-to-ucla-in-series-finale-9-6"
+            },
+            {
+              "title": "No. 13 Oregon appeared headed for series win at No. 1 UCLA before everything fell apart in one brutal inning",
+              "url": "https://www.oregonlive.com/ducks/2026/05/no-13-oregon-appeared-headed-for-series-win-at-no-1-ucla-before-everything-fell-apart-in-one-brutal-inning.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "america femenil",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "EN VIVO Rayadas vs América: Sigue la final de ida, Clausura 2026",
+              "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/16711314/rayadas-vs-america-en-vivo-final-ida-clausura-2026-liga-mx-femenil-minuto-a-minuto"
+            },
+            {
+              "title": "Horario y dónde ver el Monterrey vs América partido de ida de la Final de la Liga MX Femenil",
+              "url": "https://www.tudn.com/futbol-femenino/liga-mx-femenil/monterrey-vs-america-horario-donde-ver-el-partido-de-ida-de-la-final-de-la-liga-mx-femenil"
+            },
+            {
+              "title": "Amandine Miquel disputa su primer título con Rayadas",
+              "url": "https://www.si.com/mx/futbol/amandine-miquel-disputa-primer-titulo-rayadas"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "sec baseball standings",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "SEC baseball tournament bracket based on standings if regular season ended today",
+              "url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/other-sports/2026/05/14/sec-baseball-tournament-bracket-if-season-ended-today/90082036007/"
+            },
+            {
+              "title": "Thursday’s SEC Dish: What’s at stake this weekend?",
+              "url": "https://d1baseball.com/d1extra/sec-extra/thursdays-sec-dish-whats-at-stake-this-weekend/"
+            },
+            {
+              "title": "SEC Network Baseball Power Rankings: May 11",
+              "url": "https://www.secsports.com/news/2026/05/sec-network-baseball-power-rankings-may-11"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "mayhem requiem",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Lady Gaga Reinvents Herself, Yet Again, With ‘Mayhem Requiem’ Performance: Review",
+              "url": "https://variety.com/2026/music/concert-reviews/lady-gaga-mayhem-requiem-review-1236749156/"
+            },
+            {
+              "title": "Lady Gaga Releases New Live Album Mayhem Requiem",
+              "url": "https://pitchfork.com/news/lady-gaga-releases-new-live-album-mayhem-requiem/"
+            },
+            {
+              "title": "Lady Gaga Teams Up With Apple Music for Reimagined ‘Mayhem’ Filmed Live Performance",
+              "url": "https://www.hollywoodreporter.com/music/music-news/lady-gaga-mayhem-apple-music-live-album-1236593561/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "hyeseong kim",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Dodgers activate Betts from IL; Freeland optioned to Triple-A",
+              "url": "https://www.mlb.com/news/mookie-betts-returning-from-injured-list"
+            },
+            {
+              "title": "Dodgers' Mookie Betts gets a hit in return to lineup after over a month on IL",
+              "url": "https://sports.yahoo.com/mlb/article/dodgers-mookie-betts-gets-a-hit-in-return-to-lineup-after-over-a-month-on-il-224223674.html"
+            },
+            {
+              "title": "Dodgers fans will be thrilled with Mookie Betts' roster decision that was a long time coming",
+              "url": "https://dodgersway.com/dodgers-fans-will-be-thrilled-with-mookie-betts-roster-decision-that-was-a-long-time-coming"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "hca",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "HCA Healthcare stock (US42225T1079): Q1 earnings miss sparks 8% YTD drop",
+              "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/hca-healthcare-stock-us42225t1079-q1-earnings-miss-sparks-8-percent/69336901"
+            },
+            {
+              "title": "HCA Healthcare Q2 EPS Estimate Boosted by Zacks Research",
+              "url": "https://www.marketbeat.com/instant-alerts/hca-healthcare-q2-eps-estimate-boosted-by-zacks-research-2026-05-11/"
+            },
+            {
+              "title": "HCA (HCA Healthcare) Q1 2026 EPS narrowly misses estimates as shares edge slightly higher in trading. - Debt Refinancing",
+              "url": "https://www.newser.com/aticles-market/HCA-HCA-Healthcare-Q1-2026-EPS-narrowly-misses-estimates-as-shares-edge-slightly-higher-in-trading-11-8140"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "truck accident lawyer",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Traffic slowdown on SR-427 after 5-car crash leaves 2 hospitalized",
+              "url": "https://www.clickorlando.com/traffic/2026/05/14/traffic-slowdown-on-sr-427-after-5-car-crash-leaves-2-hospitalized/"
+            },
+            {
+              "title": "5-Car Crash on SR-427 in Orange County Sends Two to Hospital, Causes Traffic Delays",
+              "url": "https://www.florida-justice.com/blog/5-car-crash-on-sr-427-in-orange-county-sends-two-to-hospital-causes-traffic-delays/"
+            },
+            {
+              "title": "Steps Lawyers Take After Car Accidents in Complex Cases",
+              "url": "https://nerdbot.com/2026/05/14/steps-lawyers-take-after-car-accidents-in-complex-cases/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "antonio cipriano",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "\"Off Campus\" Star Antonio Cipriano Takes Us Behind The Scenes Of Season 1",
+              "url": "https://www.yahoo.com/entertainment/tv/articles/off-campus-star-antonio-cipriano-144601063.html"
+            },
+            {
+              "title": "‘Off Campus’ Cast Breaks Down Logan’s Secret Crush on Hannah (VIDEO)",
+              "url": "https://www.tvinsider.com/1264357/off-campus-logan-secret-crush-hannah-garrett-antonio-cipriano-interview/"
+            },
+            {
+              "title": "\"Off Campus\" Star Antonio Cipriano On John Logan, Hockey Training, And The Cast Bond That Felt Like College",
+              "url": "https://www.aol.com/lifestyle/off-campus-star-antonio-cipriano-144601072.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 58,
+          "interest_max": 100,
+          "interest_latest": 67,
+          "rank": 1
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 37,
+          "interest_max": 100,
+          "interest_latest": 28,
+          "rank": 2
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 8,
+          "interest_max": 41,
+          "interest_latest": 7,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 6,
+          "interest_max": 20,
+          "interest_latest": 7,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 3,
+          "interest_max": 15,
+          "interest_latest": 4,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 4,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "住田萌乃",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「マッサン」5月13日第96回見所　熊虎（風間杜夫）の夢引き継いだ政春（玉山鉄二）1年後…エリーの前に現れる「あの人」",
+              "url": "https://www.iza.ne.jp/article/20260512-XVOLZPL6SZGHTC2S5LHFVWRNGA/2/"
+            },
+            {
+              "title": "「マッサン」俊夫（八嶋智人）“優しい嘘”に波乱の予感…金髪夢見るエマ（住田萌乃）SNS「この週も乗り越えなきゃいけないこと多い」",
+              "url": "https://www.iza.ne.jp/article/20260514-KHJZM4WLVVFYPA4C4IOVSLO3UY/"
+            },
+            {
+              "title": "「マッサン」5月15日第98回見所　金髪夢見るエマ（住田萌乃）…母エリーとの違いに悩む愛娘と政春（玉山鉄二）固める「覚悟」",
+              "url": "https://www.iza.ne.jp/article/20260514-P6PLRB5KHFC6HG3KAVZJ4A4JRQ/2/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "神谷明",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ひろゆき氏、言動巡り妻から公開説教 「屁理屈こねるのは、傷つける方向で使っちゃダメ」（J-CASTニュース）",
+              "url": "https://news.yahoo.co.jp/articles/dfe9fd3698c5386f88bc108fd9dd6e00f60de626"
+            },
+            {
+              "title": "ひろゆき、恋リア出演 “元ミス東大” に「そこまでかわいくない」発言で止まぬ批判…妻も “苦言” の大炎上",
+              "url": "https://topics.smt.docomo.ne.jp/article/smartflash/entertainment/smartflash-407800"
+            },
+            {
+              "title": "ひろゆき氏の「そこまで可愛くない」発言が大炎上 妻も参戦し「苦言」 (2026年5月14日掲載)",
+              "url": "https://news.livedoor.com/topics/detail/31269272/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "サマーソニック 2026",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "日テレ・東京ヴェルディベレーザ",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 5,
+          "keyword": "弘前 地震",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "青森県津軽南部でM3.7の地震 最大震度3 津波の心配なし",
+              "url": "https://weathernews.jp/news/202605/140232quake/"
+            },
+            {
+              "title": "震源・震度＝気象庁発表（１５日１２時１３分）",
+              "url": "https://ryukyushimpo.jp/kyodo/entry-5250157.html"
+            },
+            {
+              "title": "青森県で最大震度3の地震 青森県・西目屋村",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2662977"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "マギー",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "「ええええ」３３歳人気モデル、印象チェンジの最新姿が話題「こんな先生いて欲しい」「色っぽい」マギーが投稿",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/entertainment/hochi-20260513-OHT1T51178"
+            },
+            {
+              "title": "マギー、“ハイレグ水着”で美ボディ際立つ バカンス満喫ショットに反響「神スタイル」「筋肉がある所がまたすごい、芸術作品」",
+              "url": "https://www.oricon.co.jp/news/2453482/photo/3/"
+            },
+            {
+              "title": "３３歳マギー、うっすら透けてる！「世界一きれい」ワンピ姿 デコルテ＆背中見せ「超絶最高」「お美しい」",
+              "url": "https://hochi.news/articles/20260511-OHT1T51086.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "ハイウェイの堕天使",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "記録的大ヒットで上映中!!『名探偵コナン ハイウェイの堕天使』冒頭12分を5/22金曜ロードショーで初放送！",
+              "url": "https://kinro.ntv.co.jp/article/detail/20260514"
+            },
+            {
+              "title": "【写真 2/2枚】（C）2021 Universal Studios. All Rights Reserved.",
+              "url": "https://mantan-web.jp/article/20260513dog00m200050000a/photopage/002.html"
+            },
+            {
+              "title": "映画「コナン」 最新作も大人気 興行収入１００億円超え",
+              "url": "https://www.kochinews.co.jp/article/detail/1002663"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "熱海",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "熱海・咲見町に喫茶店「Cafe39」 移住女性が憩いの場目指す（みんなの経済新聞ネットワーク）",
+              "url": "https://news.yahoo.co.jp/articles/a6a8b408089f97ccb63816bf2b517cacc064db76"
+            },
+            {
+              "title": "喫茶店「Cafe39」店内テーブル席",
+              "url": "https://atami.keizai.biz/photoflash/6033/"
+            },
+            {
+              "title": "咲見町にオープンした喫茶店「Cafe39」外観",
+              "url": "https://atami.keizai.biz/photoflash/6035/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "長澤まさみ",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "「どなたか分からなかった」高木美帆さん、黒髪ロング＆ワンピ姿で“印象ガラリ”な激変ショット公開し反響「髪を下ろしてるのも新鮮で良いですね」（THE DIGEST）",
+              "url": "https://news.yahoo.co.jp/articles/b0261e0d1511c420fd72e0786ec9ce58da02db02"
+            },
+            {
+              "title": "Sスケート高木美帆さんのワンピース＆長い黒髪に「誰か分かりませんでした」の声",
+              "url": "https://sportsbull.jp/p/2332991/"
+            },
+            {
+              "title": "高木美帆さんが黒髪とワンピースでイメチェン「珍しい美帆さん！」「素敵です」黒髪大賞特別賞受賞",
+              "url": "https://hochi.news/articles/20260514-OHT1T51330.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "マークジェイコブス",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「マーク ジェイコブス」をLVMHが売却 米ブランドマネジメント会社のWHPグローバルに",
+              "url": "https://news.yahoo.co.jp/pickup/6580214"
+            },
+            {
+              "title": "LVMHの「マーク ジェイコブス」売却が正式決定 WHPグローバルが年内に取得",
+              "url": "https://www.fashionsnap.com/article/2026-05-15/lvmh-sells-marc-jacobs/"
+            },
+            {
+              "title": "LVMHが30年のパートナーシップを経てMarc JacobsブランドをWHP Globalに売却 執筆",
+              "url": "https://jp.investing.com/news/stock-market-news/article-93CH-1536896"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 23,
+          "interest_max": 100,
+          "interest_latest": 30,
+          "rank": 1
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 17,
+          "interest_max": 43,
+          "interest_latest": 26,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 9,
+          "interest_max": 72,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 3,
+          "interest_max": 33,
+          "interest_latest": 19,
+          "rank": 4
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-05-15T03:40:33.427005+00:00"
+}

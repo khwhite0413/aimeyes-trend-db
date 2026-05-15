@@ -1,49 +1,41 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-05-08",
-    "to": "2026-05-14"
+    "from": "2026-05-09",
+    "to": "2026-05-15"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#ootd",
-      "growth": "+25%",
+      "growth": "+9%",
       "total_mentions": 99
     },
     {
       "keyword": "ootd",
-      "growth": "+25%",
+      "growth": "+9%",
       "total_mentions": 99
     },
     {
       "keyword": "남자반팔티",
-      "growth": "+11%",
-      "total_mentions": 60
-    },
-    {
-      "keyword": "코디",
-      "growth": "+33%",
-      "total_mentions": 49
+      "growth": "+38%",
+      "total_mentions": 62
     },
     {
       "keyword": "haul",
-      "growth": "+200%",
-      "total_mentions": 48
+      "growth": "+29%",
+      "total_mentions": 54
+    },
+    {
+      "keyword": "코디",
+      "growth": "+100%",
+      "total_mentions": 51
     }
   ],
   "most_cross_platform": [
     {
       "keyword": "자라",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
@@ -59,18 +51,10 @@
       "count": 2
     },
     {
-      "keyword": "지그재그",
+      "keyword": "블라우스",
       "platforms": [
-        "x_twitter",
+        "naver",
         "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "은중과 상연",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
       ],
       "count": 2
     }
@@ -79,19 +63,19 @@
     "원피스",
     "바람막이",
     "블라우스",
-    "티셔츠",
-    "올리비아로렌"
+    "올리비아로렌",
+    "티셔츠"
   ],
   "top_keywords_overall": [
     "#ootd",
     "ootd",
     "블라우스",
     "원피스",
-    "outfit",
-    "fashion",
     "바람막이",
     "올리비아로렌",
+    "outfit",
     "티셔츠",
-    "#fashion"
+    "fashion",
+    "남자반팔티"
   ]
 }
