@@ -1,0 +1,925 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "한화이글스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "한화 이 선수는 왜 방망이를 던졌나…1할대 추락 위기에 실망, 강백호 보상선수 울리다 \"약간 타격감 좋지 않아서\"",
+              "url": "https://v.daum.net/v/20260516084302066"
+            },
+            {
+              "title": "한화 문현빈·페라자 ′투런포′ 작렬…kt 잡고 2연승",
+              "url": "https://m.yonhapnewstv.co.kr/news/MYH202605161024420md"
+            },
+            {
+              "title": "'팀 내 홈런 선두' 한화 문현빈 \"나는 형들보다 안타를 더 많이 칠 것\"",
+              "url": "https://www.newsis.com/view/NISX20260515_0003632064"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "티켓링크",
+          "traffic": "1000+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "송해",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "'나는 솔로' 31기 왕따 논란에 MC 송해나가 SNS에 조용히 올린 영상 [MHN:피드]",
+              "url": "https://v.daum.net/v/urxXv53GJJ"
+            },
+            {
+              "title": "[스경X이슈] 따돌림 논란부터 통편집 협박·임신설까지…‘나는 솔로’ 31기, 인간성 실종된 ‘솔로나라’",
+              "url": "https://sports.khan.co.kr/article/202605151243013"
+            },
+            {
+              "title": "정색하던 송해나, 결국 SNS까지 박제했다…‘나솔’ 31기 영상 업로드",
+              "url": "https://www.chosun.com/entertainments/enter_general/2026/05/15/ME3DGNBTGMYDOZRYGRRGENDFGY/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "현역가왕3",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 5,
+          "keyword": "김도영",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "김도영은 축지법을 쓰는 것일까…슬슬 뛰는데 왜 그렇게 빠를까, 급기야 기습적으로 도루 봉인 해제",
+              "url": "https://v.daum.net/v/20260516061205530"
+            },
+            {
+              "title": "[사진] 아데를린, 타점치고 엄지척",
+              "url": "https://www.chosun.com/sports/sports_photo/2026/05/15/MYZDEMDGHFQWEMZVGU3TONTCMY/"
+            },
+            {
+              "title": "[사진] 김도영, 득점 성공 하이파이브",
+              "url": "http://www.osen.co.kr/article/G1112802274"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "한국경제신문사",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "“아리가또 하이닉스”…외국 개미, 한국 증시로 얼마나 몰려올까",
+              "url": "https://v.daum.net/v/20260516090139222"
+            },
+            {
+              "title": "연금개미도 '바이 코리아'…세대별 '황금 포트폴리오'는 [투자톡]",
+              "url": "https://www.hankyung.com/article/2026051339506"
+            },
+            {
+              "title": "'삼전닉스'에 노후 건다…\"하이닉스 11억 투자해 은퇴자금 180억\"",
+              "url": "https://news.nate.com/view/20260516n01841"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "페퍼저축은행 배구단",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "SOOP, 여자배구 페퍼 인수 추진…7구단 체제 유지 유력",
+              "url": "https://www.newsis.com/view/NISX20260516_0003632192"
+            },
+            {
+              "title": "SOOP, 여자 프로배구 페퍼 인수 나선다…7구단 체제 유력",
+              "url": "https://v.daum.net/v/pDQrAvYCHd"
+            },
+            {
+              "title": "SOOP, 페퍼저축은행 인수 확정!…연고지는 아직 미정",
+              "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8562415"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "우스만 뎀벨레",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'음바페 포함' 프랑스 대표팀, 북중미 월드컵 출전 초호화 명단 발표",
+              "url": "https://www.newsis.com/view/NISX20260515_0003630962"
+            },
+            {
+              "title": "'명단 확정' 프랑스의 목표는 우승 사냥...\"음바페-뎀벨레-올리세 조합, 역사상 가장 파괴적\"",
+              "url": "https://www.chosun.com/sports/world-football/2026/05/15/HFQTCMZYGA4TAMZVMNQWGMDGGM/"
+            },
+            {
+              "title": "프랑스 축구대표팀, 월드컵 명단 발표…카마빙가 탈락 '눈길'",
+              "url": "https://www.yna.co.kr/view/AKR20260515046700007"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "장학금",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "충주시장학회, 지역 대학생·교육 소외계층 3억8천만원 장학금 지원",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3582269"
+            },
+            {
+              "title": "“‘배움 늦지 않았다’…충주시장학회, 만학도·쉼터 학생까지 품었다”",
+              "url": "https://www.bzeronews.com/news/articleView.html?idxno=817516"
+            },
+            {
+              "title": "충주시장학회, 대학생 등 148명에 장학금 3억 8천만 원 전격 지원",
+              "url": "https://www.hksisaeconomy.com/news/article.html?no=1135289"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "컵스 대 화이트삭스",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "올해 메이저리그는 '와일드 와일드 NL 센트럴'…5개 팀 모두 승률 5할 이상→大혼전 양상",
+              "url": "https://v.daum.net/v/20260515220202865"
+            },
+            {
+              "title": "'101패→121패→102패' 만년 꼴찌의 대반란! 화이트삭스 승승승승승, 4년 만에 승패마진 +1승",
+              "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=816842"
+            },
+            {
+              "title": "\"3년 연속 100패\" 화이트삭스의 반전...5연승+5할 승률 비결은?",
+              "url": "https://www.mlbkor.com/news/articleView.html?idxno=30043"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 83,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "무신사",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "max muncy",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Dodgers' Max Muncy: Sitting Wednesday",
+              "url": "https://www.cbssports.com/fantasy/baseball/news/dodgers-max-muncy-sitting-wednesday/"
+            },
+            {
+              "title": "Max Muncy News: Sitting Wednesday",
+              "url": "https://www.rotowire.com/baseball/headlines/max-muncy-news-sitting-wednesday-1003003"
+            },
+            {
+              "title": "Worried about Ohtani's slump? Joey Votto isn't. Here's why",
+              "url": "https://www.mlb.com/news/joey-votto-on-shohei-ohtani-offensive-slump"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "sec baseball standings",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "SEC baseball tournament bracket based on standings if regular season ended today",
+              "url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/other-sports/2026/05/14/sec-baseball-tournament-bracket-if-season-ended-today/90082036007/"
+            },
+            {
+              "title": "SEC College Baseball Power Rankings For 2026 | Week 14",
+              "url": "https://www.baseballamerica.com/stories/sec-college-baseball-power-rankings-for-2026-week-14/"
+            },
+            {
+              "title": "Breaking down the SEC tournament seeding in the 'Race for Hoover'",
+              "url": "https://www.espn.com/video/clip/_/id/48774964/breaking-sec-tournament-seeding-race-hoover"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "nick kurtz",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "43-pitch 5th inning sinks Liberatore and Cards in loss to A's",
+              "url": "https://www.mlb.com/news/matthew-liberatore-struggles-in-fifth-inning-in-cardinals-loss"
+            },
+            {
+              "title": "Athletics 6-2 Cardinals (May 13, 2026) Game Recap",
+              "url": "https://www.espn.com/mlb/recap/_/gameId/401815333"
+            },
+            {
+              "title": "Kurtz's slam and Bolte's fierce debut charge A's win",
+              "url": "https://sports.yahoo.com/videos/kurtzs-slam-boltes-fierce-debut-052816285.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "spurs coach",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "How the Spurs are learning from the greats who came before them",
+              "url": "https://www.espn.com/nba/story/_/id/48770686/spurs-young-team-learns-san-antonio-legends-nba-playoffs"
+            },
+            {
+              "title": "The Athletic: How Gregg Popovich quietly became the Spurs’ secret weapon",
+              "url": "https://www.nba.com/news/greg-popovich-mentors-spurs-through-rise"
+            },
+            {
+              "title": "Wemby Reflects on Video of Gregg Popovich Meeting Him at Airport After Ejection in Spurs' G4 Loss",
+              "url": "https://bleacherreport.com/articles/25427428-wemby-reflects-video-gregg-popovich-meeting-him-airport-after-ejection-spurs-g4-loss"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "nep vs usa",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Match Predictions: ICC CWC League 2 2026 - Match 106 - Nepal vs USA - May 16th",
+              "url": "https://www.cricketworld.com/match-predictions-icc-cwc-league-2-2026-match-106-nepal-vs-usa-may-16th/110518.htm"
+            },
+            {
+              "title": "Nepal vs United States of America ODI Today at Tribhuvan University International Cricket Ground, Kirtipur, Nepal stadium",
+              "url": "https://aimamedia.org/newsdetails.aspx?nid=653340"
+            },
+            {
+              "title": "Nepal vs USA Cricket Match Today in ICC Cricket World Cup League 2",
+              "url": "https://english.ratopati.com/story/62979/world-cup-league-2-nepal-and-america-face-off"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "western conference finals",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "When does OKC Thunder play? Western Conference finals schedule scenarios for NBA Playoffs",
+              "url": "https://www.oklahoman.com/story/sports/nba/thunder/2026/05/13/okc-thunder-playoff-schedule-western-conference-finals-2026-nba-playoffs/90070538007/"
+            },
+            {
+              "title": "Open Thread: The NBA releases two Western Conference Finals schedules",
+              "url": "https://www.poundingtherock.com/spurs-discussion-threads/102061/open-thread-the-nba-releases-two-western-conference-finals-schedules"
+            },
+            {
+              "title": "Should Thunder root for Spurs or Timberwolves to advance to West Finals?",
+              "url": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/05/13/should-thunder-root-for-spurs-or-timberwolves-to-advance-to-west-finals/90064169007/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "skylar diggins",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "What happened to Skylar Diggins? Live injury updates for Sky vs. Mercury on 5/15/26",
+              "url": "https://dknetwork.draftkings.com/2026/05/15/what-happened-to-skylar-diggins-live-injury-updates-for-sky-vs-mercury-on-5-15-26/"
+            },
+            {
+              "title": "Valkyries suffer first loss, but Kiah Stokes shows what she can add in tight defensive battle with Sky",
+              "url": "https://www.sfchronicle.com/sports/article/valkyries-suffer-first-2026-loss-tight-defensive-22258012.php"
+            },
+            {
+              "title": "Game Highlights: Chicago Sky vs. Golden State Valkyries (5/13/26)",
+              "url": "https://www.wnba.com/watch/video/game-highlights-chicago-sky-vs-golden-state-valkyries-5-14-26"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "tennessee baseball",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Tennessee baseball vs Oklahoma Game 2 live updates, game delayed in 7th inning",
+              "url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/other-sports/2026/05/15/tennessee-baseball-oklahoma-game-2-live-updates/90002024007/"
+            },
+            {
+              "title": "#24 Vols Erase Early Deficit to Win Series Opener Against #20 Sooners",
+              "url": "https://utsports.com/news/2026/5/14/baseball-24-vols-erase-early-deficit-to-win-series-opener-against-20-sooners"
+            },
+            {
+              "title": "Tennessee Baseball’s Friday Night Matchup At Oklahoma Enters Weather Delay",
+              "url": "https://www.rockytopinsider.com/2026/05/15/tennessee-baseball-friday-night-matchup-at-oklahoma-enters-weather-delay/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "alex rodriguez",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "New York Yankees Legend Alex Rodriguez Makes Bold Aaron Judge Statement",
+              "url": "https://heavy.com/sports/mlb/new-york-yankees/new-york-yankees-legend-alex-rodriguez-makes-bold-aaron-judge-statement/"
+            },
+            {
+              "title": "Alex Rodriguez hails Aaron Judge as baseball’s best hitter right now",
+              "url": "https://www.mogazmasr.com/104538"
+            },
+            {
+              "title": "Alex Rodriguez Compares Current New York Yankees Player To Don Mattingly",
+              "url": "https://heavy.com/sports/mlb/new-york-yankees/alex-rodriguez-compares-current-player-to-don-mattingly/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "royce keys",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "FULL SEGMENT: Royce Keys ruins Gunther’s contract signing with Cody Rhodes: SmackDown, May 15, 2026",
+              "url": "https://www.wwe.com/videos/full-segment-royce-keys-ruins-gunther-s-contract-signing-with-cody-rhodes-smackdown-may-15"
+            },
+            {
+              "title": "Will Gunther Join The SmackDown Brand? | WWE Smackdown 5/15/26 Full Show Review & Highlights",
+              "url": "https://www.fightful.com/podcasts/will-gunther-join-the-smackdown-brand-smackdown-post-show/"
+            },
+            {
+              "title": "How Shift in Plans Changed Creative Fates of Cody Rhodes and Gunther",
+              "url": "https://www.si.com/fannation/wrestling/wwe/how-shift-in-plans-changed-creative-fates-of-cody-rhodes-and-gunther"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 35,
+          "interest_max": 100,
+          "interest_latest": 31,
+          "rank": 1
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 32,
+          "interest_max": 94,
+          "interest_latest": 35,
+          "rank": 2
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 29,
+          "interest_max": 64,
+          "interest_latest": 31,
+          "rank": 3
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 28,
+          "interest_max": 100,
+          "interest_latest": 12,
+          "rank": 4
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 27,
+          "interest_max": 100,
+          "interest_latest": 43,
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 21,
+          "interest_max": 52,
+          "interest_latest": 21,
+          "rank": 6
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 15,
+          "interest_max": 31,
+          "interest_latest": 21,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 4,
+          "interest_max": 21,
+          "interest_latest": 5,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 8,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury jeans spring",
+          "value": "131800"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "toteme",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d10 price",
+          "value": "22900"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette d10 price",
+          "value": "5800"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette d10",
+          "value": "500"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d10",
+          "value": "400"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d10 gta",
+          "value": "400"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "イヴァン・エスピノーサ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "日産の「大赤字発表」が意外にもお通夜状態ではなかった理由。リストラ完了でエスピノーサ社長がニッコリ？",
+              "url": "https://carview.yahoo.co.jp/article/detail/17d557fc083ba7ed166e7deff9968c7148c1b08c/?page=2"
+            },
+            {
+              "title": "日産自動車株価が続伸 27年3月期最終黒字見通し、コスト削減進む",
+              "url": "https://www.nikkei.com/article/DGXZQOFL140DK0U6A510C2000000/"
+            },
+            {
+              "title": "日産、復活なるか 通期業績は5331億円の赤字も2026年度は200億円の黒字見込みへ：製造マネジメントニュース（1/2 ページ）",
+              "url": "https://monoist.itmedia.co.jp/mn/articles/2605/15/news053.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "nep vs usa",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Nepal vs United States of America ODI Today at Tribhuvan University International Cricket Ground, Kirtipur, Nepal stadium",
+              "url": "https://aimamedia.org/newsdetails.aspx?nid=653340"
+            },
+            {
+              "title": "Nepal vs USA Live Streaming: Where To Watch ICC Cricket World Cup League 2 Match On TV, Online In India?",
+              "url": "https://www.ndtvprofit.com/sports/cricket-nepal-vs-usa-live-streaming-telecast-where-to-watch-icc-cricket-world-cup-league-2-match-tv-online-india-fancode-11500755"
+            },
+            {
+              "title": "Nepal to face USA in ICC Cricket World Cup League 2 match",
+              "url": "https://english.khabarhub.com/2026/16/549100/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "八村倫太郎",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "リクルート",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "リクルート最高益、AIリストラにAI伴走で対抗 クイック求人で単価増",
+              "url": "https://www.nikkei.com/article/DGXZQOUC13CTQ0T10C26A5000000/"
+            },
+            {
+              "title": "リクルートHD－連結営業利益は24.8%増の7870億円 27年3月通期計画(IFRS基準)〔DZH 個別株情報〕(時事通信)",
+              "url": "https://finance.yahoo.co.jp/news/detail/a8fd0e4c154d7e3acda51d2c2908cf600a4cf44d"
+            },
+            {
+              "title": "リクルート、今期最終は25％増で4期連続最高益、1円増配へ",
+              "url": "https://kabutan.jp/news/marketnews/?b=k202605150219"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "宝塚記念 2026",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "クロワデュノールは宝塚記念で史上初の春古馬３冠達成へ挑む、鞍上は北村友騎手／有力馬情報（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/daafd08b15ed5f1ce7cb053cc0699e511405b75b"
+            },
+            {
+              "title": "宝塚記念ファン投票スタート",
+              "url": "https://www.jra.go.jp/news/202605/050701.html"
+            },
+            {
+              "title": "【実際の投稿】三笘薫は選外…サッカー日本代表、これがW杯を戦う26選手",
+              "url": "https://www.chunichi.co.jp/article/1251737"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "松尾貴史",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "“静かな終末世界”の道路に並んでいるのは日本車…？深い感動と考察を促す傑作『サンキュー、チャック』",
+              "url": "https://motor-fan.jp/headline/1480334/"
+            },
+            {
+              "title": "松尾貴史が選ぶ今月の映画『サンキュー、チャック』（Numero TOKYO）",
+              "url": "https://news.yahoo.co.jp/articles/768047273544e70ee3492c444072f9caf1c96c9f"
+            },
+            {
+              "title": "「優しくあたたかく染み渡らせる人生讃歌」サンキュー、チャック AZUさんの映画レビュー（感想・評価）",
+              "url": "https://eiga.com/movie/104121/review/06463447/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "愛媛新聞online",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "天皇皇后両陛下「全国植樹祭」などのため愛媛県に出発 即位後初訪問 2018年の西日本豪雨被災者と懇談も予定",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2665209"
+            },
+            {
+              "title": "愛媛 全国植樹祭に伴い１６日から一部区間で交通規制",
+              "url": "https://news.web.nhk/newsweb/na/nb-8000025635"
+            },
+            {
+              "title": "両陛下、27年ぶり愛媛へ 植樹祭やホッキョググマ「ピース」訪問（毎日新聞）",
+              "url": "https://news.yahoo.co.jp/articles/047ad0e64067acec7da730d49134e5b4bba97480"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "安西ひろこ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「なんでまた私なの？」安西ひろこ、突発性難聴を公表した理由　絶望のどん底から救ってくれた“運命の出会い”",
+              "url": "https://topics.smt.docomo.ne.jp/article/encount/entertainment/encount-996606?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch4"
+            },
+            {
+              "title": "「なんでまた私なの？」安西ひろこ、突発性難聴を公表した理由 絶望のどん底から救ってくれた“運命の出会い”",
+              "url": "https://article.auone.jp/detail/1/5/9/570_9_r_20260516_1778893818121901"
+            },
+            {
+              "title": "「なんでまた私なの？」安西ひろこ、突発性難聴を公表した理由 絶望のどん底から救ってくれた\"運命の出会い\"",
+              "url": "https://encount.press/archives/996606/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "竹内夢",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「すごい大人っぽい」「横顔美人」NHK Eテレ『おといつ』おねえさん、雰囲気一変イメチェン報告に反響（ピンズバNEWS）",
+              "url": "https://news.yahoo.co.jp/articles/e3a1f6c6a4f96e2abb86a23e7a3d46d553459d2d"
+            },
+            {
+              "title": "“美貌が話題”26歳のNHK Eテレ『おとうさんといっしょ』おねえさん、雰囲気一変イメチェン報告に反響「すごい大人っぽい」「横顔美人」",
+              "url": "https://pinzuba.news/articles/-/15783?utm_source=yahoo&utm_medium=referral&utm_campaign=photolink&page=2"
+            },
+            {
+              "title": "「すごい大人っぽい」「横顔美人」NHK Eテレ『おといつ』おねえさん、雰囲気一変イメチェン報告に反響",
+              "url": "https://article.auone.jp/detail/1/5/9/458_9_r_20260516_1778885962513575"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "ミュージアムマイル",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ミュージアムマイルはレーン騎手とのコンビで宝塚記念へ、昨年ダービー６着以来２度目の騎乗（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/c83866bc6558b04ddd2f8362c0cdf1985ef519f1"
+            },
+            {
+              "title": "ミュージアムマイルがレーンで宝塚記念へ ダービー６着以来４戦ぶり２度目のコンビ",
+              "url": "https://news.netkeiba.com/?pid=news_view&no=331228"
+            },
+            {
+              "title": "【注目馬動向】宝塚記念で今年初戦を迎えるミュージアムマイル 鞍上はダミアン・レーン騎手に決定",
+              "url": "https://sportsbull.jp/p/2333792/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 42,
+          "interest_max": 100,
+          "interest_latest": 52,
+          "rank": 1
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 38,
+          "interest_max": 100,
+          "interest_latest": 27,
+          "rank": 2
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 24,
+          "interest_max": 100,
+          "interest_latest": 44,
+          "rank": 3
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 13,
+          "interest_max": 60,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 13,
+          "interest_max": 54,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 10,
+          "interest_max": 39,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 37,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 77,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 12,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ストリート 女子",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション 夏",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "gu",
+          "value": "50"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-05-16T03:22:23.710099+00:00"
+}
