@@ -2,7 +2,7 @@
   "date": "2026-05-17",
   "mode": "general",
   "compared_to": "2026-05-16",
-  "total_keywords_today": 455,
+  "total_keywords_today": 437,
   "total_keywords_yesterday": 446,
   "data_days_available": 63,
   "overall_confidence": "high",
@@ -17,17 +17,6 @@
         "naver"
       ],
       "sample_note": "오늘 9건, 어제 8건 기준"
-    },
-    {
-      "keyword": "#tiktok",
-      "change": "+17%",
-      "today_count": 7,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
       "keyword": "에고이스트",
@@ -52,28 +41,6 @@
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "trends",
-      "change": "+100%",
-      "today_count": 6,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 3건 기준"
-    },
-    {
-      "keyword": "editlyrics",
-      "change": "+20%",
-      "today_count": 6,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
-    },
-    {
       "keyword": "여름가디건",
       "change": "+20%",
       "today_count": 6,
@@ -83,6 +50,17 @@
         "naver"
       ],
       "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
+      "keyword": "trends",
+      "change": "+67%",
+      "today_count": 5,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
       "keyword": "may",
@@ -118,6 +96,17 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
+      "keyword": "party",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
       "keyword": "recipe",
       "change": "+33%",
       "today_count": 4,
@@ -129,7 +118,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "party",
+      "keyword": "유행",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -140,15 +129,26 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "today",
-      "change": "+50%",
+      "keyword": "#funny",
+      "change": "+200%",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "funny",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
       "keyword": "fashion",
@@ -162,7 +162,7 @@
       "sample_note": "오늘 2건 (신규)"
     },
     {
-      "keyword": "amp",
+      "keyword": "ideas",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -195,7 +195,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#today",
+      "keyword": "#comedy",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -206,7 +206,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "back",
+      "keyword": "#youtubeshorts",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -217,36 +217,36 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#news",
-      "change": "NEW",
+      "keyword": "comedy",
+      "change": "+100%",
       "today_count": 2,
-      "yesterday_count": 0,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건 (신규)"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "trend",
-      "change": "-19%",
-      "today_count": 17,
+      "change": "-29%",
+      "today_count": 15,
       "yesterday_count": 21,
       "confidence": "high"
     },
     {
       "keyword": "#trending",
-      "change": "-21%",
-      "today_count": 11,
+      "change": "-29%",
+      "today_count": 10,
       "yesterday_count": 14,
       "confidence": "high"
     },
     {
       "keyword": "#viral",
-      "change": "-27%",
-      "today_count": 8,
+      "change": "-45%",
+      "today_count": 6,
       "yesterday_count": 11,
       "confidence": "medium"
     },
@@ -266,37 +266,37 @@
     },
     {
       "keyword": "dance",
-      "change": "-33%",
-      "today_count": 6,
+      "change": "-22%",
+      "today_count": 7,
       "yesterday_count": 9,
       "confidence": "medium"
     },
     {
       "keyword": "#trend",
-      "change": "-14%",
-      "today_count": 6,
+      "change": "-29%",
+      "today_count": 5,
       "yesterday_count": 7,
       "confidence": "medium"
     },
     {
-      "keyword": "hack",
-      "change": "-40%",
-      "today_count": 3,
+      "keyword": "#editlyrics",
+      "change": "-20%",
+      "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "럭키슈에뜨",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
+      "keyword": "#lyrics",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "hacks",
-      "change": "-67%",
-      "today_count": 1,
-      "yesterday_count": 3,
+      "keyword": "nervy",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
       "confidence": "low"
     }
   ],
