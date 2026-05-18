@@ -1,0 +1,918 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "동전주",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "23년전 시트콤 속 460원 '동전주 하닉' 수익률 40만%…\"400만원 가면?\"",
+              "url": "https://www.news1.kr/finance/general-finance/6169451"
+            },
+            {
+              "title": "“100만원만 샀어도”…23년 전 하이닉스 주가 화제 - 조선비즈",
+              "url": "https://biz.chosun.com/topics/topics_social/2026/05/18/ZZXOI4TB5NFSXDPAZ72Z2CLQSU/"
+            },
+            {
+              "title": "\"망하는 줄 알고 다 던졌는데 3900배 폭등\"…상장폐지 걱정하던 공포의 주식이 'AI 핵심' 되기까지",
+              "url": "https://www.asiae.co.kr/article/2026051810161613927"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "별사랑",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "별사랑 임신, 14살 만난 첫사랑과 2세 본다 “활발한 왕자님”",
+              "url": "https://v.daum.net/v/20260518072602411"
+            },
+            {
+              "title": "가수 별사랑, 엄마 된다…\"임신 16주 차, 활발한 왕자님\"",
+              "url": "https://www.news1.kr/entertain/music/6169459"
+            },
+            {
+              "title": "별사랑, 임신 16주 차 \"초반엔 골반 통증…점점 컨디션 회복\"",
+              "url": "https://www.nocutnews.co.kr/news/6518533"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "paris fc vs psg",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Le trophée de champion de France au PSG remis avant le match contre le Paris FC ?",
+              "url": "https://www.lequipe.fr/Football/Actualites/Le-trophee-de-champion-de-france-ne-sera-pas-remis-au-psg-a-jean-bouin-apres-la-derniere-journee-de-ligue-1-face-au-paris-fc/1675777"
+            },
+            {
+              "title": "Ligue 1 : le Paris FC refuse la demande d’organiser la remise du trophée de champion au PSG après le derby à Jean-Bouin",
+              "url": "https://www.leparisien.fr/sports/football/ligue-1/ligue-1-le-paris-fc-refuse-la-demande-dorganiser-la-remise-du-trophee-de-champion-au-psg-apres-le-derby-a-jean-bouin-13-05-2026-4ZQYGPGHRJDMLPW3BTB53XUOTA.php"
+            },
+            {
+              "title": "Photos Ligue 1 : Matchs, Strasbourg 5 - 4 Monaco",
+              "url": "https://madeinfoot.ouest-france.fr/photos-foot/photo-ligue-1-matchs-strasbourg-5---4-monaco-5346.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "nashville vs lafc",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Player Status Report | Nashville SC vs. LAFC - 2026 MLS Season",
+              "url": "https://lafc.com/news/player-status-report-st-louis-city-fc-vs-lafc-2026-mls-season-may-17"
+            },
+            {
+              "title": "Nashville SC - Los Angeles Football Club 3 - 2 | GOAL - Denis Bouanga",
+              "url": "https://onefootball.com/it/video/nashville-sc-los-angeles-football-club-3-2-goal-denis-bouanga-3DsUyZYATHk2rmEXJlcZHqwp6wp"
+            },
+            {
+              "title": "Nashville SC - Los Angeles Football Club 2 - 1 | GOL - Hany Mukhtar",
+              "url": "https://onefootball.com/it/video/nashville-sc-los-angeles-football-club-2-1-gol-hany-mukhtar-3DsV8zVmzZfFHwGBATXVjJaGowj"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "케스턴 히우라",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 6,
+          "keyword": "손흥민",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "손흥민, 빛바랜 '9호 도움+폭풍 질주'…팀 내 4번째 평점",
+              "url": "https://www.newsis.com/view/NISX20260518_0003633837"
+            },
+            {
+              "title": "‘손흥민 리그 9호 도움’ LAFC, 내슈빌에 2-3으로 져 3연패",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8563409"
+            },
+            {
+              "title": "손흥민, 4번째 월드컵 출격 앞두고 리그 9호 도움...LAFC는 패배",
+              "url": "https://www.ytn.co.kr/_ln/0107_202605181217242957"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "테니스",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "세계 1위 신네르, 조코비치 이어 역대 두번째로 ‘커리어 골든 마스터스’ 달성",
+              "url": "https://www.chosun.com/international/international_general/2026/05/18/NC4LYM2UAZBIFKSC6ZHD3T5PP4/"
+            },
+            {
+              "title": "얀니크 신네르, 이탈리아 오픈 우승하며 '커리어 골든 마스터스' 완성 [뉴시스Pic]",
+              "url": "https://www.newsis.com/view/NISX20260518_0003633292"
+            },
+            {
+              "title": "‘테니스 세계 1위’ 신네르, ‘커리어 골든 마스터스’ 달성",
+              "url": "https://www.hani.co.kr/arti/sports/sports_general/1259135.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "현대",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[단독] 철도공단 \"조속한 기둥 보강 필요\"‥서울시 보강 방안에도 '우려'",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6823279_36918.html"
+            },
+            {
+              "title": "여야, 'GTX 철근 누락' 공방…\"吳, 사실 은폐\"·\"허위사실 유포\"",
+              "url": "https://www.yna.co.kr/view/AKR20260518081200001"
+            },
+            {
+              "title": "정원오 “안전불감증” 오세훈 “쫓기는 모양”…민생 공약도 나란히 발표",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8563002"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "에어로케이",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "에어로케이항공, ‘2026 청주 채용박람회’ 참가…지역 청년 채용 확대 나서",
+              "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1078656"
+            },
+            {
+              "title": "\"청주공항 성장에 지역 일자리도 함께\"…에어로케이항공, 청주 채용박람회 참가",
+              "url": "https://news.nate.com/view/20260515n28792"
+            },
+            {
+              "title": "‘2026 청주채용박람회’…“구직자에 취업 기회 제공했다”",
+              "url": "https://www.seenews365.com/news/articleView.html?idxno=64913"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "국가유산",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "문화·자연·무형유산위원회 하나로 통합…제1대 국가유산위원회 출범",
+              "url": "https://www.newsis.com/view/NISX20260518_0003633474"
+            },
+            {
+              "title": "제1대 국가유산위원회 출범…위원 134명 위촉",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8563471"
+            },
+            {
+              "title": "문화·자연·무형유산위원회, 하나로…위원장에 전봉희 교수",
+              "url": "https://www.yna.co.kr/view/AKR20260515177000005"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 68,
+          "interest_max": 100,
+          "interest_latest": 88,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 6,
+          "interest_max": 19,
+          "interest_latest": 19,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 40,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 28,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 30,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "nep vs sco",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Cricket World Cup League 2: Scotland hold nerve to beat Nepal in rain-affected ODI",
+              "url": "https://www.bbc.co.uk/sport/cricket/articles/c759rvx25veo"
+            },
+            {
+              "title": "Score KOR vs PHI, South Korea vs Philippines, T20I Tri-Series in Japan, 2026 Score at Daily News & Analysis",
+              "url": "https://www.dnaindia.com/live-cricket-score/south-korea-vs-philippines-match-1-t20i-tri-series-in-japan-2026-match-113474"
+            },
+            {
+              "title": "NEP Vs SCO: Nepal Bowled Brilliantly 154/10 | Martin Guptill Joined NPL! WHAT A NIGHT! (D2rNlpLCfv)",
+              "url": "https://fathomjournal.org/3f649f61smm/97787d27-aI99cGE2BL8.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "edc las vegas 2026",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "EDC's 30th anniversary brings economic boost to Las Vegas",
+              "url": "https://news3lv.com/news/local/edcs-30th-anniversary-brings-economic-boost-to-las-vegas"
+            },
+            {
+              "title": "Tune in to EDC Las Vegas on YouTube, live May 15-17",
+              "url": "https://blog.youtube/news-and-events/edc-2026-las-vegas-youtube-live/"
+            },
+            {
+              "title": "Las Vegas gears up for a packed weekend with EDC, X Games stunt and new day club opening",
+              "url": "https://www.ktnv.com/news/las-vegas-gears-up-for-a-packed-weekend-with-edc-x-games-stunt-and-new-day-club-opening"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "jamie vardy",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Jamie Vardy reveals shock Leicester City request and why trio said 'it's not happening'",
+              "url": "https://www.leicestermercury.co.uk/sport/football/football-news/leicester-city-jamie-vardy-transfer-10969303"
+            },
+            {
+              "title": "Rebekah Vardy clarifies rumours Jamie Vardy could make sensational Leicester return",
+              "url": "https://www.mirror.co.uk/sport/football/news/jamie-vardy-leicester-transfer-rebekah-37152424"
+            },
+            {
+              "title": "Jamie Vardy plans Leicester return to end career story",
+              "url": "https://tribuna.com/en/news/2026-05-12-jamie-vardy-plans-leicester-return-to-end-career-story/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "liga mx final",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Cruz Azul apunta a jugar Final en el Estadio Cuauhtémoc, fuentes",
+              "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/16722848/liga-mx-clausura-2026-cruz-azul-local-final-estadio-cuahtemoc"
+            },
+            {
+              "title": "Lista la Final del Clausura 2026: Cruz Azul y Pumas se disputarán el título después de 45 años",
+              "url": "https://www.telemundo.com/deportes/liga-mx/lista-la-final-del-clausura-2026-cruz-azul-y-pumas-se-disputaran-el-ti-rcna345614"
+            },
+            {
+              "title": "Cruz Azul vs. Pumas: Cuándo juegan por la final de la Liguilla del Clausura 2026 de Liga MX",
+              "url": "https://es-us.noticias.yahoo.com/deportes/cruz-azul-vs-pumas-cu%C3%A1ndo-030600545.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "hope movie 2026",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "‘Hope’ Review: Na Hong-jin’s Overlong Creature Feature is a Guns-Blazing Riot of Bawdy Humor, Bad CGI and Brilliant Action",
+              "url": "https://variety.com/2026/film/reviews/hope-review-na-hong-jin-1236750496/"
+            },
+            {
+              "title": "Neon Debuts Official Teaser For Na Hong-Jin’s Buzzy Cannes Title ‘Hope’; Sets Fall Theatrical Release",
+              "url": "https://deadline.com/2026/05/neon-teaser-na-hong-jin-hope-film-cannes-theatrical-release-1236913983/"
+            },
+            {
+              "title": "‘Hope’ Unleashes a Bats— Crazy Korean Monster Movie on Cannes and Earns 6-Minute Standing Ovation",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/hope-unleashes-bats-crazy-korean-223824461.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "keke palmer",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Boots Riley Urges ‘I Love Boosters’ Audiences To See Film On Opening Weekend Or “It’s Game Over”",
+              "url": "https://deadline.com/2026/05/boots-riley-urges-see-i-love-boosters-opening-weekend-1236913690/"
+            },
+            {
+              "title": "Keke Palmer & Lizzo Gave Sisterhood And Style At The ‘I Love Boosters’ Premiere",
+              "url": "https://hellobeautiful.com/4591952/keke-palmer-lizzo/"
+            },
+            {
+              "title": "Celebrity Shoes at the ‘I Love Boosters’ Premiere: Keke Palmer, Lizzo and More [PHOTOS]",
+              "url": "https://wwd.com/footwear-news/shoe-trends/gallery/i-love-boosters-shoes-premiere-photos-1238955163/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "downton abbey",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "DOWNTON ABBEY Returns to PBS!",
+              "url": "https://www.movieguide.org/news-articles/downton-abbey-returns-to-pbs.html"
+            },
+            {
+              "title": "Sunday, May 17",
+              "url": "https://www.wgbh.org/foundation/digital-mural/2026-05-17/sunday-may-17"
+            },
+            {
+              "title": "‘Downton Abbey’ Historical Advisor Alastair Bruce Spills Tea as Show Returns to PBS",
+              "url": "https://www.imdb.com/it/news/ni65838809/?ref_=nwc_art_perm"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "danielle deadwyler",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "New ‘X-Files’ Star Reacts to Gillian Anderson’s Plea",
+              "url": "https://www.thedailybeast.com/obsessed/new-x-files-star-danielle-deadwyler-reacts-to-gillian-andersons-plea/"
+            },
+            {
+              "title": "Danielle Deadwyler Addresses Backlash Over X-Files Casting",
+              "url": "https://www.asatunews.co.id/en/danielle-deadwyler-addresses-xfiles-backlash"
+            },
+            {
+              "title": "Danielle Deadwyler responds to backlash over X-Files reboot casting with Gillian Anderson's input",
+              "url": "https://artthreat.net/34464-84450-danielle-deadwyler-responds-to-backlash-over-x-files-reboot-casting-with-gillian/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "jaylon tyson",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Where is Jaylon Tyson? Why Cavs' young wing lost playing time vs. Pistons",
+              "url": "https://sports.yahoo.com/articles/where-jaylon-tyson-why-cavs-233407065.html"
+            },
+            {
+              "title": "Cavaliers have kicked these players to the curb in war with Pistons",
+              "url": "https://kingjamesgospel.com/cavaliers-have-kicked-these-players-to-curb-in-war-with-pistons"
+            },
+            {
+              "title": "Cavaliers' Game 7 hero was the guy no team wanted to sign",
+              "url": "https://kingjamesgospel.com/cavaliers-game-7-hero-was-guy-no-team-wanted-to-sign-sam-merrill"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "tristan thompson",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Tristan Thompson Details His Early Stake in Anthropic and How He Brought His Friends into the Deal",
+              "url": "https://www.theqgentleman.com/post/2026-05-tristan-thompson-details-his-early-stake-in-anthropic-and-how-he-brought-his-friends-into-the-deal/"
+            },
+            {
+              "title": "Tristan Thompson explains how he invested in Anthropic …",
+              "url": "https://www.aol.com/articles/tristan-thompson-explains-invested-anthropic-120248000.html"
+            },
+            {
+              "title": "Tristan Thompson on why he is investing in crypto after basketball career",
+              "url": "https://www.basketballnetwork.net/off-the-court/tristan-thompson-reveals-why-he-is-investing-in-crypto-after-his-basketball-career"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 35,
+          "interest_max": 100,
+          "interest_latest": 34,
+          "rank": 1
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 31,
+          "interest_max": 67,
+          "interest_latest": 33,
+          "rank": 2
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 30,
+          "interest_max": 91,
+          "interest_latest": 33,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 27,
+          "interest_max": 100,
+          "interest_latest": 36,
+          "rank": 4
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 22,
+          "interest_max": 53,
+          "interest_latest": 36,
+          "rank": 5
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 20,
+          "interest_max": 100,
+          "interest_latest": 11,
+          "rank": 6
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 15,
+          "interest_max": 36,
+          "interest_latest": 15,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 4,
+          "interest_max": 19,
+          "interest_latest": 8,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 2,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 7,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury jeans spring",
+          "value": "121700"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury interior design",
+          "value": "40"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "maga",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "戦争で左派と右派が対立する理由～イラン戦争は”不合理な聖戦”なのか？宗教と国際政治【豊島晋作のテレ東ワールドポリティクス】",
+              "url": "https://txbiz.tv-tokyo.co.jp/world/vod/post_340515"
+            },
+            {
+              "title": "イラン戦争、「ＭＡＧＡ内紛」の火種に…忠誠派と反戦派「裏切り者」罵り合い（ハンギョレ新聞）",
+              "url": "https://news.yahoo.co.jp/articles/9a15687ef0731f51fd8d6b7eb09806e93144a797"
+            },
+            {
+              "title": "戦争で左派と右派が対立する理由～イラン戦争は”不合理な聖戦”なのか？宗教と国際政治【豊島晋作のテレ東ワールドポリティクス】 (I3VAZQVZpX)",
+              "url": "https://fathomjournal.org/cfb179f3smm/fffdd5ce-4D9kz9LL_Oo.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "日本銀行",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "「利上げ→日銀の赤字拡大」で打つ手なし？ 止められない円安が招く物価高の絶望シナリオ（東洋経済オンライン）",
+              "url": "https://news.yahoo.co.jp/articles/31d1dc07cdf28807c1884a56caaa8c3dbdd548e5"
+            },
+            {
+              "title": "日銀6月利上げ？金利上昇に強い「銀行以外」の高配当金融株5選",
+              "url": "https://media.rakuten-sec.net/articles/-/52407"
+            },
+            {
+              "title": "日銀の追加利上げ、年内2回を予想－カーライル日本代表富岡氏",
+              "url": "https://www.bloomberg.com/jp/news/articles/2026-05-18/TF7KWXT96OSG00"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ブラジル代表メンバー発表",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "仏メンバー26人発表 サッカーW杯",
+              "url": "https://news.yahoo.co.jp/pickup/6580208"
+            },
+            {
+              "title": "「マジかよ」「衝撃デカすぎる」日本の深夜にもたらされた世界１位の“公式発表”にネット騒然「選手層が異次元」「やばすぎやろ」",
+              "url": "https://www.soccerdigestweb.com/news/detail/id=190550"
+            },
+            {
+              "title": "フランス代表のデシャン監督が26名の選考理由に言及…落選のカマヴィンガに「腹を立てるのも当然で気持ちは理解できる」",
+              "url": "https://www.soccer-king.jp/news/world/wc/20260515/2159576.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "ジョアン・ミル",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "MotoGPカタルニアGP、レース後に複数のペナルティ。ホンダのジョアン・ミルは2位から13位に降格",
+              "url": "https://jp.motorsport.com/motogp/news/final-catalan-gp-results-as-five-riders-penalised-and-joan-mir-loses-motogp-podium/10821801/"
+            },
+            {
+              "title": "調査が行われているにもかかわらず、ジョアン・ミルはバルセロナでの表彰台入りを喜んでいる。",
+              "url": "https://www.autohebdo.jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/motogp/%E8%AA%BF%E6%9F%BB%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AB%E3%82%82%E3%81%8B%E3%81%8B%E3%82%8F%E3%82%89%E3%81%9A%E3%80%81%E3%82%B8%E3%83%A7%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%AB%E3%81%AF%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A%E3%81%A7%E3%81%AE%E8%A1%A8%E5%BD%B0%E5%8F%B0%E5%85%A5%E3%82%8A%E3%82%92%E5%BF%83%E3%81%8B%E3%82%89%E5%96%9C%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%80%82.html"
+            },
+            {
+              "title": "Honda HRC Castrolチーム、カタルニアへ挑む",
+              "url": "https://honda.racing/ja/motogp/post/catalunya-calls-the-honda-hrc-castrol-team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "アビガン",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "上野厚労相 ハンタウイルスめぐり イギリスに「アビガン」提供",
+              "url": "https://news.web.nhk/newsweb/na/na-k10015124481000"
+            },
+            {
+              "title": "抗ウイルス薬「アビガン」をイギリスに提供 上野厚労大臣が発表 過去の動物実験でハンタウイルスに感染後の生存率を上げる結果（TBS NEWS DIG Powered by JNN）",
+              "url": "https://news.yahoo.co.jp/articles/847df08e171db79f872cb52b2dd9a36f6abc0529"
+            },
+            {
+              "title": "画像・写真：英に備蓄薬提供：時事ドットコム",
+              "url": "https://www.jiji.com/jc/p?id=20260518123035-0091084353"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "セブンイレブン スンスン",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "セブン‐イレブンとパペットスンスンがコラボ！オリジナルパン＆スイーツが登場!!限定グッズや抽選キャンペーンも!!",
+              "url": "https://hobby.dengeki.com/news/3014817/"
+            },
+            {
+              "title": "セブン‐イレブンで「パペットスンスン」コラボが開催決定！スンスンの「ふわあっ♪」をキーワードにした、オリジナルパン＆スイーツなどを販売（インサイド）",
+              "url": "https://news.yahoo.co.jp/articles/e1303a013946934906b298073602a96a6d8f2260"
+            },
+            {
+              "title": "「パペットスンスン」Happyくじ初登場 おしゃべりぬいぐるみや録り下ろしボイス入りの時計も",
+              "url": "https://jocr.jp/raditopi/2026/05/15/690530/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "金正恩",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "金正恩要求加强守卫南部边境的一线部队",
+              "url": "http://www.xinhuanet.com/photo/20260518/b6430d2fd4834bd181d09a6209e8b8a5/c.html"
+            },
+            {
+              "title": "金正恩指示朝军 加强朝韩边境军力部署",
+              "url": "https://news.seehua.com/post/1486054"
+            },
+            {
+              "title": "金正恩训示指挥官 要求强化韩国边界前线部队",
+              "url": "https://www.kwongwah.com.my/20260518/%E9%87%91%E6%AD%A3%E6%81%A9%E8%AE%AD%E7%A4%BA%E6%8C%87%E6%8C%A5%E5%AE%98-%E8%A6%81%E6%B1%82%E5%BC%BA%E5%8C%96%E9%9F%A9%E5%9B%BD%E8%BE%B9%E7%95%8C%E5%89%8D%E7%BA%BF%E9%83%A8%E9%98%9F/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "森岡毅",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "森岡毅氏「刀」が横浜“新テーマパーク”構想にも関与…懸念と課題は",
+              "url": "https://gendai.media/articles/-/166848"
+            },
+            {
+              "title": "不穏つづきのサイゼリヤ「不味くなった論争＆株価大暴落」そのウラで“宿敵”カプリチョーザが下剋上か",
+              "url": "https://gendai.media/articles/-/166931"
+            },
+            {
+              "title": "サイゼリヤの株価はなぜ下がったのか？株価急落で垣間見えた飲食業界の弱点",
+              "url": "https://dime.jp/genre/2113080/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "長期金利",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "イオン 株価",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "イオン株「最高値からほぼ半値」の衝撃 それでも高い市場の期待、どう応える？（ITmedia ビジネスオンライン）",
+              "url": "https://news.yahoo.co.jp/articles/6fc08862ecfeb809b6e4dd84cbc18d0026aef1eb"
+            },
+            {
+              "title": "イオンが株主優待を5月から拡充。「オーナーズカード」のキャッシュバックと合わせ生活防衛を強化",
+              "url": "https://www.huffingtonpost.jp/entry/story_jp_69ffdaa3e4b0cb033e51fd85"
+            },
+            {
+              "title": "イオン株「最高値からほぼ半値」の衝撃 それでも高い市場の期待、どう応える？（1/3 ページ）",
+              "url": "https://www.itmedia.co.jp/business/articles/2605/18/news030.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 45,
+          "interest_max": 100,
+          "interest_latest": 37,
+          "rank": 1
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 36,
+          "interest_max": 100,
+          "interest_latest": 36,
+          "rank": 2
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 34,
+          "interest_max": 100,
+          "interest_latest": 29,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 17,
+          "interest_max": 74,
+          "interest_latest": 13,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 11,
+          "interest_max": 43,
+          "interest_latest": 17,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 10,
+          "interest_max": 52,
+          "interest_latest": 13,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 58,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 1,
+          "interest_max": 16,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 12,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファスト ファッション",
+          "value": "70100"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "スカイ スキャナー",
+          "value": "350"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション 雑誌",
+          "value": "160"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 アイドル 空港 ファッション",
+          "value": "150"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "musinsa",
+          "value": "80"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-05-18T03:51:36.728631+00:00"
+}
