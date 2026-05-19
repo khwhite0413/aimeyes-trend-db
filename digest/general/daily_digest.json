@@ -2,11 +2,22 @@
   "date": "2026-05-19",
   "mode": "general",
   "compared_to": "2026-05-18",
-  "total_keywords_today": 444,
+  "total_keywords_today": 459,
   "total_keywords_yesterday": 473,
   "data_days_available": 65,
   "overall_confidence": "high",
   "rising": [
+    {
+      "keyword": "#shorts",
+      "change": "+7%",
+      "today_count": 15,
+      "yesterday_count": 14,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 15건, 어제 14건 기준"
+    },
     {
       "keyword": "#viral",
       "change": "+33%",
@@ -17,6 +28,17 @@
         "youtube"
       ],
       "sample_note": "오늘 12건, 어제 9건 기준"
+    },
+    {
+      "keyword": "#trending",
+      "change": "+22%",
+      "today_count": 11,
+      "yesterday_count": 9,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 11건, 어제 9건 기준"
     },
     {
       "keyword": "dance",
@@ -52,6 +74,17 @@
       "sample_note": "오늘 8건, 어제 7건 기준"
     },
     {
+      "keyword": "#tiktok",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
       "keyword": "여성여름자켓",
       "change": "+20%",
       "today_count": 6,
@@ -61,6 +94,28 @@
         "naver"
       ],
       "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
+      "keyword": "hacks",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "#dance",
+      "change": "+300%",
+      "today_count": 4,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 1건 기준"
     },
     {
       "keyword": "vs",
@@ -85,15 +140,15 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#dance",
-      "change": "+200%",
+      "keyword": "home",
+      "change": "+50%",
       "today_count": 3,
-      "yesterday_count": 1,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
       "keyword": "celebrity",
@@ -108,6 +163,17 @@
     },
     {
       "keyword": "major",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "street",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -160,88 +226,15 @@
         "youtube"
       ],
       "sample_note": "오늘 2건 (신규)"
-    },
-    {
-      "keyword": "#music",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#duet",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#viralshorts",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#usa",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#usashorts",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#vs",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
-      "keyword": "#shorts",
-      "change": "-7%",
-      "today_count": 13,
-      "yesterday_count": 14,
-      "confidence": "high"
-    },
-    {
       "keyword": "trend",
-      "change": "-25%",
-      "today_count": 9,
+      "change": "-17%",
+      "today_count": 10,
       "yesterday_count": 12,
-      "confidence": "medium"
+      "confidence": "high"
     },
     {
       "keyword": "바람막이",
@@ -258,6 +251,13 @@
       "confidence": "medium"
     },
     {
+      "keyword": "trends",
+      "change": "-14%",
+      "today_count": 6,
+      "yesterday_count": 7,
+      "confidence": "medium"
+    },
+    {
       "keyword": "에고이스트",
       "change": "-17%",
       "today_count": 5,
@@ -265,7 +265,7 @@
       "confidence": "medium"
     },
     {
-      "keyword": "#tiktok",
+      "keyword": "may",
       "change": "-20%",
       "today_count": 4,
       "yesterday_count": 5,
@@ -279,27 +279,29 @@
       "confidence": "low"
     },
     {
-      "keyword": "#viralvideo",
-      "change": "-100%",
-      "today_count": 0,
+      "keyword": "mashup",
+      "change": "-25%",
+      "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "#food",
-      "change": "-50%",
-      "today_count": 2,
+      "keyword": "philippines",
+      "change": "-25%",
+      "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "food",
-      "change": "-50%",
-      "today_count": 2,
+      "keyword": "party",
+      "change": "-25%",
+      "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     }
   ],
-  "new_entries": [],
+  "new_entries": [
+    "snacks"
+  ],
   "cross_platform_hot": []
 }
