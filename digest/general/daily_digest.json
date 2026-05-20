@@ -2,7 +2,7 @@
   "date": "2026-05-20",
   "mode": "general",
   "compared_to": "2026-05-19",
-  "total_keywords_today": 470,
+  "total_keywords_today": 467,
   "total_keywords_yesterday": 459,
   "data_days_available": 66,
   "overall_confidence": "high",
@@ -19,6 +19,17 @@
       "sample_note": "오늘 12건, 어제 10건 기준"
     },
     {
+      "keyword": "#tiktok",
+      "change": "+17%",
+      "today_count": 7,
+      "yesterday_count": 6,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 7건, 어제 6건 기준"
+    },
+    {
       "keyword": "hacks",
       "change": "+20%",
       "today_count": 6,
@@ -28,6 +39,17 @@
         "youtube"
       ],
       "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
+      "keyword": "editlyrics",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
       "keyword": "diy",
@@ -52,29 +74,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "editlyrics",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#funny",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#youtubeshorts",
+      "keyword": "#lyrics",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -85,18 +85,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "funny",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "youtubeshorts",
+      "keyword": "lyrics",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -105,6 +94,17 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "today",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
       "keyword": "#recipe",
@@ -184,7 +184,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#lyrics",
+      "keyword": "#editlyrics",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -195,7 +195,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "lyrics",
+      "keyword": "ela",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -206,7 +206,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#neetubisht",
+      "keyword": "ké",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -217,7 +217,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#lakhneet",
+      "keyword": "cavucadinha",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -231,16 +231,9 @@
   "declining": [
     {
       "keyword": "#shorts",
-      "change": "-13%",
-      "today_count": 13,
-      "yesterday_count": 15,
-      "confidence": "high"
-    },
-    {
-      "keyword": "#viral",
-      "change": "-8%",
+      "change": "-27%",
       "today_count": 11,
-      "yesterday_count": 12,
+      "yesterday_count": 15,
       "confidence": "high"
     },
     {
@@ -259,10 +252,10 @@
     },
     {
       "keyword": "#trending",
-      "change": "-18%",
-      "today_count": 9,
+      "change": "-9%",
+      "today_count": 10,
       "yesterday_count": 11,
-      "confidence": "medium"
+      "confidence": "high"
     },
     {
       "keyword": "티셔츠",
@@ -280,8 +273,8 @@
     },
     {
       "keyword": "dance",
-      "change": "-22%",
-      "today_count": 7,
+      "change": "-11%",
+      "today_count": 8,
       "yesterday_count": 9,
       "confidence": "medium"
     },
@@ -294,6 +287,13 @@
     },
     {
       "keyword": "올리비아로렌",
+      "change": "-11%",
+      "today_count": 8,
+      "yesterday_count": 9,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "여름원피스",
       "change": "-11%",
       "today_count": 8,
       "yesterday_count": 9,
