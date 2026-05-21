@@ -2,21 +2,32 @@
   "date": "2026-05-21",
   "mode": "general",
   "compared_to": "2026-05-20",
-  "total_keywords_today": 455,
+  "total_keywords_today": 450,
   "total_keywords_yesterday": 467,
   "data_days_available": 67,
   "overall_confidence": "high",
   "rising": [
     {
+      "keyword": "#shorts",
+      "change": "+36%",
+      "today_count": 15,
+      "yesterday_count": 11,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 15건, 어제 11건 기준"
+    },
+    {
       "keyword": "#viral",
-      "change": "+17%",
-      "today_count": 14,
+      "change": "+25%",
+      "today_count": 15,
       "yesterday_count": 12,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 14건, 어제 12건 기준"
+      "sample_note": "오늘 15건, 어제 12건 기준"
     },
     {
       "keyword": "trend",
@@ -107,6 +118,17 @@
       "sample_note": "오늘 10건, 어제 8건 기준"
     },
     {
+      "keyword": "diy",
+      "change": "+125%",
+      "today_count": 9,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 9건, 어제 4건 기준"
+    },
+    {
       "keyword": "올리비아로렌",
       "change": "+12%",
       "today_count": 9,
@@ -116,17 +138,6 @@
         "naver"
       ],
       "sample_note": "오늘 9건, 어제 8건 기준"
-    },
-    {
-      "keyword": "diy",
-      "change": "+75%",
-      "today_count": 7,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 4건 기준"
     },
     {
       "keyword": "여성여름자켓",
@@ -206,36 +217,18 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#trend",
-      "change": "+50%",
+      "keyword": "#explore",
+      "change": "+200%",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "여름블라우스",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "naver"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
     }
   ],
   "declining": [
-    {
-      "keyword": "#trending",
-      "change": "-10%",
-      "today_count": 9,
-      "yesterday_count": 10,
-      "confidence": "medium"
-    },
     {
       "keyword": "여름자켓",
       "change": "-14%",
@@ -293,16 +286,20 @@
       "confidence": "low"
     },
     {
-      "keyword": "lifehacks",
-      "change": "-33%",
-      "today_count": 2,
+      "keyword": "today",
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "home",
+      "change": "-67%",
+      "today_count": 1,
       "yesterday_count": 3,
       "confidence": "low"
     }
   ],
-  "new_entries": [
-    "acting",
-    "challenge"
-  ],
+  "new_entries": [],
   "cross_platform_hot": []
 }
