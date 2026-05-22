@@ -1,0 +1,944 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "제주반도체 주가",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "어닝서프라이즈 이어 \"자사주 소각\"…제주반도체의 자신감",
+              "url": "https://www.hankyung.com/article/202605212498i"
+            },
+            {
+              "title": "제주반도체 주가, 상한가 기록... 웃음꽃",
+              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1159708"
+            },
+            {
+              "title": "[단독] 레거시 반도체의 기습 -> 제주반도체, 글로벌 AP 거두들과 공급망 전격 확정 => 온디바이스 AI 탑재 열풍 = 저전력 팹리스 절대강자 제주반도체 실적 신기록 정조준",
+              "url": "http://www.thedailymoney.com/news/articleView.html?idxno=1140316"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "정유경",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "‘탱크데이’ 논란 속 청소년 역사 인식 ‘빨간 불’…\"교실에 스며든 ‘영 일베’ 문제도\"",
+              "url": "https://news.jtbc.co.kr/article/NB12299454"
+            },
+            {
+              "title": "부산 북구갑 박민식 \"스벅에 인민재판\" 주장 논란",
+              "url": "https://v.daum.net/v/20260522115303656"
+            },
+            {
+              "title": "보훈장관 \"스타벅스 코리아 깊은 유감‥5·18 허위사실 모니터링 강화\"",
+              "url": "https://imnews.imbc.com/news/2026/politics/article/6824524_36911.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "관악산",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "빅터 레이예스",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "뜨거워지는 레이예스의 방망이, KBO리그 최초 안타왕 3연패 도전",
+              "url": "https://v.daum.net/v/20260522064701767"
+            },
+            {
+              "title": "202안타 이어 또? 쉬지 않는 안타기계, 또 '韓 최다' 도전…22G 연속안타 경신 도전 - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/05/22/202605220806778585O"
+            },
+            {
+              "title": "202안타 이어 또? 쉬지 않는 안타기계, 또 '韓 최다' 도전…22G 연속안타 경신 도전",
+              "url": "https://www.chosun.com/sports/baseball/2026/05/22/MJSWKNJUHE4DGODFMQ2DAOJSME/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "lg트윈스",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "‘삼성 방출→LG 재취업’ 포수, 불법 촬영 등 사생활 논란 공식 입장 “전 여친이 도용…불법적인 일을 한 적이 없다”",
+              "url": "https://v.daum.net/v/20260522091153027"
+            },
+            {
+              "title": "\"女 20명과 바람, 몸캠·불법촬영\" LG 김민수, 전면 부인…\"파혼한 전 여자친구가 계정 도용해 작성\"",
+              "url": "https://www.fnnews.com/news/202605220202478467"
+            },
+            {
+              "title": "“여자 20명과 바람, 불법 촬영도 했다” SNS 계정에 자백? 김민수와 면담한 LG “전 여친 작성, 불법 촬...",
+              "url": "https://sports.khan.co.kr/article/202605211807003"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "이호준",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'진짜 트레이드 신의 한 수 됐다' 드디어 KBO 1위 기록 다시 찾나 '또 클린업 트리오' 선발 출격! [잠실 현장]",
+              "url": "https://v.daum.net/v/20260521170353454"
+            },
+            {
+              "title": "ERA 최민석·다승 김건우·홀드 우강훈… ‘영건의 반란’",
+              "url": "https://www.munhwa.com/article/11590720"
+            },
+            {
+              "title": "[사진]이호준 감독,'승리가 필요해'",
+              "url": "https://www.chosun.com/sports/sports_photo/2026/05/21/MQ4DSMZXMVSTEZJWGU4GKYJUMY/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "김하성",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "MLB 김하성, 1안타 포함 멀티 출루…타율 0.115",
+              "url": "https://v.daum.net/v/7uwTMJfzHT"
+            },
+            {
+              "title": "애틀랜타 김하성, 1안타 포함 '멀티 출루'‥시즌 첫 도루도 성공",
+              "url": "https://imnews.imbc.com/news/2026/sports/article/6824567_36946.html"
+            },
+            {
+              "title": "'땅볼-156km 강속구 공략 안타-삼진-볼넷-도루' 김하성 2G 연속 안타, 팀은 2연승 [ATL 리뷰] - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/05/22/202605220757779304O"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "티켓링크",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "\"공연 1만 원 할인권 신청하세요\"…8월 20일까지 24만 장 배포",
+              "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964851&pWise=sub&pWiseSub=C1"
+            },
+            {
+              "title": "NOL, 공연 관람 문턱 낮춘다…‘2026 관람료 지원사업’ 동참",
+              "url": "https://v.daum.net/v/20260522090219720"
+            },
+            {
+              "title": "뮤지컬·클래식 티켓 1만원 할인…22일부터 선착순 1인 2매",
+              "url": "https://www.newsis.com/view/NISX20260521_0003638744"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "knicks vs cavaliers",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Cleveland Cavaliers vs New York Knicks May 21, 2026 Game Summary",
+              "url": "https://www.nba.com/game/cle-vs-nyk-0042500302"
+            },
+            {
+              "title": "Jalen Brunson leads Knicks back from 22 down in the 4th for 115-104 win over Cavs in OT in Game 1",
+              "url": "https://apnews.com/article/cavaliers-knicks-score-eastern-conference-finals-9fc0d93422e35926bda74c987f672502"
+            },
+            {
+              "title": "Knicks 115-104 Cavaliers (May 19, 2026) Final Score",
+              "url": "https://www.espn.com/nba/game/_/gameId/401873341/cavaliers-knicks"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "국민카드",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "KB국민카드·토스, '자립준비청년' 경제 독립 지원한다",
+              "url": "https://www.newsis.com/view/NISX20260520_0003637832"
+            },
+            {
+              "title": "국민카드, 자립준비청년에 금융지원…신용관리 이용권 제공",
+              "url": "https://www.g-enews.com/view.php?ud=202605191102374313a6e8311f64_1&mobile=1"
+            },
+            {
+              "title": "[카드업계 소식] KB국민카드, NH농협카드",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=259654"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 34,
+          "interest_max": 100,
+          "interest_latest": 41,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 2,
+          "interest_max": 9,
+          "interest_latest": 5,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 49,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 41,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 74,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 55,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 2,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 28,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "gavin mckenna",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Pros and cons of every path Maple Leafs could take with No. 1 pick",
+              "url": "https://www.sportsnet.ca/nhl/article/pros-and-cons-of-every-path-maple-leafs-could-take-with-no-1-pick/"
+            },
+            {
+              "title": "Maple Leafs 2026 NHL Draft Pick: The Case For Gavin McKenna",
+              "url": "https://sports.yahoo.com/videos/maple-leafs-2026-nhl-draft-200635082.html"
+            },
+            {
+              "title": "How Auston Matthews, John Tavares can insulate Gavin McKenna from pressure of No. 1 pick",
+              "url": "https://theleafsnation.com/news/how-auston-matthews-john-tavares-can-insulate-gavin-mckenna-pressure-no1-pick"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "athletics",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "2026 NCAA Division I Men’s and Women’s Outdoor Track and Field Championships East and West first round selections",
+              "url": "https://www.ncaa.com/news/trackfield-outdoor-women/article/2026-05-21/2026-ncaa-division-i-mens-and-womens-outdoor-track-and-field"
+            },
+            {
+              "title": "Huskies Load Up On West Prelim Qualifiers",
+              "url": "https://gohuskies.com/news/2026/5/21/track-field-huskies-load-up-on-west-prelim-qualifiers"
+            },
+            {
+              "title": "Ducks Collect 55 NCAA West Entries",
+              "url": "https://goducks.com/news/2026/5/21/track-and-field-ducks-collect-55-ncaa-west-entries"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "shaq",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Despite a $500 million net worth, Shaq just finished his fourth degree. He warns graduates: 'Your character will take you further than your resume'",
+              "url": "https://fortune.com/2026/05/20/500-million-net-worth-shaq-finished-his-fourth-degree-warning-for-gen-z-graduates/"
+            },
+            {
+              "title": "Shaquille O'Neal is heading back to Baton Rouge to teach a mentorship class at LSU",
+              "url": "https://www.wbrz.com/news/shaquille-o-neal-is-heading-back-to-baton-rouge-to-teach-a-mentorship-class-at-lsu/"
+            },
+            {
+              "title": "Shaquille O’Neal Trolls Charles Barkley While Graduating with New Degree from LSU",
+              "url": "https://people.com/shaquille-oneal-trolls-charles-barkley-while-graduating-with-degree-from-lsu-11978036"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "6ix9ine",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "6ix9ine Suggests God Is Punishing Drake & Lil Durk For Dissing Him",
+              "url": "https://www.hotnewhiphop.com/995651-6ix9ine-drake-lil-durk-diss"
+            },
+            {
+              "title": "6ix9ine Claims God’s Wrath Is Hitting Drake & Lil Durk for Dissing Him",
+              "url": "http://www.musictimes.com/articles/111963/20260521/6ix9ine-claims-gods-wrath-hitting-drake-lil-durk-dissing-him.htm"
+            },
+            {
+              "title": "Tekashi 6ix9ine Says His GF Will Abort Baby If It's a Girl",
+              "url": "https://www.tmz.com/2026/05/09/tekashi-6ix9ine-wants-to-abort-daughter-not-son/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "amy sedaris",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "White House fires back after Robert De Niro, Bruce Springsteen take Trump swipes amid Colbert's farewell week",
+              "url": "https://www.foxnews.com/entertainment/white-house-fires-back-robert-de-niro-bruce-springsteen-take-trump-swipes-amid-colberts-farewell-week"
+            },
+            {
+              "title": "Major stars surprise on Stephen Colbert's penultimate 'Late Show'",
+              "url": "https://www.usatoday.com/story/entertainment/tv/2026/05/21/stephen-colbert-late-show-celebrity-cameos-questionnaire/90193212007/"
+            },
+            {
+              "title": "Pregnant Aubrey Plaza to ‘Late Show’ host Stephen Colbert: ‘My water broke backstage’",
+              "url": "https://www.sfchronicle.com/entertainment/movies-tv/article/aubrey-plaza-colbert-pregnant-22270631.php"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "san antonio weather",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "Houston weather: Flood watch remains for several counties through the weekend, more rounds of rain possible",
+              "url": "https://www.fox26houston.com/weather/houston-weather-flood-watch-remains-several-counties-through-weekend-more-rounds-rain-possible"
+            },
+            {
+              "title": "Strong storms bring flooding risk to Memorial Day weekend river plans",
+              "url": "https://www.mysanantonio.com/news/weather/article/storms-flood-texas-memorial-day-22270245.php"
+            },
+            {
+              "title": "Live updates: Scattered storms make their way through Central Texas",
+              "url": "https://www.kxan.com/weather/weather-blog/wx-blog-may-21-2026/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "mel gibson",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "See Mel Gibson's new Jesus in “The Resurrection of the Christ” first look",
+              "url": "https://nz.news.yahoo.com/see-mel-gibsons-jesus-resurrection-235459197.html"
+            },
+            {
+              "title": "Lionsgate Shifts ‘The Resurrection Of The Christ’ Release Dates; ‘Part Two’ Moves To 2028",
+              "url": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/"
+            },
+            {
+              "title": "The Replacements or Coming Soon: Mel Gibson’s ‘The Resurrection of the Christ’",
+              "url": "https://www.thecatholicthing.org/2026/05/20/the-replacements-or-coming-soon-mel-gibsons-the-resurrection-of-the-christ/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "nepal vs usa",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Nepal vs USA Live Streaming: Where To Watch ICC Men's Cricket World Cup League 2 Match In India?",
+              "url": "https://www.ndtvprofit.com/sports/nepal-vs-usa-live-streaming-telecast-time-where-to-watch-icc-men-cricket-odi-world-cup-league-2-match-playing-xi-india-tv-online-fancode-11527068"
+            },
+            {
+              "title": "Match Predictions: ICC CWC League 2 2026 - Match 109 - Nepal vs USA - May 22nd",
+              "url": "https://www.cricketworld.com/match-predictions-icc-cwc-league-2-2026-match-109-nepal-vs-usa-may-22nd/110606.htm"
+            },
+            {
+              "title": "Scotland & USA in Nepal 2026",
+              "url": "https://www.aol.com/sports/scotland-usa-nepal-2026-163925745.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "bobby portis",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Myles Turner addresses lack of discipline under Doc Rivers",
+              "url": "https://www.espn.com/nba/story/_/id/48777174/myles-turner-addresses-lack-discipline-doc-rivers"
+            },
+            {
+              "title": "Bobby Portis on Myles Turner's comments about Giannis Antetokounmpo: I thought it was AI, over-exaggerated",
+              "url": "https://sports.yahoo.com/articles/bobby-portis-myles-turners-comments-161953710.html"
+            },
+            {
+              "title": "Myles Turner says Giannis Antotekounmpo 'showed up whenever he wants' for Bucks",
+              "url": "https://www.indystar.com/story/sports/nba/pacers/2026/05/15/giannis-antetokounmpo-is-often-late-for-milwaukee-bucks-says-myles-turner/90095361007/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "phillip danault",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Phillip Danault scores goal vs. Hurricanes",
+              "url": "https://www.espn.com/video/clip/_/id/48839656/phillip-danault-scores-goal-vs-hurricanes"
+            },
+            {
+              "title": "Canadiens’ Phillip Danault providing exactly what Montreal hoped for when it traded for him",
+              "url": "https://www.nytimes.com/athletic/7283617/2026/05/16/canadiens-phillip-danault-nhl-playoffs-trade/"
+            },
+            {
+              "title": "Canadiens strike first in Game 7 with sneaky Phillip Danault goal",
+              "url": "https://sports.yahoo.com/articles/canadiens-strike-first-game-7-012735249.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 35,
+          "interest_max": 100,
+          "interest_latest": 39,
+          "rank": 1
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 34,
+          "interest_max": 100,
+          "interest_latest": 34,
+          "rank": 2
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 33,
+          "interest_max": 73,
+          "interest_latest": 36,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 23,
+          "interest_max": 100,
+          "interest_latest": 38,
+          "rank": 4
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 22,
+          "interest_max": 74,
+          "interest_latest": 16,
+          "rank": 5
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 19,
+          "interest_max": 43,
+          "interest_latest": 20,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 11,
+          "interest_max": 47,
+          "interest_latest": 12,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 5,
+          "interest_max": 18,
+          "interest_latest": 7,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 30,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 43,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury haircut styles",
+          "value": "76700"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "celine",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury interior design",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "mac coquette eyeshadow",
+          "value": "550"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "gta 5 coquette d10",
+          "value": "170"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d10 price",
+          "value": "140"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d10",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d10 gta",
+          "value": "120"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "山口 百恵",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "山口百恵さん GWに長男夫妻＆孫との初海外旅行！訪れたアイドル時代から愛する「思い出のリゾート」（女性自身）",
+              "url": "https://news.yahoo.co.jp/articles/e7bc9dd74488ca3f155782c555116cfd9639f075"
+            },
+            {
+              "title": "NHK朝ドラ「三浦貴大」天才的な“クズ夫”役が話題 母・山口百恵も喜ぶ成長ぶりで“脱2世”の評価（AERA DIGITAL）",
+              "url": "https://news.yahoo.co.jp/articles/2ad0fb4a1b30eed4a571532042969ff3bc8cee7d"
+            },
+            {
+              "title": "(2ページ目)NHK朝ドラ「三浦貴大」天才的な“クズ夫”役が話題 母・山口百恵も喜ぶ成長ぶりで“脱2世”の評価",
+              "url": "https://dot.asahi.com/articles/-/283120?page=2"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "のん",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "のん、千鳥ノブと初共演＆地上波バラエティー初MCに喜び「まさかかなうとは…」【番組内容・コメントあり】（オリコン）",
+              "url": "https://news.yahoo.co.jp/articles/2ef8a83d45454d6c0da8cd150d6067bc2c0759f7"
+            },
+            {
+              "title": "のん、地上波バラエティ初MCで千鳥・ノブと異色タッグ「楽しくてしょうがなかったです」＜愛と知識とのんとノブ＞",
+              "url": "https://topics.smt.docomo.ne.jp/article/thetv/entertainment/thetv-1399502"
+            },
+            {
+              "title": "千鳥ノブが憧れののんとバラエティ特番MCタッグ、ジャンボたかおはガストへの偏愛語る",
+              "url": "https://natalie.mu/owarai/news/672995"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ヤマト",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "ヤマト運輸と配達員が契約解除問題で和解 「会社は団交に応じるべきであった」（週刊金曜日）",
+              "url": "https://news.yahoo.co.jp/articles/03504ea8c012f3f6359b5f0c54c178b1c9418c66"
+            },
+            {
+              "title": "「労働者」認識隔たりなお ヤマトと労組、団交拒否で和解",
+              "url": "https://www.asahi.com/articles/DA3S16464346.html"
+            },
+            {
+              "title": "ヤマト、滋賀・湖南に拠点 法人営業拡大",
+              "url": "https://www.nikkan.co.jp/articles/view/00781929"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "グランド・セフト・オートvi",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "『GTA6』は変わらず「11月19日」に発売へ。テイクツー・インタラクティブCEOが改めて言及",
+              "url": "https://news.denfaminicogamer.jp/news/260522u"
+            },
+            {
+              "title": "テイクツー・インタラクティブ・ソフトウエア、好調な四半期予約数とGTA 6への期待で時間外取引で株価急騰 執筆",
+              "url": "https://jp.investing.com/news/earnings/article-1546065"
+            },
+            {
+              "title": "「Grand Theft Auto VI」は予定通り2026年11月19日リリース予定、Take-Twoが今夏のマーケティング始動を改めて予告",
+              "url": "https://doope.jp/2026/05167028.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "モンテル",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "モンテル選手の支配下選手契約について",
+              "url": "https://www.yakult-swallows.co.jp/news/detail/32230"
+            },
+            {
+              "title": "ヤクルト育成・モンテル、1軍合流へ　丸山和郁が右ハムストリングの張りで白羽の矢か　加入1年目で支配下登録も",
+              "url": "https://www.sanspo.com/article/20260522-5KFCHTFV7BO65FAZP6MH772BPM/?outputType=theme_swallows"
+            },
+            {
+              "title": "ヤクルト、モンテルと支配下契約を発表 西武戦力外で今季加入「スタートラインに立てた」",
+              "url": "https://sportsbull.jp/p/2337785/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "東都大学野球連盟",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "父が中日コーチの亜大・小池祐吏内野手が逆転タイムリー！「4番の役割が果たせた」【東都大学野球春季L】",
+              "url": "https://topics.smt.docomo.ne.jp/article/chuspo/sports/chuspo-1253760"
+            },
+            {
+              "title": "亜大・小池 4番の仕事！逆転2点打 父は中日の正晃コーチ（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/c854b8f4dc86c081bc65af64c8e67331c9e6c786"
+            },
+            {
+              "title": "亜大・小池祐吏が決勝打 今季修正したスイングで４番として意地の一打 父は中日小池正晃コーチ",
+              "url": "https://sportsbull.jp/p/2335966/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "ライオン",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ライオン、歯科用歯磨き粉を一部出荷停止 調達難で主力品の供給優先",
+              "url": "https://www.nikkei.com/article/DGXZQOUC219PC0R20C26A5000000/"
+            },
+            {
+              "title": "ライオン、ＳＭＢＣ日興が目標株価２５００円に見直し(ウエルスアドバイザー)",
+              "url": "https://finance.yahoo.co.jp/news/detail/09d8761c9b25c57698d1eab3bf52f013dd49f1ae"
+            },
+            {
+              "title": "【材料】 ライオンが反発、オーラルケア好調で国内大手証券は目標株価２５００円に",
+              "url": "https://kabutan.jp/news/marketnews/?b=n202605210771"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "平岡海月",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "サンリオフェス",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "犬キャラ大人気の裏側で…40年を経たサンリオキャラクター大賞に新たなムーブメント、“平成リバイバル”の波も（オリコン）",
+              "url": "https://news.yahoo.co.jp/articles/863cca567a0f96a09befba4f0be08bddad3c7d44?page=2"
+            },
+            {
+              "title": "「サンリオキャラクター大賞」結果発表に向け過去最大級で開催！サンリオフェス2026 in みなとみらい",
+              "url": "https://news.nicovideo.jp/watch/nw19332505?news_ref=watch_110_nw19094427"
+            },
+            {
+              "title": "犬キャラ大人気の裏側で…40年を経たサンリオキャラクター大賞に新たなムーブメント、“平成リバイバル”の波も",
+              "url": "https://www.oricon.co.jp/news/2455817/photo/2/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "アノマリス",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "フリュー新作『アノマリス』はパリィが気持ちよすぎるTPSアクション。全人類をパリィ沼に引きずり込もうとする開発からの甘い誘いを感じる【先行プレイ】",
+              "url": "https://www.famitsu.com/article/202605/75069"
+            },
+            {
+              "title": "「アノマリス」先行プレイ。フリュー完全新作はSCP的オカルト感漂うサバイバルTPS",
+              "url": "https://game.watch.impress.co.jp/docs/preview/2109580.html"
+            },
+            {
+              "title": "サバイバルTPS『アノマリス／ANOMALITH』は、田中ロミオシナリオで「不気味な」SCPや昭和レトロとリミナルスペースを描く。開発者説明会をお届け",
+              "url": "https://automaton-media.com/articles/special-column/anomalith-20260522-444410/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 46,
+          "interest_max": 100,
+          "interest_latest": 55,
+          "rank": 1
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 45,
+          "interest_max": 100,
+          "interest_latest": 33,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 36,
+          "interest_max": 100,
+          "interest_latest": 29,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 24,
+          "interest_max": 77,
+          "interest_latest": 33,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 13,
+          "interest_max": 80,
+          "interest_latest": 15,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 11,
+          "interest_max": 55,
+          "interest_latest": 11,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 24,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 20,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 53,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 系 ファッション レディース",
+          "value": "150"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 系 ファッション 女子",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "y2k",
+          "value": "110"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ストリート ファッション",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 夏 ファッション",
+          "value": "40"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-05-22T03:50:35.993738+00:00"
+}
