@@ -1,0 +1,940 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "잉글랜드 축구 국가대표팀",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'빅네임' 포든·파머·매과이어, 잉글랜드 최종명단 대거 낙마",
+              "url": "https://www.yna.co.kr/view/AKR20260522158600007"
+            },
+            {
+              "title": "'매과이어 탈락' 지켜본 루니, \"정말 운이 없게 탈락한 사례...케인 신선한 상태 유지가 중요\" - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/05/23/202605230741777163O"
+            },
+            {
+              "title": "포든·매과이어·아놀드·파머 낙마…잉글랜드, 월드컵 최종 명단 발표",
+              "url": "https://www.newsis.com/view/NISX20260523_0003641751"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "티켓링크",
+          "traffic": "1000+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "아정당",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "‘원빈 광고하더니’…89년생 아정당 대표, 218억 에테르노청담 샀다",
+              "url": "https://www.munhwa.com/article/11590739"
+            },
+            {
+              "title": "'218억 에테르노청담' 대출 없이 현금으로 샀다…89년생 CEO 누구길래",
+              "url": "https://news.nate.com/view/20260523n00243"
+            },
+            {
+              "title": "에테르노청담 첫 매매 218억…1989년생 '아정당' 대표가 샀다",
+              "url": "https://www.newsis.com/view/NISX20260522_0003640372"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "와일드씽",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "강동원, 불혹에 헤드스핀 도전...\"친구가 '뭐고? 요새 돈 없나' 물었죠\"",
+              "url": "https://v.daum.net/v/20260522194256494"
+            },
+            {
+              "title": "접속! 무비월드 : [접속 추천 예고] 와일드 씽",
+              "url": "https://programs.sbs.co.kr/enter/movieworld/clip/76760/22000630632"
+            },
+            {
+              "title": "'댄스' 강동원·엄태구·박지현 vs '발라드' 오정세, 현실 음원차트 승자는? - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/05/22/2026052213507249639"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "구성환",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "꽃분이 떠나보낸 구성환, 집 대청소하다 낙상 사고 \"낙법이 살려\"(나혼산)",
+              "url": "https://news.nate.com/view/20260522n30981"
+            },
+            {
+              "title": "MBC '나혼산-구성환 국토대장정' 등 일곱 편 이달의 PD상 수상",
+              "url": "https://news.nate.com/view/20260522n26772"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "양지은",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "정서주, TV조선 촬영장서 공개저격 당해…대선배마저 \"피투성이 되겠다\"('금타는')",
+              "url": "https://v.daum.net/v/20260522170217141"
+            },
+            {
+              "title": "[TV조선] 원조 디스코 여왕 이은하",
+              "url": "https://www.chosun.com/culture-life/broadcast-media/2026/05/22/44D42EHJ25CFFCKRLIHFYEENZU/"
+            },
+            {
+              "title": "정서주vs양지은 치열하게 맞붙는다 (금타는 금요일)",
+              "url": "https://sports.donga.com/ent/article/all/20260522/133976504/1"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "장현식",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "14억 FA 투수, 8개월 만에 돌아왔다. '149km' 1이닝 무실점…52억 장현식, 2군에서도 4실점 난타 당하면 어쩌나",
+              "url": "https://v.daum.net/v/20260523064218039"
+            },
+            {
+              "title": "LG ‘아픈손가락’ 또다시 제구 난조 어쩌나…홀드왕 사이드암, 볼넷-도루-안타-도루-볼넷, 29구 중 볼 17개 - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/05/22/202605221143779989O"
+            },
+            {
+              "title": "감독이 \"물어보지 마세요\"라던 LG 김강률, 드디어 실전 나섰다…퓨처스 1이닝 무실점",
+              "url": "https://sports.news.nate.com/view/20260522n18816"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "암호화폐",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "시장 혼란 우려에…SEC, 美주식 토큰 거래 허용 연기",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01754806645451872"
+            },
+            {
+              "title": "\"스페이스X 주식, 토큰으로 산다\"…삼성전자·하이닉스는 언제",
+              "url": "https://v.daum.net/v/20260522040140696"
+            },
+            {
+              "title": "SEC, 암호화폐 기업 토큰화 주식 거래 계획 연기",
+              "url": "https://kr.investing.com/news/stock-market-news/article-93CH-1958318"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "spurs vs thunder",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Dejaron Fox to Miss Game 2 for Spurs",
+              "url": "https://www.chosun.com/english/sports-en/2026/05/21/4NOHKYCRIVBXHHDDN6T3YVC54U/"
+            },
+            {
+              "title": "Spurs’ Dylan Harper exits with right leg injury, won’t return to Game 2",
+              "url": "https://www.nytimes.com/athletic/7296521/2026/05/20/dylan-harper-injury-spurs-thunder-game-2-nba-playoffs/"
+            },
+            {
+              "title": "De’Aaron Fox doing light work at shootaround. A right …",
+              "url": "https://sports.yahoo.com/articles/aaron-fox-doing-light-shootaround-175458332.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "이천시",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "이천시, 시립 화장시설 건립 본격화... 도시관리계획 결정 고시",
+              "url": "https://v.daum.net/v/20260523114302642"
+            },
+            {
+              "title": "이천시, 시립 화장시설 건립 급물살…도시관리계획 결정",
+              "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1323539"
+            },
+            {
+              "title": "이천시, 장례 인프라 공백 메운다…친환경 공공 화장시설 추진 가시화",
+              "url": "https://www.g-enews.com/article/General-News/2026/05/202605221123332105a141c47927_1"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 34,
+          "interest_max": 100,
+          "interest_latest": 27,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 3,
+          "interest_max": 8,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 76,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 40,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 8,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 7,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 38,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "shai gilgeous-alexander",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "New Report Details How Often SGA Falls on NBA Playoff Shot Attempts Compared to Wemby, Harden, More",
+              "url": "https://bleacherreport.com/articles/25430279-new-report-details-how-often-sga-falls-nba-playoff-shot-attempts-compared-wemby-harden-more"
+            },
+            {
+              "title": "Spurs fans erupt with 'flopper' chants against Thunder's Shai Gilgeous-Alexander",
+              "url": "https://sports.yahoo.com/articles/spurs-fans-erupt-flopper-chants-023833049.html"
+            },
+            {
+              "title": "Spurs fans troll Shai-Gilgeous Alexander, boo Thunder as officiating discourse grows",
+              "url": "https://www.nytimes.com/athletic/7301974/2026/05/22/spurs-fan-reaction-thunder-officiating/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "mateo chavez",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Mateo Chávez sabe que va contracorriente, pero luchará por alcanzar la titularidad con México",
+              "url": "https://apnews.com/article/mateo-chavez-jorge-sanchez-mexico-mundial-2026-23c37426a9c1fe5847f8165187ff38e9"
+            },
+            {
+              "title": "Mateo Chávez ve a 'Hormiga' listo para una liga grande de Europa",
+              "url": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/16735639/mexico-hormiga-gonzalez-esta-listo-para-ir-a-europa-mateo-chavez"
+            },
+            {
+              "title": "Mateo Chávez: El riesgo de irse a Europa le abrió la puerta del Mundial",
+              "url": "https://www.si.com/mx/futbol/mateo-chavez-el-riesgo-de-irse-a-europa-le-abrio-la-puerta-del-mundial"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "maximum pleasure guaranteed apple tv",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Maximum Pleasure Guaranteed review – this totally bingeable thriller will glue you to your seat",
+              "url": "https://www.theguardian.com/tv-and-radio/2026/may/20/maximum-pleasure-guaranteed-review-totally-bingeable-thriller-glue-you-to-your-seat"
+            },
+            {
+              "title": "Who Can Be Trusted When Everyone Is Vulnerable?",
+              "url": "https://www.theatlantic.com/culture/2026/05/maximum-pleasure-guaranteed-a-nervy-thriller-for-the-scam-era/687229/"
+            },
+            {
+              "title": "‘Maximum Pleasure Guaranteed’ Review: Tatiana Maslany’s Peppy Thriller Asks Why Is It So Hard to Have Fun",
+              "url": "https://www.indiewire.com/criticism/shows/maximum-pleasure-guaranteed-review-tatiana-maslany-apple-series-1235194606/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "mike tirico",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Jay Williams Can’t Root for Thunder Amid Lack of ‘Respect’ for Basketball",
+              "url": "https://sports.yahoo.com/articles/jay-williams-t-root-thunder-161143383.html"
+            },
+            {
+              "title": "How the Oklahoma City Thunder became the NBA’s villains",
+              "url": "https://www.vox.com/culture/489467/okc-thunder-sga-flopping-fouls-2026-nba-playoffs-spurs"
+            },
+            {
+              "title": "Mike Tirico bothered by Oklahoma City Thunder negativity: 'What's not to like about this team?'",
+              "url": "https://awfulannouncing.com/nba/mike-tirico-bothered-negativity-oklahoma-city-thunder.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "wvu baseball",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "How to Watch No. 9 WVU vs. No. 21 Arizona State: Start Time, Channel + Odds",
+              "url": "https://www.si.com/college/westvirginia/baseball/how-to-watch-no-9-wvu-vs-no-21-arizona-state-semifinals"
+            },
+            {
+              "title": "WVU-Arizona State: How to watch, stream, Vegas odds and more",
+              "url": "https://247sports.com/college/west-virginia/article/wvu-arizona-state-how-to-watch-stream-vegas-odds-and-more-286111720/"
+            },
+            {
+              "title": "No. 2 seed WVU preps for explosive Hairston, Sun Devil offense",
+              "url": "https://www.wvsportsnation.com/no-2-seed-wvu-preps-for-explosive-hairston-sun-devil-offense/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "tate mcrae",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Tate McRae Wears Nothing but Bikini Bottoms With Unbuttoned Top",
+              "url": "https://www.aol.com/articles/tate-mcrae-wears-nothing-bikini-233341000.html"
+            },
+            {
+              "title": "Tate McRae Puts Her Stringy Thong on Display by the Beach",
+              "url": "https://www.thefashionspot.com/fashion-news/950641-tate-mcrae-stringy-thong-beach-photos/"
+            },
+            {
+              "title": "Tate McRae Blesses Fans With Hot Bra-Top & Tiny Micro Shorts Combo",
+              "url": "https://www.mandatory.com/news/1776240-tate-mcrae-bra-top-micro-shorts-look-instagram"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "guillermo martinez",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "¡Erik Lira y 'Memote' Martínez estarán con sus equipos para la Final de la Liga MX!",
+              "url": "https://www.tudn.com/mundial-2026/equipos/seleccion-mexico/erik-lira-memote-martinez-estaran-equipos-final-liga-mx-cruz-azul-pumas"
+            },
+            {
+              "title": "Javier Aguirre da permiso especial a uno de sus jugadores para que salga de la concentración en el CAR",
+              "url": "https://www.tvazteca.com/aztecadeportes/javier-aguirre-permiso-especial-a-uno-jugadores-para-salga-concentracion-car/"
+            },
+            {
+              "title": "Javier Aguirre da permiso para que Guillermo Martínez y Érik Lira para que estén en la final",
+              "url": "https://www.adn40.mx/deportes/2026-05-21/javier-aguirre-da-permiso-para-que-guillermo-martinez-y-erik-lira-para-que-esten-en-la-final/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "isaiah hartenstein",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "Caruso, Hartenstein and the Thunder's championship blueprint",
+              "url": "https://www.espn.com/nba/story/_/id/48827620/nba-playoffs-oklahoma-city-thunder-championship-blueprint-alex-caruso-isaiah-hartenstein"
+            },
+            {
+              "title": "Oklahoma City Thunder Evaluates Isaiah Hartenstein Role Ahead of Western Conference Finals",
+              "url": "https://www.asatunews.co.id/en/oklahoma-city-thunder-hartenstein-role"
+            },
+            {
+              "title": "Former Clipper might've lost himself the pretty penny he once deserved",
+              "url": "https://clipperholics.com/former-clipper-lost-himself-pretty-penny-once-deserved"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "jayson tatum",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Jaylen Brown seems set on confrontation and challenging convention. It’s the All-Star’s way.",
+              "url": "https://www.bostonglobe.com/2026/05/20/sports/jaylen-brown-celtics/"
+            },
+            {
+              "title": "Stephen A Smith sends warning shot at Jaylen Brown",
+              "url": "https://985thesportshub.com/2026/05/20/nba-celtics-jaylen-brown-stephen-a-smith/"
+            },
+            {
+              "title": "Jaylen Brown’s gripe with ‘clickbait’ speaks to a larger crisis in sports media",
+              "url": "https://www.celticsblog.com/celtics-analysis/140885/jaylen-browns-gripe-with-clickbait-speaks-to-a-larger-crisis-in-sports-media"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "scott wedgewood",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Hart vs. Wedgewood goalie matchup in Western Conference Final",
+              "url": "https://www.nhl.com/news/carter-hart-scott-wedgewood-goalie-matchup-western-conference-final"
+            },
+            {
+              "title": "Breaking down every Round 3 Stanley Cup playoff goaltending matchup",
+              "url": "https://www.dailyfaceoff.com/news/breaking-down-round-3-stanley-cup-playoff-goaltending-matchup-andersen-dobes-wedgewood-hart"
+            },
+            {
+              "title": "Avalanche's Scott Wedgewood: Slated to start Wednesday",
+              "url": "https://www.cbssports.com/fantasy/hockey/news/avalanches-scott-wedgewood-slated-to-start-wednesday-591935/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 32,
+          "interest_max": 100,
+          "interest_latest": 30,
+          "rank": 1
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 31,
+          "interest_max": 100,
+          "interest_latest": 32,
+          "rank": 2
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 30,
+          "interest_max": 67,
+          "interest_latest": 23,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 28,
+          "interest_max": 100,
+          "interest_latest": 54,
+          "rank": 4
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 20,
+          "interest_max": 46,
+          "interest_latest": 18,
+          "rank": 5
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 17,
+          "interest_max": 45,
+          "interest_latest": 18,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 9,
+          "interest_max": 42,
+          "interest_latest": 6,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 5,
+          "interest_max": 17,
+          "interest_latest": 5,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 32,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 10,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury haircut styles",
+          "value": "95250"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "predator 3500 watt super quiet inverter generator",
+          "value": "13900"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "hermes",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette garden city",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "ugg coquette slippers on sale",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette drawings",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette nola",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coco coquette",
+          "value": "60"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ラオス",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "愛子さま、緑色の民族衣装でラオスフェスに出席 歓迎の舞に拍手送る（朝日新聞）",
+              "url": "https://news.yahoo.co.jp/articles/211d0964aa9a0221e446364891a60abf0a679c41"
+            },
+            {
+              "title": "愛子さま、ラオスフェスに出席 伝統衣装姿で舞踊に拍手、東京",
+              "url": "https://www.okinawatimes.co.jp/articles/-/1843271"
+            },
+            {
+              "title": "愛子さまのほほ笑みは、癒やしと平和そのもの｜愛子さまのお好きな場所「ラオス」",
+              "url": "https://www.fujingaho.jp/culture/royal-family/a71312675/aikosama-laos-260520/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "モンスト エボニー",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「超・獣神祭」5/23より開催！新限定キャラ「エボニー＆アイボリー」登場！",
+              "url": "https://www.monster-strike.com/news/20260521_1.html"
+            },
+            {
+              "title": "【モンスト】エボニー＆アイボリーの評価とわくわくの実｜どっちがおすすめ？",
+              "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/561379"
+            },
+            {
+              "title": "MIXI、『モンスト』で「超・獣神祭」を5月23日より開催…新限定キャラ「エボニー（cv.加隈亜衣）＆アイボリー（cv.小松未可子）」登場",
+              "url": "https://gamebiz.jp/news/426351"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "モス",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "モスバーガーに“ずるい”海老のバーガー2種が登場。昨年330万食完売の人気シリーズがパワーアップ！ カツで、フライで、プリプリ海老を「いただきモス！」（CREA WEB）",
+              "url": "https://news.yahoo.co.jp/articles/b19fb5b77fab9843364b7f7b52865fc2dc2f25f9"
+            },
+            {
+              "title": "海老デカっ！モス「海老エビフライバーガー」今年はさらに豪快に",
+              "url": "https://ascii.jp/elem/000/004/404/4404467/"
+            },
+            {
+              "title": "【MOS】さっぱりバジルの海老カツ＆がっつり濃厚なエビフライ 「アボカド海老カツバーガー ～国産バジルマヨ～」「『モスの匠味（たくみ）』海老エビフライバーガー ～くし切りレモン添え～」",
+              "url": "https://www.asahi.com/and/pressrelease/16557855"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "イギリス人",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "「かなり体重が落ちた」 アメリカ人が日本に2か月滞在したら…明かした本音に驚き 「日本人が気づいていない良さ」とは",
+              "url": "https://news.yahoo.co.jp/articles/afcca731405f5025c14768900255b48d63475fdb"
+            },
+            {
+              "title": "「ひどいよ…」 アメリカ人が\"逆カルチャーショック\" 日本から帰国直後に困惑したまさかの出来事とは",
+              "url": "https://hint-pot.jp/archives/321626/3"
+            },
+            {
+              "title": "「アメリカにはこういったルールはない」 アメリカ人が日本で驚き 気をつけているマナーとは（Hint-Pot）",
+              "url": "https://news.yahoo.co.jp/articles/02e44f1d210a5f11df7f51a86496f161a93eb7ef"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ドリームジャンボ宝くじ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "ドリームジャンボPR 宝くじ幸運アンバサダー志賀愛咲さん「夢抱いて」（千葉日報オンライン）",
+              "url": "https://news.yahoo.co.jp/articles/e51c90f969abccaec37064d1e4e55a70c0462f6f"
+            },
+            {
+              "title": "ドリームジャンボPR 宝くじ幸運アンバサダー志賀愛咲さん「夢抱いて」",
+              "url": "https://article.auone.jp/detail/1/2/5/558_5_r_20260523_1779487272763398"
+            },
+            {
+              "title": "多くの方にわくわくを…宝くじ幸運アンバサダー・池田彩菜さん、埼玉でドリームジャンボとミニをPR 自身がアンバサダーに→宝くじを買い始めた母が当選したことも 「大きな夢を描いて」",
+              "url": "https://www.47news.jp/14329792.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "長谷川あかり",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "ポドルスキ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "元神戸ポドルスキが40歳で現役引退 ドイツ代表でW杯制覇…SNSで発表「スパイクを脱ぐ」（FOOTBALL ZONE）",
+              "url": "https://news.yahoo.co.jp/articles/f1c82ab4145c8cc3f9bbacfd22b108592a93cbca"
+            },
+            {
+              "title": "サッカー＝ポドルスキが現役引退、神戸でもプレーしたＷ杯優勝メンバー",
+              "url": "https://jp.reuters.com/life/sports/WHXNGOXVTZNVHNORMPFH3FPT2Q-2026-05-23/"
+            },
+            {
+              "title": "元独代表のポドルスキ引退　J1神戸でもプレー",
+              "url": "https://www.nikkansports.com/soccer/world/news/202605230000254.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "叡王戦",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "【叡王戦】伊藤匠叡王 3連覇なるか 斎藤八段がフルセットに持ち込むか 対局開始（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/8026dd2fb18dab41528bf2b8551f8b96f3694a1d"
+            },
+            {
+              "title": "きょう第４局の叡王戦「勝負めし」１２種「勝負ドリンク」４種、いかが…開催地の地元食材・犬鳴ポークなどふんだん使い",
+              "url": "https://www.yomiuri.co.jp/local/kansai/news/20260523-GYO1T00016/"
+            },
+            {
+              "title": "将棋 叡王戦第4局始まる 伊藤二冠3連覇か 斎藤が望みつなぐか",
+              "url": "https://news.web.nhk/newsweb/na/na-k10015129621000"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "鈴木 奈穂子",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "鈴木奈穂子アナ「峯田和伸さんと無事に連絡が取れることを祈っています」",
+              "url": "https://www.sanspo.com/article/20260523-HZJEBJJZSJC3HPMICJ4WZGWAZ4/"
+            },
+            {
+              "title": "「もう8年前？」『半分、青い。』映像にネット騒然 間宮祥太朗が『あさイチ』生出演 永野芽郁の姿も（中日スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/3b18d98212374907417482dc975f4e2976a3d60c"
+            },
+            {
+              "title": "間宮祥太朗「あさイチ」出演、「カッコーの巣の上で」稽古映像や松尾スズキらが語る素顔を公開",
+              "url": "https://natalie.mu/stage/news/672905"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "佐々木蔵之介",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "『警視庁・捜査一課長』内藤剛志が｢監督、出てこい！｣酔って騒いだ“青春の名作”、連ドラの鉄人が｢ラッシュ映像を一切見ない｣理由",
+              "url": "https://futabasha-change.com/articles/-/2836?page=1"
+            },
+            {
+              "title": "『科捜研の女』内藤剛志が貫く｢俺が土門ならどうするか｣“正義の味方”の美学、｢命とはなんだ｣佐々木蔵之介と共演した“遺作”への思い",
+              "url": "https://article.auone.jp/detail/1/5/9/410_9_r_20260523_1779482239631972"
+            },
+            {
+              "title": "『警視庁・捜査一課長』内藤剛志が｢監督、出てこい！｣酔って騒いだ“青春の名作”、連ドラの鉄人が｢ラッシュ映像を見ない｣理由",
+              "url": "https://portal.uqmobile.jp/detail/1/5/9/10362_9_r_20260521_1779309446824129"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 44,
+          "interest_max": 100,
+          "interest_latest": 58,
+          "rank": 1
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 36,
+          "interest_max": 100,
+          "interest_latest": 45,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 35,
+          "interest_max": 100,
+          "interest_latest": 40,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 19,
+          "interest_max": 71,
+          "interest_latest": 33,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 11,
+          "interest_max": 50,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 10,
+          "interest_max": 59,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 1,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 31,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 25,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 31,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "マーティン キム",
+          "value": "180"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ストリート メンズ",
+          "value": "140"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "zozo",
+          "value": "140"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "y2k ファッション",
+          "value": "120"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "y2k",
+          "value": "110"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-05-23T03:26:19.623543+00:00"
+}
