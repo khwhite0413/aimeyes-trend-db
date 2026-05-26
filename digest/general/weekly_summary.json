@@ -1,43 +1,52 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-05-19",
-    "to": "2026-05-25"
+    "from": "2026-05-20",
+    "to": "2026-05-26"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "티셔츠",
+      "keyword": "#shorts",
       "growth": "+9%",
-      "total_mentions": 77
+      "total_mentions": 96
     },
     {
-      "keyword": "여름원피스",
-      "growth": "+33%",
-      "total_mentions": 72
+      "keyword": "원피스",
+      "growth": "+9%",
+      "total_mentions": 83
+    },
+    {
+      "keyword": "블라우스",
+      "growth": "+9%",
+      "total_mentions": 83
+    },
+    {
+      "keyword": "티셔츠",
+      "growth": "+20%",
+      "total_mentions": 78
     },
     {
       "keyword": "여름가디건",
       "growth": "+38%",
-      "total_mentions": 72
-    },
-    {
-      "keyword": "써스데이아일랜드",
-      "growth": "+11%",
-      "total_mentions": 65
-    },
-    {
-      "keyword": "diy",
-      "growth": "+67%",
-      "total_mentions": 45
+      "total_mentions": 75
     }
   ],
-  "most_cross_platform": [],
+  "most_cross_platform": [
+    {
+      "keyword": "피스피스스튜디오",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    }
+  ],
   "naver_shopping_hot": [
     "원피스",
-    "티셔츠",
     "블라우스",
+    "티셔츠",
     "여름원피스",
     "여름가디건"
   ],
@@ -47,8 +56,8 @@
     "원피스",
     "블라우스",
     "티셔츠",
-    "여름원피스",
     "여름가디건",
+    "여름원피스",
     "남자반팔티",
     "써스데이아일랜드",
     "trend"

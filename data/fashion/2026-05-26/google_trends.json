@@ -1,0 +1,922 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "정애리",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "\"수많은 엄마役 했지만… 48년 연기 중 가장 파격적인 엄마\"",
+              "url": "https://www.chosun.com/culture-life/performance-arts/2026/05/26/HT545P6RBRF77E7PWT46W7OPDE/"
+            },
+            {
+              "title": "‘66세’ 정애리, 난소암 투병→10년 공백 이유…“처음엔 복막염인 줄 알았다”",
+              "url": "https://v.daum.net/v/20260523211904291?f=p"
+            },
+            {
+              "title": "정애리 “연기 생각 없던 무용 전공생”… KBS 1등 데뷔 비화 공개",
+              "url": "https://www.newscj.com/news/articleView.html?idxno=3403409"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "대기업",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "하이닉스 퇴직률 1%대 '록인'…삼성전자는 두 자릿수 대조",
+              "url": "https://v.daum.net/v/20260526060232426"
+            },
+            {
+              "title": "SK하이닉스 이·퇴직률 1%대… 삼전은 여전히 10%대",
+              "url": "https://www.munhwa.com/article/11591287"
+            },
+            {
+              "title": "\"회사 밖은 더 힘들어\"... 대기업 이·퇴직률 9.2%→7.7%로 2년 연속 감소",
+              "url": "https://www.chosun.com/economy/industry-company/2026/05/26/HVCALJOC3JGRTCCZW3CAGGIBAM/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "knicks",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "New York Knicks vs Cleveland Cavaliers May 23, 2026 Box Scores",
+              "url": "https://www.nba.com/game/nyk-vs-cle-0042500303/box-score"
+            },
+            {
+              "title": "‘Don’t just blame James Harden’: What social media said after Knicks sweep Cavs in Eastern Conference Finals",
+              "url": "https://www.cleveland.com/cavs/2026/05/dont-just-blame-james-harden-what-social-media-said-after-knicks-sweep-cavs-in-eastern-conference-finals.html"
+            },
+            {
+              "title": "New York back in NBA Finals for first time since 1999 after beating Cleveland 130-93 to finish sweep",
+              "url": "https://abcnews.com/Sports/wireStory/new-york-back-nba-finals-time-1999-after-133302715"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "기뢰부설함",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "미군, 호르무즈 인근 이란남부서 공격 단행‥\"자위권 차원\"",
+              "url": "https://imnews.imbc.com/news/2026/world/article/6825194_36925.html"
+            },
+            {
+              "title": "미군, 이란 남부서 “자위적 공습”…휴전 협상 중에",
+              "url": "https://www.hani.co.kr/arti/international/international_general/1260352.html"
+            },
+            {
+              "title": "미군, 이란 공습…\"농축 우라늄 이란서 폐기할 수도\"",
+              "url": "https://v.daum.net/v/20260526101506649"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "금융시장",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "김용범 \"3高는 성공의 비용\" 발언 파장… 靑 \"서민 부담 엄중 인식\" 수습",
+              "url": "https://www.chosun.com/politics/politics_general/2026/05/26/OTTMQD7Q6BAMVIJPBGE6SJRHOE/"
+            },
+            {
+              "title": "국민의힘 “고금리·고물가·고환율(3고)는 성공의 비용? 김용범 오만한 발상”",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8569861"
+            },
+            {
+              "title": "美국채 금리 쇼크에 원화 요동…‘환율 1500원 뉴노멀’ 굳어지나 [코스피 8100 돌파]",
+              "url": "https://v.daum.net/v/20260526112420445"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "골프 카트",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "“안 타는데 돈을 왜 내요?”…골퍼들 뒷목 잡게 한 카트비 ‘악마의 옵션’ [권준영의 머니볼]",
+              "url": "https://www.segye.com/newsView/20260526500281"
+            },
+            {
+              "title": "한국대중골프장협회, 5월 전문경영인회 개최, “안전관리·정보보안 강화”",
+              "url": "https://www.golftimes.co.kr/news/articleView.html?idxno=200734"
+            },
+            {
+              "title": "골프장 안전·보안 관리 강화..대중골프장협회, 근로자 추정제 우려도 제기",
+              "url": "https://v.daum.net/v/bevmdQB3ig"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "페라리 루체",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "페라리, 첫 순수 전기차 '루체' 공개…최고출력 1050마력 발휘",
+              "url": "https://zdnet.co.kr/view/?no=20260526085225"
+            },
+            {
+              "title": "삼성디스플레이, 페라리 신차에 OLED 4종 단독 공급",
+              "url": "https://www.yna.co.kr/view/AKR20260525039400003"
+            },
+            {
+              "title": "삼성디스플레이, '페라리 루체'에 OLED 4종 단독 공급",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4416583"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "피스피스스튜디오",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'마르디 메크르디' 피스피스스튜디오, 일반공모 돌입",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01863046645452856"
+            },
+            {
+              "title": "‘따따블’ 식기 전 청약 나선 피스피스스튜디오…공모주 온기 이어갈까[이번주 증시 캘린더]",
+              "url": "https://www.sedaily.com/article/20047862"
+            },
+            {
+              "title": "'마르디 메크르디' 피스피스스튜디오, 단기 매물 폭탄 넘을까",
+              "url": "https://www.hankyung.com/article/202605235259i"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "etf",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "XRP-Abflüsse auf Börsen steigen um 300 %, reicht das für eine Kurswende?",
+              "url": "https://de.beincrypto.com/xrp-kurs-kaufsdruck-baerisches-muster-analyse/"
+            },
+            {
+              "title": "XRP Prognose Mai 2026: Wale kaufen 71 Millionen Token, während der Kurs 8 Prozent fällt",
+              "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68582108-xrp-prognose-mai-2026-wale-kaufen-71-millionen-token-waehrend-der-kurs-8-prozent-faellt-712.htm"
+            },
+            {
+              "title": "XRP-Preisprognose: $1.36 hält, CME-Futures vor dem Start",
+              "url": "https://de.tradingview.com/news/invezz:f2a040887600c:0/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "조갑경",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "홍서범·조갑경 아들 '손배소' 항소심, 곧 결론 나온다…내달 선고 예정 [엑's 이슈]",
+              "url": "https://news.nate.com/view/20260523n10030"
+            },
+            {
+              "title": "'홍서범·조갑경' 子 불륜 의혹→사실혼 파기 항소심 재개... 전 며느리 \"시간 끌지 마\"",
+              "url": "https://www.fnnews.com/news/202605210900063423"
+            },
+            {
+              "title": "\"실망 죄송\" 홍서범·조갑경子 불륜 소송, 항소심 6월 선고[종합]",
+              "url": "https://www.starnewskorea.com/star/2026/05/23/2026052219425919632"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 32,
+          "interest_max": 100,
+          "interest_latest": 31,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 2,
+          "interest_max": 8,
+          "interest_latest": 5,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 24,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 67,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 3,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 26,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "wawa",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Man returns $30,000 in cash he found in Wawa bathroom in Florida",
+              "url": "https://www.washingtonpost.com/lifestyle/2026/05/24/florida-man-returns-30k-he-found-wawa-bathroom/"
+            },
+            {
+              "title": "Construction worker returns $30K found in Wawa bathroom to rightful owner — who sold Pokémon collection to cover sister’s medical bills",
+              "url": "https://nypost.com/2026/05/24/us-news/florida-man-returns-30k-found-in-bathroom-to-rightful-owner-who-sold-pokemon-collection-to-cover-sisters-medical-bills/"
+            },
+            {
+              "title": "Good Samaritan returns £30k Pokémon money to owner",
+              "url": "https://metro.co.uk/2026/05/25/good-samaritan-hands-back-found-30-000-owner-sold-pokemon-collection-pay-sisters-medical-costs-28509967/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "netanyahu",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Benjamin Netanyahu says Israel will intensify strikes against Hezbollah",
+              "url": "https://www.bbc.com/news/articles/cewppdk1187o"
+            },
+            {
+              "title": "Netanyahu vows to ‘smite’ Hezbollah with ‘overwhelming’ force",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/netanyahu-vows-to-smite-hezbollah-with-overwhelming-force"
+            },
+            {
+              "title": "Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah",
+              "url": "https://www.theguardian.com/world/2026/may/26/israel-escalates-strikes-in-lebanon-as-netanyahu-vows-to-crush-hezbollah"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "hyeseong kim",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Dodgers' Hyeseong Kim Suddenly at Risk of Losing Roster Spot",
+              "url": "https://www.si.com/mlb/dodgers/onsi/dodgers-hyeseong-kim-suddenly-risks-losing-roster-spot"
+            },
+            {
+              "title": "Kim Hye-seong struggles, prompting Dodgers to consider demotion - CHOSUNBIZ",
+              "url": "https://biz.chosun.com/en/en-sports/2026/05/26/GIIU6ZOXTRGPPO7MQFOBJSWGUY/"
+            },
+            {
+              "title": "[Breaking News] \"Amazing\" Kim Hye-seong dramatically stays in the majors → Immediately starts against the Rockies! Manager Roberts' trust is that deep.",
+              "url": "https://www.starnewskorea.com/en/sports/2026/05/26/2026052608520973854"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "charles barkley",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Charles Barkley blasts Cavaliers for how they ‘quit’ in Game 4",
+              "url": "https://sports.yahoo.com/articles/charles-barkley-blasts-cavaliers-quit-024508099.html"
+            },
+            {
+              "title": "ESPN's 'Inside the NBA' crew roasts Cavaliers with Taylor Swift banner",
+              "url": "https://www.usatoday.com/story/sports/nba/playoffs/2026/05/25/cleveland-cavaliers-inside-the-nba-jokes-game-4-knicks/90256237007/"
+            },
+            {
+              "title": "James Harden, Cavs Trolled by NBA Fans amid Huge Deficit vs. Knicks in Elimination Game",
+              "url": "https://bleacherreport.com/articles/25430909-james-harden-cavs-trolled-nba-fans-amid-huge-deficit-vs-knicks-elimination-game"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "valkyries",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Game Recap: Indiana Fever Defeat Golden State Valkyries",
+              "url": "https://fever.wnba.com/news/game-recap-fever-defeat-valkyries-260522"
+            },
+            {
+              "title": "Fever's Caitlin Clark once again makes basketball history never done before in WNBA",
+              "url": "https://sports.yahoo.com/articles/fevers-caitlin-clark-once-again-191219609.html"
+            },
+            {
+              "title": "Indiana Fever vs. Golden State Valkyries - Game Highlights",
+              "url": "https://www.espn.com/video/clip/_/id/48848624/indiana-fever-vs-golden-state-valkyries-game-highlights"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "k'andre miller",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Will This Montreal Canadiens Forward Face Supplemental Discipline For His Blatant Spear?",
+              "url": "https://sports.yahoo.com/articles/montreal-canadiens-forward-face-supplemental-062438717.html"
+            },
+            {
+              "title": "Rod Brind'Amour just snapped and Gary Bettman is now in the middle of a massive controversy",
+              "url": "https://www.markerzone.com/news/index.php?no=588514"
+            },
+            {
+              "title": "Alexandre Texier’s penalty: People are wondering if the NHL is trying to help the Canadiens",
+              "url": "https://dose.ca/2026/05/25/alexandre-texiers-penalty-people-are-wondering-if-the-nhl-is-trying-to-help-the-canadiens/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "new york city",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "1 Person Killed and Dozens of Firefighters Injured in Staten Island Blasts",
+              "url": "https://www.nytimes.com/2026/05/22/nyregion/staten-island-explosion.html"
+            },
+            {
+              "title": "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
+              "url": "https://www.bbc.com/news/articles/c8r814xj8pro"
+            },
+            {
+              "title": "Staten Island fire: 1 dead, dozens injured after explosion in shipyard",
+              "url": "https://abc7ny.com/post/staten-island-fire-least-31-people-injured-explosion-shipyard/19152007/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "earthquake now",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "M5.9 earthquake recorded on Mauna Loa; NO tsunami expected",
+              "url": "https://www.hawaiinewsnow.com/2026/05/23/did-you-feel-it-m59-earthquake-recorded-mauna-loa-no-tsunami-expected/"
+            },
+            {
+              "title": "Big Island residents report damage from magnitude 6.0 quake",
+              "url": "https://www.westhawaiitoday.com/2026/05/25/hawaii-news/big-island-residents-report-damage-from-magnitude-6-0-quake/"
+            },
+            {
+              "title": "WATCH: 6.0 magnitude earthquake impacts residents across the islands",
+              "url": "https://www.khon2.com/local-news/watch-earthquake-impacts-residents/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "luis castillo",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Mariners switch up pitching strategy | Notebook",
+              "url": "https://www.seattletimes.com/sports/mariners/mariners-luis-castillo-to-start-vs-athletics-with-bryce-miller-to-follow-notebook/"
+            },
+            {
+              "title": "Mariners to switch Castillo, Miller for Monday's piggyback plan",
+              "url": "https://www.mlb.com/news/luis-castillo-bryce-miller-to-switch-roles-in-second-piggyback-outing"
+            },
+            {
+              "title": "Castillo to start in Mariners’ next piggyback vs A’s",
+              "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/castillo-start-miller-bullpen-seattle-mariners-piggyback-athletics"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "eastern conference finals mvp",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Knicks' Jalen Brunson named Eastern Conference Finals MVP",
+              "url": "https://www.nba.com/news/jalen-brunson-named-2026-eastern-conference-finals-mvp"
+            },
+            {
+              "title": "Knicks punch NBA Finals ticket; Jalen Brunson named ECF MVP",
+              "url": "https://www.espn.com.au/nba/story/_/id/48877691/knicks-finish-cavs-make-first-nba-finals-27-years"
+            },
+            {
+              "title": "Knicks' Jalen Brunson Named 2026 Eastern Conference Finals MVP",
+              "url": "https://bleacherreport.com/articles/25430918-knicks-jalen-brunson-named-2026-eastern-conference-finals-mvp"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 31,
+          "interest_max": 100,
+          "interest_latest": 43,
+          "rank": 1
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 21,
+          "interest_max": 100,
+          "interest_latest": 38,
+          "rank": 2
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 16,
+          "interest_max": 35,
+          "interest_latest": 18,
+          "rank": 3
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 9,
+          "interest_max": 30,
+          "interest_latest": 14,
+          "rank": 4
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 4,
+          "interest_max": 16,
+          "interest_latest": 5,
+          "rank": 5
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "coquette",
+          "query": "mac coquette eyeshadow",
+          "value": "650"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette dragoon",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "tufted coquette",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette font generator",
+          "value": "110"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette brasserie",
+          "value": "80"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "スンスン",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【セブン】ボリューム満点で203円！「気分が上がる◎」パペットスンスンとコラボの新商品（なかべぇ） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/227d85ec8c721b680fc9544fa3c8e404ac63f31f"
+            },
+            {
+              "title": "【明日から】セブンイレブン「パペットスンスン」コラボ　BIGクッション＆トートバッグ当たるキャンペーンも",
+              "url": "https://topics.smt.docomo.ne.jp/article/otonanswer/life/otonanswer-365380"
+            },
+            {
+              "title": "【セブン-イレブン】ほっとひと息つきたい日に！新作の和スイーツ3選「スンスンのふわあっ♪食感のマシュマロ大福 ブルーベ",
+              "url": "https://news.nicovideo.jp/watch/nw19342518"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "瀬戸朝香",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "佐藤栞里＆瀬戸朝香の親友コンビが成田山新勝寺で“100年愛され名店”探し パワースポットで運気を注入『ヒルナンデス！』",
+              "url": "https://news.yahoo.co.jp/articles/e5c064e5ea2951ec6267bca19a4c4d0385de5278"
+            },
+            {
+              "title": "５月２６日（火）のヒルナンデス！は…100年愛され名店探しin成田＆",
+              "url": "https://www.ntv.co.jp/hirunan/articles/3081dvjd5vgqzlbiuyf8.html"
+            },
+            {
+              "title": "瀬戸朝香に聞く“思春期”長男との関係 「『きも』『うざ』とつっこみをいれられることも。これも成長の過程」〈ヒルナンデス！「成田で老舗の名店探し旅」きょう〉",
+              "url": "https://dot.asahi.com/aerakids/articles/-/283593"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "くわばたりえ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "くわばたりえ、まさかの「１３年漫才してない」告白「もうショック過ぎて…」今年は節目「年内に漫才を」",
+              "url": "https://topics.smt.docomo.ne.jp/article/dailysports/entertainment/20260526058"
+            },
+            {
+              "title": "くわばたりえ、まさかの「13年漫才してない」告白「もうショック過ぎて…」今年は節目「年内に漫才を」",
+              "url": "https://article.auone.jp/detail/1/5/9/266_9_r_20260526_1779764732534556"
+            },
+            {
+              "title": "くわばたりえが実名告白した【かつて交際していた芸人２名】とは？「別れてもずっと好きやった」",
+              "url": "https://trilltrill.jp/articles/4659422"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "淡路島",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "淡路島の夏の風物詩「今年もいい状態」 旬のハモを使った料理、島内各地で提供が本格化（ラジトピ ラジオ関西トピックス）",
+              "url": "https://news.yahoo.co.jp/articles/32090ad9574bb5a415d866872e549770063b4c87"
+            },
+            {
+              "title": "ハモ漁の豊漁願い供養祭 兵庫 南あわじ",
+              "url": "https://news.web.nhk/newsweb/na/nb-2020031494"
+            },
+            {
+              "title": "瀬戸内海で取れる高級魚「ハモ」",
+              "url": "https://wakayamashimpo.co.jp/2026/05/20260523_138322.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "希土類 元素",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "中国1強「レアアース」供給多様化で日本が存在感増す理由",
+              "url": "https://mainichi.jp/premier/business/articles/20260521/biz/00m/020/009000c"
+            },
+            {
+              "title": "調達先の多様化へ…「埋蔵量＆精錬」プロが注目する国は…【配信版③/円卓コンフィデンシャル】",
+              "url": "https://txbiz.tv-tokyo.co.jp/entaku/vod/post_340763"
+            },
+            {
+              "title": "レアアースを日本に「国産化」「新規発掘」の最前線に迫る",
+              "url": "https://tver.jp/episodes/epyypw12zh"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "浦和競馬",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "【浦和競馬】福原杏騎手が新馬戦連勝　センチュリースター＆ワイルドウルル",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260525-OHT1T51268"
+            },
+            {
+              "title": "【浦和競馬】福原杏騎手が新馬戦連勝 センチュリースター＆ワイルドウルル",
+              "url": "https://umatoku.hochi.co.jp/articles/20260525-OHT1T51268.html"
+            },
+            {
+              "title": "【浦和競馬】福原杏騎手が新馬戦連勝 センチュリースター＆ワイルドウルル",
+              "url": "https://hochi.news/articles/20260525-OHT1T51268.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "末澤誠也",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Aぇ! group＆西村拓哉が『おそ松さん』最速試写会に登場！ 正門良規「やるからにはSnow Man超え」（ぴあ）",
+              "url": "https://news.yahoo.co.jp/articles/3b6fcb246c823e6ac7ae4cd7538f4bf00c08a931"
+            },
+            {
+              "title": "【レポート】Aぇ! group＆西村拓哉が、映画『おそ松さん』世界最速試写会に降臨！「やるからには“スノ（Snow Man）超え”ということで頑張りたいと思います！」（THE FIRST TIMES）",
+              "url": "https://news.yahoo.co.jp/articles/667e9fd648e2be76c9e09d35df0e39994af1bd34"
+            },
+            {
+              "title": "Aぇ! group小島健、正門良規と“ラブシーン”も違いすぎる対応にがっかり…唇は「やわらかいっす」",
+              "url": "https://www.oricon.co.jp/news/2456839/full/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "坪井智也",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "デロイト トーマツ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【人件費水増し不正が頻発】デロイトトーマツG会社の会長と社長が連続辞任していた！《中小機構は「過年度分についても調査する」と回答》",
+              "url": "https://bunshun.jp/articles/-/88910"
+            },
+            {
+              "title": "【人件費水増し不正が頻発】デロイトトーマツG会社の会長と社長が連続辞任していた！《中小機構は「過年度分についても調査する」と回答》（文春オンライン）",
+              "url": "https://news.yahoo.co.jp/articles/7627f83ff5cd1d7e3cb1ca14d06751f501a19a9e"
+            },
+            {
+              "title": "グループ法人二社への指名停止措置について | デロイト トーマツ グループ",
+              "url": "https://www.deloitte.com/jp/ja/about/press-room/nr20260519.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "上毛新聞",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "人気のレッサーパンダ「ライム」お別れのイベント 群馬 桐生",
+              "url": "https://news.web.nhk/newsweb/na/nb-1000128818"
+            },
+            {
+              "title": "ライム元気でね 最後の姿見ようとお別れイベントにファン100人 群馬・桐生が岡動物園のレッサーパンダ",
+              "url": "https://www.jomo-news.co.jp/articles/-/943485"
+            },
+            {
+              "title": "【伊豆シャボテンリゾート株式会社50周年記念】伊豆シャボテン動物公園にレッサーパンダ「ライム」が2026年5月27日（水）に仲間入り！メスの「めいしゃん」との“お見合い”を予定",
+              "url": "https://prtimes.jp/main/html/rd/p/000000269.000038159.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 34,
+          "interest_max": 100,
+          "interest_latest": 22,
+          "rank": 1
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 30,
+          "interest_max": 100,
+          "interest_latest": 30,
+          "rank": 2
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 16,
+          "interest_max": 61,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 12,
+          "interest_max": 49,
+          "interest_latest": 20,
+          "rank": 4
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 9,
+          "interest_max": 37,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 1,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 17,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 11,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 12,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-05-26T03:42:22.975131+00:00"
+}
