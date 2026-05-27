@@ -1,80 +1,91 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "mode": "fashion",
-  "compared_to": "2026-05-25",
-  "total_keywords_today": 416,
-  "total_keywords_yesterday": 403,
-  "data_days_available": 72,
+  "compared_to": "2026-05-26",
+  "total_keywords_today": 433,
+  "total_keywords_yesterday": 416,
+  "data_days_available": 73,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "써스데이아일랜드",
-      "change": "+10%",
-      "today_count": 11,
-      "yesterday_count": 10,
-      "confidence": "high",
+      "keyword": "fashion",
+      "change": "+160%",
+      "today_count": 13,
+      "yesterday_count": 5,
+      "confidence": "medium",
       "platforms": [
-        "naver"
+        "youtube"
       ],
-      "sample_note": "오늘 11건, 어제 10건 기준"
+      "sample_note": "오늘 13건, 어제 5건 기준"
     },
     {
       "keyword": "#ootd",
-      "change": "+11%",
-      "today_count": 10,
-      "yesterday_count": 9,
-      "confidence": "medium",
+      "change": "+20%",
+      "today_count": 12,
+      "yesterday_count": 10,
+      "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 10건, 어제 9건 기준"
+      "sample_note": "오늘 12건, 어제 10건 기준"
     },
     {
       "keyword": "ootd",
-      "change": "+11%",
+      "change": "+20%",
+      "today_count": 12,
+      "yesterday_count": 10,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 12건, 어제 10건 기준"
+    },
+    {
+      "keyword": "#fashion",
+      "change": "+233%",
       "today_count": 10,
-      "yesterday_count": 9,
+      "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 10건, 어제 9건 기준"
+      "sample_note": "오늘 10건, 어제 3건 기준"
     },
     {
-      "keyword": "#shorts",
-      "change": "+50%",
-      "today_count": 9,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 9건, 어제 6건 기준"
-    },
-    {
-      "keyword": "추천",
-      "change": "+33%",
+      "keyword": "summer",
+      "change": "+60%",
       "today_count": 8,
-      "yesterday_count": 6,
+      "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 8건, 어제 6건 기준"
+      "sample_note": "오늘 8건, 어제 5건 기준"
     },
     {
-      "keyword": "올리비아로렌",
-      "change": "+17%",
-      "today_count": 7,
-      "yesterday_count": 6,
+      "keyword": "style",
+      "change": "+50%",
+      "today_count": 6,
+      "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
-        "naver"
+        "youtube"
       ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
+      "sample_note": "오늘 6건, 어제 4건 기준"
     },
     {
-      "keyword": "여름코디",
+      "keyword": "amp",
+      "change": "+200%",
+      "today_count": 6,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 2건 기준"
+    },
+    {
+      "keyword": "데일리룩",
       "change": "+20%",
       "today_count": 6,
       "yesterday_count": 5,
@@ -85,73 +96,29 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "summer",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
-    },
-    {
-      "keyword": "#봄코디",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "봄코디",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "outfit",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
       "keyword": "탑텐",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
         "naver"
       ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
+      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "luxury",
-      "change": "NEW",
-      "today_count": 4,
-      "yesterday_count": 0,
-      "confidence": "low",
+      "keyword": "trends",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건 (신규)"
+      "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
-      "keyword": "출근룩",
+      "keyword": "outfits",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -162,7 +129,7 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "여행룩",
+      "keyword": "이렇게",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -173,7 +140,29 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "vs",
+      "keyword": "#style",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "cute",
+      "change": "+300%",
+      "today_count": 4,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 1건 기준"
+    },
+    {
+      "keyword": "#trending",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -184,18 +173,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#여행룩",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "데이트룩",
+      "keyword": "#cute",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -206,7 +184,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "#outfitideas",
+      "keyword": "#ytshorts",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -217,7 +195,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "outfitideas",
+      "keyword": "ytshorts",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -226,84 +204,103 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#outfit",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "#viral",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
-      "keyword": "블라우스",
+      "keyword": "#shorts",
+      "change": "-11%",
+      "today_count": 8,
+      "yesterday_count": 9,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "코디",
       "change": "-14%",
-      "today_count": 12,
-      "yesterday_count": 14,
-      "confidence": "high"
-    },
-    {
-      "keyword": "#데일리룩코디",
-      "change": "-38%",
-      "today_count": 5,
-      "yesterday_count": 8,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "데일리룩코디",
-      "change": "-38%",
-      "today_count": 5,
-      "yesterday_count": 8,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "fashion",
-      "change": "-38%",
-      "today_count": 5,
-      "yesterday_count": 8,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "#fashion",
-      "change": "-57%",
-      "today_count": 3,
+      "today_count": 6,
       "yesterday_count": 7,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "올리비아로렌",
+      "change": "-14%",
+      "today_count": 6,
+      "yesterday_count": 7,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "#중년패션코디",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#봄코디",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "중년패션코디",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "봄코디",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
       "confidence": "low"
     },
     {
       "keyword": "바람막이",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "style",
       "change": "-20%",
       "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "여름",
-      "change": "-40%",
+      "keyword": "luxury",
+      "change": "-25%",
       "today_count": 3,
-      "yesterday_count": 5,
+      "yesterday_count": 4,
       "confidence": "low"
     },
     {
       "keyword": "여름자켓",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "thrift",
-      "change": "-100%",
-      "today_count": 0,
+      "change": "-25%",
+      "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     }
   ],
-  "new_entries": [
-    "luxury",
-    "price"
-  ],
+  "new_entries": [],
   "cross_platform_hot": [
     {
       "keyword": "티셔츠",
