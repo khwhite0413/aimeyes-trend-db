@@ -1,41 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-05-21",
-    "to": "2026-05-27"
+    "from": "2026-05-22",
+    "to": "2026-05-28"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "티셔츠",
-      "growth": "+27%",
-      "total_mentions": 92
-    },
-    {
       "keyword": "여름원피스",
-      "growth": "+20%",
-      "total_mentions": 79
-    },
-    {
-      "keyword": "여름가디건",
-      "growth": "+10%",
-      "total_mentions": 78
+      "growth": "+9%",
+      "total_mentions": 81
     },
     {
       "keyword": "써스데이아일랜드",
       "growth": "+22%",
-      "total_mentions": 69
+      "total_mentions": 71
+    },
+    {
+      "keyword": "#ootd",
+      "growth": "+50%",
+      "total_mentions": 65
     },
     {
       "keyword": "ootd",
-      "growth": "+9%",
-      "total_mentions": 67
+      "growth": "+50%",
+      "total_mentions": 65
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "티셔츠",
+      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
@@ -43,7 +38,7 @@
       "count": 2
     },
     {
-      "keyword": "블라우스",
+      "keyword": "티셔츠",
       "platforms": [
         "naver",
         "youtube"
@@ -53,8 +48,8 @@
   ],
   "naver_shopping_hot": [
     "원피스",
-    "여름원피스",
     "블라우스",
+    "여름원피스",
     "티셔츠",
     "여름가디건"
   ],
@@ -66,8 +61,8 @@
     "여름가디건",
     "fashion",
     "써스데이아일랜드",
-    "ootd",
     "#ootd",
+    "ootd",
     "남자반팔티"
   ]
 }
