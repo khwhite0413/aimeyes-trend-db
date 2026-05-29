@@ -1,45 +1,54 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-05-22",
-    "to": "2026-05-28"
+    "from": "2026-05-23",
+    "to": "2026-05-29"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+6%",
-      "total_mentions": 106
+      "growth": "+73%",
+      "total_mentions": 109
     },
     {
       "keyword": "여름원피스",
       "growth": "+9%",
-      "total_mentions": 81
+      "total_mentions": 82
     },
     {
       "keyword": "티셔츠",
       "growth": "+9%",
-      "total_mentions": 81
+      "total_mentions": 82
     },
     {
       "keyword": "써스데이아일랜드",
       "growth": "+22%",
-      "total_mentions": 71
+      "total_mentions": 73
     },
     {
-      "keyword": "탑텐",
-      "growth": "+600%",
-      "total_mentions": 28
+      "keyword": "trend",
+      "growth": "+1100%",
+      "total_mentions": 59
     }
   ],
-  "most_cross_platform": [],
+  "most_cross_platform": [
+    {
+      "keyword": "카프리팬츠",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    }
+  ],
   "naver_shopping_hot": [
     "원피스",
-    "블라우스",
     "여름원피스",
     "티셔츠",
-    "여름가디건"
+    "블라우스",
+    "써스데이아일랜드"
   ],
   "top_keywords_overall": [
     "#shorts",
@@ -48,9 +57,9 @@
     "여름원피스",
     "티셔츠",
     "여름가디건",
-    "#viral",
     "써스데이아일랜드",
-    "남자반팔티",
-    "trend"
+    "#viral",
+    "trend",
+    "남자반팔티"
   ]
 }
