@@ -1,0 +1,937 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "박동원",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"살아났는데 또 다쳤다\" LG 정말 왜 이러나! 박동원 부상→우승 멤버도 어깨 잡고 떠났다",
+              "url": "https://v.daum.net/v/20260530054417326"
+            },
+            {
+              "title": "[사진]LG 백승현, '투구 중 불편함 느끼고 교체' - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/05/29/202605292055776227O"
+            },
+            {
+              "title": "'또 부상 악재' 공 2개 던지고 마운드 주저앉다...백승현 어깨 통증, LG 불펜 또 사라지나",
+              "url": "https://www.chosun.com/sports/baseball/2026/05/30/HFRTMMZSGVRDIMBSG5STAYJSMU/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "블라디미르 푸틴",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "러 드론, 돌연 루마니아 아파트 때렸다…민간인 사상자 첫 발생",
+              "url": "https://www.joongang.co.kr/article/25432433"
+            },
+            {
+              "title": "푸틴, 루마니아 아파트 드론 충돌에 러시아 연루 의혹 부인",
+              "url": "https://v.daum.net/v/20260530042100436"
+            },
+            {
+              "title": "러시아 드론, 루마니아 공격해 민간인 피해…나토 “선 넘었다” 개입 의지",
+              "url": "https://www.hani.co.kr/arti/international/international_general/1261129.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "홍해",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "홍해 통과한 대형 유조선 국내 입항 잇따라…청해부대 호송 지원",
+              "url": "https://v.daum.net/v/20260530092400813"
+            },
+            {
+              "title": "'홍해 통과' 대형 유조선 속속 입항…청해부대가 호송 지원",
+              "url": "https://www.yonhapnewstv.co.kr/news/AKR20260530102923Cz5"
+            },
+            {
+              "title": "홍해 통과 대형 유조선 국내 입항 잇따라‥5번째 유조선은 다음 달 도착",
+              "url": "https://imnews.imbc.com/news/2026/econo/article/6826375_36932.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "10억",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "주식으로 10억 만든 직장인 \"회사, 강제 유급휴가 뒤숭숭…난 걱정 없다\"",
+              "url": "https://www.news1.kr/society/general-society/6181686"
+            },
+            {
+              "title": "“25억 부동산보다 10억 주식이 낫다”…불장에 투자 성공한 화제의 직장인",
+              "url": "https://www.mk.co.kr/news/society/12061846"
+            },
+            {
+              "title": "서울 아파트값 0.25%↑…동탄 '역대 최고치'",
+              "url": "https://www.yna.co.kr/view/MYH20260528011600038"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "진보당",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "단일화 사퇴 진보당 김종훈, 민주당 김상욱 선대위원장 맡아",
+              "url": "https://www.yna.co.kr/view/AKR20260529116400057"
+            },
+            {
+              "title": "민주-진보 시의원 4곳 경선으로 단일화…진보 3명, 민주 1명",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8573080"
+            },
+            {
+              "title": "울산시장 범여권 단일후보에 與 김상욱",
+              "url": "https://v.daum.net/v/20260529043342718"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "박성재",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "한덕수 측 \"박성재 수첩 위법하게 수집\"…특검과 법정 공방",
+              "url": "https://www.yna.co.kr/view/AKR20260529149000004"
+            },
+            {
+              "title": "박성재 \"'탄핵 안 된다' 수첩 내용, 국힘 측 의견 적은 것\"",
+              "url": "https://v.daum.net/v/20260529164649467"
+            },
+            {
+              "title": "한덕수 측 \"특검, 박성재 수첩 위법하게 수집\" 특검 \"이유 설명했다\" 공방",
+              "url": "https://www.chosun.com/national/court_law/2026/05/29/XT4Y4JO7SNCV5FO5LY3UIODLSI/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "스텔라루멘",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "美 월가 '토큰화 열풍' 탄 스텔라…일주일간 43% 급등[코인현미경]",
+              "url": "https://v.daum.net/v/20260530070655332"
+            },
+            {
+              "title": "비트코인 주춤한 사이…스텔라루멘 하루 만에 20% 급등, 왜?",
+              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260529010008812"
+            },
+            {
+              "title": "美 예탁결제원-스텔라 파트너십, XRP 퇴출 신호?…업계선 \"오히려 대형 호재\"",
+              "url": "https://news.nate.com/view/20260529n19779"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "유선호",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "'1박2일' 하차 유선호, 서운할 법도 한데…\"넌 낄 분위기 아냐\" 배제",
+              "url": "https://v.daum.net/v/20260530085817407"
+            },
+            {
+              "title": "'1박2일' 딘딘, 막내 유선호 하차에 눈물 펑펑 \"넌 최고의 막내\"",
+              "url": "https://www.news1.kr/entertain/broadcast-tv/6182305"
+            },
+            {
+              "title": "굿바이 유선호…'1박 2일' 이별 여행서 끝내 '눈물'",
+              "url": "https://news.nate.com/view/20260530n04773"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "kt",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "탁구",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "탁구 아시안게임 대표 확정…박규현·박가현 선발전 우승",
+              "url": "https://www.yna.co.kr/view/AKR20260529174000007"
+            },
+            {
+              "title": "'유시우→이다은 전부 이겼다!' 주니어 박가현, 2026 AG 韓 탁구 국대 막차 탑승 - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/05/30/2026052918554520308"
+            },
+            {
+              "title": "박규현·박가현, 막차로 아시안게임 탁구 국가대표 선발",
+              "url": "https://www.newsis.com/view/NISX20260529_0003649940"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 73,
+          "interest_max": 100,
+          "interest_latest": 70,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 7,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 90,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 7,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 33,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "will smith",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Will Smith’s Ex-Wife Sheree Zampino Sues Over Sexual Claims, According to Filing",
+              "url": "https://www.yahoo.com/entertainment/celebrity/articles/smith-ex-wife-sheree-zampino-170001422.html"
+            },
+            {
+              "title": "Will Smith's Ex-Wife Sheree Zampino Sues His Former Friend Bilaal Salaam for $1M Over 'Hurtful Statements'",
+              "url": "https://people.com/will-smith-s-ex-wife-sheree-zampino-sues-his-former-friend-bilaal-salaam-for-usd1m-over-hurtful-statements-11985837"
+            },
+            {
+              "title": "Will Smith's Ex-Wife Sues After Being Accused of Sleeping Around Hollywood",
+              "url": "https://www.tmz.com/2026/05/28/will-smith-ex-wife-sues-over-sex-claims/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "trent grisham",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Judge ends HR drought with maximum drama: A walk-off shot vs. Rays",
+              "url": "https://www.mlb.com/news/aaron-judge-hits-walk-off-home-run-against-rays"
+            },
+            {
+              "title": "Yankees 2-0 Rays (May 24, 2026) Game Recap",
+              "url": "https://www.espn.com/mlb/recap/_/gameId/401815477"
+            },
+            {
+              "title": "Rays Run Into A Loss: Rays 0, Yankees 2",
+              "url": "https://www.draysbay.com/tampa-bay-rays-scores/88925/rays-run-into-a-loss-rays-0-yankees-2"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "julio rodríguez",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Julio Rodríguez's two-run home run (11)",
+              "url": "https://www.mlb.com/mariners/video/zac-gallen-in-play-run-s-to-julio-rodriguez"
+            },
+            {
+              "title": "Julio Rodriguez goes deep Wednesday",
+              "url": "https://www.fantasypros.com/mlb/news/588322/julio-rodriguez-goes-deep-wednesday-.php"
+            },
+            {
+              "title": "Mariners' Julio Rodriguez: Mashes ninth homer in loss",
+              "url": "https://www.cbssports.com/fantasy/baseball/news/mariners-julio-rodriguez-mashes-ninth-homer-in-loss/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "don mattingly",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Eagles DC Vic Fangio takes shot at Phillies for firing Rob Thomson",
+              "url": "https://sports.yahoo.com/articles/eagles-dc-vic-fangio-takes-022917761.html"
+            },
+            {
+              "title": "Phillies make managerial change, Travis Bazzana makes his Guardians debut & Shohei Ohtani prioritizing his pitching",
+              "url": "https://www.aol.com/articles/phillies-managerial-change-travis-bazzana-200201000.html"
+            },
+            {
+              "title": "Don Mattingly’s Phillies miracle has created an unexpected conversation about his legacy",
+              "url": "https://www.msn.com/en-us/sports/mlb/don-mattingly-s-phillies-miracle-has-created-an-unexpected-conversation-about-his-legacy/ar-AA24hriL"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "cal raleigh",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Mariners' Cal Raleigh takes first swings off tee amid oblique recovery",
+              "url": "https://www.espn.com/mlb/story/_/id/48915302/mariners-cal-raleigh-takes-first-swings-tee-amid-oblique-recovery"
+            },
+            {
+              "title": "The latest on injuries to Seattle Mariners' Raleigh, Donovan",
+              "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-gm-shares-update-on-injuries-to-raleigh-donovan"
+            },
+            {
+              "title": "Mariners' Cal Raleigh Making Progress in Rehab",
+              "url": "https://sports.yahoo.com/articles/mariners-cal-raleigh-making-progress-225805024.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "kyle tucker",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Dodgers' Kyle Tucker: Getting breather Wednesday",
+              "url": "https://www.cbssports.com/fantasy/baseball/news/dodgers-kyle-tucker-getting-breather-wednesday/"
+            },
+            {
+              "title": "Kyle Tucker News: Getting breather Wednesday",
+              "url": "https://www.rotowire.com/baseball/headlines/kyle-tucker-news-getting-breather-wednesday-1005709"
+            },
+            {
+              "title": "Where to watch Colorado Rockies vs. Los Angeles Dodgers: Live stream, start time, TV channel, odds for Wednesday, May 27",
+              "url": "https://sports.yahoo.com/mlb/article/where-to-watch-colorado-rockies-vs-los-angeles-dodgers-live-stream-start-time-tv-channel-odds-for-wednesday-may-27-021339308.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "ketel marte",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "What's fueling D-backs' surge? Marte, rotation and youth",
+              "url": "https://www.mlb.com/dbacks/news/d-backs-hot-stretch-fueled-ketel-marte-and-pitching?t=long-home-runs-coverage"
+            },
+            {
+              "title": "Giants swept by Diamondbacks, again, after baserunning drama stymies comeback",
+              "url": "https://www.sfchronicle.com/sports/giants/article/giants-swept-diamondbacks-again-late-drama-22279220.php"
+            },
+            {
+              "title": "Snake Bytes 5/27: Dreaming of a Sweep",
+              "url": "https://www.azsnakepit.com/arizona-diamondbacks-news/92740/snake-bytes-5-27-dreaming-of-a-sweep"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "ryan mcmahon",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "New Mock Draft",
+              "url": "https://www.purplerow.com/post/6AvQ6IG3jXai"
+            },
+            {
+              "title": "FanGraphs: Spencer Strider Analyzes a Fascinating First Frame at Fenway Park",
+              "url": "https://www.batterypower.com/post/3rHiV6KyFNRf"
+            },
+            {
+              "title": "What's your reaction to homers in back-to-back games for McMahon?",
+              "url": "https://www.pinstripealley.com/post/bp_5zSAaKTdz"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "jacob gonzalez",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "White Sox To Select Jacob Gonzalez",
+              "url": "https://www.mlbtraderumors.com/2026/05/white-sox-to-select-jacob-gonzalez.html"
+            },
+            {
+              "title": "Chicago White Sox minor-league updates on Jacob Gonzalez, Braden Montgomery, Caleb Bonemer and more",
+              "url": "https://www.chicagotribune.com/2026/05/28/chicago-white-sox-minor-leagues-jacob-gonzalez/"
+            },
+            {
+              "title": "Jacob Gonzalez, Tommy White Headline 10 Statcast Standouts (May 25)",
+              "url": "https://www.baseballamerica.com/stories/jacob-gonzalez-tommy-white-headline-10-statcast-standouts-may-25/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "brewers game",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Brewers pitcher Abner Uribe gets a one-game suspension for crotch-chopping celebration",
+              "url": "https://www.foxnews.com/outkick-sports/brewers-pitcher-abner-uribe-gets-one-game-suspension-crotch-chopping-celebration"
+            },
+            {
+              "title": "Uribe gets 1-game suspension for actions vs. Cards, appeals decision",
+              "url": "https://www.mlb.com/news/abner-uribe-suspended-one-game-for-inappropriate-actions-vs-cardinals"
+            },
+            {
+              "title": "Abner Uribe Suspended By MLB for DX Chop Celebration on Video During Brewers' Win vs. Cardinals",
+              "url": "https://bleacherreport.com/articles/25432097-abner-uribe-suspended-mlb-dx-chop-celebration-video-during-brewers-win-vs-cardinals"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 51,
+          "interest_max": 100,
+          "interest_latest": 48,
+          "rank": 1
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 42,
+          "interest_max": 100,
+          "interest_latest": 33,
+          "rank": 2
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 35,
+          "interest_max": 100,
+          "interest_latest": 28,
+          "rank": 3
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 31,
+          "interest_max": 88,
+          "interest_latest": 38,
+          "rank": 4
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 25,
+          "interest_max": 100,
+          "interest_latest": 49,
+          "rank": 5
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 17,
+          "interest_max": 31,
+          "interest_latest": 18,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 8,
+          "interest_max": 20,
+          "interest_latest": 12,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 4,
+          "interest_max": 17,
+          "interest_latest": 5,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 12,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 20,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 9,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 35,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "demellier",
+          "value": "170"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "the row bag",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "loewe",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "bottega veneta",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "louis vuitton",
+          "value": "40"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "tufted coquette",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette pronunciation",
+          "value": "120"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette raleigh menu",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette bake shop",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette symbols copy and paste",
+          "value": "70"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "三宅亮輔",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "「AMIAYA」姉AYAと俳優・モデル・京都の老舗漬物店４代目の“二刀流”三宅亮輔が結婚（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/006e3f1e31b7bd80e2af7a1aa2479f7e21dfba6e"
+            },
+            {
+              "title": "AMIAYAの姉・AYA＆モデル・俳優と漬物屋の“二毛作タレント”三宅亮輔、結婚を発表",
+              "url": "https://www.oricon.co.jp/news/2457964/"
+            },
+            {
+              "title": "俳優・三宅亮輔、AMIAYA・AYAとの結婚発表",
+              "url": "https://article.auone.jp/detail/1/5/9/81_9_r_20260530_1780110212041708"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "有働由美子",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "有働由美子「放送で言いたくないようなワード」を放った店員の態度急変にあぜん（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/cd100efb9eb2c04deaf99097e7c5b1c832163b7b"
+            },
+            {
+              "title": "有働由美子 ショップ店員の〝態度豹変〟にイラッ！「一段低い声で…あんまり言いたくないワード」",
+              "url": "https://article.auone.jp/detail/1/5/9/477_9_r_20260529_1780043725781913"
+            },
+            {
+              "title": "有働由美子 ショップ店員の〝態度豹変〟にイラッ！「一段低い声で…あんまり言いたくないワード」",
+              "url": "https://www.tokyo-sports.co.jp/articles/-/389963"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "柳原可奈子",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "べっぴんさん",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "「べっぴんさんです」巨人戦にNHK朝ドラ出演の“若手注目女優” 現地観戦ショットに反響「超絶かわいくてとても素敵」",
+              "url": "https://news.yahoo.co.jp/articles/f6653a17b2425f285b63515346b54e1b7a685d30"
+            },
+            {
+              "title": "【巨人】池田エライザが黒髪ポニーテールを揺らしながらスリーバン始球式",
+              "url": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202605270000933-9.html"
+            },
+            {
+              "title": "「顔小さすぎ」人気女優が\"赤面投球\" 黒髪ポニテゆらし…「なんぼ何でも可愛すぎる」",
+              "url": "https://full-count.jp/2026/05/28/post1968578/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "京都大学",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 6,
+          "keyword": "田辺大智",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "日テレ・田辺大智アナ「先日双子の女の子が生まれまして」 父になったことを「シューイチ」で生報告（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/b60294c90754df60b25878b5a7826dfefa0a864c"
+            },
+            {
+              "title": "日テレ・田辺大智アナ、生放送で双子の女児誕生を発表「今すぐ、帰りたい（笑）」 高校の“隣のクラスの子”と23年に結婚",
+              "url": "https://mainichi.jp/articles/20260530/orc/00m/200/042000c"
+            },
+            {
+              "title": "日テレ・田辺大智アナ、双子誕生を生放送でサプライズ発表「かわいくてかわいくて、もう今すぐ帰りたい！」",
+              "url": "https://article.auone.jp/detail/1/5/9/202_9_r_20260530_1780100815846248"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "航空自衛隊",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【実際の投稿】「もう、好き、イケてます」AIKA、奇抜なエナメル衣装",
+              "url": "https://www.chunichi.co.jp/article/1255715"
+            },
+            {
+              "title": "「基地内カップルは多い」「私は噂を立てられたけど…」航空自衛隊に6年勤務した“セクシーすぎる元航空自衛官”（25）が明かす、“自衛隊の意外な恋愛事情”",
+              "url": "https://news.livedoor.com/article/detail/31409446/"
+            },
+            {
+              "title": "元航空自衛隊の異色レースクイーン、衝撃的変形ボディースーツ衣装に「無敵BODY」「美の鎧」",
+              "url": "https://www.nikkansports.com/entertainment/news/202605240000329.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "ブランドン・マーシュ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Guess which Phillies outfielder is up there with Cobb & Hornsby?",
+              "url": "https://www.mlb.com/news/brandon-marsh-has-one-of-highest-babip-ever"
+            },
+            {
+              "title": "Phillies thoughts: Letting Marsh and Stott play, reimagining the bench, Harper-Machado - The Athletic",
+              "url": "https://www.nytimes.com/athletic/7315887/2026/05/29/phillies-brandon-marsh-bryson-stott/"
+            },
+            {
+              "title": "Red-hot Marsh (finger sprain) out of lineup; expected to return Friday",
+              "url": "https://www.mlb.com/news/brandon-marsh-exits-game-with-finger-injury"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "おかまのkenちゃん",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "東海地方を中心に活動「おかまのKENちゃん」死去 開局から活躍のFMラジオ局が発表（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/626754107ef3bf4b80766c0fddac828cede1a14e"
+            },
+            {
+              "title": "東海地方を中心に活動「おかまのKENちゃん」死去　開局から活躍のFMラジオ局が発表",
+              "url": "https://www.nikkansports.com/entertainment/news/202605300000194.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "北海道高校野球",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【ライブ配信中】クラーク－札幌日大高 春季全道高校野球 5日目の第1試合＝準決勝",
+              "url": "https://www.hokkaido-np.co.jp/article/1318075/"
+            },
+            {
+              "title": "選抜出場の北照、3失策が響き準々決勝敗退…指揮官が語った夏へ向けて課題【北海道】（高校野球ドットコム）",
+              "url": "https://news.yahoo.co.jp/articles/071f8b37f1673034bb159b0808e883acacd2bddc"
+            },
+            {
+              "title": "【高校野球】北海道大会４強でそろう 北北海道勢３校準決勝進出は４６年ぶり",
+              "url": "https://hochi.news/articles/20260528-OHT1T51207.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 46,
+          "interest_max": 100,
+          "interest_latest": 61,
+          "rank": 1
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 43,
+          "interest_max": 100,
+          "interest_latest": 56,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 33,
+          "interest_max": 100,
+          "interest_latest": 33,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 19,
+          "interest_max": 52,
+          "interest_latest": 28,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 13,
+          "interest_max": 68,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 9,
+          "interest_max": 45,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 29,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 1,
+          "interest_max": 74,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 フアッション",
+          "value": "48750"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション メンズ どこで 買う",
+          "value": "27950"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "ファッション プレス",
+          "value": "160"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "grl",
+          "value": "150"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 系 ファッション 男子",
+          "value": "120"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-05-30T03:34:20.175746+00:00"
+}

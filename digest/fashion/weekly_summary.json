@@ -1,8 +1,8 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-05-23",
-    "to": "2026-05-29"
+    "from": "2026-05-24",
+    "to": "2026-05-30"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -10,17 +10,27 @@
     {
       "keyword": "여름원피스",
       "growth": "+9%",
-      "total_mentions": 82
+      "total_mentions": 83
     },
     {
       "keyword": "써스데이아일랜드",
-      "growth": "+22%",
-      "total_mentions": 73
+      "growth": "+10%",
+      "total_mentions": 75
+    },
+    {
+      "keyword": "#ootd",
+      "growth": "+11%",
+      "total_mentions": 69
+    },
+    {
+      "keyword": "ootd",
+      "growth": "+11%",
+      "total_mentions": 69
     },
     {
       "keyword": "코디",
-      "growth": "+17%",
-      "total_mentions": 44
+      "growth": "+60%",
+      "total_mentions": 46
     }
   ],
   "most_cross_platform": [
@@ -29,14 +39,6 @@
       "platforms": [
         "x_twitter",
         "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "지드래곤",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
       ],
       "count": 2
     },
@@ -55,6 +57,14 @@
         "youtube"
       ],
       "count": 2
+    },
+    {
+      "keyword": "지드래곤",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
     }
   ],
   "naver_shopping_hot": [
@@ -62,7 +72,7 @@
     "여름원피스",
     "티셔츠",
     "블라우스",
-    "써스데이아일랜드"
+    "여름가디건"
   ],
   "top_keywords_overall": [
     "티셔츠",

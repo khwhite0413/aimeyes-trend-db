@@ -1,80 +1,36 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "mode": "general",
-  "compared_to": "2026-05-28",
-  "total_keywords_today": 513,
-  "total_keywords_yesterday": 390,
-  "data_days_available": 75,
+  "compared_to": "2026-05-29",
+  "total_keywords_today": 511,
+  "total_keywords_yesterday": 513,
+  "data_days_available": 76,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "#shorts",
-      "change": "+12%",
-      "today_count": 19,
-      "yesterday_count": 17,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 19건, 어제 17건 기준"
-    },
-    {
-      "keyword": "trend",
-      "change": "+33%",
-      "today_count": 16,
+      "keyword": "#viral",
+      "change": "+8%",
+      "today_count": 13,
       "yesterday_count": 12,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 16건, 어제 12건 기준"
-    },
-    {
-      "keyword": "#viral",
-      "change": "+71%",
-      "today_count": 12,
-      "yesterday_count": 7,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 12건, 어제 7건 기준"
-    },
-    {
-      "keyword": "dance",
-      "change": "+10%",
-      "today_count": 11,
-      "yesterday_count": 10,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 11건, 어제 10건 기준"
+      "sample_note": "오늘 13건, 어제 12건 기준"
     },
     {
       "keyword": "#trending",
-      "change": "+14%",
-      "today_count": 8,
-      "yesterday_count": 7,
+      "change": "+12%",
+      "today_count": 9,
+      "yesterday_count": 8,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 8건, 어제 7건 기준"
+      "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
-      "keyword": "#tiktok",
-      "change": "+250%",
-      "today_count": 7,
-      "yesterday_count": 2,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 2건 기준"
-    },
-    {
-      "keyword": "여름블라우스",
+      "keyword": "올리비아로렌",
       "change": "+20%",
       "today_count": 6,
       "yesterday_count": 5,
@@ -85,40 +41,7 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "funny",
-      "change": "+150%",
-      "today_count": 5,
-      "yesterday_count": 2,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#food",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
-    },
-    {
-      "keyword": "#trend",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#dance",
+      "keyword": "#diy",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -129,7 +52,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "copines",
+      "keyword": "#cooking",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -140,148 +63,243 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "#funny",
+      "keyword": "cooking",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "mashup",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "philippines",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "party",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "may",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#lifehacks",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#tips",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "lifehacks",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "tips",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#shortfeed",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "shortfeed",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "트렌드",
       "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
+      "today_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "diy",
-      "change": "NEW",
-      "today_count": 4,
-      "yesterday_count": 0,
+      "keyword": "nervy",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건 (신규)"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#edit",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "funk",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#lyrics",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "28th",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "edit",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "lyrics",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#생활꿀팁",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "생활꿀팁",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
-      "keyword": "recipe",
-      "change": "-14%",
-      "today_count": 6,
+      "keyword": "#shorts",
+      "change": "-26%",
+      "today_count": 14,
+      "yesterday_count": 19,
+      "confidence": "high"
+    },
+    {
+      "keyword": "trend",
+      "change": "-25%",
+      "today_count": 12,
+      "yesterday_count": 16,
+      "confidence": "high"
+    },
+    {
+      "keyword": "남자반팔티",
+      "change": "-12%",
+      "today_count": 7,
+      "yesterday_count": 8,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "#tiktok",
+      "change": "-29%",
+      "today_count": 5,
       "yesterday_count": 7,
       "confidence": "medium"
     },
     {
-      "keyword": "team",
-      "change": "-67%",
-      "today_count": 2,
+      "keyword": "recipe",
+      "change": "-17%",
+      "today_count": 5,
       "yesterday_count": 6,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
-      "keyword": "hack",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "시슬리원피스",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "amp",
-      "change": "-33%",
+      "keyword": "#trend",
+      "change": "-50%",
       "today_count": 2,
-      "yesterday_count": 3,
+      "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "スカッと",
-      "change": "-100%",
-      "today_count": 0,
-      "yesterday_count": 3,
+      "keyword": "trends",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "アニメ",
-      "change": "-100%",
-      "today_count": 0,
-      "yesterday_count": 3,
+      "keyword": "copines",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "유행하는",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "바람막이",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
       "confidence": "low"
     }
   ],
-  "new_entries": [
-    "diy",
-    "#diy"
-  ],
+  "new_entries": [],
   "cross_platform_hot": []
 }

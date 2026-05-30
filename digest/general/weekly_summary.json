@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-05-23",
-    "to": "2026-05-29"
+    "from": "2026-05-24",
+    "to": "2026-05-30"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#shorts",
-      "growth": "+73%",
-      "total_mentions": 109
-    },
-    {
       "keyword": "여름원피스",
       "growth": "+9%",
-      "total_mentions": 82
+      "total_mentions": 83
     },
     {
       "keyword": "티셔츠",
       "growth": "+9%",
-      "total_mentions": 82
+      "total_mentions": 83
     },
     {
       "keyword": "써스데이아일랜드",
-      "growth": "+22%",
-      "total_mentions": 73
+      "growth": "+10%",
+      "total_mentions": 75
     },
     {
-      "keyword": "#viral",
-      "growth": "+9%",
-      "total_mentions": 71
+      "keyword": "trend",
+      "growth": "+71%",
+      "total_mentions": 74
+    },
+    {
+      "keyword": "dance",
+      "growth": "+83%",
+      "total_mentions": 58
     }
   ],
   "most_cross_platform": [
@@ -48,7 +48,7 @@
     "여름원피스",
     "티셔츠",
     "블라우스",
-    "써스데이아일랜드"
+    "여름가디건"
   ],
   "top_keywords_overall": [
     "#shorts",
@@ -58,8 +58,8 @@
     "티셔츠",
     "여름가디건",
     "써스데이아일랜드",
-    "#viral",
     "trend",
-    "남자반팔티"
+    "#viral",
+    "dance"
   ]
 }
