@@ -20,25 +20,36 @@
     },
     {
       "keyword": "코디",
-      "change": "+25%",
-      "today_count": 10,
+      "change": "+12%",
+      "today_count": 9,
       "yesterday_count": 8,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 10건, 어제 8건 기준"
+      "sample_note": "오늘 9건, 어제 8건 기준"
+    },
+    {
+      "keyword": "#shorts",
+      "change": "+12%",
+      "today_count": 9,
+      "yesterday_count": 8,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
       "keyword": "#fashion",
-      "change": "+29%",
-      "today_count": 9,
+      "change": "+14%",
+      "today_count": 8,
       "yesterday_count": 7,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 9건, 어제 7건 기준"
+      "sample_note": "오늘 8건, 어제 7건 기준"
     },
     {
       "keyword": "여름",
@@ -140,17 +151,6 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
-      "keyword": "#ytshorts",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
       "keyword": "haul",
       "change": "+67%",
       "today_count": 5,
@@ -160,17 +160,6 @@
         "youtube"
       ],
       "sample_note": "오늘 5건, 어제 3건 기준"
-    },
-    {
-      "keyword": "ytshorts",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
       "keyword": "meesho",
@@ -226,13 +215,38 @@
         "youtube"
       ],
       "sample_note": "오늘 4건 (신규)"
+    },
+    {
+      "keyword": "look",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
     }
   ],
   "declining": [
     {
+      "keyword": "#ootd",
+      "change": "-10%",
+      "today_count": 9,
+      "yesterday_count": 10,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "ootd",
+      "change": "-10%",
+      "today_count": 9,
+      "yesterday_count": 10,
+      "confidence": "medium"
+    },
+    {
       "keyword": "style",
-      "change": "-12%",
-      "today_count": 7,
+      "change": "-38%",
+      "today_count": 5,
       "yesterday_count": 8,
       "confidence": "medium"
     },
@@ -259,8 +273,8 @@
     },
     {
       "keyword": "outfit",
-      "change": "-40%",
-      "today_count": 3,
+      "change": "-60%",
+      "today_count": 2,
       "yesterday_count": 5,
       "confidence": "low"
     },
@@ -272,29 +286,23 @@
       "confidence": "low"
     },
     {
-      "keyword": "세련된",
-      "change": "-100%",
-      "today_count": 0,
-      "yesterday_count": 3,
+      "keyword": "#style",
+      "change": "-50%",
+      "today_count": 2,
+      "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "love",
+      "keyword": "데일리룩",
       "change": "-33%",
       "today_count": 2,
-      "yesterday_count": 3,
-      "confidence": "low"
-    },
-    {
-      "keyword": "thrifting",
-      "change": "-67%",
-      "today_count": 1,
       "yesterday_count": 3,
       "confidence": "low"
     }
   ],
   "new_entries": [
-    "dresses"
+    "dresses",
+    "elegant"
   ],
   "cross_platform_hot": []
 }

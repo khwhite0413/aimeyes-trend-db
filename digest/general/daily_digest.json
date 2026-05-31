@@ -2,32 +2,32 @@
   "date": "2026-05-31",
   "mode": "general",
   "compared_to": "2026-05-30",
-  "total_keywords_today": 533,
+  "total_keywords_today": 508,
   "total_keywords_yesterday": 492,
   "data_days_available": 77,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "#shorts",
-      "change": "+6%",
-      "today_count": 19,
-      "yesterday_count": 18,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 19건, 어제 18건 기준"
-    },
-    {
       "keyword": "#trending",
-      "change": "+38%",
-      "today_count": 11,
+      "change": "+25%",
+      "today_count": 10,
       "yesterday_count": 8,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 11건, 어제 8건 기준"
+      "sample_note": "오늘 10건, 어제 8건 기준"
+    },
+    {
+      "keyword": "diy",
+      "change": "+75%",
+      "today_count": 7,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 7건, 어제 4건 기준"
     },
     {
       "keyword": "올리비아로렌",
@@ -41,7 +41,18 @@
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "diy",
+      "keyword": "#diy",
+      "change": "+100%",
+      "today_count": 6,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 3건 기준"
+    },
+    {
+      "keyword": "trends",
       "change": "+25%",
       "today_count": 5,
       "yesterday_count": 4,
@@ -53,61 +64,39 @@
     },
     {
       "keyword": "mashup",
-      "change": "+33%",
-      "today_count": 4,
+      "change": "+67%",
+      "today_count": 5,
       "yesterday_count": 3,
-      "confidence": "low",
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
       "keyword": "philippines",
-      "change": "+33%",
-      "today_count": 4,
+      "change": "+67%",
+      "today_count": 5,
       "yesterday_count": 3,
-      "confidence": "low",
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
       "keyword": "may",
-      "change": "+33%",
-      "today_count": 4,
+      "change": "+67%",
+      "today_count": 5,
       "yesterday_count": 3,
-      "confidence": "low",
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
-      "keyword": "#lifehacks",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "lifehacks",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "#diy",
+      "keyword": "유행하는",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -129,7 +118,29 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
+      "keyword": "#fyp",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
       "keyword": "#생활꿀팁",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#hack",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -151,17 +162,6 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#fyp",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
       "keyword": "today",
       "change": "+50%",
       "today_count": 3,
@@ -173,15 +173,15 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#trend",
-      "change": "+50%",
+      "keyword": "clothes",
+      "change": "+200%",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
       "keyword": "에고이스트",
@@ -206,7 +206,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "pov",
+      "keyword": "#shortsfeed",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -217,29 +217,36 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "레시피",
-      "change": "NEW",
+      "keyword": "#today",
+      "change": "+100%",
       "today_count": 2,
-      "yesterday_count": 0,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건 (신규)"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
+      "keyword": "#shorts",
+      "change": "-6%",
+      "today_count": 17,
+      "yesterday_count": 18,
+      "confidence": "high"
+    },
+    {
       "keyword": "trend",
-      "change": "-40%",
-      "today_count": 6,
+      "change": "-50%",
+      "today_count": 5,
       "yesterday_count": 10,
       "confidence": "medium"
     },
     {
       "keyword": "dance",
-      "change": "-50%",
-      "today_count": 5,
+      "change": "-40%",
+      "today_count": 6,
       "yesterday_count": 10,
       "confidence": "medium"
     },
@@ -259,10 +266,10 @@
     },
     {
       "keyword": "funny",
-      "change": "-33%",
-      "today_count": 4,
+      "change": "-17%",
+      "today_count": 5,
       "yesterday_count": 6,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "keyword": "여름블라우스",
@@ -280,23 +287,16 @@
     },
     {
       "keyword": "#food",
-      "change": "-20%",
-      "today_count": 4,
+      "change": "-40%",
+      "today_count": 3,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
       "keyword": "food",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#tiktok",
-      "change": "-25%",
+      "change": "-40%",
       "today_count": 3,
-      "yesterday_count": 4,
+      "yesterday_count": 5,
       "confidence": "low"
     }
   ],
