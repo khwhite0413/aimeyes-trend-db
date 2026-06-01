@@ -9,8 +9,13 @@
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+7%",
-      "total_mentions": 118
+      "growth": "+13%",
+      "total_mentions": 119
+    },
+    {
+      "keyword": "원피스",
+      "growth": "+8%",
+      "total_mentions": 85
     },
     {
       "keyword": "#viral",
@@ -18,22 +23,25 @@
       "total_mentions": 74
     },
     {
+      "keyword": "dance",
+      "growth": "+17%",
+      "total_mentions": 58
+    },
+    {
       "keyword": "#trending",
       "growth": "+120%",
       "total_mentions": 55
-    },
-    {
-      "keyword": "탑텐",
-      "growth": "+20%",
-      "total_mentions": 44
-    },
-    {
-      "keyword": "여름블라우스",
-      "growth": "+25%",
-      "total_mentions": 35
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "지드래곤",
       "platforms": [
