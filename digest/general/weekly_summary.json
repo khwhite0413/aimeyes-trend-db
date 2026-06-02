@@ -1,39 +1,55 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-05-26",
-    "to": "2026-06-01"
+    "from": "2026-05-27",
+    "to": "2026-06-02"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#shorts",
-      "growth": "+13%",
-      "total_mentions": 119
-    },
-    {
-      "keyword": "원피스",
-      "growth": "+8%",
-      "total_mentions": 85
-    },
-    {
       "keyword": "#viral",
-      "growth": "+50%",
-      "total_mentions": 74
+      "growth": "+67%",
+      "total_mentions": 81
     },
     {
-      "keyword": "dance",
-      "growth": "+17%",
-      "total_mentions": 58
+      "keyword": "써스데이아일랜드",
+      "growth": "+9%",
+      "total_mentions": 78
+    },
+    {
+      "keyword": "trend",
+      "growth": "+50%",
+      "total_mentions": 71
     },
     {
       "keyword": "#trending",
-      "growth": "+120%",
-      "total_mentions": 55
+      "growth": "+100%",
+      "total_mentions": 62
+    },
+    {
+      "keyword": "탑텐",
+      "growth": "+17%",
+      "total_mentions": 46
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "#아이오아이",
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "한화에어로스페이스",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "원피스",
       "platforms": [
@@ -41,33 +57,25 @@
         "youtube"
       ],
       "count": 2
-    },
-    {
-      "keyword": "지드래곤",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
     "원피스",
-    "블라우스",
+    "써스데이아일랜드",
     "여름원피스",
     "티셔츠",
-    "여름가디건"
+    "블라우스"
   ],
   "top_keywords_overall": [
     "#shorts",
     "원피스",
-    "블라우스",
     "여름원피스",
     "티셔츠",
-    "여름가디건",
-    "써스데이아일랜드",
+    "블라우스",
     "#viral",
+    "써스데이아일랜드",
+    "여름가디건",
     "trend",
-    "dance"
+    "#trending"
   ]
 }
