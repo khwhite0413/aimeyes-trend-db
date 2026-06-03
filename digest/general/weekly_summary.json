@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-05-27",
-    "to": "2026-06-02"
+    "from": "2026-05-28",
+    "to": "2026-06-03"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#viral",
-      "growth": "+67%",
-      "total_mentions": 81
+      "growth": "+100%",
+      "total_mentions": 86
     },
     {
       "keyword": "써스데이아일랜드",
       "growth": "+9%",
-      "total_mentions": 78
-    },
-    {
-      "keyword": "trend",
-      "growth": "+50%",
-      "total_mentions": 71
-    },
-    {
-      "keyword": "dance",
-      "growth": "+12%",
-      "total_mentions": 61
+      "total_mentions": 79
     },
     {
       "keyword": "#trending",
-      "growth": "+83%",
-      "total_mentions": 61
+      "growth": "+71%",
+      "total_mentions": 67
+    },
+    {
+      "keyword": "여름블라우스",
+      "growth": "+40%",
+      "total_mentions": 40
+    },
+    {
+      "keyword": "#tiktok",
+      "growth": "+250%",
+      "total_mentions": 37
     }
   ],
   "most_cross_platform": [
@@ -45,21 +45,21 @@
   ],
   "naver_shopping_hot": [
     "원피스",
-    "써스데이아일랜드",
+    "블라우스",
     "여름원피스",
     "티셔츠",
-    "블라우스"
+    "써스데이아일랜드"
   ],
   "top_keywords_overall": [
     "#shorts",
+    "#viral",
     "원피스",
+    "블라우스",
     "여름원피스",
     "티셔츠",
-    "블라우스",
-    "#viral",
     "써스데이아일랜드",
     "여름가디건",
     "trend",
-    "dance"
+    "#trending"
   ]
 }
