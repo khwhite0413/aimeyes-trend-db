@@ -1,0 +1,939 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "기업공개",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "한투운용, 스페이스X IPO 참여…직접 참여 운용사는 처음",
+              "url": "https://v.daum.net/v/20260604102700861"
+            },
+            {
+              "title": "스페이스X 상장 임박…'반도체 자금 이동할까' 수급 블랙홀 '주의보'",
+              "url": "https://www.investchosun.com/site/data/html_dir/2026/06/02/2026060280125.html"
+            },
+            {
+              "title": "머스크, 세계 첫 '조만장자' 되나…기업가치 2705조원 도전(종합)",
+              "url": "https://www.newsis.com/view/NISX20260604_0003655747"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "이하늘",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "이하늘 \"미쓰라와 싸우면 내가 지는데…에픽하이 왜 때렸겠나\" 폭행설 부인",
+              "url": "https://www.news1.kr/entertain/celebrity-topic/6185989"
+            },
+            {
+              "title": "에픽하이 폭행설 이하늘 \"싸움하면 내가 진다, 세상 공부 좀…\" - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/06/03/2026060311202716114"
+            },
+            {
+              "title": "DJ DOC 이하늘 “에픽하이를 왜 때려? 싸우면 내가 진다” 가짜뉴스에 분노",
+              "url": "https://www.mk.co.kr/news/entertain/12064753"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "월드컵 일정",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "한국 U-17 대표팀, 우간다와 월드컵 첫 맞대결…경기 일정 발표",
+              "url": "https://v.daum.net/v/20260602184115674"
+            },
+            {
+              "title": "[현지 전문가 기고] B조 카타르: 월드컵 직전 쫓겨났던 로페테기의 한풀이",
+              "url": "https://v.daum.net/v/20260603073737300"
+            },
+            {
+              "title": "[오피셜] \"한국엔 이런 선수가 없어\" 슈틸리케의 그 소리아, 카타르 북중미 월드컵 최종 엔트리 탈락",
+              "url": "https://news.nate.com/view/20260602n08074?mid=n1007"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "김하성",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "애틀랜타 김하성, 모처럼 안타 신고…타율 0.102↑",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8577793"
+            },
+            {
+              "title": "'와 드디어' 김하성 침묵 끝냈다! 기다렸던 적시타 폭발…타율 1할 진입",
+              "url": "https://www.chosun.com/sports/world-baseball/2026/06/04/MVSGCNRZHFSTMZBVGM4GKMZYGE/"
+            },
+            {
+              "title": "토론토전, 적시타 치는 김하성…팀은 7-3 승리",
+              "url": "https://www.newsis.com/view/NISI20260604_0002152637"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "티켓링크",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "본격적인 더위의 시작, 더 뜨거워진 6월 공연라인업",
+              "url": "https://magazine.hankyung.com/money/article/202605145342c"
+            },
+            {
+              "title": "뮤지컬 '베토벤', 7월 전관 행사 열린다",
+              "url": "https://v.daum.net/v/20260602155553966"
+            },
+            {
+              "title": "티켓링크 열 번째 전관 행사 박효신·홍광호 스페셜 티켓으로 승부 By Economic Review",
+              "url": "https://kr.investing.com/news/economy-news/article-1968212"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "수소",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "HD현대, 캐나다 잠수함 수주전 총력…정유·건설기계까지 지원사격",
+              "url": "https://v.daum.net/v/20260604102703881"
+            },
+            {
+              "title": "한화 잠수함 수주 패키지에 '수소 생태계 만든다'…현대차 \"검토 중\" (종합)",
+              "url": "https://www.asiae.co.kr/article/2026060410160614254"
+            },
+            {
+              "title": "강훈식, 加잠수함 수주총력전…\"韓잠수함 우수성 공정평가 당부\"",
+              "url": "https://www.yna.co.kr/view/AKR20260603068700001"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "이정후",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "이정후, 기습 번트로 완성한 멀티히트… 11경기 연속 안타 행진",
+              "url": "https://www.chosun.com/sports/world-baseball/2026/06/04/PRH6FVNQ4RA4ZDZ6MAHYF7VLXA/"
+            },
+            {
+              "title": "기막힌 번트 센스! 이정후 11G 연속 안타→타율 0.310…코리안 빅리거 MLB 올스타전 후보 등재",
+              "url": "https://v.daum.net/v/boiruwhDUw"
+            },
+            {
+              "title": "이정후, 기습 번트 안타 등 2안타…11경기 연속 안타 행진",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8577795"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "섬총각 영웅",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "임영웅, 이번엔 산골총각이다…오는 23일 '산골총각 영웅' 첫선",
+              "url": "https://v.daum.net/v/20260604083906750"
+            },
+            {
+              "title": "임영웅, 이번엔 ‘산골총각’으로 돌아온다⋯푸근한 티저 사진 ‘눈길’",
+              "url": "https://www.etoday.co.kr/news/view/2590327"
+            },
+            {
+              "title": "임영웅, \"이번엔 산골총각 변신\"...'산골총각 영웅' 6월 23일 첫방[공식] - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/06/04/2026060408367262117"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "유강남",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "롯데 ‘0입’에 한숨인데, 170억 트리오 또 사라졌다… 끝까지 처절한 배신인가",
+              "url": "https://v.daum.net/v/20260604060153307"
+            },
+            {
+              "title": "프로야구 롯데, 코치 2명 포함 6명 1군 엔트리서 제외(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20260603052051007"
+            },
+            {
+              "title": "\"캠프때 일본과 대만전 좋았다\" '49일만의 승리' 김진욱 亞태극마크 맹어필, 2020 도쿄 노메달 아쉬움 씻나",
+              "url": "https://www.chosun.com/sports/baseball/2026/06/04/G5QWKZDCGJTDOOBWMYZWKMDFGI/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "코인니스",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "속보 | 유명 트레이더 \"IBIT·ETHA 매수...암호화폐 관련주 밸류에이션 매력적\"",
+              "url": "https://coinness.com/news/1159329/quote"
+            },
+            {
+              "title": "세레니티, IBIT·ETHA 단기 매수",
+              "url": "https://www.tokenpost.kr/news/breaking/366124"
+            },
+            {
+              "title": "[크립토 인사이트] 자산 토큰화, 美 자본시장 지형을 바꾸다",
+              "url": "https://v.daum.net/v/20260604113154658"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 62,
+          "interest_max": 100,
+          "interest_latest": 81,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 6,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 57,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 25,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 23,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "astros",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Paul Skenes' outing against the Astros",
+              "url": "https://www.mlb.com/pirates/video/paul-skenes-outing-against-the-astros-x6370"
+            },
+            {
+              "title": "Massive bullpen collapse costs Pirates in loss to Astros",
+              "url": "https://www.post-gazette.com/sports/pirates/2026/06/03/mlb-bullpen-pirates-astros-gregory-soto-mason-montgomery/stories/202606030045"
+            },
+            {
+              "title": "How to watch Pittsburgh Pirates vs. Houston Astros, June 3, 2026",
+              "url": "https://www.dkpittsburghsports.com/team/pirates/feed/topic/live-pirates-astros-second-game-paul-skenes-mlb-jmn"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "danhausen",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "WWE's Danhausen Reveals Price to Keep Knicks Uncursed for NBA Finals in Video to Stephen A. Smith",
+              "url": "https://bleacherreport.com/articles/25433660-wwes-danhausen-reveals-price-keep-knicks-uncursed-nba-finals-video-stephen-smith"
+            },
+            {
+              "title": "Hex Appeal: Why Celebrities Are Cursing Each Other",
+              "url": "https://www.hollywoodreporter.com/news/general-news/celebrities-cursing-each-other-1236612016/"
+            },
+            {
+              "title": "WWE's Danhausen Has New Demands For Stephen A. Smith To Keep New York Knicks Uncursed",
+              "url": "https://sports.yahoo.com/articles/wwes-danhausen-demands-stephen-smith-194141665.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "nick jonas",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "‘Power Ballad’ lacks any staying power | Review",
+              "url": "https://www.seattletimes.com/entertainment/movies/power-ballad-review-john-carneys-latest-feels-thin-and-underbaked/"
+            },
+            {
+              "title": "John Carney Commends Nick Jonas for Not Strong-Arming the ‘Power Ballad’ Soundtrack",
+              "url": "https://www.hollywoodreporter.com/movies/movie-features/power-ballad-john-carney-commends-nick-jonas-1236611865/"
+            },
+            {
+              "title": "Movie Review: Paul Rudd and Nick Jonas hit the right notes in 'Power Ballad'",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/movie-review-paul-rudd-nick-212137791.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "who won",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Iowa Governor Primary Election 2026 Live Results",
+              "url": "https://www.nbcnews.com/politics/2026-primary-elections/iowa-governor-results"
+            },
+            {
+              "title": "Iowa voters pick their nominees for competitive general elections",
+              "url": "https://www.npr.org/2026/06/02/g-s1-125550/iowa-election-results-josh-turek-zach-lahn"
+            },
+            {
+              "title": "Live Results: Iowa midterm primaries",
+              "url": "https://www.pbs.org/newshour/politics/live-results-iowa-midterm-primaries"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "seattle storm",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Dallas Wings look to continue winning ways against WNBA's top scorer",
+              "url": "https://www.nbcdfw.com/news/local/dallas-wings-look-to-continue-winning-ways-against-wnbas-top-scorer/4031247/"
+            },
+            {
+              "title": "3 things to watch as the Wings take their best start in 10 years into Los Angeles",
+              "url": "https://www.mavsmoneyball.com/dallas-wings/59275/wings-preview-3-things-to-watch-jessica-shepard-los-angeles-sparks-aziaha-james-how-to-watch"
+            },
+            {
+              "title": "Wings vs Sparks — Jun 5 Game Odds & Predictions | FanDuel Market Preview",
+              "url": "https://www.sportsgrid.com/wnba/game/dallas-wings-los-angeles-sparks-scores-odds-picks-props-june-05-2026/070fcf29-463a-4f98-a9a8-452e3cb4db7c"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "amy sedaris",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Amy Sedaris shares her favorite memory of Jennifer Lopez from 'Maid in Manhattan' as they reunite for 'Office Romance'",
+              "url": "https://www.msn.com/en-us/entertainment/news/amy-sedaris-shares-her-favorite-memory-of-jennifer-lopez-from-maid-in-manhattan-as-they-reunite-for-office-romance/ar-AA24x3Lw"
+            },
+            {
+              "title": "Amy Sedaris 'grieves' working with Jennifer Lopez in 'Office Romance' after two decades?",
+              "url": "https://www.thenews.com.pk/latest/1404342-amy-sedaris-grieves-working-with-jennifer-lopez-in-office-romance-after-two-decades"
+            },
+            {
+              "title": "Amy Sedaris recalls Jennifer Lopez was always \"humming or singing\" between takes on 'Maid in Manhattan'*",
+              "url": "https://www.aninews.in/news/entertainment/hollywood/amy-sedaris-recalls-jennifer-lopez-was-always-humming-or-singing-between-takes-on-maid-in-manhattan20260601131530"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "awa fam",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Beck Way Outs Recorded Over/Under Player Prop Odds, Projections & Picks",
+              "url": "https://www.bettingpros.com/mlb/props/beck-way/outs-recorded/"
+            },
+            {
+              "title": "Beck Way Hits Allowed Over/Under Player Prop Odds, Projections & Picks",
+              "url": "https://www.bettingpros.com/mlb/props/beck-way/hits-allowed/"
+            },
+            {
+              "title": "Awa Fam Steals + Blocks Over/Under Player Prop Odds, Projections & Picks",
+              "url": "https://www.bettingpros.com/wnba/props/awa-fam/steals-blocks/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "inside the nba",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Charles Barkley Reacts to Draymond Green's Controversial Diss",
+              "url": "https://roundtable.io/sports/nba/warriors/news/charles-barkley-reacts-to-draymond-greens-controversial-diss"
+            },
+            {
+              "title": "\"Very happy with it\" - Draymond Green welcomes a hypothetical matchup with prime Charles Barkley",
+              "url": "https://www.basketballnetwork.net/latest-news/draymond-green-welcomes-a-hypothetical-matchup-with-prime-charles-barkley"
+            },
+            {
+              "title": "Big Draymond Green Career Announcement Drops Ahead of NBA Finals",
+              "url": "https://heavy.com/sports/nba/golden-state-warriors/draymond-green-finals-inside-the-nba-charles-barkley/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "trae young",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "AJ Dybantsa receiving comparisons to these NBA stars",
+              "url": "https://www.deseret.com/sports/2026/06/02/aj-dybantsa-2026-nba-draft-player-comparisons-espn/"
+            },
+            {
+              "title": "Why the Wizards Should Ignore their Former Star's Draft Advice",
+              "url": "https://sports.yahoo.com/articles/why-wizards-ignore-former-stars-194942078.html"
+            },
+            {
+              "title": "ESPN’s 2026 NBA Draft Lottery Player Comps Set the Bar High (and Low)",
+              "url": "https://www.bleachernation.com/bulls/2026/06/03/2026-nba-draft-comps-espn/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "becky hammon",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Las Vegas Aces coach Becky Hammon secures 150th victory",
+              "url": "https://www.espn.com/wnba/story/_/id/48934220/las-vegas-aces-coach-becky-hammon-secures-150th-victory"
+            },
+            {
+              "title": "Aces star Wilson lauds coach Hammon after 150th WNBA win",
+              "url": "https://sporty.com/news/aces-star-wilson-lauds-coach-hammon-after-150th-wnba-win/1shhg3a8ht4c173k4h8n9xxbe"
+            },
+            {
+              "title": "Becky Hammon reaches 150 wins as A’ja Wilson’s scoring helps the Las Vegas Aces beat Valkyries",
+              "url": "https://www.kold.com/2026/06/02/becky-hammon-reaches-150-wins-aja-wilsons-scoring-helps-las-vegas-aces-beat-valkyries/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 34,
+          "interest_max": 100,
+          "interest_latest": 36,
+          "rank": 1
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 30,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 21,
+          "interest_max": 50,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 19,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 16,
+          "interest_max": 31,
+          "interest_latest": 20,
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 15,
+          "interest_max": 51,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 6,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 3,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 30,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "delvaux",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "predator 3500 watt super quiet inverter generator",
+          "value": "110"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury meaning",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette blackfin",
+          "value": "10950"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "capri boston",
+          "value": "300"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "gloomy coquette",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette dress to impress",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette bake shop",
+          "value": "60"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "松本伊代",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "＜松本伊代＞昨年60歳に ハワイへの家族旅行、夫ヒロミとおしゃべりしながらウオーキング 一人“推し活”も 「徹子の部屋」で",
+              "url": "https://news.yahoo.co.jp/articles/d2c0509435a28947043a88df4c9bf9a676571639"
+            },
+            {
+              "title": "「どうやって痩せたんや…」丸山礼、“スッキリ”した近影に驚く声「顎シュッてなって」「たまらねえっす!!」",
+              "url": "https://www.oricon.co.jp/news/2458848/photo/2/"
+            },
+            {
+              "title": "オリコンニュース：還暦迎えた松本伊代、ヒロミとの夫婦生活を明かす 趣味には互いに「干渉しない」",
+              "url": "https://mainichi.jp/articles/20260604/orc/00m/200/016000c"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "三浦知良",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "福島ユナイテッドFC、プレーオフ初戦で八戸破り「33位・34位決定戦」へ【J3】",
+              "url": "https://newsdig.tbs.co.jp/articles/tuf/2702512?display=1"
+            },
+            {
+              "title": "三浦知良、35歳差の神対応「カズとカズでいいよ」　決勝弾の24歳が明かす秘話「時々、振り向いています」",
+              "url": "https://topics.smt.docomo.ne.jp/article/football_zone/sports/football_zone-648224?page=2"
+            },
+            {
+              "title": "青森：福島に敗れる プレーオフ初戦：地域ニュース",
+              "url": "https://www.yomiuri.co.jp/local/aomori/news/20260601-GYTNT00397/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "上定昭仁",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "内田梨瑚",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "「これからの人生を奪ってしまい、申し訳ございません」【旭川女子高校生殺害】内田梨瑚被告が法廷で初めて謝罪 涙ながらに20秒以上、傍聴席に礼 北海道・旭川地裁（HBCニュース北海道）",
+              "url": "https://news.yahoo.co.jp/articles/2b2ec37b6cfde949e97bab7c10cb9154b380e4dc"
+            },
+            {
+              "title": "【旭川・女子高校生殺害】内田梨瑚被告が初めて法廷で謝罪「人生を奪ってしまい申し訳ない」と涙流しながら話す 殺人などは否認続く",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2708783"
+            },
+            {
+              "title": "北海道 旭川 高校生殺害事件 作り話指摘に被告「絶対違う」",
+              "url": "https://news.web.nhk/newsweb/na/na-k10015140061000"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ベストファーザー賞",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "「素敵なパパ」MIYAVIのベストファーザー賞受賞コメントに共感続々「スーパーベストマザー賞を捧げたい」（ピンズバNEWS）",
+              "url": "https://news.yahoo.co.jp/articles/0edc201c7e218ecdb9b6b1e9c71e9b1171e8b528"
+            },
+            {
+              "title": "「素敵なパパ」世界で活躍のギタリスト、ベストファーザー賞コメントに共感続々「スーパーベストマザー賞を捧げたい」",
+              "url": "https://article.auone.jp/detail/1/5/9/458_9_r_20260604_1780541052353119"
+            },
+            {
+              "title": "前田耕陽、男闘呼組に重ね嵐に敬意「ちゃんとファンのためにけじめをつけた」",
+              "url": "https://www.nikkansports.com/entertainment/news/202606010001320.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "信州大学 逮捕",
+          "traffic": "1000+",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "棋聖戦",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "藤井聡太棋聖 第1局は角換わり 「端歩は心の余裕」と服部慎一郎七段は9筋を突き越す（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/2a39f35bcbafb1ea4479857b9fd784e1701be795"
+            },
+            {
+              "title": "藤井棋聖おやつ「豆腐の白玉あんみつ」 服部七段「シャンドゥーヤチョコレートのムース」",
+              "url": "https://www.sankei.com/article/20260604-TOKWP4Z2YNJGXIFPHYTFXASNGY/"
+            },
+            {
+              "title": "盤上は未知の領域から乱戦模様　ヒューリック杯棋聖戦第1局、前例少ない戦いに",
+              "url": "https://topics.smt.docomo.ne.jp/article/sankei/nation/sankei-_life_shogi_QWXYM6MKQZPH5PSXZ7WRDSZROY"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "小泉進次郎",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "習近平に特大ブーメラン…中国の「新型軍国主義」批判を黙らせた小泉進次郎大臣の\"反論\"を米側が絶賛した理由",
+              "url": "https://news.yahoo.co.jp/articles/d6435f435d9544babedfda1c0372b9c80f3d6a85"
+            },
+            {
+              "title": "中国の「新型軍国主義」批判をぴしゃりと一蹴した小泉防衛相、アジア安全保障会議で見せた日本外交の新たなフェーズ",
+              "url": "https://jbpress.ismedia.jp/articles/-/95147"
+            },
+            {
+              "title": "通用しない中国の反日キャンペーン 自国の野心を棚に上げた「新型軍国主義」批判 阿比留瑠比の極言御免",
+              "url": "https://www.sankei.com/article/20260604-T5THAP3Q6BJM3MB4NBKSVAZCTM/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "スバル",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "SUBARU レヴォーグの一部改良モデルを発表",
+              "url": "https://www.subaru.co.jp/news/2026_06_04_143345/"
+            },
+            {
+              "title": "スバル・レイバックに本命「S:HEV」登場！ターボ車との違いは？価格はどうなる？（月刊自家用車WEB） | 自動車情報・ニュース",
+              "url": "https://carview.yahoo.co.jp/news/detail/3358e85a76c1f710654ee9f62b035d1bbfa5dc07/"
+            },
+            {
+              "title": "待望のフルハイブリッド「レイバックS:HEV」追加！ 19.0km/Lという低燃費とハイパワーを両立！ 6月4日ティザーサイト開設 7月上旬発表予定！ 価格は約425万円から",
+              "url": "https://bestcarweb.jp/newcar/1539909"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "b'z",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "B'z 近影が“泣きそうになる”と話題に!「感情崩壊」「心臓に悪すぎ」",
+              "url": "https://abema.tv/video/episode/89-116_s25_p15280"
+            },
+            {
+              "title": "B’z松本孝弘×稲葉浩志が最新オフショットを披露！肩を寄せ合う姿に「楽しそうな姿見れて幸せ」「かっこいいおふたり」の声",
+              "url": "https://news.yahoo.co.jp/articles/de34bfbbacb9517c640cafa878f4c15f2bd81e7e"
+            },
+            {
+              "title": "B’z 稲葉浩志＆松本孝弘、最新2ショットに反響「感情崩壊」「なんか泣きそう」",
+              "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900192064.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 45,
+          "interest_max": 100,
+          "interest_latest": 41,
+          "rank": 1
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 35,
+          "interest_max": 99,
+          "interest_latest": 65,
+          "rank": 2
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 28,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 14,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 11,
+          "interest_max": 55,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 9,
+          "interest_max": 94,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 27,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 28,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 33,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 21,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 11,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "bts",
+          "value": "68000"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション メンズ 夏",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "musinsa",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "空港 ファッション 韓国",
+          "value": "50"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-06-04T04:11:28.521295+00:00"
+}

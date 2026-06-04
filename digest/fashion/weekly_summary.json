@@ -1,52 +1,52 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-05-28",
-    "to": "2026-06-03"
+    "from": "2026-05-29",
+    "to": "2026-06-04"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+80%",
-      "total_mentions": 97
-    },
-    {
-      "keyword": "써스데이아일랜드",
-      "growth": "+9%",
-      "total_mentions": 79
+      "growth": "+240%",
+      "total_mentions": 104
     },
     {
       "keyword": "#fashion",
-      "growth": "+12%",
-      "total_mentions": 58
+      "growth": "+133%",
+      "total_mentions": 57
     },
     {
-      "keyword": "코디",
-      "growth": "+17%",
-      "total_mentions": 53
+      "keyword": "#shorts",
+      "growth": "+60%",
+      "total_mentions": 52
+    },
+    {
+      "keyword": "여름",
+      "growth": "+150%",
+      "total_mentions": 49
     },
     {
       "keyword": "style",
-      "growth": "+14%",
+      "growth": "+133%",
       "total_mentions": 43
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "과천 선관위",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
-    },
-    {
       "keyword": "원피스",
       "platforms": [
         "naver",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "과천 선관위",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     },
@@ -61,16 +61,16 @@
   ],
   "naver_shopping_hot": [
     "원피스",
-    "블라우스",
     "여름원피스",
+    "블라우스",
     "티셔츠",
     "써스데이아일랜드"
   ],
   "top_keywords_overall": [
     "fashion",
     "원피스",
-    "블라우스",
     "여름원피스",
+    "블라우스",
     "티셔츠",
     "써스데이아일랜드",
     "여름가디건",
