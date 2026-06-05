@@ -1,42 +1,39 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-05-29",
-    "to": "2026-06-04"
+    "from": "2026-05-30",
+    "to": "2026-06-05"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#trending",
-      "growth": "+25%",
-      "total_mentions": 70
+      "growth": "+38%",
+      "total_mentions": 73
+    },
+    {
+      "keyword": "dance",
+      "growth": "+10%",
+      "total_mentions": 63
     },
     {
       "keyword": "diy",
-      "growth": "+175%",
-      "total_mentions": 48
+      "growth": "+150%",
+      "total_mentions": 54
     },
     {
       "keyword": "여름블라우스",
-      "growth": "+17%",
-      "total_mentions": 42
+      "growth": "+33%",
+      "total_mentions": 44
     },
     {
-      "keyword": "#diy",
-      "growth": "+100%",
-      "total_mentions": 34
+      "keyword": "#tiktok",
+      "growth": "+25%",
+      "total_mentions": 40
     }
   ],
   "most_cross_platform": [
-    {
-      "keyword": "#샤이니",
-      "platforms": [
-        "x_twitter",
-        "youtube"
-      ],
-      "count": 2
-    },
     {
       "keyword": "원피스",
       "platforms": [
@@ -51,7 +48,7 @@
     "여름원피스",
     "블라우스",
     "티셔츠",
-    "써스데이아일랜드"
+    "여름가디건"
   ],
   "top_keywords_overall": [
     "#shorts",
@@ -61,8 +58,8 @@
     "블라우스",
     "티셔츠",
     "써스데이아일랜드",
-    "trend",
     "여름가디건",
-    "#trending"
+    "#trending",
+    "trend"
   ]
 }
