@@ -1,0 +1,711 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "슈퍼 태풍",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "슈퍼 태풍이 슈퍼 엘니뇨 방아쇠 당겼다‥역대 최강 전망까지 [기후인사이트 32 | 인싸M]",
+              "url": "https://imnews.imbc.com/newszoomin/newsinsight/6828172_29123.html"
+            },
+            {
+              "title": "고작 1.5도 올랐는데 왜? '1.5도' 붕괴에 전 세계가 '멘붕'인 이유\n[세계는 왜?]",
+              "url": "https://www.hankookilbo.com/news/article/A2026060222130005816"
+            },
+            {
+              "title": "올해 하반기에 역대급으로 온다...아시아 '비상' [지금이뉴스]",
+              "url": "https://m.ytn.co.kr/news_view.php?key=202606041644579225&s_mcd=0134"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "knicks",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "’Yikes,’ ’Tying Wemby’s Shoes’ — NBA World Reacts As Victor Wembanyama Drops Mitchell Robinson With ’Nasty’ Pump Fake",
+              "url": "https://sports.yahoo.com/articles/yikes-tying-wemby-shoes-nba-022531484.html"
+            },
+            {
+              "title": "Spurs Use Hack-a-Mitch Strategy in NBA Finals to Limit Knicks Offense",
+              "url": "https://www.si.com/nba/finals/spurs-hack-a-mitch-strategy-nba-finals-to-limit-knicks-offense"
+            },
+            {
+              "title": "Victor Wembanyama drew the weakest technical foul on Mitchell Robinson",
+              "url": "https://larrybrownsports.com/basketball/victor-wembanyama-technical-foul-mitchell-robinson/757075"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "북구",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'첫 등원' 한동훈, 국힘 의원 스킨십 주력…복당은 '속도 조절'",
+              "url": "https://www.yna.co.kr/view/AKR20260605049500001"
+            },
+            {
+              "title": "접전 끝 한동훈 당선…“보수 재건·정권 견제”",
+              "url": "https://v.daum.net/v/fnst19PKvP"
+            },
+            {
+              "title": "한동훈 복당 의지…“천년만년 무소속이면 이렇게 모이셨겠나”",
+              "url": "https://www.donga.com/news/Politics/article/all/20260604/134049640/2"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "토마스 해치",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "SSG, '장기 부상' 화이트 방출하고 새 외국인 투수 해치 영입",
+              "url": "https://v.daum.net/v/Ycoe8MLxtk"
+            },
+            {
+              "title": "[오피셜] SSG '결국' 1선발 교체, '두산과 계약 해지했던' 토마스 해치 대체 영입... 화이트 웨이버 공시 - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/06/06/2026060608152424746"
+            },
+            {
+              "title": "SSG, 새 외인 투수 해치 영입…'장기 부상' 화이트 방출",
+              "url": "https://www.news1.kr/sports/baseball/6189348"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "연합인포맥스",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "환율 결국 1,560원 뚫려…17년 만의 '외환 쇼크'",
+              "url": "https://www.etnews.com/20260606000008"
+            },
+            {
+              "title": "안철수 \"환율 1560원, 금융위기 이후 최고…李대통령 '대책TF' 신설해야\"",
+              "url": "https://v.daum.net/v/20260606111202703"
+            },
+            {
+              "title": "우리금융 \"원·달러 1500원대 고환율 부담…韓증시 상승세 둔화\"",
+              "url": "https://www.newsis.com/view/NISX20260605_0003657782"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "1박 2일",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "‘1박2일 새 막내’ 이기택, 첫 인사..“국민 프로그램 멤버돼 영광” 찐팬 인증",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/06/05/GQ3TIZBVMZSDQNBZGAYGCZBZGE/"
+            },
+            {
+              "title": "이용진, '1박 2일' 인턴에서 정규직으로 귀환…육각형 활약 예고",
+              "url": "https://www.news1.kr/entertain/broadcast-tv/6189375"
+            },
+            {
+              "title": "'1박 2일' 새 막내 등장..이기택 \"노래·춤·말 잘 못해 걱정\"",
+              "url": "https://v.daum.net/v/20260605081506140"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "이시언",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "이시언, 아내 서지승 '독박 육아' 걱정..'초보 아빠'의 고백 [전현무계획3][★밤TView]",
+              "url": "https://v.daum.net/v/YzR8IqfzWF"
+            },
+            {
+              "title": "이시언, ♥서지승 신생아 독박육아 걱정 “촬영으로 1주일에 5일 나가”(‘전현무계획3’)",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/MVSGCZTDGI4TGNBQMZTDSZBTGA/"
+            },
+            {
+              "title": "이시언, 결혼 5년만 득남 소감 “♥서지승 걱정돼” (전현무계획3)",
+              "url": "https://enews.imbc.com/News/RetrieveNewsInfo/507367"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "현충일 사이렌",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "제71회 현충일 추념식 6일…'기억하고, 기록하고, 책임 다할 것'",
+              "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148965973"
+            },
+            {
+              "title": "순국선열 호국영령의 염원과 희생, 제주가 기억…추념식 거행",
+              "url": "https://www.news1.kr/local/jeju/6189373"
+            },
+            {
+              "title": "김동연 “대한민국 뿌리는 독립·호국·민주주의… 정성과 진심의 보훈 지속”",
+              "url": "https://www.kyeonggi.com/article/20260606580041"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "박봄",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "박봄, 소속사 떠난다 “논의 끝에 전속계약 종료 합의”",
+              "url": "https://v.daum.net/v/4PmtYhYC3C"
+            },
+            {
+              "title": "박봄, 소속사 디네이션과 결별…\"건강한 행보 응원\"",
+              "url": "https://www.newsis.com/view/NISX20260605_0003658496"
+            },
+            {
+              "title": "박봄, 디네이션과 8년 만의 이별⋯\"전속 계약 종료, 상호 협의\"",
+              "url": "https://www.etoday.co.kr/news/view/2591022"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "속보",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[속보]이란 \"쿠웨이트·바레인 미군기지에 탄도미사일 발사\"",
+              "url": "https://v.daum.net/v/20260606113007981"
+            },
+            {
+              "title": "[속보] 이란군 \"미군 기지에 미사일 발사‥호르무즈 폐쇄되면 미국 탓\"",
+              "url": "https://imnews.imbc.com/news/2026/world/article/6828186_36925.html"
+            },
+            {
+              "title": "호르무즈 긴장악화…이란 자폭드론 날리자 미군 즉각 대응(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20260606019751009"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 2,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 26,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 26,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "victor wembanyama",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "President Donald Trump reacts to Spurs star Victor Wembanyama folding his arms during the anthem",
+              "url": "https://www.foxnews.com/outkick-sports/president-donald-trump-reacts-spurs-star-victor-wembanyama-folding-arms-anthem"
+            },
+            {
+              "title": "‘Disrespectful’: Outrage after Victor Wembanyama crosses his arms for national anthem",
+              "url": "https://sports.yahoo.com/articles/disrespectful-outrage-victor-wembanyama-crosses-194545629.html"
+            },
+            {
+              "title": "ESPN host: Criticism of Spurs players over national anthem conduct is ‘utterly ridiculous’",
+              "url": "https://www.nj.com/sports/2026/06/espn-host-criticism-of-spurs-players-over-national-anthem-conduct-is-utterly-ridiculous.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "wemby",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "NBA Finals: Wemby's Jackals bring European fandom to Spurs-Knicks",
+              "url": "https://www.espn.com/nba/story/_/id/48968815/nba-finals-2026-spurs-knicks-game-2-wembanyama-jackals-fan-club"
+            },
+            {
+              "title": "San Antonio Explained: A look at longtime Spurs games fixture Baseline Bums",
+              "url": "https://www.expressnews.com/news/article/san-antonio-explained-spurs-baseline-bums-22072882.php"
+            },
+            {
+              "title": "Why do Spurs fans chant Olé? Victor Wembanyama-founded fan group leads effort",
+              "url": "https://ftw.usatoday.com/story/sports/mlb/2026/06/03/spurs-fans-chant-ole-victor-wembanyama-fan-group/90391335007/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "wemby age",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Will Wemby Become The GOAT",
+              "url": "https://sports.yahoo.com/videos/wemby-become-goat-030752952.html"
+            },
+            {
+              "title": "The NBA's best player year-by-year: Wemby's historic age, a new GOAT contender and 80 seasons of debate",
+              "url": "https://www.sportingnews.com/us/nba/news/nba-best-player-wemby-age-goat-contender-80-seasons/c5ef3b95023434b9da1623ac"
+            },
+            {
+              "title": "Victor Wembanyama’s half-court buzzer beater showcased a master in complete control",
+              "url": "https://www.theguardian.com/sport/2026/may/25/victor-wembanyama-spurs-thunder-nba-playoffs"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "att",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Supreme Court Backs F.C.C. Power to Levy Fines Against Cellphone Carriers",
+              "url": "https://www.nytimes.com/2026/06/04/us/politics/supreme-court-cellphone-carriers-fines.html"
+            },
+            {
+              "title": "Stock Market Today, June 4: AT&T Falls After Supreme Court Rules Against Wireless Carriers in FCC Case",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-4-211205146.html"
+            },
+            {
+              "title": "US Supreme Court backs federal regulators in wins for FCC and SEC",
+              "url": "https://www.reuters.com/business/media-telecom/us-supreme-court-backs-federal-regulators-wins-fcc-sec-2026-06-05/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "walt frazier",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Walt Frazier is still a New York Knicks patriarch",
+              "url": "https://andscape.com/features/walt-frazier-new-york-knicks-finals-championship-1973-history/"
+            },
+            {
+              "title": "\"They're going to need the National Guard in New York if they win\" - Walt Frazier thinks it's time the Knicks finally bring home the title after 53 years",
+              "url": "https://sports.yahoo.com/articles/theyre-going-national-guard-york-164400611.html"
+            },
+            {
+              "title": "“This is crazier now. When we played, there was no …",
+              "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/06/03/this-is-crazier-now-when-we-played-there-was-no/90392068007/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "ole miss baseball",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Auburn Baseball Live: Super Regional Game 1 vs. Ole Miss",
+              "url": "https://247sports.com/college/auburn/article/auburn-takes-on-ole-miss-in-the-opening-game-of-the-super-regional-287511214/"
+            },
+            {
+              "title": "Auburn Vs. Ole Miss Predictions & Preview: 2026 NCAA Baseball Tournament Super Regional",
+              "url": "https://www.baseballamerica.com/stories/auburn-vs-ole-miss-predictions-preview-2026-ncaa-baseball-tournament-super-regional/"
+            },
+            {
+              "title": "Stronger Tigers taking next big step on their journey",
+              "url": "https://www.on3.com/teams/auburn-tigers/news/stronger-tigers-taking-next-big-step-on-their-journey/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "jeremy sochan",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Jeremy Sochan trying 'not to be cancer' while playing little for Knicks",
+              "url": "https://www.expressnews.com/sports/spurs/article/jeremy-sochan-trying-not-cancer-knicks-22290402.php"
+            },
+            {
+              "title": "‘I know quite a lot’: Knicks’ Jeremy Sochan touts knowledge of Spurs in interview ahead of NBA Finals",
+              "url": "https://www.ksat.com/news/local/2026/06/01/jeremy-sochan-may-be-an-x-factor-for-knicks-despite-bench-role:-'i-know-quite-a-lot'/"
+            },
+            {
+              "title": "Ex-Spurs Player Gives Knicks Intel on Wemby Matchup Ahead of 2026 NBA Finals",
+              "url": "https://bleacherreport.com/articles/25432751-ex-spurs-player-gives-knicks-intel-wemby-matchup-ahead-2026-nba-finals"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "tyler kolek",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Tyler Kolek's mom reflects on son's journey as Knicks tip off NBA Finals against Spurs",
+              "url": "https://www.tmj4.com/sports/tyler-koleks-mom-reflects-on-sons-journey-as-knicks-tip-off-nba-finals-against-spurs"
+            },
+            {
+              "title": "Kolek’s mom: Hard work fueled Marquette alum's rise to NBA Finals",
+              "url": "https://www.wisn.com/article/koleks-mom-hard-work-fueled-marquette-alums-rise-to-nba-finals/71499717"
+            },
+            {
+              "title": "Marquette In The 2026 NBA Playoffs: Finals Edition",
+              "url": "https://sports.yahoo.com/articles/marquette-2026-nba-playoffs-finals-144500791.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "jalen brunson parents",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "The Association: Jalen Brunson stepping up in big moments",
+              "url": "https://www.nba.com/watch/video/the-association-jalen-brunson-stepping-up-in-big-moments"
+            },
+            {
+              "title": "Charles Barkley says Jalen Brunson can become the greatest free agent signing in NBA history",
+              "url": "https://sports.yahoo.com/articles/charles-barkley-says-jalen-brunson-150134825.html"
+            },
+            {
+              "title": "All About Jalen Brunson's Parents, Knicks Coach Dad Rick Brunson and Mom Sandra",
+              "url": "https://people.com/jalen-brunson-parents-what-to-know-11990570"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "spurs championships",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "San Antonio Spurs' NBA Finals path has built them for this moment",
+              "url": "https://www.espn.com/nba/story/_/id/48969081/nba-finals-2026-san-antonio-spurs-ahead-schedule-victor-wembanyama"
+            },
+            {
+              "title": "The Spurs are more than just Victor Wembanyama – and the way they were built may never happen again",
+              "url": "https://www.cnn.com/2026/06/05/sport/victor-wembanyama-san-antonio-spurs-growth-analysis"
+            },
+            {
+              "title": "Recap: Jalen Brunson: 'It's all about how you can improve'",
+              "url": "https://www.nba.com/news/live-2026-nba-finals-media-day-thursday-spurs-knicks-address-the-media-after-game-1-clash"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "home DIY",
+          "interest_avg": 41,
+          "interest_max": 85,
+          "interest_latest": 43,
+          "rank": 1
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 34,
+          "interest_max": 100,
+          "interest_latest": 34,
+          "rank": 2
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 12,
+          "interest_max": 100,
+          "interest_latest": 12,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 8,
+          "interest_max": 37,
+          "interest_latest": 13,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 2,
+          "interest_max": 20,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 9,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "rise",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Suzuki eyes Africa as next key market, targets 20% sales rise by FY 2030",
+              "url": "https://mainichi.jp/english/articles/20260606/p2g/00m/0bu/005000c"
+            },
+            {
+              "title": "Editorial: As birth rate sinks to record low, Japan must review strategies",
+              "url": "https://mainichi.jp/english/articles/20260605/p2a/00m/0op/010000c"
+            },
+            {
+              "title": "Fertility Rates Rise in 13 Prefectures, Possibly Boosted by Local Government Support",
+              "url": "https://japannews.yomiuri.co.jp/society/general-news/20260605-330856/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "木戸大聖",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "桜田ひより×木戸大聖、初共演のラブストーリー『モブ子の恋』風間太樹監督との再タッグ作で深めた信頼 「お互いの存在に助けられた」（MOVIE WALKER PRESS）",
+              "url": "https://news.yahoo.co.jp/articles/ae7008a912bdd9df4572ef303e32a882f2b3530e"
+            },
+            {
+              "title": "映像クリエーター・風間太樹監督をひもとく！（前編）「あかりサーチ、一本！」第7回",
+              "url": "https://www.tvguide.or.jp/column/column-4878655/"
+            },
+            {
+              "title": "映画『モブ子の恋』キャスト・登場人物・出演者一覧／あらすじ",
+              "url": "https://www.oricon.co.jp/special/75406/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ind vs afg",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "India make red-ball switch for Afghanistan challenge in New Chandigarh's maiden Test",
+              "url": "https://www.espncricinfo.com/series/afghanistan-in-india-2026-1527147/india-vs-afghanistan-only-test-1527150/match-preview"
+            },
+            {
+              "title": "New Chandigarh stadium to host first ever Test: List of all Indian Test venues ahead of India vs Afghanistan",
+              "url": "https://www.sportingnews.com/in/cricket/news/new-chandigarh-stadium-first-test-list-all-venues-india-afghanistan/f9e37ae660bd8c8e460ab561"
+            },
+            {
+              "title": "Afghanistan vs India Live Stream: How to Watch Test Cricket",
+              "url": "https://www.fubo.tv/news/test-cricket/afghanistan-vs-india-live-stream-how-to-watch-test-cricket/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "おそ松さん",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "新作公開記念 映画「おそ松さん」(テレ東、2026/6/6 11:40 OA)の番組情報ページ",
+              "url": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202606/28435_202606061130.html"
+            },
+            {
+              "title": "Aぇ！ group「僕たちには、愛と信頼がある」 西村拓哉と“6つ子”役抜てきで目指す前作超え【実写映画『おそ松さん』インタビュー】",
+              "url": "https://news.yahoo.co.jp/articles/22fc32e16e0ab711c4f6b4681c49a78dd7416857"
+            },
+            {
+              "title": "Aぇ! group「でこぼこライフ」のバンドサウンドが疾走する、未公開シーンを詰め込んだ主題歌スペシャルPV公開＜おそ松さん＞",
+              "url": "https://topics.smt.docomo.ne.jp/article/thetv/entertainment/thetv-1402854"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "マイク・トラウト",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "エンゼルス トラウトのシンプル私服姿がかっこいい 太ももの厚さがすごっ！ネトはオシャレなセットアップ 元ド軍右腕は笑顔で古巣の本拠地へ",
+              "url": "https://www.daily.co.jp/mlb/2026/06/06/0020443523.shtml"
+            },
+            {
+              "title": "エンゼルス トラウトのシンプル私服姿がかっこいい 太ももの厚さがすごっ！ネトはオシャレなセットアップ 元ド軍右腕は笑顔で古巣の本拠地へ",
+              "url": "https://article.auone.jp/detail/1/6/12/265_12_r_20260606_1780706652686541"
+            },
+            {
+              "title": "エンゼルス トラウトのシンプル私服姿がかっこいい 太ももの厚さがすごっ！ネトはオシャレなセットアップ 元ド軍右腕は笑顔で古巣の本拠地へ",
+              "url": "https://sportsbull.jp/p/2347521/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "木原龍一",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "【教えて！りくりゅう第５弾〈１〉】貫いた人さし指ポーズ ピースではない理由は？",
+              "url": "https://www.nikkansports.com/premium/sports/figure/news/202606010000639.html"
+            },
+            {
+              "title": "【りくりゅう】三浦璃来、木原龍一を見つめるショットに反響「りくちゃんのこの表情がめちゃ可愛い」「2人を見るだけで幸せ」",
+              "url": "https://www.oricon.co.jp/news/2458451/full/"
+            },
+            {
+              "title": "りくりゅう、白Tが尊い“ブルガリ”撮影オフショット 「お似合いのふたり」「めちゃさわやか」",
+              "url": "https://article.auone.jp/detail/1/6/12/512_12_r_20260604_1780573228088190"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "石原伸晃",
+          "traffic": "1000+",
+          "related_news": []
+        },
+        {
+          "rank": 8,
+          "keyword": "シラート",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "カンヌ4冠＆オスカー音響賞ノミネートの衝撃作『シラート』。音響監督が「Dolby Atmosの必然性」を語る（PHILE WEB）",
+              "url": "https://news.yahoo.co.jp/articles/d51b85961d1e6f97ce30f40d1b37fff2fda14217"
+            },
+            {
+              "title": "衝撃の映画体験『シラート』が日本上陸！ 圧倒的な音響の仕掛け人に聞く",
+              "url": "https://article.auone.jp/detail/1/3/7/32_7_r_20260605_1780661431500407"
+            },
+            {
+              "title": "ネタバレ厳禁、カンヌ4冠の話題作『SIRAT』の圧倒的映像美をTシャツで表現 GEEKS RULEとのコラボTシャツが登場",
+              "url": "https://topics.smt.docomo.ne.jp/article/cage/entertainment/cage-18551?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch3"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "片山友希",
+          "traffic": "1000+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "網浜直子",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "俳優・網浜直子 離婚を発表",
+              "url": "https://news.yahoo.co.jp/pickup/6583147"
+            },
+            {
+              "title": "オリコンニュース：網浜直子、離婚を報告「これからの人生も誠実に、一歩一歩大切に」",
+              "url": "https://mainichi.jp/articles/20260606/orc/00m/200/051000c"
+            },
+            {
+              "title": "女優の網浜直子が離婚報告、1998年に松山三四朗と結婚",
+              "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900192297.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 20,
+          "interest_max": 100,
+          "interest_latest": 28,
+          "rank": 1
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 11,
+          "interest_max": 33,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 4,
+          "interest_max": 26,
+          "interest_latest": 14,
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 1,
+          "interest_max": 89,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-06-06T03:40:48.179234+00:00"
+}
