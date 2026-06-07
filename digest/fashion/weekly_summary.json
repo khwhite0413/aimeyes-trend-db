@@ -8,11 +8,6 @@
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+29%",
-      "total_mentions": 141
-    },
-    {
       "keyword": "블라우스",
       "growth": "+8%",
       "total_mentions": 86
@@ -24,11 +19,16 @@
     },
     {
       "keyword": "여름",
-      "growth": "+114%",
-      "total_mentions": 67
+      "growth": "+100%",
+      "total_mentions": 66
     },
     {
       "keyword": "#ootd",
+      "growth": "+9%",
+      "total_mentions": 63
+    },
+    {
+      "keyword": "ootd",
       "growth": "+9%",
       "total_mentions": 63
     }
@@ -75,7 +75,7 @@
     "여름가디건",
     "써스데이아일랜드",
     "여름",
-    "#fashion",
-    "#ootd"
+    "#ootd",
+    "ootd"
   ]
 }
