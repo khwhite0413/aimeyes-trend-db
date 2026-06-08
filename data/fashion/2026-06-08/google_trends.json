@@ -1,0 +1,975 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "이선빈",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "이광수, '9년 열애' 이선빈 언급…이효리 \"선빈이 복받아\"",
+              "url": "https://www.newsis.com/view/NISX20260608_0003659802"
+            },
+            {
+              "title": "'9년 장수 커플' 이광수♥이선빈 귀여운 일상 제보 \"이효리 칭찬에 2주 내내 자랑했다\"",
+              "url": "https://enews.imbc.com/News/RetrieveNewsInfo/507551"
+            },
+            {
+              "title": "이광수, '9년 열애' ♥이선빈에 애정 가득…이효리도 인정 \"너무 귀엽고 예뻐\"",
+              "url": "https://www.sportschosun.com/entertainment/2026-06-08/202606080100046580002869"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "폭발",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "[속보] 이 대통령 \"부동산 세제, 7월 정리가능…공급책도 조만간 발표\"",
+              "url": "https://news.jtbc.co.kr/article/NB12302011"
+            },
+            {
+              "title": "'한화에어로 폭발사고' 대표이사 중처법 혐의로 입건",
+              "url": "https://v.daum.net/v/20260608123751934"
+            },
+            {
+              "title": "“부디 사고 없는 곳으로” 한화에어로 참사 희생자 4명 발인",
+              "url": "https://www.khan.co.kr/article/202606072104025"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "fifa 월드컵 2026",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "손흥민도 놀란 실력… 현대차, ‘라보나 킥’ 성공한 휴머노이드 로봇 기술공개",
+              "url": "https://dbr.donga.com/kfocus/view/article_no/2839"
+            },
+            {
+              "title": "현대차, 월드컵에 차량 1천500여대·사족보행 로봇 4대 지원",
+              "url": "https://v.daum.net/v/YDWy3CWIYB"
+            },
+            {
+              "title": "현대차, 북중미 월드컵 캠페인 ‘미래는 지금 여기서부터’ 전개",
+              "url": "https://www.sedaily.com/article/20052869"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "레미콘 파업",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "레미콘 노조 8일 휴업 돌입…수도권 1만1천대 운송 중단",
+              "url": "https://www.yna.co.kr/view/AKR20260607038900003"
+            },
+            {
+              "title": "수도권 레미콘 1.1만대 멈췄다…반도체 공사 현장도 비상",
+              "url": "https://www.chosun.com/economy/real_estate/2026/06/08/4E4WNPMGVZDFDOMMPEVI7DSI4I/"
+            },
+            {
+              "title": "운행 멈춘 레미콘 차량",
+              "url": "https://mobile.newsis.com/photo/NISI20260608_0021312565"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "로스 앤젤레스 레이커스",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Charles Barkley Says There’s Only One Logical Move Left for Lakers’ LeBron James",
+              "url": "https://www.si.com/nba/lakers/onsi/charles-barkley-logical-move-left-for-lakers-lebron-james"
+            },
+            {
+              "title": "Charles Barkley believes LeBron James should return to Cleveland",
+              "url": "https://www.usatoday.com/story/sports/nba/2026/06/05/charles-barkley-comments-lebron-james-next-team-predictions/90429195007/"
+            },
+            {
+              "title": "“Sunny days, 75 every day. … It’s 40 there now,\" …",
+              "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/06/03/sunny-days-75-every-day-its-40-there-now/90382944007/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "이재현",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "정우주는 애매하다? 그러면 한화에서 AG 누가 갈까…문현빈·허인서에 강백호 와일드카드? 흥미진진",
+              "url": "https://v.daum.net/v/20260608003701481"
+            },
+            {
+              "title": "아시안게임 야구대표팀 명단 공개 임박…류지현 감독의 선택은",
+              "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=511289"
+            },
+            {
+              "title": "'충격' 최준용-이로운-성영탁, 병역 미필 필승조들이 같은날 무너졌다...하필 AG 명단 발표 앞두고",
+              "url": "https://www.chosun.com/sports/baseball/2026/06/07/GQYGKYJRMIZWINDEMVSWEMLBHA/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "네이버 주식",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[조간브리핑]네이버-엔비디아 글로벌 AI 팩토리 공동 구축, K-AI 인프라 패권 도전",
+              "url": "https://www.hellodd.com/news/articleView.html?idxno=112008"
+            },
+            {
+              "title": "네이버-엔비디아, GW급 초대형 AI 팩토리 구축 나선다",
+              "url": "https://www.yonhapnewstv.co.kr/news/AKR20260608084255D1P"
+            },
+            {
+              "title": "젠슨 황·이해진, 치지직 라이브 뜬다",
+              "url": "https://www.yna.co.kr/view/AKR20260608055300017"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "실업",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"직원 부탁에 실업급여 타게 해줬다가\"…400만원 '날벼락' [사장님 고충백서]",
+              "url": "https://www.hankyung.com/article/202605256557i"
+            },
+            {
+              "title": "실업보험 서비스 수수료 관리 및 계산에 관한 새로운 규정.",
+              "url": "https://www.vietnam.vn/ko/nhung-quy-dinh-moi-lien-quan-toi-viec-quan-ly-cach-tinh-don-gia-dich-vu-tu-bao-hiem-that-nghiep"
+            },
+            {
+              "title": "2026년 퇴사자 실업급여 최대 270일, 신청 조건 4가지 확인",
+              "url": "https://www.cwtr.co.kr/news/articleView.html?idxno=17447"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "이상순",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "폐업 '이효리 제주 카페' 서울서 재오픈?...이상순 \"자리 보는 중\" - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/06/08/2026060805290374108"
+            },
+            {
+              "title": "이상순, 서울 카페 창업 계획 밝혔다…“자리 살펴보고 있어”",
+              "url": "https://v.daum.net/v/20260608111933742"
+            },
+            {
+              "title": "'이효리♥' 이상순, 제주도 이어 서울에도 카페 차리나…\"자리 보고 있어\"",
+              "url": "https://www.news1.kr/entertain/broadcast-tv/6190022"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "삼성 엑시노스",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Galaxy Z Flip 8 reportedly will bring back Snapdragon chips alongside Exynos",
+              "url": "https://9to5google.com/2026/06/04/galaxy-z-flip-8-reportedly-will-bring-back-snapdragon-chips-alongside-exynos/"
+            },
+            {
+              "title": "Why Samsung Fans Aren’t Ready for the Galaxy Z Flip 8 Upgrades",
+              "url": "https://www.geeky-gadgets.com/z-flip-8-exynos-snapdragon-split/"
+            },
+            {
+              "title": "Samsung could skip a charging upgrade on the upcoming Galaxy Z Flip 8, yet again",
+              "url": "https://www.digitaltrends.com/phones/samsung-could-skip-a-charging-upgrade-on-the-upcoming-galaxy-z-flip-8-yet-again/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "무신사",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 63,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 98,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "sf giants",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "How Giants manager Tony Vitello is handling all this losing: ‘I’m my harshest critic’",
+              "url": "https://sfstandard.com/2026/06/04/giants-manager-tony-vitello-handling-all-losing-i-m-my-harshest-critic/"
+            },
+            {
+              "title": "Giants rumors: Will Tony Vitello bail for college return after just 1 season?",
+              "url": "https://sports.yahoo.com/articles/giants-rumors-tony-vitello-bail-152658135.html"
+            },
+            {
+              "title": "Giants manager Tony Vitello reunites with ex-Tennessee stars on Rockies",
+              "url": "https://gazette.com/2026/05/29/giants-manager-tony-vitello-reunites-with-ex-tennessee-stars-on-rockies/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "glen powell",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Nick Jonas Recalls 'Frightening' Flight Experience with Glen Powell That Made One of the Pilots 'Start Crying'",
+              "url": "https://people.com/nick-jonas-recalls-frightening-flight-experience-with-glen-powell-11992556"
+            },
+            {
+              "title": "Nick Jonas recalls ‘terrifying’ flight experience that left the pilot crying",
+              "url": "https://www.thenews.com.pk/latest/1404967-nick-jonas-recalls-terrifying-flight-experience-that-left-the-pilot-crying"
+            },
+            {
+              "title": "Nick Jonas and Glen Powell's Hilarious Trousers Tale: A 'Brotherhood of the Traveling Pants' Sequel in the Making?",
+              "url": "https://www.devdiscourse.com/article/entertainment/3930717-nick-jonas-and-glen-powells-hilarious-trousers-tale-a-brotherhood-of-the-traveling-pants-sequel-in-the-making"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "myles rowe",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "FINAL LAPS: Myles Rowe finishes from LAST to FIRST at INDY NXT by Firestone at World Wide Technology Raceway 🏁 INDYCAR on FOX",
+              "url": "https://www.foxnews.com/video/6397852373112"
+            },
+            {
+              "title": "Myles Rowe charges from last to first for historic Indy NXT win at WWTR",
+              "url": "https://www.motorsport.com/indylights/news/myles-rowe-charges-from-last-to-first-for-historic-indy-nxt-win-at-wwtr/10828197/"
+            },
+            {
+              "title": "Myles Rowe Makes History With Drive From 24th To Win at WWTR",
+              "url": "https://www.foxsports.com/articles/motor/myles-rowe-makes-history-with-drive-from-24th-to-win-at-wwtr"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "cubs",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "Cubs vs. Giants prediction, odds, time: 2026 MLB picks for Sunday Night Baseball from advanced model",
+              "url": "https://www.cbssports.com/mlb/betting/cubs-giants-prediction-odds-time-2026-mlb-picks-sunday-night-baseball-bets/"
+            },
+            {
+              "title": "Mets vs. Padres: Lineups, broadcast info, and open thread, 6/7/26",
+              "url": "https://www.amazinavenue.com/new-york-mets-discussion/95962/new-york-mets-san-diego-padres-lineups-broadcast-info-open-thread-mlb-brazoban-vasquez"
+            },
+            {
+              "title": "Where to watch San Francisco Giants vs. Chicago Cubs: Live stream, start time, TV channel, odds for Sunday, June 7",
+              "url": "https://sports.yahoo.com/mlb/article/where-to-watch-san-francisco-giants-vs-chicago-cubs-live-stream-start-time-tv-channel-odds-for-sunday-june-7-165848130.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "cubs game",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Craig Counsell benches Dansby Swanson for a reset as Cubs search for answers",
+              "url": "https://www.nytimes.com/athletic/7338940/2026/06/06/craig-counsell-benches-dansby-swanson-reset-cubs/"
+            },
+            {
+              "title": "Cubs Dansby Swanson out of starting lineup amid slump",
+              "url": "https://www.espn.com/mlb/story/_/id/48984900/cubs-hold-slumping-shortstop-dansby-swanson-lineup"
+            },
+            {
+              "title": "Chicago Cubs news — Counsell, Swanson, Boyd, Hoyer",
+              "url": "https://www.bleedcubbieblue.com/chicago-cubs-news/220339/chicago-cubs-news-counsell-swanson-boyd-hoyer"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "alex bregman",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Just like he did with Astros, Alex Bregman making presence felt with behind-the-scenes impact for Cubs",
+              "url": "https://chicago.suntimes.com/cubs/2026/06/03/cubs-alex-bregman-free-agent-contract-astros-world-series-phil-maton-craig-counsell"
+            },
+            {
+              "title": "Chicago Cubs need Alex Bregman to be more of a run producer. But slow starts are part of the slugger’s game.",
+              "url": "https://www.chicagotribune.com/2026/06/02/chicago-cubs-alex-bregman-tap-into-power/"
+            },
+            {
+              "title": "A conversation with Alex Bregman on bat speed, mechanics and his power search",
+              "url": "https://www.nytimes.com/athletic/7324152/2026/06/02/cubs-alex-bregman-hitting-mechanics-conversation/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "rick and morty season 9 episode 3",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Rick and Morty Season 9 Episode 2 Spoiler Recap: “Ricks Days, Seven Nights”",
+              "url": "https://www.imdb.com/news/ni65864891/?ref_=int_nwr_3"
+            },
+            {
+              "title": "Where to watch ‘Rick and Morty’ Season 9, Episode 3 for free right now",
+              "url": "https://www.oregonlive.com/tv/2026/06/where-to-watch-rick-and-morty-season-9-episode-3-for-free-right-now.html"
+            },
+            {
+              "title": "Rick and Morty Season 9 Continues With a Decent but Flawed Martial Arts Movie Parody",
+              "url": "https://www.ign.com/articles/rick-and-morty-season-9-episode-3-review-recap-rick-fu-hustle"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "mexico jersey",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Inside World Cup sticker fever, an Argentine passion going beyond football",
+              "url": "https://buenosairesherald.com/argentina-101/inside-world-cup-sticker-fever-an-argentine-passion-going-beyond-football"
+            },
+            {
+              "title": "Licensable video: World Cup drives up sales of counterfeit jerseys in Argentina",
+              "url": "https://www.reutersconnect.com/item/world-cup-drives-up-sales-of-counterfeit-jerseys-in-argentina/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNDAzNzI3MDUyMDI2UlAx"
+            },
+            {
+              "title": "Buenos Aires streets fill with counterfeit Argentina jerseys ahead of World Cup opener",
+              "url": "https://www.telegraphindia.com/sports/buenos-aires-streets-fill-with-counterfeit-argentina-jerseys-ahead-of-world-cup-opener/cid/2163044"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "mexico vs south africa",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "World Cup predictions: Picking the winner in every game of the entire tournament",
+              "url": "https://www.espn.com/soccer/story/_/id/48962628/world-cup-predictions-picking-winner-every-game-entire-tournament"
+            },
+            {
+              "title": "World Cup by the numbers: 104 matches, 48 teams and 3 countries make this the largest ever",
+              "url": "https://apnews.com/article/world-cup-numbers-4220a25c3efb04fc59c15b4d081556d9"
+            },
+            {
+              "title": "This World Cup is uniquely challenging: it’s not the heat, the altitude or travel – it’s the combination - The Athletic",
+              "url": "https://www.nytimes.com/athletic/7282686/2026/06/05/world-cup-heat-altitude-travel-challenges/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "costco kirkland product price drops",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Costco just lowered prices on key items",
+              "url": "https://www.thestreet.com/retail/costco-just-lowered-prices-on-key-items"
+            },
+            {
+              "title": "Costco fuel strategy delivers retail advantage",
+              "url": "https://www.retail-insight-network.com/features/costco-fuel-strategy-delivers-retail-advantage/"
+            },
+            {
+              "title": "Costco Growth Drivers Test Rich Valuation As China And Digital Expand",
+              "url": "https://simplywall.st/stocks/us/consumer-retailing/nasdaq-cost/costco-wholesale/news/costco-growth-drivers-test-rich-valuation-as-china-and-digit"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 29,
+          "interest_max": 100,
+          "interest_latest": 47,
+          "rank": 1
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 22,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 19,
+          "interest_max": 100,
+          "interest_latest": 21,
+          "rank": 3
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 14,
+          "interest_max": 32,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 13,
+          "interest_max": 41,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 9,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 6,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 3,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 22,
+          "interest_latest": 22,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "best quiet luxury brands",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "bottega veneta",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "loro piana",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette blackfin",
+          "value": "24200"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette new orleans",
+          "value": "450"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette blackfin",
+          "value": "300"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette restaurant new orleans",
+          "value": "300"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette new orleans menu",
+          "value": "250"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ポケモンカードゲーム",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "画像・写真 | ポケモンカード30周年デッキ・9種類のカードセット新登場 収録カード発表 3枚目",
+              "url": "https://www.oricon.co.jp/news/2459568/photo/3/"
+            },
+            {
+              "title": "「ポケモン」ピカチュウ＆イーブイデザインの“30周年モデル”発売！ ヘアケアブランド・ラブクロムコラボ（アニメ！アニメ！）",
+              "url": "https://news.yahoo.co.jp/articles/efe6a2f7fe6d7de9ad9082391176ebb3de92ad6f"
+            },
+            {
+              "title": "『ポケカ』30周年記念商品がメチャ豪華！プレミアムキラのプロモ「ピカチュウex」など最高の仕上がり",
+              "url": "https://www.inside-games.jp/article/2026/06/06/182538.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "森泉",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "森泉＞夫は寺の住職 娘は7歳の小2 料理はほとんどしない 一つだけできるメニューとは？ 「徹子の部屋」で（毎日キレイ）",
+              "url": "https://news.yahoo.co.jp/articles/831d7c8ad4c7033d34a4598ca9c9fa85db3aee92"
+            },
+            {
+              "title": "本日6月8日「徹子の部屋」ゲスト情報",
+              "url": "https://topics.smt.docomo.ne.jp/article/ggtnews/entertainment/ggtnews-YkFIu"
+            },
+            {
+              "title": "森泉、祖母・森英恵さんから教わった2つのこと。「苦労は決して語らないこと」そして…",
+              "url": "https://post.tv-asahi.co.jp/post-767717/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "札幌市 ゴミ袋",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "札幌市 指定以外のゴミ袋でも収集受付へ 買いだめの動き受け",
+              "url": "https://news.web.nhk/newsweb/na/nb-7000085635"
+            },
+            {
+              "title": "【指定ごみ袋品薄】指定袋以外でもごみ収集へ～透明または半透明の袋でも排出可…15日から実施―9月末までの予定「指定袋買いだめしないで」市が呼び掛け〈北海道札幌市〉",
+              "url": "https://news.yahoo.co.jp/articles/926a900f4baac36586e0367382352c72abbf30d0"
+            },
+            {
+              "title": "千葉市、ごみ袋「在庫2000万枚」 買いだめ自粛呼びかけ",
+              "url": "https://mainichi.jp/articles/20260608/k00/00m/040/063000c"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "大統領",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "日光の路上でクマ目撃",
+              "url": "https://www.shimotsuke.co.jp/articles/-/1361299"
+            },
+            {
+              "title": "「合意は近い」から一転、「交渉には何年もかかる」 トランプ氏が語り始めたイラン戦争の現実 #エキスパートトピ",
+              "url": "https://news.yahoo.co.jp/expert/articles/9acab6b5f9845e503186b03142fce0042dedd0ce"
+            },
+            {
+              "title": "トランプ氏、和平合意前のイラン資産凍結解除を否定",
+              "url": "https://jp.reuters.com/world/us/SGTYAY6XWRMEFD73XTID44P64E-2026-06-07/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "プーチン",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "プーチン氏、ロシア経済の危機を否定 紛争続く中「緩やかな劣化」の兆候と専門家指摘",
+              "url": "https://www.afpbb.com/articles/-/3638406"
+            },
+            {
+              "title": "プーチンはいまだ強気も、ロシア経済の外堀は埋まったのか？ #エキスパートトピ（服部倫卓） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/7cac48e98e263096b0b4ee0d0c64f9821d600a25"
+            },
+            {
+              "title": "プーチン氏、露経済の減速認める 財政赤字拡大など言及 「搾取のシステム」欧米批判も",
+              "url": "https://www.sankei.com/article/20260606-GM6JMLHKH5NLTDXZUFH32X7M4M/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "サイゼリヤ",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "サイゼリヤ、夏のグランドメニュー改定 定番人気メニューは掲載せず「差し込みメニューで対応」（オリコン）",
+              "url": "https://news.yahoo.co.jp/articles/71d522486008d3a8fa09cf59ae07d3ccb8ac937b"
+            },
+            {
+              "title": "【サイゼリヤ】「グランドメニュー」改定を発表！ 消えた 《大人気メニュー》2品と、再登場の《180円メニュー》",
+              "url": "https://lasisa.net/post/147658"
+            },
+            {
+              "title": "【サイゼリヤ】看板メニューが“グランドメニュー”から消える⇨「ウソだろ…」「一番好きなのに」と悲しみの声",
+              "url": "https://www.huffingtonpost.jp/entry/story_jp_6a26114fe4b009b22c864546"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "中澤佑二",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "「日本を軽く見る人はいない」――英記者が漏らした本音 イングランドとの「歴然の差」を生んだ個に依存しなくなった森保ジャパンへの“リアル評”【現地発】（CoCoKARAnext）",
+              "url": "https://news.yahoo.co.jp/articles/edd75060f95c76fb2efdd772d8f77ff246d0b614?page=3"
+            },
+            {
+              "title": "個人投資家アンケート：「サッカー・ワールドカップ 北中米大会」での日本代表の順位予想は？",
+              "url": "https://media.rakuten-sec.net/articles/-/52580"
+            },
+            {
+              "title": "FIFAワールドカップ 頂点への道 第2回 決戦へ 強豪国撃破の“秘策”",
+              "url": "https://www.web.nhk/tv/an/special/pl/series-tep-2NY2QQLPM3/ep/6XMWJ5V8W1"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "武井 咲",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "ＴＡＫＡＨＩＲＯの愛妻家ぶりを表す〝３０分ルール〟 武井咲の収録が長引くと確認の連絡（東スポWEB）",
+              "url": "https://news.yahoo.co.jp/articles/34e59b295ffb6b6874e18d141245988d50be16e9"
+            },
+            {
+              "title": "「ご夫婦でデートですか」と話題！武井咲(32) プライベートを満喫する様子を披露 夫はEXILE TAKAHIRO(41)",
+              "url": "https://abema.tv/video/episode/89-116_s25_p15317"
+            },
+            {
+              "title": "「私の知っている武井咲とはだいぶ掛け離れた」23歳で電撃婚！3児の母・武井咲〝雰囲気ガラリ〟ショットに「名前見るまでわからなかった」「べらぼうに…」「似合ってる」の声",
+              "url": "https://nishispo.nishinippon.co.jp/article_photo/gallery/?article_id=1012675&p=0"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ピックオフプレー",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "「悪いのは選手だけではない。中日の監督、コーチは何を教えているのか？」延長11回二死満塁のサヨナラ機に西武の伝統ピックオフプレーに引っ掛かった細川の牽制死に球界大御所が喝！",
+              "url": "https://topics.smt.docomo.ne.jp/article/ronspo/sports/ronspo-18679"
+            },
+            {
+              "title": "年イチのビッグプレー「守りをしっかりやれば勝機は来る」快進撃西武のベースにある“守り勝つ野球”（週刊ベースボールONLINE）",
+              "url": "https://news.yahoo.co.jp/articles/d772106268641389ab6e4490d463308692f4db34"
+            },
+            {
+              "title": "【西武】絶体絶命脱したピックオフは2月からの練習あってこそ　ネビンの「演技」と技術もお見事",
+              "url": "https://www.nikkansports.com/baseball/news/202606070001902.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "大井川 鐵道 井川 線",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "大井川鉄道 奥大井湖上駅への往復は1,440円→7,000円への値上げ幅 クルマ観光へのシフトが危惧",
+              "url": "https://news.yahoo.co.jp/expert/articles/a8f0957357b39ac0a5c75d5db5ca7befa3cec1ed"
+            },
+            {
+              "title": "大鉄復旧に向けて駅清掃や催し継続 「支援する会」が総会",
+              "url": "https://news.at-s.com/article/1988160"
+            },
+            {
+              "title": "最大20倍の運賃値上げ高すぎる？ 秘境走る大井川鉄道の魅力と課題 [静岡県]",
+              "url": "https://www.asahi.com/articles/ASV650RGGV65UTPB00YM.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 46,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 42,
+          "interest_max": 97,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 27,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 17,
+          "interest_max": 68,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 12,
+          "interest_max": 70,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 11,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 1,
+          "interest_max": 24,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 21,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 12,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 74,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 系 ファッション 女子",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 系 ファッション 男子",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション 通販 おすすめ",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "グレイル",
+          "value": "50"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-06-08T04:10:04.283696+00:00"
+}
