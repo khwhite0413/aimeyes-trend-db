@@ -9,8 +9,8 @@
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+39%",
-      "total_mentions": 146
+      "growth": "+28%",
+      "total_mentions": 144
     },
     {
       "keyword": "블라우스",
@@ -24,13 +24,13 @@
     },
     {
       "keyword": "#ootd",
-      "growth": "+38%",
-      "total_mentions": 66
+      "growth": "+62%",
+      "total_mentions": 68
     },
     {
       "keyword": "ootd",
-      "growth": "+38%",
-      "total_mentions": 66
+      "growth": "+62%",
+      "total_mentions": 68
     }
   ],
   "most_cross_platform": [
@@ -39,6 +39,22 @@
       "platforms": [
         "naver",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "시국선언",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "닌텐도 스위치",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     },
@@ -74,8 +90,8 @@
     "티셔츠",
     "여름",
     "여름가디건",
-    "써스데이아일랜드",
     "#ootd",
-    "ootd"
+    "ootd",
+    "써스데이아일랜드"
   ]
 }

@@ -2,43 +2,43 @@
   "date": "2026-06-09",
   "mode": "fashion",
   "compared_to": "2026-06-08",
-  "total_keywords_today": 472,
+  "total_keywords_today": 495,
   "total_keywords_yesterday": 520,
   "data_days_available": 86,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "fashion",
-      "change": "+9%",
-      "today_count": 25,
-      "yesterday_count": 23,
+      "keyword": "#ootd",
+      "change": "+18%",
+      "today_count": 13,
+      "yesterday_count": 11,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 25건, 어제 23건 기준"
+      "sample_note": "오늘 13건, 어제 11건 기준"
     },
     {
-      "keyword": "#fashion",
-      "change": "+10%",
-      "today_count": 11,
-      "yesterday_count": 10,
+      "keyword": "ootd",
+      "change": "+18%",
+      "today_count": 13,
+      "yesterday_count": 11,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 11건, 어제 10건 기준"
+      "sample_note": "오늘 13건, 어제 11건 기준"
     },
     {
-      "keyword": "style",
-      "change": "+25%",
-      "today_count": 10,
-      "yesterday_count": 8,
+      "keyword": "여름코디",
+      "change": "+14%",
+      "today_count": 8,
+      "yesterday_count": 7,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 10건, 어제 8건 기준"
+      "sample_note": "오늘 8건, 어제 7건 기준"
     },
     {
       "keyword": "#shorts",
@@ -52,18 +52,7 @@
       "sample_note": "오늘 8건, 어제 6건 기준"
     },
     {
-      "keyword": "street",
-      "change": "+40%",
-      "today_count": 7,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 5건 기준"
-    },
-    {
-      "keyword": "outfits",
+      "keyword": "#여름코디",
       "change": "+17%",
       "today_count": 7,
       "yesterday_count": 6,
@@ -72,6 +61,17 @@
         "youtube"
       ],
       "sample_note": "오늘 7건, 어제 6건 기준"
+    },
+    {
+      "keyword": "street",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
       "keyword": "에고이스트",
@@ -85,18 +85,18 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "amp",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
+      "keyword": "스타일링",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "luxury",
+      "keyword": "우아한",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -118,7 +118,18 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "출근룩",
+      "keyword": "#쇼츠",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "쇼츠",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -151,6 +162,17 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
+      "keyword": "trendy",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
       "keyword": "big",
       "change": "+100%",
       "today_count": 2,
@@ -163,17 +185,6 @@
     },
     {
       "keyword": "shopping",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "trendy",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -215,17 +226,6 @@
         "youtube"
       ],
       "sample_note": "오늘 2건 (신규)"
-    },
-    {
-      "keyword": "스타일",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
@@ -244,17 +244,17 @@
       "confidence": "high"
     },
     {
-      "keyword": "outfit",
-      "change": "-11%",
-      "today_count": 8,
-      "yesterday_count": 9,
+      "keyword": "#fashion",
+      "change": "-10%",
+      "today_count": 9,
+      "yesterday_count": 10,
       "confidence": "medium"
     },
     {
-      "keyword": "코디",
-      "change": "-11%",
-      "today_count": 8,
-      "yesterday_count": 9,
+      "keyword": "summer",
+      "change": "-12%",
+      "today_count": 7,
+      "yesterday_count": 8,
       "confidence": "medium"
     },
     {
@@ -266,38 +266,38 @@
     },
     {
       "keyword": "haul",
-      "change": "-29%",
-      "today_count": 5,
+      "change": "-14%",
+      "today_count": 6,
       "yesterday_count": 7,
       "confidence": "medium"
     },
     {
-      "keyword": "#중년패션코디",
+      "keyword": "outfits",
       "change": "-17%",
       "today_count": 5,
       "yesterday_count": 6,
       "confidence": "medium"
     },
     {
-      "keyword": "#데일리룩코디",
+      "keyword": "추천",
       "change": "-17%",
       "today_count": 5,
       "yesterday_count": 6,
       "confidence": "medium"
     },
     {
-      "keyword": "중년패션코디",
+      "keyword": "탑텐",
       "change": "-17%",
       "today_count": 5,
       "yesterday_count": 6,
       "confidence": "medium"
     },
     {
-      "keyword": "데일리룩코디",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
-      "confidence": "medium"
+      "keyword": "milan",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
     }
   ],
   "new_entries": [],
