@@ -8,29 +8,29 @@
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "ootd",
+      "growth": "+38%",
+      "total_mentions": 76
+    },
+    {
+      "keyword": "#ootd",
+      "growth": "+25%",
+      "total_mentions": 74
+    },
+    {
       "keyword": "여름블라우스",
       "growth": "+12%",
       "total_mentions": 64
     },
     {
       "keyword": "style",
-      "growth": "+100%",
-      "total_mentions": 58
-    },
-    {
-      "keyword": "코디",
-      "growth": "+17%",
+      "growth": "+83%",
       "total_mentions": 57
     },
     {
       "keyword": "outfit",
-      "growth": "+12%",
-      "total_mentions": 56
-    },
-    {
-      "keyword": "시슬리원피스",
-      "growth": "+17%",
-      "total_mentions": 46
+      "growth": "+25%",
+      "total_mentions": 57
     }
   ],
   "most_cross_platform": [
@@ -43,10 +43,10 @@
       "count": 2
     },
     {
-      "keyword": "닌텐도 스위치",
+      "keyword": "원피스",
       "platforms": [
-        "google_trends",
-        "x_twitter"
+        "naver",
+        "youtube"
       ],
       "count": 2
     },
@@ -55,14 +55,6 @@
       "platforms": [
         "google_trends",
         "x_twitter"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "원피스",
-      "platforms": [
-        "naver",
-        "youtube"
       ],
       "count": 2
     }

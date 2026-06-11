@@ -2,21 +2,21 @@
   "date": "2026-06-11",
   "mode": "general",
   "compared_to": "2026-06-10",
-  "total_keywords_today": 534,
+  "total_keywords_today": 527,
   "total_keywords_yesterday": 570,
   "data_days_available": 88,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "trend",
-      "change": "+17%",
-      "today_count": 14,
+      "change": "+25%",
+      "today_count": 15,
       "yesterday_count": 12,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 14건, 어제 12건 기준"
+      "sample_note": "오늘 15건, 어제 12건 기준"
     },
     {
       "keyword": "#trending",
@@ -42,14 +42,14 @@
     },
     {
       "keyword": "#trend",
-      "change": "+25%",
-      "today_count": 5,
+      "change": "+50%",
+      "today_count": 6,
       "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
+      "sample_note": "오늘 6건, 어제 4건 기준"
     },
     {
       "keyword": "dance",
@@ -230,6 +230,13 @@
   ],
   "declining": [
     {
+      "keyword": "#shorts",
+      "change": "-6%",
+      "today_count": 17,
+      "yesterday_count": 18,
+      "confidence": "high"
+    },
+    {
       "keyword": "#viral",
       "change": "-8%",
       "today_count": 11,
@@ -290,13 +297,6 @@
       "change": "-14%",
       "today_count": 6,
       "yesterday_count": 7,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "써스데이아일랜드",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
       "confidence": "medium"
     }
   ],
