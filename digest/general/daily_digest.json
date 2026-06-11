@@ -1,58 +1,91 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "mode": "general",
-  "compared_to": "2026-06-09",
-  "total_keywords_today": 570,
-  "total_keywords_yesterday": 519,
-  "data_days_available": 87,
+  "compared_to": "2026-06-10",
+  "total_keywords_today": 534,
+  "total_keywords_yesterday": 570,
+  "data_days_available": 88,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "#shorts",
-      "change": "+12%",
-      "today_count": 18,
-      "yesterday_count": 16,
+      "keyword": "trend",
+      "change": "+17%",
+      "today_count": 14,
+      "yesterday_count": 12,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 18건, 어제 16건 기준"
+      "sample_note": "오늘 14건, 어제 12건 기준"
     },
     {
-      "keyword": "에고이스트",
-      "change": "+17%",
-      "today_count": 7,
-      "yesterday_count": 6,
-      "confidence": "medium",
+      "keyword": "#trending",
+      "change": "+8%",
+      "today_count": 13,
+      "yesterday_count": 12,
+      "confidence": "high",
       "platforms": [
-        "naver"
+        "youtube"
       ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
+      "sample_note": "오늘 13건, 어제 12건 기준"
     },
     {
-      "keyword": "요즘",
-      "change": "+20%",
+      "keyword": "#tiktok",
+      "change": "+50%",
       "today_count": 6,
-      "yesterday_count": 5,
+      "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
+      "sample_note": "오늘 6건, 어제 4건 기준"
     },
     {
-      "keyword": "momos",
-      "change": "NEW",
+      "keyword": "#trend",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "dance",
+      "change": "+67%",
+      "today_count": 5,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 3건 기준"
+    },
+    {
+      "keyword": "trends",
+      "change": "+300%",
       "today_count": 4,
-      "yesterday_count": 0,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건 (신규)"
+      "sample_note": "오늘 4건, 어제 1건 기준"
     },
     {
-      "keyword": "editlyrics",
+      "keyword": "june",
+      "change": "+300%",
+      "today_count": 4,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 1건 기준"
+    },
+    {
+      "keyword": "lifehacks",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -63,7 +96,62 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "street",
+      "keyword": "el",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "mashup",
+      "change": "NEW",
+      "today_count": 3,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건 (신규)"
+    },
+    {
+      "keyword": "philippines",
+      "change": "NEW",
+      "today_count": 3,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건 (신규)"
+    },
+    {
+      "keyword": "party",
+      "change": "NEW",
+      "today_count": 3,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건 (신규)"
+    },
+    {
+      "keyword": "hack",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#ytshorts",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -74,7 +162,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "vs",
+      "keyword": "ytshorts",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -85,7 +173,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "#shortvideo",
+      "keyword": "#editlyrics",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -96,7 +184,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "shortvideo",
+      "keyword": "#lyrics",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -107,7 +195,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#shortsfeed",
+      "keyword": "#viralvideo",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -118,7 +206,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "shortsfeed",
+      "keyword": "nervy",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -129,181 +217,93 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "플리츠원피스",
+      "keyword": "funk",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
-        "naver"
+        "youtube"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#39;",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "현대차",
-      "change": "NEW",
-      "today_count": 2,
-      "yesterday_count": 0,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건 (신규)"
-    },
-    {
-      "keyword": "핫한",
-      "change": "NEW",
-      "today_count": 2,
-      "yesterday_count": 0,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건 (신규)"
-    },
-    {
-      "keyword": "#dance",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "성공",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "normal",
-      "change": "NEW",
-      "today_count": 2,
-      "yesterday_count": 0,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건 (신규)"
-    },
-    {
-      "keyword": "#editlyrics​",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#viralvideo​",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "#viral",
-      "change": "-20%",
-      "today_count": 12,
-      "yesterday_count": 15,
+      "change": "-8%",
+      "today_count": 11,
+      "yesterday_count": 12,
       "confidence": "high"
     },
     {
-      "keyword": "trend",
-      "change": "-14%",
-      "today_count": 12,
-      "yesterday_count": 14,
+      "keyword": "원피스",
+      "change": "-8%",
+      "today_count": 11,
+      "yesterday_count": 12,
       "confidence": "high"
     },
     {
-      "keyword": "hacks",
-      "change": "-12%",
-      "today_count": 7,
-      "yesterday_count": 8,
+      "keyword": "여름원피스",
+      "change": "-8%",
+      "today_count": 11,
+      "yesterday_count": 12,
+      "confidence": "high"
+    },
+    {
+      "keyword": "블라우스",
+      "change": "-8%",
+      "today_count": 11,
+      "yesterday_count": 12,
+      "confidence": "high"
+    },
+    {
+      "keyword": "티셔츠",
+      "change": "-8%",
+      "today_count": 11,
+      "yesterday_count": 12,
+      "confidence": "high"
+    },
+    {
+      "keyword": "여름가디건",
+      "change": "-9%",
+      "today_count": 10,
+      "yesterday_count": 11,
+      "confidence": "high"
+    },
+    {
+      "keyword": "여름블라우스",
+      "change": "-10%",
+      "today_count": 9,
+      "yesterday_count": 10,
       "confidence": "medium"
     },
     {
-      "keyword": "써스데이아일랜드",
+      "keyword": "hacks",
+      "change": "-57%",
+      "today_count": 3,
+      "yesterday_count": 7,
+      "confidence": "low"
+    },
+    {
+      "keyword": "에고이스트",
       "change": "-14%",
       "today_count": 6,
       "yesterday_count": 7,
       "confidence": "medium"
     },
     {
-      "keyword": "#tiktok",
-      "change": "-33%",
-      "today_count": 4,
-      "yesterday_count": 6,
-      "confidence": "low"
-    },
-    {
-      "keyword": "남자반팔티",
+      "keyword": "써스데이아일랜드",
       "change": "-17%",
       "today_count": 5,
       "yesterday_count": 6,
       "confidence": "medium"
-    },
-    {
-      "keyword": "trends",
-      "change": "-80%",
-      "today_count": 1,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "june",
-      "change": "-75%",
-      "today_count": 1,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#viralvideo",
-      "change": "-50%",
-      "today_count": 2,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "life",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
     }
   ],
   "new_entries": [
-    "momos",
-    "현대차",
-    "핫한"
+    "mashup",
+    "philippines",
+    "party"
   ],
   "cross_platform_hot": []
 }

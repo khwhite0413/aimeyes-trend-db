@@ -1,41 +1,41 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-06-04",
-    "to": "2026-06-10"
+    "from": "2026-06-05",
+    "to": "2026-06-11"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+12%",
-      "total_mentions": 104
+      "growth": "+20%",
+      "total_mentions": 106
     },
     {
       "keyword": "#viral",
-      "growth": "+9%",
+      "growth": "+10%",
       "total_mentions": 85
     },
     {
       "keyword": "#trending",
-      "growth": "+20%",
+      "growth": "+18%",
+      "total_mentions": 73
+    },
+    {
+      "keyword": "trend",
+      "growth": "+56%",
       "total_mentions": 70
     },
     {
       "keyword": "여름블라우스",
-      "growth": "+43%",
-      "total_mentions": 62
-    },
-    {
-      "keyword": "시슬리원피스",
-      "growth": "+17%",
-      "total_mentions": 45
+      "growth": "+12%",
+      "total_mentions": 64
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "시국선언",
+      "keyword": "닌텐도 스위치",
       "platforms": [
         "google_trends",
         "x_twitter"
@@ -43,7 +43,7 @@
       "count": 2
     },
     {
-      "keyword": "닌텐도 스위치",
+      "keyword": "시국선언",
       "platforms": [
         "google_trends",
         "x_twitter"
