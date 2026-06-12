@@ -2,22 +2,11 @@
   "date": "2026-06-12",
   "mode": "general",
   "compared_to": "2026-06-11",
-  "total_keywords_today": 490,
+  "total_keywords_today": 525,
   "total_keywords_yesterday": 527,
   "data_days_available": 89,
   "overall_confidence": "high",
   "rising": [
-    {
-      "keyword": "#viral",
-      "change": "+9%",
-      "today_count": 12,
-      "yesterday_count": 11,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 12건, 어제 11건 기준"
-    },
     {
       "keyword": "원피스",
       "change": "+9%",
@@ -85,17 +74,6 @@
       "sample_note": "오늘 11건, 어제 10건 기준"
     },
     {
-      "keyword": "quot",
-      "change": "+300%",
-      "today_count": 8,
-      "yesterday_count": 2,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 8건, 어제 2건 기준"
-    },
-    {
       "keyword": "시슬리원피스",
       "change": "+14%",
       "today_count": 8,
@@ -127,6 +105,17 @@
         "youtube"
       ],
       "sample_note": "오늘 7건, 어제 4건 기준"
+    },
+    {
+      "keyword": "dance",
+      "change": "+40%",
+      "today_count": 7,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 7건, 어제 5건 기준"
     },
     {
       "keyword": "mashup",
@@ -162,26 +151,15 @@
       "sample_note": "오늘 6건, 어제 3건 기준"
     },
     {
-      "keyword": "dance",
-      "change": "+20%",
+      "keyword": "quot",
+      "change": "+200%",
       "today_count": 6,
-      "yesterday_count": 5,
+      "yesterday_count": 2,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
-    },
-    {
-      "keyword": "recipe",
-      "change": "+50%",
-      "today_count": 6,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 4건 기준"
+      "sample_note": "오늘 6건, 어제 2건 기준"
     },
     {
       "keyword": "남자반팔티",
@@ -195,6 +173,17 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
+      "keyword": "recipe",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
       "keyword": "diy",
       "change": "+100%",
       "today_count": 4,
@@ -206,18 +195,29 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "유행하는",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
+      "keyword": "chips",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
+      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "#youtubeshorts",
+      "keyword": "food",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#diy",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -231,24 +231,24 @@
   "declining": [
     {
       "keyword": "#shorts",
-      "change": "-18%",
-      "today_count": 14,
+      "change": "-6%",
+      "today_count": 16,
       "yesterday_count": 17,
       "confidence": "high"
     },
     {
       "keyword": "trend",
-      "change": "-73%",
-      "today_count": 4,
+      "change": "-67%",
+      "today_count": 5,
       "yesterday_count": 15,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "keyword": "#trending",
-      "change": "-23%",
-      "today_count": 10,
+      "change": "-31%",
+      "today_count": 9,
       "yesterday_count": 13,
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "keyword": "#tiktok",
@@ -301,7 +301,18 @@
     }
   ],
   "new_entries": [
-    "월드컵"
+    "월드컵",
+    "방탄소년단"
   ],
-  "cross_platform_hot": []
+  "cross_platform_hot": [
+    {
+      "keyword": "방탄소년단",
+      "platform_count": 2,
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "total_count": 2
+    }
+  ]
 }

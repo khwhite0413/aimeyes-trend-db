@@ -2,7 +2,7 @@
   "date": "2026-06-12",
   "mode": "fashion",
   "compared_to": "2026-06-11",
-  "total_keywords_today": 471,
+  "total_keywords_today": 472,
   "total_keywords_yesterday": 495,
   "data_days_available": 89,
   "overall_confidence": "high",
@@ -29,17 +29,6 @@
         "youtube"
       ],
       "sample_note": "오늘 13건, 어제 11건 기준"
-    },
-    {
-      "keyword": "outfit",
-      "change": "+20%",
-      "today_count": 12,
-      "yesterday_count": 10,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 12건, 어제 10건 기준"
     },
     {
       "keyword": "#ootd",
@@ -152,28 +141,6 @@
       "sample_note": "오늘 8건, 어제 7건 기준"
     },
     {
-      "keyword": "#fashion",
-      "change": "+14%",
-      "today_count": 8,
-      "yesterday_count": 7,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 8건, 어제 7건 기준"
-    },
-    {
-      "keyword": "#shorts",
-      "change": "+14%",
-      "today_count": 8,
-      "yesterday_count": 7,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 8건, 어제 7건 기준"
-    },
-    {
       "keyword": "시슬리원피스",
       "change": "+14%",
       "today_count": 8,
@@ -218,31 +185,64 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "#style",
-      "change": "+67%",
+      "keyword": "#outfitideas",
+      "change": "+150%",
       "today_count": 5,
-      "yesterday_count": 3,
+      "yesterday_count": 2,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 5건, 어제 2건 기준"
+    },
+    {
+      "keyword": "outfitideas",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 2건 기준"
+    },
+    {
+      "keyword": "추천",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "출근룩",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "fashion",
-      "change": "-9%",
-      "today_count": 21,
+      "change": "-17%",
+      "today_count": 19,
       "yesterday_count": 23,
       "confidence": "high"
     },
     {
       "keyword": "style",
-      "change": "-9%",
-      "today_count": 10,
+      "change": "-27%",
+      "today_count": 8,
       "yesterday_count": 11,
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "keyword": "street",
@@ -250,6 +250,27 @@
       "today_count": 5,
       "yesterday_count": 7,
       "confidence": "medium"
+    },
+    {
+      "keyword": "#fashion",
+      "change": "-14%",
+      "today_count": 6,
+      "yesterday_count": 7,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "#shorts",
+      "change": "-14%",
+      "today_count": 6,
+      "yesterday_count": 7,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "haul",
+      "change": "-33%",
+      "today_count": 4,
+      "yesterday_count": 6,
+      "confidence": "low"
     },
     {
       "keyword": "에고이스트",
@@ -278,30 +299,11 @@
       "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
-    },
-    {
-      "keyword": "#데일리룩",
-      "change": "-67%",
-      "today_count": 1,
-      "yesterday_count": 3,
-      "confidence": "low"
-    },
-    {
-      "keyword": "trends",
-      "change": "-33%",
-      "today_count": 2,
-      "yesterday_count": 3,
-      "confidence": "low"
-    },
-    {
-      "keyword": "june",
-      "change": "-67%",
-      "today_count": 1,
-      "yesterday_count": 3,
-      "confidence": "low"
     }
   ],
-  "new_entries": [],
+  "new_entries": [
+    "신발"
+  ],
   "cross_platform_hot": [
     {
       "keyword": "블라우스",
