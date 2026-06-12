@@ -1,0 +1,962 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "야말",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "야말-니코 돌아온다, 스페인 개막전 앞두고 부상 공포 걷히나",
+              "url": "https://v.daum.net/v/20260612061137942"
+            },
+            {
+              "title": "[월드컵] '우승 1순위' 스페인, 페루에 3-1 승리…야말 결장",
+              "url": "https://www.yna.co.kr/view/AKR20260609104300007"
+            },
+            {
+              "title": "전설이 되려는 에이스, 새 역사 쓰고픈 19세",
+              "url": "https://www.chosun.com/sports/sports_special/2026/06/09/5Q5XHU3G25GIHF4L3YFG3XEIIQ/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "개그",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "장항준",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "김은희 \"장항준, 거들먹거려 재수 없어... 여전히 내 돈 쓴다\"",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/06/12/GRRGMOJZHEYTGZRYGAZTCZTGMY/"
+            },
+            {
+              "title": "김은희 \"장항준, '왕사남' 후 거들먹거려…카드값은 내가 내\" - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/06/12/2026061210263263223"
+            },
+            {
+              "title": "'천만 감독' 장항준, 알고 보니 엘리트 집안…\"친척 4명이 국민은행 근무→父는 부행장 출신\" [RE:뷰]",
+              "url": "https://news.nate.com/view/20260612n13816"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "월드컵 결과",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "AI로 본 2026년 북중미 월드컵 우승자는…\"韓, 조별리그 통과\"",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419694"
+            },
+            {
+              "title": "우승 후보 1순위는 스페인…옵타·골드만삭스 등 예측",
+              "url": "https://v.daum.net/v/20260612063004192"
+            },
+            {
+              "title": "프랑스 35%-스페인 31%! 경제학자 160명은 음바페의 WC 활약 예고 - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/06/12/202606120215776383O"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "일본 월드컵",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "한국은 손흥민·이강인·김민재 3명 뿐?…월드컵 아시아 올스타 日 점령→무려 7곳 차지",
+              "url": "https://v.daum.net/v/20260612020202281"
+            },
+            {
+              "title": "日 대굴욕! '쿠보마저 탈락' F조 통합 베스트11에 한 명도 없다... 네덜란드만 9명 - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/06/11/2026061116580894922"
+            },
+            {
+              "title": "[멕시코시티ON]직접 묻고 들었다 \"日, 1차 목표는 8강\" 자신감 폭발…\"홍명보호 공격 강력, 韓 같이 8강 진출 기원\"",
+              "url": "https://www.chosun.com/sports/football/2026/06/11/GE4GEYZUGA3WMNRWMM4GGOLDGY/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "이승우",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "성숙해진 이승우 소신 발언...\"홍명보호, 월드컵 2승 1패 예상\"",
+              "url": "https://v.daum.net/v/20260612014736253"
+            },
+            {
+              "title": "“둘 중 한 명만 없으면 된다”…대표팀 탈락 이승우의 솔직 고백",
+              "url": "https://biz.heraldcorp.com/article/10769835"
+            },
+            {
+              "title": "‘아쉬운 월드컵 탈락’ 이승우, “체코전 포백 쓸 것 같다…한국이 충분히 이길 듯”",
+              "url": "http://www.osen.co.kr/article/G1112818568"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "korea",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "South Korea Secures Leadership in International Standards for AI and 6G Security",
+              "url": "https://www.asiae.co.kr/en/article/2026061210444726939"
+            },
+            {
+              "title": "5 nations sign AI alliance pact to shape global tech rules",
+              "url": "https://www.koreatimes.co.kr/economy/policy/20260612/5-nations-sign-ai-alliance-pact-to-shape-global-tech-rules"
+            },
+            {
+              "title": "S. Korea signs agreement on AI standardization with partners",
+              "url": "https://en.yna.co.kr/view/AEN20260612001100320"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "맥도날드 월드컵 컵",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "글로벌엔 있는데 한국엔 없네?…맥도날드 '월드컵 세트' 손흥민 빠진 이유",
+              "url": "https://www.newsis.com/view/NISX20260611_0003664606"
+            },
+            {
+              "title": "태극기·붉은악마...북중미 월드컵 개막 임박, 패션업계도 '월드컵' 바람",
+              "url": "https://www.greened.kr/news/articleView.html?idxno=342313"
+            },
+            {
+              "title": "케이스티파이, FIFA 월드컵 2026 한정판 컬렉션 출시",
+              "url": "https://www.etnews.com/20260611000040"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "인천재활용센터",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "인천서 발견된 훼손된 시신, 학생일 가능성에 교육계 촉각",
+              "url": "https://v.daum.net/v/20260612112350747"
+            },
+            {
+              "title": "인천 재활용쓰레기에 주검 다리…“마네킹인가 했더니 붕대 핏자국”",
+              "url": "https://www.hani.co.kr/arti/area/capital/1263242.html"
+            },
+            {
+              "title": "인천 연수·중구서 수거된 재활용품 속 ‘붕대 감긴 신체’ 발견",
+              "url": "https://www.kyeonggi.com/article/20260611580448"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "ワールドカップ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "最強チャンミン、北中米ワールドカップのチェコ戦で「1対0の勝利を予想」",
+              "url": "https://www.mk.co.kr/jp/broadcasting-service/12072521"
+            },
+            {
+              "title": "「東方神起」チャンミン、喜びのガッツポーズ…少年に戻った？",
+              "url": "https://www.wowkorea.jp/topic/read/155673.html"
+            },
+            {
+              "title": "東方神起 チャンミン 北中米W杯関連番組に相次ぎ出演 野球に続きサッカーでも「真のファン」ぶり",
+              "url": "https://koreantrend-research.jp/207913/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 61,
+          "interest_max": 100,
+          "interest_latest": 36,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 7,
+          "interest_max": 25,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 91,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 9,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "tim allen",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Inside Why ‘Home Improvement’ Is Not Coming Back Anytime Soon",
+              "url": "https://variety.com/2026/tv/news/home-improvement-reboot-tim-allen-jonathan-taylor-thomas-1236778892/"
+            },
+            {
+              "title": "Tim Allen says 'Home Improvement' revival halted by onscreen sons' 'personality problems'",
+              "url": "https://thenationaldesk.com/news/entertainment/tim-allen-says-home-improvement-revival-halted-by-onscreen-sons-personality-problems"
+            },
+            {
+              "title": "Tim Allen says Home Improvement reboot has been derailed by cast ‘personality problems’",
+              "url": "https://www.the-independent.com/arts-entertainment/tv/news/tim-allen-home-improvement-show-cast-challenges-b2993930.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "kim jong un",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "North Korea’s Kim voices full support for Russia, sends National Day message to Putin, KCNA says",
+              "url": "https://www.reuters.com/world/asia-pacific/north-koreas-kim-voices-full-support-russia-sends-national-day-message-putin-2026-06-11/"
+            },
+            {
+              "title": "North Korean leader Kim Jong-un sent a congratulatory message to President Vladimir Putin on the 12t..",
+              "url": "https://www.mk.co.kr/en/politics/12072484"
+            },
+            {
+              "title": "Alliance at New Heights: Kim and Putin Forge Stronger Ties",
+              "url": "https://www.devdiscourse.com/article/politics/3934023-alliance-at-new-heights-kim-and-putin-forge-stronger-ties"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "fast and furious",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "‘The Fast and the Furious’ Is Returning to Theaters for Its 25th Anniversary",
+              "url": "https://gizmodo.com/the-fast-and-the-furious-movie-theaters-rerelease-25th-anniversary-2000770683"
+            },
+            {
+              "title": "Beloved Vin Diesel Movie Sets Theatrical Rerelease in New Trailer",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/beloved-vin-diesel-movie-sets-155951178.html"
+            },
+            {
+              "title": "3 Filmmaking Lessons From the 'Fast and Furious' Franchise",
+              "url": "https://nofilmschool.com/fast-and-furious-filmmaking-lessons"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "harry kane",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Harry Kane: Stars of Soccer, World Cup 2026",
+              "url": "https://www.nytimes.com/athletic/interactive/fifa-world-cup-stars-of-soccer-2026/player/harry-kane-england-forward/"
+            },
+            {
+              "title": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+              "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo"
+            },
+            {
+              "title": "Tuchel confident ‘sharp’ Kane is in perfect form to lead England at World Cup",
+              "url": "https://www.theguardian.com/football/2026/jun/05/tuchel-confident-sharp-kane-is-in-perfect-form-to-lead-england-at-world-cup"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "world cup winners list",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "See how World Cup countries, winners, prize money changed through the years",
+              "url": "https://www.usatoday.com/story/graphics/2026/06/09/world-cup-countries-winners-prize-money/90298331007/"
+            },
+            {
+              "title": "Why is the FIFA World Cup every four years?",
+              "url": "https://sports.yahoo.com/articles/why-fifa-world-cup-every-233030360.html"
+            },
+            {
+              "title": "Raffi Andonian Looks Back at World Cup History",
+              "url": "https://www.aol.com/news/raffi-andonian-looks-back-world-144900184.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "jane hedengren",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Top women's runners set for epic 5K showdown at NCAA outdoor champs",
+              "url": "https://www.registerguard.com/story/sports/college/track-field/2026/06/10/top-women-athletes-ncaa-track-and-field-championship-meet-eugene-oregon-hayward-field-jane-hedengren/90375399007/"
+            },
+            {
+              "title": "Gordon Monson: Good luck catching Jane Hedengren, the fastest woman at BYU and beyond",
+              "url": "https://www.sltrib.com/sports/byu-cougars/2026/06/11/gordon-monson-good-luck-catching/"
+            },
+            {
+              "title": "Freshman sensation Jane Hedengren looks to finish off near-perfect freshman year at 2026 NCAA Outdoors",
+              "url": "https://www.letsrun.com/news/2026/06/freshman-sensation-jane-hedengren-looks-to-finish-off-near-perfect-freshman-year-at-2026-ncaa-outdoors/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "slovakia",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "India's Modi, Trump likely to meet at G7, discuss trade, visas, source says",
+              "url": "https://www.reuters.com/world/americas/indias-modi-trump-likely-meet-g7-discuss-trade-visas-source-says-2026-06-10/"
+            },
+            {
+              "title": "India expected to be among the countries invited to join initiative to secure Strait of Hormuz: French sources",
+              "url": "https://www.thehindu.com/news/national/india-expected-to-be-among-the-countries-invited-to-join-initiative-to-secure-strait-of-hormuz-french-sources/article71090306.ece"
+            },
+            {
+              "title": "Why Does the G7 Keep Inviting India to its Summits?",
+              "url": "https://thediplomat.com/2026/06/why-does-the-g7-keep-inviting-india-to-its-summits/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "croatia world cup",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "From TV-watching grandmothers to roaring ‘doms’, this is why Croatia’s fans are Always Faithful - The Athletic",
+              "url": "https://www.nytimes.com/athletic/7209465/2026/06/10/croatia-world-cup-fans/"
+            },
+            {
+              "title": "Alexandria welcomes Croatia’s soccer team to its home base for World Cup",
+              "url": "https://wtop.com/alexandria/2026/06/alexandria-welcomes-croatias-soccer-team-to-its-home-base-for-world-cup/"
+            },
+            {
+              "title": "Croatia World Cup 2026 team guide",
+              "url": "https://www.theguardian.com/football/2026/jun/10/croatia-world-cup-2026-team-guide"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "is china in the world cup 2026",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Opinion | Quit Complaining About the World Cup",
+              "url": "https://www.nytimes.com/2026/06/09/opinion/world-cup-fifa-tickets-prices.html"
+            },
+            {
+              "title": "'A shameless cash grab': can the World Cup be saved?",
+              "url": "https://www.theguardian.com/football/video/2026/jun/11/a-shameless-cash-grab-can-the-world-cup-be-saved"
+            },
+            {
+              "title": "Can the worst World Cup ever find a way to redeem itself?",
+              "url": "https://www.salon.com/2026/06/11/can-the-worst-world-cup-ever-find-a-way-to-redeem-itself/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "offsides in soccer",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Explaining the offside rule in soccer",
+              "url": "https://www.ksdk.com/article/sports/soccer/world-cup/what-is-offside-in-soccer-world-cup-2026/507-828c78bf-2f22-446e-802e-d454a42cd8fe"
+            },
+            {
+              "title": "Offside, yellow cards, penalty kicks: Your guide to key World Cup rules",
+              "url": "https://globalnews.ca/news/11898055/fifa-world-cup-rules/"
+            },
+            {
+              "title": "Semi-automated offside is coming for the World Cup. Here’s how one referee uses it",
+              "url": "https://www.theguardian.com/football/2026/jun/08/semi-automated-offside-world-cup"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 29,
+          "interest_max": 100,
+          "interest_latest": 35,
+          "rank": 1
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 21,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 15,
+          "interest_max": 38,
+          "interest_latest": 18,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 15,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 14,
+          "interest_max": 42,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 9,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 7,
+          "interest_max": 21,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 4,
+          "interest_max": 16,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 3,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury outfits",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury watches",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "loro piana",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "product",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury brands for men",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette rvc",
+          "value": "9600"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette nola",
+          "value": "500"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette new orleans",
+          "value": "400"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "sophie woodhouse coquette habit",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette chicago",
+          "value": "70"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "中村玉緒",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "中村玉緒さんが死去、86歳 肺炎のため",
+              "url": "https://news.yahoo.co.jp/pickup/6583954"
+            },
+            {
+              "title": "中村玉緒さん死去、８６歳",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/entertainment/hochi-20260612-OHT1T51140"
+            },
+            {
+              "title": "オリコンニュース",
+              "url": "https://www.nack5.co.jp/oricon/2460846/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ファンヒチャン",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "2部降格のウルヴス、メキシコ代表FWヒメネス獲得を発表！ 4季ぶり復帰が決定",
+              "url": "https://www.soccer-king.jp/news/world/eng/20260610/2169688.html"
+            },
+            {
+              "title": "最下位で2部降格のウルブス、エドワーズ監督の退任を発表…後任は45歳ポルトガル人指揮官が有力（サッカーキング）",
+              "url": "https://news.yahoo.co.jp/articles/7ca8477b6a5d8246229290f98fdf44ba077ac10f"
+            },
+            {
+              "title": "ウルブズは、チャンピオンシップ昇格を狙うチームに2人の大物選手を獲得した直後、ロブ・エドワーズを解任した。",
+              "url": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/%E3%82%A6%E3%83%AB%E3%83%95%E3%82%99%E3%82%B9%E3%82%99%E3%81%AF-%E3%83%81%E3%83%A3%E3%83%B3%E3%83%92%E3%82%9A%E3%82%AA%E3%83%B3%E3%82%B7%E3%83%83%E3%83%95%E3%82%9A%E6%98%87%E6%A0%BC%E3%82%92%E7%8B%99%E3%81%86%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AB2%E4%BA%BA%E3%81%AE%E5%A4%A7%E7%89%A9%E9%81%B8%E6%89%8B%E3%82%92%E7%8D%B2%E5%BE%97%E3%81%97%E3%81%9F%E7%9B%B4%E5%BE%8C-%E3%83%AD%E3%83%95%E3%82%99-%E3%82%A8%E3%83%88%E3%82%99%E3%83%AF%E3%83%BC%E3%82%B9%E3%82%99%E3%82%92%E8%A7%A3%E4%BB%BB%E3%81%97%E3%81%9F/blt6cafa8e9b08dbb62"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "風",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "朝ドラ「風、薫る」バーンズ先生（エマ・ハワード）が決意を固める 第12週あらすじ（シネマトゥデイ）",
+              "url": "https://news.yahoo.co.jp/articles/ea7d43bfa91b0f9e094d9090f3b93af61b7156d3"
+            },
+            {
+              "title": "危機に直面したとき、「メンタルが強い人」が最初にする意外なこと〈風、薫る第55回〉",
+              "url": "https://diamond.jp/articles/-/391893"
+            },
+            {
+              "title": "『風、薫る』第11週「凪にそよぐ」を振り返る",
+              "url": "https://mainichi.jp/articles/20260612/orc/00m/200/046000c"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "エンカーナシオン",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "DeNA電撃補強 ビド＆エンカーナシオンを獲得…借金9の4位から反撃へ、HR数と防御率はセ最下位（Full-Count）",
+              "url": "https://news.yahoo.co.jp/articles/70f1f5b7b3404318ae0ab40a8fbd99e173807625"
+            },
+            {
+              "title": "2026年シーズン 選手契約・入団記者会見について",
+              "url": "https://www.baystars.co.jp/news/2026/06/0612_03.php"
+            },
+            {
+              "title": "【DeNA】シーズン中に投打の助っ人を同時補強…メジャー11勝ビドと10発エンカーナシオン",
+              "url": "https://www.nikkansports.com/baseball/news/202606120000427.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "マイケルジャクソン 映画",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "半年ぶり表舞台に立った「米倉涼子」の“オーラ復活”に業界騒然 窮地を救った「男性俳優」とは？（AERA DIGITAL）",
+              "url": "https://news.yahoo.co.jp/articles/da1c744bb0e6b04358972f6246e205d462a10613"
+            },
+            {
+              "title": "『Michael／マイケル』幼少期マイケル役が語る役作り 「君はマイケルだと言い聞かせた」",
+              "url": "https://www.sankei.com/article/20260612-FI3SJ3MAVBK2VLRUUAE6E2QSZQ/?outputType=theme_oriconnews"
+            },
+            {
+              "title": "「ボヘミアン・ラプソディ」の次にマイケル・ジャクソンを選んだ理由、ステージシーンのこだわり 名プロデューサー、グレアム・キングに聞く",
+              "url": "https://eiga.com/movie/102093/interview/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "トミカ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "【焼肉きんぐ】小学生以下限定！キャンペーントミカ「焼肉きんぐバス」を数量限定でプレゼント(2026年6月12日11時0分)",
+              "url": "https://www.oita-press.co.jp/pr/prtimes/detail?id=c44964_r1419"
+            },
+            {
+              "title": "【焼肉きんぐ】小学生以下限定！キャンペーントミカ「焼肉きんぐバス」を数量限定でプレゼント (2026年6月12日掲載)",
+              "url": "https://news.livedoor.com/pr_topics/detail/31529239/"
+            },
+            {
+              "title": "【初リリース！】いすゞエルガの枚方営業所所属車を再現。「京阪バスオリジナルトミカ」が6月7日（日）より販売開始（NOSWEB）",
+              "url": "https://news.yahoo.co.jp/articles/92070bd33aaa6d09a1817a60bb47dc601cbd4d78"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "キュアエクレール",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "キュアエクレールの正体は誰!? 本編を見て推理＆投票するキャンペーン開始！| ニュース｜名探偵プリキュア！",
+              "url": "https://www.toei-anim.co.jp/tv/precure/news/2026061201.php"
+            },
+            {
+              "title": "『名探偵プリキュア！』そのキャラいるの！？ LINEスタンプ登場でネット驚き「使い勝手が良い」",
+              "url": "https://www.saga-s.co.jp/articles/-/1728105"
+            },
+            {
+              "title": "『たんプリ』キュアエクレール投票企画が6/21よりスタート！",
+              "url": "https://www.animatetimes.com/news/details.php?id=1781152715"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "神田愛花",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "神田愛花、夫・バナナマン日村との仲睦まじい待ち時間の“つぶし方”紹介 埼玉の店で2時間半並び…（オリコン）",
+              "url": "https://news.yahoo.co.jp/articles/56cbb1613e46b2429d85920fbbacd6b0f22fd02c"
+            },
+            {
+              "title": "神田愛花、夫日村勇紀とラーメン店へ「２時間半並びました」独特の暇つぶし明かす",
+              "url": "https://www.nikkansports.com/entertainment/news/202606110001069.html"
+            },
+            {
+              "title": "神田愛花、夫婦のお財布は「全部私が管理してます」神田の収入は日村にはナイショ",
+              "url": "https://www.rbbtoday.com/article/2026/06/12/249222.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "黄喜燦",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "[相片儿] 黄仁范的'来抓我吧'",
+              "url": "https://www.starnewskorea.com/zh/sports/2026/06/11/2026061109210249482"
+            },
+            {
+              "title": "黄喜灿：我和孙兴慜保持着密切的沟通；首战捷克非常关键",
+              "url": "https://m.dongqiudi.com/article/5914568.html"
+            },
+            {
+              "title": "\"降级委屈→狠毒爆发\"的黄喜灿决心\"全力冲击世界杯\"，因转会问题要好好表现？ 那种想法...\" [瓜达拉哈拉县长]",
+              "url": "https://www.starnewskorea.com/zh/sports/2026/06/09/2026060905102293964"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "中山優馬",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "中山優馬、STARTO独立後は撮影・編集・台本まで…それでも「独立してよかった」と思えるワケ",
+              "url": "https://article.auone.jp/detail/1/5/9/100_9_r_20260612_1781215776977648"
+            },
+            {
+              "title": "中山優馬、STARTO独立から1年5カ月「よかったと思ってます！」 (2026年6月12日掲載)",
+              "url": "https://news.livedoor.com/topics/detail/31526727/"
+            },
+            {
+              "title": "中山優馬 「ReTRY」「SPARK」タワーレコードミニジュエルキーホルダー発売記念イベント @タワーレコード ららぽーと磐田店",
+              "url": "https://tower.jp/store/event/2026/06/110002"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 41,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 36,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 27,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 16,
+          "interest_max": 67,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 12,
+          "interest_max": 83,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 12,
+          "interest_max": 54,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 1,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 24,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 12,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 24,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "dholic",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "ムシンサ",
+          "value": "110"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "原宿 韓国 ファッション",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 系 ファッション 男子",
+          "value": "40"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-06-12T04:08:31.997899+00:00"
+}

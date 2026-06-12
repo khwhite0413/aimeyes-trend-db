@@ -1,54 +1,45 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-06-05",
-    "to": "2026-06-11"
+    "from": "2026-06-06",
+    "to": "2026-06-12"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+13%",
-      "total_mentions": 105
+      "growth": "+27%",
+      "total_mentions": 104
     },
     {
       "keyword": "#viral",
-      "growth": "+10%",
-      "total_mentions": 85
+      "growth": "+33%",
+      "total_mentions": 87
     },
     {
       "keyword": "#trending",
-      "growth": "+18%",
-      "total_mentions": 73
-    },
-    {
-      "keyword": "trend",
       "growth": "+67%",
-      "total_mentions": 71
+      "total_mentions": 72
     },
     {
       "keyword": "여름블라우스",
-      "growth": "+12%",
-      "total_mentions": 64
-    }
-  ],
-  "most_cross_platform": [
+      "growth": "+38%",
+      "total_mentions": 67
+    },
     {
-      "keyword": "시국선언",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
+      "keyword": "시슬리원피스",
+      "growth": "+33%",
+      "total_mentions": 48
     }
   ],
+  "most_cross_platform": [],
   "naver_shopping_hot": [
     "원피스",
     "여름원피스",
     "블라우스",
     "티셔츠",
-    "여름가디건"
+    "여름블라우스"
   ],
   "top_keywords_overall": [
     "#shorts",
@@ -59,7 +50,7 @@
     "티셔츠",
     "여름가디건",
     "#trending",
-    "trend",
-    "여름블라우스"
+    "여름블라우스",
+    "trend"
   ]
 }
