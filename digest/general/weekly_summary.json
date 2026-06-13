@@ -1,36 +1,26 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-06-06",
-    "to": "2026-06-12"
+    "from": "2026-06-07",
+    "to": "2026-06-13"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#shorts",
-      "growth": "+45%",
-      "total_mentions": 106
-    },
-    {
       "keyword": "#viral",
-      "growth": "+22%",
-      "total_mentions": 86
-    },
-    {
-      "keyword": "#trending",
-      "growth": "+50%",
-      "total_mentions": 71
+      "growth": "+27%",
+      "total_mentions": 91
     },
     {
       "keyword": "여름블라우스",
-      "growth": "+38%",
-      "total_mentions": 67
+      "growth": "+22%",
+      "total_mentions": 70
     },
     {
       "keyword": "시슬리원피스",
       "growth": "+33%",
-      "total_mentions": 48
+      "total_mentions": 50
     }
   ],
   "most_cross_platform": [
@@ -48,7 +38,7 @@
     "여름원피스",
     "블라우스",
     "티셔츠",
-    "여름블라우스"
+    "여름가디건"
   ],
   "top_keywords_overall": [
     "#shorts",
@@ -59,7 +49,7 @@
     "티셔츠",
     "여름가디건",
     "#trending",
-    "trend",
-    "여름블라우스"
+    "여름블라우스",
+    "trend"
   ]
 }
