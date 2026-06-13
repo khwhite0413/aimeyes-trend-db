@@ -13,9 +13,19 @@
       "total_mentions": 91
     },
     {
+      "keyword": "#trending",
+      "growth": "+20%",
+      "total_mentions": 77
+    },
+    {
       "keyword": "여름블라우스",
       "growth": "+22%",
       "total_mentions": 70
+    },
+    {
+      "keyword": "trend",
+      "growth": "+100%",
+      "total_mentions": 68
     },
     {
       "keyword": "시슬리원피스",
@@ -29,6 +39,14 @@
       "platforms": [
         "x_twitter",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "미래에셋",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     }
@@ -47,8 +65,8 @@
     "여름원피스",
     "블라우스",
     "티셔츠",
-    "여름가디건",
     "#trending",
+    "여름가디건",
     "여름블라우스",
     "trend"
   ]
