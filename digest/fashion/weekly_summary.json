@@ -1,35 +1,35 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-06-07",
-    "to": "2026-06-13"
+    "from": "2026-06-08",
+    "to": "2026-06-14"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+19%",
-      "total_mentions": 141
+      "keyword": "블라우스",
+      "growth": "+8%",
+      "total_mentions": 92
     },
     {
       "keyword": "ootd",
-      "growth": "+25%",
-      "total_mentions": 86
+      "growth": "+27%",
+      "total_mentions": 88
     },
     {
       "keyword": "#ootd",
-      "growth": "+17%",
-      "total_mentions": 82
+      "growth": "+27%",
+      "total_mentions": 84
     },
     {
       "keyword": "여름블라우스",
-      "growth": "+22%",
-      "total_mentions": 70
+      "growth": "+10%",
+      "total_mentions": 72
     },
     {
-      "keyword": "outfit",
-      "growth": "+33%",
+      "keyword": "코디",
+      "growth": "+22%",
       "total_mentions": 59
     }
   ],
@@ -70,10 +70,10 @@
     "fashion",
     "블라우스",
     "ootd",
+    "#ootd",
     "원피스",
     "여름원피스",
     "티셔츠",
-    "#ootd",
     "여름",
     "여름가디건",
     "여름블라우스"
