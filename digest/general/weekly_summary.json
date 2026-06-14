@@ -9,13 +9,18 @@
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+15%",
-      "total_mentions": 109
+      "growth": "+23%",
+      "total_mentions": 110
     },
     {
       "keyword": "#trending",
-      "growth": "+22%",
-      "total_mentions": 78
+      "growth": "+56%",
+      "total_mentions": 81
+    },
+    {
+      "keyword": "trend",
+      "growth": "+71%",
+      "total_mentions": 75
     },
     {
       "keyword": "여름블라우스",
@@ -26,11 +31,6 @@
       "keyword": "시슬리원피스",
       "growth": "+29%",
       "total_mentions": 53
-    },
-    {
-      "keyword": "#tiktok",
-      "growth": "+67%",
-      "total_mentions": 32
     }
   ],
   "most_cross_platform": [
@@ -39,6 +39,14 @@
       "platforms": [
         "x_twitter",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "루이스 해밀턴",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     },
@@ -67,7 +75,7 @@
     "티셔츠",
     "#trending",
     "여름가디건",
-    "여름블라우스",
-    "trend"
+    "trend",
+    "여름블라우스"
   ]
 }

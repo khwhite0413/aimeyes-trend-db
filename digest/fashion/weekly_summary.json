@@ -8,29 +8,24 @@
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "블라우스",
-      "growth": "+8%",
-      "total_mentions": 92
-    },
-    {
-      "keyword": "ootd",
-      "growth": "+27%",
-      "total_mentions": 88
-    },
-    {
-      "keyword": "#ootd",
-      "growth": "+27%",
-      "total_mentions": 84
-    },
-    {
       "keyword": "여름블라우스",
       "growth": "+10%",
       "total_mentions": 72
     },
     {
       "keyword": "코디",
-      "growth": "+22%",
-      "total_mentions": 59
+      "growth": "+33%",
+      "total_mentions": 60
+    },
+    {
+      "keyword": "시슬리원피스",
+      "growth": "+29%",
+      "total_mentions": 53
+    },
+    {
+      "keyword": "#shorts",
+      "growth": "+17%",
+      "total_mentions": 51
     }
   ],
   "most_cross_platform": [
@@ -43,7 +38,7 @@
       "count": 2
     },
     {
-      "keyword": "미래에셋",
+      "keyword": "루이스 해밀턴",
       "platforms": [
         "google_trends",
         "x_twitter"
@@ -55,6 +50,14 @@
       "platforms": [
         "naver",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "미래에셋",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     }
@@ -70,12 +73,12 @@
     "fashion",
     "블라우스",
     "ootd",
-    "#ootd",
     "원피스",
     "여름원피스",
     "티셔츠",
-    "여름",
+    "#ootd",
     "여름가디건",
+    "여름",
     "여름블라우스"
   ]
 }
