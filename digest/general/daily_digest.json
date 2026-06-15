@@ -1,168 +1,190 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "mode": "general",
-  "compared_to": "2026-06-13",
+  "compared_to": "2026-06-14",
   "total_keywords_today": 495,
-  "total_keywords_yesterday": 489,
-  "data_days_available": 91,
+  "total_keywords_yesterday": 495,
+  "data_days_available": 92,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "#shorts",
-      "change": "+14%",
-      "today_count": 16,
+      "keyword": "#trending",
+      "change": "+7%",
+      "today_count": 15,
       "yesterday_count": 14,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 16건, 어제 14건 기준"
+      "sample_note": "오늘 15건, 어제 14건 기준"
     },
     {
-      "keyword": "#trending",
-      "change": "+17%",
-      "today_count": 14,
+      "keyword": "#viral",
+      "change": "+15%",
+      "today_count": 15,
+      "yesterday_count": 13,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 15건, 어제 13건 기준"
+    },
+    {
+      "keyword": "trend",
+      "change": "+8%",
+      "today_count": 13,
       "yesterday_count": 12,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 14건, 어제 12건 기준"
+      "sample_note": "오늘 13건, 어제 12건 기준"
     },
     {
-      "keyword": "trend",
-      "change": "+20%",
-      "today_count": 12,
-      "yesterday_count": 10,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 12건, 어제 10건 기준"
-    },
-    {
-      "keyword": "시슬리원피스",
+      "keyword": "#tiktok",
       "change": "+12%",
       "today_count": 9,
       "yesterday_count": 8,
       "confidence": "medium",
       "platforms": [
-        "naver"
+        "youtube"
       ],
       "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
-      "keyword": "#tiktok",
-      "change": "+33%",
-      "today_count": 8,
-      "yesterday_count": 6,
+      "keyword": "hacks",
+      "change": "+250%",
+      "today_count": 7,
+      "yesterday_count": 2,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 8건, 어제 6건 기준"
+      "sample_note": "오늘 7건, 어제 2건 기준"
     },
     {
-      "keyword": "#dance",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
+      "keyword": "요즘",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "リュウジ",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
+      "keyword": "dance",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
+      "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
+      "keyword": "life",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
       "keyword": "플리츠원피스",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
         "naver"
       ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
+      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
       "keyword": "#trend",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "#viralvideo",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
+      "keyword": "#youtubeshorts",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
-      "keyword": "#リュウジ",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
+      "keyword": "youtubeshorts",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "#バズレシピ",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "バズレシピ",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
       "keyword": "#edit",
-      "change": "+200%",
-      "today_count": 3,
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "edit",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "water",
+      "change": "+300%",
+      "today_count": 4,
       "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
+      "sample_note": "오늘 4건, 어제 1건 기준"
     },
     {
-      "keyword": "#lyrics",
+      "keyword": "food",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "월드컵",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -173,146 +195,111 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "ela",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
-      "keyword": "kè",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
-      "keyword": "leitada",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
-      "keyword": "edit",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
-      "keyword": "lyrics",
+      "keyword": "#shortsfeed",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "shortsfeed",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "듀엘원피스",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "naver"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
     }
   ],
   "declining": [
     {
-      "keyword": "#viral",
-      "change": "-7%",
-      "today_count": 13,
-      "yesterday_count": 14,
+      "keyword": "#shorts",
+      "change": "-6%",
+      "today_count": 15,
+      "yesterday_count": 16,
       "confidence": "high"
     },
     {
-      "keyword": "quot",
-      "change": "-33%",
+      "keyword": "リュウジ",
+      "change": "-20%",
       "today_count": 4,
-      "yesterday_count": 6,
+      "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "남자반팔티",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
-      "confidence": "medium"
+      "keyword": "#viralvideo",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
     },
     {
       "keyword": "diy",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "recipe",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "탑텐",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#recipe",
       "change": "-25%",
       "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "food",
+      "keyword": "#リュウジ",
       "change": "-25%",
       "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "써스데이아일랜드",
+      "keyword": "#バズレシピ",
       "change": "-25%",
       "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "신발",
-      "change": "-67%",
-      "today_count": 1,
+      "keyword": "バズレシピ",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#minivlog",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#dailyvlog",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "minivlog",
+      "change": "-33%",
+      "today_count": 2,
       "yesterday_count": 3,
       "confidence": "low"
     }
   ],
-  "new_entries": [
-    "#dailyvlog",
-    "dailyvlog"
-  ],
-  "cross_platform_hot": [
-    {
-      "keyword": "루이스 해밀턴",
-      "platform_count": 2,
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "total_count": 2
-    }
-  ]
+  "new_entries": [],
+  "cross_platform_hot": []
 }
