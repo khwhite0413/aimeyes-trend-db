@@ -9,8 +9,13 @@
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+22%",
-      "total_mentions": 147
+      "growth": "+17%",
+      "total_mentions": 146
+    },
+    {
+      "keyword": "여름가디건",
+      "growth": "+9%",
+      "total_mentions": 77
     },
     {
       "keyword": "여름블라우스",
@@ -26,14 +31,17 @@
       "keyword": "코디",
       "growth": "+25%",
       "total_mentions": 63
-    },
-    {
-      "keyword": "시슬리원피스",
-      "growth": "+29%",
-      "total_mentions": 57
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "여름가디건",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "블라우스",
       "platforms": [
