@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-06-10",
-    "to": "2026-06-16"
+    "from": "2026-06-11",
+    "to": "2026-06-17"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#shorts",
-      "growth": "+6%",
-      "total_mentions": 119
-    },
-    {
       "keyword": "#viral",
-      "growth": "+25%",
-      "total_mentions": 92
+      "growth": "+18%",
+      "total_mentions": 93
     },
     {
-      "keyword": "#trending",
-      "growth": "+8%",
-      "total_mentions": 86
+      "keyword": "원피스",
+      "growth": "+9%",
+      "total_mentions": 83
     },
     {
-      "keyword": "여름블라우스",
-      "growth": "+20%",
-      "total_mentions": 75
+      "keyword": "여름원피스",
+      "growth": "+9%",
+      "total_mentions": 83
     },
     {
-      "keyword": "시슬리원피스",
-      "growth": "+29%",
-      "total_mentions": 57
+      "keyword": "블라우스",
+      "growth": "+9%",
+      "total_mentions": 83
+    },
+    {
+      "keyword": "티셔츠",
+      "growth": "+9%",
+      "total_mentions": 83
     }
   ],
   "most_cross_platform": [
@@ -44,14 +44,6 @@
     },
     {
       "keyword": "루이스 해밀턴",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "미래에셋",
       "platforms": [
         "google_trends",
         "x_twitter"
@@ -74,8 +66,8 @@
     "여름원피스",
     "블라우스",
     "티셔츠",
-    "여름가디건",
     "여름블라우스",
+    "여름가디건",
     "trend"
   ]
 }

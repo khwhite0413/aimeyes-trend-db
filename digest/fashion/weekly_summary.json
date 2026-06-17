@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-06-10",
-    "to": "2026-06-16"
+    "from": "2026-06-11",
+    "to": "2026-06-17"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+17%",
-      "total_mentions": 146
+      "keyword": "원피스",
+      "growth": "+9%",
+      "total_mentions": 83
+    },
+    {
+      "keyword": "여름원피스",
+      "growth": "+9%",
+      "total_mentions": 83
+    },
+    {
+      "keyword": "티셔츠",
+      "growth": "+9%",
+      "total_mentions": 83
     },
     {
       "keyword": "여름가디건",
-      "growth": "+9%",
-      "total_mentions": 77
+      "growth": "+20%",
+      "total_mentions": 78
     },
     {
       "keyword": "여름블라우스",
-      "growth": "+20%",
-      "total_mentions": 75
-    },
-    {
-      "keyword": "#fashion",
-      "growth": "+100%",
-      "total_mentions": 64
-    },
-    {
-      "keyword": "코디",
-      "growth": "+25%",
-      "total_mentions": 63
+      "growth": "+33%",
+      "total_mentions": 77
     }
   ],
   "most_cross_platform": [
@@ -57,14 +57,6 @@
         "x_twitter"
       ],
       "count": 2
-    },
-    {
-      "keyword": "미래에셋",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
@@ -77,13 +69,13 @@
   "top_keywords_overall": [
     "fashion",
     "블라우스",
-    "ootd",
     "원피스",
     "여름원피스",
     "티셔츠",
-    "#ootd",
+    "ootd",
     "여름가디건",
+    "#ootd",
     "여름블라우스",
-    "여름"
+    "#fashion"
   ]
 }
