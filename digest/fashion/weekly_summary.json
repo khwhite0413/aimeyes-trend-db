@@ -9,8 +9,8 @@
   "top_rising": [
     {
       "keyword": "원피스",
-      "growth": "+9%",
-      "total_mentions": 83
+      "growth": "+18%",
+      "total_mentions": 84
     },
     {
       "keyword": "여름원피스",
@@ -36,6 +36,14 @@
   "most_cross_platform": [
     {
       "keyword": "여름가디건",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "원피스",
       "platforms": [
         "naver",
         "youtube"
@@ -69,12 +77,12 @@
   "top_keywords_overall": [
     "fashion",
     "블라우스",
+    "ootd",
     "원피스",
     "여름원피스",
     "티셔츠",
-    "ootd",
-    "여름가디건",
     "#ootd",
+    "여름가디건",
     "여름블라우스",
     "#fashion"
   ]
