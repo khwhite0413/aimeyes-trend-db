@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-06-12",
-    "to": "2026-06-18"
+    "from": "2026-06-13",
+    "to": "2026-06-19"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "fashion",
+      "growth": "+5%",
+      "total_mentions": 140
+    },
+    {
+      "keyword": "원피스",
+      "growth": "+25%",
+      "total_mentions": 88
+    },
+    {
       "keyword": "여름가디건",
       "growth": "+9%",
-      "total_mentions": 80
+      "total_mentions": 81
     },
     {
       "keyword": "여름블라우스",
       "growth": "+9%",
-      "total_mentions": 80
+      "total_mentions": 81
     },
     {
       "keyword": "여름",
-      "growth": "+44%",
-      "total_mentions": 70
-    },
-    {
-      "keyword": "#fashion",
-      "growth": "+33%",
-      "total_mentions": 66
-    },
-    {
-      "keyword": "시슬리원피스",
-      "growth": "+12%",
-      "total_mentions": 61
+      "growth": "+30%",
+      "total_mentions": 74
     }
   ],
   "most_cross_platform": [
@@ -43,7 +43,7 @@
       "count": 2
     },
     {
-      "keyword": "블라우스",
+      "keyword": "원피스",
       "platforms": [
         "naver",
         "youtube"
@@ -51,7 +51,7 @@
       "count": 2
     },
     {
-      "keyword": "원피스",
+      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"

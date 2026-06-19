@@ -1,1439 +1,1272 @@
 {
   "platform": "x_twitter",
-  "mode": "fashion",
+  "mode": "general",
   "countries": {
     "korea": {
-      "fashion_related": [],
       "all_trending": [
         {
           "rank": 1,
-          "topic": "바디투바디",
+          "topic": "#tmi릴레이",
           "volume": ""
         },
         {
           "rank": 2,
-          "topic": "#이디야_포켓몬",
+          "topic": "남아공전",
           "volume": ""
         },
         {
           "rank": 3,
-          "topic": "#BTS_ARIRANG",
+          "topic": "#맘눌뎀",
           "volume": ""
         },
         {
           "rank": 4,
-          "topic": "방탄소년단",
+          "topic": "다음 경기",
           "volume": ""
         },
         {
           "rank": 5,
-          "topic": "#BTS_SWIM",
+          "topic": "멕시코전",
           "volume": ""
         },
         {
           "rank": 6,
-          "topic": "더보이즈 콘서트",
+          "topic": "오프사이드",
           "volume": ""
         },
         {
           "rank": 7,
-          "topic": "마라카스",
+          "topic": "축구보는중",
           "volume": ""
         },
         {
           "rank": 8,
-          "topic": "둘리사우르스",
+          "topic": "멕시코 골키퍼",
           "volume": ""
         },
         {
           "rank": 9,
-          "topic": "#현진아_너라는_계절을_사랑해",
+          "topic": "추가시간",
           "volume": ""
         },
         {
           "rank": 10,
-          "topic": "#HappyHyunjinDay",
+          "topic": "#쿨링샴푸",
           "volume": ""
         },
         {
           "rank": 11,
-          "topic": "뜨거운 친구",
+          "topic": "하이닉스",
           "volume": ""
         },
         {
           "rank": 12,
-          "topic": "붉은사막",
+          "topic": "#폴리젠샴푸",
           "volume": ""
         },
         {
           "rank": 13,
-          "topic": "아야카키",
+          "topic": "중앙일보",
           "volume": ""
         },
         {
           "rank": 14,
-          "topic": "당첨 아티스트",
+          "topic": "토이스토리",
           "volume": ""
         },
         {
           "rank": 15,
-          "topic": "헤일메리",
+          "topic": "우리나라",
           "volume": ""
         },
         {
           "rank": 16,
-          "topic": "생전 고인",
+          "topic": "하이드레이션 브레이크",
           "volume": ""
         },
         {
           "rank": 17,
-          "topic": "교양 넘치는 클래식",
+          "topic": "#DMDLINEUP2026",
           "volume": ""
         },
         {
           "rank": 18,
-          "topic": "국제 행복",
+          "topic": "슈퍼세이브",
           "volume": ""
         },
         {
           "rank": 19,
-          "topic": "오하욘사",
+          "topic": "월드컵 보는중",
           "volume": ""
         },
         {
           "rank": 20,
-          "topic": "지니 다운",
+          "topic": "방도화살수",
           "volume": ""
         },
         {
           "rank": 21,
-          "topic": "스틸볼런",
+          "topic": "현장탐사팀",
           "volume": ""
         },
         {
           "rank": 22,
-          "topic": "BTS 공연",
+          "topic": "플리 생일",
           "volume": ""
         },
         {
           "rank": 23,
-          "topic": "밤비 얼굴",
+          "topic": "축구 보고",
           "volume": ""
         },
         {
           "rank": 24,
-          "topic": "플레이리스",
+          "topic": "메가박스",
           "volume": ""
         },
         {
           "rank": 25,
-          "topic": "에일리언",
+          "topic": "요양병원",
           "volume": ""
         },
         {
           "rank": 26,
-          "topic": "꼬들 1539",
+          "topic": "멕시코 수비",
           "volume": ""
         },
         {
           "rank": 27,
-          "topic": "페어안무",
+          "topic": "꼬들 1630",
           "volume": ""
         },
         {
           "rank": 28,
-          "topic": "우리 할머니",
+          "topic": "섹파 구함",
           "volume": ""
         },
         {
           "rank": 29,
-          "topic": "인투더썬",
+          "topic": "리프레쉬",
           "volume": ""
         },
         {
           "rank": 30,
-          "topic": "익스플릿",
+          "topic": "vs 멕시코",
           "volume": ""
         },
         {
           "rank": 31,
-          "topic": "클린버전",
+          "topic": "유효슈팅",
           "volume": ""
         },
         {
           "rank": 32,
-          "topic": "초식공룡",
+          "topic": "용돈만남",
           "volume": ""
         },
         {
           "rank": 33,
-          "topic": "어떤 노래",
+          "topic": "축구 너무",
           "volume": ""
         },
         {
           "rank": 34,
-          "topic": "첫키스 누구",
+          "topic": "대한민국 축구",
           "volume": ""
         },
         {
           "rank": 35,
-          "topic": "첫키스 로망",
+          "topic": "남아공 이기",
           "volume": ""
         },
         {
           "rank": 36,
-          "topic": "공장 화재",
+          "topic": "무단횡단",
           "volume": ""
         },
         {
           "rank": 37,
-          "topic": "현진아 생일",
+          "topic": "월드컵 보고",
           "volume": ""
         },
         {
           "rank": 38,
-          "topic": "안내물 뒷분단",
+          "topic": "티링 만쿠",
           "volume": ""
         },
         {
           "rank": 39,
-          "topic": "다카이치",
+          "topic": "공수테스트",
           "volume": ""
         },
         {
           "rank": 40,
-          "topic": "토리 너무",
+          "topic": "나르시스",
           "volume": ""
         },
         {
           "rank": 41,
-          "topic": "교류롤렛",
+          "topic": "경우의수",
           "volume": ""
         },
         {
           "rank": 42,
-          "topic": "나의 소나기",
+          "topic": "애들 편지",
           "volume": ""
         },
         {
           "rank": 43,
-          "topic": "봉구 얼굴",
+          "topic": "붉은악마",
           "volume": ""
         },
         {
           "rank": 44,
-          "topic": "경기도 광주",
+          "topic": "재물은닉",
           "volume": ""
         },
         {
           "rank": 45,
-          "topic": "카이세이",
+          "topic": "캐릭터 너무",
           "volume": ""
         },
         {
           "rank": 46,
-          "topic": "펄어비스",
+          "topic": "코스피 9000",
           "volume": ""
         },
         {
           "rank": 47,
-          "topic": "윌리엄스",
+          "topic": "멕시코 상대로",
           "volume": ""
         },
         {
           "rank": 48,
-          "topic": "변기뚜껑",
+          "topic": "멕시코 선수",
           "volume": ""
         },
         {
           "rank": 49,
-          "topic": "우리 복숭아",
+          "topic": "대한민국 파이팅",
           "volume": ""
         },
         {
           "rank": 50,
-          "topic": "아이맥스",
-          "volume": ""
-        }
-      ],
-      "fashion_hashtags": [
-        {
-          "hashtag": "#패션",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#OOTD",
-          "status": "found",
-          "volume": "",
-          "rank": 2
-        },
-        {
-          "hashtag": "#데일리룩",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#코디",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#스트릿패션",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#무신사",
-          "status": "not_trending",
+          "topic": "에스파티",
           "volume": ""
         }
       ]
     },
     "united-states": {
-      "fashion_related": [
-        {
-          "rank": 32,
-          "topic": "Adidas",
-          "volume": ""
-        }
-      ],
       "all_trending": [
         {
           "rank": 1,
-          "topic": "Happy Spring",
+          "topic": "Korea",
           "volume": ""
         },
         {
           "rank": 2,
-          "topic": "Eid Mubarak",
+          "topic": "Gabe",
           "volume": ""
         },
         {
           "rank": 3,
-          "topic": "Good Friday",
+          "topic": "Tay Keith",
           "volume": ""
         },
         {
           "rank": 4,
-          "topic": "Latto",
+          "topic": "Romo",
           "volume": ""
         },
         {
           "rank": 5,
-          "topic": "#FanCashDropPromotion",
+          "topic": "Caleb",
           "volume": ""
         },
         {
           "rank": 6,
-          "topic": "Barron",
+          "topic": "Rangel",
           "volume": ""
         },
         {
           "rank": 7,
-          "topic": "#FridayVibes",
+          "topic": "#MEXKOR",
           "volume": ""
         },
         {
           "rank": 8,
-          "topic": "#LaSayonaMendigaApoyo",
+          "topic": "Zach and Bryce",
           "volume": ""
         },
         {
           "rank": 9,
-          "topic": "#OnlyFriendsDreamOnEP4",
+          "topic": "Angel Reese",
           "volume": ""
         },
         {
           "rank": 10,
-          "topic": "Happy Friyay",
+          "topic": "Doval",
           "volume": ""
         },
         {
           "rank": 11,
-          "topic": "RED Friday",
+          "topic": "#criticalrolespoilers",
           "volume": ""
         },
         {
           "rank": 12,
-          "topic": "Happy 1st",
+          "topic": "#TNAiMPACT",
           "volume": ""
         },
         {
           "rank": 13,
-          "topic": "#FursuitFriday",
+          "topic": "Kennedy",
           "volume": ""
         },
         {
           "rank": 14,
-          "topic": "Marlo",
+          "topic": "#fifa_worldcup2026",
           "volume": ""
         },
         {
           "rank": 15,
-          "topic": "Finally Friday",
+          "topic": "Qatar",
           "volume": ""
         },
         {
           "rank": 16,
-          "topic": "PPWE LOL2026 LIVE",
+          "topic": "WHAT A SAVE",
           "volume": ""
         },
         {
           "rank": 17,
-          "topic": "Remember Everyone Deployed",
+          "topic": "Toy Story 5",
           "volume": ""
         },
         {
           "rank": 18,
-          "topic": "Big Mama",
+          "topic": "Kenzie and Corbin",
           "volume": ""
         },
         {
           "rank": 19,
-          "topic": "MEET DAY",
+          "topic": "Aguirre",
           "volume": ""
         },
         {
           "rank": 20,
-          "topic": "Tuchel",
+          "topic": "Juneteenth",
           "volume": ""
         },
         {
           "rank": 21,
-          "topic": "21 Savage",
+          "topic": "Ochoa",
           "volume": ""
         },
         {
           "rank": 22,
-          "topic": "Happy New Year",
+          "topic": "Chivas",
           "volume": ""
         },
         {
           "rank": 23,
-          "topic": "Simon's Cat",
+          "topic": "Rhyne",
           "volume": ""
         },
         {
           "rank": 24,
-          "topic": "$SMCI",
+          "topic": "Melanie and Sincere",
           "volume": ""
         },
         {
           "rank": 25,
-          "topic": "Ledger",
+          "topic": "islanders",
           "volume": ""
         },
         {
           "rank": 26,
-          "topic": "Whale - Buy",
+          "topic": "Bush",
           "volume": ""
         },
         {
           "rank": 27,
-          "topic": "namjoon",
+          "topic": "Obed Vargas",
           "volume": ""
         },
         {
           "rank": 28,
-          "topic": "Happy Nowruz",
+          "topic": "Justice for Sol",
           "volume": ""
         },
         {
           "rank": 29,
-          "topic": "Body to Body",
+          "topic": "El Tri",
           "volume": ""
         },
         {
           "rank": 30,
-          "topic": "FDV 5min",
+          "topic": "Paul George",
           "volume": ""
         },
         {
           "rank": 31,
-          "topic": "TOP CALL",
+          "topic": "Edson",
           "volume": ""
         },
         {
           "rank": 32,
-          "topic": "Adidas",
+          "topic": "Bryce and Zach",
           "volume": ""
         },
         {
           "rank": 33,
-          "topic": "Like Animals",
+          "topic": "Couples Island",
           "volume": ""
         },
         {
           "rank": 34,
-          "topic": "FDV Alert",
+          "topic": "Butter",
           "volume": ""
         },
         {
           "rank": 35,
-          "topic": "Jungkook",
+          "topic": "#MEXvsKOR",
           "volume": ""
         },
         {
           "rank": 36,
-          "topic": "QUICK TRADE",
+          "topic": "Kone",
           "volume": ""
         },
         {
           "rank": 37,
-          "topic": "Smart Money - Buy",
+          "topic": "Tim Hill",
           "volume": ""
         },
         {
           "rank": 38,
-          "topic": "Zulia",
+          "topic": "Insincere",
           "volume": ""
         },
         {
           "rank": 39,
-          "topic": "Amanda",
+          "topic": "Jonathan David",
           "volume": ""
         },
         {
           "rank": 40,
-          "topic": "Neymar",
+          "topic": "Switzerland",
           "volume": ""
         },
         {
           "rank": 41,
-          "topic": "Mike White",
+          "topic": "Medal of Honor",
           "volume": ""
         },
         {
           "rank": 42,
-          "topic": "FDV Surge Alert",
+          "topic": "Gallardo",
           "volume": ""
         },
         {
           "rank": 43,
-          "topic": "Chibi",
+          "topic": "Save America",
           "volume": ""
         },
         {
           "rank": 44,
-          "topic": "hobi",
+          "topic": "Fidalgo",
           "volume": ""
         },
         {
           "rank": 45,
-          "topic": "Hubert",
+          "topic": "Quiñones",
           "volume": ""
         },
         {
           "rank": 46,
-          "topic": "Aries",
+          "topic": "Sean Burke",
           "volume": ""
         },
         {
           "rank": 47,
-          "topic": "Into the Sun",
+          "topic": "Sherrod",
           "volume": ""
         },
         {
           "rank": 48,
-          "topic": "Palm Beach Pete",
+          "topic": "Mora",
           "volume": ""
         },
         {
           "rank": 49,
-          "topic": "Robby",
+          "topic": "Lira",
           "volume": ""
         },
         {
           "rank": 50,
-          "topic": "Tyler Perry",
-          "volume": ""
-        }
-      ],
-      "fashion_hashtags": [
-        {
-          "hashtag": "#fashion",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#OOTD",
-          "status": "found",
-          "volume": "",
-          "rank": 2
-        },
-        {
-          "hashtag": "#streetwear",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#thrifthaul",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#outfitinspo",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#quietluxury",
-          "status": "not_trending",
+          "topic": "Wyndham Clark",
           "volume": ""
         }
       ]
     },
     "canada": {
-      "fashion_related": [],
       "all_trending": [
         {
           "rank": 1,
-          "topic": "Rogan",
+          "topic": "Qatar",
           "volume": ""
         },
         {
           "rank": 2,
-          "topic": "Eid Mubarak",
+          "topic": "Kone",
           "volume": ""
         },
         {
           "rank": 3,
-          "topic": "Pierre",
+          "topic": "Jonathan David",
           "volume": ""
         },
         {
           "rank": 4,
-          "topic": "#BTS_ARIRANG",
+          "topic": "#CANMNT",
           "volume": ""
         },
         {
           "rank": 5,
-          "topic": "MAID",
+          "topic": "#loveislandusa",
           "volume": ""
         },
         {
           "rank": 6,
-          "topic": "Happy Spring",
+          "topic": "Korea",
           "volume": ""
         },
         {
           "rank": 7,
-          "topic": "#BTS_SWIM",
+          "topic": "Ronaldo",
           "volume": ""
         },
         {
           "rank": 8,
-          "topic": "#LET_ENHYPEN_CREATE",
+          "topic": "Knies",
           "volume": ""
         },
         {
           "rank": 9,
-          "topic": "#PROTECT_OUR_SEVEN",
+          "topic": "Iran",
           "volume": ""
         },
         {
           "rank": 10,
-          "topic": "namjoon",
+          "topic": "Tay Keith",
           "volume": ""
         },
         {
           "rank": 11,
-          "topic": "Matheson",
+          "topic": "#CANQAT",
           "volume": ""
         },
         {
           "rank": 12,
-          "topic": "Neymar",
+          "topic": "Moscow",
           "volume": ""
         },
         {
           "rank": 13,
-          "topic": "Francophonie",
+          "topic": "Messi",
           "volume": ""
         },
         {
           "rank": 14,
-          "topic": "Pearl Harbor",
+          "topic": "Switzerland",
           "volume": ""
         },
         {
           "rank": 15,
-          "topic": "Rooney",
+          "topic": "Vance",
           "volume": ""
         },
         {
           "rank": 16,
-          "topic": "#MarchMadness",
+          "topic": "World Cup",
           "volume": ""
         },
         {
           "rank": 17,
-          "topic": "Like Animals",
+          "topic": "Versailles",
           "volume": ""
         },
         {
           "rank": 18,
-          "topic": "Trent",
+          "topic": "Portugal",
           "volume": ""
         },
         {
           "rank": 19,
-          "topic": "Luka",
+          "topic": "Gabe",
           "volume": ""
         },
         {
           "rank": 20,
-          "topic": "Body to Body",
+          "topic": "MAID",
           "volume": ""
         },
         {
           "rank": 21,
-          "topic": "hobi",
+          "topic": "#Marlies",
           "volume": ""
         },
         {
           "rank": 22,
-          "topic": "Crimson Desert",
+          "topic": "Chiefs",
           "volume": ""
         },
         {
           "rank": 23,
-          "topic": "Into the Sun",
+          "topic": "Larin",
           "volume": ""
         },
         {
           "rank": 24,
-          "topic": "BTS IS BACK",
+          "topic": "Ghana",
           "volume": ""
         },
         {
           "rank": 25,
-          "topic": "Chuck Norris",
+          "topic": "#MEXKOR",
           "volume": ""
         },
         {
           "rank": 26,
-          "topic": "No. 29",
+          "topic": "Buchanan",
           "volume": ""
         },
         {
           "rank": 27,
-          "topic": "Veleno",
+          "topic": "Nathan Saliba",
           "volume": ""
         },
         {
           "rank": 28,
-          "topic": "F-35",
+          "topic": "Davies",
           "volume": ""
         },
         {
           "rank": 29,
-          "topic": "Good Friday",
+          "topic": "Swiss",
           "volume": ""
         },
         {
           "rank": 30,
-          "topic": "NATO",
+          "topic": "Madibo",
           "volume": ""
         },
         {
           "rank": 31,
-          "topic": "High Point",
+          "topic": "Zach",
           "volume": ""
         },
         {
           "rank": 32,
-          "topic": "Tuchel",
+          "topic": "Melanie",
           "volume": ""
         },
         {
           "rank": 33,
-          "topic": "Afroman",
+          "topic": "Kenzie",
           "volume": ""
         },
         {
           "rank": 34,
-          "topic": "HHOF",
+          "topic": "Vancouver",
           "volume": ""
         },
         {
           "rank": 35,
-          "topic": "Merry Go Round",
+          "topic": "Gudas",
           "volume": ""
         },
         {
           "rank": 36,
-          "topic": "Happy Nowruz",
+          "topic": "Hiller",
           "volume": ""
         },
         {
           "rank": 37,
-          "topic": "Japan",
+          "topic": "Byram",
           "volume": ""
         },
         {
           "rank": 38,
-          "topic": "Brady",
+          "topic": "GTA 6",
           "volume": ""
         },
         {
           "rank": 39,
-          "topic": "hoseok",
+          "topic": "Croatia",
           "volume": ""
         },
         {
           "rank": 40,
-          "topic": "Ticketmaster",
+          "topic": "STRC",
           "volume": ""
         },
         {
           "rank": 41,
-          "topic": "Joe Kent",
+          "topic": "Bryce",
           "volume": ""
         },
         {
           "rank": 42,
-          "topic": "Ozoro",
+          "topic": "Audit",
           "volume": ""
         },
         {
           "rank": 43,
-          "topic": "lili reinhart",
+          "topic": "Babcock",
           "volume": ""
         },
         {
           "rank": 44,
-          "topic": "Ohio State",
+          "topic": "Bombito",
           "volume": ""
         },
         {
           "rank": 45,
-          "topic": "Debbie",
+          "topic": "Obama Presidential Center",
           "volume": ""
         },
         {
           "rank": 46,
-          "topic": "Jon Stewart",
+          "topic": "Bill C-9",
           "volume": ""
         },
         {
           "rank": 47,
-          "topic": "Panthers",
+          "topic": "BC Place",
           "volume": ""
         },
         {
           "rank": 48,
-          "topic": "Siena",
+          "topic": "CONCACAF",
           "volume": ""
         },
         {
           "rank": 49,
-          "topic": "Duke",
+          "topic": "Congo",
           "volume": ""
         },
         {
           "rank": 50,
-          "topic": "bangtan",
-          "volume": ""
-        }
-      ],
-      "fashion_hashtags": [
-        {
-          "hashtag": "#fashion",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#OOTD",
-          "status": "found",
-          "volume": "",
-          "rank": 2
-        },
-        {
-          "hashtag": "#thriftflip",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#canadianfashion",
-          "status": "not_trending",
+          "topic": "The Friendly Giant",
           "volume": ""
         }
       ]
     },
     "japan": {
-      "fashion_related": [
-        {
-          "rank": 33,
-          "topic": "amazarashi",
-          "volume": ""
-        }
-      ],
       "all_trending": [
         {
           "rank": 1,
-          "topic": "#るんちょま3D",
+          "topic": "メキシコ",
           "volume": ""
         },
         {
           "rank": 2,
-          "topic": "それスノ",
+          "topic": "#アプライド豊田店オープン",
           "volume": ""
         },
         {
           "rank": 3,
-          "topic": "#タイムレスマン",
+          "topic": "#すべてを引き出すときがきた",
           "volume": ""
         },
         {
           "rank": 4,
-          "topic": "#黄金のワンスプーン",
+          "topic": "全員避難",
           "volume": ""
         },
         {
           "rank": 5,
-          "topic": "#三連休は超かぐや姫",
+          "topic": "#P5X_初音ミクコラボ",
           "volume": ""
         },
         {
           "rank": 6,
-          "topic": "#山田轟法律事務所",
+          "topic": "東京・北区の小学校",
           "volume": ""
         },
         {
           "rank": 7,
-          "topic": "動脈ピース",
+          "topic": "あと半日",
           "volume": ""
         },
         {
           "rank": 8,
-          "topic": "ディズムさん",
+          "topic": "全員無事",
           "volume": ""
         },
         {
           "rank": 9,
-          "topic": "ウサイン",
+          "topic": "#ガストの白桃スイーツ",
           "volume": ""
         },
         {
           "rank": 10,
-          "topic": "お人間さん",
+          "topic": "スンギュ",
           "volume": ""
         },
         {
           "rank": 11,
-          "topic": "テテとグク",
+          "topic": "小学校の火事",
           "volume": ""
         },
         {
           "rank": 12,
-          "topic": "王様衣装",
+          "topic": "#ほっとひといき",
           "volume": ""
         },
         {
           "rank": 13,
-          "topic": "ミッチー",
+          "topic": "逃げ遅れなし",
           "volume": ""
         },
         {
           "rank": 14,
-          "topic": "プランクトン",
+          "topic": "書き下ろし小説",
           "volume": ""
         },
         {
           "rank": 15,
-          "topic": "プレッツェル",
+          "topic": "堂島さん",
           "volume": ""
         },
         {
           "rank": 16,
-          "topic": "ルンルン/にじさん",
+          "topic": "流司くん",
           "volume": ""
         },
         {
           "rank": 17,
-          "topic": "りくりゅう",
+          "topic": "ロマンスの日",
           "volume": ""
         },
         {
           "rank": 18,
-          "topic": "佐野アナ",
+          "topic": "小学生3人",
           "volume": ""
         },
         {
           "rank": 19,
-          "topic": "グクとテテ",
+          "topic": "カタール",
           "volume": ""
         },
         {
           "rank": 20,
-          "topic": "モンスターズユニバーシティ",
+          "topic": "毒ファットキャット",
           "volume": ""
         },
         {
           "rank": 21,
-          "topic": "あやかき3Dライブ",
+          "topic": "THE W",
           "volume": ""
         },
         {
           "rank": 22,
-          "topic": "暴風雪警報",
+          "topic": "超八喫茶",
           "volume": ""
         },
         {
           "rank": 23,
-          "topic": "カタシロ",
+          "topic": "小学校の音楽室",
           "volume": ""
         },
         {
           "rank": 24,
-          "topic": "ランドール",
+          "topic": "アーバンリサーチ",
           "volume": ""
         },
         {
           "rank": 25,
-          "topic": "ふらっふぃい",
+          "topic": "全員救助",
           "volume": ""
         },
         {
           "rank": 26,
-          "topic": "モンスターズインク",
+          "topic": "坂田くじ",
           "volume": ""
         },
         {
           "rank": 27,
-          "topic": "ロゴクイズ",
+          "topic": "バウンサーバウンド",
           "volume": ""
         },
         {
           "rank": 28,
-          "topic": "アプグレ",
+          "topic": "スウィートキャット",
           "volume": ""
         },
         {
           "rank": 29,
-          "topic": "ケモーノ",
+          "topic": "史上最高値",
           "volume": ""
         },
         {
           "rank": 30,
-          "topic": "いちさんご",
+          "topic": "避難訓練",
           "volume": ""
         },
         {
           "rank": 31,
-          "topic": "HANA",
+          "topic": "家庭科室",
           "volume": ""
         },
         {
           "rank": 32,
-          "topic": "ルシアーノ",
+          "topic": "日野町事件",
           "volume": ""
         },
         {
           "rank": 33,
-          "topic": "amazarashi",
+          "topic": "炎神戦隊ゴーオンジャー",
           "volume": ""
         },
         {
           "rank": 34,
-          "topic": "エレガント",
+          "topic": "ドアメーカー",
           "volume": ""
         },
         {
           "rank": 35,
-          "topic": "メロコさん",
+          "topic": "死後再審",
           "volume": ""
         },
         {
           "rank": 36,
-          "topic": "ミーグリ",
+          "topic": "マック一強",
           "volume": ""
         },
         {
           "rank": 37,
-          "topic": "みゆきポーク",
+          "topic": "児童6人",
           "volume": ""
         },
         {
           "rank": 38,
-          "topic": "アフター",
+          "topic": "置鮎さん",
           "volume": ""
         },
         {
           "rank": 39,
-          "topic": "プロジェクトヘイルメアリー",
+          "topic": "闘莉王のDVD",
           "volume": ""
         },
         {
           "rank": 40,
-          "topic": "ゴールデン",
+          "topic": "MUの株価",
           "volume": ""
         },
         {
           "rank": 41,
-          "topic": "ゾウ派のNo.2",
+          "topic": "アギーレ",
           "volume": ""
         },
         {
           "rank": 42,
-          "topic": "ちょまかわい",
+          "topic": "KPOP STATION",
           "volume": ""
         },
         {
           "rank": 43,
-          "topic": "ジョングク",
+          "topic": "パワータワー",
           "volume": ""
         },
         {
           "rank": 44,
-          "topic": "差し入れ",
+          "topic": "もっちるおかお超BIGぬいぐるみ",
           "volume": ""
         },
         {
           "rank": 45,
-          "topic": "ドローンショー",
+          "topic": "Micron",
           "volume": ""
         },
         {
           "rank": 46,
-          "topic": "SnowMan",
+          "topic": "無罪判決確実",
           "volume": ""
         },
         {
           "rank": 47,
-          "topic": "南部さん",
+          "topic": "朗読の日",
           "volume": ""
         },
         {
           "rank": 48,
-          "topic": "うさほー",
+          "topic": "自分の権力",
           "volume": ""
         },
         {
           "rank": 49,
-          "topic": "アルバルク",
-          "volume": ""
-        },
-        {
-          "rank": 50,
-          "topic": "チェンジザ",
-          "volume": ""
-        }
-      ],
-      "fashion_hashtags": [
-        {
-          "hashtag": "#ファッション",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#コーデ",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#古着",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#韓国ファッション",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#プチプラ",
-          "status": "not_trending",
+          "topic": "アジア代表",
           "volume": ""
         }
       ]
     },
     "global": {
-      "fashion_related": [
-        {
-          "rank": 45,
-          "topic": "Adidas",
-          "volume": ""
-        },
-        {
-          "rank": 49,
-          "topic": "amazarashi",
-          "volume": ""
-        }
-      ],
       "all_trending": [
         {
           "rank": 1,
-          "topic": "#るんちょま3D",
+          "topic": "México",
           "volume": ""
         },
         {
           "rank": 2,
-          "topic": "それスノ",
+          "topic": "Corea",
           "volume": ""
         },
         {
           "rank": 3,
-          "topic": "#黄金のワンスプーン",
+          "topic": "Romo",
           "volume": ""
         },
         {
           "rank": 4,
-          "topic": "#三連休は超かぐや姫",
+          "topic": "#アプライド豊田店オープン",
           "volume": ""
         },
         {
           "rank": 5,
-          "topic": "#タイムレスマン",
+          "topic": "#P5X_初音ミクコラボ",
           "volume": ""
         },
         {
           "rank": 6,
-          "topic": "#الصلاه_علي_النبي_تفرج_كل_همك",
+          "topic": "メキシコ",
           "volume": ""
         },
         {
           "rank": 7,
-          "topic": "Eid Mubarak",
+          "topic": "#20xSubscribedSMEIPO",
           "volume": ""
         },
         {
           "rank": 8,
-          "topic": "動脈ピース",
+          "topic": "あと半日",
           "volume": ""
         },
         {
           "rank": 9,
-          "topic": "ディズムさん",
+          "topic": "Tala",
           "volume": ""
         },
         {
           "rank": 10,
-          "topic": "ミッチー",
+          "topic": "#すべてを引き出すときがきた",
           "volume": ""
         },
         {
           "rank": 11,
-          "topic": "お人間さん",
+          "topic": "全員避難",
           "volume": ""
         },
         {
           "rank": 12,
-          "topic": "テテとグク",
+          "topic": "Gabe",
           "volume": ""
         },
         {
           "rank": 13,
-          "topic": "王様衣装",
+          "topic": "Aguirre",
           "volume": ""
         },
         {
           "rank": 14,
-          "topic": "プレッツェル",
+          "topic": "#HappyBirthdayRahulGandhi",
           "volume": ""
         },
         {
           "rank": 15,
-          "topic": "プランクトン",
+          "topic": "Tay Keith",
           "volume": ""
         },
         {
           "rank": 16,
-          "topic": "ルンルン/にじさん",
+          "topic": "Qatar",
           "volume": ""
         },
         {
           "rank": 17,
-          "topic": "りくりゅう",
+          "topic": "كوريا",
           "volume": ""
         },
         {
           "rank": 18,
-          "topic": "ウサイン",
+          "topic": "全員無事",
           "volume": ""
         },
         {
           "rank": 19,
-          "topic": "グクとテテ",
+          "topic": "東京・北区の小学校",
           "volume": ""
         },
         {
           "rank": 20,
-          "topic": "Trent",
+          "topic": "Obed",
           "volume": ""
         },
         {
           "rank": 21,
-          "topic": "PPWE LOL2026 LIVE",
+          "topic": "Ochoa",
           "volume": ""
         },
         {
           "rank": 22,
-          "topic": "Ozoro",
+          "topic": "Edson",
           "volume": ""
         },
         {
           "rank": 23,
-          "topic": "あやかき3Dライブ",
+          "topic": "Jonathan David",
           "volume": ""
         },
         {
           "rank": 24,
-          "topic": "暴風雪警報",
+          "topic": "Fidalgo",
           "volume": ""
         },
         {
           "rank": 25,
-          "topic": "カタシロ",
+          "topic": "超八喫茶",
           "volume": ""
         },
         {
           "rank": 26,
-          "topic": "モンスターズユニバーシティ",
+          "topic": "Chivas",
           "volume": ""
         },
         {
           "rank": 27,
-          "topic": "Isabelle Mergault",
+          "topic": "Mora",
           "volume": ""
         },
         {
           "rank": 28,
-          "topic": "Happy Spring",
+          "topic": "小学校の火事",
           "volume": ""
         },
         {
           "rank": 29,
-          "topic": "ランドール",
+          "topic": "Anmol Vachan",
           "volume": ""
         },
         {
           "rank": 30,
-          "topic": "ロゴクイズ",
+          "topic": "El Tri",
           "volume": ""
         },
         {
           "rank": 31,
-          "topic": "ふらっふぃい",
+          "topic": "Canadá",
           "volume": ""
         },
         {
           "rank": 32,
-          "topic": "アプグレ",
+          "topic": "流司くん",
           "volume": ""
         },
         {
           "rank": 33,
-          "topic": "Mohon",
+          "topic": "JAEHYUN RETURNS TO MFW",
           "volume": ""
         },
         {
           "rank": 34,
-          "topic": "Tuchel",
+          "topic": "QRIS GoPay",
           "volume": ""
         },
         {
           "rank": 35,
-          "topic": "Minal",
+          "topic": "كندا",
           "volume": ""
         },
         {
           "rank": 36,
-          "topic": "プロジェクトヘイルメアリー",
+          "topic": "Caleb",
           "volume": ""
         },
         {
           "rank": 37,
-          "topic": "Kaan Ayhan",
+          "topic": "スンギュ",
           "volume": ""
         },
         {
           "rank": 38,
-          "topic": "ミーグリ",
+          "topic": "Lira",
           "volume": ""
         },
         {
           "rank": 39,
-          "topic": "ルシアーノ",
+          "topic": "坂田くじ",
           "volume": ""
         },
         {
           "rank": 40,
-          "topic": "モンスターズインク",
+          "topic": "Kone",
           "volume": ""
         },
         {
           "rank": 41,
-          "topic": "いちさんご",
+          "topic": "Jorge Sánchez",
           "volume": ""
         },
         {
           "rank": 42,
-          "topic": "エレガント",
+          "topic": "श्री राहुल गांधी",
           "volume": ""
         },
         {
           "rank": 43,
-          "topic": "アフター",
+          "topic": "Flor Peña",
           "volume": ""
         },
         {
           "rank": 44,
-          "topic": "メロコさん",
+          "topic": "滝野川第三小学校",
           "volume": ""
         },
         {
           "rank": 45,
-          "topic": "Adidas",
+          "topic": "避難訓練",
           "volume": ""
         },
         {
           "rank": 46,
-          "topic": "ケモーノ",
+          "topic": "Kim Seung-gyu",
           "volume": ""
         },
         {
           "rank": 47,
-          "topic": "JADEWARD IN SHAMBLES",
+          "topic": "書き下ろし小説",
           "volume": ""
         },
         {
           "rank": 48,
-          "topic": "CAPKRYS WITH IVANA",
+          "topic": "毒ファットキャット",
           "volume": ""
         },
         {
           "rank": 49,
-          "topic": "amazarashi",
+          "topic": "ロマンスの日",
           "volume": ""
         },
         {
           "rank": 50,
-          "topic": "佐野アナ",
-          "volume": ""
-        }
-      ],
-      "fashion_hashtags": [
-        {
-          "hashtag": "#fashion",
-          "status": "not_trending",
-          "volume": ""
-        },
-        {
-          "hashtag": "#OOTD",
-          "status": "found",
-          "volume": "",
-          "rank": 2
-        },
-        {
-          "hashtag": "#streetstyle",
-          "status": "not_trending",
+          "topic": "堂島さん",
           "volume": ""
         }
       ]
     }
   },
-  "collected_at": "2026-03-20T14:50:59.424196+00:00"
+  "collected_at": "2026-06-19T04:28:38.966117+00:00"
 }
