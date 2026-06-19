@@ -2,9 +2,9 @@
   "date": "2026-06-19",
   "mode": "fashion",
   "compared_to": "2026-06-18",
-  "total_keywords_today": 517,
+  "total_keywords_today": 477,
   "total_keywords_yesterday": 512,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -31,40 +31,51 @@
       "sample_note": "오늘 15건, 어제 12건 기준"
     },
     {
-      "keyword": "ootd",
-      "change": "+27%",
-      "today_count": 14,
+      "keyword": "#ootd",
+      "change": "+9%",
+      "today_count": 12,
       "yesterday_count": 11,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 14건, 어제 11건 기준"
+      "sample_note": "오늘 12건, 어제 11건 기준"
     },
     {
-      "keyword": "#ootd",
-      "change": "+18%",
-      "today_count": 13,
+      "keyword": "ootd",
+      "change": "+9%",
+      "today_count": 12,
       "yesterday_count": 11,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 13건, 어제 11건 기준"
+      "sample_note": "오늘 12건, 어제 11건 기준"
     },
     {
       "keyword": "#shorts",
-      "change": "+18%",
-      "today_count": 13,
+      "change": "+9%",
+      "today_count": 12,
       "yesterday_count": 11,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 13건, 어제 11건 기준"
+      "sample_note": "오늘 12건, 어제 11건 기준"
     },
     {
       "keyword": "코디",
+      "change": "+38%",
+      "today_count": 11,
+      "yesterday_count": 8,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 11건, 어제 8건 기준"
+    },
+    {
+      "keyword": "#fashion",
       "change": "+38%",
       "today_count": 11,
       "yesterday_count": 8,
@@ -86,39 +97,6 @@
       "sample_note": "오늘 10건, 어제 9건 기준"
     },
     {
-      "keyword": "#fashion",
-      "change": "+12%",
-      "today_count": 9,
-      "yesterday_count": 8,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 9건, 어제 8건 기준"
-    },
-    {
-      "keyword": "outfit",
-      "change": "+60%",
-      "today_count": 8,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 8건, 어제 5건 기준"
-    },
-    {
-      "keyword": "#여름코디",
-      "change": "+17%",
-      "today_count": 7,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
-    },
-    {
       "keyword": "여름코디",
       "change": "+17%",
       "today_count": 7,
@@ -128,6 +106,17 @@
         "youtube"
       ],
       "sample_note": "오늘 7건, 어제 6건 기준"
+    },
+    {
+      "keyword": "outfit",
+      "change": "+40%",
+      "today_count": 7,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 7건, 어제 5건 기준"
     },
     {
       "keyword": "street",
@@ -185,18 +174,40 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "color",
-      "change": "+67%",
+      "keyword": "amp",
+      "change": "+25%",
       "today_count": 5,
-      "yesterday_count": 3,
+      "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "trend",
+      "keyword": "추천",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "haul",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "june",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -207,18 +218,7 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "모음",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "#outfit",
+      "keyword": "color",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -231,24 +231,59 @@
   ],
   "declining": [
     {
+      "keyword": "여름",
+      "change": "-8%",
+      "today_count": 12,
+      "yesterday_count": 13,
+      "confidence": "high"
+    },
+    {
+      "keyword": "style",
+      "change": "-9%",
+      "today_count": 10,
+      "yesterday_count": 11,
+      "confidence": "high"
+    },
+    {
       "keyword": "outfits",
-      "change": "-10%",
-      "today_count": 9,
+      "change": "-40%",
+      "today_count": 6,
       "yesterday_count": 10,
       "confidence": "medium"
     },
     {
       "keyword": "summer",
-      "change": "-17%",
-      "today_count": 5,
+      "change": "-33%",
+      "today_count": 4,
       "yesterday_count": 6,
-      "confidence": "medium"
+      "confidence": "low"
     },
     {
       "keyword": "shopping",
       "change": "-20%",
       "today_count": 4,
       "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "하울",
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "지그재그",
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "모음",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
       "confidence": "low"
     },
     {
@@ -260,13 +295,6 @@
     },
     {
       "keyword": "#ファッション",
-      "change": "-33%",
-      "today_count": 2,
-      "yesterday_count": 3,
-      "confidence": "low"
-    },
-    {
-      "keyword": "ファッション",
       "change": "-33%",
       "today_count": 2,
       "yesterday_count": 3,
@@ -301,6 +329,15 @@
         "youtube"
       ],
       "total_count": 13
+    },
+    {
+      "keyword": "레인부츠",
+      "platform_count": 2,
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "total_count": 2
     }
   ]
 }
