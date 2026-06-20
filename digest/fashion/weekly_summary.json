@@ -19,8 +19,8 @@
     },
     {
       "keyword": "여름가디건",
-      "growth": "+9%",
-      "total_mentions": 82
+      "growth": "+18%",
+      "total_mentions": 83
     },
     {
       "keyword": "여름블라우스",
@@ -34,6 +34,14 @@
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "여름가디건",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "원피스",
       "platforms": [
@@ -62,14 +70,6 @@
       "keyword": "레인부츠",
       "platforms": [
         "x_twitter",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "여름가디건",
-      "platforms": [
-        "naver",
         "youtube"
       ],
       "count": 2
