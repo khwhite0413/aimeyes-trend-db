@@ -1,41 +1,41 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-06-13",
-    "to": "2026-06-19"
+    "from": "2026-06-14",
+    "to": "2026-06-20"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+5%",
-      "total_mentions": 140
+      "keyword": "원피스",
+      "growth": "+17%",
+      "total_mentions": 90
     },
     {
-      "keyword": "원피스",
-      "growth": "+25%",
-      "total_mentions": 88
+      "keyword": "여름원피스",
+      "growth": "+8%",
+      "total_mentions": 85
     },
     {
       "keyword": "여름가디건",
       "growth": "+9%",
-      "total_mentions": 81
+      "total_mentions": 82
     },
     {
       "keyword": "여름블라우스",
       "growth": "+9%",
-      "total_mentions": 81
+      "total_mentions": 82
     },
     {
-      "keyword": "여름",
-      "growth": "+20%",
-      "total_mentions": 73
+      "keyword": "ootd",
+      "growth": "+9%",
+      "total_mentions": 80
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "여름가디건",
+      "keyword": "원피스",
       "platforms": [
         "naver",
         "youtube"
@@ -43,7 +43,7 @@
       "count": 2
     },
     {
-      "keyword": "원피스",
+      "keyword": "여름원피스",
       "platforms": [
         "naver",
         "youtube"
@@ -67,31 +67,31 @@
       "count": 2
     },
     {
-      "keyword": "루이스 해밀턴",
+      "keyword": "여름가디건",
       "platforms": [
-        "google_trends",
-        "x_twitter"
+        "naver",
+        "youtube"
       ],
       "count": 2
     }
   ],
   "naver_shopping_hot": [
     "원피스",
-    "여름원피스",
     "블라우스",
-    "티셔츠",
-    "여름블라우스"
+    "여름원피스",
+    "여름가디건",
+    "티셔츠"
   ],
   "top_keywords_overall": [
     "fashion",
-    "블라우스",
     "원피스",
+    "블라우스",
     "여름원피스",
     "티셔츠",
-    "ootd",
     "여름가디건",
-    "#ootd",
     "여름블라우스",
+    "ootd",
+    "#ootd",
     "여름"
   ]
 }
