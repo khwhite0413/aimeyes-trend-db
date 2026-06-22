@@ -1,0 +1,955 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "관세청",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "6월 중순 수출 620억달러, 역대 최대…반도체 비중 40% 넘어(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20260622029151002"
+            },
+            {
+              "title": "'반도체 188% 급증' 6월 20일까지 수출액 역대 최대",
+              "url": "https://www.ytn.co.kr/_ln/0102_202606220902304317"
+            },
+            {
+              "title": "사상최대 수출, 사상최고 주가에도…대통령 지지율은 왜?",
+              "url": "https://economist.co.kr/article/view/ecn202606180032"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "손석희",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "손석희 13년만에 MBC 라디오 복귀···‘손석희의 12시’ 신설",
+              "url": "https://www.khan.co.kr/article/202606221104001"
+            },
+            {
+              "title": "MBC ‘손석희의 12시’ 유튜브 병행… ‘뉴스하이킥’ 진행자는 조승원 기자",
+              "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335314"
+            },
+            {
+              "title": "MBC 라디오, 손석희 오고 권순표 떠난다",
+              "url": "https://news.nate.com/view/20260622n15729"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "북한",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[단독] 北 철책 남하, 군사분계선 80m 코앞까지 밀고 내려왔다",
+              "url": "https://v.daum.net/v/20260622050242126"
+            },
+            {
+              "title": "국방부 일일 정례 브리핑",
+              "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156767513"
+            },
+            {
+              "title": "합참 \"북한, MDL 근접 철조망 설치‥명백한 정전협정 위반\"",
+              "url": "https://imnews.imbc.com/news/2026/politics/article/6831882_36911.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "모하메드 살라",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "[월드컵] 이집트, 3-1로 뉴질랜드 제압‥'사상 첫 본선 승리'",
+              "url": "https://imnews.imbc.com/news/2026/sports/article/6831906_36946.html"
+            },
+            {
+              "title": "‘살라흐 결승골’ 이집트, 뉴질랜드 꺾고 월드컵 통산 첫 승",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8591712"
+            },
+            {
+              "title": "'살라 결승골' 이집트, 월드컵에서 8전9기 만에 첫 승…뉴질랜드 3-1 제압",
+              "url": "https://www.news1.kr/sports/overseas-soccer/6204332"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "로또",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "\"월요일 출근 안 합니다\"…수동으로 35억 거머쥔 2명, 로또 명당은 어디?",
+              "url": "https://v.daum.net/v/UBahIwTsoP"
+            },
+            {
+              "title": "1229회 로또 1등 8명…당첨금 각 35억2천만원(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20260620042200002"
+            },
+            {
+              "title": "당첨금 35억…로또 1등 8명 배출한 명당은 어디?",
+              "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=01282486645484016&Kind=257"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "가비아",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "가비아, 'EBSC 2026'서 그룹웨어 기반 기업 전용 AI 전략 발표",
+              "url": "https://www.etnews.com/20260622000171"
+            },
+            {
+              "title": "가비아, 'EBSC 2026'서 그룹웨어 기반 기업용 AI 전략 공개",
+              "url": "https://www.etnews.com/20260622000242"
+            },
+            {
+              "title": "가비아, 기업용 AI 업무 전략 발표",
+              "url": "https://www.lawissue.co.kr/view.php?ud=202606220911545464204ead0791_12"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "하이닉스 시총",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "SK하이닉스, 삼전 제치고 코스피 시총 1위…25년만 대장주 교체(종합)",
+              "url": "https://v.daum.net/v/20260622130403968"
+            },
+            {
+              "title": "'코스피 대장 교체' SK하이닉스, 삼성전자 보통주 시총 추월[핫종목]",
+              "url": "https://www.news1.kr/finance/general-stock/6204379"
+            },
+            {
+              "title": "“SK하이닉스, 펀더멘털·모멘텀 측면에서 최고의 투자대상”",
+              "url": "https://weekly.donga.com/List/article/all/11/6277330/1"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "홍석현",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "중앙일보 220억 규모 어음 최종 부도‥JTBC도 1차 부도 처리",
+              "url": "https://imnews.imbc.com/news/2026/econo/article/6831586_36932.html"
+            },
+            {
+              "title": "과거 회사채 부도 사례 보면 안다...동양부터 레고랜드까지",
+              "url": "https://www.chosun.com/economy/stock-finance/2026/06/22/UBGROHTADNDCTETMHM234U7VSU/"
+            },
+            {
+              "title": "중앙일보, 주채권은행 하나은행에 워크아웃 공식 신청",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4420980"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "넾다세일",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "로보락, 네이버 '넾다세일' 참여...플래그십 제품 할인 프로모션",
+              "url": "https://zdnet.co.kr/view/?no=20260622091500"
+            },
+            {
+              "title": "로보락, 네이버 '넾다세일'서 주요 가전 할인",
+              "url": "https://www.etnews.com/20260622000247"
+            },
+            {
+              "title": "[유통레이더] 롯데, 로보락, 아성다이소, 농심, 파라다이스, 몰테일 外",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1378493"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "교보문고",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "소규모라… 참가 낙방해서… 자체 도서전 여는 출판사들",
+              "url": "https://www.munhwa.com/article/11597141"
+            },
+            {
+              "title": "AI 시대, 독서의 본질 고민하고… 굿즈 찾는 MZ ‘텍스트힙’ 만끽",
+              "url": "https://www.munhwa.com/article/11597140"
+            },
+            {
+              "title": "‘제대로’ 책을 만나는 도서전 [서울 말고]",
+              "url": "https://www.hani.co.kr/arti/opinion/column/1264578.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 55,
+          "interest_max": 100,
+          "interest_latest": 67,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 6,
+          "interest_max": 16,
+          "interest_latest": 9,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 27,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 10,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 40,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "hilary duff",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Hilary Duff Praises Husband Matthew Koma in Touching Father's Day Tribute: \"We Love You, Daddy!\"",
+              "url": "https://www.yahoo.com/entertainment/celebrity/articles/hilary-duff-praises-husband-matthew-204254602.html"
+            },
+            {
+              "title": "Hilary Duff’s Setlist for 2026 ‘Lucky Me Tour’ Revealed After First Show in Florida",
+              "url": "https://www.justjared.com/2026/06/21/hilary-duffs-setlist-for-2026-lucky-me-tour-revealed-after-first-show-in-florida/"
+            },
+            {
+              "title": "Kendall Jenner Has Worn This $4,700 Bag for Years — Grab a Similar Style for 96% Cheaper in New Summer Colors",
+              "url": "https://people.com/kendall-jenner-hilary-duff-quince-the-row-margaux-lookalike-12001189"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "hossam abdelmaguid",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "📸 Hossam Abdelmaguid suffers a nasty knock against New Zealand",
+              "url": "https://sports.yahoo.com/articles/hossam-abdelmaguid-suffers-nasty-knock-034000148.html"
+            },
+            {
+              "title": "Egypt’s Abdelmonem brought in as concussion substitute during FIFA World Cup 2026 match against New Zealand",
+              "url": "https://sportstar.thehindu.com/football/fifa-world-cup/new-zealand-vs-egypt-concussion-substitute-rule-fifa-world-cup-2026-explained-head-face-injury-news/article71131654.ece"
+            },
+            {
+              "title": "New Zealand 1-3 Egypt (Jun 21, 2026) Game Analysis",
+              "url": "https://www.espn.com/soccer/report/_/gameId/760452"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "weather storms tornadoes",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Strong-severe storm threat overnight and on Monday",
+              "url": "https://www.wsmv.com/2026/06/21/strong-severe-storm-threat-overnight-monday/"
+            },
+            {
+              "title": "Strong line of storms expected overnight and on Monday",
+              "url": "https://www.wkrn.com/weather-headlines/tn-forecast/june-21-2026/"
+            },
+            {
+              "title": "Damaging winds and overnight tornado risk: Middle Tennessee storm guide for Sunday-Monday",
+              "url": "https://fox17.com/weather/damaging-winds-and-a-tornado-risk-overnight-middle-tennessee-storm-guide-for-sunday-mond-code-red-severe-weather-nashville"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "jefferson county illinois",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "2 dead, 5 injured in southern Illinois severe weather",
+              "url": "https://www.kfvs12.com/2026/06/22/1-dead-severe-weather-jefferson-county/"
+            },
+            {
+              "title": "At least 2 dead after rash of tornadoes tears through the Midwest",
+              "url": "https://www.cnn.com/2026/06/21/weather/midwest-tornado-death-damage-climate-hnk"
+            },
+            {
+              "title": "Tornadoes Reported in Southern Illinois Leave Trail of Damage",
+              "url": "https://www.nytimes.com/2026/06/21/us/tornado-warning-illinois-weather.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "jordan vs algeria",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Jordan vs Algeria Prediction: World Cup 2026 Match Preview",
+              "url": "https://theanalyst.com/articles/jordan-vs-algeria-prediction-world-cup-2026-match-preview"
+            },
+            {
+              "title": "Roman Amphitheater welcomes football fans for Jordan’s World Cup match against Algeria",
+              "url": "https://www.fananews.com/language/en/roman-amphitheater-welcomes-football-fans-for-jordans-world-cup-match-against-algeria/"
+            },
+            {
+              "title": "Jordan vs. Algeria: The Ultimate Bay Area World Cup Getaway",
+              "url": "https://www.travelandtourworld.com/news/article/hrunkclwp2aj/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "trézéguet",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Why does Egypt have players named Ziko and Trezeguet? The story behind the World Cup nicknames",
+              "url": "https://worldsoccertalk.com/world-cup/why-does-egypt-have-players-named-ziko-and-trezeguet-the-story-behind-the-world-cup-nicknames/"
+            },
+            {
+              "title": "New Zealand 1-3 Egypt (Jun 21, 2026) Game Analysis",
+              "url": "https://www.espn.com/soccer/report/_/gameId/760452"
+            },
+            {
+              "title": "New Zealand vs Egypt Extended Highlights | 2026 FIFA World Cup™",
+              "url": "https://www.foxsports.com/watch/fmc-kx51y661t3s1kkfi"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "austria world cup",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "World Cup Day 12 What to Watch: Lionel Messi and Argentina continue their title defense against Austria",
+              "url": "https://sports.yahoo.com/soccer/article/world-cup-day-12-what-to-watch-lionel-messi-and-argentina-continue-their-title-defense-against-austria-004440603.html"
+            },
+            {
+              "title": "Argentina's Scaloni says water breaks fragment game",
+              "url": "https://www.espn.com/soccer/story/_/id/49139565/argentina-scaloni-says-water-breaks-fragment-game"
+            },
+            {
+              "title": "MATCH PREVIEW: Messi and De Paul Set to Face Austria in Argentina's Second FIFA World Cup 2026 Group Stage Match",
+              "url": "https://www.intermiamicf.com/news/match-preview-messi-and-de-paul-set-to-face-austria-in-argentina-s-second-fifa-world-cup-2026-group-stage-match"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "andrew wiggins",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Lakers named landing spot for $60 million ex-Knicks All-Star, NBA champion",
+              "url": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-named-landing-spot-60-million-ex-knicks-all-star-nba-champion/e8b978e883ee05648f2ff095"
+            },
+            {
+              "title": "Lakers named 'obvious boogeyman' for Andrew Wiggins in free agency",
+              "url": "https://www.msn.com/en-us/sports/nba/lakers-named-obvious-boogeyman-for-andrew-wiggins-in-free-agency/ar-AA264Tgh"
+            },
+            {
+              "title": "Lakers linked to former $147 million Warriors All-Star forward, NBA champion",
+              "url": "https://ca.sports.yahoo.com/news/lakers-linked-former-147-million-150001186.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "14 news",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Most tornado watches expire, but some remain in southern Indiana | 13Weather Blog",
+              "url": "https://www.wthr.com/article/weather/weather-blog/weather-impact-alert-for-fathers-day-evening-13weather-blog-severe-storms-tornado-risk-wind-rain-holiday/531-2754b447-42b4-4a96-ae91-5cd384d19ae9"
+            },
+            {
+              "title": "Confirmed tornados, severe weather in the Tri-State",
+              "url": "https://www.14news.com/2026/06/22/confirmed-tornados-severe-weather-tri-state/"
+            },
+            {
+              "title": "Severe storms traveling across Indiana on Father's Day",
+              "url": "https://fox59.com/news/live-tornado-watch-issued-across-indiana-on-fathers-day/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "nba trades",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Windhorst: Six storylines already shaping the NBA offseason",
+              "url": "https://www.espn.com/nba/story/_/id/49074649/2026-nba-offseason-storylines-lakers-giannis-nba-draft-free-agency-aspiration-expansion-windhorst"
+            },
+            {
+              "title": "The NBA's latest (and greatest) trade, free agent and draft Intel",
+              "url": "https://marcstein.substack.com/p/the-nbas-latest-and-greatest-trade"
+            },
+            {
+              "title": "What I’m hearing about Giannis Antetokounmpo, other NBA players as draft nears - The Athletic",
+              "url": "https://www.nytimes.com/athletic/7375466/2026/06/19/giannis-antetokounmpo-nba-trade-jaylen-brown/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 44,
+          "interest_max": 100,
+          "interest_latest": 70,
+          "rank": 1
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 26,
+          "interest_max": 100,
+          "interest_latest": 26,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 25,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 20,
+          "interest_max": 40,
+          "interest_latest": 30,
+          "rank": 4
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 14,
+          "interest_max": 34,
+          "interest_latest": 20,
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 9,
+          "interest_max": 22,
+          "interest_latest": 15,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 8,
+          "interest_max": 22,
+          "interest_latest": 15,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 4,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 7,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 3,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette pronunciation",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "sophie woodhouse coquette habit",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette garden city",
+          "value": "110"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "what is coquette style",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coco coquette",
+          "value": "50"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "amazonプライム",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Prime Day noise-cancelling headphones: Early deals from Apple and Sony",
+              "url": "https://mashable.com/tech/best-early-prime-day-noise-cancelling-headphones-deals-2026"
+            },
+            {
+              "title": "The best wireless earbuds for iPhone owners, Apple’s AirPods Pro 3 are on rare sale",
+              "url": "https://www.theguardian.com/thefilter-us/2026/jun/18/airpods-pro-3-sale"
+            },
+            {
+              "title": "Prime Day Is Nearly Here, but Apple, Sony and Bose Headphones Are Already Discounted",
+              "url": "https://www.cnet.com/deals/best-amazon-prime-day-headphone-earbud-deals-2026-06-21/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "花 凪 マナ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Ｖチューバー、関係者を性犯罪者との虚偽情報流布で謝罪「バレてしまいました」批判の声噴出（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/8b18efc18469f7bb92399f4c2df256203ab143d5"
+            },
+            {
+              "title": "性犯罪でっち上げVTuber引退の恐怖！「ガワ変えて逃亡」と批判殺到する界隈の闇",
+              "url": "https://www.zakzak.co.jp/article/20260621-TSXKTTK6LNGMJNMNQNSMIOR7NA/"
+            },
+            {
+              "title": "Ｖチューバー、関係者を性犯罪者との虚偽情報流布で謝罪「バレてしまいました」批判の声噴出",
+              "url": "https://www.nikkansports.com/entertainment/news/202606220000361.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ひるおび",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "恵俊彰 「ひるおび」復帰「今週もお付き合いください」 18、19日欠席していた（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/a4b2fe9a7bfe449f5e5b6d9969fe98a83f534dc0"
+            },
+            {
+              "title": "恵俊彰「ひるおび」２日連続で欠席。19日は報告も理由も最後まで告げず",
+              "url": "https://www.nikkansports.com/entertainment/news/202606190000998.html"
+            },
+            {
+              "title": "恵俊彰『ひるおび！』休演",
+              "url": "https://www.asahi.com/and/entertainment/16654577"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "畑中葉子",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "畑中葉子「タダで仕事しろって言ってるの？」ラジオ降板の理由は出演料未払い",
+              "url": "https://topics.smt.docomo.ne.jp/article/sanspo/entertainment/sanspo-_entertainment_geino_VAJXKAD5YBKAFLEB35FTHAWTG4?page=2"
+            },
+            {
+              "title": "【セ・リーグ公示】6月21日　巨人、甲斐を登録",
+              "url": "https://www.sanspo.com/article/20260621-JOI37PKOJJNNJJPMRJP27J6HDY/"
+            },
+            {
+              "title": "畑中葉子「タダで仕事しろって言ってるの？」ラジオ降板の理由は出演料未払い",
+              "url": "https://www.sanspo.com/article/20260622-VAJXKAD5YBKAFLEB35FTHAWTG4/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "陳述書",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "首相、中傷動画で陳述書提出意向 衆院予算委で業務に支障訴え（共同通信）",
+              "url": "https://news.yahoo.co.jp/articles/223aed3fa74f667b64f8a3de326b5453d8e58af3"
+            },
+            {
+              "title": "秘書の説明、国会に提示へ 高市首相、中傷・トークン疑惑巡り",
+              "url": "https://www.jiji.com/jc/article?k=2026062200345&g=pol"
+            },
+            {
+              "title": "サナエトークン、私も事務所も承認したことない＝高市首相",
+              "url": "https://jp.reuters.com/markets/japan/RF25ILVJNJINNIJ7IZF3FD5DKM-2026-06-22/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "野口健",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "父はアルピニスト野口健！“ミス日本グランプリ”受賞の野口絵子が教わった登山の過酷さ",
+              "url": "https://post.tv-asahi.co.jp/post-780413/"
+            },
+            {
+              "title": "野口絵子＞父の野口健から教わった登山の過酷さ 15歳でキリマンジャロ登頂 20代でヒマラヤの山々を登頂 「徹子の部屋」出演（MANTANWEB）",
+              "url": "https://news.yahoo.co.jp/articles/1295e924df6caab7051d8cccbb96ad43e67a043f"
+            },
+            {
+              "title": "本日6月22日「徹子の部屋」ゲスト情報",
+              "url": "https://topics.smt.docomo.ne.jp/article/ggtnews/entertainment/ggtnews-2K6sx"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "ルヴァンカップ",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "２０２６／２７Ｊリーグ ヤマザキビスケット ルヴァンカップ 組み合わせ決定のお知らせ",
+              "url": "https://www.verdy.co.jp/news/15004"
+            },
+            {
+              "title": "２０２６／２７Ｊリーグ ヤマザキビスケット ルヴァンカップ 開催日程決定のお知らせ",
+              "url": "https://www.yamaga-fc.com/archives/549427"
+            },
+            {
+              "title": "“新生”ルヴァン杯の組み合わせ決定! 前回王者の広島は2回戦、鹿島&神戸はプライムラウンドから登場",
+              "url": "https://web.gekisaka.jp/news/jleaguecup/detail/?453934-453934-fl"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "タコス",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "America's favorite fast-food chain named: McDonald's wins hearts but not best burger, survey says",
+              "url": "https://www.foxnews.com/food-drink/americas-favorite-fast-food-chain-mcdonalds-wins-hearts-not-best-burger-survey"
+            },
+            {
+              "title": "More Than 48,000 Diners Picked Their Favorite Fast Food Chain — Here’s What They Chose",
+              "url": "https://www.foodandwine.com/most-popular-fast-food-chain-yougov-report-2026-11994596"
+            },
+            {
+              "title": "Is this one dish in the menu holding up the fate of McDonald’s fast-food empire",
+              "url": "https://timesofindia.indiatimes.com/etimes/trending/salty-crispy-and-unstoppable-is-this-one-dish-in-the-menu-holding-up-the-fate-of-mcdonalds-fast-food-empire/articleshow/131824032.cms"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "高橋文哉",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "高橋文哉“潔”の運命を動かす重要キャラクターに、平山祐介＆山時聡真＆野間口徹ら5人の出演が決定＜映画ブルーロック＞",
+              "url": "https://news.yahoo.co.jp/articles/e229d4e790d6836edce8c6e1a0e65cbdebe69b4e"
+            },
+            {
+              "title": "オリコンニュース：実写映画『ブルーロック』追加キャスト発表 平山祐介、山時聡真、野間口徹、野波麻帆、春海四方ら出演",
+              "url": "https://mainichi.jp/articles/20260619/orc/00m/200/116000c"
+            },
+            {
+              "title": "「ブルーロック」最新巻や「実は私は」「BMネクタール」など全巻1冊99円のセール本が人気！Amazon Kindle本マンガ「売れ筋ランキング」コミック単行本上位20！（2026年6月19日版）",
+              "url": "https://hobby.dengeki.com/news/3054274/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "ホンダf1",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "7月中旬まで“ノーアップデート”予定のアストンマーティン。モナコとバルセロナで全体的な弱点が浮き彫りに「全員の肩に重くのしかかっている」（motorsport.com 日本版） | 自動車情報・ニュース",
+              "url": "https://carview.yahoo.co.jp/news/detail/152d1f482f239351f43bf4fd027f4814effc1784/"
+            },
+            {
+              "title": "「非常に深刻」――ホンダ経営陣はいまアストンマーティンF1をどう見ているのか、HRC社長が明かす現状認識",
+              "url": "https://formula1-data.com/article/hrc-reveals-honda-stance-on-aston-f1-crisis"
+            },
+            {
+              "title": "アストンマーティンのアップデートに左右されるアロンソの去就。アルピーヌ復帰説はブリアトーレの策略か",
+              "url": "https://www.as-web.jp/f1/1327255"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 41,
+          "interest_max": 100,
+          "interest_latest": 32,
+          "rank": 1
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 37,
+          "interest_max": 94,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 22,
+          "interest_max": 100,
+          "interest_latest": 33,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 22,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 9,
+          "interest_max": 42,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 7,
+          "interest_max": 29,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 アイドル 空港 ファッション",
+          "value": "450"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション 通販 おすすめ",
+          "value": "170"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "地雷 系 ファッション",
+          "value": "150"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 夏 ファッション メンズ",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "ムシンサ",
+          "value": "60"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-06-22T04:24:13.705635+00:00"
+}
