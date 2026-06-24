@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-06-17",
-    "to": "2026-06-23"
+    "from": "2026-06-18",
+    "to": "2026-06-24"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+12%",
-      "total_mentions": 136
+      "growth": "+24%",
+      "total_mentions": 140
     },
     {
       "keyword": "여름",
-      "growth": "+70%",
-      "total_mentions": 93
-    },
-    {
-      "keyword": "블라우스",
       "growth": "+8%",
-      "total_mentions": 90
-    },
-    {
-      "keyword": "여름원피스",
-      "growth": "+8%",
-      "total_mentions": 87
+      "total_mentions": 97
     },
     {
       "keyword": "style",
-      "growth": "+33%",
-      "total_mentions": 83
+      "growth": "+9%",
+      "total_mentions": 86
+    },
+    {
+      "keyword": "ootd",
+      "growth": "+9%",
+      "total_mentions": 81
+    },
+    {
+      "keyword": "#fashion",
+      "growth": "+62%",
+      "total_mentions": 79
     }
   ],
   "most_cross_platform": [
@@ -43,6 +43,14 @@
       "count": 2
     },
     {
+      "keyword": "블라우스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
       "keyword": "여름원피스",
       "platforms": [
         "naver",
@@ -51,7 +59,7 @@
       "count": 2
     },
     {
-      "keyword": "블라우스",
+      "keyword": "여름가디건",
       "platforms": [
         "naver",
         "youtube"
@@ -62,14 +70,6 @@
       "keyword": "레인부츠",
       "platforms": [
         "x_twitter",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "여름가디건",
-      "platforms": [
-        "naver",
         "youtube"
       ],
       "count": 2
@@ -87,11 +87,11 @@
     "여름",
     "원피스",
     "블라우스",
+    "#shorts",
     "여름원피스",
+    "style",
     "여름가디건",
     "여름블라우스",
-    "티셔츠",
-    "style",
-    "#shorts"
+    "티셔츠"
   ]
 }

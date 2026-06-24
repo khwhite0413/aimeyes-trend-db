@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-06-17",
-    "to": "2026-06-23"
+    "from": "2026-06-18",
+    "to": "2026-06-24"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "trend",
-      "growth": "+25%",
-      "total_mentions": 154
-    },
-    {
-      "keyword": "#shorts",
-      "growth": "+25%",
-      "total_mentions": 134
-    },
-    {
       "keyword": "dance",
       "growth": "+12%",
-      "total_mentions": 65
-    },
-    {
-      "keyword": "플리츠원피스",
-      "growth": "+29%",
-      "total_mentions": 58
+      "total_mentions": 66
     },
     {
       "keyword": "#trend",
       "growth": "+40%",
-      "total_mentions": 53
+      "total_mentions": 55
+    },
+    {
+      "keyword": "#viralvideo",
+      "growth": "+20%",
+      "total_mentions": 46
+    },
+    {
+      "keyword": "#edit",
+      "growth": "+25%",
+      "total_mentions": 44
+    },
+    {
+      "keyword": "edit",
+      "growth": "+25%",
+      "total_mentions": 44
     }
   ],
   "most_cross_platform": [],
@@ -50,7 +50,7 @@
     "여름원피스",
     "여름블라우스",
     "티셔츠",
-    "#viral",
-    "여름가디건"
+    "여름가디건",
+    "#viral"
   ]
 }
