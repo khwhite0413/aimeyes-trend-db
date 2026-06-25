@@ -1,26 +1,31 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-06-18",
-    "to": "2026-06-24"
+    "from": "2026-06-19",
+    "to": "2026-06-25"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "#viral",
+      "growth": "+30%",
+      "total_mentions": 80
+    },
+    {
+      "keyword": "dance",
+      "growth": "+29%",
+      "total_mentions": 66
+    },
+    {
       "keyword": "#trend",
-      "growth": "+40%",
-      "total_mentions": 55
+      "growth": "+17%",
+      "total_mentions": 57
     },
     {
-      "keyword": "#edit",
-      "growth": "+50%",
-      "total_mentions": 45
-    },
-    {
-      "keyword": "edit",
-      "growth": "+50%",
-      "total_mentions": 45
+      "keyword": "#viralvideo",
+      "growth": "+20%",
+      "total_mentions": 46
     }
   ],
   "most_cross_platform": [],

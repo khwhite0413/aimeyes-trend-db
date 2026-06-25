@@ -1,0 +1,716 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "스위스 축구 국가대표팀",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "[월드컵] 한국, 조 2위로 32강 가면 B조 2위 캐나다와 격돌",
+              "url": "https://www.yna.co.kr/view/AKR20260625011000007"
+            },
+            {
+              "title": "[월드컵] 한국 A조 2위 하면 공동 개최국 캐나다와 32강전",
+              "url": "https://imnews.imbc.com/news/2026/sports/article/6832691_36946.html"
+            },
+            {
+              "title": "스위스, 조 1위 확정…한국, 32강서 캐나다와 맞대결 ‘유력’",
+              "url": "https://news.jtbc.co.kr/article/NB12304920"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "빈곤",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "국민연금 유족연금 월 35만원 불과…수급자 절반 저소득층",
+              "url": "https://v.daum.net/v/20260624061307268"
+            },
+            {
+              "title": "유족연금 月평균 36만원… 수급가구 절반이 ‘빈곤’",
+              "url": "https://www.donga.com/news/Society/article/all/20260624/134177478/2"
+            },
+            {
+              "title": "남편 잃고 매달 36만원…유족연금 받는 절반이 빈곤층",
+              "url": "https://www.kyeonggi.com/article/20260624580006"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "전고체 전지",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "[단독] 中배터리 굴기의 민낯...CATL·BYD 전고체배터리 장비 '거품' 논란",
+              "url": "https://www.theguru.co.kr/news/article.html?no=103476"
+            },
+            {
+              "title": "이녹스리튬-정석케미칼, 전고체 배터리 소재 생산 '맞손'",
+              "url": "https://zdnet.co.kr/view/?no=20260625104520"
+            },
+            {
+              "title": "이녹스리튬, 정석케미칼과 전고체 배터리 핵심소재 공급망 구축",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02856886645485328"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "박지성 해설",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "열받은 박지성 \"이기려고 한 경기가 맞나\", 김환 \"역대 최악의 경기\" [남아공-한국]",
+              "url": "https://sports.news.nate.com/view/20260625n18209"
+            },
+            {
+              "title": "중원 사령관 황인범 \"오늘 패배 원인, 벌어진 간격\"",
+              "url": "https://www.yonhapnewstv.co.kr/news/AKR20260625123144clr"
+            },
+            {
+              "title": "정몽규 보고있나… 홍명보와 함께 무너진 축구협회장, 대국민 사과해야",
+              "url": "https://sports.hankooki.com/news/articleView.html?idxno=6935388"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "핵무기",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "한국 군사력의 과제… 북한의 핵무기와 경제 격차 속 해법은?",
+              "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=443594"
+            },
+            {
+              "title": "[국력 리뷰] 대한민국은 세계 6위 국력의 나라, G7 정상회의를 바꿔야 하는 이유",
+              "url": "https://www.reviewtimes.co.kr/news/articleView.html?idxno=11812"
+            },
+            {
+              "title": "14화 우리나라의 군사력 수준은 어느 정도일까?",
+              "url": "https://brunch.co.kr/@gooddaddyhmh/129"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "애슬레틱스 대 자이언츠",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "'손흥민 유니폼' 입고 등장한 '바람의 손자' 이정후… 축구 대표팀 깜짝 응원",
+              "url": "https://v.daum.net/v/F4Xgh4iP18"
+            },
+            {
+              "title": "'손흥민 유니폼' 입고 등장한 이정후…축구 대표팀 깜짝 응원",
+              "url": "https://www.newsis.com/view/NISX20260625_0003683106"
+            },
+            {
+              "title": "[오늘의 영상] 홈런 치고 대~한민국",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8594414"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "벤투",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "호날두와 어깨 나란히… 벤투가 직접 뽑은 베스트 11에 한국 선수 무려 '3명' 포함됐다",
+              "url": "https://www.wikitree.co.kr/articles/1143001"
+            },
+            {
+              "title": "‘벤버지’ 벤투 감독이 애제자 손흥민에게 조언 “마지막일지도 모르는 월드컵 자체를 즐겨라” - 조선비즈",
+              "url": "https://biz.chosun.com/sports/baseball/2026/06/16/GU4TEMRSGI3TKYRVMZQTSMBXGE/"
+            },
+            {
+              "title": "벤투 “계속해서 한국 응원할 것”…여전히 깊은 애정",
+              "url": "https://biz.heraldcorp.com/article/10773432"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "스포츠",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "[르포]\"32강 무조건!\"…남아공전 앞두고 붉게 달아오른 광화문",
+              "url": "https://v.daum.net/v/20260625094219871"
+            },
+            {
+              "title": "몬테레이에 울리는 “꼬레아”…분위기는 사실상 홈 경기! [현장영상]",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8594726"
+            },
+            {
+              "title": "[이벤트] '첫 골' 몇 분에 터질까? - 카드/한컷 | 멀티미디어",
+              "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148967070"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "fotmob",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Lionel Messi makes World Cup 2030 declaration as Argentine ace eyes retirement success",
+              "url": "https://www.mirror.co.uk/sport/football/news/lionel-messi-argentina-retirement-olympics-37344017"
+            },
+            {
+              "title": "2020 World Cup: Messi speaks on playing for Argentina",
+              "url": "https://dailypost.ng/2026/06/24/2020-world-cup-messi-speaks-on-playing-for-argentina/"
+            },
+            {
+              "title": "Will Messi play 2030 FIFA World Cup?",
+              "url": "https://www.rediff.com/sports/report/will-messi-play-2030-fifa-world-cup/20260624.htm"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "숲",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "삼표그룹, 서울숲 '삼표 정원'서 체험형 프로그램 선보여",
+              "url": "https://www.newsis.com/view/NISX20260625_0003682758"
+            },
+            {
+              "title": "삼표그룹, 서울숲 '삼표 정원'서 체험 프로그램 운영",
+              "url": "https://view.asiae.co.kr/article/2026062508191095891"
+            },
+            {
+              "title": "서울국제정원박람회, 한강버스 타고 다녀오세요!",
+              "url": "https://mediahub.seoul.go.kr/archives/2018512"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 65,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 71,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "car accident lawyer",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Board-Certified Car Accident Lawyer in Vero Beach, FL Highlights Why Personalized Representation Sets Smaller Firms Apart From Larger Practices",
+              "url": "https://www.wataugademocrat.com/online_features/press_releases/board-certified-car-accident-lawyer-in-vero-beach-fl-highlights-why-personalized-representation-sets-smaller/article_73823bf0-1dd6-507d-a0f1-7f7d0bf66cef.html"
+            },
+            {
+              "title": "How Accident Victims Can Protect Their Legal Rights From Day One",
+              "url": "https://speedwaymedia.com/2026/06/23/how-accident-victims-can-protect-their-legal-rights-from-day-one/"
+            },
+            {
+              "title": "Why hiring an auto accident attorney in Houston protects your future",
+              "url": "https://www.digitaljournal.com/article/why-hiring-an-auto-accident-attorney-in-houston-protects-your-future/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "spacex launch",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Live Coverage: West Coast Falcon 9 launch to continue expansion of SpaceX’s Starlink network",
+              "url": "https://spaceflightnow.com/2026/06/24/live-coverage-west-coast-falcon-9-launch-to-continue-expansion-of-spacexs-starlink-network/"
+            },
+            {
+              "title": "SpaceX launching 24 Starlink satellites from California tonight: Watch it live",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-17-45-launch-ocisly"
+            },
+            {
+              "title": "SpaceX launch planned for Wednesday from Vandenberg Space Force Base",
+              "url": "https://www.ksby.com/lompoc-valley/spacex-launch-planned-for-wednesday-from-vandenberg-space-force-base"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "hugo broos",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "One more win keeps South Africa's Hugo Broos' legendary career alive",
+              "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/24/hugo-broos-career-end-world-cup/90684346007/"
+            },
+            {
+              "title": "Hugo Broos ties Shakes Mashaba as 'most-capped' Bafana Bafana coach",
+              "url": "https://www.msn.com/en-za/news/other/hugo-broos-ties-shakes-mashaba-as-most-capped-bafana-bafana-coach/ar-AA263eKY"
+            },
+            {
+              "title": "Muhsin Ertugral defends Hugo Broos amid World Cup criticism with Bafana Bafana",
+              "url": "https://themercury.co.za/fifa-world-cup-2026/updates/2026-06-24-muhsin-ertugral-defends-hugo-broos-amid-world-cup-criticism-with-bafana-bafana/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "weather radar map",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Capitol Hill, NJ Simulated Weather Radar Map",
+              "url": "https://www.weatherbug.com/maps/capitol-hill-nj-08010?layerId=simradar"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "mexico jersey 2026",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Mexico's Adidas World Cup Jerseys Are Flying Off Shelves",
+              "url": "https://www.si.com/onsi/jerseys/news/mexico-adidas-world-cup-jerseys-are-flying-off-shelves"
+            },
+            {
+              "title": "Mexico’s World Cup jerseys are the best sellers in the world, bar none",
+              "url": "https://mexiconewsdaily.com/news/mexicos-world-cup-jerseys-best-sellers-worldwide/"
+            },
+            {
+              "title": "The uniforms Mexico and South Korea are wearing today for 2026 World Cup Matchday 2",
+              "url": "https://bolavip.com/en/world-cup/the-uniforms-mexico-and-south-korea-are-wearing-today-for-2026-world-cup-matchday-2"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "latest iphone rumors",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Apple’s iPhone 18 Pro Features: Everything We Know So Far",
+              "url": "https://www.techrepublic.com/article/news-apple-iphone-18-pro-features-what-we-know-so-far/"
+            },
+            {
+              "title": "iPhone 18 news, leaks, and rumors: Release date, iPhone 18 Pro details, more.",
+              "url": "https://mashable.com/tech/apple-iphone-18-pro-release-date-news-rumors-leaks"
+            },
+            {
+              "title": "Apple's Siri AI push drives 12GB DRAM demand for Samsung and SK Hynix",
+              "url": "https://www.digitimes.com/news/a20260616PD219/apple-siri-demand-dram-samsung.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "japan vs sweden",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Japan vs. Sweden at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups",
+              "url": "https://www.espn.com/soccer/story/_/id/49155285/fifa-world-cup-2026-japan-vs-sweden-tv-channel-how-watch-kickoff-live-stream-referee-predicted-line-ups"
+            },
+            {
+              "title": "Japan seeking to shackle Swedish strike force in World Cup showdown",
+              "url": "https://www.reuters.com/sports/soccer/japan-seeking-shackle-swedish-strike-force-world-cup-showdown-2026-06-23/"
+            },
+            {
+              "title": "How much are last-minute tickets for the Japan-Sweden World Cup game at Dallas Stadium?",
+              "url": "https://www.dallasnews.com/business/article/much-last-minute-tickets-japan-sweden-world-cup-22315983.php"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "who does mexico play next",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32?",
+              "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/24/mexico-world-cup-round-of-32-possible-opponents-fifa/90674047007/"
+            },
+            {
+              "title": "Group A Decided: Mexico and South Africa learn Round of 32 venues and potential opponents",
+              "url": "https://worldsoccertalk.com/world-cup/group-a-decided-mexico-and-south-africa-learn-round-of-32-venues-and-potential-opponents/"
+            },
+            {
+              "title": "Mexico’s Next Possible Opponent in the Round of 32 at the 2026 World Cup? Scotland Steps Up After Croatia’s Win",
+              "url": "https://www.soyfutbol.com/en/news/mexicos-next-possible-opponent-in-the-round-of-32-at-the-2026-world-cup-scotland-steps-up-after-croatias-win-20260624-0005.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "lamelo ball",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Hornets Involved In LaMelo Ball Trade Talks",
+              "url": "https://www.hoopsrumors.com/2026/06/hornets-involved-in-lamelo-ball-trade-talks.html"
+            },
+            {
+              "title": "Report: Teams making offers for LaMelo Ball",
+              "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-06-24/report-teams-making-offers-for-lamelo-ball"
+            },
+            {
+              "title": "Report: Hornets engaged in trade talks with multiple teams for LaMelo",
+              "url": "https://www.thescore.com/nba/news/3558075/report-hornets-engaged-in-trade-talks-with-multiple-teams-for-la-melo"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "next mexico game",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "The US team may go very far at the 2026 World Cup",
+              "url": "https://news.laodong.vn/bong-da-quoc-te/doi-tuyen-my-co-the-di-rat-xa-tai-world-cup-2026-1722287.ldo"
+            },
+            {
+              "title": "A flurry of goals and convincing wins are raising US World Cup hopes and expectations",
+              "url": "https://www.tristatehomepage.com/sports/ap-a-flurry-of-goals-and-convincing-wins-are-raising-us-world-cup-hopes-and-expectations/"
+            },
+            {
+              "title": "Mexico's potential knockout-stage opponents",
+              "url": "https://www.nytimes.com/athletic/live-blogs/mexico-vs-south-korea-live-updates-world-cup-2026-score-result/44H9WB3w5Ew3/iHQzeLHf9kAY/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "home DIY",
+          "interest_avg": 58,
+          "interest_max": 100,
+          "interest_latest": 65,
+          "rank": 1
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 26,
+          "interest_max": 100,
+          "interest_latest": 20,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 20,
+          "interest_max": 69,
+          "interest_latest": 17,
+          "rank": 3
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 19,
+          "interest_max": 99,
+          "interest_latest": 20,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 2,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 21,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ai",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Micron to report third quarter earnings amid sky-high demand from data centers",
+              "url": "https://finance.yahoo.com/technology/article/micron-to-report-third-quarter-earnings-amid-sky-high-demand-from-data-centers-113000152.html"
+            },
+            {
+              "title": "Micron is tech's new margin king as memory crisis pushes company past Nvidia and Meta",
+              "url": "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html"
+            },
+            {
+              "title": "Micron’s Blockbuster Earnings Quiet the AI Doubters",
+              "url": "https://www.wsj.com/finance/stocks/microns-blockbuster-earnings-quiets-the-ai-doubters-6d31aa07"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "サッカーチェコ代表 対 サッカーメキシコ代表 順位",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "【詳細】韓国が３位転落 南アが逆転２位で決勝T メキシコは３連勝 Ｗ杯１次リーグＡ組最終戦",
+              "url": "https://www.nikkansports.com/soccer/worldcup2026/news/202606240000757.html"
+            },
+            {
+              "title": "メキシコ代表が全勝でラウンド32へ！ オチョアが6大会連続出場達成。20年ぶり出場のチェコ代表は無念の敗退",
+              "url": "https://news.yahoo.co.jp/articles/5e444c82c54a8c2eec2f16486687d26a169fecf9"
+            },
+            {
+              "title": "17歳金の卵が得点演出、40歳レジェンドGK途中出場に大興奮…メキシコが見せ場十分の戦いで3連勝",
+              "url": "https://web.gekisaka.jp/news/worldcup/detail/?454186-454186-fl"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "梅澤美波",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "元乃木坂46梅澤美波、卒業後初テレビ出演決定 慕う先輩・松村沙友理と「サンデー・ジャポン」でトーク繰り広げる",
+              "url": "https://mdpr.jp/news/detail/4803889"
+            },
+            {
+              "title": "梅澤美波、『サンジャポ』で乃木坂46卒業後初のTV出演 元1期生・松村沙友理と共演（ENCOUNT）",
+              "url": "https://news.yahoo.co.jp/articles/eb5534033765a89de515a7f7c8104b81596435f9"
+            },
+            {
+              "title": "元乃木坂46・梅澤、卒業後初TV出演",
+              "url": "https://www.asahi.com/and/entertainment/16671987"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "ワールドカップ 3位通過 条件",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Ｗ杯 1次リーグ第3戦へ 日本は試合前に決勝トーナメント決定も",
+              "url": "https://news.web.nhk/newsweb/na/na-k10015158871000"
+            },
+            {
+              "title": "日本代表、“運命”の最終節スウェーデン戦へ、GLの突破条件は？ 勝利・引き分け・敗戦の場合を整理（フットボールチャンネル）",
+              "url": "https://news.yahoo.co.jp/articles/12114733f21ea51720a8be0811800f343d631c16"
+            },
+            {
+              "title": "決勝トーナメント初戦の相手はブラジル？モロッコ？それとも…３位通過ならフランスと対戦の可能性",
+              "url": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260624-GYT1T00445/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "警視庁",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "岡山県警察学校に記者が体験入校！",
+              "url": "https://tver.jp/episodes/ep8zsthyog"
+            },
+            {
+              "title": "半年～１０カ月間、厳しい訓練挑む…岡山県警察学校の日常は？ ＯＨＫ記者が体験入校【岡山】（OHK岡山放送）",
+              "url": "https://news.yahoo.co.jp/articles/c91c5975d24d1fef7f45e1aacce99fcf6a833742"
+            },
+            {
+              "title": "15年で受験者「3分の1」…警視庁がイメージアップへ初“警察学校ツアー”も「そこじゃない！」OBが提言 「数集め」より大事な“組織のウラ側”公開",
+              "url": "https://article.auone.jp/detail/1/2/2/361_2_r_20260624_1782263391928041"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "ゾウ",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "天王寺動物園に「ゾウ返せ」 祖国で署名17万筆、批判の背景は",
+              "url": "https://mainichi.jp/articles/20260624/k00/00m/040/056000c"
+            },
+            {
+              "title": "ゾウさんを大歓迎！ 天王寺・阿倍野がアートに染まるおさんぽスタンプラリーがかわいすぎる♡",
+              "url": "https://topics.smt.docomo.ne.jp/article/anna/trend/anna-20260616-1181648"
+            },
+            {
+              "title": "ゾウさんを大歓迎！ 天王寺・阿倍野がアートに染まるおさんぽスタンプラリーがかわいすぎる♡",
+              "url": "https://mdpr.jp/other/detail/4799750"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "今永昇太",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "今永昇太は６回途中３被弾４失点も８戦ぶり５勝目「まだまだ自分のやるべきことが」カブス３連勝（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/dc26228e5642ea15b7f0eecbf6bd476e9f0bd68c"
+            },
+            {
+              "title": "画像・写真：先発の今永 大リーグ：時事ドットコム",
+              "url": "https://www.jiji.com/jc/p?id=20260625104131-0091749154"
+            },
+            {
+              "title": "2試合連続二桁得点の打線爆発 カブスがダブルヘッダーを制しメッツ戦カード勝ち越し 今永昇太は6回途中4失点で5勝目 鈴木誠也は5打数無安打3三振",
+              "url": "https://article.auone.jp/detail/1/6/10/240_10_r_20260625_1782353756232366"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "グーグル",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "メガバンク3行がグーグルの最新AI利用へ 片山金融担当相",
+              "url": "https://news.web.nhk/newsweb/na/na-k10015158401000"
+            },
+            {
+              "title": "片山金融担当相、グーグル親会社幹部らと面会 高性能AIを3メガバンクで利用可能に",
+              "url": "https://tver.jp/episodes/eprmv62twl"
+            },
+            {
+              "title": "メガバンク3行、クロード・ミュトスやアルファベット最新AI使用可能に　悪用によるサイバー攻撃からの防御目的",
+              "url": "https://topics.smt.docomo.ne.jp/article/npn/nation/npn-300407888?fm=latestnews"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "失点",
+          "traffic": "5000+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "タイピング",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "タイピング力の育成に注力 下野市教委 学習用タブレットの活用幅拡大へ",
+              "url": "https://www.shimotsuke.co.jp/articles/-/1372410"
+            },
+            {
+              "title": "タイピング力 育成推進 表現力高め技能向上図る 下野市教委",
+              "url": "https://www.47news.jp/14523344.html"
+            },
+            {
+              "title": "タイピング力 育成推進　表現力高め技能向上図る　下野市教委",
+              "url": "https://topics.smt.docomo.ne.jp/article/shimotsuke/region/shimotsuke-20260625114016"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 27,
+          "interest_max": 68,
+          "interest_latest": 27,
+          "rank": 1
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 17,
+          "interest_max": 51,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 6,
+          "interest_max": 40,
+          "interest_latest": 28,
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 2,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 30,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-06-25T03:45:24.293745+00:00"
+}

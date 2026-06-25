@@ -1,39 +1,37 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-06-18",
-    "to": "2026-06-24"
+    "from": "2026-06-19",
+    "to": "2026-06-25"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+24%",
-      "total_mentions": 140
-    },
-    {
-      "keyword": "여름",
-      "growth": "+8%",
-      "total_mentions": 97
-    },
-    {
       "keyword": "style",
-      "growth": "+18%",
+      "growth": "+10%",
       "total_mentions": 87
     },
     {
       "keyword": "#fashion",
-      "growth": "+75%",
-      "total_mentions": 80
+      "growth": "+18%",
+      "total_mentions": 85
     },
     {
-      "keyword": "outfit",
-      "growth": "+40%",
-      "total_mentions": 45
+      "keyword": "#style",
+      "growth": "+25%",
+      "total_mentions": 42
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "자라",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "원피스",
       "platforms": [
@@ -65,14 +63,6 @@
         "youtube"
       ],
       "count": 2
-    },
-    {
-      "keyword": "레인부츠",
-      "platforms": [
-        "x_twitter",
-        "youtube"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
@@ -88,10 +78,10 @@
     "원피스",
     "블라우스",
     "style",
-    "#shorts",
     "여름원피스",
-    "여름가디건",
+    "#fashion",
+    "#shorts",
     "여름블라우스",
-    "티셔츠"
+    "여름가디건"
   ]
 }
