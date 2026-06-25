@@ -2,32 +2,21 @@
   "date": "2026-06-25",
   "mode": "general",
   "compared_to": "2026-06-24",
-  "total_keywords_today": 506,
+  "total_keywords_today": 522,
   "total_keywords_yesterday": 516,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "trend",
-      "change": "+12%",
+      "keyword": "#shorts",
+      "change": "+6%",
       "today_count": 19,
-      "yesterday_count": 17,
+      "yesterday_count": 18,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 19건, 어제 17건 기준"
-    },
-    {
-      "keyword": "#trending",
-      "change": "+18%",
-      "today_count": 13,
-      "yesterday_count": 11,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 13건, 어제 11건 기준"
+      "sample_note": "오늘 19건, 어제 18건 기준"
     },
     {
       "keyword": "#viral",
@@ -41,39 +30,6 @@
       "sample_note": "오늘 13건, 어제 11건 기준"
     },
     {
-      "keyword": "dance",
-      "change": "+12%",
-      "today_count": 9,
-      "yesterday_count": 8,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 9건, 어제 8건 기준"
-    },
-    {
-      "keyword": "#dance",
-      "change": "+17%",
-      "today_count": 7,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
-    },
-    {
-      "keyword": "#viralvideo",
-      "change": "+20%",
-      "today_count": 6,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
-    },
-    {
       "keyword": "올리비아로렌",
       "change": "+20%",
       "today_count": 6,
@@ -85,26 +41,15 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "#lyrics",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
+      "keyword": "유행하는",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "lyrics",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
       "keyword": "#funny",
@@ -119,6 +64,17 @@
     },
     {
       "keyword": "funny",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "trends",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -151,7 +107,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "여름",
+      "keyword": "2026年上半期に活躍したのは",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -162,7 +118,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "나는",
+      "keyword": "国別トレンド比較",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -174,6 +130,50 @@
     },
     {
       "keyword": "디기디기",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건 (신규)"
+    },
+    {
+      "keyword": "#editlyrics",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건 (신규)"
+    },
+    {
+      "keyword": "funk",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건 (신규)"
+    },
+    {
+      "keyword": "pou",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건 (신규)"
+    },
+    {
+      "keyword": "editlyrics",
       "change": "NEW",
       "today_count": 2,
       "yesterday_count": 0,
@@ -230,10 +230,10 @@
   ],
   "declining": [
     {
-      "keyword": "#shorts",
-      "change": "-11%",
+      "keyword": "trend",
+      "change": "-6%",
       "today_count": 16,
-      "yesterday_count": 18,
+      "yesterday_count": 17,
       "confidence": "high"
     },
     {
@@ -245,6 +245,13 @@
     },
     {
       "keyword": "#tiktok",
+      "change": "-29%",
+      "today_count": 5,
+      "yesterday_count": 7,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "#trend",
       "change": "-14%",
       "today_count": 6,
       "yesterday_count": 7,
@@ -266,13 +273,20 @@
     },
     {
       "keyword": "recipe",
-      "change": "-17%",
-      "today_count": 5,
+      "change": "-33%",
+      "today_count": 4,
       "yesterday_count": 6,
-      "confidence": "medium"
+      "confidence": "low"
     },
     {
       "keyword": "요즘",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#viralvideo",
       "change": "-20%",
       "today_count": 4,
       "yesterday_count": 5,
@@ -284,24 +298,12 @@
       "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
-    },
-    {
-      "keyword": "#food",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "food",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
     }
   ],
   "new_entries": [
-    "디기디기"
+    "디기디기",
+    "#editlyrics",
+    "funk"
   ],
   "cross_platform_hot": []
 }
