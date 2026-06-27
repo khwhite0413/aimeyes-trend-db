@@ -1,26 +1,21 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-06-20",
-    "to": "2026-06-26"
+    "from": "2026-06-21",
+    "to": "2026-06-27"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+16%",
-      "total_mentions": 150
-    },
-    {
       "keyword": "#fashion",
-      "growth": "+50%",
-      "total_mentions": 92
+      "growth": "+15%",
+      "total_mentions": 97
     },
     {
-      "keyword": "outfit",
-      "growth": "+500%",
-      "total_mentions": 45
+      "keyword": "올리비아로렌",
+      "growth": "+60%",
+      "total_mentions": 40
     }
   ],
   "most_cross_platform": [
@@ -41,9 +36,9 @@
       "count": 2
     },
     {
-      "keyword": "블라우스",
+      "keyword": "#viral",
       "platforms": [
-        "naver",
+        "x_twitter",
         "youtube"
       ],
       "count": 2
@@ -57,7 +52,7 @@
       "count": 2
     },
     {
-      "keyword": "여름가디건",
+      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
@@ -67,21 +62,21 @@
   ],
   "naver_shopping_hot": [
     "원피스",
-    "블라우스",
     "여름원피스",
-    "티셔츠",
-    "여름블라우스"
+    "블라우스",
+    "여름블라우스",
+    "티셔츠"
   ],
   "top_keywords_overall": [
     "fashion",
     "#fashion",
     "원피스",
     "블라우스",
-    "여름",
     "여름원피스",
-    "style",
-    "#shorts",
+    "여름블라우스",
     "티셔츠",
-    "여름블라우스"
+    "여름",
+    "여름가디건",
+    "style"
   ]
 }

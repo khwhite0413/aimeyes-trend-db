@@ -1,0 +1,720 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "카보베르데 축구 국가대표팀",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "52만 小國 카보베르데의 기적…‘3무승부’로 32강 직행",
+              "url": "https://www.chosun.com/sports/sports_special/2026/06/27/VVTNGUFXINCCPI3F6H4IKDCNC4/"
+            },
+            {
+              "title": "카보베르데 '기적'…월드컵 첫 출전에 3무로 32강 진출",
+              "url": "https://v.daum.net/v/20260627114155694"
+            },
+            {
+              "title": "'월드컵 첫 출전' 카보베르데 기적 쐈다! 사우디와 0-0 무승부…'3무 무패'로 H조 2위 32강행 '쾌거' [2026 월드컵]",
+              "url": "https://sports.news.nate.com/view/20260627n05640"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "이집트 대 이란",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "[월드컵] FIFA, 이집트-이란전 성소수자 상징 무지개 깃발 허용",
+              "url": "https://v.daum.net/v/20260626090806851"
+            },
+            {
+              "title": "FIFA \"성소수자 상징하는 무지개 깃발 허용\"",
+              "url": "https://www.yonhapnewstv.co.kr/news/MYH202606261959538Vs"
+            },
+            {
+              "title": "동성애 반대 이집트-이란전에 성소수자 상징 ‘무지개 깃발’ 펄럭인다",
+              "url": "https://www.donga.com/news/Inter/article/all/20260626/134187796/1"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "뉴질랜드 대 벨기에",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "[AI프리뷰] 2026 월드컵 27일 G조 뉴질랜드-벨기에전, 32강 진출 위한 '끝장 승부'",
+              "url": "https://www.newspim.com/news/view/20260626000887"
+            },
+            {
+              "title": "Belgium New Zealand WCup Soccer",
+              "url": "https://news.nate.com/view/20260627n06505?mid=n1101"
+            },
+            {
+              "title": "핫 시트: 성조기의 나라에서의 모험",
+              "url": "https://www.vietnam.vn/ko/ghe-nong-cuoc-phieu-luu-o-xu-co-hoa"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "협죽도",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "길가 흔한 ‘여름 꽃’인데…청산가리 수십배 독성 ‘주의보’",
+              "url": "https://www.khan.co.kr/article/202606270900001"
+            },
+            {
+              "title": "제주도·부산 해안도로에 널려있는데…청산가리보다 30배나 강하다는 '이 식물'",
+              "url": "https://www.wikitree.co.kr/articles/1143502"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "대만 해협",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "드론이 1조원대 中군함 무력화…현실이 된 대만해협 ‘무인 지옥’",
+              "url": "https://v.daum.net/v/20260627063206653"
+            },
+            {
+              "title": "中의 대만 동부해역 압박에…대만, 대응 모의훈련 실시",
+              "url": "https://www.yna.co.kr/view/AKR20260626089000009"
+            },
+            {
+              "title": "대만, 대함미사일 1,500기 통합 운용 지휘부 내달 창설",
+              "url": "https://www.yonhapnewstv.co.kr/news/AKR20260625164100hOx"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "월드컵 순위",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "조 3위로 힘겹게 조별리그 통과해 준우승까지…역대 기사회생 팀은?",
+              "url": "https://v.daum.net/v/20260627055000817"
+            },
+            {
+              "title": "[그래픽] 2026 북중미 월드컵 조별리그 중간 결과(26일)",
+              "url": "https://www.yna.co.kr/view/GYH20260626000600044"
+            },
+            {
+              "title": "한국 32강길 흔드는 마지막 변수…‘조 1위’ 멕시코가 힘 빼면 ‘경우의 수’가 꼬인다",
+              "url": "https://www.munhwa.com/article/11597683"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "르브론 제임스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'르브론-아데토쿤보-아데바요' 미친 슈퍼팀 나오나... 마이애미의 무시무시한 계획",
+              "url": "https://v.daum.net/v/QXoIAnDgZg"
+            },
+            {
+              "title": "현대판 팀 던컨&데이비드 로빈슨 조합 탄생! 마이애미로 간 아데토쿤보. 뱀 아데바요와의 무시무시한 결합. \"르브론 시대 마이애미처럼 부활할 것\"",
+              "url": "https://www.chosun.com/sports/basketball/2026/06/25/MIZDANDDHFQWIZRVMUZDKZDFMI/"
+            },
+            {
+              "title": "'야니스 트레이드 카드'로 꼽힌 브라운의 거취는→스티븐스 BOS 사장 \"여전히 중요한 존재지만…\"",
+              "url": "https://sports.news.nate.com/view/20260624n29468"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "남편",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'아내 의부증'이라던 남편, 외도 정황에 폭행까지…서장훈 \"그만 해라\" (이숙캠)",
+              "url": "https://v.daum.net/v/20260626172202163"
+            },
+            {
+              "title": "미행-녹음-SNS 박제…도 넘은 의부증 충격 (이혼숙려캠프)",
+              "url": "https://sports.donga.com/ent/article/all/20260626/134188497/1"
+            },
+            {
+              "title": "'진실공방' 아내 \"남편, 세면대에 소변봐\" 폭로…\"짐승이야?\" 반응도 - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/06/26/2026062603502588475"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "uruguay – tây ban nha",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Uruguay - Tây Ban Nha: Yamal đá chính",
+              "url": "https://vnexpress.net/uruguay-vs-tay-ban-nha-5090427.html"
+            },
+            {
+              "title": "'Bảo vệ Hongmyung rất tốt' Tây Ban Nha đã cứu vãn được tình hình... Đánh bại Uruguay 1-0 → 'đạt 1/3 trường hợp' [Review hiện trường World Cup]",
+              "url": "https://www.starnewskorea.com/vi/sports/2026/06/27/2026062708372149964"
+            },
+            {
+              "title": "Tây Ban Nha nhất bảng H, Cape Verde viết tiếp câu chuyện cổ tích",
+              "url": "https://www.vietnam.vn/tay-ban-nha-nhat-bang-h-cape-verde-viet-tiep-cau-chuyen-co-tich"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "대형주",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "\"어제는 좋다더니\" 하루 만에 5% 급락‥계좌 녹는 개미들 어쩌나",
+              "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833208_37004.html"
+            },
+            {
+              "title": "올해 '역대급 조울증' 사이드카 29회 발동…금융위기 때 변동성 뛰어넘은 코스피",
+              "url": "https://v.daum.net/v/20260627105101987"
+            },
+            {
+              "title": "13% 올랐다가 10% 내렸다가…SK하이닉스 주가 왜 이럴까",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4422078"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 33,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "trossard",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Arsenal in club-to-club contact with Leicester over Jeremy Monga deal - The Athletic",
+              "url": "https://www.nytimes.com/athletic/7205050/2026/06/23/jeremy-monga-arsenal-transfer-talks/"
+            },
+            {
+              "title": "Football gossip: Monga, Barcola, Fernandez, Barry, De Cat, Thuram",
+              "url": "https://www.bbc.com/sport/football/articles/c3ey5155309o"
+            },
+            {
+              "title": "Arsenal to bid again for Leicester teen Jeremy Monga after first offer rejected - sources",
+              "url": "https://www.espn.com/soccer/story/_/id/49117473/arsenal-leicester-jeremy-monga-transfers"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "mn twins",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Minnesota Twins May Still Sell at Deadline",
+              "url": "https://sports.yahoo.com/articles/minnesota-twins-may-still-sell-154158702.html"
+            },
+            {
+              "title": "Roto Riteup: June 23, 2026",
+              "url": "https://fantasy.fangraphs.com/roto-riteup-june-23-2026/"
+            },
+            {
+              "title": "This Dodgers-Twins trade for Joe Ryan can guarantee a World Series three-peat",
+              "url": "https://fansided.com/mlb/this-dodgers-twins-trade-for-joe-ryan-can-guarantee-a-world-series-three-peat-01kvx2akqj0j"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "mahmoud saber",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Who Are the Best Players on Egypt’s 2026 World Cup Squad?",
+              "url": "https://sports.yahoo.com/articles/best-players-egypt-2026-world-000252125.html"
+            },
+            {
+              "title": "Egypt WCup Soccer",
+              "url": "https://www.myeasternshoremd.com/kent_county_news/sports/world_cup/egypt-wcup-soccer/image_c5e1ebd6-b693-5f73-9026-3e9b169f1424.html"
+            },
+            {
+              "title": "Egypt WCup Soccer",
+              "url": "https://www.midfloridanewspapers.com/ap/egypt-wcup-soccer/image_0b56c032-b06a-5a8a-a449-43cd132c01b2.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "love island",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "‘Love Island USA’ Kicks Out Another Contestant for Racial Slur",
+              "url": "https://www.nytimes.com/2026/06/25/arts/television/love-island-alannah-keyser-racial-slur.html"
+            },
+            {
+              "title": "‘Love Island USA’ Boots Casa Amor Arrival Alannah Keyser After Racist Comments Surface",
+              "url": "https://www.thewrap.com/creative-content/tv-shows/love-island-usa-alannah-keyser-removed-racist-comments/"
+            },
+            {
+              "title": "Love Island USA removes second contestant for using racial slur",
+              "url": "https://www.bbc.com/news/articles/clyezep8dz4o"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "lindsay wagner",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Lindsay Wagner Celebrates 77th Birthday, Reflects on 50 Years Since 'Bionic Woman'",
+              "url": "https://www.yahoo.com/entertainment/tv/articles/lindsay-wagner-celebrates-77th-birthday-205038057.html"
+            },
+            {
+              "title": "'Bionic Woman' Lindsay Wagner still looks incredible as she turns 77",
+              "url": "https://www.hellomagazine.com/us/909686/bionic-woman-lindsay-wagner-still-looks-incredible-as-she-turns-77/"
+            },
+            {
+              "title": "50 Years Later, Fans Say Lindsay Wagner’s Most Famous Character Still Brings Them Comfort",
+              "url": "https://closerweekly.com/50-years-later-fans-say-lindsay-wagners-most-famous-character-still-brings-them-comfort/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "isaiah hartenstein",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Thunder to keep Hartenstein on new 3-year deal, sources say",
+              "url": "https://www.espn.com/nba/story/_/id/49193260/thunder-keep-hartenstein-new-3-year-deal-sources-say"
+            },
+            {
+              "title": "Thunder, Isaiah Hartenstein Agree To Three-Year Deal",
+              "url": "https://www.hoopsrumors.com/2026/06/thunder-isaiah-hartenstein-agree-to-three-year-deal-2.html"
+            },
+            {
+              "title": "Isaiah Hartenstein, Thunder Reportedly Agree to New $75M Contract, Updated NBA Salary Cap",
+              "url": "https://bleacherreport.com/articles/25429359-isaiah-hartenstein-thunder-reportedly-agree-new-75m-contract-updated-nba-salary-cap"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "mexico vs ecuador",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "¿Cómo luce la carrera de los posibles rivales de México?",
+              "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/16905577/mexico-posible-rival-como-luce-la-carrera-16avos-de-final"
+            },
+            {
+              "title": "Ecuador, Escocia, Cabo Verde, España... ¿Quién será el rival de México en Dieciseisavos de Final de la Copa del Mundo?",
+              "url": "https://www.mediotiempo.com/futbol/copa-mundial/cambia-panorama-mexico-quien-es-nuevo-posible-rival-del-tri-dieciseisavos-copa-del-mundo-2026"
+            },
+            {
+              "title": "Mundial 2026: Así se verían los duelos de 16vos al momento",
+              "url": "https://www.espn.com.mx/futbol/mundial/nota/_/id/16860409/mundial-2026-asi-se-quedan-16vos-bracket-dieciseisavos-de-final-cruces-partidos"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "padres score",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "After 4th straight loss, Braves confident struggles 'not going to last'",
+              "url": "https://www.mlb.com/news/braves-struggles-vs-padres-continue-with-sweep"
+            },
+            {
+              "title": "Padres 5-2 Braves (Jun 24, 2026) Game Recap",
+              "url": "https://www.espn.com/mlb/recap/_/gameId/401815895"
+            },
+            {
+              "title": "Padres Daily: The win they needed; Sears’ return; bullpen shows depth; Musgrove, Pivetta take steps",
+              "url": "https://www.sandiegouniontribune.com/2026/06/25/padres-daily-the-win-they-needed-sears-return-bullpen-shows-depth-musgrove-pivetta-take-steps-taylors-trouble/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "fifa bracket",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "World Cup standings LIVE: Updated bracket for round of 32 matches",
+              "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/24/world-cup-standings-live-round-of-32-knockout-round-updates/90676403007/"
+            },
+            {
+              "title": "Every confirmed World Cup last-32 fixture",
+              "url": "https://www.standard.co.uk/sport/football/every-world-cup-last-32-fixture-b1287728.html"
+            },
+            {
+              "title": "Bracket taking shape: where the World Cup last 32 stand today",
+              "url": "https://onefootball.com/en/news/bracket-taking-shape-where-the-world-cup-last-32-stand-today-43063172"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "mookie betts",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Mookie Betts' 10th home run of the season",
+              "url": "https://www.mlb.com/dodgers/video/walker-buehler-in-play-run-s-to-mookie-betts-7bhugr"
+            },
+            {
+              "title": "Mookie Betts continues resurgent streak with 300th career homer in Dodgers win",
+              "url": "https://sports.yahoo.com/mlb/article/mookie-betts-continues-resurgent-streak-with-300th-career-homer-in-dodgers-win-044221746.html"
+            },
+            {
+              "title": "Dodgers 4-3 Twins (Jun 24, 2026) Game Recap",
+              "url": "https://www.espn.com/mlb/recap/_/gameId/401815892"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "home DIY",
+          "interest_avg": 55,
+          "interest_max": 100,
+          "interest_latest": 51,
+          "rank": 1
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 25,
+          "interest_max": 100,
+          "interest_latest": 14,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 20,
+          "interest_max": 74,
+          "interest_latest": 18,
+          "rank": 3
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 20,
+          "interest_max": 100,
+          "interest_latest": 15,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 2,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 45,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "松井裕樹",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "松井裕樹、勝ち越しソロ被弾で５試合ぶり失点も黒星消える マチャドが延長10回サヨナラ打（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/ca5ab016ec24dbd2e1cc9b63daafc0c6bdcfb979"
+            },
+            {
+              "title": "パドレス 今季6度目サヨナラ勝利でナ東地区首位のブレーブスに連勝 松井裕樹は2回1/3を1失点好投",
+              "url": "https://www.sponichi.co.jp/baseball/news/2026/06/24/articles/20260624s00001007207000c.html"
+            },
+            {
+              "title": "松井裕樹、２回１／３を３安打１失点 一時勝ち越しアーチ許すも１死満塁しのぎサヨナラ勝ちに貢献",
+              "url": "https://hochi.news/articles/20260624-OHT1T51138.html?page=1"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "住宅",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "土砂崩れ、山口県平生町の家屋に流入 1人不明、3人重軽傷",
+              "url": "https://www.chugoku-np.co.jp/articles/-/854310"
+            },
+            {
+              "title": "土砂崩れに住宅1棟が巻き込まれる この家に住む70代男性が行方不明に 消防・警察など約80人態勢で捜索続く 山口・平生町",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2763148"
+            },
+            {
+              "title": "家に土砂流入1人行方不明 山口県",
+              "url": "https://news.yahoo.co.jp/pickup/6585818"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ベルギー",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "天皇陛下が記者団に“逆質問”「ビールは…」陛下と記者の和やかすぎる“やりとり”話題に…ベルギー同行記者を気遣うお言葉も",
+              "url": "https://news.yahoo.co.jp/articles/79ec5dc867acd57c118faadc5d561f111f1ed6ec"
+            },
+            {
+              "title": "天皇皇后両陛下がオランダ・ベルギー歴訪から帰国 「次の世代への橋渡しができた」 両王室と旧交温め",
+              "url": "https://www.fnn.jp/articles/-/1066275"
+            },
+            {
+              "title": "画像・写真：両陛下、国王夫妻とお別れ 植物園も散策―ベルギー：時事ドットコム",
+              "url": "https://www.jiji.com/jc/article?k=2026062501196&g=soc&p=20260625at97S&rel=pv"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "筧美和子",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "筧美和子 国際結婚？の質問に「夫はハーフです」第1子抱くワイルド夫公開 今月出産発表（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/6b59786202bc6125729fbb7bd033fd5726a9d235"
+            },
+            {
+              "title": "筧美和子 ママの顔「かわいいからok」第1子抱っこショット公開 今月出産発表",
+              "url": "https://www.sponichi.co.jp/entertainment/news/2026/06/26/kiji/20260626s00041000316000c.html"
+            },
+            {
+              "title": "筧美和子、「かわいいからok」第1子との“親子ショット”初公開",
+              "url": "https://topics.smt.docomo.ne.jp/article/dailynewsonline/entertainment/dailynewsonline-3075732"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "須田 亜香里",
+          "traffic": "2000+",
+          "related_news": []
+        },
+        {
+          "rank": 6,
+          "keyword": "雨",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "梅雨季开启 南方多地强降雨破纪录",
+              "url": "https://news.cctv.com/2026/06/27/ARTIPJnrqDT6GnW8YHICTt9x260627.shtml"
+            },
+            {
+              "title": "江南北部等地有暴雨大暴雨 雨势增强",
+              "url": "https://news.china.com/socialgd/10000169/20260627/49573513.html"
+            },
+            {
+              "title": "华南云南等地仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+              "url": "http://news.china.com.cn/2026-06/26/content_118568445.shtml"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "風、薫る",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "『風、薫る』次週予告。「未来の看護婦減らした」と落ち込むりん。虎太郎は「りんのせいじゃない」と伝えるが…（婦人公論.jp）",
+              "url": "https://news.yahoo.co.jp/articles/4e8ae789bee8169a743f6495ff3a846734ef72c7"
+            },
+            {
+              "title": "【“朝ドラ”「風、薫る」第13週】ツヤ（東野絢香）が突きつけた“貧困” 看護婦の誕生が奪った居場所",
+              "url": "https://dot.asahi.com/articles/-/286111?page=1"
+            },
+            {
+              "title": "『風、薫る』第66回 シマケンは”ある物”を直美に託す",
+              "url": "https://mainichi.jp/articles/20260627/orc/00m/200/023000c"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "egypt vs iran",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Egypt v Iran: World Cup 2026 – live",
+              "url": "https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest"
+            },
+            {
+              "title": "World Cup 2026: Iran and Egypt to contest 'Pride match' in Seattle",
+              "url": "https://www.bbc.com/sport/football/articles/ckg4k0ddg5go"
+            },
+            {
+              "title": "FIFA will allow rainbow flags at Egypt vs. Iran match at World Cup",
+              "url": "https://www.japantimes.co.jp/sports/2026/06/26/soccer/world-cup/iran-egypt-pride-fifa-flag/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "桃田賢斗 妻",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "結婚した桃田賢斗　一般女性の妻を初披露！スタイル爆発「嫁すんごいドレスやな」桃田はデレデレ「格別の美しさで、涙」",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260627-OHT1T51048"
+            },
+            {
+              "title": "結婚した桃田賢斗 一般女性の妻を初披露！スタイル爆発「嫁すんごいドレスやな」桃田はデレデレ「格別の美しさで、涙」",
+              "url": "https://sportsbull.jp/p/2362094/"
+            },
+            {
+              "title": "バド桃田賢斗が結婚式 新婦前に涙が止まらず「会場はプロポーズをした思い出の場所でした」超高級ブランドの指輪も輝く",
+              "url": "https://www.daily.co.jp/general/2026/06/26/0020522339.shtml"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "new zealand vs belgium",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "New Zealand vs Belgium LIVE: Watch FIFA World Cup Group G TV stream, score, lineups, commentary & updates",
+              "url": "https://www.bbc.com/sport/football/live/c70yxg7804zt"
+            },
+            {
+              "title": "New Zealand v Belgium: World Cup 2026 – live",
+              "url": "https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest"
+            },
+            {
+              "title": "Where to watch New Zealand vs. Belgium live stream, TV channel, start time for World Cup Group G match",
+              "url": "https://www.sportingnews.com/in/football/news/watch-new-zealand-vs-belgium-live-stream-channel-time-world-cup/a9a90cf15a757f065f0c9230"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 16,
+          "interest_max": 51,
+          "interest_latest": 11,
+          "rank": 1
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 11,
+          "interest_max": 59,
+          "interest_latest": 12,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 4,
+          "interest_max": 23,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-06-27T03:37:38.263987+00:00"
+}

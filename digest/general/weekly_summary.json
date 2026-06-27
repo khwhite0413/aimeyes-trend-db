@@ -1,35 +1,49 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-06-20",
-    "to": "2026-06-26"
+    "from": "2026-06-21",
+    "to": "2026-06-27"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+16%",
-      "total_mentions": 138
+      "growth": "+22%",
+      "total_mentions": 141
+    },
+    {
+      "keyword": "올리비아로렌",
+      "growth": "+60%",
+      "total_mentions": 40
     }
   ],
-  "most_cross_platform": [],
+  "most_cross_platform": [
+    {
+      "keyword": "#viral",
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "count": 2
+    }
+  ],
   "naver_shopping_hot": [
     "원피스",
-    "블라우스",
     "여름원피스",
-    "티셔츠",
-    "여름블라우스"
+    "블라우스",
+    "여름블라우스",
+    "티셔츠"
   ],
   "top_keywords_overall": [
-    "trend",
     "#shorts",
+    "trend",
     "#trending",
     "원피스",
-    "블라우스",
     "여름원피스",
-    "티셔츠",
+    "블라우스",
     "여름블라우스",
+    "티셔츠",
     "#viral",
     "여름가디건"
   ]
