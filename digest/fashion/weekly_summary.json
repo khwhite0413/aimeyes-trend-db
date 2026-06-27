@@ -9,8 +9,8 @@
   "top_rising": [
     {
       "keyword": "#fashion",
-      "growth": "+15%",
-      "total_mentions": 97
+      "growth": "+8%",
+      "total_mentions": 96
     },
     {
       "keyword": "올리비아로렌",
@@ -36,14 +36,6 @@
       "count": 2
     },
     {
-      "keyword": "#viral",
-      "platforms": [
-        "x_twitter",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
       "keyword": "여름원피스",
       "platforms": [
         "naver",
@@ -53,6 +45,14 @@
     },
     {
       "keyword": "블라우스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "여름가디건",
       "platforms": [
         "naver",
         "youtube"
@@ -75,8 +75,8 @@
     "여름원피스",
     "여름블라우스",
     "티셔츠",
-    "여름",
+    "style",
     "여름가디건",
-    "style"
+    "여름"
   ]
 }
