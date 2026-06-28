@@ -9,8 +9,8 @@
   "top_rising": [
     {
       "keyword": "#viral",
-      "growth": "+33%",
-      "total_mentions": 80
+      "growth": "+44%",
+      "total_mentions": 81
     },
     {
       "keyword": "올리비아로렌",
@@ -19,11 +19,20 @@
     },
     {
       "keyword": "diy",
-      "growth": "+100%",
-      "total_mentions": 33
+      "growth": "+133%",
+      "total_mentions": 34
     }
   ],
-  "most_cross_platform": [],
+  "most_cross_platform": [
+    {
+      "keyword": "도시여자대피소",
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "count": 2
+    }
+  ],
   "naver_shopping_hot": [
     "원피스",
     "여름원피스",

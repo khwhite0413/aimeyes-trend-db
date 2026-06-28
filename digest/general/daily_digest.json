@@ -2,9 +2,9 @@
   "date": "2026-06-28",
   "mode": "general",
   "compared_to": "2026-06-27",
-  "total_keywords_today": 520,
+  "total_keywords_today": 512,
   "total_keywords_yesterday": 518,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -19,7 +19,18 @@
       "sample_note": "오늘 13건, 어제 12건 기준"
     },
     {
-      "keyword": "challenge",
+      "keyword": "#viral",
+      "change": "+8%",
+      "today_count": 13,
+      "yesterday_count": 12,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 13건, 어제 12건 기준"
+    },
+    {
+      "keyword": "hacks",
       "change": "+20%",
       "today_count": 6,
       "yesterday_count": 5,
@@ -52,6 +63,17 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
+      "keyword": "love",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
       "keyword": "바지",
       "change": "+33%",
       "today_count": 4,
@@ -61,6 +83,17 @@
         "youtube"
       ],
       "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "comedy",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
       "keyword": "amp",
@@ -140,6 +173,17 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
+      "keyword": "#comedy",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
       "keyword": "today",
       "change": "+50%",
       "today_count": 3,
@@ -151,7 +195,18 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#tvk",
+      "keyword": "amazing",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#cooking",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -162,7 +217,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "vijay",
+      "keyword": "cooking",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -171,68 +226,13 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
-      "keyword": "tvk",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#editlyrics",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "funk",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "pou",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "수선집",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "#shorts",
-      "change": "-13%",
-      "today_count": 20,
+      "change": "-17%",
+      "today_count": 19,
       "yesterday_count": 23,
       "confidence": "high"
     },
@@ -251,20 +251,6 @@
       "confidence": "medium"
     },
     {
-      "keyword": "#diy",
-      "change": "-14%",
-      "today_count": 6,
-      "yesterday_count": 7,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "diy",
-      "change": "-14%",
-      "today_count": 6,
-      "yesterday_count": 7,
-      "confidence": "medium"
-    },
-    {
       "keyword": "시슬리원피스",
       "change": "-14%",
       "today_count": 6,
@@ -272,21 +258,21 @@
       "confidence": "medium"
     },
     {
-      "keyword": "hacks",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
+      "keyword": "#tiktok",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "#edit",
+      "keyword": "trends",
       "change": "-33%",
       "today_count": 2,
       "yesterday_count": 3,
       "confidence": "low"
     },
     {
-      "keyword": "#trend",
+      "keyword": "#edit",
       "change": "-33%",
       "today_count": 2,
       "yesterday_count": 3,
@@ -298,8 +284,34 @@
       "today_count": 2,
       "yesterday_count": 3,
       "confidence": "low"
+    },
+    {
+      "keyword": "#shortvideo",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#editlyrics​",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
     }
   ],
-  "new_entries": [],
-  "cross_platform_hot": []
+  "new_entries": [
+    "리센느"
+  ],
+  "cross_platform_hot": [
+    {
+      "keyword": "도시여자대피소",
+      "platform_count": 2,
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "total_count": 2
+    }
+  ]
 }
