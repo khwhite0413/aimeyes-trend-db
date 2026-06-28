@@ -1,21 +1,26 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-06-21",
-    "to": "2026-06-27"
+    "from": "2026-06-22",
+    "to": "2026-06-28"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#shorts",
-      "growth": "+28%",
-      "total_mentions": 142
+      "keyword": "#viral",
+      "growth": "+33%",
+      "total_mentions": 80
     },
     {
       "keyword": "올리비아로렌",
-      "growth": "+60%",
-      "total_mentions": 40
+      "growth": "+75%",
+      "total_mentions": 42
+    },
+    {
+      "keyword": "diy",
+      "growth": "+100%",
+      "total_mentions": 33
     }
   ],
   "most_cross_platform": [],
@@ -23,8 +28,8 @@
     "원피스",
     "여름원피스",
     "블라우스",
-    "여름블라우스",
-    "티셔츠"
+    "티셔츠",
+    "여름블라우스"
   ],
   "top_keywords_overall": [
     "#shorts",
@@ -33,8 +38,8 @@
     "원피스",
     "여름원피스",
     "블라우스",
-    "여름블라우스",
     "티셔츠",
+    "여름블라우스",
     "#viral",
     "여름가디건"
   ]
