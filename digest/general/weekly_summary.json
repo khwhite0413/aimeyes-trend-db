@@ -1,34 +1,47 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-06-23",
-    "to": "2026-06-29"
+    "from": "2026-06-24",
+    "to": "2026-06-30"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "올리비아로렌",
-      "growth": "+40%",
-      "total_mentions": 45
+      "keyword": "trend",
+      "growth": "+18%",
+      "total_mentions": 108
     },
     {
-      "keyword": "diy",
-      "growth": "+133%",
-      "total_mentions": 38
+      "keyword": "올리비아로렌",
+      "growth": "+40%",
+      "total_mentions": 47
     },
     {
       "keyword": "#diy",
-      "growth": "+250%",
-      "total_mentions": 37
+      "growth": "+75%",
+      "total_mentions": 42
     },
     {
-      "keyword": "요즘",
-      "growth": "+25%",
-      "total_mentions": 31
+      "keyword": "diy",
+      "growth": "+75%",
+      "total_mentions": 42
+    },
+    {
+      "keyword": "에고이스트",
+      "growth": "+133%",
+      "total_mentions": 34
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "긴급점검",
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "도시여자대피소",
       "platforms": [
@@ -42,8 +55,8 @@
     "원피스",
     "여름원피스",
     "블라우스",
-    "여름블라우스",
-    "티셔츠"
+    "티셔츠",
+    "여름블라우스"
   ],
   "top_keywords_overall": [
     "#shorts",
@@ -51,8 +64,8 @@
     "원피스",
     "여름원피스",
     "블라우스",
-    "여름블라우스",
     "티셔츠",
+    "여름블라우스",
     "#viral",
     "#trending",
     "여름가디건"

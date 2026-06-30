@@ -1,0 +1,681 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "학포",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "[월드컵] 네덜란드 공격수 학포, '둘째 유산' 비보에도 32강 준비",
+              "url": "https://v.daum.net/v/p6i3HFKpZe"
+            },
+            {
+              "title": "코디 학포, 둘째 잃은 아픔 속 모로코전 선제골",
+              "url": "https://www.newsis.com/view/NISI20260630_0002173729"
+            },
+            {
+              "title": "[2026 북중미] 네덜란드 핵심 각포, '아이 잃은' 큰 슬픔 속에도 32강전 뛴다",
+              "url": "https://isplus.com/article/view/isp202606280002"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "2부제",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "원유 위기경보 '경계→주의'로 하향…천연가스는 해제(종합)",
+              "url": "https://v.daum.net/v/20260630111506303"
+            },
+            {
+              "title": "이 대통령, 공공 차량 2·5부제 “다 풀어주는 걸로 하자”",
+              "url": "https://www.khan.co.kr/article/202606301126011"
+            },
+            {
+              "title": "공공부문 차량 2부제→5부제로…자원안보 위기경보 하향",
+              "url": "https://www.newsis.com/view/NISX20260630_0003689309"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ls그룹",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "LS전선, 美 최대 해저케이블 공장 VCV 타워 착공",
+              "url": "https://www.etnews.com/20260625000076"
+            },
+            {
+              "title": "LS 명노현, 북미 전력 인프라 현장 점검…\"기회의 땅서 패권 잡겠다\"",
+              "url": "https://www.dailian.co.kr/news/view/1660242/LS-%EB%AA%85%EB%85%B8%ED%98%84-%EB%B6%81%EB%AF%B8-%EC%A0%84%EB%A0%A5-%EC%9D%B8%ED%94%84%EB%9D%BC-%ED%98%84%EC%9E%A5-2026"
+            },
+            {
+              "title": "LS, 북미 전력시장 공략 가속… AI·전력망 투자 수요 선점 승부수",
+              "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=200833"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "자영업",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "우리은행·서금원, 영세자영업자 지원 '인정가게' 프로젝트",
+              "url": "https://www.yna.co.kr/view/AKR20260630056400002"
+            },
+            {
+              "title": "우리은행·서금원, 서울 영세자영업 지원 ‘인정가게’ 프로젝트 신청 받는다",
+              "url": "https://www.hani.co.kr/arti/economy/consumer/1265972.html"
+            },
+            {
+              "title": "우리은행·서금원, 소상공인 성장 지원 프로그램 7월 출범",
+              "url": "https://www.g-enews.com/article/Finance/2026/06/20260630090307506cd0bfacc1c_1"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "노란봉투법",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "이진숙, '1호 법안'으로 노란봉투법 개정안 대표발의",
+              "url": "https://www.yna.co.kr/view/AKR20260628029000001"
+            },
+            {
+              "title": "방통위원장 출신 이진숙의 1호 법안, '미디어'가 아니었다",
+              "url": "https://v.daum.net/v/20260629101302791"
+            },
+            {
+              "title": "업황도 어려운데 노무 리스크까지…중견건설사 '이중 부담'",
+              "url": "https://www.etoday.co.kr/news/view/2597815"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "자이언츠 대 다이아몬드백스",
+          "traffic": "20000+",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "엔화",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "엔/달러 162엔도 넘어…엔화 가치 40년 만에 최저(종합)",
+              "url": "https://v.daum.net/v/20260630110004248"
+            },
+            {
+              "title": "日 재무상 \"환율에 언제든 대응…美와 과감한 조치도 포함\"(상보)",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4422594"
+            },
+            {
+              "title": "엔화, 美 조기 금리인상 관측에 1달러=161엔대 후반 하락 출발",
+              "url": "https://www.newsis.com/view/NISX20260630_0003689098"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "공무원",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "中, 공무원 태만·무모함·기만 처벌 지난해 16만 건…전년비 16%↑",
+              "url": "https://www.newsis.com/view/NISX20260630_0003689089"
+            },
+            {
+              "title": "내년 9급 초임 월 300만원 넘는다…공무원보수위 오늘 1차 회의",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01699046645486968"
+            },
+            {
+              "title": "정부가 '적정 임금' 띄우자…공무직 \"우리도 올려달라\"",
+              "url": "https://www.hankyung.com/article/2026062948781"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "동탄 토 허제",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "[2보] '집값 급등' 동탄·기흥·구리 규제지역·토허구역 지정",
+              "url": "https://www.yna.co.kr/view/AKR20260630023600003"
+            },
+            {
+              "title": "‘집값 급등’ 동탄·기흥·구리, 토허제 포함 3중 규제",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8598258"
+            },
+            {
+              "title": "대출 70%→40%, 갭투자도 막힌다 … 동탄·기흥·구리 삼중규제 적용",
+              "url": "https://biz.newdaily.co.kr/site/data/html/2026/06/30/2026063000045.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "간",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "“혈당 빠르게 올리고 지방간 위험”… 강소라가 간식으로 안 먹는다는 음식의 정체",
+              "url": "https://health.chosun.com/site/data/html_dir/2026/06/29/2026062901648.html"
+            },
+            {
+              "title": "지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은?",
+              "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=64090"
+            },
+            {
+              "title": "[김소은 원장의 웰니스 노트 ①] 침묵의 장기, 간 건강은 왜 미리 챙겨야 할까",
+              "url": "https://www.bntnews.co.kr/article/view/bnt202606260175"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 32,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "rebecca lowe",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Zlatan and Henry's World Cup co-host gives inside scoop on working with icons",
+              "url": "https://talksport.com/football/world-cup/4365361/rebecca-lowe-fox-sports-thierry-henry-zlatan-alexi-lalas/"
+            },
+            {
+              "title": "'Herding cattle': Rebecca Lowe gets honest about life with Zlatan Ibrahimovic",
+              "url": "https://www.msn.com/en-us/sports/other/herding-cattle-rebecca-lowe-gets-honest-about-life-with-zlatan-ibrahimovic/ar-AA26KJ0B"
+            },
+            {
+              "title": "The host of the 2026 men's World Cup: Rebecca Lowe | Full Time Podcast",
+              "url": "https://sports.yahoo.com/videos/host-2026-mens-world-cup-150223270.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "mason miller",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Suzuki hits game-ending single off Miller as the Cubs beat the Padres 3-2",
+              "url": "https://www.cbsnews.com/chicago/news/cubs-beat-the-padres-3-2/"
+            },
+            {
+              "title": "As Bregman tries to bounce back from viral gaffe, Cubs get another walk-off win",
+              "url": "https://www.dailyherald.com/20260629/chicago-cubs/as-bregman-tries-to-bounce-back-from-viral-gaffe-cubs-get-another-walk-off-win/"
+            },
+            {
+              "title": "Ivy, Cubs get best of Padres in walk-off loss",
+              "url": "https://www.sandiegouniontribune.com/2026/06/29/ivy-cubs-get-best-of-padres-in-walk-off-loss/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "monterrey world cup stadium",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "'Thought it's AI' - Fans stunned by view from World Cup's most beautiful stadium",
+              "url": "https://www.thesun.co.uk/sport/39567188/estadio-monterrey-view/"
+            },
+            {
+              "title": "Forget the goals- This Mexican stadium’s epic mountain backdrop is winning over FIFA fans",
+              "url": "https://www.financialexpress.com/sports/forget-the-goals-this-mexican-stadium-epic-mountain-backdrop-is-winning-over-fifa-fans/4278777/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "hudson river gateway project lawsuit",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Judge Orders Trump to End Efforts to Kill Hudson Tunnel Funding",
+              "url": "https://www.nytimes.com/2026/06/29/nyregion/hudson-tunnel-trump-funding-judge-ruling.html"
+            },
+            {
+              "title": "Trump move to halt funding for Gateway project was ‘flagrantly’ illegal, judge says",
+              "url": "https://www.yahoo.com/news/politics/articles/trump-move-halt-funding-gateway-202647368.html"
+            },
+            {
+              "title": "Statement from Governors Sherrill and Hochul and Attorneys General Davenport and James",
+              "url": "https://www.insidernj.com/press-releases/statement-from-governors-sherrill-and-hochul-and-attorneys-general-davenport-and-james"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "eric lauer",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Dodgers no-hit relievers",
+              "url": "https://www.truebluela.com/los-angeles-dodgers-history-records/118820/dodgers-hitless-relievers"
+            },
+            {
+              "title": "'Are you following the TOR report?' Laue's explosive frustration with the makeshift role: The reason for his no-nonsense approach with the LAD lies in the difference in leadership",
+              "url": "https://www.starnewskorea.com/en/sports/2026/06/29/2026062813180463579"
+            },
+            {
+              "title": "Eric Lauer Embracing Dodgers' Opener Strategy After Clashing With Blue Jays",
+              "url": "https://www.si.com/mlb/dodgers/onsi/eric-lauer-embracing-dodgers-opener-strategy-after-clashing-with-blue-jays"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "gessime yassine",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Coupe du monde 2026 : Le Maroc franchit le premier obstacle",
+              "url": "https://www.maroc-hebdo.com/article/coupe-du-monde-2026-le-maroc-franchit-le-premier-obstacle"
+            },
+            {
+              "title": "Haïti à la Coupe du Monde de la FIFA : Suivez en direct les scores et les réactions",
+              "url": "https://haitiantimes.com/fr/2026/06/24/Ha%C3%AFti-%C3%A0-la-Coupe-du-Monde-de-la-FIFA-%3A-mises-%C3%A0-jour-en-direct--scores-et-r%C3%A9actions/"
+            },
+            {
+              "title": "Les grenadiers ou la mise en sens d’une page d’histoire inoubliable",
+              "url": "https://lenouvelliste.com/article/268992/les-grenadiers-ou-la-mise-en-sens-dune-page-dhistoire-inoubliable"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "diop",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "DIRECT. Pays-Bas - Maroc, Coupe du monde : Hakimi trouve la barre !",
+              "url": "https://www.lequipe.fr/Football/match-direct/coupe-du-monde/2026/pays-bas-maroc-live/687048"
+            },
+            {
+              "title": "Suivez Pays-Bas - Maroc En direct - Coupe du monde 2026 - 16e de finale",
+              "url": "https://www.eurosport.fr/football/coupe-du-monde/2026/live-pays-bas-maroc_mtc1579490/live-commentary.shtml"
+            },
+            {
+              "title": "Live Pays-Bas - Maroc (1-1) 16èmes de finale de Coupe du Monde 2026 Canada/Mexico/USA 30/06",
+              "url": "https://www.footmercato.net/live/3485783662414082771-pays-bas-vs-maroc"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "no era penal",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "No era penal: MUNDIAL and Sad Boyz drop limited-edition tee as new documentary revisits Mexican football’s saddest day",
+              "url": "https://www.goal.com/en-us/news/no-era-penal-mundial-and-sad-boyz-drop-limited-edition-tee-as-new-documentary-revisits-mexican-football-s-saddest-day/blt52011b4e651bbd32"
+            },
+            {
+              "title": "Mexico Fans Still Haven't Forgotten \"No Era Penal\"",
+              "url": "https://klaq.com/no-era-penal-mexico-soccer/"
+            },
+            {
+              "title": "VIDEO: No Era Penal - a MUNDIAL film",
+              "url": "https://www.goal.com/en-us/news/video-no-era-penal-mundial-film/blt6ea674ebd17b1814"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "movie night love island",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Love Island USA Is Letting You Program Movie Night",
+              "url": "https://www.vulture.com/article/love-island-usa-movie-night.html"
+            },
+            {
+              "title": "When is 'Love Island' Movie Night 2026? Is it tonight?",
+              "url": "https://www.app.com/story/news/2026/06/29/when-is-love-island-movie-night-2026-is-it-tonight/90741327007/"
+            },
+            {
+              "title": "Catch Unseen Footage on 'Love Island USA: Aftersun' Tonight at 9 PM ET",
+              "url": "https://www.aol.com/articles/catch-unseen-footage-love-island-195844000.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "quinten timber",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Timber-totaal in Nederland blijft op één na MVV-deal",
+              "url": "https://www.vi.nl/nieuws/timber-totaal-in-nederland-blijft-op-een-na-mvv-deal"
+            },
+            {
+              "title": "LIVE Transfers | Broer van Quinten en Jurriën Timber krijgt kans bij MVV",
+              "url": "https://www.telegraaf.nl/sport/voetbal/live-transfers-broer-van-quinten-en-jurrien-timber-krijgt-kans-bij-mvv/155024322.html"
+            },
+            {
+              "title": "Arsenal-speler Jurriën Timber in De Geusselt waar zijn broer Dylan contract tekent",
+              "url": "https://www.limburger.nl/regio/maastricht/arsenal-speler-jurrien-timber-in-de-geusselt-waar-zijn-broer-dylan-contract-tekent/157970152.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "home DIY",
+          "interest_avg": 47,
+          "interest_max": 100,
+          "interest_latest": 40,
+          "rank": 1
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 23,
+          "interest_max": 100,
+          "interest_latest": 17,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 18,
+          "interest_max": 61,
+          "interest_latest": 18,
+          "rank": 3
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 18,
+          "interest_max": 94,
+          "interest_latest": 16,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 2,
+          "interest_max": 17,
+          "interest_latest": 6,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ドル円",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "【速報】1ドル162円台まで下落 円相場が39年半ぶりの円安ドル高水準に（FNNプライムオンライン（フジテレビ系））",
+              "url": "https://news.yahoo.co.jp/articles/257fdc4cd71e636eeb1c3feb4423f4f4c3c2ccd8"
+            },
+            {
+              "title": "【為替】7月および第1週の米ドル／円を予想する",
+              "url": "https://media.monex.co.jp/articles/-/29648"
+            },
+            {
+              "title": "ＮＹ円、１６１円９０～１６２円００銭",
+              "url": "https://www.okinawatimes.co.jp/articles/-/1870245"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "気象庁 台風情報",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "【台風のたまご】発生へ「熱帯低気圧」発達しながら 沖縄の南の海上に進む予想も【雨・風シミュレーション７月１０日（金）まで】気象庁の予想天気図・台風情報に今後注意",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2766867"
+            },
+            {
+              "title": "再び台風発生か 来週やってくるのは「台風」か「猛暑」か?左右するのは太平洋高気圧 【熱帯低気圧情報】（CBCテレビ）",
+              "url": "https://news.yahoo.co.jp/articles/a8272795ba6870c133bfd881d572f0b4ab64b2b8"
+            },
+            {
+              "title": "発達する予想の熱帯じょう乱の動向により、大荒れと猛暑が同居するパターンも？（杉江勇次） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/869cce68b7719fbaab2f519f8096711e0305dfce"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ジャンタルマンタル",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "ジャンタルマンタルが電撃引退！ 史上初の牡馬国内芝マイルＧ１完全制覇 高野調教師「ありがとうございますとお伝えしたいです」（馬トク報知）",
+              "url": "https://news.yahoo.co.jp/articles/59ae6f2050fb911840df52c0f5e12c2971ef396e"
+            },
+            {
+              "title": "ジャンタルマンタルが電撃引退！種牡馬入り　マイルG1・4勝で獲得賞金7億円超え　香港遠征がラストラン",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260630-0216"
+            },
+            {
+              "title": "ジャンタルマンタルが電撃引退 社台スタリオンステーションで種牡馬入り 高野調教師「必ずやいい子を出してくれると思います」",
+              "url": "https://www.sanspo.com/race/article/general/20260630-VZEZ6ZOVOBKPZBEAKESTM5WJPA/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "日本代表 本田圭佑",
+          "traffic": "50000+",
+          "related_news": []
+        },
+        {
+          "rank": 5,
+          "keyword": "ウクライナ軍",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "ロシア軍新兵、ウクライナ前線での生存時間は「数十分」（中央日報日本語版）",
+              "url": "https://news.yahoo.co.jp/articles/a92c5c3e2554da6d669bb37d55107be673ce464e"
+            },
+            {
+              "title": "プーチン氏の誤算、続く戦争 ウクライナ侵攻は退陣戦略の一環？",
+              "url": "https://www.asahi.com/articles/ASV6R0G27V6RUHBI00MM.html"
+            },
+            {
+              "title": "「溺れかかったプーチンとロシア」の脅威",
+              "url": "https://que.dailyshincho.jp/node/19494/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "こまち",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "秋田新幹線こまちが熊と衝突",
+              "url": "https://kahoku.news/articles/20260630khn000001.html"
+            },
+            {
+              "title": "秋田新幹線がクマと衝突 秋田市を走行中、けが人・車両異常なし",
+              "url": "https://www.sankei.com/article/20260630-PFQEHONMWVJXNCKUCURPDHMGLM/"
+            },
+            {
+              "title": "秋田新幹線がクマと衝突 緊急停車するトラブル 乗客にけがなし",
+              "url": "https://news.tv-asahi.co.jp/news_society/articles/000515790.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "マックス・マンシー",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "両軍ともに「７番・三塁」で先発の「マックス・マンシー」対決　ドジャースの先輩が適時打で先取点たたき出す",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260630-OHT1T51165"
+            },
+            {
+              "title": "ド軍戦で“奇跡の一致”「なんてこった」 思わず二度見…並んだ名前に「ビックリ」",
+              "url": "https://sportsbull.jp/p/2364219/"
+            },
+            {
+              "title": "ドジャース戦で珍事 両軍ともスタメンの「７番三塁」が「マックス・マンシー」 誕生日も同じの奇跡",
+              "url": "https://hochi.news/articles/20260630-OHT1T51147.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "万博記念公園",
+          "traffic": "1000+",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "河西秀哉",
+          "traffic": "5000+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "アスレチックス 対 ドジャース",
+          "traffic": "50000+",
+          "related_news": [
+            {
+              "title": "大谷翔平 サクラメント初アーチとなる18号！32球場目の本塁打、確信弾に敵地でも大歓声 日米通算300号まであと「2」に迫る",
+              "url": "https://news.yahoo.co.jp/articles/37904d0b3863094ad30323627505a8f1ffc696d1"
+            },
+            {
+              "title": "大谷翔平は好機で2打席凡退も…マンシー＆パヘスの2発でドジャース4回に逆転成功！",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260630-0204"
+            },
+            {
+              "title": "大谷翔平６試合ぶり18号３ラン本塁打　メジャー通算298号",
+              "url": "https://www.nikkansports.com/baseball/mlb/news/202606290001135.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 15,
+          "interest_max": 59,
+          "interest_latest": 13,
+          "rank": 1
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 11,
+          "interest_max": 56,
+          "interest_latest": 19,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 3,
+          "interest_max": 30,
+          "interest_latest": 11,
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 1,
+          "interest_max": 30,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-06-30T03:51:13.823073+00:00"
+}

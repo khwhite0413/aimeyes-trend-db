@@ -1,0 +1,909 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "학포",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "[월드컵] 네덜란드 공격수 학포, '둘째 유산' 비보에도 32강 준비",
+              "url": "https://v.daum.net/v/p6i3HFKpZe"
+            },
+            {
+              "title": "코디 학포, 둘째 잃은 아픔 속 모로코전 선제골",
+              "url": "https://www.newsis.com/view/NISI20260630_0002173729"
+            },
+            {
+              "title": "[2026 북중미] 네덜란드 핵심 각포, '아이 잃은' 큰 슬픔 속에도 32강전 뛴다",
+              "url": "https://isplus.com/article/view/isp202606280002"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "2부제",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "원유 위기경보 '경계→주의'로 하향…천연가스는 해제(종합)",
+              "url": "https://v.daum.net/v/20260630111506303"
+            },
+            {
+              "title": "이 대통령, 공공 차량 2·5부제 “다 풀어주는 걸로 하자”",
+              "url": "https://www.khan.co.kr/article/202606301126011"
+            },
+            {
+              "title": "공공부문 차량 2부제→5부제로…자원안보 위기경보 하향",
+              "url": "https://www.newsis.com/view/NISX20260630_0003689309"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ls그룹",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "LS전선, 美 최대 해저케이블 공장 VCV 타워 착공",
+              "url": "https://www.etnews.com/20260625000076"
+            },
+            {
+              "title": "LS 명노현, 북미 전력 인프라 현장 점검…\"기회의 땅서 패권 잡겠다\"",
+              "url": "https://www.dailian.co.kr/news/view/1660242/LS-%EB%AA%85%EB%85%B8%ED%98%84-%EB%B6%81%EB%AF%B8-%EC%A0%84%EB%A0%A5-%EC%9D%B8%ED%94%84%EB%9D%BC-%ED%98%84%EC%9E%A5-2026"
+            },
+            {
+              "title": "LS, 북미 전력시장 공략 가속… AI·전력망 투자 수요 선점 승부수",
+              "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=200833"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "자영업",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "우리은행, 7월부터 ‘안정가게 프로젝트’ 자영업자 경쟁력 강화",
+              "url": "https://v.daum.net/v/20260630114351256"
+            },
+            {
+              "title": "우리은행-서금원, 영세자영업자 지원 '인정가게' 프로젝트 시작",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03706406645486968"
+            },
+            {
+              "title": "우리은행·서금원, 서울 영세자영업 지원 ‘인정가게’ 프로젝트 신청 받는다",
+              "url": "https://www.hani.co.kr/arti/economy/consumer/1265972.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "노란봉투법",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "이진숙, '1호 법안'으로 노란봉투법 개정안 대표발의",
+              "url": "https://www.yna.co.kr/view/AKR20260628029000001"
+            },
+            {
+              "title": "방통위원장 출신 이진숙의 1호 법안, '미디어'가 아니었다",
+              "url": "https://v.daum.net/v/20260629101302791"
+            },
+            {
+              "title": "업황도 어려운데 노무 리스크까지…중견건설사 '이중 부담'",
+              "url": "https://www.etoday.co.kr/news/view/2597815"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "자이언츠 대 다이아몬드백스",
+          "traffic": "20000+",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "엔화",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "엔/달러 162엔도 넘어…엔화 가치 40년 만에 최저(종합)",
+              "url": "https://v.daum.net/v/20260630110004248"
+            },
+            {
+              "title": "日 재무상 \"환율에 언제든 대응…美와 과감한 조치도 포함\"(상보)",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4422594"
+            },
+            {
+              "title": "엔화, 美 조기 금리인상 관측에 1달러=161엔대 후반 하락 출발",
+              "url": "https://www.newsis.com/view/NISX20260630_0003689098"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "공무원",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "中, 공무원 태만·무모함·기만 처벌 지난해 16만 건…전년비 16%↑",
+              "url": "https://www.newsis.com/view/NISX20260630_0003689089"
+            },
+            {
+              "title": "내년 9급 초임 월 300만원 넘는다…공무원보수위 오늘 1차 회의",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01699046645486968"
+            },
+            {
+              "title": "정부가 '적정 임금' 띄우자…공무직 \"우리도 올려달라\"",
+              "url": "https://www.hankyung.com/article/2026062948781"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "동탄 토 허제",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'집값 급등' 동탄·기흥·구리 규제지역·토허구역 지정(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20260630023651003"
+            },
+            {
+              "title": "\"집값 오르지도 않았는데 규제 웬 말\"…불만 쏟아내는 용인 기흥 주민",
+              "url": "https://www.news1.kr/local/gyeonggi/6212759"
+            },
+            {
+              "title": "국민의힘 “李 정부 부동산 규제, 사고는 대통령이 벌칙은 국민이”",
+              "url": "https://v.daum.net/v/20260630095704402"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "간",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "“혈당 빠르게 올리고 지방간 위험”… 강소라가 간식으로 안 먹는다는 음식의 정체",
+              "url": "https://health.chosun.com/site/data/html_dir/2026/06/29/2026062901648.html"
+            },
+            {
+              "title": "지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은?",
+              "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=64090"
+            },
+            {
+              "title": "[김소은 원장의 웰니스 노트 ①] 침묵의 장기, 간 건강은 왜 미리 챙겨야 할까",
+              "url": "https://www.bntnews.co.kr/article/view/bnt202606260175"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 32,
+          "interest_max": 100,
+          "interest_latest": 27,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 4,
+          "interest_max": 11,
+          "interest_latest": 8,
+          "rank": 2
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 3,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 3,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 86,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "rebecca lowe",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Zlatan and Henry's World Cup co-host gives inside scoop on working with icons",
+              "url": "https://talksport.com/football/world-cup/4365361/rebecca-lowe-fox-sports-thierry-henry-zlatan-alexi-lalas/"
+            },
+            {
+              "title": "'Herding cattle': Rebecca Lowe gets honest about life with Zlatan Ibrahimovic",
+              "url": "https://www.msn.com/en-us/sports/other/herding-cattle-rebecca-lowe-gets-honest-about-life-with-zlatan-ibrahimovic/ar-AA26KJ0B"
+            },
+            {
+              "title": "The host of the 2026 men's World Cup: Rebecca Lowe | Full Time Podcast",
+              "url": "https://sports.yahoo.com/videos/host-2026-mens-world-cup-150223270.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "mason miller",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Suzuki hits game-ending single off Miller as the Cubs beat the Padres 3-2",
+              "url": "https://www.cbsnews.com/chicago/news/cubs-beat-the-padres-3-2/"
+            },
+            {
+              "title": "As Bregman tries to bounce back from viral gaffe, Cubs get another walk-off win",
+              "url": "https://www.dailyherald.com/20260629/chicago-cubs/as-bregman-tries-to-bounce-back-from-viral-gaffe-cubs-get-another-walk-off-win/"
+            },
+            {
+              "title": "Ivy, Cubs get best of Padres in walk-off loss",
+              "url": "https://www.sandiegouniontribune.com/2026/06/29/ivy-cubs-get-best-of-padres-in-walk-off-loss/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "monterrey world cup stadium",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "'Thought it's AI' - Fans stunned by view from World Cup's most beautiful stadium",
+              "url": "https://www.thesun.co.uk/sport/39567188/estadio-monterrey-view/"
+            },
+            {
+              "title": "Forget the goals- This Mexican stadium’s epic mountain backdrop is winning over FIFA fans",
+              "url": "https://www.financialexpress.com/sports/forget-the-goals-this-mexican-stadium-epic-mountain-backdrop-is-winning-over-fifa-fans/4278777/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "hudson river gateway project lawsuit",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Judge Orders Trump to End Efforts to Kill Hudson Tunnel Funding",
+              "url": "https://www.nytimes.com/2026/06/29/nyregion/hudson-tunnel-trump-funding-judge-ruling.html"
+            },
+            {
+              "title": "Trump move to halt funding for Gateway project was ‘flagrantly’ illegal, judge says",
+              "url": "https://www.yahoo.com/news/politics/articles/trump-move-halt-funding-gateway-202647368.html"
+            },
+            {
+              "title": "Statement from Governors Sherrill and Hochul and Attorneys General Davenport and James",
+              "url": "https://www.insidernj.com/press-releases/statement-from-governors-sherrill-and-hochul-and-attorneys-general-davenport-and-james"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "eric lauer",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Dodgers no-hit relievers",
+              "url": "https://www.truebluela.com/los-angeles-dodgers-history-records/118820/dodgers-hitless-relievers"
+            },
+            {
+              "title": "'Are you following the TOR report?' Laue's explosive frustration with the makeshift role: The reason for his no-nonsense approach with the LAD lies in the difference in leadership",
+              "url": "https://www.starnewskorea.com/en/sports/2026/06/29/2026062813180463579"
+            },
+            {
+              "title": "Eric Lauer Embracing Dodgers' Opener Strategy After Clashing With Blue Jays",
+              "url": "https://www.si.com/mlb/dodgers/onsi/eric-lauer-embracing-dodgers-opener-strategy-after-clashing-with-blue-jays"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "gessime yassine",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Coupe du monde 2026 : Le Maroc franchit le premier obstacle",
+              "url": "https://www.maroc-hebdo.com/article/coupe-du-monde-2026-le-maroc-franchit-le-premier-obstacle"
+            },
+            {
+              "title": "Haïti à la Coupe du Monde de la FIFA : Suivez en direct les scores et les réactions",
+              "url": "https://haitiantimes.com/fr/2026/06/24/Ha%C3%AFti-%C3%A0-la-Coupe-du-Monde-de-la-FIFA-%3A-mises-%C3%A0-jour-en-direct--scores-et-r%C3%A9actions/"
+            },
+            {
+              "title": "Les grenadiers ou la mise en sens d’une page d’histoire inoubliable",
+              "url": "https://lenouvelliste.com/article/268992/les-grenadiers-ou-la-mise-en-sens-dune-page-dhistoire-inoubliable"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "diop",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "DIRECT. Pays-Bas - Maroc, Coupe du monde : Hakimi trouve la barre !",
+              "url": "https://www.lequipe.fr/Football/match-direct/coupe-du-monde/2026/pays-bas-maroc-live/687048"
+            },
+            {
+              "title": "Suivez Pays-Bas - Maroc En direct - Coupe du monde 2026 - 16e de finale",
+              "url": "https://www.eurosport.fr/football/coupe-du-monde/2026/live-pays-bas-maroc_mtc1579490/live-commentary.shtml"
+            },
+            {
+              "title": "Live Pays-Bas - Maroc (1-1) 16èmes de finale de Coupe du Monde 2026 Canada/Mexico/USA 30/06",
+              "url": "https://www.footmercato.net/live/3485783662414082771-pays-bas-vs-maroc"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "no era penal",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "No era penal: MUNDIAL and Sad Boyz drop limited-edition tee as new documentary revisits Mexican football’s saddest day",
+              "url": "https://www.goal.com/en-us/news/no-era-penal-mundial-and-sad-boyz-drop-limited-edition-tee-as-new-documentary-revisits-mexican-football-s-saddest-day/blt52011b4e651bbd32"
+            },
+            {
+              "title": "Mexico Fans Still Haven't Forgotten \"No Era Penal\"",
+              "url": "https://klaq.com/no-era-penal-mexico-soccer/"
+            },
+            {
+              "title": "VIDEO: No Era Penal - a MUNDIAL film",
+              "url": "https://www.goal.com/en-us/news/video-no-era-penal-mundial-film/blt6ea674ebd17b1814"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "movie night love island",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Love Island USA Is Letting You Program Movie Night",
+              "url": "https://www.vulture.com/article/love-island-usa-movie-night.html"
+            },
+            {
+              "title": "When is 'Love Island' Movie Night 2026? Is it tonight?",
+              "url": "https://www.app.com/story/news/2026/06/29/when-is-love-island-movie-night-2026-is-it-tonight/90741327007/"
+            },
+            {
+              "title": "Catch Unseen Footage on 'Love Island USA: Aftersun' Tonight at 9 PM ET",
+              "url": "https://www.aol.com/articles/catch-unseen-footage-love-island-195844000.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "quinten timber",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Timber-totaal in Nederland blijft op één na MVV-deal",
+              "url": "https://www.vi.nl/nieuws/timber-totaal-in-nederland-blijft-op-een-na-mvv-deal"
+            },
+            {
+              "title": "LIVE Transfers | Broer van Quinten en Jurriën Timber krijgt kans bij MVV",
+              "url": "https://www.telegraaf.nl/sport/voetbal/live-transfers-broer-van-quinten-en-jurrien-timber-krijgt-kans-bij-mvv/155024322.html"
+            },
+            {
+              "title": "Arsenal-speler Jurriën Timber in De Geusselt waar zijn broer Dylan contract tekent",
+              "url": "https://www.limburger.nl/regio/maastricht/arsenal-speler-jurrien-timber-in-de-geusselt-waar-zijn-broer-dylan-contract-tekent/157970152.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 44,
+          "interest_max": 100,
+          "interest_latest": 44,
+          "rank": 1
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 21,
+          "interest_max": 47,
+          "interest_latest": 26,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 20,
+          "interest_max": 100,
+          "interest_latest": 24,
+          "rank": 3
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 14,
+          "interest_max": 100,
+          "interest_latest": 7,
+          "rank": 4
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 10,
+          "interest_max": 95,
+          "interest_latest": 28,
+          "rank": 5
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 8,
+          "interest_max": 21,
+          "interest_latest": 7,
+          "rank": 6
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 5,
+          "interest_max": 20,
+          "interest_latest": 5,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 4,
+          "interest_max": 11,
+          "interest_latest": 7,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 2,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 2,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "best quiet luxury bags",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "prada",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "inverto coquette d10",
+          "value": "18750"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette d10",
+          "value": "1950"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette d10 gta 5",
+          "value": "850"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d10",
+          "value": "500"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d10 gta",
+          "value": "400"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ドル円",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "【速報】1ドル162円台まで下落 円相場が39年半ぶりの円安ドル高水準に（FNNプライムオンライン（フジテレビ系））",
+              "url": "https://news.yahoo.co.jp/articles/257fdc4cd71e636eeb1c3feb4423f4f4c3c2ccd8"
+            },
+            {
+              "title": "【為替】7月および第1週の米ドル／円を予想する",
+              "url": "https://media.monex.co.jp/articles/-/29648"
+            },
+            {
+              "title": "ＮＹ円、１６１円９０～１６２円００銭",
+              "url": "https://www.okinawatimes.co.jp/articles/-/1870245"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "気象庁 台風情報",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "【台風のたまご】発生へ「熱帯低気圧」発達しながら 沖縄の南の海上に進む予想も【雨・風シミュレーション７月１０日（金）まで】気象庁の予想天気図・台風情報に今後注意",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2766867"
+            },
+            {
+              "title": "【台風のたまご】発生へ 気象庁予想天気図に「熱帯低気圧」 “風速20m以上”に発達し沖縄の南に進む予想も【雨・風シミュレーション7月10日（金）まで】台風情報に今後注意（MBC南日本放送）",
+              "url": "https://news.yahoo.co.jp/articles/72085ba1c30ddfa2e8f4385da0ac8de959578cc3"
+            },
+            {
+              "title": "再び台風発生か 来週やってくるのは「台風」か「猛暑」か?左右するのは太平洋高気圧 【熱帯低気圧情報】（CBCテレビ）",
+              "url": "https://news.yahoo.co.jp/articles/a8272795ba6870c133bfd881d572f0b4ab64b2b8"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ジャンタルマンタル",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "ジャンタルマンタルが電撃引退！ 史上初の牡馬国内芝マイルＧ１完全制覇 高野調教師「ありがとうございますとお伝えしたいです」（馬トク報知）",
+              "url": "https://news.yahoo.co.jp/articles/59ae6f2050fb911840df52c0f5e12c2971ef396e"
+            },
+            {
+              "title": "ジャンタルマンタルが電撃引退！種牡馬入り　マイルG1・4勝で獲得賞金7億円超え　香港遠征がラストラン",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260630-0216"
+            },
+            {
+              "title": "ジャンタルマンタルが電撃引退！ 史上初の牡馬国内芝マイルＧ１完全制覇 高野調教師「ありがとうございますとお伝えしたいです」",
+              "url": "https://sportsbull.jp/p/2364231/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "日本代表 本田圭佑",
+          "traffic": "50000+",
+          "related_news": []
+        },
+        {
+          "rank": 5,
+          "keyword": "ウクライナ軍",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "ロシア軍新兵、ウクライナ前線での生存時間は「数十分」（中央日報日本語版）",
+              "url": "https://news.yahoo.co.jp/articles/a92c5c3e2554da6d669bb37d55107be673ce464e"
+            },
+            {
+              "title": "プーチン氏の誤算、続く戦争 ウクライナ侵攻は退陣戦略の一環？",
+              "url": "https://www.asahi.com/articles/ASV6R0G27V6RUHBI00MM.html"
+            },
+            {
+              "title": "「溺れかかったプーチンとロシア」の脅威",
+              "url": "https://que.dailyshincho.jp/node/19494/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "こまち",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "秋田新幹線こまちが熊と衝突",
+              "url": "https://kahoku.news/articles/20260630khn000001.html"
+            },
+            {
+              "title": "秋田新幹線がクマと衝突 秋田市を走行中、けが人・車両異常なし",
+              "url": "https://www.sankei.com/article/20260630-PFQEHONMWVJXNCKUCURPDHMGLM/"
+            },
+            {
+              "title": "秋田新幹線がクマと衝突 緊急停車するトラブル 乗客にけがなし",
+              "url": "https://news.tv-asahi.co.jp/news_society/articles/000515790.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "マックス・マンシー",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "両軍ともに「７番・三塁」で先発の「マックス・マンシー」対決　ドジャースの先輩が適時打で先取点たたき出す",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260630-OHT1T51165"
+            },
+            {
+              "title": "ド軍戦で“奇跡の一致”「なんてこった」 思わず二度見…並んだ名前に「ビックリ」",
+              "url": "https://sportsbull.jp/p/2364219/"
+            },
+            {
+              "title": "ドジャース戦で珍事 両軍ともスタメンの「７番三塁」が「マックス・マンシー」 誕生日も同じの奇跡",
+              "url": "https://hochi.news/articles/20260630-OHT1T51147.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "万博記念公園",
+          "traffic": "1000+",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "河西秀哉",
+          "traffic": "5000+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "アスレチックス 対 ドジャース",
+          "traffic": "50000+",
+          "related_news": [
+            {
+              "title": "大谷翔平 サクラメント初アーチとなる18号！32球場目の本塁打、確信弾に敵地でも大歓声 日米通算300号まであと「2」に迫る",
+              "url": "https://news.yahoo.co.jp/articles/37904d0b3863094ad30323627505a8f1ffc696d1"
+            },
+            {
+              "title": "大谷翔平は好機で2打席凡退も…マンシー＆パヘスの2発でドジャース4回に逆転成功！",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260630-0204"
+            },
+            {
+              "title": "大谷翔平６試合ぶり18号３ラン本塁打　メジャー通算298号",
+              "url": "https://www.nikkansports.com/baseball/mlb/news/202606290001135.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 39,
+          "interest_max": 100,
+          "interest_latest": 28,
+          "rank": 1
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 33,
+          "interest_max": 100,
+          "interest_latest": 24,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 31,
+          "interest_max": 74,
+          "interest_latest": 37,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 18,
+          "interest_max": 69,
+          "interest_latest": 32,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 14,
+          "interest_max": 100,
+          "interest_latest": 14,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 10,
+          "interest_max": 61,
+          "interest_latest": 12,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 30,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 26,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 20,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "nugu",
+          "value": "58950"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション 通販 おすすめ",
+          "value": "170"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "grl",
+          "value": "120"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "dholic",
+          "value": "120"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション サイト",
+          "value": "80"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-06-30T03:48:58.570714+00:00"
+}
