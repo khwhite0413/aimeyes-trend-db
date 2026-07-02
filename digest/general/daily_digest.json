@@ -1,135 +1,80 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "mode": "general",
-  "compared_to": "2026-06-30",
-  "total_keywords_today": 507,
-  "total_keywords_yesterday": 531,
-  "data_days_available": 91,
+  "compared_to": "2026-07-01",
+  "total_keywords_today": 499,
+  "total_keywords_yesterday": 507,
+  "data_days_available": 92,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "#trending",
-      "change": "+9%",
-      "today_count": 12,
-      "yesterday_count": 11,
+      "keyword": "#viral",
+      "change": "+10%",
+      "today_count": 11,
+      "yesterday_count": 10,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 12건, 어제 11건 기준"
+      "sample_note": "오늘 11건, 어제 10건 기준"
     },
     {
-      "keyword": "#tiktok",
+      "keyword": "플리츠원피스",
       "change": "+17%",
       "today_count": 7,
       "yesterday_count": 6,
       "confidence": "medium",
       "platforms": [
-        "youtube"
+        "naver"
       ],
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "#viralvideo",
-      "change": "+20%",
-      "today_count": 6,
-      "yesterday_count": 5,
+      "keyword": "trends",
+      "change": "+67%",
+      "today_count": 5,
+      "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
+      "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
-      "keyword": "플리츠원피스",
-      "change": "+20%",
-      "today_count": 6,
-      "yesterday_count": 5,
+      "keyword": "hacks",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 2건 기준"
+    },
+    {
+      "keyword": "recipe",
+      "change": "+67%",
+      "today_count": 5,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 3건 기준"
+    },
+    {
+      "keyword": "듀엘원피스",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "naver"
       ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
-    },
-    {
-      "keyword": "challenge",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "요즘",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "dance",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "最新tiktokメドレー",
-      "change": "+400%",
-      "today_count": 5,
-      "yesterday_count": 1,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 1건 기준"
-    },
-    {
-      "keyword": "trends",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "유행하는",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "life",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "tiktokメドレー",
+      "keyword": "#hacks",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -140,7 +85,51 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "에고이스트원피스",
+      "keyword": "#lifehacks",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "lifehacks",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "hanelinetwins",
+      "change": "NEW",
+      "today_count": 3,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건 (신규)"
+    },
+    {
+      "keyword": "live",
+      "change": "NEW",
+      "today_count": 3,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건 (신규)"
+    },
+    {
+      "keyword": "잇미샤원피스",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -151,7 +140,18 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "여름",
+      "keyword": "리센느",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건 (신규)"
+    },
+    {
+      "keyword": "#music",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -162,7 +162,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#challenge",
+      "keyword": "#duet",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -173,7 +173,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "dembow",
+      "keyword": "#usa",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -184,122 +184,126 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#marathisong",
-      "change": "NEW",
+      "keyword": "#usashorts",
+      "change": "+100%",
       "today_count": 2,
-      "yesterday_count": 0,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건 (신규)"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#ajitpawar",
-      "change": "NEW",
+      "keyword": "#viralshorts",
+      "change": "+100%",
       "today_count": 2,
-      "yesterday_count": 0,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건 (신규)"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#rohitpawar",
-      "change": "NEW",
+      "keyword": "duet",
+      "change": "+100%",
       "today_count": 2,
-      "yesterday_count": 0,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건 (신규)"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#sharadpawar",
-      "change": "NEW",
+      "keyword": "usa",
+      "change": "+100%",
       "today_count": 2,
-      "yesterday_count": 0,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건 (신규)"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
+      "keyword": "#shorts",
+      "change": "-6%",
+      "today_count": 17,
+      "yesterday_count": 18,
+      "confidence": "high"
+    },
+    {
       "keyword": "trend",
-      "change": "-26%",
-      "today_count": 14,
-      "yesterday_count": 19,
+      "change": "-7%",
+      "today_count": 13,
+      "yesterday_count": 14,
       "confidence": "high"
     },
     {
-      "keyword": "#viral",
-      "change": "-9%",
-      "today_count": 10,
-      "yesterday_count": 11,
-      "confidence": "high"
-    },
-    {
-      "keyword": "#diy",
-      "change": "-12%",
-      "today_count": 7,
-      "yesterday_count": 8,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "diy",
-      "change": "-12%",
-      "today_count": 7,
-      "yesterday_count": 8,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "에고이스트",
+      "keyword": "#tiktok",
       "change": "-14%",
       "today_count": 6,
       "yesterday_count": 7,
       "confidence": "medium"
     },
     {
+      "keyword": "#diy",
+      "change": "-29%",
+      "today_count": 5,
+      "yesterday_count": 7,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "diy",
+      "change": "-29%",
+      "today_count": 5,
+      "yesterday_count": 7,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "#viralvideo",
+      "change": "-33%",
+      "today_count": 4,
+      "yesterday_count": 6,
+      "confidence": "low"
+    },
+    {
+      "keyword": "challenge",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#trend",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "最新tiktokメドレー",
+      "change": "-80%",
+      "today_count": 1,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
       "keyword": "#lyrics",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "lyrics",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "brazil",
-      "change": "-50%",
+      "change": "-33%",
       "today_count": 2,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#food",
-      "change": "-50%",
-      "today_count": 2,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "recipe",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
+      "yesterday_count": 3,
       "confidence": "low"
     }
   ],
-  "new_entries": [],
+  "new_entries": [
+    "hanelinetwins",
+    "live",
+    "리센느"
+  ],
   "cross_platform_hot": []
 }
