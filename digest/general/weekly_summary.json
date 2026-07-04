@@ -9,13 +9,8 @@
   "top_rising": [
     {
       "keyword": "trend",
-      "growth": "+125%",
-      "total_mentions": 128
-    },
-    {
-      "keyword": "#trending",
-      "growth": "+15%",
-      "total_mentions": 87
+      "growth": "+75%",
+      "total_mentions": 122
     },
     {
       "keyword": "여름가디건",
@@ -24,16 +19,29 @@
     },
     {
       "keyword": "dance",
-      "growth": "+100%",
-      "total_mentions": 47
+      "growth": "+140%",
+      "total_mentions": 49
     },
     {
       "keyword": "#tiktok",
-      "growth": "+167%",
-      "total_mentions": 45
+      "growth": "+133%",
+      "total_mentions": 44
+    },
+    {
+      "keyword": "#trend",
+      "growth": "+100%",
+      "total_mentions": 37
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "김부장",
+      "platforms": [
+        "google_trends",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "도시여자대피소",
       "platforms": [
