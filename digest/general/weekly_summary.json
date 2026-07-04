@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-06-27",
-    "to": "2026-07-03"
+    "from": "2026-06-28",
+    "to": "2026-07-04"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "trend",
-      "growth": "+69%",
-      "total_mentions": 114
+      "growth": "+125%",
+      "total_mentions": 128
+    },
+    {
+      "keyword": "#trending",
+      "growth": "+15%",
+      "total_mentions": 87
+    },
+    {
+      "keyword": "여름가디건",
+      "growth": "+9%",
+      "total_mentions": 78
     },
     {
       "keyword": "dance",
       "growth": "+100%",
-      "total_mentions": 42
-    },
-    {
-      "keyword": "에고이스트",
-      "growth": "+20%",
-      "total_mentions": 42
+      "total_mentions": 47
     },
     {
       "keyword": "#tiktok",
-      "growth": "+100%",
-      "total_mentions": 41
-    },
-    {
-      "keyword": "#viralvideo",
-      "growth": "+100%",
-      "total_mentions": 35
+      "growth": "+167%",
+      "total_mentions": 45
     }
   ],
   "most_cross_platform": [
@@ -47,12 +47,12 @@
     "원피스",
     "여름원피스",
     "블라우스",
-    "여름블라우스",
+    "여름가디건",
     "티셔츠"
   ],
   "top_keywords_overall": [
-    "#shorts",
     "trend",
+    "#shorts",
     "#trending",
     "원피스",
     "여름원피스",
