@@ -9,39 +9,31 @@
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+19%",
-      "total_mentions": 156
+      "growth": "+14%",
+      "total_mentions": 155
     },
     {
       "keyword": "#shorts",
-      "growth": "+12%",
-      "total_mentions": 87
+      "growth": "+25%",
+      "total_mentions": 88
+    },
+    {
+      "keyword": "ootd",
+      "growth": "+22%",
+      "total_mentions": 54
+    },
+    {
+      "keyword": "#ootd",
+      "growth": "+11%",
+      "total_mentions": 50
     },
     {
       "keyword": "trends",
-      "growth": "+200%",
-      "total_mentions": 49
-    },
-    {
-      "keyword": "summer",
-      "growth": "+100%",
-      "total_mentions": 44
-    },
-    {
-      "keyword": "시슬리원피스",
-      "growth": "+20%",
-      "total_mentions": 42
+      "growth": "+167%",
+      "total_mentions": 48
     }
   ],
   "most_cross_platform": [
-    {
-      "keyword": "데이트",
-      "platforms": [
-        "google_trends",
-        "youtube"
-      ],
-      "count": 2
-    },
     {
       "keyword": "자라",
       "platforms": [
@@ -73,6 +65,14 @@
         "youtube"
       ],
       "count": 2
+    },
+    {
+      "keyword": "데이트",
+      "platforms": [
+        "google_trends",
+        "youtube"
+      ],
+      "count": 2
     }
   ],
   "naver_shopping_hot": [
@@ -84,8 +84,8 @@
   ],
   "top_keywords_overall": [
     "fashion",
-    "여름원피스",
     "#shorts",
+    "여름원피스",
     "원피스",
     "블라우스",
     "티셔츠",

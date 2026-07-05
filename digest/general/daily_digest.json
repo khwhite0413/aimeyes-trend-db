@@ -2,9 +2,9 @@
   "date": "2026-07-05",
   "mode": "general",
   "compared_to": "2026-07-04",
-  "total_keywords_today": 458,
+  "total_keywords_today": 438,
   "total_keywords_yesterday": 475,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -20,28 +20,17 @@
     },
     {
       "keyword": "#trending",
-      "change": "+23%",
-      "today_count": 16,
+      "change": "+31%",
+      "today_count": 17,
       "yesterday_count": 13,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 16건, 어제 13건 기준"
+      "sample_note": "오늘 17건, 어제 13건 기준"
     },
     {
       "keyword": "#shorts",
-      "change": "+27%",
-      "today_count": 14,
-      "yesterday_count": 11,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 14건, 어제 11건 기준"
-    },
-    {
-      "keyword": "#viral",
       "change": "+18%",
       "today_count": 13,
       "yesterday_count": 11,
@@ -50,6 +39,17 @@
         "youtube"
       ],
       "sample_note": "오늘 13건, 어제 11건 기준"
+    },
+    {
+      "keyword": "#viral",
+      "change": "+9%",
+      "today_count": 12,
+      "yesterday_count": 11,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 12건, 어제 11건 기준"
     },
     {
       "keyword": "#tiktok",
@@ -72,17 +72,6 @@
         "youtube"
       ],
       "sample_note": "오늘 9건, 어제 7건 기준"
-    },
-    {
-      "keyword": "#trend",
-      "change": "+33%",
-      "today_count": 8,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 8건, 어제 6건 기준"
     },
     {
       "keyword": "#lyrics",
@@ -118,37 +107,15 @@
       "sample_note": "오늘 8건, 어제 5건 기준"
     },
     {
-      "keyword": "#edit",
-      "change": "+40%",
+      "keyword": "#trend",
+      "change": "+17%",
       "today_count": 7,
-      "yesterday_count": 5,
+      "yesterday_count": 6,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 7건, 어제 5건 기준"
-    },
-    {
-      "keyword": "edit",
-      "change": "+40%",
-      "today_count": 7,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 5건 기준"
-    },
-    {
-      "keyword": "recipe",
-      "change": "+75%",
-      "today_count": 7,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 4건 기준"
+      "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
       "keyword": "듀엘원피스",
@@ -173,15 +140,37 @@
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "#recipe",
-      "change": "+200%",
+      "keyword": "#edit",
+      "change": "+20%",
       "today_count": 6,
-      "yesterday_count": 2,
+      "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 6건, 어제 2건 기준"
+      "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
+      "keyword": "edit",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
+      "keyword": "hacks",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
       "keyword": "에고이스트",
@@ -193,17 +182,6 @@
         "naver"
       ],
       "sample_note": "오늘 6건, 어제 5건 기준"
-    },
-    {
-      "keyword": "funny",
-      "change": "+400%",
-      "today_count": 5,
-      "yesterday_count": 1,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 1건 기준"
     },
     {
       "keyword": "world",
@@ -226,6 +204,28 @@
         "youtube"
       ],
       "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "funny",
+      "change": "+300%",
+      "today_count": 4,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 1건 기준"
+    },
+    {
+      "keyword": "ela",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
     }
   ],
   "declining": [
@@ -266,13 +266,20 @@
     },
     {
       "keyword": "diy",
-      "change": "-50%",
-      "today_count": 2,
+      "change": "-75%",
+      "today_count": 1,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "summer",
+      "keyword": "recipe",
+      "change": "-75%",
+      "today_count": 1,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "challenge",
       "change": "-33%",
       "today_count": 2,
       "yesterday_count": 3,
@@ -280,8 +287,8 @@
     },
     {
       "keyword": "#diy",
-      "change": "-33%",
-      "today_count": 2,
+      "change": "-67%",
+      "today_count": 1,
       "yesterday_count": 3,
       "confidence": "low"
     },
@@ -294,7 +301,10 @@
     }
   ],
   "new_entries": [
-    "comedy"
+    "comedy",
+    "ice",
+    "cream",
+    "food"
   ],
   "cross_platform_hot": []
 }
