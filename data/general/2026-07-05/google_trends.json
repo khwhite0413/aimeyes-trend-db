@@ -1,0 +1,737 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "이정효",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "'월드컵 참사' 후 첫 경기, 이정효 감독 다짐 \"수원 삼성 축구로 달래드려야 하는데... 긴장 많이 된다\" [수원 현장]",
+              "url": "https://v.daum.net/v/20260704190518571"
+            },
+            {
+              "title": "‘수원의 날’ 승전고 울렸다…수원 삼성·수원FC, 동반 승리",
+              "url": "https://www.kyeonggi.com/article/20260704580157"
+            },
+            {
+              "title": "이제는 K리그의 시간…수원삼성, 성남FC에 1-0 승리",
+              "url": "https://www.kyeongin.com/article/1766745"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "백종원",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "대패삼겹살 원조?…법원 “백종원 개발 아니다”",
+              "url": "https://ichannela.com/news/detail/000000537975.do"
+            },
+            {
+              "title": "백종원 '대패삼겹살' 개발 신화 흔들…법원 \"80년대 이미 부산서 유행\"",
+              "url": "https://www.pressian.com/pages/articles/2026070509550578206"
+            },
+            {
+              "title": "‘대패삼겹살 원조’ 흔들…백종원 신뢰 이미지 또 타격",
+              "url": "https://www.sjsori.com/news/articleView.html?idxno=87321"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "박소영",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "박소영, 양세형과 썸 제대로 끝났다 “이상형? 박명수”(전참시)",
+              "url": "https://v.daum.net/v/20260705060305646"
+            },
+            {
+              "title": "박소영 아나, 하이닉스로 돈 벌었다더니 “박명수에 10억 빌려줄 수 있어”(전참시)",
+              "url": "http://www.osen.co.kr/article/G1112834152"
+            },
+            {
+              "title": "'전참시' 박소영, 김준상·정영한 아나운서와 '무한도전 런' 참여…박명수에 햇살 미소",
+              "url": "https://news.nate.com/view/20260704n11946"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "보스턴 다이내믹스",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "보스턴다이나믹스, 7월 아틀라스 웨비나…상용화 승부수는 ‘사람과의 협업’",
+              "url": "https://v.daum.net/v/20260705061122729"
+            },
+            {
+              "title": "보스턴다이나믹스 CEO \"美 향후 250년은 로봇이 만들어갈 것\" - 머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/07/03/2026070313175966282"
+            },
+            {
+              "title": "현대차 아틀라스 원가 90%↓, 수혜주 어디",
+              "url": "https://www.g-enews.com/article/Global-Biz/2026/07/2026070420554643732bd56fbc3c_1"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "파라 타 항공",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "파라타항공은 시작일뿐?…잔인한 여름 맞는 저가항공사들, 왜?",
+              "url": "https://v.daum.net/v/20260704212701188"
+            },
+            {
+              "title": "LCC에 곳간 여는 모기업…쌓여가는 ‘위기의 청구서’",
+              "url": "https://www.kukinews.com/article/view/kuk202606290216"
+            },
+            {
+              "title": "유가 안정에도 웃지 못하는 항공사… 평균 1500원 환율에 ‘비상등’",
+              "url": "https://www.sankyungilbo.com/news/articleView.html?idxno=522104"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "천록 담",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "천록담, 쿨 이재훈 없었으면 한국 떴다 \"원래 가수 은퇴할 계획\" ('윤주모') [순간포착]",
+              "url": "https://v.daum.net/v/20260705050905130"
+            },
+            {
+              "title": "‘23년 절친’ 진구 “가수 이정 덕분에 결혼”",
+              "url": "https://sports.donga.com/ent/article/all/20260703/134230302/1"
+            },
+            {
+              "title": "천록담, '사촌형' 이재훈 덕에 가수 생명 연장 \"군대 전역 후 하와이 이민가려 했다\" ('윤주모') [순간포착]",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/07/04/ME4WIZJYHBQTCZTDHA3WMNZXHA/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "nh농협은행",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "강경농협, ‘농심천심’ 정신으로 쌀 소비 촉진 선도",
+              "url": "https://m.joongdo.co.kr/view.php?key=20260703010001088"
+            },
+            {
+              "title": "농협은행의 끝없는 상생 행보… 바다 건너 울릉도에 울려 퍼진 ‘사랑의 쌀’ 메아리",
+              "url": "https://www.g-enews.com/article/General-News/2026/07/2026070316350320792f84f79c2_1"
+            },
+            {
+              "title": "거제해금강농협, 경로당 쌀 지원…우리쌀 소비촉진 앞장",
+              "url": "https://www.geojenews.co.kr/news/articleView.html?idxno=95420"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "강부자",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "“협박 피해 美 출국”…외신도 주목한 홍명보 행보",
+              "url": "https://www.donga.com/news/Inter/article/all/20260705/134236539/2"
+            },
+            {
+              "title": "축협 ‘늦장 사과’엔 \"운영 최우선\"…‘잇따른 실패’ 설명 없었다",
+              "url": "https://news.jtbc.co.kr/article/NB12306584"
+            },
+            {
+              "title": "첫 공식 사과한 축구협회 “기대와 다른 결과 진심으로 사과…질타 겸허히 들을 것”",
+              "url": "https://www.khan.co.kr/article/202607041504001"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "노홍철",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "166억 빌딩이 152억 되기까지…노홍철, 현금 2억 들고 강남 건물주 바꾼 계산법",
+              "url": "https://www.segye.com/newsView/20260610517108"
+            },
+            {
+              "title": "'흑백요리사2 우승' 최강록 \"과거에 스님 될 뻔 했다\"",
+              "url": "https://www.newsis.com/view/NISX20260704_0003695747"
+            },
+            {
+              "title": "최강록 “잠시 죽었다 생각”…영혼 탈곡 역대급 어트랙션 (놀러코스터)",
+              "url": "https://v.daum.net/v/20260705091751144"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "예금",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "[김윤섭의 Fin포인트] '4% 예금' 꺼낸 은행권…롤러코스피에 지친 '예테크족' 돌아올까",
+              "url": "https://v.daum.net/v/20260704090101949"
+            },
+            {
+              "title": "저축은행 '4%대 정기예금' 상품만 150개, 청년미래적금으로 확인된 종잣돈 수요 노린다",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441505"
+            },
+            {
+              "title": "“이럴 바엔 그냥 예금할까?” 저축은행 금리 4%대만 100개…‘머니무브’ 잡기 경쟁",
+              "url": "https://www.sedaily.com/article/20063349"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 3,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 68,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 21,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "katherine heigl",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Katherine Heigl Lists 25-Acre Estate in the Utah Mountains for $10.6 Million",
+              "url": "https://www.architecturaldigest.com/story/katherine-heigl-lists-25-acre-estate-in-the-utah-mountains"
+            },
+            {
+              "title": "Exclusive | Katherine Heigl Lists Her Longtime Utah Home for $10.6 Million",
+              "url": "https://www.wsj.com/real-estate/luxury-homes/katherine-heigl-utah-home-48c59db5"
+            },
+            {
+              "title": "Katherine Heigl just put her Utah home on the market — for $10.6 million",
+              "url": "https://www.deseret.com/entertainment/2026/07/01/katherine-heigl-puts-utah-home-on-market-is-she-leaving-utah/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "brandon woodruff",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Brandon Woodruff leaves start early again with apparent injury",
+              "url": "https://sports.yahoo.com/articles/brandon-woodruff-leaves-start-early-030851865.html"
+            },
+            {
+              "title": "Brewers' Brandon Woodruff: Exits game with trainer",
+              "url": "https://www.cbssports.com/fantasy/baseball/news/brewers-brandon-woodruff-exits-game-with-trainer/"
+            },
+            {
+              "title": "Brandon Woodruff leaves start early again with apparent injury",
+              "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/07/04/brandon-woodruff-leaves-start-early-again-with-apparent-injury/90809406007/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "austin riley",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Atlanta Braves Announce Austin Riley Decision Before Mets Series",
+              "url": "https://heavy.com/sports/mlb/atlanta-braves/announce-austin-riley-decision-before-mets-series/"
+            },
+            {
+              "title": "Jorge Mateo returns to lineup in Mets opener",
+              "url": "https://www.batterypower.com/atlanta-braves-game-information/134777/jorge-mateo-returns-to-lineup-in-mets-opener"
+            },
+            {
+              "title": "Jorge Mateo News: Back in lineup at shortstop",
+              "url": "https://www.rotowire.com/baseball/headlines/jorge-mateo-news-back-in-lineup-at-shortstop-1012628"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "fireworks phoenix",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Phoenix’s July 4 fireworks crackdown could leave violators paying up",
+              "url": "https://www.azfamily.com/2026/07/04/phoenixs-july-4-fireworks-crackdown-could-leave-violators-paying-up/"
+            },
+            {
+              "title": "They look great but most fireworks lighting AZ skies July 4 are illegal",
+              "url": "https://www.azcentral.com/story/news/local/arizona/2026/07/04/most-arizona-fireworks-this-fourth-of-july-will-be-illegal/90763679007/"
+            },
+            {
+              "title": "Phoenix firefighters remind residents of new fireworks restrictions, safety tips ahead of Fourth of July",
+              "url": "https://www.12news.com/article/news/local/arizona/phoenix-firefighters-remind-residents-of-new-fireworks-restrictions-ahead-of-fourth-of-july/75-c6b16f80-1b59-450e-8128-4006eb8ba0af"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "big bay boom",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "What time is the Big Bay Boom in San Diego?",
+              "url": "https://fox5sandiego.com/news/big-bay-boom/big-bay-boom-fireworks-san-diego-2026/"
+            },
+            {
+              "title": "Fourth of July in San Diego: A guide to fireworks, drone shows, parades and more",
+              "url": "https://www.nbcsandiego.com/news/local/fourth-of-july-san-diego-guide-fireworks-drone-shows/4044542/"
+            },
+            {
+              "title": "Fireworks, drone shows and parades: Here's where to celebrate the Fourth of July in San Diego County",
+              "url": "https://www.kpbs.org/news/arts-culture/2026/07/02/fourth-of-july-fireworks-drone-shows-parades-in-san-diego-county-2026"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "nascar",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Racing Insights: Will experience be key to Chicagoland success?",
+              "url": "https://www.nascar.com/news-media/2026/07/04/racing-insights-2026-chicagoland-speedway-projected-results/"
+            },
+            {
+              "title": "Michigan winner Denny Hamlin claims pole position at Chicagoland",
+              "url": "https://www.detroitnews.com/story/sports/other/2026/07/04/denny-hamlin-michigan-winner-claims-pole-position-at-chicagoland/90809114007/"
+            },
+            {
+              "title": "Denny Hamlin wins pole for NASCAR's return to Chicagoland Speedway",
+              "url": "https://www.espn.com/racing/story/_/id/49271084/denny-hamlin-wins-pole-nascar-return-chicagoland-speedway"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "rockies game today",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Leadoff HR and grand slam in same game? It's only been done 7 times EVER",
+              "url": "https://www.mlb.com/news/jake-mccarthy-hits-leadoff-homer-grand-slam-in-same-game"
+            },
+            {
+              "title": "Rockies 15-3 Giants (Jul 3, 2026) Game Recap",
+              "url": "https://www.espn.com/mlb/recap/_/gameId/401816009"
+            },
+            {
+              "title": "Rockies crush Giants 15-3 behind Jake McCarthy’s career night",
+              "url": "https://www.purplerow.com/colorado-rockies-scores-standings/24480539/rockies-crush-giants-15-3-behind-jake-mccarthy-career-night"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "mexico game tomorrow",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Sources: Mexico vs. England World Cup kickoff time unchanged after talks",
+              "url": "https://www.espn.com/soccer/story/_/id/49260497/mexico-vs-england-world-cup-clash-brought-forward-six-hours-sources"
+            },
+            {
+              "title": "World Cup Organizers Drop Plans to Reschedule England vs. Mexico Match",
+              "url": "https://www.wsj.com/sports/soccer/england-mexico-world-cup-storms-3a8bcaf3"
+            },
+            {
+              "title": "Mexico vs. England rescheduling talks centred on fan safety, security concerns - The Athletic",
+              "url": "https://www.nytimes.com/athletic/7420534/2026/07/03/england-mexico-kick-off-time-fifa/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "marina del rey fireworks",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Concerned residents protest Marina del Rey fireworks out of concern for wildlife",
+              "url": "https://www.cbsnews.com/losangeles/video/concerned-residents-protest-marina-del-rey-fireworks-out-of-concern-for-wildlife/"
+            },
+            {
+              "title": "Los Angeles Citizens Hold Protest to Demand Cancellation of July",
+              "url": "https://natlawreview.com/press-releases/los-angeles-citizens-hold-protest-demand-cancellation-july-4-fireworks"
+            },
+            {
+              "title": "Los Angeles drifts away from California New York Texas Florida Illinois Pennsylvania Washington Oregon Colorado Nevada Arizona Independence Day fireworks framework as environmental wildlife protection protests reshape July Fourth travel celebrations",
+              "url": "https://www.travelandtourworld.com/news/article/ajkcdfbbn5uh/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "fireworks las vegas",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Where to watch fireworks in Las Vegas on Fourth of July",
+              "url": "https://lasvegassun.com/news/2026/jul/03/where-to-watch-fireworks-in-las-vegas-on-fourth-of/"
+            },
+            {
+              "title": "Watch fireworks light up the Strip for America 250",
+              "url": "https://www.ktnv.com/news/watch-fireworks-light-up-the-strip-for-america-250"
+            },
+            {
+              "title": "‘It’s America all the way’: Las Vegas fireworks show to celebrate nation’s 250th birthday",
+              "url": "https://www.reviewjournal.com/business/casinos-gaming/its-america-all-the-way-las-vegas-fireworks-show-to-celebrate-nations-250th-birthday-3846211/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "home DIY",
+          "interest_avg": 49,
+          "interest_max": 84,
+          "interest_latest": 38,
+          "rank": 1
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 36,
+          "interest_max": 100,
+          "interest_latest": 27,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 19,
+          "interest_max": 75,
+          "interest_latest": 24,
+          "rank": 3
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 19,
+          "interest_max": 100,
+          "interest_latest": 13,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 1,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ブレーブス 対 メッツ",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "メッツ千賀滉大、２度目の救援登板でソロ本塁打を浴び２回2/3を２安打１失点（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/55f4ac5bf4a503db00f8d1b72a12911fda71af10"
+            },
+            {
+              "title": "千賀滉大は2試合連続のロングリリーフ起用 2イニング連続の三者凡退も…3イニング目は一発浴びるなどで途中降板",
+              "url": "https://article.auone.jp/detail/1/6/10/508_10_r_20260704_1783146788062727"
+            },
+            {
+              "title": "米大リーグ＝千賀、中継ぎで再出発　正念場も「楽しまないともったいない」｜四国新聞WEB朝刊",
+              "url": "https://www.shikoku-np.co.jp/dg/article.aspx?id=K2026070400000012900"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ショウナンガレオン",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "【函館・1R】3番人気ショウナンカノア、デビュー2戦目で初勝利 池添「手応え通りに伸びてくれました」（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/d07ab8721c6f43146ddfc112df00166651dd7d1c"
+            },
+            {
+              "title": "【函館１Ｒ・２歳未勝利】ゴール前鋭伸のショウナンカノアが初勝利 次走は馬の状態を最優先に函館２歳Ｓ参戦も視野",
+              "url": "https://sportsbull.jp/p/2366797/"
+            },
+            {
+              "title": "【今週の注目新馬】フライトライン産駒のショウナンガレオンは函館で入念乗り込み「現状の力は出せる態勢」",
+              "url": "https://topics.smt.docomo.ne.jp/article/tospokeiba/sports/tospokeiba-128087"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "宮崎県",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "週刊地震情報 2026.7.5 宮崎県で最大震度4の地震 岩手県沖の地震活動続く",
+              "url": "https://weathernews.jp/news/202607/050071/"
+            },
+            {
+              "title": "震度＝気象庁発表（４日７時２８分）震度順・市区町村別 ：地震",
+              "url": "https://www.saga-s.co.jp/articles/-/1742906"
+            },
+            {
+              "title": "【地震】宮崎県内で震度1 日向灘を震源とする最大震度1の地震が発生 津波の心配なし",
+              "url": "https://www.fnn.jp/articles/-/1070101"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "ドーピング",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "チュニジア代表8人がドーピング陽性 日本とも対戦…原因はメキシコ滞在中の「汚染された肉」か（FOOTBALL ZONE）",
+              "url": "https://news.yahoo.co.jp/articles/2ef916a4c23e9a25d079fc47fdc484a58bb59be6"
+            },
+            {
+              "title": "衝撃的事実：ワールドカップの対戦相手、オランダ代表選手がドーピング検査で陽性反応",
+              "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E8%A1%9D%E6%92%83%E7%9A%84%E4%BA%8B%E5%AE%9F-%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%88%E3%82%99%E3%82%AB%E3%83%83%E3%83%95%E3%82%9A%E3%81%AE%E5%AF%BE%E6%88%A6%E7%9B%B8%E6%89%8B-%E3%82%AA%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%99%E4%BB%A3%E8%A1%A8%E9%81%B8%E6%89%8B%E3%81%8B%E3%82%99%E3%83%88%E3%82%99%E3%83%BC%E3%83%92%E3%82%9A%E3%83%B3%E3%82%AF%E3%82%99%E6%A4%9C%E6%9F%BB%E3%81%A6%E3%82%99%E9%99%BD%E6%80%A7%E5%8F%8D%E5%BF%9C/blt26e5fbeb53bfb679"
+            },
+            {
+              "title": "チュニジア代表8選手がドーピング陽性、メキシコでの「汚染肉」が原因か… 追加処分の可能性は極めて低いと英紙が報じる",
+              "url": "https://www.chunichi.co.jp/article/1276438"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ブルーノマーズ",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "TBS若林有子アナが感涙 世界的アーティストと超高級ホテルで対面＆ハグ…「彼の音楽を聴き続けてきた」（オリコン）",
+              "url": "https://news.yahoo.co.jp/articles/a6a5153879d42901901c9f721b2fa0f531ffc2f6"
+            },
+            {
+              "title": "ブルーノ・マーズ『サンデー・ジャポン』で独占対面インタビューが放送決定",
+              "url": "https://www.thefirsttimes.jp/news/0000839613/"
+            },
+            {
+              "title": "現在ワールドツアー中の世界的人気歌手ブルーノ・マーズにドイツ・ベルリンにて独占対面インタビューに成功!『サンデー・ジャポン』",
+              "url": "https://topics.tbs.co.jp/article/detail/?id=22821"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "レッズ 対 オリオールズ",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "2026年7月4日（土） MLB レッズ vs オリオールズ 試合結果",
+              "url": "https://topics.smt.docomo.ne.jp/article/sdaa/sports/sdaa-sdaa.jp-article-68225"
+            },
+            {
+              "title": "2026年7月5日（日） MLB レッズ vs オリオールズ 試合結果",
+              "url": "https://sdaa.jp/article/68373"
+            },
+            {
+              "title": "2026年7月4日（土） MLB レッズ vs オリオールズ 試合結果 (2026年7月4日掲載)",
+              "url": "https://news.livedoor.com/topics/detail/31737669/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "アストロズ 対 レイズ",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "先月23日からスワンソンは「10試合で26打点」、カミネロは「10試合で10本塁打」。同時進行!?（宇根夏樹） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/69db6998d10c86ccab2ac68f83d12120060a233c"
+            },
+            {
+              "title": "レイズの若きスーパースター、カミネロが２戦連続の２６号　直近１１戦で１１本目",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260705-OHT1T51011"
+            },
+            {
+              "title": "2026年7月5日（日） MLB アストロズ vs レイズ 試合結果",
+              "url": "https://www.47news.jp/14576166.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "アスレチックス 対 マーリンズ",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "2026年7月4日（土） MLB エンゼルス vs Rソックス 試合結果",
+              "url": "https://article.auone.jp/detail/1/6/12/512_12_r_20260704_1783138847058509"
+            },
+            {
+              "title": "2026年7月5日（日） MLB ヤンキース vs ツインズ 試合結果",
+              "url": "https://topics.smt.docomo.ne.jp/article/sdaa/sports/sdaa-sdaa.jp-article-68355?fm=latestnews"
+            },
+            {
+              "title": "2026年7月4日（土） MLB アスレチックス vs マーリンズ 試合結果",
+              "url": "https://www.47news.jp/14572870.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "竜巻注意情報",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "高知県気象防災速報（竜巻注意） 第１号＝気象庁発表",
+              "url": "https://www.okinawatimes.co.jp/articles/-/1873981"
+            },
+            {
+              "title": "高知県気象解説情報（落雷・突風）（RKC高知放送）",
+              "url": "https://news.yahoo.co.jp/articles/744b6442fd113dd934e83048ab3466fe977233fa"
+            },
+            {
+              "title": "高知県気象解説情報（落雷・突風）",
+              "url": "https://article.auone.jp/detail/1/2/5/563_5_r_20260703_1783066302313547"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "mlb オールスター",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "ドジャースは大谷翔平、山本由伸ら５人が球宴選出　球団別最多タイ…ロバーツ監督が指揮、クラブハウスでセレブレーション実施",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260705-OHT1T51084"
+            },
+            {
+              "title": "山本由伸の快挙…直後に“登場”した1枚 LA放送の祝福、米共感「素晴らしいニュース」",
+              "url": "https://sportsbull.jp/p/2367520/"
+            },
+            {
+              "title": "大谷翔平、投手部門でオールスター選出ならず 3年ぶり偉業は無念…DH部門では両リーグ最多得票",
+              "url": "https://article.auone.jp/detail/1/6/10/375_10_r_20260705_1783209652686451"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 8,
+          "interest_max": 32,
+          "interest_latest": 11,
+          "rank": 1
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 6,
+          "interest_max": 45,
+          "interest_latest": 11,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 2,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 10,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-07-05T03:35:35.666942+00:00"
+}
