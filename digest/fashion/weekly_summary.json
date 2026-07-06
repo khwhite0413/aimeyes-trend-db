@@ -1,39 +1,42 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-06-29",
-    "to": "2026-07-05"
+    "from": "2026-06-30",
+    "to": "2026-07-06"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+14%",
-      "total_mentions": 155
-    },
-    {
-      "keyword": "#shorts",
-      "growth": "+25%",
-      "total_mentions": 88
-    },
-    {
-      "keyword": "ootd",
-      "growth": "+22%",
-      "total_mentions": 54
-    },
-    {
-      "keyword": "#ootd",
-      "growth": "+11%",
-      "total_mentions": 50
+      "growth": "+4%",
+      "total_mentions": 161
     },
     {
       "keyword": "trends",
-      "growth": "+167%",
-      "total_mentions": 48
+      "growth": "+50%",
+      "total_mentions": 54
+    },
+    {
+      "keyword": "summer",
+      "growth": "+125%",
+      "total_mentions": 49
+    },
+    {
+      "keyword": "플리츠원피스",
+      "growth": "+60%",
+      "total_mentions": 45
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "티셔츠",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "자라",
       "platforms": [
@@ -59,14 +62,6 @@
       "count": 2
     },
     {
-      "keyword": "티셔츠",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
       "keyword": "데이트",
       "platforms": [
         "google_trends",
@@ -77,10 +72,10 @@
   ],
   "naver_shopping_hot": [
     "원피스",
-    "여름원피스",
     "블라우스",
-    "티셔츠",
-    "여름가디건"
+    "여름원피스",
+    "여름가디건",
+    "여름블라우스"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -90,8 +85,8 @@
     "블라우스",
     "티셔츠",
     "여름블라우스",
-    "#fashion",
     "여름가디건",
-    "여름"
+    "#fashion",
+    "style"
   ]
 }

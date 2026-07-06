@@ -1,0 +1,968 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "벤투 감독",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "벤투, 대표팀 감독직 지원설? 축구협회 \"사실 아냐\"",
+              "url": "https://www.news1.kr/sports/soccer/6218611"
+            },
+            {
+              "title": "“내국인 감독 성적 내야 기득권 유지”… 축구계 카르텔이 홍명보만 바라본 이유",
+              "url": "http://weekly.chosun.com/news/articleView.html?idxno=53133"
+            },
+            {
+              "title": "'벤버지' 다시 오나…벤투, 한국 대표팀 감독 후보로 급부상 [스포PICK]",
+              "url": "https://www.metroseoul.co.kr/article/20260706500059"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "국민연금",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "[단독]국민연금 ‘삼전닉스 매도 폭탄’ 막는다…與 리밸런싱 한시유예 추진",
+              "url": "https://v.daum.net/v/20260706114118537"
+            },
+            {
+              "title": "국민연금, IT·뷰티 담고 코스닥 소부장·바이오 덜었다",
+              "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165146"
+            },
+            {
+              "title": "[안동현의 금융과 경제] 국민연금과 고주가, 고환율, 고금리",
+              "url": "https://www.mk.co.kr/news/contributors/12090679"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "김진수",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "'A매치 74경기 베테랑' 김진수의 대표팀 조언 \"선수들은 감독이 원하는 축구 위해 노력해야...그게 전부\" [오!쎈 현장]",
+              "url": "https://www.chosun.com/sports/football/2026/07/06/GMYTGOJRMYYTCMRQMIZWMNBTGE/"
+            },
+            {
+              "title": "설영우-이태석 향한 비난에...선배 김진수 입 열었다 \"이번 계기로 더 좋은 선수 될 것\" [SPO 현장]",
+              "url": "https://v.daum.net/v/20260706073800575"
+            },
+            {
+              "title": "김진수 \"손흥민·이재성, 선발 못 뛰었다고 꿍할 선수 아냐\"…불화설 일축",
+              "url": "https://www.news1.kr/sports/soccer/6218744"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "england mexico",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "México - Inglaterra en directo: ¡comienza el partido! | Octavos de final del Mundial hoy en vivo",
+              "url": "https://www.marca.com/futbol/mundial/mexico-inglaterra/2026/07/06/01_0117_20260706_659_114-directo.html"
+            },
+            {
+              "title": "(VIDEO) Las lágrimas de Memo Ochoa tras la eliminación de México del Mundial",
+              "url": "https://onefootball.com/fr/news/video-las-lagrimas-de-memo-ochoa-tras-la-eliminacion-de-mexico-del-mundial-43101821"
+            },
+            {
+              "title": "🤯 Bellingham, histórico: ¡la estrella inglesa alcanza a Maradona!",
+              "url": "https://es-us.noticias.yahoo.com/deportes/bellingham-hist%C3%B3rico-estrella-inglesa-alcanza-020200783.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "한국항공우주산업",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "KARI Proposes Infrared Satellite Constellation to Boost Space Economy and Security",
+              "url": "https://www.dongascience.com/en/news/78747"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "입건",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "지하철 좌석 시비에 승객 2명 폭행한 50대 입건",
+              "url": "https://v.daum.net/v/20260706102505148"
+            },
+            {
+              "title": "지하철 자리 못 앉자 다른 승객들 폭행…50대 남성 입건",
+              "url": "https://www.yonhapnewstv.co.kr/news/AKR20260706111831Unn"
+            },
+            {
+              "title": "인천지하철 자리다툼 중 여성 승객 발로 때린 50대",
+              "url": "https://www.news1.kr/local/incheon/6218718"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "리얼미터",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "‘지방 투자’ 카드 통했나… 李대통령 지지율 7주 만에 소폭 반등 47.0%[리얼미터]",
+              "url": "https://v.daum.net/v/20260706091518528"
+            },
+            {
+              "title": "이 대통령 지지도, 7주 만에 소폭 반등한 47%‥\"3대 메가프로젝트 긍정 신호\"",
+              "url": "https://imnews.imbc.com/news/2026/politics/article/6835245_36911.html"
+            },
+            {
+              "title": "[속보]李긍정47%·부정49.2%…민주43%·국힘40.3%-리얼미터",
+              "url": "https://www.munhwa.com/article/11600483"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "잉글랜드 축구 국가대표팀",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "잉글랜드 대표팀, 출전수당 모두 기부 20년째…축구 종주국의 ‘프라이드’ [아하 월드컵]",
+              "url": "https://www.hani.co.kr/arti/sports/sportstemp/worldcup/1266682.html"
+            },
+            {
+              "title": "[뉴스 조각들] 한국은 탈락한 3경기 8천만 원 수당...20년째 수당 전액 기부하는 잉글랜드",
+              "url": "https://www.e-sejong.co.kr/news/articleView.html?idxno=14021"
+            },
+            {
+              "title": "잉글랜드의 월드컵 여정: 우승이라는 꿈을 이룬 대가로 역대 최고액인 1,500만 파운드의 보너스를 받았습니다.",
+              "url": "https://www.vietnam.vn/ko/dt-anh-va-chien-dich-world-cup-khoan-thuong-ky-luc-15-trieu-bang-cho-giac-mo-vo-dich"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "앤서니 고든",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "England 2-1 Congo DR (Jul 1, 2026) Game Analysis",
+              "url": "https://www.espn.com/soccer/report/_/gameId/760495"
+            },
+            {
+              "title": "The Harry Kane image that perfectly depicts the emotion of sport: ‘It was like releasing a pressure valve’ - The Athletic",
+              "url": "https://www.nytimes.com/athletic/7417544/2026/07/03/harry-kane-world-cup-soccer/"
+            },
+            {
+              "title": "How Harry Kane’s Incredible Goalscoring Compares to Lionel Messi’s Record-Breaking Season",
+              "url": "https://www.si.com/soccer/how-harry-kane-goalscoring-compares-lionel-messi-record-breaking-season"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "자영업",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'5년 이상 버티다 폐업' 최다…20년 넘은 음식점도 사라져",
+              "url": "https://v.daum.net/v/20260706055309790"
+            },
+            {
+              "title": "서비스업 4% 늘 때 숙박·음식점 제자리…고물가·빚 부담에 자영업 몸살",
+              "url": "https://www.news1.kr/economy/trend/6218461"
+            },
+            {
+              "title": "벼랑끝 자영업자…`5년 이상 버티다 문 닫은 사업자` 역대 최다",
+              "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260706.99099001342"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 60,
+          "interest_max": 100,
+          "interest_latest": 61,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 7,
+          "interest_max": 22,
+          "interest_latest": 11,
+          "rank": 2
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 38,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 36,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "who is still in the world cup",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
+              "url": "https://www.espn.com/soccer/story/_/id/49251656/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france"
+            },
+            {
+              "title": "FIFA World Cup 2026 Power Rankings: France seem unbeatable, Cabo Verde valiant in defeat to Argentina",
+              "url": "https://www.cbssports.com/soccer/news/fifa-world-cup-2026-power-rankings-france-cabo-verde-argentina/"
+            },
+            {
+              "title": "World Cup Round of 16 power rankings: Where do USA and Mexico stack up?",
+              "url": "https://sports.yahoo.com/soccer/article/world-cup-round-of-16-power-rankings-where-do-usa-and-mexico-stack-up-050651465.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "did mexico lose",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Azteca Stadium altitude: How high Mexico's World Cup arena is above sea level, and why it matters",
+              "url": "https://sports.yahoo.com/articles/azteca-stadium-altitude-high-mexicos-163034225.html"
+            },
+            {
+              "title": "What is the elevation of Azteca Stadium? Why England cares",
+              "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/05/mexico-city-stadium-altitude-could-test-england-at-azteca/90816458007/"
+            },
+            {
+              "title": "How High Is Estadio Azteca in Mexico City? The Altitude Challenge Facing England",
+              "url": "https://athlonsports.com/soccer/how-high-is-estadio-azteca-in-mexico-city-altitude-england"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "2030 world cup",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Tearful Neymar: Brazil career 'over' after World Cup exit to Norway",
+              "url": "https://www.espn.com/soccer/story/_/id/49281072/neymar-brazil-retires-world-cup-2026-exit-norway"
+            },
+            {
+              "title": "Neymar quits international football after Brazil’s World Cup knockout loss",
+              "url": "https://www.aljazeera.com/sports/2026/7/6/neymar-quits-international-football-after-brazils-world-cup-knockout-loss"
+            },
+            {
+              "title": "Brazil Star Neymar Announces International Retirement: 'It Is Now Over'",
+              "url": "https://www.foxsports.com/stories/soccer/brazil-star-neymar-announces-international-retirement-it-now-over"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "ochoa",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "¿Por qué no juega Guillermo “Memo” Ochoa en México vs. Inglaterra por el Mundial 2026?",
+              "url": "https://bolavip.com/mx/mundial/por-que-no-juega-guillermo-memo-ochoa-en-mexico-vs-inglaterra-por-el-mundial-2026"
+            },
+            {
+              "title": "Karla Mora, la modelo y esposa de Guillermo Ochoa, arquero de México en el Mundial 2026",
+              "url": "https://www.clarin.com/internacional/karla-mora-modelo-esposa-guillermo-ochoa-arquero-mexico-mundial-2026_0_JN49UnHYXO.html"
+            },
+            {
+              "title": "¿Quién es Karla Mora? La mujer que conquistó a ‘don’ Memo Ochoa",
+              "url": "https://www.excelsior.com.mx/espectaculos/quien-es-karla-mora-mujer-que-conquisto-don-memo-ochoa"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "fifa games tomorrow",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "2026 FIFA World Cup Livestream: How to Watch Today's Matches, Even for Free",
+              "url": "https://www.pcmag.com/how-to/how-to-watch-2026-fifa-world-cup-games-live-stream-for-free-july-5"
+            },
+            {
+              "title": "How to watch World Cup free today, free stream France vs. Paraguay",
+              "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/04/how-to-watch-world-cup-free-today-canada-vs-morocco-free-stream/90795227007/"
+            },
+            {
+              "title": "Best VPN for Streaming World Cup: Tested on July 1st.",
+              "url": "https://cybernews.com/best-vpn/best-vpn-for-world-cup-2026/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "who won",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "NASCAR points standings after Chicago: Chase Elliott up to fifth; Byron up into top 12",
+              "url": "https://www.hendrickmotorsports.com/news/2026/july/05/nascar-points-standings-after-chicagoland-chase-elliott-william-byron-kyle-blarson"
+            },
+            {
+              "title": "Chase Briscoe jumps ahead for Chicagoland lead",
+              "url": "https://www.nascar.com/videos/franchise/nascar-cup-series-highlights/chase-briscoe-jumps-ahead-for-chicagoland-lead/"
+            },
+            {
+              "title": "Chase Briscoe wins in NASCAR return to Chicagoland Speedway",
+              "url": "https://www.espn.com/racing/nascar/story/_/id/49282599/chase-briscoe-wins-nascar-return-chicagoland-speedway"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "quien gano el partido de hoy",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Llamado de atención para el campeón: Cabo Verde expone la peor cara de Argentina en el Mundial",
+              "url": "https://www.greenwichtime.com/sports/article/llamado-de-atenci-n-para-el-campe-n-cabo-verde-22332533.php"
+            },
+            {
+              "title": "El adiós a Cabo Verde, el humilde equipo liderado por Vozinha que el Mundial jamás olvidará",
+              "url": "https://www.bbc.com/mundo/articles/c7vy98646pmo"
+            },
+            {
+              "title": "Argentina sufre lo indecible para someter 3-2 a Cabo Verde en los 16vos de final del Mundial",
+              "url": "https://spectrumlocalnews.com/tx/san-antonio/noticias/2026/07/04/3-2--argentina-ser--rival-de-egipto-en-octavos"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "santiago gimenez",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Mal y de malas, Santiago Gimenez se rompe en el último suspiro y México termina con 10 hombres ante Inglaterra",
+              "url": "https://www.clarosports.com/futbol/mundial-2026/mal-y-de-malas-santiago-gimenez-se-rompe-en-el-ultimo-suspiro-y-mexico-termina-con-10-hombres-ante-inglaterra/"
+            },
+            {
+              "title": "¿Qué le pasó a Santi Giménez y por qué México terminó jugando con 10 ante Inglaterra?",
+              "url": "https://www.365scores.com/es/news/santi-gimenez-mexico-vs-inglaterra/"
+            },
+            {
+              "title": "Santi Giménez, desolado: volvió a lesionarse el tobillo derecho durante la eliminación de México ante Inglaterra en el Mundial 2026",
+              "url": "https://www.ole.us/mundial/mundial-2026/santi-gimenez-desolado-volvio-a-lesionarse-el-tobillo-derecho-durante-la-eliminacion-de-mexico-ante-inglaterra-en-el-mundial-2026_0_xQO8KJqXzs.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "colombia vs switzerland",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Brazil 1-2 Norway (Jul 5, 2026) Final Score",
+              "url": "https://www.espn.com/soccer/match/_/gameId/760504/norway-brazil"
+            },
+            {
+              "title": "Lakers 93-91 Heat (Jul 5, 2026) Final Score",
+              "url": "https://www.espn.com/nba-summer-league/game/_/gameId/401881935/league/nba-summer-california/heat-lakers"
+            },
+            {
+              "title": "Nets 89-69 Bucks (Jul 5, 2026) Final Score",
+              "url": "https://www.espn.com/nba-summer-league/game/_/gameId/401881929/league/nba-summer-california/nets-bucks"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "copa america",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "La dureza de los hechos: Las copas se quedan en Norteamérica",
+              "url": "https://www.encancha.cl/tribuna-andes/opinion/2026/06/30/la-dureza-de-los-hechos-las-copas-se-quedan-en-norteamerica/"
+            },
+            {
+              "title": "¿Fin de la rotación? Presidente de la Conmebol responde a la idea de una Copa América permanente en Estados Unidos",
+              "url": "https://www.adnradio.cl/2026/06/30/fin-de-la-rotacion-presidente-de-la-conmebol-responde-a-la-idea-de-una-copa-america-permanente-en-estados-unidos/"
+            },
+            {
+              "title": "Domínguez lo reconoce en pleno Mundial: Conmebol evalúa trasladar la Copa América de forma permanente a Estados Unidos",
+              "url": "https://www.latercera.com/el-deportivo/noticia/dominguez-lo-reconoce-en-pleno-mundial-conmebol-evalua-trasladar-la-copa-america-de-forma-permanente-a-estados-unidos/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 38,
+          "interest_max": 87,
+          "interest_latest": 40,
+          "rank": 1
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 29,
+          "interest_max": 81,
+          "interest_latest": 33,
+          "rank": 2
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 27,
+          "interest_max": 100,
+          "interest_latest": 27,
+          "rank": 3
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 23,
+          "interest_max": 74,
+          "interest_latest": 21,
+          "rank": 4
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 19,
+          "interest_max": 75,
+          "interest_latest": 18,
+          "rank": 5
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 19,
+          "interest_max": 82,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 11,
+          "interest_max": 100,
+          "interest_latest": 4,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 4,
+          "interest_max": 26,
+          "interest_latest": 7,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 3,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 9,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "bottega veneta",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "strathberry",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury bags",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "polene",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury brands for men",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "dear coquette",
+          "value": "400"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette boston menu",
+          "value": "200"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette garden city",
+          "value": "200"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "sophie woodhouse coquette habit",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette d5",
+          "value": "90"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "大谷翔平",
+          "traffic": "50000+",
+          "related_news": [
+            {
+              "title": "大谷翔平、32歳誕生日タイムリー 右腕の違和感から復帰→1安打1打点…ド軍は惜敗（Full-Count）",
+              "url": "https://news.yahoo.co.jp/articles/84a294dec41127324f79abedcdf54396e2495d56"
+            },
+            {
+              "title": "３２歳になったドジャース大谷翔平、２試合ぶり出場で適時打…ロバーツ監督「違和感は残っていない」",
+              "url": "https://www.yomiuri.co.jp/sports/mlb/20260706-GYT1T00196/"
+            },
+            {
+              "title": "パドレス戦の7回、適時打を放ちポーズをとるドジャース・大谷＝ロサンゼルス（共同） - 復帰の大谷が適時打 松井無失点、鈴木ら無安打 - 写真・画像(1/1)",
+              "url": "https://www.nishinippon.co.jp/image/1057551/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "薬丸裕英",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "薬丸裕英 妻・石川秀美と日帰り旅行で“ひょっこり”2ショット披露！那須塩原で“お目当て”の絶品グルメを夫婦で堪能＆完食",
+              "url": "https://mezamashi.media/articles/gallery/316986"
+            },
+            {
+              "title": "薬丸裕英 妻・石川秀美と日帰り旅行で“ひょっこり”2ショット披露!那須塩原で“お目当て”の絶品グルメを夫婦で堪能＆完食",
+              "url": "https://news.yahoo.co.jp/articles/c03dc2883102784f61c69abd43559e3c40670cb5"
+            },
+            {
+              "title": "薬丸裕英、妻・石川秀美さんと「ナポリタン」目当てに日帰り旅行へ 夫婦でシェアした洋食メニューの数々を披露 今年で結婚36周年",
+              "url": "https://www.oricon.co.jp/news/2465590/full/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ウリ信用組合",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "資料をシュレッダー、外で隠蔽 金融庁、ウリ信組元役員ら刑事告発へ",
+              "url": "https://news.yahoo.co.jp/pickup/6586911"
+            },
+            {
+              "title": "資料をシュレッダー、外で隠蔽 金融庁、ウリ信組元役員ら刑事告発へ",
+              "url": "https://www.asahi.com/articles/ASV7321L8V73ULFA01LM.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "大関",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "先場所V若隆景 名古屋場所休場へ",
+              "url": "https://news.yahoo.co.jp/pickup/6586917"
+            },
+            {
+              "title": "相撲:夏場所覇者の若隆景、名古屋場所休場へ 左脚手術し入院",
+              "url": "https://www.nikkei.com/article/DGXZQOKC0626H0W6A700C2000000/"
+            },
+            {
+              "title": "夏場所V関脇・若隆景、名古屋場所休場へ　コンパートメント症候群で手術　師匠の荒汐親方「治療に専念」",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260706-0177"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "jarell quansah",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "World Cup 2026: Penalty? Red card? Why were they given against England?",
+              "url": "https://www.bbc.com/sport/football/articles/cq6115rj9ymo"
+            },
+            {
+              "title": "Jarell Quansah’s red card challenge sparks furious ’30-man brawl’ in fiery England clash",
+              "url": "https://talksport.com/football/world-cup/4393404/jarell-quansah-red-card-30-man-scrap-england-mexico/"
+            },
+            {
+              "title": "Door Swings Wide Open for El Tri! England Down to 10 Men After Quansah’s Red Card",
+              "url": "https://www.soyfutbol.com/en/news/door-swings-wide-open-for-el-tri-england-down-to-10-men-after-quansahs-red-card-20260705-0061.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "ポール・ガーベイス",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "ド軍が投手入れ替えを発表、208cm右腕が昇格 前夜7失点の30歳が1日でマイナー降格",
+              "url": "https://article.auone.jp/detail/1/6/10/375_10_r_20260703_1783027832750253"
+            },
+            {
+              "title": "「3者連続三振も…」ドジャース、昇格投手がわずか1日でDFAに 米メディア「フィリップスがリハビリを終え」",
+              "url": "https://news.yahoo.co.jp/articles/8d2cdc1b32901b2da7637d78463333a4a65ac26a"
+            },
+            {
+              "title": "ド軍が29歳剛腕をマイナー降格　“戦力外”から3日後…獲得希望球団が現れず",
+              "url": "https://topics.smt.docomo.ne.jp/article/fullcount/sports/fullcount-1984759"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "現金預金",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "ゆうちょ銀行の定額貯金に500万円「親戚も友人も投資で大損」現金9割・41歳男性の選択",
+              "url": "https://allabout.co.jp/gm/gc/520319/"
+            },
+            {
+              "title": "貯金1200万円のうち500万円を定期預金に「家族を不安にさせたくない」42歳男性の資金運用",
+              "url": "https://topics.smt.docomo.ne.jp/article/allabout/life/allabout-158599?page=2"
+            },
+            {
+              "title": "貯金1200万円のうち500万円を定期預金に「家族を不安にさせたくない」42歳男性の資金運用",
+              "url": "https://article.auone.jp/detail/1/3/6/27_6_r_20260704_1783113661771075"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "大阪都構想",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "高市氏の「おわびとお願い」 都構想実現へ、もがれた「両翼」",
+              "url": "https://mainichi.jp/articles/20260705/k00/00m/010/113000c"
+            },
+            {
+              "title": "都構想「大阪市廃止の動きに現実味」進む維新の制度案作り、公明党市議団が問題点の発信を本格化…対話集会開催へ",
+              "url": "https://news.yahoo.co.jp/articles/4eeb0f555654753a4505c62713fb78dd69572640"
+            },
+            {
+              "title": "大阪都構想とは（今さら聞けない 日本政治の超基本）",
+              "url": "https://www.asahi.com/articles/ASV5K0511V5KDIFI020M.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "バンダイチャンネル",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "【速報】「バンダイチャンネル」にサイバー攻撃か 少年(15)逮捕 生成AI「ChatGPT」でプログラム作成 会員を退会処理し全サービスを一時的に停止に 警視庁 | TBS NEWS DIG",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2781667"
+            },
+            {
+              "title": "バンダイチャンネル攻撃の男子生徒「企業に恨みはない」、趣味の通信解析中に「偶然会員情報が見えた」（読売新聞オンライン）",
+              "url": "https://news.yahoo.co.jp/articles/189b2323ab341971d6bb6df933352d8eac24c6ee"
+            },
+            {
+              "title": "バンダイチャンネル4万人退会操作か、高1男子逮捕 AI使いサイバー攻撃",
+              "url": "https://www.nikkei.com/article/DGXZQOUD0378Z0T00C26A7000000/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "england mexico",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "México - Inglaterra en directo: ¡comienza el partido! | Octavos de final del Mundial hoy en vivo",
+              "url": "https://www.marca.com/futbol/mundial/mexico-inglaterra/2026/07/06/01_0117_20260706_659_114-directo.html"
+            },
+            {
+              "title": "Inglaterra sobrevive al caos y elimina a México en el último partido en el Azteca",
+              "url": "https://www.rtve.es/deportes/20260706/mundial-2026-mexico-inglaterra-directo-resumen-resultado/17140759.shtml"
+            },
+            {
+              "title": "Edson Álvarez: “Duele muchísimo porque somos una familia”",
+              "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/edson-alvarez-duele-muchisimo-porque-somos-una-familia-tmvo13200799"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 41,
+          "interest_max": 100,
+          "interest_latest": 29,
+          "rank": 1
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 36,
+          "interest_max": 100,
+          "interest_latest": 30,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 33,
+          "interest_max": 100,
+          "interest_latest": 48,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 18,
+          "interest_max": 90,
+          "interest_latest": 25,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 12,
+          "interest_max": 58,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 11,
+          "interest_max": 56,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 60,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 1,
+          "interest_max": 28,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 49,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 21,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファスト ファッション",
+          "value": "400"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション 通販 おすすめ",
+          "value": "400"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 アイドル 空港 ファッション",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 系 ファッション レディース",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "女性 ファッション",
+          "value": "70"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-07-06T03:40:31.823873+00:00"
+}
