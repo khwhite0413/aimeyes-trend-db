@@ -9,8 +9,18 @@
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+11%",
-      "total_mentions": 155
+      "growth": "+21%",
+      "total_mentions": 157
+    },
+    {
+      "keyword": "블라우스",
+      "growth": "+8%",
+      "total_mentions": 85
+    },
+    {
+      "keyword": "#fashion",
+      "growth": "+10%",
+      "total_mentions": 70
     },
     {
       "keyword": "ootd",
@@ -18,24 +28,14 @@
       "total_mentions": 51
     },
     {
-      "keyword": "outfit",
-      "growth": "+200%",
-      "total_mentions": 49
-    },
-    {
       "keyword": "플리츠원피스",
       "growth": "+50%",
       "total_mentions": 49
-    },
-    {
-      "keyword": "#ootd",
-      "growth": "+125%",
-      "total_mentions": 48
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "티셔츠",
+      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
@@ -43,10 +43,10 @@
       "count": 2
     },
     {
-      "keyword": "사이드카",
+      "keyword": "티셔츠",
       "platforms": [
-        "google_trends",
-        "x_twitter"
+        "naver",
+        "youtube"
       ],
       "count": 2
     },

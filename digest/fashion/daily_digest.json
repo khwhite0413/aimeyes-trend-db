@@ -2,21 +2,44 @@
   "date": "2026-07-07",
   "mode": "fashion",
   "compared_to": "2026-07-06",
-  "total_keywords_today": 460,
+  "total_keywords_today": 470,
   "total_keywords_yesterday": 485,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
+      "keyword": "블라우스",
+      "change": "+8%",
+      "today_count": 13,
+      "yesterday_count": 12,
+      "confidence": "high",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "sample_note": "오늘 13건, 어제 12건 기준"
+    },
+    {
+      "keyword": "#fashion",
+      "change": "+10%",
+      "today_count": 11,
+      "yesterday_count": 10,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 11건, 어제 10건 기준"
+    },
+    {
       "keyword": "outfit",
-      "change": "+33%",
-      "today_count": 12,
+      "change": "+22%",
+      "today_count": 11,
       "yesterday_count": 9,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 12건, 어제 9건 기준"
+      "sample_note": "오늘 11건, 어제 9건 기준"
     },
     {
       "keyword": "#ootd",
@@ -52,26 +75,15 @@
       "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
-      "keyword": "amp",
-      "change": "+75%",
-      "today_count": 7,
-      "yesterday_count": 4,
+      "keyword": "street",
+      "change": "+14%",
+      "today_count": 8,
+      "yesterday_count": 7,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 7건, 어제 4건 기준"
-    },
-    {
-      "keyword": "코디",
-      "change": "+40%",
-      "today_count": 7,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 5건 기준"
+      "sample_note": "오늘 8건, 어제 7건 기준"
     },
     {
       "keyword": "에고이스트",
@@ -83,6 +95,28 @@
         "naver"
       ],
       "sample_note": "오늘 7건, 어제 6건 기준"
+    },
+    {
+      "keyword": "amp",
+      "change": "+50%",
+      "today_count": 6,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 4건 기준"
+    },
+    {
+      "keyword": "코디",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
       "keyword": "바다",
@@ -107,26 +141,15 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
-      "keyword": "#ファッション",
-      "change": "+25%",
+      "keyword": "ideas",
+      "change": "+67%",
       "today_count": 5,
-      "yesterday_count": 4,
+      "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "ファッション",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
+      "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
       "keyword": "잇미샤원피스",
@@ -184,17 +207,6 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "ideas",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
       "keyword": "july",
       "change": "+200%",
       "today_count": 3,
@@ -206,18 +218,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "timeless",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#룩북",
+      "keyword": "women",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -231,22 +232,22 @@
   "declining": [
     {
       "keyword": "fashion",
-      "change": "-19%",
-      "today_count": 21,
+      "change": "-12%",
+      "today_count": 23,
       "yesterday_count": 26,
       "confidence": "high"
     },
     {
       "keyword": "style",
-      "change": "-30%",
-      "today_count": 7,
+      "change": "-10%",
+      "today_count": 9,
       "yesterday_count": 10,
       "confidence": "medium"
     },
     {
       "keyword": "#shorts",
-      "change": "-22%",
-      "today_count": 7,
+      "change": "-11%",
+      "today_count": 8,
       "yesterday_count": 9,
       "confidence": "medium"
     },
@@ -259,10 +260,10 @@
     },
     {
       "keyword": "summer",
-      "change": "-50%",
-      "today_count": 4,
+      "change": "-12%",
+      "today_count": 7,
       "yesterday_count": 8,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "keyword": "haul",
@@ -270,13 +271,6 @@
       "today_count": 4,
       "yesterday_count": 8,
       "confidence": "low"
-    },
-    {
-      "keyword": "outfits",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
-      "confidence": "medium"
     },
     {
       "keyword": "자라",
@@ -298,10 +292,26 @@
       "today_count": 5,
       "yesterday_count": 6,
       "confidence": "medium"
+    },
+    {
+      "keyword": "여름",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
     }
   ],
   "new_entries": [],
   "cross_platform_hot": [
+    {
+      "keyword": "블라우스",
+      "platform_count": 2,
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "total_count": 13
+    },
     {
       "keyword": "티셔츠",
       "platform_count": 2,
@@ -310,15 +320,6 @@
         "youtube"
       ],
       "total_count": 12
-    },
-    {
-      "keyword": "사이드카",
-      "platform_count": 2,
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "total_count": 2
     }
   ]
 }
