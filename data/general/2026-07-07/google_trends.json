@@ -1,0 +1,737 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "사이드카",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "코스피, 5% 급락에 매도사이드카 발동…삼성전자 7% 급락",
+              "url": "https://www.khan.co.kr/article/202607071036001"
+            },
+            {
+              "title": "삼전닉스 7%대 동반하락, 코스피도 휘청 - 머니투데이",
+              "url": "https://www.mt.co.kr/stock/2026/07/07/2026070712182544893"
+            },
+            {
+              "title": "이 시각 주요 뉴스",
+              "url": "https://biz.sbs.co.kr/article/20000321079"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "세종문화회관",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "배우 숨 가쁘게 오가는 곳…세종문화회관 무대 뒤 또다른 풍경",
+              "url": "https://v.daum.net/v/20260707000314789"
+            },
+            {
+              "title": "최태지가 들려주는 발레…'백조의 호수' 등 명장면 한 무대에",
+              "url": "https://www.newsis.com/view/NISX20260707_0003698501"
+            },
+            {
+              "title": "무대 뒤를 공개합니다…극장 숨은 공간이 콘텐츠가 되다",
+              "url": "https://news.nate.com/view/20260705n04826"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "집단 소송",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "전분당 업체 과징금 1.2조 더 맞나…입찰·부산물 담합까지",
+              "url": "https://www.yna.co.kr/view/AKR20260707078700002"
+            },
+            {
+              "title": "전분당 입찰담합·부산물 가격담합 사건 심의 절차 개시",
+              "url": "https://go.seoul.co.kr/news/prnewsView.php?id=435801"
+            },
+            {
+              "title": "공정위, 대상·사조·삼양·CJ에 ‘담합 사건 역대 최고액’ 과징금 7476억 부과",
+              "url": "https://www.khan.co.kr/article/202607071200021"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "보조금",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "보조금 끊기자 \"직접 쏘겠다\"…파격 승부수 내건 '전기車'",
+              "url": "https://www.hankyung.com/article/202607068304g"
+            },
+            {
+              "title": "테슬라코리아, 전국서 대규모 채용…가격 인상에도 한국 공략 강화",
+              "url": "https://v.daum.net/v/1lzFoUJ6Cw"
+            },
+            {
+              "title": "보조금 끊긴 BYD, 3천만원대 'PHEV'로 역습…하이브리드 시장 흔들까",
+              "url": "https://www.newsis.com/view/NISX20260706_0003697750"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "심혜진",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'심혜진 훈남 조카' 심재원 \"父 미국인, 군대 다녀왔다\"",
+              "url": "https://v.daum.net/v/qsAgn4Eolz"
+            },
+            {
+              "title": "'사랑꾼' 심혜진 조카 심재원, 훈훈 비주얼…\"母 돌아가시고 아들처럼 키워\"",
+              "url": "https://www.news1.kr/entertain/broadcast-tv/6219661"
+            },
+            {
+              "title": "‘심혜진 조카’ 심재원 “미국인 혼혈…군대? 포병 만기 제대” - 스타투데이",
+              "url": "https://www.mk.co.kr/news/broadcasting-service/12091985"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "제주항공",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "상반기 다이소에서 가장 많이 빨린 제품 best 3",
+              "url": "http://topclass.chosun.com/news/articleView.html?idxno=36489"
+            },
+            {
+              "title": "다이소몰, 3만원 이상 구매 고객 대상 제주항공 항공권 추첨 이벤트",
+              "url": "https://www.etnews.com/20260707000086"
+            },
+            {
+              "title": "청소템부터 뷰티·스포츠템까지…다이소, 상반기 인기상품 리포트",
+              "url": "https://www.newsis.com/view/NISX20260706_0003696833"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "닉쿤",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "'38세' 닉쿤, 살찐 모습에 셀프 충격…\"3일간 계란 3개만 먹어\" - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/07/07/2026070703531430882"
+            },
+            {
+              "title": "옥택연 \"2PM 멤버 결혼 못 할 듯\" 준케이 전여친 결혼 일화 공개",
+              "url": "https://www.newsis.com/view/NISX20260707_0003698316"
+            },
+            {
+              "title": "2PM 택연 \"'찢택연' 당시 방송 심의 규정 없어 자유롭게 노출\" ('아근진') [순간포착]",
+              "url": "https://v.daum.net/v/20260707064617221"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "나이스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "적정가치, 나이스정보통신에서 64% 수익 기회 포착",
+              "url": "https://kr.investing.com/news/investment-ideas/article-93CH-2005792"
+            },
+            {
+              "title": "InvestingPro 적정가치, 이김영 주식 50% 수익률 적중 By Investing.com",
+              "url": "https://kr.investing.com/news/investment-ideas/article-93CH-2005100"
+            },
+            {
+              "title": "코스맥스 BTI, 인베스팅프로 적정가치 분석 후 51% 급등",
+              "url": "https://kr.investing.com/news/investment-ideas/article-93CH-2005035"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "최용수",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "최용수 \"사조직 같은 축구협회, 누구나 오가는 '축구인 사랑방' 돼야\"",
+              "url": "https://v.daum.net/v/20260707061346519"
+            },
+            {
+              "title": "[율곡로] 축구협회와 양궁협회",
+              "url": "https://www.yna.co.kr/view/AKR20260703117100546"
+            },
+            {
+              "title": "한국프로축구선수협회 \"대한축구협회 '축구인 직선제' 도입해야\" 촉구",
+              "url": "https://sports.news.nate.com/view/20260706n17452"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "닥터 섬보이",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "지지부진 시청률 속 막 내린다…종영 앞두고 4%대 제자리 걸음 중인 월화극 ('섬보이')[종합]",
+              "url": "https://v.daum.net/v/20260707110118837"
+            },
+            {
+              "title": "'닥터 섬보이' 이재욱, 신예은에 감사 인사 애틋 입맞춤...시청률 4.9%[종합] - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/07/07/2026070709037234348"
+            },
+            {
+              "title": "바다·섬·힐링·로맨스 안 뜰 수가 없지…'갯마을 차차차'→'닥터섬보이' 흥행 공식 [Oh!쎈 레터]",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/07/07/GA3WEZBZMYYGEMTBMZSTSM3GGQ/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 62,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 25,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "owen murphy",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Braves' Martín Perez hit in forearm, likely will need IL stint",
+              "url": "https://www.espn.com/mlb/story/_/id/49280723/braves-martin-perez-hit-forearm-likely-need-il-stint"
+            },
+            {
+              "title": "Braves put Martín Pérez on IL, DFA Carlos Carrasco in roster move",
+              "url": "https://www.cbsnews.com/atlanta/news/braves-place-martin-perez-on-il-with-forearm-contusion-designate-carlos-carrasco-for-assignment/"
+            },
+            {
+              "title": "Braves prospect Owen Murphy will be called up to Atlanta, per report",
+              "url": "https://www.batterypower.com/atlanta-braves-news/134945/owen-murphy-call-up-martin-perez-injury-carlos-carrasco-dfa-report"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "tomi adeyemi book movie adaptation",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "‘Attacked behind the scenes’: Children of Blood & Bone author Tomi Adeyemi distances herself from film adaptation",
+              "url": "https://www.theguardian.com/books/2026/jul/06/tomi-adeyemi-children-of-blood-and-bone-film-adaptation"
+            },
+            {
+              "title": "‘Children of Blood and Bone’ Author Tomi Adeyemi “Will Not Watch” Film Version: “Officially Separating My Name”",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/children-of-blood-and-bone-author-tomi-adeyemi-movie-1236637971/"
+            },
+            {
+              "title": "‘Children of Blood & Bone’ Author Tomi Adeyemi “Will Not Watch” Film Adaptation: “It’s Been Painful”",
+              "url": "https://deadline.com/2026/07/children-of-blood-bone-author-will-not-watch-film-adaptation-1236974279/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "nba summer league scores",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "2026 California Classic Summer League: Carr, Watson lift Lakers to sudden death win",
+              "url": "https://www.nba.com/news/2026-california-classic-summer-league-heat-lakers"
+            },
+            {
+              "title": "Los Angeles Lakers rookie Cameron Carr follows father’s footsteps to NBA",
+              "url": "https://andscape.com/features/cameron-carr-lakers-rookie-draft-father-chris-summer-league/"
+            },
+            {
+              "title": "NBA Summer League Box Score Stats, Highlights for Lakers' Carr, Yaxel, Top Stars from July 5 Results",
+              "url": "https://bleacherreport.com/articles/25451368-nba-summer-league-box-score-stats-highlights-lakers-carr-yaxel-top-stars-july-5-results"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "wwe",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Raw: July 6, 2026",
+              "url": "https://www.wwe.com/shows/raw/2026-07-06"
+            },
+            {
+              "title": "Photos: Don't miss these incredible images from Raw",
+              "url": "https://www.wwe.com/gallery/the-spectacular-images-from-raw-july-6-2026-photos"
+            },
+            {
+              "title": "WWE Raw Results As CM Punk Returns To Beat Sami Zayn For The WWE Title",
+              "url": "https://sports.yahoo.com/articles/wwe-raw-results-cm-punk-023605481.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "mets score",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Mets get Long Island-born RHP Seelinger in trade with Tigers",
+              "url": "https://www.mlb.com/mets/news/matt-seelinger-mets-trade"
+            },
+            {
+              "title": "Tigers Begin Deadline Moves Early, Trading Two Triple-A Relievers for Cash: Is a Bigger Sell-Off Coming?",
+              "url": "https://sports.yahoo.com/articles/tigers-begin-deadline-moves-early-020856308.html"
+            },
+            {
+              "title": "Detroit Tigers trade minor league pitcher Matt Seelinger to Mets",
+              "url": "https://www.freep.com/story/sports/mlb/tigers/2026/07/06/detroit-tigers-trade-minor-league-pitcher-mets-cash-considerations/90821587007/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "sylvester stallone",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Inside Sylvester Stallone’s Surprising Life as an Artist as He Turns 80: ‘Painting Is His First Love’ (Exclusive Source)",
+              "url": "https://people.com/sylvester-stallone-s-life-at-80-all-about-his-paintings-exclusive-source-12012911"
+            },
+            {
+              "title": "The 10 Best Sylvester Stallone Movies",
+              "url": "https://nofilmschool.com/sylvester-stallone-best-movies"
+            },
+            {
+              "title": "Sylvester Stallone is 80! Revisit his rugged roles and milestone moments",
+              "url": "https://www.usatoday.com/picture-gallery/entertainment/movies/2026/07/06/sylvester-stallone-photos/90815131007/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "luke weaver",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Which Mets could be traded? Let's break down their chances",
+              "url": "https://www.mlb.com/news/mets-potential-trade-chips-at-2026-trade-deadline"
+            },
+            {
+              "title": "What I’m hearing on Mets: Trading a catcher could fetch a bounty",
+              "url": "https://www.nytimes.com/athletic/7424449/2026/07/05/mets-trade-deadline-catcher-luke-weaver/"
+            },
+            {
+              "title": "Mets trade deadline intel: on Francisco Alvarez, Clay Holmes, Bo Bichette, potential targets, and more",
+              "url": "https://sny.tv/articles/mets-trade-deadline-intel-7-6-26"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "mark carney canada nato defense",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Canada Rushes to Build Up Its Military as U.S. Relationship Frays",
+              "url": "https://www.wsj.com/world/americas/canada-rushes-to-build-up-its-military-as-u-s-relationship-frays-1b3bf72e"
+            },
+            {
+              "title": "The end of nice",
+              "url": "https://www.politico.com/newsletters/canada-playbook/2026/07/06/the-end-of-nice-00987516"
+            },
+            {
+              "title": "Liberals refuse to provide proof of Carney’s NATO defence spending claims",
+              "url": "https://globalnews.ca/news/11952327/canada-nato-carney-defence-spending-claims-liberals/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "devin williams",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Devin Williams fans two for save versus Braves",
+              "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/devin-williams-fans-two-for-save-versus-braves"
+            },
+            {
+              "title": "Devin Williams records 13th save",
+              "url": "https://www.fantasypros.com/mlb/news/595274/devin-williams-records-13th-save.php"
+            },
+            {
+              "title": "Devin Williams News: Collects 12th save",
+              "url": "https://www.rotowire.com/baseball/headlines/devin-williams-news-collects-12th-save-1012156"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "unhinged netflix",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Netflix’s Horror Game ‘Unhinged’ Is Funny, Scary and Points to a Future Without Second Screens",
+              "url": "https://variety.com/2026/film/opinion/unhinged-netflix-game-scary-choose-your-own-adventure-1236799598/"
+            },
+            {
+              "title": "Netflix Games' Unhinged: Q&A",
+              "url": "https://deadline.com/2026/06/netflix-games-unhinged-interview-troy-baker-sadie-sink-zoe-kravitz-1236966855/"
+            },
+            {
+              "title": "Netflix Reunites With David Fincher for Unhinged Thriller That Rewrites Streaming Rules",
+              "url": "https://movieweb.com/netflix-david-fincher-unhinged-new-thriller-streaming/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "home DIY",
+          "interest_avg": 50,
+          "interest_max": 100,
+          "interest_latest": 44,
+          "rank": 1
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 37,
+          "interest_max": 100,
+          "interest_latest": 29,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 18,
+          "interest_max": 74,
+          "interest_latest": 11,
+          "rank": 3
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 18,
+          "interest_max": 97,
+          "interest_latest": 13,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 2,
+          "interest_max": 23,
+          "interest_latest": 9,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "米騒動",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "コメ価格が過去最低見通し 銘柄米で5キロ2000円台も 業者「赤字覚悟で売らないと」（テレビ朝日系（ANN））",
+              "url": "https://news.yahoo.co.jp/articles/293cdf2f0efdb8c17ea52886928845392d3e5951"
+            },
+            {
+              "title": "新米の価格2割安 26年産早場米、前年在庫増え値下がりへ",
+              "url": "https://www.nikkei.com/article/DGXZQOUB021820S6A700C2000000/"
+            },
+            {
+              "title": "コメ価格、続く先安観 卸業者に打撃「コメ騒動終わってない」：ニュース",
+              "url": "https://biz.chunichi.co.jp/news/article/10/127744/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ドジャース 対 ロッキーズ",
+          "traffic": "50000+",
+          "related_news": [
+            {
+              "title": "大谷翔平、6試合ぶり19号 32歳初アーチは逆転2ラン…MLB通算300本塁打にあと「1」（Full-Count）",
+              "url": "https://news.yahoo.co.jp/articles/a69ad6df61674d35ea1fa44e6bb99c4b9a14a74d"
+            },
+            {
+              "title": "大谷翔平「１番DH」で先発、本拠地ロッキーズ戦 相手先発は３年連続開幕投手のフリーランド",
+              "url": "https://www.nikkansports.com/baseball/mlb/photonews/photonews_nsInc_202607070000245-1.html"
+            },
+            {
+              "title": "大谷翔平６試合ぶり19号、32歳初アーチでメジャー通算300号に王手",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkansports/sports/f-bb-tp2-260707-202607060001474"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "高校野球",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "【高校野球７イニング制の意見交換会】大阪桐蔭・西谷監督「断固反対」栗山英樹氏「何かを考えないといけない時期ではある」",
+              "url": "https://news.yahoo.co.jp/articles/ded1fb3dc58852f553766fecb2d55bba729764e5"
+            },
+            {
+              "title": "鳴潮 7月7日付",
+              "url": "https://www.topics.or.jp/articles/-/1458791"
+            },
+            {
+              "title": "高校野球７イニング制 議論を続け知恵を出し合っていくことが必要",
+              "url": "https://sportsbull.jp/p/2368765/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "ロメル・ルカク",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "DAZNがフジテレビっぽい…実況が青嶋達也さんだ！ 「ルカク、ルカク、ルカ～ク」と絶叫（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/5929c9161fc0b8c2656afa9c13a2bccc34e07ced"
+            },
+            {
+              "title": "DAZNがフジテレビっぽい…実況が青嶋達也さんだ！ 「ルカク、ルカク、ルカ～ク」と絶叫",
+              "url": "https://sportsbull.jp/p/2368852/"
+            },
+            {
+              "title": "フジテレビスポーツ実況の顔〝W杯で復活〟60歳青嶋達也アナの近影に「久々にあの絶叫が」「早口と情報量の多さはさすが」の声",
+              "url": "http://www.excite.co.jp/news/article/nsp_1446249955751822277/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "バーチャル高校野球",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "【動画】長崎文化放送 出場校紹介② - スポーツナビ「バーチャル高校野球」",
+              "url": "https://sports.yahoo.co.jp/video/player/26851062"
+            },
+            {
+              "title": "長崎文化放送 出場校紹介①",
+              "url": "https://vk.sportsbull.jp/koshien/video/abc/localbroadcast_movie/nagasaki/localbroadcast_movie_nagasaki_2026_1.html"
+            },
+            {
+              "title": "【動画】長崎文化放送 出場校紹介① - スポーツナビ「バーチャル高校野球」",
+              "url": "https://sports.yahoo.co.jp/video/player/26820921"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "サムスン 株価",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "キオクシア---大幅続落、想定以上の暫定決算発表したサムスンの株価下落で",
+              "url": "https://kabutan.jp/news/marketnews/?b=n202607070396"
+            },
+            {
+              "title": "キオクシアHDの株価、一時11.7%安 韓国サムスン電子株が急落",
+              "url": "https://www.nikkei.com/article/DGXZQOFL071N30X00C26A7000000/"
+            },
+            {
+              "title": "キオクシアHDに3兆円の買い需要も、TOPIX見直しでウエート上昇観測（Bloomberg）",
+              "url": "https://news.yahoo.co.jp/articles/c942267eadb774fcf3df779d7553e0ecffb646a9"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "神奈川県高校野球",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "神奈川大会 1回戦 関東六浦 vs. 市ケ尾 - 夏の高校野球 - ライブ配信",
+              "url": "https://sports.yahoo.co.jp/livestream/vk/hsblocal/C265901"
+            },
+            {
+              "title": "【高校野球】逗子葉山は厚木王子に５回コールド負け 公式戦初勝利ならずも選手宣誓の大岩主将「宣誓したとおり出来た。未練はない」",
+              "url": "https://article.auone.jp/detail/1/6/10/202_10_r_20260707_1783393007163020"
+            },
+            {
+              "title": "球児たちの熱い夏、開幕　区内から６校出場〈横浜市港北区〉",
+              "url": "https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-843096"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "march",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "White Nationalists March in Washington Amid 250th Anniversary Celebrations",
+              "url": "https://www.nytimes.com/2026/07/04/us/white-nationalists-march-in-washington-amid-250th-anniversary-celebrations.html"
+            },
+            {
+              "title": "Who are the masked men who marched in DC with Confederate flags?",
+              "url": "https://www.nbcwashington.com/news/local/who-are-the-masked-men-who-marched-in-dc-with-confederate-flags/4126668/"
+            },
+            {
+              "title": "Opinion | Viral photo of Black woman surrounded by racists only looks like a throwback",
+              "url": "https://www.ms.now/opinion/patriot-front-black-woman-photo-washington-metro"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "クリスチャン・プリシッチ",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "アメリカ10番に悲劇「泣かないで」 試合中に涙…無念の負傷退場「彼のキャリアを象徴」（FOOTBALL ZONE）",
+              "url": "https://news.yahoo.co.jp/articles/c9299fd8b693f83e2152d9908b81299daab41eb5"
+            },
+            {
+              "title": "クリスチャン・プリシッチ：チョコレートの国が生んだ息子から、アメリカサッカーを新たな高みへと導く希望の星へ。",
+              "url": "https://www.vietnam.vn/ja/cau-thu-christian-pulisic-tu-nguoi-con-cua-xu-so-chocolate-den-ky-vong-dua-bong-da-my-len-tam-cao-moi"
+            },
+            {
+              "title": "アメリカ10番に悲劇「泣かないで」 試合中に涙…無念の負傷退場「彼のキャリアを象徴」",
+              "url": "https://article.auone.jp/detail/1/6/11/376_11_r_20260707_1783390818294647"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "古川琴音",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "古川琴音が30歳を前に、いま思うこと。 夜ドラ『ミッドナイトタクシー』で29歳の運転手・象子を演じて。独自インタビュー【後編】",
+              "url": "https://news.yahoo.co.jp/articles/d80d38226d0e5deb4d0fff10c7cc9851b39d80a6"
+            },
+            {
+              "title": "古川琴音が主演だからこそ成立した『ミッドナイトタクシー』　作品に宿った心地よいリズム",
+              "url": "https://realsound.jp/movie/2026/07/post-2451442.html"
+            },
+            {
+              "title": "第27話 ミッドナイトタクシー",
+              "url": "https://thetv.jp/program/0001072288/27/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 4,
+          "interest_max": 12,
+          "interest_latest": 6,
+          "rank": 1
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 3,
+          "interest_max": 100,
+          "interest_latest": 4,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 2,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-07-07T03:34:30.572595+00:00"
+}

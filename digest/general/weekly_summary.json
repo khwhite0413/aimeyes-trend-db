@@ -1,39 +1,47 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-06-30",
-    "to": "2026-07-06"
+    "from": "2026-07-01",
+    "to": "2026-07-07"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "trend",
-      "growth": "+32%",
-      "total_mentions": 148
-    },
-    {
-      "keyword": "#trending",
-      "growth": "+9%",
-      "total_mentions": 89
+      "growth": "+79%",
+      "total_mentions": 154
     },
     {
       "keyword": "#viral",
-      "growth": "+9%",
-      "total_mentions": 75
+      "growth": "+40%",
+      "total_mentions": 78
     },
     {
       "keyword": "dance",
-      "growth": "+200%",
-      "total_mentions": 60
+      "growth": "+160%",
+      "total_mentions": 69
     },
     {
       "keyword": "#tiktok",
+      "growth": "+29%",
+      "total_mentions": 58
+    },
+    {
+      "keyword": "플리츠원피스",
       "growth": "+50%",
-      "total_mentions": 55
+      "total_mentions": 49
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "사이드카",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "김부장",
       "platforms": [
@@ -45,8 +53,8 @@
   ],
   "naver_shopping_hot": [
     "원피스",
-    "블라우스",
     "여름원피스",
+    "블라우스",
     "여름가디건",
     "여름블라우스"
   ],
@@ -55,11 +63,11 @@
     "#shorts",
     "#trending",
     "원피스",
-    "블라우스",
     "여름원피스",
+    "블라우스",
+    "#viral",
     "여름블라우스",
-    "티셔츠",
     "여름가디건",
-    "#viral"
+    "티셔츠"
   ]
 }
