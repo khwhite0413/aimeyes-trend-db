@@ -2,43 +2,21 @@
   "date": "2026-07-10",
   "mode": "general",
   "compared_to": "2026-07-09",
-  "total_keywords_today": 491,
+  "total_keywords_today": 480,
   "total_keywords_yesterday": 470,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "#viral",
-      "change": "+12%",
-      "today_count": 18,
-      "yesterday_count": 16,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 18건, 어제 16건 기준"
-    },
-    {
       "keyword": "#shorts",
-      "change": "+27%",
-      "today_count": 14,
+      "change": "+18%",
+      "today_count": 13,
       "yesterday_count": 11,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 14건, 어제 11건 기준"
-    },
-    {
-      "keyword": "#trending",
-      "change": "+9%",
-      "today_count": 12,
-      "yesterday_count": 11,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 12건, 어제 11건 기준"
+      "sample_note": "오늘 13건, 어제 11건 기준"
     },
     {
       "keyword": "food",
@@ -118,6 +96,17 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
+      "keyword": "every",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
       "keyword": "trends",
       "change": "+100%",
       "today_count": 4,
@@ -184,56 +173,74 @@
       "sample_note": "오늘 3건 (신규)"
     },
     {
-      "keyword": "comedy",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
+      "keyword": "#tiktokメドレー",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "world",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
+      "keyword": "#tiktok人気曲",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "cup",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
+      "keyword": "2026年に流行ったtiktokメドレー",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "gdm",
-      "change": "NEW",
-      "today_count": 2,
-      "yesterday_count": 0,
+      "keyword": "tiktokメドレー",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건 (신규)"
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "tiktok人気曲",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "trend",
-      "change": "-11%",
-      "today_count": 16,
+      "change": "-28%",
+      "today_count": 13,
       "yesterday_count": 18,
+      "confidence": "high"
+    },
+    {
+      "keyword": "#viral",
+      "change": "-12%",
+      "today_count": 14,
+      "yesterday_count": 16,
       "confidence": "high"
     },
     {
@@ -266,8 +273,8 @@
     },
     {
       "keyword": "#trend",
-      "change": "-20%",
-      "today_count": 4,
+      "change": "-40%",
+      "today_count": 3,
       "yesterday_count": 5,
       "confidence": "low"
     },
@@ -280,22 +287,15 @@
     },
     {
       "keyword": "#edit",
-      "change": "-25%",
-      "today_count": 3,
+      "change": "-75%",
+      "today_count": 1,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
       "keyword": "#dance",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "edit",
-      "change": "-25%",
-      "today_count": 3,
+      "change": "-50%",
+      "today_count": 2,
       "yesterday_count": 4,
       "confidence": "low"
     }
