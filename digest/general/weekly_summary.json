@@ -1,34 +1,37 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-07-03",
-    "to": "2026-07-09"
+    "from": "2026-07-04",
+    "to": "2026-07-10"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#viral",
-      "growth": "+60%",
-      "total_mentions": 90
+      "growth": "+64%",
+      "total_mentions": 98
+    },
+    {
+      "keyword": "#shorts",
+      "growth": "+27%",
+      "total_mentions": 94
     },
     {
       "keyword": "플리츠원피스",
       "growth": "+67%",
-      "total_mentions": 55
-    },
-    {
-      "keyword": "듀엘원피스",
-      "growth": "+20%",
-      "total_mentions": 47
-    },
-    {
-      "keyword": "hacks",
-      "growth": "+40%",
-      "total_mentions": 39
+      "total_mentions": 59
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "맥도날드",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "김부장",
       "platforms": [
@@ -42,14 +45,14 @@
     "원피스",
     "여름원피스",
     "블라우스",
-    "여름가디건",
-    "여름블라우스"
+    "여름블라우스",
+    "티셔츠"
   ],
   "top_keywords_overall": [
     "trend",
+    "#viral",
     "#shorts",
     "#trending",
-    "#viral",
     "원피스",
     "여름원피스",
     "블라우스",
