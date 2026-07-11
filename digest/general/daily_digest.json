@@ -2,9 +2,9 @@
   "date": "2026-07-11",
   "mode": "general",
   "compared_to": "2026-07-10",
-  "total_keywords_today": 476,
+  "total_keywords_today": 522,
   "total_keywords_yesterday": 480,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -19,37 +19,37 @@
       "sample_note": "오늘 18건, 어제 13건 기준"
     },
     {
-      "keyword": "#shorts",
-      "change": "+31%",
-      "today_count": 17,
-      "yesterday_count": 13,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 17건, 어제 13건 기준"
-    },
-    {
       "keyword": "#viral",
-      "change": "+14%",
-      "today_count": 16,
+      "change": "+21%",
+      "today_count": 17,
       "yesterday_count": 14,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 16건, 어제 14건 기준"
+      "sample_note": "오늘 17건, 어제 14건 기준"
+    },
+    {
+      "keyword": "#shorts",
+      "change": "+15%",
+      "today_count": 15,
+      "yesterday_count": 13,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 15건, 어제 13건 기준"
     },
     {
       "keyword": "#trending",
-      "change": "+9%",
-      "today_count": 12,
+      "change": "+18%",
+      "today_count": 13,
       "yesterday_count": 11,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 12건, 어제 11건 기준"
+      "sample_note": "오늘 13건, 어제 11건 기준"
     },
     {
       "keyword": "플리츠원피스",
@@ -61,17 +61,6 @@
         "naver"
       ],
       "sample_note": "오늘 11건, 어제 10건 기준"
-    },
-    {
-      "keyword": "dance",
-      "change": "+14%",
-      "today_count": 8,
-      "yesterday_count": 7,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 8건, 어제 7건 기준"
     },
     {
       "keyword": "food",
@@ -96,6 +85,17 @@
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
+      "keyword": "요즘",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
       "keyword": "#food",
       "change": "+25%",
       "today_count": 5,
@@ -118,6 +118,17 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
+      "keyword": "유행하는",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
       "keyword": "#trend",
       "change": "+33%",
       "today_count": 4,
@@ -129,29 +140,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "#dance",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
       "keyword": "moonlight",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "hacks",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -173,17 +162,6 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "유행하는",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
       "keyword": "#edit",
       "change": "+200%",
       "today_count": 3,
@@ -193,6 +171,17 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "#dance",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
       "keyword": "#viralvideo",
@@ -217,7 +206,18 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "줄이기",
+      "keyword": "꿀팁",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#youtubeshorts",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -301,8 +301,7 @@
     }
   ],
   "new_entries": [
-    "急上昇",
-    "総合トレンドランキング"
+    "컬러공식"
   ],
   "cross_platform_hot": [
     {
