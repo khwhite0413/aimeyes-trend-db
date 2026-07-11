@@ -1,33 +1,43 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-07-04",
-    "to": "2026-07-10"
+    "from": "2026-07-05",
+    "to": "2026-07-11"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#viral",
-      "growth": "+27%",
-      "total_mentions": 94
+      "growth": "+33%",
+      "total_mentions": 99
     },
     {
       "keyword": "#shorts",
-      "growth": "+18%",
-      "total_mentions": 93
+      "growth": "+31%",
+      "total_mentions": 99
     },
     {
       "keyword": "플리츠원피스",
-      "growth": "+67%",
-      "total_mentions": 59
+      "growth": "+57%",
+      "total_mentions": 64
+    },
+    {
+      "keyword": "시슬리원피스",
+      "growth": "+17%",
+      "total_mentions": 40
+    },
+    {
+      "keyword": "food",
+      "growth": "+133%",
+      "total_mentions": 36
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "김부장",
+      "keyword": "퍼포먼스",
       "platforms": [
-        "google_trends",
+        "x_twitter",
         "youtube"
       ],
       "count": 2
@@ -37,7 +47,7 @@
     "원피스",
     "여름원피스",
     "블라우스",
-    "여름블라우스",
+    "플리츠원피스",
     "티셔츠"
   ],
   "top_keywords_overall": [
@@ -49,7 +59,7 @@
     "여름원피스",
     "블라우스",
     "여름가디건",
-    "여름블라우스",
-    "티셔츠"
+    "티셔츠",
+    "여름블라우스"
   ]
 }
