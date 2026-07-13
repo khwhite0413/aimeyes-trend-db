@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-07-06",
-    "to": "2026-07-12"
+    "from": "2026-07-07",
+    "to": "2026-07-13"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#viral",
-      "growth": "+17%",
+      "keyword": "#shorts",
+      "growth": "+6%",
       "total_mentions": 102
     },
     {
-      "keyword": "#trending",
-      "growth": "+42%",
-      "total_mentions": 91
-    },
-    {
       "keyword": "플리츠원피스",
-      "growth": "+38%",
-      "total_mentions": 68
-    },
-    {
-      "keyword": "시슬리원피스",
-      "growth": "+17%",
-      "total_mentions": 41
+      "growth": "+22%",
+      "total_mentions": 71
     },
     {
       "keyword": "food",
       "growth": "+75%",
-      "total_mentions": 40
+      "total_mentions": 43
+    },
+    {
+      "keyword": "잇미샤원피스",
+      "growth": "+60%",
+      "total_mentions": 43
+    },
+    {
+      "keyword": "시슬리원피스",
+      "growth": "+40%",
+      "total_mentions": 42
     }
   ],
   "most_cross_platform": [
@@ -39,6 +39,14 @@
       "platforms": [
         "x_twitter",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "하이닉스",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     }
@@ -58,8 +66,8 @@
     "원피스",
     "여름원피스",
     "블라우스",
+    "플리츠원피스",
     "티셔츠",
-    "여름블라우스",
-    "플리츠원피스"
+    "여름블라우스"
   ]
 }
