@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-07-07",
-    "to": "2026-07-13"
+    "from": "2026-07-08",
+    "to": "2026-07-14"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#viral",
+      "keyword": "trend",
+      "growth": "+35%",
+      "total_mentions": 135
+    },
+    {
+      "keyword": "#shorts",
       "growth": "+13%",
-      "total_mentions": 107
+      "total_mentions": 99
     },
     {
       "keyword": "플리츠원피스",
-      "growth": "+22%",
-      "total_mentions": 71
+      "growth": "+11%",
+      "total_mentions": 72
     },
     {
-      "keyword": "food",
-      "growth": "+75%",
-      "total_mentions": 43
+      "keyword": "dance",
+      "growth": "+38%",
+      "total_mentions": 62
     },
     {
       "keyword": "잇미샤원피스",
       "growth": "+60%",
-      "total_mentions": 43
-    },
-    {
-      "keyword": "시슬리원피스",
-      "growth": "+40%",
-      "total_mentions": 42
+      "total_mentions": 46
     }
   ],
   "most_cross_platform": [

@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-07-07",
-    "to": "2026-07-13"
+    "from": "2026-07-08",
+    "to": "2026-07-14"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "style",
-      "growth": "+33%",
-      "total_mentions": 71
+      "keyword": "#shorts",
+      "growth": "+44%",
+      "total_mentions": 75
     },
     {
       "keyword": "플리츠원피스",
-      "growth": "+22%",
-      "total_mentions": 71
-    },
-    {
-      "keyword": "#shorts",
-      "growth": "+62%",
-      "total_mentions": 70
+      "growth": "+11%",
+      "total_mentions": 72
     },
     {
       "keyword": "ootd",
-      "growth": "+33%",
-      "total_mentions": 60
+      "growth": "+129%",
+      "total_mentions": 67
     },
     {
       "keyword": "#ootd",
-      "growth": "+22%",
-      "total_mentions": 59
+      "growth": "+114%",
+      "total_mentions": 65
+    },
+    {
+      "keyword": "outfit",
+      "growth": "+33%",
+      "total_mentions": 56
     }
   ],
   "most_cross_platform": [
@@ -57,14 +57,6 @@
         "youtube"
       ],
       "count": 2
-    },
-    {
-      "keyword": "티셔츠",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
@@ -79,11 +71,11 @@
     "원피스",
     "블라우스",
     "여름원피스",
-    "티셔츠",
+    "#shorts",
     "style",
     "플리츠원피스",
-    "#shorts",
-    "#fashion",
-    "여름블라우스"
+    "티셔츠",
+    "ootd",
+    "#ootd"
   ]
 }
