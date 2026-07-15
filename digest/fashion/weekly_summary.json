@@ -14,8 +14,8 @@
     },
     {
       "keyword": "#shorts",
-      "growth": "+71%",
-      "total_mentions": 77
+      "growth": "+86%",
+      "total_mentions": 78
     },
     {
       "keyword": "플리츠원피스",
@@ -28,12 +28,20 @@
       "total_mentions": 73
     },
     {
-      "keyword": "#fashion",
-      "growth": "+17%",
+      "keyword": "티셔츠",
+      "growth": "+10%",
       "total_mentions": 71
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "자라",
       "platforms": [
@@ -44,14 +52,6 @@
     },
     {
       "keyword": "블라우스",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "원피스",
       "platforms": [
         "naver",
         "youtube"
@@ -74,8 +74,8 @@
     "#shorts",
     "플리츠원피스",
     "ootd",
-    "#fashion",
     "티셔츠",
-    "#ootd"
+    "#ootd",
+    "#fashion"
   ]
 }
