@@ -2,21 +2,32 @@
   "date": "2026-07-16",
   "mode": "general",
   "compared_to": "2026-07-15",
-  "total_keywords_today": 538,
+  "total_keywords_today": 523,
   "total_keywords_yesterday": 495,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
+      "keyword": "#shorts",
+      "change": "+15%",
+      "today_count": 15,
+      "yesterday_count": 13,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 15건, 어제 13건 기준"
+    },
+    {
       "keyword": "#viral",
-      "change": "+45%",
-      "today_count": 16,
+      "change": "+27%",
+      "today_count": 14,
       "yesterday_count": 11,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 16건, 어제 11건 기준"
+      "sample_note": "오늘 14건, 어제 11건 기준"
     },
     {
       "keyword": "시슬리원피스",
@@ -31,25 +42,47 @@
     },
     {
       "keyword": "#shortvideo",
-      "change": "+75%",
-      "today_count": 7,
+      "change": "+50%",
+      "today_count": 6,
       "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 7건, 어제 4건 기준"
+      "sample_note": "오늘 6건, 어제 4건 기준"
     },
     {
       "keyword": "shortvideo",
-      "change": "+75%",
-      "today_count": 7,
+      "change": "+50%",
+      "today_count": 6,
       "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 7건, 어제 4건 기준"
+      "sample_note": "오늘 6건, 어제 4건 기준"
+    },
+    {
+      "keyword": "#funny",
+      "change": "+100%",
+      "today_count": 6,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 3건 기준"
+    },
+    {
+      "keyword": "funny",
+      "change": "+100%",
+      "today_count": 6,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 3건 기준"
     },
     {
       "keyword": "에고이스트",
@@ -63,37 +96,15 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "#funny",
-      "change": "+67%",
+      "keyword": "editlyrics",
+      "change": "+150%",
       "today_count": 5,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
-    },
-    {
-      "keyword": "funny",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
-    },
-    {
-      "keyword": "vs",
-      "change": "+100%",
-      "today_count": 4,
       "yesterday_count": 2,
-      "confidence": "low",
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
       "keyword": "#editlyrics​",
@@ -129,7 +140,7 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "editlyrics",
+      "keyword": "toutdonner",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -140,7 +151,18 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "toutdonner",
+      "keyword": "#ytshorts",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "ytshorts",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -184,15 +206,15 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "summer",
-      "change": "+200%",
+      "keyword": "vs",
+      "change": "+50%",
       "today_count": 3,
-      "yesterday_count": 1,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
       "keyword": "#39;",
@@ -204,58 +226,36 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#toutdonner​",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#ytshorts",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "trend",
-      "change": "-56%",
-      "today_count": 12,
+      "change": "-48%",
+      "today_count": 14,
       "yesterday_count": 27,
       "confidence": "high"
     },
     {
       "keyword": "#trending",
-      "change": "-19%",
-      "today_count": 13,
+      "change": "-25%",
+      "today_count": 12,
       "yesterday_count": 16,
       "confidence": "high"
     },
     {
       "keyword": "dance",
-      "change": "-64%",
-      "today_count": 4,
+      "change": "-73%",
+      "today_count": 3,
       "yesterday_count": 11,
       "confidence": "low"
     },
     {
       "keyword": "#trend",
-      "change": "-56%",
-      "today_count": 4,
+      "change": "-44%",
+      "today_count": 5,
       "yesterday_count": 9,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "keyword": "#dance",
@@ -266,10 +266,10 @@
     },
     {
       "keyword": "#tiktok",
-      "change": "-43%",
-      "today_count": 4,
+      "change": "-29%",
+      "today_count": 5,
       "yesterday_count": 7,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "keyword": "#edit",
@@ -280,15 +280,15 @@
     },
     {
       "keyword": "#lyrics",
-      "change": "-86%",
-      "today_count": 1,
+      "change": "-71%",
+      "today_count": 2,
       "yesterday_count": 7,
       "confidence": "low"
     },
     {
       "keyword": "#viralvideo",
-      "change": "-86%",
-      "today_count": 1,
+      "change": "-71%",
+      "today_count": 2,
       "yesterday_count": 7,
       "confidence": "low"
     },
@@ -301,10 +301,8 @@
     }
   ],
   "new_entries": [
-    "goat",
-    "7월",
-    "milan",
-    "trends"
+    "리센느",
+    "7월"
   ],
   "cross_platform_hot": []
 }
