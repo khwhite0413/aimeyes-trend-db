@@ -1,0 +1,972 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "로봇",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "“로봇 노동자 때문에”…현대차 노조 파업에 외신이 주목하는 이유 [잇슈 머니]",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8613324"
+            },
+            {
+              "title": "현대차 노조, 20~22일 매일 4시간 추가 파업",
+              "url": "https://v.daum.net/v/20260717110216114"
+            },
+            {
+              "title": "현대차 파업 확대되나… \" 부품사 23곳 부분파업\"",
+              "url": "https://greened.kr/news/articleView.html?idxno=345230"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "뉴스파이터",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"모두가 버린 정재환 유일하게 챙겼는데 죽이다니…\" 경산 피해자 애도",
+              "url": "https://v.daum.net/v/20260717055151718"
+            },
+            {
+              "title": "아침 & 매일경제 - 친구 살해 후 피 묻은 나체로 활보한 정재환, 범행 동기 묻자 한 말은?...",
+              "url": "https://m.mbn.co.kr/tv/606/1424302"
+            },
+            {
+              "title": "'경산 친구 살인' 피의자 신상 공개...24살 정재환",
+              "url": "https://www.ytn.co.kr/_ln/0115_202607161519095118"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "조정식",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "[소셜＋] \"제헌절이 빨간 날이었어?\"…달력에 속은 직장인들",
+              "url": "https://www.yna.co.kr/view/AKR20260716128000505"
+            },
+            {
+              "title": "조정식 국회의장 \"디지털 플랫폼 '모두의 헌법' 구축해 2027년 개헌 추진\"",
+              "url": "https://v.daum.net/v/20260717105150807"
+            },
+            {
+              "title": "국민훈장 무궁화장 받은 우원식 전 국회의장",
+              "url": "https://mobile.newsis.com/photo/NISI20260717_0021367908"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "cgv",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'호프' 관객 만나는 나홍진 감독",
+              "url": "http://www.osen.co.kr/article/G1112840029"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "염경엽",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "염경엽 감독 \"외국인은 결과가 전부\" 강조했는데…톨허스트, 2회 4실점 와르르→후반기 첫 경기도 숙제만 남겼다 [잠실 현장]",
+              "url": "https://v.daum.net/v/20260717034548116"
+            },
+            {
+              "title": "'패패승패패패→6월 이후 ERA 5.63' LG 우승 외인 심상치 않다... \"언제든 대체할 수 있다\" 사령탑 경고도 있었는데 - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/07/17/2026071615512332947"
+            },
+            {
+              "title": "'대충격' 우승팀 LG, 2경기 연속 9회 1사 만루 찬스 놓치다…전반기 마지막도, 후반기 첫 경기도 1점 차 패배 '악몽'",
+              "url": "https://www.chosun.com/sports/baseball/2026/07/17/HE3TIOBTGE3DIMTDMQYTCYJXG4/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "동복댐",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[단독] 동복댐 높여 반도체 물 공급? 지금 강수량으론 역부족",
+              "url": "https://www.chosun.com/national/transport-environment/2026/07/17/4B2OFSOXVRBXLFRUPSI3ZPRGQQ/"
+            },
+            {
+              "title": "신민호 의원 \"산업용수 확보와 시민 물 안전 함께 가야\"",
+              "url": "https://v.daum.net/v/1Hjus9B3wa"
+            },
+            {
+              "title": "[간추린 단신] “동복댐 증설 철회…하수 재이용수 활용해야” 외",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8611838"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "백악관 대변인",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "백악관, 트럼프 '부정선거론' 연설 앞두고 \"들으면 충격받을 것\"",
+              "url": "https://www.yna.co.kr/view/AKR20260717005600071"
+            },
+            {
+              "title": "트럼프 \"딥스테이트가 中선거개입 은폐\"…또 부정선거론",
+              "url": "https://www.newsis.com/view/NISX20260717_0003713214"
+            },
+            {
+              "title": "[속보] 트럼프 “중국, 미 유권자 파일 2억2000만건 취득”···미 언론은 “공개 정보” 팩트체크",
+              "url": "https://www.khan.co.kr/article/202607171011011"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "두산베어스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'어린이팬들과 함께 해요' 두산 25일 삼성전 7월 두린이날 이벤트",
+              "url": "https://sports.news.nate.com/view/20260717n05561"
+            },
+            {
+              "title": "“순위싸움 부담 없이 해라? 패잔병들의 핑계...두산 2위도 가능” 52억 마무리의 일침, 5위팀 정신무장 외치다 [오!쎈 인터뷰]",
+              "url": "https://v.daum.net/v/2rAISrEoWz"
+            },
+            {
+              "title": "후반기 1선발 곽빈은 OK, 왜 벤자민이 5선발인가…3위-1위와 운명의 6연전, 5위 두산의 승부수 [오!쎈 잠실]",
+              "url": "https://www.chosun.com/sports/baseball/2026/07/15/MYZDAMTFMI2TSMRQGFRTCMRXGY/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "제헌절 태극기",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "창녕군, 제78주년 제헌절 맞아 태극기 달기 운동 캠페인",
+              "url": "https://v.daum.net/v/fzp0Dqu5XU"
+            },
+            {
+              "title": "고사리 손도장으로 완성한 태극 문양",
+              "url": "https://www.segye.com/newsView/20260716518838"
+            },
+            {
+              "title": "거제3동, 주민과 함께 ‘태극기 달기 홍보 캠페인’ 실시",
+              "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260716.99099004992"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "워터파크",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "\"웃으며 다녀온다던 아이가\"…워터파크서 숨진 7살, 엄마의 마지막 편지",
+              "url": "http://weekly.chosun.com/news/articleView.html?idxno=53548"
+            },
+            {
+              "title": "\"지켜주지 못해 미안해\" 워터파크서 숨진 7살 아이 어머니 글에 추모 물결",
+              "url": "https://v.daum.net/v/20260716172800675"
+            },
+            {
+              "title": "“어른들이 못 지켜 미안해”…일산 워터파크 사망 7세 여아에 추모 이어져",
+              "url": "https://www.kyeonggi.com/article/20260716580549"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 63,
+          "interest_max": 100,
+          "interest_latest": 54,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 7,
+          "interest_max": 25,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 21,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 41,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 90,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "tijuana - tigres",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "A qué hora y dónde ver el Tijuana vs. Tigres de la Jornada 1",
+              "url": "https://www.tudn.com/futbol/liga-mx/tijuana-vs-tigres-a-que-hora-y-donde-ver-el-partido-de-la-jornada-1-de-la-liga-mx-apertura-2026"
+            },
+            {
+              "title": "Regresa la Liga MX: Xolos vs. Tigres inauguran el torneo, ¿dónde y cuándo verlo?",
+              "url": "https://www.univision.com/noticias/regresa-la-liga-mx-xolos-vs-tigres-inauguran-el-torneo-donde-y-cuando-verlo-video"
+            },
+            {
+              "title": "¿Cómo ver el Tijuana vs Tigres UANL en TV y streaming?",
+              "url": "https://www.si.com/es-us/futbol/como-ver-el-tijuana-vs-tigres-uanl-en-tv-y-streaming-16-7-2026"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "downdetector",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Another Security Threat at Canvas?",
+              "url": "https://www.insidehighered.com/news/quick-takes/2026/07/16/another-security-threat-canvas"
+            },
+            {
+              "title": "Canvas Outage Today: Is Canvas Down Today? Users Experiencing Global Service Outage With Page Errors & Inaccessibility | Check Canvas Downdetector Status",
+              "url": "https://sundayguardianlive.com/trending/canvas-outage-today-is-canvas-down-today-users-experiencing-global-service-outage-with-page-errors-inaccessibility-check-canvas-downdetector-status-238291/"
+            },
+            {
+              "title": "Edtech gets schooled by third-party cyberthreats",
+              "url": "https://www.techtarget.com/searchsecurity/video/Edtech-gets-schooled-by-third-party-cyberthreats"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "tropical storm arthur",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "The Eastern Pacific is a tropical storm factory, and the Atlantic Basin shows signs of life",
+              "url": "https://yaleclimateconnections.org/2026/07/the-eastern-pacific-is-a-tropical-storm-factory-and-the-atlantic-basin-shows-signs-of-life/"
+            },
+            {
+              "title": "Storm Team 3: Hot, humid Friday & weekend, watching tropical moisture",
+              "url": "https://www.yahoo.com/news/weather-news/articles/storm-team-3-hot-humid-005246496.html"
+            },
+            {
+              "title": "Tropical downpours and rain chances increase",
+              "url": "https://www.fox13news.com/news/national-hurricane-center-tracks-20-development-chance-gulf"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "jack smith subpoena lawmaker phone records",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Veteran Dem breaks party line as Jack Smith spying scandal grips Capitol Hill",
+              "url": "https://www.foxnews.com/politics/veteran-dem-breaks-party-line-jack-smith-spying-scandal-grips-capitol-hill"
+            },
+            {
+              "title": "Jack Smith obtained text messages from 44 members of Congress",
+              "url": "https://www.politico.com/live-updates/2026/07/14/congress/jack-smith-investigation-update-00997825"
+            },
+            {
+              "title": "Judge Unseals Filings From Jack Smith Subpoena for Lawmaker’s Phone Data",
+              "url": "https://www.nytimes.com/2026/07/16/us/politics/judge-unseals-jack-smith-subpoena-filings.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "benny safdie",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Benny Safdie Explores His Incredible ‘Odyssey’ Experience",
+              "url": "https://www.imdb.com/fr/news/ni65927543/?ref_=int_nwr_4"
+            },
+            {
+              "title": "Why Benny Safdie & Lupita Nyong'o felt 'free' in the Odyssey",
+              "url": "https://uk.news.yahoo.com/why-benny-safdie-lupita-nyongo-153538655.html"
+            },
+            {
+              "title": "'The Odyssey' star Benny Safdie on what he kept from set",
+              "url": "https://www.usatoday.com/videos/entertainment/movies/2026/07/15/the-odyssey-benny-safdie-nyc-premiere/90928511007/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "kealia watt",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Real Salt Lake apologizes after JJ Watt calls them out for not identifying his wife Kealia, a former NWSL player",
+              "url": "https://sports.yahoo.com/soccer/article/real-salt-lake-apologizes-after-jj-watt-calls-them-out-for-not-identifying-his-wife-kealia-a-former-nwsl-player-235256502.html"
+            },
+            {
+              "title": "J.J. Watt calls out Real Salt Lake for not acknowledging his soccer star wife, Kealia Ohai Watt",
+              "url": "https://www.espn.com/soccer/story/_/id/49378911/kealia-ohai-jj-watt-real-salt-lake"
+            },
+            {
+              "title": "JJ Watt goes after MLS squad after social post leaves out wife, a local soccer legend: 'Worth a mention'",
+              "url": "https://www.foxnews.com/sports/jj-watt-goes-after-mls-squad-social-post-leaves-out-wife-local-soccer-legend-worth-mention"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "lionel messi argentina world cup",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "World Cup 2026: England squad debating Tuchel's tactics against Argentina",
+              "url": "https://www.bbc.com/sport/football/articles/cqjxl90x27ro"
+            },
+            {
+              "title": "Exclusive | Prince Harry shares his unfiltered reaction to England's heartbreaking World Cup loss",
+              "url": "https://pagesix.com/2026/07/16/royal-family/prince-harry-shares-his-unfiltered-reaction-to-englands-heartbreaking-world-cup-loss/"
+            },
+            {
+              "title": "Thomas Tuchel is guilty of orchestrating England’s craven World Cup demise - The Athletic",
+              "url": "https://www.nytimes.com/athletic/7442975/2026/07/15/thomas-tuchel-england-world-cup-argentina/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "what did trump announce today",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Trump setting stage to declare emergency around midterms, former White House attorney says",
+              "url": "https://www.pbs.org/newshour/show/trump-setting-stage-to-declare-emergency-around-midterms-former-white-house-attorney-says"
+            },
+            {
+              "title": "Democrats warn of a Trump election takeover. What’s really happening?",
+              "url": "https://www.cnn.com/2026/07/11/politics/democrats-trump-firing-election-officials"
+            },
+            {
+              "title": "Donald Trump removes final members of independent US election commission",
+              "url": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "jon elmore",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Summer League Uncs: The oldest players in Vegas this year, including Lakers' Jon Elmore",
+              "url": "https://www.hoopshype.com/story/sports/nba/2026/07/15/nba-oldest-players-at-2026-summer-league-jon-elmore-aaron-williams-and-more/90930701007/"
+            },
+            {
+              "title": "Lakers' Jon Elmore fills stat sheet in Summer League breakthrough",
+              "url": "https://sports.yahoo.com/articles/lakers-jon-elmore-fills-stat-140217261.html"
+            },
+            {
+              "title": "Where is Jon Elmore? Lakers' balding Summer League guard isn't playing despite fan intrigue",
+              "url": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/where-jon-elmore-lakers-balding-summer-league-guard-isnt-playing-despite-fan-intrigue/06407d0783ce5098e0864a66"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "portland vs seattle sounders",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "SEAvPOR Starting XI: Antino Lopez lines up as center back, Nouhou wears the captain's armband",
+              "url": "https://www.soundersfc.com/news/seavpor-starting-xi-antino-lopez-lines"
+            },
+            {
+              "title": "Sounders vs. Timbers, livestream: Kickoff, lineups, updates",
+              "url": "https://www.sounderatheart.com/2026/07/sounders-vs-timbers-gamethread-3/"
+            },
+            {
+              "title": "Seattle Sounders vs. Portland Timbers: What makes it an elite rivalry?",
+              "url": "https://www.mlssoccer.com/news/seattle-sounders-vs-portland-timbers-what-makes-it-an-elite-rivalry"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 39,
+          "interest_max": 100,
+          "interest_latest": 43,
+          "rank": 1
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 22,
+          "interest_max": 100,
+          "interest_latest": 70,
+          "rank": 2
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 19,
+          "interest_max": 100,
+          "interest_latest": 10,
+          "rank": 3
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 18,
+          "interest_max": 34,
+          "interest_latest": 31,
+          "rank": 4
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 11,
+          "interest_max": 80,
+          "interest_latest": 8,
+          "rank": 5
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 11,
+          "interest_max": 32,
+          "interest_latest": 12,
+          "rank": 6
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 3,
+          "interest_max": 24,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 3,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 2,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury manicure trends summer",
+          "value": "2350"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "louis vuitton",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury brands men",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury interior design",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury bag brands",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette rvc",
+          "value": "160"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette blackfin",
+          "value": "150"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette blackfin",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette raleigh",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "dark coquette aesthetic",
+          "value": "60"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "レベル3大雨警報",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "関東甲信は17日もゲリラ豪雨に注意 短時間でも道路の冠水や川が増水するおそれ（tenki.jp）",
+              "url": "https://topics.smt.docomo.ne.jp/article/tenkijp/nation/tenkijp-39754"
+            },
+            {
+              "title": "【レベル3大雨警報】埼玉県・三郷市に発表 11:15時点（TBS NEWS DIG Powered by JNN）",
+              "url": "https://news.yahoo.co.jp/articles/d237a6373aa67ddf761c23032b1de03a94c2232b"
+            },
+            {
+              "title": "東北や関東は朝から曇りや雨 短時間での強雨や雷雨に注意",
+              "url": "https://weathernews.jp/news/202607/170061/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "浦和レッズ",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "官方：26岁日本边卫荻原拓也租借加盟比甲奥哈瓦里，包含买断",
+              "url": "https://m.dongqiudi.com/article/6043118.html"
+            },
+            {
+              "title": "J1浦和にまさかの事態…開幕まで3週間 異例となる15人目の退団が決定、相次ぐ選手放出（FOOTBALL ZONE）",
+              "url": "https://news.yahoo.co.jp/articles/e9d89c77c1cea664102523c2fc748882e6476af2"
+            },
+            {
+              "title": "荻原拓也選手 OHルーヴェンへ期限付き移籍のお知らせ",
+              "url": "https://www.urawa-reds.co.jp/topteamtopics/243897/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "川崎 天気",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【横浜市港北区】7/17 最高33℃、暑さに注意、昼間から夜はくもりの予想【朝版】",
+              "url": "https://news.yahoo.co.jp/articles/cd48d227ea8b3321d4e8d3396c995f57fe428f6a"
+            },
+            {
+              "title": "【川崎市中原区】7/17 最高32℃、暑さに注意、朝はくもりがちで夜まで雲の多い予想【朝版】",
+              "url": "https://news.yahoo.co.jp/articles/fa72fc662adf3f8525f2c49c38644ade7d328d61"
+            },
+            {
+              "title": "【横浜市青葉区】7/17 最高32℃、暑さに注意、朝は晴れて昼間から夜はくもりの予想【朝版】",
+              "url": "https://news.yahoo.co.jp/articles/34f2fa4b154ea79efc3b28eb899fc907ed7b907f"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "カミラ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "メーガン妃、イギリスに凱旋帰国するはずが屈辱の結果に？ かえって王室との関係の険悪さが浮き彫り",
+              "url": "https://www.elle.com/jp/culture/celebgossip/a72067717/meghan-markle-humilliated-260716/"
+            },
+            {
+              "title": "ヘンリー王子一家、チャールズ国王と4年ぶりに再会。舞台となったハイグローブ・ハウスとは？",
+              "url": "https://www.vogue.co.jp/article/prince-archie-princess-lilibet-reunite-king-charles-first-time-4-years"
+            },
+            {
+              "title": "「ついに動き出した？」メーガン・マークルが英国に極秘入国し、子どもたちとハリー王子のもとへ向かった理由。（フィガロジャポン）",
+              "url": "https://news.yahoo.co.jp/articles/fd15d1db35ad54e55c7452c65bf948291fb35cc9"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ヤマニンウルス",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "ヤマニンウルスが引退 デビュー戦で後続に4秒3差をつけた「未完の大器」が種牡馬入り",
+              "url": "https://news.sp.netkeiba.com/?pid=news_view&no=337216"
+            },
+            {
+              "title": "ヤマニンウルス種牡馬入りを受けて斉藤崇史調教師「昨年秋に疝痛で開腹手術をして以降…」",
+              "url": "https://tospo-keiba.jp/breaking_news/73717"
+            },
+            {
+              "title": "ヤマニンウルスが引退 デビュー戦で後続に４秒３差をつけた「未完の大器」が種牡馬入り",
+              "url": "https://sportsbull.jp/p/2376815/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "足立区 天気",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "【越谷市】7/17 最高32℃、暑さ、昼間は雨、夜はくもりの予想【朝版】",
+              "url": "https://news.yahoo.co.jp/articles/2f4cc9642c8b1a1e42af5554ed2eef28b82e88a2"
+            },
+            {
+              "title": "【茨城県】7/17の天気予報",
+              "url": "https://www.fnn.jp/articles/-/1076785"
+            },
+            {
+              "title": "【小田原市】7/17 最高31℃、暑さ、夕方から夜は雨の予想【朝版】",
+              "url": "https://news.yahoo.co.jp/articles/0308cdb15f85a44e01ddf7bb77200e538b548640"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "雨雲",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "千葉県内で局地的に大雨 東京都心でも雨雲が急発生",
+              "url": "https://weathernews.jp/news/202607/170071/"
+            },
+            {
+              "title": "【レベル４大雨危険警報】千葉県・松戸市に発表 11:31時点",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2809174?display=1"
+            },
+            {
+              "title": "【レベル３土砂災害警報】千葉県・鴨川市に発表 08:37時点",
+              "url": "https://article.auone.jp/detail/1/2/2/333_2_r_20260717_1784245167050803"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "愛媛新聞",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "KPMG FAS、「グローバル事業再編サービス」を一層強化(2026年7月17日9時30分)",
+              "url": "https://www.oita-press.co.jp/pr/prtimes/detail?id=c101153_r32"
+            },
+            {
+              "title": "KPMG系、事業再編の支援サービス拡充 資本効率の改善後押し",
+              "url": "https://www.nikkei.com/article/DGXZQOUB145QD0U6A710C2000000/"
+            },
+            {
+              "title": "【7/17金 受付締切！7/22・大阪】疲労と老化に共通するメカニズムに着目、新指標「修復力（リペア力）」を含んだ統合的方策により創造的な健康長寿社会を実現",
+              "url": "https://www.ehime-np.co.jp/article/prtimes98382"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "中島翔哉",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "｢ヘビと遊んでる｣｢蛇使いに？｣浦和退団で去就注目の元日本代表MF中島翔哉が“神の使い”の白蛇との満面スマイルのツーショット公開！｢小3の夏休みみたいで可愛い｣ | 概要 | Jリーグ・国内 | ニュース",
+              "url": "https://soccerhihyo.futabanet.jp/articles/-/111311"
+            },
+            {
+              "title": "まだ決まらない！？ 現在フリーの日本人選手（6）プレミア強豪育ちの逸材。世代別日本代表も経験した異質な存在",
+              "url": "https://news.yahoo.co.jp/articles/b342715dc3ebff976d54ff18024ca6182cd2967f"
+            },
+            {
+              "title": "FC東京が新外国人選手の獲得へ動く。気になるポジションと意外な国籍は？【カキーノ解説！Jリーグ夏の移籍市場】",
+              "url": "https://www6.targma.jp/transfer/2026/07/12/post601/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "曺貴裁",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "曺 貴裁監督 沖縄トレーニングキャンプ囲み取材 「全ての状況でできるだけ主導権を握れるように、そして自分たちが自信を持って臨めるように、このキャンプで作っていく」",
+              "url": "https://www.urawa-reds.co.jp/topteamtopics/243800/"
+            },
+            {
+              "title": "福井光輝「新たな発見だらけ。エラーを恐れず、GKチーム全員で成長したい」【沖縄キャンプ8日目 選手コメント】",
+              "url": "https://www1.targma.jp/urawa-football/2026/07/15/post111738/"
+            },
+            {
+              "title": "沖縄県金武町を巡る「金武町 × 浦和レッズ チェックインラリー」を7月8日から開催",
+              "url": "https://www.asahi.com/and/pressrelease/16705650"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 39,
+          "interest_max": 100,
+          "interest_latest": 46,
+          "rank": 1
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 27,
+          "interest_max": 63,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 27,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 13,
+          "interest_max": 48,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 11,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 11,
+          "interest_max": 65,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 51,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 16,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 36,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "y2k ファッション と は",
+          "value": "40350"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "ゾゾタウン",
+          "value": "200"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション 通販 おすすめ",
+          "value": "120"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 系 ファッション 男子",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 風 ファッション メンズ",
+          "value": "70"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-07-17T02:44:12.065577+00:00"
+}
