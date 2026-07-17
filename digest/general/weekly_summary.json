@@ -23,14 +23,14 @@
       "total_mentions": 52
     },
     {
-      "keyword": "#trend",
-      "growth": "+25%",
-      "total_mentions": 44
-    },
-    {
       "keyword": "#tiktok",
       "growth": "+40%",
       "total_mentions": 43
+    },
+    {
+      "keyword": "#dance",
+      "growth": "+33%",
+      "total_mentions": 42
     }
   ],
   "most_cross_platform": [
@@ -51,15 +51,7 @@
       "count": 2
     },
     {
-      "keyword": "워터파크",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "브로콜리",
+      "keyword": "퍼포먼스",
       "platforms": [
         "x_twitter",
         "youtube"
@@ -67,7 +59,7 @@
       "count": 2
     },
     {
-      "keyword": "퍼포먼스",
+      "keyword": "브로콜리",
       "platforms": [
         "x_twitter",
         "youtube"
@@ -84,9 +76,9 @@
   ],
   "top_keywords_overall": [
     "trend",
+    "#shorts",
     "#viral",
     "#trending",
-    "#shorts",
     "원피스",
     "여름원피스",
     "블라우스",
