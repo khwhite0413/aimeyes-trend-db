@@ -2,22 +2,11 @@
   "date": "2026-07-18",
   "mode": "fashion",
   "compared_to": "2026-07-17",
-  "total_keywords_today": 457,
+  "total_keywords_today": 453,
   "total_keywords_yesterday": 484,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
-    {
-      "keyword": "fashion",
-      "change": "+6%",
-      "today_count": 18,
-      "yesterday_count": 17,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 18건, 어제 17건 기준"
-    },
     {
       "keyword": "outfit",
       "change": "+30%",
@@ -52,26 +41,37 @@
       "sample_note": "오늘 11건, 어제 10건 기준"
     },
     {
-      "keyword": "street",
-      "change": "+60%",
-      "today_count": 8,
-      "yesterday_count": 5,
+      "keyword": "summer",
+      "change": "+29%",
+      "today_count": 9,
+      "yesterday_count": 7,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 8건, 어제 5건 기준"
+      "sample_note": "오늘 9건, 어제 7건 기준"
     },
     {
       "keyword": "style",
-      "change": "+60%",
-      "today_count": 8,
+      "change": "+40%",
+      "today_count": 7,
       "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 8건, 어제 5건 기준"
+      "sample_note": "오늘 7건, 어제 5건 기준"
+    },
+    {
+      "keyword": "street",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
       "keyword": "데일리룩",
@@ -96,7 +96,7 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "trends",
+      "keyword": "amp",
       "change": "+67%",
       "today_count": 5,
       "yesterday_count": 3,
@@ -107,15 +107,15 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
-      "keyword": "amp",
-      "change": "+67%",
-      "today_count": 5,
+      "keyword": "trends",
+      "change": "+33%",
+      "today_count": 4,
       "yesterday_count": 3,
-      "confidence": "medium",
+      "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
       "keyword": "룩북",
@@ -217,37 +217,44 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "women",
-      "change": "+100%",
+      "keyword": "look",
+      "change": "+33%",
       "today_count": 4,
-      "yesterday_count": 2,
+      "yesterday_count": 3,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     }
   ],
   "declining": [
     {
-      "keyword": "#ootd",
-      "change": "-12%",
-      "today_count": 7,
-      "yesterday_count": 8,
-      "confidence": "medium"
+      "keyword": "fashion",
+      "change": "-6%",
+      "today_count": 16,
+      "yesterday_count": 17,
+      "confidence": "high"
     },
     {
-      "keyword": "ootd",
-      "change": "-12%",
-      "today_count": 7,
-      "yesterday_count": 8,
-      "confidence": "medium"
+      "keyword": "#shorts",
+      "change": "-23%",
+      "today_count": 10,
+      "yesterday_count": 13,
+      "confidence": "high"
     },
     {
       "keyword": "여름코디",
       "change": "-33%",
       "today_count": 4,
       "yesterday_count": 6,
+      "confidence": "low"
+    },
+    {
+      "keyword": "milan",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
       "confidence": "low"
     },
     {
@@ -262,6 +269,20 @@
       "change": "-20%",
       "today_count": 4,
       "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#viral",
+      "change": "-50%",
+      "today_count": 2,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "july",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
       "confidence": "low"
     },
     {
