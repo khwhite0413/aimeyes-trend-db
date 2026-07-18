@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-07-11",
-    "to": "2026-07-17"
+    "from": "2026-07-12",
+    "to": "2026-07-18"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#trending",
-      "growth": "+15%",
+      "keyword": "#shorts",
+      "growth": "+38%",
+      "total_mentions": 103
+    },
+    {
+      "keyword": "#viral",
+      "growth": "+14%",
       "total_mentions": 99
     },
     {
+      "keyword": "티셔츠",
+      "growth": "+10%",
+      "total_mentions": 73
+    },
+    {
       "keyword": "잇미샤원피스",
-      "growth": "+67%",
-      "total_mentions": 57
+      "growth": "+57%",
+      "total_mentions": 62
     },
     {
       "keyword": "시슬리원피스",
       "growth": "+14%",
-      "total_mentions": 52
-    },
-    {
-      "keyword": "#tiktok",
-      "growth": "+40%",
-      "total_mentions": 43
-    },
-    {
-      "keyword": "#dance",
-      "growth": "+33%",
-      "total_mentions": 42
+      "total_mentions": 53
     }
   ],
   "most_cross_platform": [
@@ -51,14 +51,6 @@
       "count": 2
     },
     {
-      "keyword": "퍼포먼스",
-      "platforms": [
-        "x_twitter",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
       "keyword": "브로콜리",
       "platforms": [
         "x_twitter",
@@ -69,19 +61,19 @@
   ],
   "naver_shopping_hot": [
     "원피스",
-    "여름원피스",
     "블라우스",
+    "여름원피스",
     "플리츠원피스",
     "티셔츠"
   ],
   "top_keywords_overall": [
     "trend",
     "#shorts",
-    "#viral",
     "#trending",
+    "#viral",
     "원피스",
-    "여름원피스",
     "블라우스",
+    "여름원피스",
     "플리츠원피스",
     "티셔츠",
     "dance"
