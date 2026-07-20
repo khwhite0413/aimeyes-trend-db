@@ -2,9 +2,9 @@
   "date": "2026-07-20",
   "mode": "general",
   "compared_to": "2026-07-19",
-  "total_keywords_today": 484,
+  "total_keywords_today": 485,
   "total_keywords_yesterday": 522,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -20,14 +20,14 @@
     },
     {
       "keyword": "trend",
-      "change": "+54%",
-      "today_count": 20,
+      "change": "+46%",
+      "today_count": 19,
       "yesterday_count": 13,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 20건, 어제 13건 기준"
+      "sample_note": "오늘 19건, 어제 13건 기준"
     },
     {
       "keyword": "#tiktok",
@@ -85,62 +85,18 @@
       "sample_note": "오늘 10건, 어제 9건 기준"
     },
     {
-      "keyword": "diy",
-      "change": "+200%",
+      "keyword": "#viralvideo",
+      "change": "+100%",
       "today_count": 6,
-      "yesterday_count": 2,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 2건 기준"
-    },
-    {
-      "keyword": "recipe",
-      "change": "+20%",
-      "today_count": 6,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
-    },
-    {
-      "keyword": "#edit",
-      "change": "+400%",
-      "today_count": 5,
-      "yesterday_count": 1,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 1건 기준"
-    },
-    {
-      "keyword": "edit",
-      "change": "+400%",
-      "today_count": 5,
-      "yesterday_count": 1,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 1건 기준"
-    },
-    {
-      "keyword": "#lyrics",
-      "change": "+67%",
-      "today_count": 5,
       "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 6건, 어제 3건 기준"
     },
     {
-      "keyword": "#viralvideo",
+      "keyword": "#lyrics",
       "change": "+67%",
       "today_count": 5,
       "yesterday_count": 3,
@@ -173,6 +129,39 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
+      "keyword": "tips",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "#edit",
+      "change": "+300%",
+      "today_count": 4,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 1건 기준"
+    },
+    {
+      "keyword": "edit",
+      "change": "+300%",
+      "today_count": 4,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 1건 기준"
+    },
+    {
       "keyword": "리센느",
       "change": "+100%",
       "today_count": 4,
@@ -184,26 +173,37 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "#lifehacks",
-      "change": "+33%",
+      "keyword": "worry",
+      "change": "+100%",
       "today_count": 4,
-      "yesterday_count": 3,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "lifehacks",
-      "change": "+33%",
+      "keyword": "slowed",
+      "change": "+100%",
       "today_count": 4,
-      "yesterday_count": 3,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "diy",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
       "keyword": "#recipe",
@@ -231,8 +231,8 @@
   "declining": [
     {
       "keyword": "#shorts",
-      "change": "-18%",
-      "today_count": 14,
+      "change": "-6%",
+      "today_count": 16,
       "yesterday_count": 17,
       "confidence": "high"
     },
@@ -251,30 +251,16 @@
       "confidence": "medium"
     },
     {
-      "keyword": "#funny",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "funny",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
       "keyword": "#shortvideo",
-      "change": "-25%",
-      "today_count": 3,
+      "change": "-50%",
+      "today_count": 2,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
       "keyword": "shortvideo",
-      "change": "-25%",
-      "today_count": 3,
+      "change": "-50%",
+      "today_count": 2,
       "yesterday_count": 4,
       "confidence": "low"
     },
@@ -298,8 +284,32 @@
       "today_count": 1,
       "yesterday_count": 3,
       "confidence": "low"
+    },
+    {
+      "keyword": "amp",
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "hacks",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
     }
   ],
   "new_entries": [],
-  "cross_platform_hot": []
+  "cross_platform_hot": [
+    {
+      "keyword": "둠스데이",
+      "platform_count": 2,
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "total_count": 2
+    }
+  ]
 }
