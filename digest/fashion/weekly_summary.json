@@ -8,6 +8,11 @@
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "fashion",
+      "growth": "+21%",
+      "total_mentions": 134
+    },
+    {
       "keyword": "outfit",
       "growth": "+12%",
       "total_mentions": 74
@@ -18,19 +23,14 @@
       "total_mentions": 71
     },
     {
+      "keyword": "style",
+      "growth": "+38%",
+      "total_mentions": 62
+    },
+    {
       "keyword": "summer",
       "growth": "+43%",
       "total_mentions": 61
-    },
-    {
-      "keyword": "style",
-      "growth": "+12%",
-      "total_mentions": 60
-    },
-    {
-      "keyword": "시슬리원피스",
-      "growth": "+43%",
-      "total_mentions": 60
     }
   ],
   "most_cross_platform": [
@@ -43,18 +43,18 @@
       "count": 2
     },
     {
-      "keyword": "둠스데이",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
-    },
-    {
       "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "둠스데이",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     },
