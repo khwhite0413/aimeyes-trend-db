@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-07-15",
-    "to": "2026-07-21"
+    "from": "2026-07-16",
+    "to": "2026-07-22"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#trending",
-      "growth": "+12%",
-      "total_mentions": 116
-    },
-    {
-      "keyword": "#shorts",
-      "growth": "+46%",
-      "total_mentions": 111
+      "growth": "+50%",
+      "total_mentions": 118
     },
     {
       "keyword": "#viral",
-      "growth": "+18%",
-      "total_mentions": 98
+      "growth": "+7%",
+      "total_mentions": 102
+    },
+    {
+      "keyword": "trend",
+      "growth": "+7%",
+      "total_mentions": 97
     },
     {
       "keyword": "잇미샤원피스",
       "growth": "+22%",
-      "total_mentions": 71
+      "total_mentions": 73
     },
     {
       "keyword": "#tiktok",
-      "growth": "+57%",
-      "total_mentions": 61
+      "growth": "+140%",
+      "total_mentions": 66
     }
   ],
   "most_cross_platform": [
@@ -61,19 +61,19 @@
   ],
   "naver_shopping_hot": [
     "원피스",
-    "여름원피스",
     "블라우스",
-    "잇미샤원피스",
-    "플리츠원피스"
+    "여름원피스",
+    "플리츠원피스",
+    "티셔츠"
   ],
   "top_keywords_overall": [
     "#trending",
     "#shorts",
-    "trend",
     "#viral",
+    "trend",
     "원피스",
-    "여름원피스",
     "블라우스",
+    "여름원피스",
     "플리츠원피스",
     "티셔츠",
     "잇미샤원피스"
