@@ -9,8 +9,8 @@
   "top_rising": [
     {
       "keyword": "#trending",
-      "growth": "+13%",
-      "total_mentions": 123
+      "growth": "+7%",
+      "total_mentions": 122
     },
     {
       "keyword": "trend",
@@ -29,11 +29,19 @@
     },
     {
       "keyword": "#tiktok",
-      "growth": "+71%",
-      "total_mentions": 73
+      "growth": "+57%",
+      "total_mentions": 72
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "트레이드",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "둠스데이",
       "platforms": [
