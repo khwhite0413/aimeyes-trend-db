@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-07-17",
-    "to": "2026-07-23"
+    "from": "2026-07-18",
+    "to": "2026-07-24"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#trending",
-      "growth": "+7%",
-      "total_mentions": 122
+      "growth": "+12%",
+      "total_mentions": 125
     },
     {
       "keyword": "trend",
-      "growth": "+60%",
-      "total_mentions": 99
-    },
-    {
-      "keyword": "티셔츠",
-      "growth": "+10%",
-      "total_mentions": 76
-    },
-    {
-      "keyword": "잇미샤원피스",
-      "growth": "+10%",
-      "total_mentions": 75
+      "growth": "+100%",
+      "total_mentions": 111
     },
     {
       "keyword": "#tiktok",
-      "growth": "+57%",
-      "total_mentions": 72
+      "growth": "+20%",
+      "total_mentions": 77
+    },
+    {
+      "keyword": "dance",
+      "growth": "+38%",
+      "total_mentions": 76
+    },
+    {
+      "keyword": "#dance",
+      "growth": "+29%",
+      "total_mentions": 64
     }
   ],
   "most_cross_platform": [
@@ -71,19 +71,19 @@
     "원피스",
     "여름원피스",
     "블라우스",
-    "플리츠원피스",
-    "티셔츠"
+    "티셔츠",
+    "플리츠원피스"
   ],
   "top_keywords_overall": [
     "#trending",
+    "trend",
     "#shorts",
     "#viral",
-    "trend",
     "원피스",
     "여름원피스",
     "블라우스",
-    "플리츠원피스",
+    "#tiktok",
     "티셔츠",
-    "잇미샤원피스"
+    "플리츠원피스"
   ]
 }
