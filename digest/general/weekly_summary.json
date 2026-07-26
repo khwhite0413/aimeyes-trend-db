@@ -1,52 +1,31 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-07-19",
-    "to": "2026-07-25"
+    "from": "2026-07-20",
+    "to": "2026-07-26"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "trend",
-      "growth": "+8%",
-      "total_mentions": 111
-    },
-    {
       "keyword": "#viral",
-      "growth": "+7%",
-      "total_mentions": 93
+      "growth": "+31%",
+      "total_mentions": 96
     },
     {
-      "keyword": "잇미샤원피스",
-      "growth": "+10%",
-      "total_mentions": 76
+      "keyword": "플리츠원피스",
+      "growth": "+9%",
+      "total_mentions": 78
     },
     {
       "keyword": "에고이스트",
-      "growth": "+67%",
-      "total_mentions": 54
+      "growth": "+83%",
+      "total_mentions": 59
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "숨바꼭질",
-      "platforms": [
-        "x_twitter",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
       "keyword": "둠스데이",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "케스파컵",
       "platforms": [
         "google_trends",
         "x_twitter"
@@ -58,8 +37,8 @@
     "원피스",
     "여름원피스",
     "블라우스",
-    "잇미샤원피스",
-    "플리츠원피스"
+    "플리츠원피스",
+    "에고이스트"
   ],
   "top_keywords_overall": [
     "#trending",
@@ -71,6 +50,6 @@
     "블라우스",
     "플리츠원피스",
     "dance",
-    "티셔츠"
+    "잇미샤원피스"
   ]
 }
