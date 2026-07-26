@@ -9,8 +9,8 @@
   "top_rising": [
     {
       "keyword": "#viral",
-      "growth": "+31%",
-      "total_mentions": 96
+      "growth": "+46%",
+      "total_mentions": 98
     },
     {
       "keyword": "플리츠원피스",
@@ -21,9 +21,22 @@
       "keyword": "에고이스트",
       "growth": "+83%",
       "total_mentions": 59
+    },
+    {
+      "keyword": "#trend",
+      "growth": "+20%",
+      "total_mentions": 29
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "헝가리 그랑프리",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "둠스데이",
       "platforms": [
@@ -49,7 +62,7 @@
     "여름원피스",
     "블라우스",
     "플리츠원피스",
-    "dance",
-    "잇미샤원피스"
+    "잇미샤원피스",
+    "dance"
   ]
 }
