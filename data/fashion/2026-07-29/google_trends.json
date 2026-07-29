@@ -1,0 +1,969 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "미국 이란",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "[속보] 미 중부사령부 \"이란 혁명수비대 탄도미사일 발사\"",
+              "url": "https://www.yonhapnewstv.co.kr/news/MYH20260729074716fnS"
+            },
+            {
+              "title": "이란 혁명수비대 \"요르단 미군기지에 탄도미사일 발사\"",
+              "url": "https://www.yna.co.kr/view/AKR20260729085400009"
+            },
+            {
+              "title": "미군 \"이란, 중동 미군에 다수 탄도미사일 발사‥모두 요격\"",
+              "url": "https://imnews.imbc.com/news/2026/world/article/6840832_36925.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "공동 명의",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "친정에게 받은 14억 아파트, 공동명의 해달라는 남편[당신 생각은]",
+              "url": "https://www.munhwa.com/article/11605641"
+            },
+            {
+              "title": "\"친정이 해준 14억 아파트인데\"…공동명의 요구한 남편, 각방까지 간 사연",
+              "url": "https://www.newsis.com/view/NISX20260728_0003725810"
+            },
+            {
+              "title": "\"친정이 해준 14억 서울 아파트\".... 대출 같이 갚을 거면 공동명의 해달라는 남편",
+              "url": "https://www.insight.co.kr/news/565201"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "데프콘",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "뤼튼, 국제 해킹대회 데프콘 본선 진출팀 공식 후원",
+              "url": "https://www.yna.co.kr/view/AKR20260729048100017"
+            },
+            {
+              "title": "뤼튼, 해킹 올림픽 본선 오른 한국팀에 AI 기술 지원",
+              "url": "https://www.newsis.com/view/NISX20260729_0003727595"
+            },
+            {
+              "title": "이동주 SK쉴더스 EQST 선임 소속 팀, 코드게이트 CTF 준우승",
+              "url": "https://zdnet.co.kr/view/?no=20260728145205"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "산골총각 영웅",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "차승원 \"임영웅 인기 엄청나…드라마 특별출연 원해\" (산골총각 영웅)[전일야화]",
+              "url": "https://v.daum.net/v/20260729080107599"
+            },
+            {
+              "title": "'산골총각 영웅' 임영웅, 차승원X김도훈 만남...웃음만발 허당케미 - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/07/28/2026072814477289096"
+            },
+            {
+              "title": "“망해쒀!!!” 차승원, 그네 멀리뛰기 도중 착지 실패하며 넘어져 심란한 마음↘",
+              "url": "https://programs.sbs.co.kr/enter/mountainshero/clip/89788/OC480889404"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "쌍용자동차",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "작별이냐 동행이냐…KGM '쌍용의 유산' 렉스턴 두고 고심",
+              "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=848445"
+            },
+            {
+              "title": "\"팰리세이드 대신 사길 잘했어요\"... 한 번 타본 아빠들은 반해서 매번 찾는다는 국산 패밀리 SUV",
+              "url": "https://autonology.co.kr/news/2026-kgm-rexton-towing-offroad-suv/"
+            },
+            {
+              "title": "\"팰리세이드는 진짜가 아니다\"... 뭘 좀 아는 아빠들이 선택하는 패밀리 SUV 정체",
+              "url": "https://topictree.co.kr/automobiles/news/2026-kgm-rexton-new-arena-summit-price/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "롯데월드",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "놀이기구의 문법을 바꾸다… 500억 쏟은 야심작 ‘콩X고질라 : 더 라이드’",
+              "url": "https://v.daum.net/v/20260728112054888"
+            },
+            {
+              "title": "킹콩·고질라 속으로… 짜릿한 라이드",
+              "url": "https://www.segye.com/newsView/20260727514470"
+            },
+            {
+              "title": "롯데월드 신규 어트랙션 '콩X고질라 : 더 라이드'",
+              "url": "https://www.news1.kr/photos/8026595"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "김지찬",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "‘무더위 지배자’ 삼성, 김도영의 ‘냉장고 글러브’도 소용 없었다!",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8622759"
+            },
+            {
+              "title": "에이스 1이닝 8실점 대충격 패패패...KIA 후반기 선발진 'QS 제로-ERA 9위', 이러면 5강 싸움 어렵다 - 조선비즈",
+              "url": "https://biz.chosun.com/sports/baseball/2026/07/29/GU2WIMJUGE3DAMJYGIYWKYJXME/"
+            },
+            {
+              "title": "'9승 징크스' 올러, 3번째 도전에서 8실점",
+              "url": "https://www.ytn.co.kr/_ln/0107_202607282313270598"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "두산베어스",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "두산 박준순, SSG 상대로 연장 10회 결승 홈런",
+              "url": "https://www.yna.co.kr/view/AKR20260728171800007"
+            },
+            {
+              "title": "고작 스무살인데 결승타 1위 실화냐, 치명적 실책→어떻게 4위 도약 이끈 영웅 됐나 “벤자민한테 정말 미안했어요” - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/07/29/202607290131776309O"
+            },
+            {
+              "title": "뼈아픈 실책→극적인 결승포…4위 도약 이끈 해결사 박준순의 ‘짜릿한 한방’",
+              "url": "https://www.munhwa.com/article/11605618"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "정평",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "[단독] '극비 결혼' 문근영…남편 정평은 누구? 7세 연상 뮤지컬배우",
+              "url": "https://www.news1.kr/life-culture/general-cultural/6242151"
+            },
+            {
+              "title": "'국민 여동생' 문근영, 열애설도 없이 결혼…7살 연상 배우 남편 누구? - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/07/29/2026072909593945146"
+            },
+            {
+              "title": "배우 문근영, 극비 결혼… 남편인 배우 정평에게 쏠리는 관심",
+              "url": "https://www.hankookilbo.com/news/article/A2026072909490005834"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "행정중심복합도시",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "세종시에 위치한 행복도시 미개방 공원, 시민 품으로 돌아간다",
+              "url": "https://www.munhwa.com/article/11605572"
+            },
+            {
+              "title": "세종시 도심 미개방 공원 3곳 순차 개방 추진…관리권 세종시로",
+              "url": "https://www.yna.co.kr/view/AKR20260727137500063"
+            },
+            {
+              "title": "행복청, 조성 마친 행복도시 공원 3곳 올해부터 순차 개방",
+              "url": "https://v.daum.net/v/20260727134708101"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 59,
+          "interest_max": 100,
+          "interest_latest": 86,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 6,
+          "interest_max": 19,
+          "interest_latest": 11,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 7,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "neymar",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "La desgarradora decisión de Neymar tras el doloroso fracaso en la Copa del Mundo",
+              "url": "https://us.marca.com/soccer/mercado-fichajes/2026/07/28/desgarradora-decision-neymar-doloroso-fracaso-copa-mundo.html"
+            },
+            {
+              "title": "Ya no disfruta del juego: tres escenarios que escriben los últimos capítulos de la historia de Neymar",
+              "url": "https://www.goal.com/es-mx/listados/ya-no-disfruta-del-juego-tres-escenarios-que-escriben-los-ultimos-capitulos-de-la-historia-de-neymar/blte03c5849360b04db"
+            },
+            {
+              "title": "Escándalo en Santos: acusan a Neymar de insultar a un compañero argentino en el vestuario",
+              "url": "https://www.lagaceta.com.ar/nota/1147182/deportes/escandalo-santos-acusan-neymar-insultar-companero-argentino-vestuario.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "arizona diamondbacks",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Ildemaro Vargas' go-ahead RBI fielder's choice",
+              "url": "https://www.mlb.com/dbacks/video/gregory-soto-in-play-run-s-to-jorge-barrosa"
+            },
+            {
+              "title": "Ildemaro Vargas' go-ahead RBI fielder's choice",
+              "url": "https://www.mlb.com/video/gregory-soto-in-play-run-s-to-jorge-barrosa"
+            },
+            {
+              "title": "Arizona Diamondbacks vs. Pittsburgh Pirates: Brandon Pfaadt vs. Bubba Chandler",
+              "url": "https://www.bucsdugout.com/pirates-discussion/50465/arizona-diamondbacks-vs-pittsburgh-pirates-brandon-pfaadt-vs-bubba-chandler"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "gage jump",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Game 105: Red Sox at Athletics lineups and notes",
+              "url": "https://www.bostonglobe.com/2026/07/27/sports/red-sox-athletics-preview-july-27/"
+            },
+            {
+              "title": "Tolle moley",
+              "url": "https://www.overthemonster.com/red-sox-discussion/105282/red-sox-at-as-lineups-tolle-moley"
+            },
+            {
+              "title": "Red Sox lineup: With new trade addition placed on IL, Romy Gonzalez starting at 2B",
+              "url": "https://www.masslive.com/redsox/2026/07/red-sox-lineup-with-new-trade-addition-placed-on-il-romy-gonzalez-starting-at-2b.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "badwater 135",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Two Las Vegas runners to take on the Badwater 135 ultramarathon",
+              "url": "https://www.reviewjournal.com/local/local-las-vegas/two-las-vegas-runners-to-take-on-the-badwater-135-ultramarathon-3855439/"
+            },
+            {
+              "title": "Death Valley's Badwater 135 just got harder. Meet the SoCal runner chasing a 19th finish",
+              "url": "https://laist.com/news/los-angeles-activities/badwater-135-death-valley-race-ultramarathon"
+            },
+            {
+              "title": "'Toughest footrace on Earth': Weather and the Badwater 135",
+              "url": "https://weather.com/2026/07/22/sports-recreation/how-weather-makes-the-badwater-135-the-toughest-footrace-on-earth"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "kelsey mitchell",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Caitlin Clark trolls Kelsey Mitchell with one-word message after WNBA All-Star win",
+              "url": "https://sports.yahoo.com/articles/caitlin-clark-trolls-kelsey-mitchell-133120226.html"
+            },
+            {
+              "title": "Angel Reese has fitting label for Fever star Kelsey Mitchell after All-Star explosion",
+              "url": "https://www.sportingnews.com/us/wnba/indiana-fever/news/angel-reese-has-fitting-label-fever-star-kelsey-mitchell-after-all-star-explosion/226df3d06fb8c5531d22fb33"
+            },
+            {
+              "title": "Mitchell made it rain",
+              "url": "https://www.nytimes.com/athletic/live-blogs/wnba-all-star-game-2026-live-updates-caitlin-clark-rosters-score-result/3fh7ZMOnx3Qy/w8TOcabPkrfj/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "spider man far from home",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "‘Spider-Man: Brand New Day’ Post-Credits Scene Reportedly Leaks, and the Doomsday Connection Just Got Real",
+              "url": "https://www.imdb.com/news/ni65949047/?ref_=ttnw_art_perm"
+            },
+            {
+              "title": "Spider-Man 4 Reviews Agree This Part of Brand New Day Will Massively Disappoint MCU Fans",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/spider-man-4-reviews-agree-180519658.html"
+            },
+            {
+              "title": "Sony Battling Spider-Man: Brand New Day Post-Credit Scene Leaks, Scrubbing Social Media Via Copyright Claims",
+              "url": "https://www.ign.com/articles/sony-battling-spider-man-brand-new-day-post-credit-scene-leaks-scrubbing-social-media-via-copyright-claims"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "twins",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "'I feel clean on the direction': Zoll says Twins will be buyers at Deadline",
+              "url": "https://www.mlb.com/news/jeremy-zoll-says-twins-will-buy-at-trade-deadline"
+            },
+            {
+              "title": "Twins GM Jeremy Zoll talks trade deadline",
+              "url": "https://www.mlb.com/twins/video/twins-gm-jeremy-zoll-talks-trade-deadline"
+            },
+            {
+              "title": "Trade Deadline Outlook: Minnesota Twins",
+              "url": "https://www.mlbtraderumors.com/2026/07/trade-deadline-outlook-minnesota-twins-2.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "natisha hiedeman",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Wings' Fudd tops Fire's Carleton to win WNBA 3-point shootout",
+              "url": "https://www.espn.com/wnba/story/_/id/49443477/wings-fudd-tops-fire-carleton-win-wnba-3-point-shootout"
+            },
+            {
+              "title": "Azzi Fudd becomes first rookie to win WNBA 3-point contest",
+              "url": "https://www.nytimes.com/athletic/7469054/2026/07/24/wnba-all-star-game-skills-competition-winners/"
+            },
+            {
+              "title": "Azzi Fudd wins WNBA All-Star 3-point contest; Shakira Austin, Elena Delle Donne, GG Banks take Shooting Stars Challenge",
+              "url": "https://sports.yahoo.com/wnba/live/azzi-fudd-wins-wnba-all-star-3-point-contest-shakira-austin-elena-delle-donne-gg-banks-take-shooting-stars-challenge-230000242.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "flau'jae johnson",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "LOOK: Flau’jae Johnson Sums Up All-Star Game Experience With Snaps Featuring Caitlin Clark, Paige Bueckers And Brother Aydin",
+              "url": "https://sports.yahoo.com/articles/look-flau-jae-johnson-sums-080302589.html"
+            },
+            {
+              "title": "Storm rookie Flau'jae Johnson named WNBA All-Star player host",
+              "url": "https://www.usatoday.com/story/sports/wnba/allstar/2026/07/21/flaujae-johnson-wnba-all-star-weekendplayer-host/91002396007/"
+            },
+            {
+              "title": "Flau'jae on 'restarting' Storm's culture",
+              "url": "https://www.nbcsports.com/watch/wnba/flaujae-johnson-on-restarting-seattle-storms-culture-with-fam-malonga"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "aliyah boston",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "WNBA has ruled on the Indiana Fever's appeal of Caitlin Clark's 7th technical",
+              "url": "https://www.indystar.com/story/sports/basketball/wnba/fever/2026/07/28/caitlin-clarks-appeal-of-her-seventh-technical-foul-has-been-ruled-on-by-the-wnba/91085718007/"
+            },
+            {
+              "title": "Fever's Clark earns 7th technical foul; one away from 1-game ban",
+              "url": "https://www.espn.com/wnba/story/_/id/49429632/fever-clark-earns-7th-technical-foul-one-away-1-game-ban"
+            },
+            {
+              "title": "Caitlin Clark Close to a Suspension After Getting Into Fiery Exchange with Sun’s Saniya Rivers",
+              "url": "https://people.com/caitlin-clark-close-to-suspension-after-fiery-exchange-with-saniya-rivers-12025191"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 33,
+          "interest_max": 100,
+          "interest_latest": 39,
+          "rank": 1
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 33,
+          "interest_max": 100,
+          "interest_latest": 25,
+          "rank": 2
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 31,
+          "interest_max": 95,
+          "interest_latest": 40,
+          "rank": 3
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 28,
+          "interest_max": 88,
+          "interest_latest": 38,
+          "rank": 4
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 15,
+          "interest_max": 30,
+          "interest_latest": 21,
+          "rank": 5
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 15,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 3,
+          "interest_max": 14,
+          "interest_latest": 5,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 2,
+          "interest_max": 10,
+          "interest_latest": 4,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 10,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 9,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury brands for men",
+          "value": "160"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "celine",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "brunello cucinelli",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury shoes",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "the row",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "contessa",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette food",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette raleigh nc",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette fonts",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette symbols copy and paste",
+          "value": "60"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "聖飢魔ii",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "聖飢魔IIが謝罪「熊本公演に関する情報について不適切なタイミングとなってしまいました」（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/33f8c5292bbd2da0a3d7c70cb3793d93594136b8"
+            },
+            {
+              "title": "聖飢魔IIが謝罪「熊本公演に関する情報について不適切なタイミングとなってしまいました」",
+              "url": "https://news.livedoor.com/article/detail/31937724/"
+            },
+            {
+              "title": "聖飢魔Ⅱ 公式Xで謝罪 熊本地震直後に公演告知「不適切なタイミングとなってしまい」 投稿は削除 (2026年7月28日掲載)",
+              "url": "https://news.livedoor.com/topics/detail/31935635/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "トヨタ 株価",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "トヨタ、4～6月期決算開示は8月4日午後2時＝経理本部長らがオンライン説明会(時事通信)",
+              "url": "https://finance.yahoo.co.jp/news/detail/0173b7a6bed1c1691849b8fbc6ace6cd5c9df130"
+            },
+            {
+              "title": "上場会社の４〜６月期決算、中東情勢の影響が焦点に 発表予定一覧",
+              "url": "https://news.kobekeizai.jp/blog-entry-23010.html"
+            },
+            {
+              "title": "中東情勢影響に注目 名証上場27年３月期４～６月決算本格化 ピークは８月７日",
+              "url": "https://www.47news.jp/14674463.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "スポーツブル",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "甲子園行き決めた市立福山高校ナイン、学校に凱旋 保護者たちが出迎えねぎらい",
+              "url": "https://www.chugoku-np.co.jp/articles/-/870459"
+            },
+            {
+              "title": "福山の監督「優勝しても驚かないよ」…広島商を下し、創部以来初の甲子園（読売新聞オンライン）",
+              "url": "https://news.yahoo.co.jp/articles/17f8fc085fd90d68380f24a34dd0cf947f5a8ab1"
+            },
+            {
+              "title": "西田尚美、“母校”の甲子園出場に歓喜「甲子園！信じられん驚き」　“激戦区”広島制し創部初となる甲子園へ",
+              "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2470683"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "地殻変動",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "熊本で地震 最大84cmの地殻変動",
+              "url": "https://news.yahoo.co.jp/pickup/6589728"
+            },
+            {
+              "title": "熊本・八代市が地殻変動で北東方向に８４センチずれる…前の地震と同程度、国土地理院がＧＮＳＳ解析",
+              "url": "https://www.yomiuri.co.jp/science/20260729-GYT1T00163/"
+            },
+            {
+              "title": "地震情報",
+              "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260721235809&lang=jp"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "中田敦彦",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "オリラジ中田「戻ってくるんじゃねぇよ！」の声に言及「日本の惨状を皆さんにお伝えしたい」（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/6ba319d7e742f2787a36b685878f9cc8afe931c0"
+            },
+            {
+              "title": "福田萌・中田敦彦が帰国「シンガポール移住」の落とし穴",
+              "url": "https://gendai.media/articles/-/169335?page=2"
+            },
+            {
+              "title": "中田敦彦 （C）ORICON NewS inc.",
+              "url": "https://www.sankei.com/article/20260729-6J2OPWJWFVN5TKDTTQRUEQKBAU/photo/NJWFP67NZBLIHJGZ4WYF4EVN5Y/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "望月慎太郎",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "ウインブルドン16強の望月慎太郎がチャレンジャー大会で今季初のベスト4 [ウィニペグ・チャレンジャー／テニス]",
+              "url": "https://news.yahoo.co.jp/articles/8c65ac56d10017343681dd2621fbcf2457c070ca"
+            },
+            {
+              "title": "「世界一の相手でも通用する」 テニス・望月慎太郎選手 ベスト１６入りに手応え",
+              "url": "https://www.kochinews.co.jp/article/detail/1025452"
+            },
+            {
+              "title": "望月慎太郎 熱戦制し今季2度目の8強",
+              "url": "https://news.tennis365.net/news/today/202607/158434.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "高校 野球 49 代表 校",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "【一覧】甲子園出場49校完全データ Ａ評価は７校 展望 部員数 主な卒業生付き",
+              "url": "https://www.nikkansports.com/baseball/highschool/news/202607290000071.html"
+            },
+            {
+              "title": "夏の全国高校野球 49の代表校が出そろう 初出場は4校",
+              "url": "https://news.web.nhk/newsweb/na/na-k10015188741000"
+            },
+            {
+              "title": "【夏の甲子園展望】横浜がＶ候補筆頭か 昨夏覇者・沖縄尚学、履正社、仙台育英ら全国制覇経験校も有力 神村学園、関東第一などにもチャンス…４９代表出そろう（スポーツ報知）",
+              "url": "https://news.yahoo.co.jp/articles/e09c9507e133cfaea9cc50d37bc357e9e324eb9b"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "友近千鶴",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "友近の母死去　「友近ママ」こと友近千鶴さん　冠番組放送の南海放送が報告",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkangeinou/entertainment/f-et-tp0-260729-202607290000094"
+            },
+            {
+              "title": "「友近ママ」死去　占い師・MCとしてメディアで活躍の友近千鶴さん　地元でお別れの会",
+              "url": "https://www.nikkansports.com/entertainment/news/202607290000094.html"
+            },
+            {
+              "title": "友近の母、友近千鶴さん死去 占い師、ラジオパーソナリティーとして活躍 「しゃべくり」など地上波出演も（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/0d76007d23a1571726085f403e7a1a0e90eee31f"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ドジャース 対 マリナーズ",
+          "traffic": "50000+",
+          "related_news": [
+            {
+              "title": "大谷翔平、お待たせ後半戦初アーチ 10戦45打席ぶり23号弾 本拠地ドジャー・スタジアム沸騰 先頭弾日本人最多イチローまであと「3」（中日スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/0ed36d87356ac105efbc3242598d1256ae83ca0f"
+            },
+            {
+              "title": "大谷翔平　後半戦初アーチは先頭打者弾！10試合45打席ぶり豪快23号に本拠ファン大熱狂",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260729-0147"
+            },
+            {
+              "title": "【速報します】ドジャース・大谷翔平、後半戦10試合目で初アーチ出るか　「1番・DH」でマリナーズ戦",
+              "url": "https://www.sanspo.com/article/20260729-BOPDPSYZYBCCRFJ7INF3QTGMKM/?outputType=theme_mlb"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "肉の日",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "焼肉の和民、7月29日の「肉の日」に「ワタミカルビ（中サイズ）」を29％増量・「ワタミ上カルビ」を29％オフで提供（グルメ Watch）",
+              "url": "https://news.yahoo.co.jp/articles/f1b4e659ef043f5fefd4b2e79b3f5441f1885734"
+            },
+            {
+              "title": "【7/29(水)限定】夏本番のスタミナチャージに！宮崎牛や人気のBOX商品を特別価格で販売するミヤチクオンラインショップ「肉の日特別販売」を開催！ - 写真・画像(1/1)",
+              "url": "https://www.nishinippon.co.jp/image/1065885/"
+            },
+            {
+              "title": "JAタウンで肉の日限定セールを開催黒田庄和牛や沖縄あぐー等ブランド牛や豚、鶏商品がこの日限りの特別価格",
+              "url": "https://www.okinawatimes.co.jp/articles/-/1889974"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 38,
+          "interest_max": 100,
+          "interest_latest": 35,
+          "rank": 1
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-07-29T02:43:40.427652+00:00"
+}

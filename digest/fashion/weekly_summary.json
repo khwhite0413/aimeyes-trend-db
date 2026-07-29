@@ -1,21 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-07-22",
-    "to": "2026-07-28"
+    "from": "2026-07-23",
+    "to": "2026-07-29"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "fashion",
+      "growth": "+22%",
+      "total_mentions": 141
+    },
+    {
+      "keyword": "#shorts",
+      "growth": "+7%",
+      "total_mentions": 89
+    },
+    {
       "keyword": "플리츠원피스",
       "growth": "+9%",
-      "total_mentions": 80
+      "total_mentions": 81
+    },
+    {
+      "keyword": "ootd",
+      "growth": "+33%",
+      "total_mentions": 74
     },
     {
       "keyword": "에고이스트",
       "growth": "+38%",
-      "total_mentions": 68
+      "total_mentions": 71
     }
   ],
   "most_cross_platform": [
@@ -50,9 +65,9 @@
     "여름원피스",
     "블라우스",
     "플리츠원피스",
-    "잇미샤원피스",
     "ootd",
-    "티셔츠",
-    "#fashion"
+    "잇미샤원피스",
+    "에고이스트",
+    "티셔츠"
   ]
 }
