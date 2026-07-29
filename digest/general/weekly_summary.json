@@ -9,8 +9,13 @@
   "top_rising": [
     {
       "keyword": "trend",
-      "growth": "+25%",
-      "total_mentions": 118
+      "growth": "+38%",
+      "total_mentions": 120
+    },
+    {
+      "keyword": "#shorts",
+      "growth": "+9%",
+      "total_mentions": 88
     },
     {
       "keyword": "플리츠원피스",
@@ -23,17 +28,20 @@
       "total_mentions": 71
     },
     {
-      "keyword": "#trend",
-      "growth": "+50%",
-      "total_mentions": 35
-    },
-    {
-      "keyword": "#edit",
-      "growth": "+25%",
-      "total_mentions": 28
+      "keyword": "#viralvideo",
+      "growth": "+11%",
+      "total_mentions": 46
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "노웨이홈",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "헝가리 그랑프리",
       "platforms": [
