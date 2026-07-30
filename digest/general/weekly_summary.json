@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-07-23",
-    "to": "2026-07-29"
+    "from": "2026-07-24",
+    "to": "2026-07-30"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "trend",
-      "growth": "+38%",
-      "total_mentions": 120
-    },
-    {
-      "keyword": "#shorts",
-      "growth": "+9%",
-      "total_mentions": 88
+      "growth": "+16%",
+      "total_mentions": 126
     },
     {
       "keyword": "플리츠원피스",
       "growth": "+9%",
-      "total_mentions": 81
+      "total_mentions": 82
     },
     {
       "keyword": "에고이스트",
-      "growth": "+38%",
-      "total_mentions": 71
+      "growth": "+22%",
+      "total_mentions": 74
     },
     {
       "keyword": "#viralvideo",
-      "growth": "+11%",
-      "total_mentions": 46
+      "growth": "+57%",
+      "total_mentions": 48
+    },
+    {
+      "keyword": "#trend",
+      "growth": "+33%",
+      "total_mentions": 40
     }
   ],
   "most_cross_platform": [
@@ -61,13 +61,13 @@
   "top_keywords_overall": [
     "trend",
     "#trending",
-    "#viral",
     "#shorts",
+    "#viral",
     "원피스",
     "여름원피스",
     "블라우스",
     "플리츠원피스",
-    "잇미샤원피스",
-    "에고이스트"
+    "에고이스트",
+    "잇미샤원피스"
   ]
 }

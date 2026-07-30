@@ -1,0 +1,927 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "삼성전자 실적 발표",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "[속보] 삼성전자 2분기 매출 171.5조‥역대 분기 최대 실적",
+              "url": "https://imnews.imbc.com/news/2026/econo/article/6841151_36932.html"
+            },
+            {
+              "title": "[컨콜]삼성전자 \"미국 테일러 팹2 올해말 착공…2030년 양산 목표\" - 머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/07/30/2026073011092845644"
+            },
+            {
+              "title": "삼성전자 2분기 반도체 영업이익 89조…완제품은 첫 적자",
+              "url": "https://www.hani.co.kr/arti/economy/marketing/1270607.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "중대범죄수사청",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "중수청 가는 검사들, 4·5급 대우 받을 듯",
+              "url": "https://www.chosun.com/national/court_law/2026/07/30/FKVJK7PSKVBKHNVRKEJZ4CBD7U/"
+            },
+            {
+              "title": "중수청, 검찰 대상 첫 임용설명회 개최… 전문수사 인력 확보 나선다",
+              "url": "https://www.khan.co.kr/article/202607291648001"
+            },
+            {
+              "title": "정원 채우는 데만 5년… ‘공수처 시즌2’ 우려",
+              "url": "https://m.go.seoul.co.kr/news/society/law/2026/07/30/20260730003001"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "삼성전자 컨퍼런스콜",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "[속보] 삼성전자, 2분기 주당 374원 배당 결정…총 2조4559억 규모",
+              "url": "https://www.mk.co.kr/news/business/12111716"
+            },
+            {
+              "title": "[컨콜] 삼성전자 “상반기 누적 영업익의 10.5% 특별성과급 일부 반영” - 조선비즈",
+              "url": "https://biz.chosun.com/it-science/ict/2026/07/30/ARLE5MQ7OBAALJR6FTLB5V3VZE/"
+            },
+            {
+              "title": "삼성전자 주가 장중 강세, 2분기 실적발표·배당 결의에 상승 전환",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443522"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "이영자",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "관계라는 빚, 개그우먼 이영자가 현금을 잃고 얻은 것",
+              "url": "https://www.segye.com/newsView/20260616516695"
+            },
+            {
+              "title": "'장윤정·이찬원 이적' 티엔엔터, 임원 3명 배임 정황 적발",
+              "url": "https://v.daum.net/v/20260728105409384"
+            },
+            {
+              "title": "김숙·이영자·홍진경 소속사, 임원 3명 배임 의혹 - 머니투데이",
+              "url": "https://www.mt.co.kr/society/2026/07/28/2026072814013958448"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "심준석",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "초특급 유망주였던 심준석, 제구 잡지 못하고 메츠서도 방출",
+              "url": "https://www.yna.co.kr/view/AKR20260730024600007"
+            },
+            {
+              "title": "MLB 직행했던 ‘특급 유망주’ 심준석, 루키리그 뛰다 메츠서 방출",
+              "url": "https://www.donga.com/news/Sports/article/all/20260730/134393137/1"
+            },
+            {
+              "title": "'KBO 드래프트 포기' 잘못된 선택이었나? 韓 초특급 유망주, 美 최하위 리그서도 못 버텼다...한국 돌아와야 하나",
+              "url": "https://v.daum.net/v/20260730105338393"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "삼성전자 ir",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "삼성전자 \"ADR 상장 검토 안해…안정적 현금창출력 확보중\"",
+              "url": "https://www.yna.co.kr/view/AKR20260730087400003"
+            },
+            {
+              "title": "[컨콜]삼성전자 \"미국 ADR 발행, 현재 검토 안 해…중장기 검토 가능\"",
+              "url": "https://www.newsis.com/view/NISX20260730_0003729622"
+            },
+            {
+              "title": "[컨콜]삼성 \"현재 ADR 발행 검토 안 해…자금조달 필요성 높지 않아\" - 머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/07/30/2026073010484980436"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "창원시",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "창원시장 \"민주주의전당 개편, 합리적 방안 마련해 나가겠다\"",
+              "url": "https://v.daum.net/v/20260730094655642"
+            },
+            {
+              "title": "강기윤 창원시장, 민주주의전당 시민대책위와 첫 면담",
+              "url": "https://www.newsis.com/view/NISX20260730_0003729321"
+            },
+            {
+              "title": "강기윤 창원특례시장, \"민주주의 전당 개편 합리적인 방안 마련할 것\"",
+              "url": "https://www.asiae.co.kr/article/2026073010373267065"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "리브 골프",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "안병훈, 11위…'아쉽다, 올해 두 번째 톱 10 입상'",
+              "url": "https://v.daum.net/v/20260727053328674"
+            },
+            {
+              "title": "안병훈, LIV 영국 대회서 ‘톱10’ 아쉬운 불발",
+              "url": "https://www.munhwa.com/article/11605282"
+            },
+            {
+              "title": "코리아 골프클럽 주장 안병훈, LIV 골프 영국 대회 11위",
+              "url": "https://www.viva100.com/article/20260727500096"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "test",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Tony Romo treating his field sobriety test like an NFL combine leaves fans stunned",
+              "url": "https://www.foxnews.com/outkick-sports/tony-romo-field-sobriety-test-nfl-combine-fans-stunned"
+            },
+            {
+              "title": "Bodycam video shows Tony Romo arrest on suspicion of impaired driving",
+              "url": "https://www.nbcdfw.com/news/sports/bodycam-video-shows-tony-romo-arrest-on-suspicion-of-impaired-driving/4055358/"
+            },
+            {
+              "title": "Tony Romo arrested in Milwaukee on suspicion of operating under the influence",
+              "url": "https://www.wisn.com/article/tony-romo-arrested-in-milwaukee-on-suspicion-of-dui/73256530"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "mls 올스타전",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'별 중의 별' MLS 주장 손흥민, 올스타전서 멀티골…전반 35분 교체",
+              "url": "https://www.newsis.com/view/NISX20260730_0003729207"
+            },
+            {
+              "title": "손흥민, 올스타전 동료들이 가장 좋아하는 선수",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8623913"
+            },
+            {
+              "title": "캡틴 손흥민, '3분 2골' 미쳤다! 올스타전서 동점골·역전골 폭발…MLS 올스타, 멕시코 올스타에 2-1 리드(전반 진행 중)",
+              "url": "https://sports.news.nate.com/view/20260730n09389"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "무신사",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "white sox",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Schlittler hits the mound eying 1st back-to-back wins since May",
+              "url": "https://www.mlb.com/news/cam-schlittler-starts-yankees-vs-white-sox"
+            },
+            {
+              "title": "New York Yankees @ Chicago White Sox: Cam Schlittler vs. Davis Martin",
+              "url": "https://sports.yahoo.com/articles/york-yankees-chicago-white-sox-231000876.html"
+            },
+            {
+              "title": "Yankees vs White Sox betting preview: Gerrit Cole on the run line at +129 is tonight's play",
+              "url": "https://www.foxnews.com/outkick-sports/yankees-vs-white-sox-betting-preview-gerrit-cole-run-line-129-tonights-play"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ahman green",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Packers great Ahman Green reveals that he has Parkinson's disease",
+              "url": "https://sports.yahoo.com/nfl/article/packers-great-ahman-green-reveals-that-he-has-parkinsons-disease-211332617.html"
+            },
+            {
+              "title": "Former Packer Ahman Green reveals Parkinson's diagnosis",
+              "url": "https://fox11online.com/sports/packers-and-nfl/former-packer-ahman-green-announces-parkinsons-diagnosis-green-bay-go-long-tyler-dunne-packers-football-nfl-disease"
+            },
+            {
+              "title": "Wednesday Cheese Curds: Ahman Green reveals Parkinson’s diagnosis",
+              "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84137/green-bay-packers-news-ahman-green-reveals-parkinsons-diagnosis"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "rangers top prospects",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "As Trade Deadline approaches, how are Rangers fans feeling?",
+              "url": "https://www.mlb.com/news/rangers-fan-survey-results-as-trade-deadline-nears"
+            },
+            {
+              "title": "Trade Deadline Prospects Guide: Texas Rangers",
+              "url": "https://blogs.fangraphs.com/trade-deadline-prospects-guide-texas-rangers/"
+            },
+            {
+              "title": "Rangers Have Minimal Financial Flexibility As Deadline Approaches",
+              "url": "https://www.mlbtraderumors.com/2026/07/rangers-trade-rumors-payroll-lack-flexibility-money.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "watch what happens live",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Madonna's Daughter Mercy Landed A Job Working With One Of Her Enemies",
+              "url": "https://www.yahoo.com/entertainment/celebrity/articles/madonnas-daughter-mercy-landed-job-183806167.html"
+            },
+            {
+              "title": "Madonna’s 20-year-old daughter Mercy’s secret Bravo job revealed",
+              "url": "https://pagesix.com/2026/07/28/parents/madonnas-20-year-old-daughter-mercys-secret-bravo-job-revealed/"
+            },
+            {
+              "title": "Madonna's daughter Mercy James has a surprise job in Hollywood",
+              "url": "https://www.hola.com/us/celebrities/20260729915474/madonna-daughter-mercy-james-secret-job-entertainment/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ksi",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Canada’s Answer to Trump’s Tariffs: More Energy Deals With Europe",
+              "url": "https://www.nytimes.com/2026/07/29/world/canada/canada-lng-germany-carney-trump-tariffs.html"
+            },
+            {
+              "title": "Germany's Uniper firms up 20-year LNG purchase deal with Canada",
+              "url": "https://www.reuters.com/business/energy/germanys-uniper-firms-up-20-year-lng-purchase-deal-with-canada-2026-07-29/"
+            },
+            {
+              "title": "Ksi Lisims LNG project in B.C. signs 20-year deal with German utility",
+              "url": "https://www.bnnbloomberg.ca/business/company-news/2026/07/29/bc-lng-project-signs-20-year-supply-deal-with-german-utility/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "mariners - dodgers",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "Watch Mariners face the Dodgers this week FREE on Mariners.TV",
+              "url": "https://www.mlb.com/news/watch-mariners-dodgers-free-on-mariners-tv"
+            },
+            {
+              "title": "Dodgers vs. Mariners game chat",
+              "url": "https://sports.yahoo.com/articles/dodgers-vs-mariners-game-chat-015200621.html"
+            },
+            {
+              "title": "The Frying Pan: Mariners at Dodgers Series Preview",
+              "url": "https://www.lookoutlanding.com/seattle-mariners-game-information/146910/series-preview-seattle-mariners-at-los-angeles-dodgers-july-2026"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "brooke shields",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Brooke Shields, 61, and Reese Witherspoon, 50, Keep Proving This Summer Denim Trend Is Effortless Yet Refined",
+              "url": "https://people.com/brooke-shields-reese-witherspoon-kate-hudson-white-jeans-amazon-2026-12024871"
+            },
+            {
+              "title": "Brooke Shields Wore the Controversial (But Chic) Summer Pants That’s So Flattering on Women Over 40",
+              "url": "https://shopping.yahoo.com/style/clothing/articles/brooke-shields-wore-controversial-chic-101515134.html"
+            },
+            {
+              "title": "If You Like Rich-Looking White-Jeans Outfits, Skip Sandals and Pair Denim With This Closed-Toe Alt",
+              "url": "https://www.whowhatwear.com/fashion/celebrity-style/white-jeans-grommet-mary-janes-outfit-brooke-shields-2026"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "hayden wesneski",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Astros Activate Hayden Wesneski",
+              "url": "https://www.mlbtraderumors.com/2026/07/astros-to-activate-hayden-wesneski-on-wednesday.html"
+            },
+            {
+              "title": "Astros' Hayden Wesneski: Activated ahead of start",
+              "url": "https://www.cbssports.com/fantasy/baseball/news/astros-hayden-wesneski-activated-ahead-of-start/"
+            },
+            {
+              "title": "Hayden Wesneski returns for start vs. Angels",
+              "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/hayden-wesneski-returns-for-start-vs-angels"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "furious hulu cast",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Hulu’s ‘Furious’ is a riveting crime thriller for the age of Epstein",
+              "url": "https://www.bostonglobe.com/2026/07/29/arts/furious-emmy-rossum-lola-petticrew/"
+            },
+            {
+              "title": "Hulu’s Riveting Revenge Thriller 'Furious' Is Going to Haunt You",
+              "url": "https://time.com/article/2026/07/24/furious-review-hulu/"
+            },
+            {
+              "title": "Emmy Rossum quit 'Furious' FBI training after shooting scene got 'too real'",
+              "url": "https://www.usatoday.com/story/entertainment/tv/2026/07/27/emmy-rossum-show-furious-hulu-fbi-agent-training/91064590007/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "korean stock market",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "South Korea $2 trillion stock rout breaks records as SK Hynix results disappoint",
+              "url": "https://www.reuters.com/world/asia-pacific/south-korea-stock-rout-breaks-records-sk-hynix-earnings-disappoint-2026-07-29/"
+            },
+            {
+              "title": "Korean Stocks Decline After Samsung Results, New ETF Curbs",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-30/korean-stocks-decline-after-samsung-results-new-etf-curbs"
+            },
+            {
+              "title": "When the Chips Are Down",
+              "url": "https://paulkrugman.substack.com/p/when-the-chips-are-down"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 12
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "fomc frb",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "ウォーシュFRB議長、煮え切らぬ利上げ姿勢 「唯一の解決策ではない」",
+              "url": "https://www.nikkei.com/article/DGXZQOGN3008F0Q6A730C2000000/"
+            },
+            {
+              "title": "米長期金利急騰、ウォーシュ議長に警告－強硬発言だけでは不十分",
+              "url": "https://www.bloomberg.com/jp/news/articles/2026-07-30/TIYKVST96OSH00?srnd=jp-markets"
+            },
+            {
+              "title": "ひとりの男の生きざまを、FOMCに見る？ ここ数年で“最も不確実性の高い”会合",
+              "url": "https://www.businessinsider.jp/article/2607-a-man-way-of-life-seen-in-fomc/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ハーゲンダッツ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "どんな味にする？ 【ハーゲンダッツ】自分好みのアイスが作れる体験型イベントが7/30より原宿で開催",
+              "url": "https://news.yahoo.co.jp/articles/f5de2574bc1b64b72095424dd5dfbbbcfb04548f"
+            },
+            {
+              "title": "ハーゲンダッツ、原宿にキッチンカー登場！ 予約なしでアイスクリーム3種が楽しめる期間限定イベント",
+              "url": "https://topics.smt.docomo.ne.jp/article/allaboutnews/trend/allaboutnews-160643?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch2"
+            },
+            {
+              "title": "画像・写真 | ハーゲンダッツ、約1万通りの組み合わせを楽しむ体験型イベントがあすから開催 おいしさを再発見して“自分だけ”のアイスクリームを【内覧会リポート】 13枚目",
+              "url": "https://www.oricon.co.jp/news/2470794/photo/13/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "沖縄 天気",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【沖縄の天気】7月30日から31日 沖縄本島地方・宮古島地方・八重山地方・大東島地方（沖縄タイムス）",
+              "url": "https://news.yahoo.co.jp/articles/65e292a6687c1905187662aab39abdf696a9368b"
+            },
+            {
+              "title": "南大東で34．1度を観測　7月の史上最高気温　名護市も34．2度　沖縄",
+              "url": "https://topics.smt.docomo.ne.jp/article/ryukyu/region/ryukyu-20260728050011"
+            },
+            {
+              "title": "南大東３４・１度 ７月最高気温に",
+              "url": "https://ryukyushimpo.jp/national/entry-5407147.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "インハイtv",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 5,
+          "keyword": "mistfall hunter",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "『Mistfall Hunter』が本日7月30日正式リリース。ダークファンタジー世界が舞台のPvPvE脱出アクションゲーム",
+              "url": "https://news.denfaminicogamer.jp/news/2607302q"
+            },
+            {
+              "title": "Mistfall Hunter：正式リリース日と開始時間",
+              "url": "https://games.gg/ja/mistfall-hunter/guides/mistfall-hunter%E6%AD%A3%E5%BC%8F%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%97%A5%E3%81%A8%E9%96%8B%E5%A7%8B%E6%99%82%E9%96%93/"
+            },
+            {
+              "title": "脱出アクションRPG「Mistfall Hunter」，PC/PS/Xbox向けにリリース。ダークファンタジー世界を舞台に，ソロまたは3人チームで戦利品を集めよう",
+              "url": "https://www.4gamer.net/games/848/G084898/20260729010/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "大迫敬介",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "日本代表27歳が電撃離脱「マジか」 開幕1週間前に衝撃…ファン複雑「ついにこのときが」（FOOTBALL ZONE）",
+              "url": "https://news.yahoo.co.jp/articles/ecce5e973be9f3c32bfcb7bc6f976af6a90a93fb"
+            },
+            {
+              "title": "【J1サンフレッチェ広島】日本代表GK大迫敬介 海外移籍準備のためチーム離脱 昨季リーグ最少失点貢献の守護神",
+              "url": "https://newsdig.tbs.co.jp/articles/rcc/2837196?display=1"
+            },
+            {
+              "title": "広島ＧＫ大迫敬介がベルギー１部サンジロワーズへ　かつて三笘薫もプレーした昨季リーグ２位の強豪　",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260730-OHT1T51065"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "有働由美子",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "有働由美子、夏野菜をたっぷり使った“簡単”自炊ごはんを披露「彩りがキレイ」「レンジでできるんですね」「マネしてみよー」",
+              "url": "https://www.oricon.co.jp/news/2470532/full/"
+            },
+            {
+              "title": "有働由美子、ナス・きゅうり・トマトを一気に！大量調理⇒レンチンの“揚げ浸しもどき”が「色鮮やかで美味しそう」",
+              "url": "https://news.yahoo.co.jp/articles/279bd17d51df393383328983f193c973fdc9e773"
+            },
+            {
+              "title": "有働由美子「一人暮らしとは思えない量」レンチンで作る夏野菜の揚げ浸し披露「野菜たっぷりで健康的」「2日で食べ切るのすごい」と反響",
+              "url": "https://topics.smt.docomo.ne.jp/article/mdpr/entertainment/mdpr-4820818"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "高額療養費制度",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "高額療養費制度の改正は「負担増」が問題ではない…見落とすと危ない「制度変更」の中身",
+              "url": "https://diamond.jp/articles/-/395951?page=2"
+            },
+            {
+              "title": "いよいよ始まる自己負担上限額の引き上げ…… 制度改正は本当に患者の声を反映しているのか？",
+              "url": "https://shinsho-plus.shueisha.co.jp/column/koryohi_beyond/36233"
+            },
+            {
+              "title": "【高額療養費改定】医療費跳ね上がりをどう防ぐ？シニア世代が模索する「年金収入ゴルディロックス」戦略",
+              "url": "https://jbpress.ismedia.jp/articles/-/96154"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "鶴屋百貨店",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "壁にひび・天井落下・冷蔵設備不具合、熊本地震で店舗再開のめど立たず…ブルーシートや飲料水需要高く",
+              "url": "https://www.yomiuri.co.jp/national/20260730-GYT1T00076/"
+            },
+            {
+              "title": "【 井手らっきょ 】熊本地震　地元で経営するバーも被害「しばらく営業出来ません」ボトルやグラスが割れ散乱「冷蔵庫&電子レンジが倒壊」",
+              "url": "https://topics.smt.docomo.ne.jp/article/tbs/entertainment/tbs-2836766"
+            },
+            {
+              "title": "【熊本県で震度７】道内企業 店舗の社員１人けが",
+              "url": "https://news.web.nhk/newsweb/na/nb-7000087005"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "ピッチクロック",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "ピッチクロックなどの導入が急務 プロ野球オーナーと選手会の会談の行方は #エキスパートトピ（上原浩治） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/0e3af01e48374406890a6e85d2e87b5caa7c8fc0"
+            },
+            {
+              "title": "球団オーナーvsプロ野球選手会 史上初「異例」の直接会談に透けて見える“バーター取引”",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkangendai/sports/nikkangendai-1235777"
+            },
+            {
+              "title": "プロ野球選手会とオーナーの初会談、広島松田元オーナー「選手と話ができたのが一番」",
+              "url": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202607280000564-3.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-07-30T02:29:17.554699+00:00"
+}
