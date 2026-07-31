@@ -9,8 +9,8 @@
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+24%",
-      "total_mentions": 142
+      "growth": "+53%",
+      "total_mentions": 147
     },
     {
       "keyword": "원피스",
@@ -23,9 +23,9 @@
       "total_mentions": 83
     },
     {
-      "keyword": "ootd",
-      "growth": "+22%",
-      "total_mentions": 74
+      "keyword": "style",
+      "growth": "+140%",
+      "total_mentions": 69
     },
     {
       "keyword": "티셔츠",
@@ -47,6 +47,14 @@
       "platforms": [
         "naver",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "은중과 상연",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     },
@@ -84,6 +92,6 @@
     "에고이스트",
     "ootd",
     "잇미샤원피스",
-    "티셔츠"
+    "style"
   ]
 }
