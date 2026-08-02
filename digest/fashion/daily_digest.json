@@ -2,22 +2,11 @@
   "date": "2026-08-02",
   "mode": "fashion",
   "compared_to": "2026-08-01",
-  "total_keywords_today": 431,
+  "total_keywords_today": 436,
   "total_keywords_yesterday": 437,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
-    {
-      "keyword": "fashion",
-      "change": "+8%",
-      "today_count": 27,
-      "yesterday_count": 25,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 27건, 어제 25건 기준"
-    },
     {
       "keyword": "블라우스",
       "change": "+8%",
@@ -32,25 +21,14 @@
     },
     {
       "keyword": "trends",
-      "change": "+38%",
-      "today_count": 11,
+      "change": "+12%",
+      "today_count": 9,
       "yesterday_count": 8,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 11건, 어제 8건 기준"
-    },
-    {
-      "keyword": "milan",
-      "change": "+14%",
-      "today_count": 8,
-      "yesterday_count": 7,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 8건, 어제 7건 기준"
+      "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
       "keyword": "시슬리원피스",
@@ -75,7 +53,18 @@
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "haul",
+      "keyword": "#데일리룩코디",
+      "change": "+17%",
+      "today_count": 7,
+      "yesterday_count": 6,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 7건, 어제 6건 기준"
+    },
+    {
+      "keyword": "데일리룩코디",
       "change": "+17%",
       "today_count": 7,
       "yesterday_count": 6,
@@ -97,6 +86,17 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
+      "keyword": "데일리룩",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
       "keyword": "에고이스트원피스",
       "change": "+20%",
       "today_count": 6,
@@ -108,48 +108,37 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "fall",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
+      "keyword": "shopping",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "winter",
-      "change": "+300%",
-      "today_count": 4,
-      "yesterday_count": 1,
-      "confidence": "low",
+      "keyword": "#데일리룩",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 1건 기준"
-    },
-    {
-      "keyword": "wear",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
       "keyword": "amp",
-      "change": "+33%",
-      "today_count": 4,
+      "change": "+67%",
+      "today_count": 5,
       "yesterday_count": 3,
-      "confidence": "low",
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
       "keyword": "back",
@@ -163,7 +152,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "hats",
+      "keyword": "fall",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -174,7 +163,18 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "taking",
+      "keyword": "winter",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "wear",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -185,7 +185,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "over",
+      "keyword": "looks",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -196,7 +196,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "don",
+      "keyword": "여성",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -207,7 +207,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "miss",
+      "keyword": "패션",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -218,7 +218,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "related",
+      "keyword": "model",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -238,17 +238,17 @@
       "confidence": "high"
     },
     {
+      "keyword": "style",
+      "change": "-8%",
+      "today_count": 11,
+      "yesterday_count": 12,
+      "confidence": "high"
+    },
+    {
       "keyword": "ootd",
       "change": "-10%",
       "today_count": 9,
       "yesterday_count": 10,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "#fashion",
-      "change": "-11%",
-      "today_count": 8,
-      "yesterday_count": 9,
       "confidence": "medium"
     },
     {
@@ -280,13 +280,6 @@
       "confidence": "medium"
     },
     {
-      "keyword": "#ootd",
-      "change": "-14%",
-      "today_count": 6,
-      "yesterday_count": 7,
-      "confidence": "medium"
-    },
-    {
       "keyword": "여름코디",
       "change": "-17%",
       "today_count": 5,
@@ -299,6 +292,13 @@
       "today_count": 4,
       "yesterday_count": 6,
       "confidence": "low"
+    },
+    {
+      "keyword": "올리비아로렌",
+      "change": "-17%",
+      "today_count": 5,
+      "yesterday_count": 6,
+      "confidence": "medium"
     }
   ],
   "new_entries": [],
