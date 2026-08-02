@@ -1,0 +1,926 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "스마트폰",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "\"스마트폰 300만원 시대\" 액정만 깨져도 100만원…휴대폰보험 '필수'됐다",
+              "url": "https://v.daum.net/v/20260802081150949"
+            },
+            {
+              "title": "미니보험 손질나선 보험사… 보장 키워 가입자 공략",
+              "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167012"
+            },
+            {
+              "title": "카카오페이손보, 갤럭시 파손 보장 최대 5년으로 확대",
+              "url": "https://www.ajunews.com/view/20260727094054705"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "앙투안 그리즈만",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[오피셜] “이강인의 시간은 끝났다” 결국 현실로···AT 마드리드 합류 실패 “맨유전 소집 명단 제외” 한국에...",
+              "url": "https://sports.khan.co.kr/article/202608010525003"
+            },
+            {
+              "title": "'이강인에게 7번 부여한' AT 마드리드, '리버풀과 결별' 살라까지 노린다 '2+1년 제안 계획'",
+              "url": "https://www.chosun.com/sports/world-football/2026/08/02/MRSTQYZQGY3GIMLBMU4TCNLDMI/"
+            },
+            {
+              "title": "\"PSG는 중요한 로테이션 자원 잃었지만 ATM 경영진은 벌써부터 미소를..\" 이강인 이적이 마냥 부러운 佛언론",
+              "url": "https://v.daum.net/v/20260801201609879"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "박동빈",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "故 박동빈 아내, 남편 향한 그리움 \"보고 싶어 사랑해\"",
+              "url": "https://www.newsis.com/view/NISX20260802_0003732887"
+            },
+            {
+              "title": "\"보고싶어 사랑해\" 故 박동빈 아내 이상이, 사별 95일만 '먹먹' 첫 심경 - 조선비즈",
+              "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/02/GAYTSOJWMNTGGY3GMUZTINBQGY/"
+            },
+            {
+              "title": "[단독] “지유와 다시 하루를 살아갑니다” 故 박동빈 아내 이상이, 다시 살아갈 이유 (下)",
+              "url": "https://www.mk.co.kr/news/entertain/12114270"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "조카",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "조카 선물 챙기던 미혼 이모의 씁쓸한 깨달음…\"재산, 피 한 방울 안 섞인 곳에 줄 겁니다\"",
+              "url": "https://news.nate.com/view/20260802n01242"
+            },
+            {
+              "title": "\"언니 잘못되면 유산 우리 애 몫\"...우연히 들은 동생 부부 속내 '충격' - 머니투데이",
+              "url": "https://www.mt.co.kr/society/2026/07/31/2026073108053874627"
+            },
+            {
+              "title": "\"언니 잘못되면 유산은 우리 애한테\"…동생 부부 대화에 배신감 느낀 40대 미혼女 [이런 法]",
+              "url": "https://www.fnnews.com/news/202607311439501166"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "학림도",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "통영섬 잇는 세 번째 해상보도교 “바다 위 170m 트레킹 즐기세요”",
+              "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260731.22008009039"
+            },
+            {
+              "title": "\"걸어서 갈 수 없던 옆 마을 이제는 10분\"…통영 송도~학림도 연결",
+              "url": "https://www.newsis.com/view/NISX20260731_0003732267"
+            },
+            {
+              "title": "통영 송도-학림도 연결 170ｍ 다리 개통…걸어서 왕래 가능",
+              "url": "https://v.daum.net/v/20260731100857865"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "지방 선거",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "[단독] 3시간 넘게 투표자 수 '0명'…전국 51곳서 '허위 입력' 정황",
+              "url": "https://v.daum.net/v/20260801212129601"
+            },
+            {
+              "title": "국힘 주진우 \"선관위, 지난 대선 투표율 조작…신속히 강제수사 하라\" - 머니투데이",
+              "url": "https://www.mt.co.kr/politics/2026/08/02/2026080210033483705"
+            },
+            {
+              "title": "목포·광양·포항도 지방선거 당일 수시간 동안 '투표자 0명'",
+              "url": "https://www.yna.co.kr/view/AKR20260801048400001"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "방파제",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "하귀 포구서 60대 남성 심정지…수영하던 관광객들도 구조",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8626160"
+            },
+            {
+              "title": "방파제 벽 잡고 버텨.. 제주 해안가서 40·50대 물놀이객 5명 구조",
+              "url": "https://v.daum.net/v/20260801101259755"
+            },
+            {
+              "title": "제주 바다에 뛰어들었다가…40·50대 남성 5명 구조",
+              "url": "https://www.news1.kr/local/jeju/6246019"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "이수현",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "'30㎏ 감량' 악뮤 수현 \"7㎏ 더 빼고 싶어\" 몰라보게 달라진 근황",
+              "url": "https://www.newsis.com/view/NISX20260731_0003731541"
+            },
+            {
+              "title": "‘악뮤’ 이수현 “정신 무너져 몸도 망가졌다”…독한 다이어트 고백",
+              "url": "https://www.donga.com/news/Entertainment/article/all/20260801/134404806/1"
+            },
+            {
+              "title": "악뮤 수현 회사 복지 어떻길래…주 4일 근무에 기안84도 '깜짝' (인생84)",
+              "url": "https://v.daum.net/v/20260731203049817"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "aig 여자오픈",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "유해란, AIG 여자오픈 3R 공동 2위…’메이저 3연승’ 막판 뒤집기 도전",
+              "url": "https://www.yonhapnewstv.co.kr/news/AKR20260802085312oJU"
+            },
+            {
+              "title": "메이저 3연승 도전 유해란, 3R 부진…역전 우승 희망",
+              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260802010000061"
+            },
+            {
+              "title": "사흘 연달아 맞붙은 넬리코다와 리디아고, 3R는 어땠나? [LPGA AIG여자오픈]",
+              "url": "https://v.daum.net/v/20260802073038451"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "이정효",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "K리그2 수원팬들 역전골 취소 판정에 점거 시위",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8626271"
+            },
+            {
+              "title": "'이정효 폭발' 수원 0-2→3-2 역전 환호도 잠시... 역전골 취소에 아쉬운 무승부",
+              "url": "https://v.daum.net/v/20260801231937601"
+            },
+            {
+              "title": "'우승 후보' 수원, 충북청주와 극적 2-2 무승부…화성은 대구 대파",
+              "url": "https://www.newsis.com/view/NISX20260801_0003732712"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 60,
+          "interest_max": 100,
+          "interest_latest": 54,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 7,
+          "interest_max": 21,
+          "interest_latest": 5,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 39,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 44,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "kade anderson",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Fantasy baseball waiver wire targets: Max Clark, Kumar Rocker are priority pickups",
+              "url": "https://www.nytimes.com/athletic/7480349/2026/07/31/fantasy-baseball-waiver-wire-targets-max-clark/"
+            },
+            {
+              "title": "Fantasy baseball waiver wire: Max Clark is here, Kade Anderson could be next",
+              "url": "https://www.nbcsports.com/fantasy/baseball/news/fantasy-baseball-waiver-wire-max-clark-is-here-kade-anderson-could-be-next"
+            },
+            {
+              "title": "Fantasy Baseball Waiver Wire: Heriberto Hernández leads a list with someone for everyone",
+              "url": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-waiver-wire-heriberto-hernandez-leads-a-list-with-someone-for-everyone-145237236.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "tom hanks",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "10 Movies That Give Away the Ending in the Title",
+              "url": "https://movieweb.com/movie-titles-give-away-ending/"
+            },
+            {
+              "title": "Tom Hanks 'Fell Asleep During Taylor Swift and Kelce's Vows,' Sources Claim",
+              "url": "https://ca.style.yahoo.com/tom-hanks-fell-asleep-during-160000821.html"
+            },
+            {
+              "title": "EXCLUSIVE: Tom Hanks 'Fell Asleep During Taylor Swift and Kelce's Vows'",
+              "url": "https://www.aol.com/articles/exclusive-tom-hanks-fell-asleep-160000000.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ariana grande weight",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Internet horrified at star’s ‘hard to watch’ clip",
+              "url": "https://www.news.com.au/entertainment/music/new-music-video-sparks-fears-for-ariana-grande/news-story/84ebba7503b87776d610529e878d614d"
+            },
+            {
+              "title": "'Her bones are popping out': Ariana Grande's Petal video triggers fresh body image debate as fans clash o",
+              "url": "https://timesofindia.indiatimes.com/life-style/beauty/her-bones-are-popping-out-ariana-grandes-petal-video-triggers-fresh-body-image-debate-as-fans-clash-over-her-appearance/articleshow/132790082.cms"
+            },
+            {
+              "title": "A new photo of Ariana Grande sparked a viral debate over the singer's health — but is it ever OK to talk about someone's weight?",
+              "url": "https://ca.style.yahoo.com/a-new-photo-of-ariana-grande-sparked-a-viral-debate-over-the-singers-health--but-is-it-ever-ok-to-talk-about-someones-weight-175835750.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "myspace coming back",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "MySpace is making a comeback just as we’re growing tired of social media",
+              "url": "https://vogueadria.com/myspace-social-media-comeback/"
+            },
+            {
+              "title": "Myspace Is Coming Back and If You Don't Know What That Is, You're Too Young to Click In",
+              "url": "https://www.eonline.com/news/1434548/myspace-is-getting-a-relaunch-though-without-tom-anderson"
+            },
+            {
+              "title": "MySpace Owners Tease a Comeback as Fans Revisit the Social Media’s Classic Era",
+              "url": "https://thesource.com/2026/07/31/myspace-owners-tease-a-comeback-as-fans-revisit-the-social-medias-classic-era/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "trade deadline mlb",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "MLB trade deadline dominoes for 10 biggest names on 2026 market",
+              "url": "https://www.espn.com/mlb/story/_/id/49489686/mlb-trade-deadline-2026-dominoes-market-skubal-peralta-gausman-arraez-holmes"
+            },
+            {
+              "title": "2026 MLB trade deadline rumors, news, live updates: Tarik Skubal talks expected to heat up, White Sox land Luis Castillo",
+              "url": "https://sports.yahoo.com/mlb/live/2026-mlb-trade-deadline-rumors-news-live-updates-tarik-skubal-talks-expected-to-heat-up-white-sox-land-luis-castillo-182640023.html"
+            },
+            {
+              "title": "What we’re hearing about the Yankees, Phillies and others at the MLB trade deadline",
+              "url": "https://www.nytimes.com/athletic/7484264/2026/07/31/mlb-trade-deadline-yankees-phillies-tarik-skubal-luis-arraez/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "5g",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+              "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html"
+            },
+            {
+              "title": "EchoStar can’t pay itself from 5G trust fund, FCC says",
+              "url": "https://www.fierce-network.com/wireless/echostar-cant-pay-itself-5g-trust-fund-fcc-says"
+            },
+            {
+              "title": "FCC Says EchoStar Can't Use Trust Fund To Pay Itself",
+              "url": "https://www.law360.com/bankruptcy-authority/articles/2507734/fcc-says-echostar-can-t-use-trust-fund-to-pay-itself"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "dbacks",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "D-backs @ Guardians Discussion",
+              "url": "https://www.azsnakepit.com/arizona-diamondbacks-discussion/95474/d-backs-guardians-discussion"
+            },
+            {
+              "title": "Guardians, Arizona Diamondbacks series preview, pitching matchups",
+              "url": "https://www.cleveland.com/guardians/2026/07/guardians-arizona-diamondbacks-series-preview-pitching-matchups.html"
+            },
+            {
+              "title": "DIAMONDBACKS AT GUARDIANS: Drake vs. Messick, discussion",
+              "url": "https://www.coveringthecorner.com/cleveland-guardians-discussion/72146/diamondbacks-at-guardians-drake-vs-messick-discussion"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "손흥민",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "손흥민, MLS 4경기 연속골 '쾅!'…밴쿠버전 환상 선제골",
+              "url": "https://www.chosun.com/sports/2026/08/02/X3O6GNIXOBDEXFHCGBKDALEKJA/"
+            },
+            {
+              "title": "'공식전 5경기 연속골' 손흥민, 뮐러 PK에 승점 3점 날아갔다... LAFC는 뼈아픈 1-1 무승부",
+              "url": "https://www.koreadaily.com/article/20260801185043605"
+            },
+            {
+              "title": "손흥민, MLS 올스타전 멀티골·MVP… 한국 선수 최초 새 역사",
+              "url": "http://www.koreatimes.com/article/20260730/1623684"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "cruz azul - atlante",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Cruz Azul vs Atlante: posibles alineaciones y probabilidades",
+              "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/17065814/cruz-azul-vs-atlente-alineaciones-probabilidades-apertura-2026"
+            },
+            {
+              "title": "Blindan el Estadio Azteca: refuerzan seguridad con 2 mil 300 policías para el Cruz Azul vs Atlante",
+              "url": "https://www.infobae.com/mexico/2026/08/01/blindan-el-estadio-azteca-refuerzan-seguridad-con-2-mil-300-policias-para-el-cruz-azul-vs-atlante/"
+            },
+            {
+              "title": "Busca Cruz Azul seguir invicto y domar a los Potros",
+              "url": "https://www.reforma.com/busca-cruz-azul-seguir-invicto-y-domar-a-los-potros/ar3250643"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "seattle sounders vs portland",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Matchday | Timbers with Cascadia Cup rivalry showdown Saturday against Seattle",
+              "url": "https://www.timbers.com/news/matchday-timbers-with-cascadia-cup-rivalry-showdown-saturday-against-seattle"
+            },
+            {
+              "title": "Timbers vs. Sounders, livestream: Kickoff, lineups, updates",
+              "url": "https://www.sounderatheart.com/2026/08/timbers-vs-sounders-gamethread-3/"
+            },
+            {
+              "title": "Portland Timbers expect “different game” in Seattle Sounders rematch",
+              "url": "https://www.mlssoccer.com/news/portland-timbers-expect-different-game-in-seattle-rivalry-rematch"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 24,
+          "interest_max": 85,
+          "interest_latest": 22,
+          "rank": 1
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 19,
+          "interest_max": 100,
+          "interest_latest": 32,
+          "rank": 2
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 18,
+          "interest_max": 100,
+          "interest_latest": 29,
+          "rank": 3
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 11,
+          "interest_max": 30,
+          "interest_latest": 11,
+          "rank": 4
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 10,
+          "interest_max": 20,
+          "interest_latest": 12,
+          "rank": 5
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 10,
+          "interest_max": 29,
+          "interest_latest": 12,
+          "rank": 6
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 7,
+          "interest_max": 100,
+          "interest_latest": 3,
+          "rank": 7
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 2,
+          "interest_max": 8,
+          "interest_latest": 4,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 3,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury soft chrome nails",
+          "value": "7619500"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury nails",
+          "value": "300"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette d1",
+          "value": "400"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette d5",
+          "value": "190"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette symbols copy and paste",
+          "value": "160"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette aesthetic outfits",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d1",
+          "value": "120"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ネイマール",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "「ショック」「涙が止まらない」W杯敗退から３週間…ブラジル代表10番の電撃発表にネット騒然「まだ34やろ」「一つの時代が終わる」（SOCCER DIGEST Web）",
+              "url": "https://news.yahoo.co.jp/articles/4d2a0ee6859f4b881e09e8a4d2a3d87ca0f38572"
+            },
+            {
+              "title": "ネイマール、ノイアー、マネ…2026年W杯後に代表引退した世界的スター6人",
+              "url": "https://topics.smt.docomo.ne.jp/article/qoly/sports/qoly-4ffcbb521e115793818223551459c8549bf11902"
+            },
+            {
+              "title": "サッカー＝ネイマール、ブラジル代表引退示唆 「私の時間終わった」",
+              "url": "https://jp.reuters.com/life/sports/65H3EDEPCJON5AFLNFXLZRSHYE-2026-07-30/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "上田晋也",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "リオネル・メッシ",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "39歳メッシ、MLSオールスターゲーム出場せず W杯決勝からわずか10日……MLSと選手会が休養を認める 試合はソン・フンミンの活躍でメキシコリーグに勝利（theWORLD（ザ・ワールドWeb））",
+              "url": "https://news.yahoo.co.jp/articles/5570bcb21214008124a828e59cc543464b99aaa1"
+            },
+            {
+              "title": "｢これはかわいい！｣メッシ合流のインテル・マイアミがオフホワイト×ポップなアクセントカラーの新3rdユニフォーム発表！｢かんわー｣｢普通に似合いすぎる｣",
+              "url": "https://soccerhihyo.futabanet.jp/articles/-/111427?page=1"
+            },
+            {
+              "title": "リオネル・メッシがインテル・マイアミのメンバーに復帰、現MLSカップ王者はサポーターズ・シールド獲得へ前進を続ける",
+              "url": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/%E3%83%AA%E3%82%AA%E3%83%8D%E3%83%AB-%E3%83%A1%E3%83%83%E3%82%B7%E3%81%8B%E3%82%99%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB-%E3%83%9E%E3%82%A4%E3%82%A2%E3%83%9F%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%8F%E3%82%99%E3%83%BC%E3%81%AB%E5%BE%A9%E5%B8%B0-%E7%8F%BEmls%E3%82%AB%E3%83%83%E3%83%95%E3%82%9A%E7%8E%8B%E8%80%85%E3%81%AF%E3%82%B5%E3%83%9B%E3%82%9A%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%99-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%88%E3%82%99%E7%8D%B2%E5%BE%97%E3%81%B8%E5%89%8D%E9%80%B2%E3%82%92%E7%B6%9A%E3%81%91%E3%82%8B/bltaa378e92428b6219"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "横綱",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "「横綱・豊昇龍」と「安青錦、大の里」との「決定的差」",
+              "url": "https://gendai.media/articles/-/169672"
+            },
+            {
+              "title": "両横綱不調で波乱の名古屋場所…”最近の横綱昇進条件が甘い”と言われるが、元大関・魁皇は異論「逆なんですよ」",
+              "url": "https://news.yahoo.co.jp/articles/87b9324586c6352d8da76f4e60eb2d28243489e9"
+            },
+            {
+              "title": "【大相撲】海外ファンが安青錦を称賛「ほぼ片足で優勝」 豊昇龍には「本物の横綱じゃない」との声も",
+              "url": "https://www.tokyo-sports.co.jp/articles/-/397938"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ちいかわ なんか小さくてかわいいやつ",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "｢クレヨンしんちゃん｣｢プリキュア｣とはまったく違う…映画｢ちいかわ｣が破った\"長編アニメのお約束\"（プレジデントオンライン）",
+              "url": "https://news.yahoo.co.jp/articles/7efbc7f893fa1a6a46ad0e4bfa773b8cdd910ca4"
+            },
+            {
+              "title": "【ちいかわ】セブンで買える新作くじが可愛すぎる！“まさかのラスト賞”まで豪華賞品をチェック♪ の画像・写真",
+              "url": "https://lp.p.pia.jp/article/news/499523/photo-gallery/index.html?id=2"
+            },
+            {
+              "title": "「オマエらずっと 涙目じゃん」映画ちいかわ 人魚の島のひみつ んーパさんの映画レビュー（感想・評価）",
+              "url": "https://eiga.com/movie/105109/review/06797454/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "南草津駅",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "【速報】JR琵琶湖線が米原―京都で運転見合わせ 南草津駅で人と接触",
+              "url": "https://www.kyoto-np.co.jp/articles/-/1764657"
+            },
+            {
+              "title": "南草津駅で人身事故、JR琵琶湖線で一時運転見合わせ 京都線や神戸線にも遅れ、8月2日午前",
+              "url": "https://www.fukuishimbun.co.jp/articles/-/2665708"
+            },
+            {
+              "title": "琵琶湖線で人身事故 運転見合わせ",
+              "url": "https://topics.smt.docomo.ne.jp/article/rescuenow/nation/rescuenow-00000018858792"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "lionel messi",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Spain edge Argentina after extra time to win 2nd World Cup title",
+              "url": "https://www.espn.com/soccer/story/_/id/49403084/2026-world-cup-final-spain-argentina-score-ferran-torres-champions-title"
+            },
+            {
+              "title": "Spain’s team embodies footballing values FIFA has betrayed",
+              "url": "https://www.economist.com/europe/2026/07/23/spains-team-embodies-footballing-values-fifa-has-betrayed"
+            },
+            {
+              "title": "De la Fuente: I have a sixth sense, Yamal is a genius, and I am not thinking about the 2030 World Cup",
+              "url": "https://www.goal.com/en/lists/de-la-fuente-i-have-a-sixth-sense-yamal-is-a-genius-and-i-am-not-thinking-about-the-2030-world-cup/blt8009be2dd40e7086"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "デーブ・ロバーツ",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "ドジャースが非情通告 前日2年ぶりメジャー6回6失点の32歳左腕をわずか1日で戦力外扱い ハートが再昇格 ロバーツ監督発表",
+              "url": "https://news.yahoo.co.jp/articles/71a7c01a9382b831cd2a14b56d24347fdce4170b"
+            },
+            {
+              "title": "ドジャース　前日BPデーで6回102球貢献の左腕をマイナー降格　ハートが再昇格、新たな動きも",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260802-0119"
+            },
+            {
+              "title": "ドジャースがブルペン投手の入れ替え発表　ハートとミルズがメジャー再昇格",
+              "url": "https://www.nikkansports.com/baseball/mlb/news/202608020000156.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "一茂かまいたちゲンバ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "長嶋一茂「俺、嫌いなんだよね」最近のテレビ番組の”風潮“に本音ズバリ（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/92a49b1732a5d8fabb9379e926c24401550e9ef1"
+            },
+            {
+              "title": "「家族に反対されまして…」長嶋一茂、叶わなかった夢明かす「さびしい思いをしましたね、あの頃…」…「ゲンバ」",
+              "url": "https://article.auone.jp/detail/1/5/9/202_9_r_20260802_1785636661765040"
+            },
+            {
+              "title": "長嶋一茂、共演した知性派タレントを「嫌なヤツ」「自信過剰」と一刀両断！収録中に泥沼バトル",
+              "url": "https://post.tv-asahi.co.jp/post-807003/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "ひよっこ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "朝ドラ『風、薫る』が不評から一転好調に…『あまちゃん』『ひよっこ』にも通じる勝ちパターンの正体",
+              "url": "https://gendai.media/articles/-/169310"
+            },
+            {
+              "title": "何気ないのに忘れられない…人の心を動かす「5文字の言葉」〈風、薫る第90回〉 (Diamond Online)",
+              "url": "https://newspicks.com/news/17209406/"
+            },
+            {
+              "title": "『風、薫る』が急に面白くなった理由とは？ 朝ドラ人気の肝は日常系アニメ「女子校ノリ」のわちゃわちゃ感にある",
+              "url": "https://news.livedoor.com/article/detail/31962068/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 40,
+          "interest_max": 100,
+          "interest_latest": 46,
+          "rank": 1
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 28,
+          "interest_max": 100,
+          "interest_latest": 32,
+          "rank": 2
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 18,
+          "interest_max": 100,
+          "interest_latest": 31,
+          "rank": 3
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 13,
+          "interest_max": 82,
+          "interest_latest": 19,
+          "rank": 4
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 11,
+          "interest_max": 57,
+          "interest_latest": 19,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 8,
+          "interest_max": 90,
+          "interest_latest": 17,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 20,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 55,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 47,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-08-02T02:52:24.903016+00:00"
+}
