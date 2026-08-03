@@ -1,31 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-07-27",
-    "to": "2026-08-02"
+    "from": "2026-07-28",
+    "to": "2026-08-03"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "trend",
-      "growth": "+19%",
-      "total_mentions": 127
+      "growth": "+57%",
+      "total_mentions": 133
     },
     {
       "keyword": "#trending",
-      "growth": "+7%",
-      "total_mentions": 91
+      "growth": "+50%",
+      "total_mentions": 92
+    },
+    {
+      "keyword": "#shorts",
+      "growth": "+10%",
+      "total_mentions": 86
+    },
+    {
+      "keyword": "#viral",
+      "growth": "+9%",
+      "total_mentions": 86
     },
     {
       "keyword": "#trend",
-      "growth": "+17%",
-      "total_mentions": 46
-    },
-    {
-      "keyword": "에고이스트원피스",
-      "growth": "+50%",
-      "total_mentions": 34
+      "growth": "+200%",
+      "total_mentions": 49
     }
   ],
   "most_cross_platform": [
@@ -48,21 +53,21 @@
   ],
   "naver_shopping_hot": [
     "원피스",
-    "여름원피스",
     "블라우스",
+    "여름원피스",
     "플리츠원피스",
-    "에고이스트"
+    "시슬리원피스"
   ],
   "top_keywords_overall": [
     "trend",
     "#trending",
-    "#viral",
     "#shorts",
+    "#viral",
     "원피스",
-    "여름원피스",
     "블라우스",
+    "여름원피스",
     "플리츠원피스",
     "에고이스트",
-    "잇미샤원피스"
+    "티셔츠"
   ]
 }
