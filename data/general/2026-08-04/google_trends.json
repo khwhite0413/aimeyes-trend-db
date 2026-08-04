@@ -1,0 +1,741 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "강균성",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "'10월 결혼' 45세 강균성…아내는 14세 연하 배우 유하진(종합)",
+              "url": "https://www.news1.kr/entertain/celebrity-topic/6248069"
+            },
+            {
+              "title": "노을 강균성, 14세 연하 배우 유하진과 10월 결혼",
+              "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627798"
+            },
+            {
+              "title": "강균성, 유하진과 결혼 발표…딘딘·장성규 축하 이어져",
+              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260804010000820"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "코바나",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[단독] 관저 내부에 ‘코바나컨텐츠 사무실’ 준비 정황 포착",
+              "url": "https://news.jtbc.co.kr/article/NB12311508"
+            },
+            {
+              "title": "“관저 안에 코바나 사무실 준비”…특검, 21그램 관계자 진술 확보",
+              "url": "https://www.hani.co.kr/arti/society/society_general/1271243.html"
+            },
+            {
+              "title": "김건희, 경호처에 \"대통령집무실 허전‥예산 없나\" 2차특검 진술 확보",
+              "url": "https://v.daum.net/v/20260731101214010"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "활공 폭탄",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "리센느",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "\"원이, 따뜻하고 성실한 학생\"…담임교사가 밝힌 진짜 모습",
+              "url": "https://www.ytn.co.kr/_ln/0117_202608031010392139"
+            },
+            {
+              "title": "[스경X이슈] 리센느 원이, 일진설 제기에 중학교 담임 직접 반박…“근거 없는 비난 멈춰달라”",
+              "url": "https://sports.khan.co.kr/article/202608021026003"
+            },
+            {
+              "title": "원이 중등 담임, '일진설' 폭로자 사라지자 계정 삭제",
+              "url": "https://www.newsis.com/view/NISX20260803_0003734153"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "화암동굴",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "더위 피해 찾았더니…'나만 몰랐나' 시민들 몰린 이색 피서지",
+              "url": "https://v.daum.net/v/7lodainQ71"
+            },
+            {
+              "title": "한여름에도 '평균 14도' 천연 냉방…정선 화암동굴 인기",
+              "url": "https://www.yna.co.kr/view/AKR20260803068200062"
+            },
+            {
+              "title": "\"에어컨보다 시원해\" 세계유산 만장굴 이색 피서 인기",
+              "url": "https://stock.mk.co.kr/news/view/1132724"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "파산",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "“하닉 몰빵, 22억 잃고 파산”…남의 손실 ‘10배’ 부풀린 조작이었다",
+              "url": "https://v.daum.net/v/20260804012051495"
+            },
+            {
+              "title": "\"22억원 다 날렸다\" SK하닉 레버리지 손해, 알고보니…'10배 뻥튀기'",
+              "url": "https://economist.co.kr/article/view/ecn202608030014"
+            },
+            {
+              "title": "“40년 모은 돈 -22억, 전재산 잃고 파산” 하닉 몰빵의 결과",
+              "url": "https://www.munhwa.com/article/11606545"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "매그니피센트 7",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "제대로 일냈다…1000억 쏟아부은 대작 영화, 드디어 넷플릭스 상륙",
+              "url": "https://www.wikitree.co.kr/articles/1150130"
+            },
+            {
+              "title": "머스크 \"1만개 부품 공급망 부족\"…한국은 걱정 없다고?[피지컬 AI 핵심 밸류체인]",
+              "url": "https://v.daum.net/v/20260804065809903"
+            },
+            {
+              "title": "테슬라, 마진 압박에 목표가↓…성장 기대는 ‘긍정적’-스티펠",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05077446645543712"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "최진실",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "故 최진실 인연…홍진경, 최환희 생일 직접 축하 '훈훈' [MHN:피드]",
+              "url": "https://v.daum.net/v/20260803185026614"
+            },
+            {
+              "title": "홍진경, 故최진실 빈자리 또 챙겼다..최준희와 최환희 '생일파티' 훈훈 - 조선비즈",
+              "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/03/GFTGKY3DGJQTGZJRGQYTQODEMM/"
+            },
+            {
+              "title": "故 최진실과 똑닮은 하관..최준희X환희, 다정한 투샷 \"생일축하해\"",
+              "url": "https://www.sportschosun.com/entertainment/2026-08-03/202608030100017250001029"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "박보경",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'청룡 부부' 진선규·박보경 \"신혼 때부터 꿈꿔온 순간\"",
+              "url": "https://www.ytn.co.kr/_ln/0117_202608031010080610"
+            },
+            {
+              "title": "아내 박보경 수상에 눈물 흘린 진선규 \"기도하고 바라던 순간\" 재차 축하",
+              "url": "https://v.daum.net/v/20260802134800222?f=p"
+            },
+            {
+              "title": "진선규, 아내 박보경 청룡시리즈 '여우조연상' 수상에 오열",
+              "url": "https://www.hankyung.com/article/202607318845H"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "필라델피아 필리스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"나를 믿어준 팀\" 이런 투수가 한국에 5년이나 있었다니…38세에 ML 1점대 특급 불펜, 메츠 '역대 2위' 남기고 떠났다",
+              "url": "https://v.daum.net/v/9mh2mQx2Wb"
+            },
+            {
+              "title": "롯데가 만든 역수출 신화 레일리, 38세에도 러브콜…필라델피아 유니폼 입는다",
+              "url": "https://www.chosun.com/sports/world-baseball/2026/08/04/GY3TAYLEGE3WIMBWGM2WMM3GMU/"
+            },
+            {
+              "title": "롯데서 뛰었던 그 좌완, 필라델피아행…PS 위해 불펜 승부수 - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/08/04/202608040031770509O"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "자기계발",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "royce keys",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "LA Knight, Solo Sikoa & Royce Keys vs. Jacob Fatu & The Usos: SummerSlam 2026 highlights",
+              "url": "https://www.wwe.com/videos/la-knight-solo-sikoa-royce-keys-vs-jacob-fatu-the-usos-summerslam-2026-highlights"
+            },
+            {
+              "title": "WWE SummerSlam 2026 Results As LA Knight Finally Topples The Bloodline",
+              "url": "https://www.forbes.com/sites/blakeoestriecher/2026/08/01/wwe-summerslam-2026-results-as-la-knight-finally-topples-the-bloodline/"
+            },
+            {
+              "title": "LA Knight On His Successes At SummerSlam Over The Years: It Seems Like Summertime Is The Time Of LA Knight",
+              "url": "https://www.fightful.com/wrestling/la-knight-on-his-successes-at-summerslam-over-the-years-it-seems-like-summertime-is-the-time-of-la-knight/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "glen powell",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Glen Powell to Play Baseball Icon Lou Gehrig",
+              "url": "https://www.moviefone.com/news/glen-powell-to-play-baseball-icon-lou-gehrig/"
+            },
+            {
+              "title": "'Chad Powers' Season 2 Release Date Revealed — See First Look Photos",
+              "url": "https://deadline.com/2026/07/chad-powers-season-2-release-date-photos-glen-powell-hulu-1237012387/"
+            },
+            {
+              "title": "See Glen Powell’s return as ‘Chad Powers’ in season 2 first look photos (exclusive)",
+              "url": "https://ew.com/glen-powell-chad-powers-season-2-first-look-exclusive-12028853"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "mason montgomery",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Spencer Horwitz plates three in win over Brewers",
+              "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/spencer-horwitz-plates-three-in-win-over-brewers"
+            },
+            {
+              "title": "Mason Montgomery hangs on for third save",
+              "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/mason-montgomery-hangs-on-for-third-save"
+            },
+            {
+              "title": "Bubba Chandler goes 5 2/3 in win over Brewers",
+              "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/bubba-chandler-goes-5-2-3-in-win-over-brewers"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "edgardo henriquez",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Edgardo Henriquez against the Red Sox",
+              "url": "https://www.mlb.com/dodgers/video/edgardo-henriquez-against-the-red-sox"
+            },
+            {
+              "title": "Edgardo Henriquez logs clean frame as opener",
+              "url": "https://www.fantasypros.com/mlb/news/599575/edgardo-henriquez-logs-clean-frame-opener.php"
+            },
+            {
+              "title": "Dodgers Turn To Henriquez For Bullpen Opener Against Red Sox",
+              "url": "https://evrimagaci.org/gpt/dodgers-turn-to-henriquez-for-bullpen-opener-against-red-sox-543439"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "jose caballero",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Yankees 2-1 Cubs (Aug 2, 2026) Game Recap",
+              "url": "https://www.espn.com/mlb/recap?gameId=401816369"
+            },
+            {
+              "title": "Cole battles, Headrick delivers in clutch as pitching carries Yanks again",
+              "url": "https://www.mlb.com/news/gerrit-cole-pitches-5-2-3-solid-innings-against-cubs"
+            },
+            {
+              "title": "Highlights: Yankees at Cubs (8/2) Stream of Major League Baseball",
+              "url": "https://www.cbssports.com/watch/mlb/video/highlights-yankees-at-cubs-82-1"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "bron breakker",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Bron Breakker destroys Joe Hendry: Raw highlights, Aug. 3, 2026",
+              "url": "https://www.wwe.com/videos/bron-breakker-destroys-joe-hendry-and-akira-tozawa-raw-highlights-aug-3-2026"
+            },
+            {
+              "title": "Oba Femi Says He Will Lead A New Generation, Is Confronted By Bron Breakker On WWE Raw",
+              "url": "https://www.fightful.com/wrestling/oba-femi-says-he-will-lead-a-new-generation-is-confronted-by-bron-breakker-on-wwe-raw/"
+            },
+            {
+              "title": "WWE's Bronson Reed Appears To Throw Shade On Oba Femi's Win At WWE SummerSlam 2026",
+              "url": "https://www.aol.com/articles/wwes-bronson-reed-appears-throw-180031000.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "alyssa thomas",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Connecticut Sun Honor Alyssa Thomas as Sun Legend",
+              "url": "https://sun.wnba.com/news/connecticut-sun-honor-alyssa-thomas-as-sun-legend"
+            },
+            {
+              "title": "Phoenix Mercury @ Chicago Sky Odds",
+              "url": "https://sportsbook.fanduel.com/basketball/wnba/phoenix-mercury-@-chicago-sky-35890379"
+            },
+            {
+              "title": "Mercury vs Sky Prediction, Picks & Player Props for Tonight’s WNBA Game",
+              "url": "https://www.covers.com/wnba/mercury-vs-sky-prediction-picks-best-bets-parlay-monday-8-3-2026"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "samantha morton",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "‘The Odyssey’ star Samantha Morton was sad to be replaced by Scarlett Johansson in ‘Her’",
+              "url": "https://ew.com/the-odyssey-star-samantha-morton-was-sad-to-be-replaced-by-scarlett-johansson-in-her-12032614"
+            },
+            {
+              "title": "Samantha Morton Talks Passing On ‘X-Men’—“I Didn’t Understand It”—And Sadness Of Being Replaced In Spike Jonze’s ‘Her’",
+              "url": "https://theplaylist.net/samantha-morton-talks-passing-on-x-men-spike-jonze-her-20260803/"
+            },
+            {
+              "title": "Samantha Morton says Being Replaced by Scarlett Johansson in ‘Her’ Still ‘Does Hurt’",
+              "url": "https://www.justjared.com/2026/08/03/samantha-morton-says-being-replaced-by-scarlett-johansson-in-her-still-does-hurt/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "yankees game",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Yanks Mag: Philly Special",
+              "url": "https://www.mlb.com/news/yankees-magazine-all-star-game-2026"
+            },
+            {
+              "title": "St. Louis Cardinals vs New York Yankees Game Discussion Monday",
+              "url": "https://www.vivaelbirdos.com/st-louis-cardinals-discussion/73853/st-louis-cardinals-vs-new-york-yankees-game-discussion-monday"
+            },
+            {
+              "title": "St. Louis Cardinals vs. New York Yankees",
+              "url": "https://www.espn.com/watch/player/_/eventCalendarId/401816377"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "michael phelps",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Michael Phelps net worth in 2026: Inside the Olympic legend’s multi million dollar fortune, endorsements",
+              "url": "https://timesofindia.indiatimes.com/sports/international-sports/michael-phelps-net-worth-in-2026-inside-the-olympic-legends-multi-million-dollar-fortune-endorsements-and-more/articleshow/132831077.cms"
+            },
+            {
+              "title": "Michael Phelps net worth 2026: How the most decorated Olympian built a multi-million-dollar fortune",
+              "url": "https://www.etnownews.com/sports/michael-phelps-net-worth-2026-how-the-most-decorated-olympian-built-a-multi-million-dollar-fortune-article-155238365"
+            },
+            {
+              "title": "On This Day in Sports- August 3: Michael Phelps Completes Olympic Three-Peat",
+              "url": "https://twsn.net/olympics/on-this-day-in-sports-august-3-michael-phelps-completes-olympic-three-peat"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "エメット・シーハン",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "MLB　ドジャース、26歳右腕マイナー降格…春先は朗希ライバルも精彩欠く　ロバーツ監督「本人にとってベスト」〝無敗左腕〟1日でローテ復帰",
+              "url": "https://topics.smt.docomo.ne.jp/article/sanspo/sports/sanspo-_sports_baseball_mlb_4BHYXBZZRNK2LNGA7PLNMPQUV4"
+            },
+            {
+              "title": "ドジャース、一挙６選手入れ替え 正式発表 シーハン３Ａ降格 ラッシング負傷者リスト入り ミルズ戦力外扱い スクバル正式登録 捕手ロビンソンら再昇格",
+              "url": "https://www.daily.co.jp/mlb/2026/08/04/0020667677.shtml"
+            },
+            {
+              "title": "ド軍に\"新プラン\"「構想はできている」 指揮官が示す期限…崖っぷちの26歳右腕を待つ厳しい現実",
+              "url": "https://full-count.jp/2026/08/03/post1998756/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "フォスター・グリフィン",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "MLB　元巨人グリフィン電撃トレード…巨人で通算18勝、今季メジャー復帰で覚醒　12勝3敗、防御率3.06　ホワイトソックスと地区首位争い",
+              "url": "https://topics.smt.docomo.ne.jp/article/sanspo/sports/sanspo-_sports_baseball_mlb_EUOOMAWUOJKBDJA5GWAFIKT3CU"
+            },
+            {
+              "title": "【ＭＬＢ】村上キラーが同地区に…元巨人のナショナルズ左腕グリフィンがガーディアンズ入り（東スポWEB）",
+              "url": "https://news.yahoo.co.jp/articles/3c0dbce8f3ddcb925fd2af32c433dabedaea4def"
+            },
+            {
+              "title": "元巨人グリフィン、ガ軍へ移籍 “逆輸入”1年目で躍進…球宴選出も、米報道",
+              "url": "https://sportsbull.jp/p/2390055/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "伊勢原ジャンクション",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "東名高速で3台絡む事故 1人死亡",
+              "url": "https://news.yahoo.co.jp/pickup/6590464"
+            },
+            {
+              "title": "東名高速でトラック玉突き レッカー作業中の男性死亡、2人軽傷",
+              "url": "https://mainichi.jp/articles/20260804/k00/00m/040/048000c"
+            },
+            {
+              "title": "【速報】東名高速・伊勢原JCT付近でトラックなど3台絡む事故 1人重体（2026年8月3日掲載）｜日テレNEWS NNN",
+              "url": "https://news.ntv.co.jp/category/society/3dd3a24ca82e419aae105e899ce51bbb"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "テオスカー・ヘルナンデス",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「トレードする時がきた」ドジャース、エース格投手の放出で大物選手を獲得する！？ 米メディアが言及「故障履歴で知られる前に」",
+              "url": "https://news.yahoo.co.jp/articles/2a568d2ea27d996d77654eb1e1562a9555f5e3fc"
+            },
+            {
+              "title": "ド軍“第4の男”にトレード説浮上　移籍期限直前…ライバル球団が触手、複雑なチーム事情",
+              "url": "https://topics.smt.docomo.ne.jp/article/fullcount/sports/fullcount-1997786"
+            },
+            {
+              "title": "T・ヘルナンデスのトレードの可能性「欲しがる優勝候補は少なくない」「破格の条件が提示される場合は…」LA専門メディア考察 | THE DIGEST",
+              "url": "https://thedigestweb.com/baseball/detail/id=118168"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "板橋駿谷",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "「もう22年前か…」 元天才子役、朝ドラで母親役にネット衝撃「全然分からなかった！」「こんなに大きくなられて」（ENCOUNT）",
+              "url": "https://news.yahoo.co.jp/articles/9f484491de7f57c08f22aca9f15d01adb0182bf6"
+            },
+            {
+              "title": "“村の少年”として登場した子役、『あんぱん』でも印象的だった…視聴者驚き「演技上手だと思ったら」",
+              "url": "https://www.lmaga.jp/news/2026/08/1085327/"
+            },
+            {
+              "title": "オリコンニュース：朝ドラ『風、薫る』赤痢患者役に反響「えー！」「分からなかった」 美山加恋が母役で登場「おとなになったねぇ～」",
+              "url": "https://mainichi.jp/articles/20260803/orc/00m/200/188000c"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "新型コロナウイルス感染症",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "コロナ感染も 避難所は雑魚寝状態",
+              "url": "https://news.yahoo.co.jp/pickup/6590369"
+            },
+            {
+              "title": "熊本 地震 宇城の避難所 ７０代の女性が新型コロナに感染",
+              "url": "https://news.web.nhk/newsweb/na/nb-5000029783"
+            },
+            {
+              "title": "避難所の７０代女性がコロナ感染",
+              "url": "https://www.kanaloco.jp/news/social/article-1294090.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "スターライトキッド",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "覆面レスラーのスターライト・キッド、マスク脱ぎ「ほぼ素顔」ショット 「めっちゃ美人」「絶対可愛いよね」",
+              "url": "https://news.yahoo.co.jp/articles/8e015b1a5b0e34b144bbcf972d5962cb48f65bf7"
+            },
+            {
+              "title": "覆面レスラーのスターライト・キッド、マスク脱ぎ「ほぼ素顔」ショット 「めっちゃ美人」「絶対可愛いよね」",
+              "url": "https://article.auone.jp/detail/1/5/9/252_9_r_20260804_1785795831615734"
+            },
+            {
+              "title": "【スターダム】キッドに惜敗した熊本出身・水森由菜が「希望を失わないでください」とエール（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/656ed4e20e9fc403a851ca5bac1aaa0d7ec4122c"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "ゲレンジーク",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "ロシア南部のリゾート地にドローン攻撃 子ども3人含む7人死亡 物流倉庫も標的に（FNNプライムオンライン（フジテレビ系））",
+              "url": "https://news.yahoo.co.jp/articles/96aa61c89eb210ef24f2890f8760bea711fdd86b"
+            },
+            {
+              "title": "ロシアのリゾート地に攻撃、7人死亡 年初から5万機超ドローン撃墜",
+              "url": "https://www.asahi.com/articles/ASV834WF8V83UHBI01GM.html"
+            },
+            {
+              "title": "ロシア南部の黒海保養地で6人死亡、ロシアはウクライナのドローン攻撃と非難",
+              "url": "https://jp.reuters.com/world/ukraine/QANRA6A6DFI27GD62XGBY7ATYU-2026-08-03/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "タッカー",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "ド軍379億円男、連日の“怠慢”に「もううんざり」 目立つ失態に日米ファン辛辣「ひどい」（Full-Count）",
+              "url": "https://news.yahoo.co.jp/articles/dc65185e397957e7e19e2e2386c1a25b36c489d8"
+            },
+            {
+              "title": "画像・写真：大谷の安打 大リーグ：時事ドットコム",
+              "url": "https://www.jiji.com/jc/p?id=20260804104412-0092417679"
+            },
+            {
+              "title": "吉田、先制打に５号ソロ",
+              "url": "https://www.minpo.jp/articles/-/195922"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "株式会社嵐",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "株式会社嵐 熊本県に5000万円寄付",
+              "url": "https://news.yahoo.co.jp/pickup/6590465"
+            },
+            {
+              "title": "オリコンニュース：STARTO ENTERTAINMENT、熊本県に1億円を寄付 「心よりお見舞い」掲載…コンサート会場などに募金箱も設置へ［令和8年熊本地震］",
+              "url": "https://mainichi.jp/articles/20260804/orc/00m/200/057000c"
+            },
+            {
+              "title": "松本潤「一日も早く穏やかな日常が戻りますよう」 「株式会社嵐」を通じ義援金寄付【令和8年熊本地震】",
+              "url": "https://www.fukuishimbun.co.jp/articles/-/2667242"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-08-04T02:40:27.344708+00:00"
+}

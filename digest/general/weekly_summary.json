@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-07-28",
-    "to": "2026-08-03"
+    "from": "2026-07-29",
+    "to": "2026-08-04"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "trend",
-      "growth": "+43%",
-      "total_mentions": 131
-    },
-    {
       "keyword": "#trending",
-      "growth": "+60%",
-      "total_mentions": 93
+      "growth": "+23%",
+      "total_mentions": 99
     },
     {
       "keyword": "#shorts",
-      "growth": "+30%",
-      "total_mentions": 88
+      "growth": "+17%",
+      "total_mentions": 92
     },
     {
       "keyword": "#viral",
-      "growth": "+18%",
-      "total_mentions": 87
+      "growth": "+60%",
+      "total_mentions": 92
+    },
+    {
+      "keyword": "dance",
+      "growth": "+30%",
+      "total_mentions": 60
     },
     {
       "keyword": "#trend",
-      "growth": "+167%",
-      "total_mentions": 48
+      "growth": "+29%",
+      "total_mentions": 54
     }
   ],
   "most_cross_platform": [
@@ -53,8 +53,8 @@
   ],
   "naver_shopping_hot": [
     "원피스",
-    "블라우스",
     "여름원피스",
+    "블라우스",
     "플리츠원피스",
     "시슬리원피스"
   ],
@@ -64,8 +64,8 @@
     "#shorts",
     "#viral",
     "원피스",
-    "블라우스",
     "여름원피스",
+    "블라우스",
     "플리츠원피스",
     "에고이스트",
     "티셔츠"
