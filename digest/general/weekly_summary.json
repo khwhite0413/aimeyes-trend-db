@@ -9,13 +9,18 @@
   "top_rising": [
     {
       "keyword": "#trending",
-      "growth": "+13%",
-      "total_mentions": 112
+      "growth": "+20%",
+      "total_mentions": 113
     },
     {
       "keyword": "#shorts",
-      "growth": "+50%",
-      "total_mentions": 101
+      "growth": "+42%",
+      "total_mentions": 100
+    },
+    {
+      "keyword": "#viral",
+      "growth": "+23%",
+      "total_mentions": 98
     },
     {
       "keyword": "dance",
@@ -26,23 +31,9 @@
       "keyword": "시슬리원피스",
       "growth": "+43%",
       "total_mentions": 63
-    },
-    {
-      "keyword": "#tiktok",
-      "growth": "+11%",
-      "total_mentions": 56
     }
   ],
-  "most_cross_platform": [
-    {
-      "keyword": "genius",
-      "platforms": [
-        "x_twitter",
-        "youtube"
-      ],
-      "count": 2
-    }
-  ],
+  "most_cross_platform": [],
   "naver_shopping_hot": [
     "원피스",
     "여름원피스",
