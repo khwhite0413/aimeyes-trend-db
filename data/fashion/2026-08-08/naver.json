@@ -4,51 +4,6 @@
   "category": "쇼핑 인기 검색어",
   "daily_rankings": [
     {
-      "date": "2026.07.26.(일)",
-      "keywords": [
-        {
-          "rank": 1,
-          "keyword": "원피스"
-        },
-        {
-          "rank": 2,
-          "keyword": "여름원피스"
-        },
-        {
-          "rank": 3,
-          "keyword": "블라우스"
-        },
-        {
-          "rank": 4,
-          "keyword": "샤틴원피스"
-        },
-        {
-          "rank": 5,
-          "keyword": "플리츠원피스"
-        },
-        {
-          "rank": 6,
-          "keyword": "에고이스트"
-        },
-        {
-          "rank": 7,
-          "keyword": "베네통원피스"
-        },
-        {
-          "rank": 8,
-          "keyword": "시슬리원피스"
-        },
-        {
-          "rank": 9,
-          "keyword": "티셔츠"
-        },
-        {
-          "rank": 10,
-          "keyword": "올리비아로렌"
-        }
-      ]
-    },
-    {
       "date": "2026.07.27.(월)",
       "keywords": [
         {
@@ -542,12 +497,9 @@
           "keyword": "베네통원피스"
         }
       ]
-    }
-  ],
-  "mode": "fashion",
-  "fashion_filtered": [
+    },
     {
-      "date": "2026.07.26.(일)",
+      "date": "2026.08.07.(금)",
       "keywords": [
         {
           "rank": 1,
@@ -563,15 +515,19 @@
         },
         {
           "rank": 4,
-          "keyword": "샤틴원피스"
-        },
-        {
-          "rank": 5,
           "keyword": "플리츠원피스"
         },
         {
-          "rank": 7,
+          "rank": 5,
           "keyword": "베네통원피스"
+        },
+        {
+          "rank": 6,
+          "keyword": "쉬즈미스원피스"
+        },
+        {
+          "rank": 7,
+          "keyword": "듀엘원피스"
         },
         {
           "rank": 8,
@@ -579,10 +535,17 @@
         },
         {
           "rank": 9,
-          "keyword": "티셔츠"
+          "keyword": "에고이스트"
+        },
+        {
+          "rank": 10,
+          "keyword": "잇미샤원피스"
         }
       ]
-    },
+    }
+  ],
+  "mode": "fashion",
+  "fashion_filtered": [
     {
       "date": "2026.07.27.(월)",
       "keywords": [
@@ -997,7 +960,48 @@
           "keyword": "베네통원피스"
         }
       ]
+    },
+    {
+      "date": "2026.08.07.(금)",
+      "keywords": [
+        {
+          "rank": 1,
+          "keyword": "원피스"
+        },
+        {
+          "rank": 2,
+          "keyword": "여름원피스"
+        },
+        {
+          "rank": 3,
+          "keyword": "블라우스"
+        },
+        {
+          "rank": 4,
+          "keyword": "플리츠원피스"
+        },
+        {
+          "rank": 5,
+          "keyword": "베네통원피스"
+        },
+        {
+          "rank": 6,
+          "keyword": "쉬즈미스원피스"
+        },
+        {
+          "rank": 7,
+          "keyword": "듀엘원피스"
+        },
+        {
+          "rank": 8,
+          "keyword": "시슬리원피스"
+        },
+        {
+          "rank": 10,
+          "keyword": "잇미샤원피스"
+        }
+      ]
     }
   ],
-  "collected_at": "2026-08-08T01:42:33.951173+00:00"
+  "collected_at": "2026-08-08T14:37:15.845234+00:00"
 }
