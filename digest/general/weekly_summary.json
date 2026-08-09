@@ -1,39 +1,48 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-08-02",
-    "to": "2026-08-08"
+    "from": "2026-08-03",
+    "to": "2026-08-09"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#trending",
-      "growth": "+7%",
-      "total_mentions": 114
-    },
-    {
-      "keyword": "#shorts",
-      "growth": "+8%",
-      "total_mentions": 102
-    },
-    {
       "keyword": "dance",
-      "growth": "+12%",
-      "total_mentions": 74
+      "growth": "+11%",
+      "total_mentions": 76
     },
     {
       "keyword": "시슬리원피스",
-      "growth": "+25%",
-      "total_mentions": 66
+      "growth": "+11%",
+      "total_mentions": 68
     },
     {
       "keyword": "#tiktok",
-      "growth": "+57%",
-      "total_mentions": 58
+      "growth": "+50%",
+      "total_mentions": 60
+    },
+    {
+      "keyword": "#dance",
+      "growth": "+50%",
+      "total_mentions": 57
+    },
+    {
+      "keyword": "베네통원피스",
+      "growth": "+50%",
+      "total_mentions": 36
     }
   ],
-  "most_cross_platform": [],
+  "most_cross_platform": [
+    {
+      "keyword": "genius",
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "count": 2
+    }
+  ],
   "naver_shopping_hot": [
     "원피스",
     "여름원피스",
