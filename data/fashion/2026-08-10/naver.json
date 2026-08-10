@@ -4,51 +4,6 @@
   "category": "쇼핑 인기 검색어",
   "daily_rankings": [
     {
-      "date": "2026.07.28.(화)",
-      "keywords": [
-        {
-          "rank": 1,
-          "keyword": "원피스"
-        },
-        {
-          "rank": 2,
-          "keyword": "여름원피스"
-        },
-        {
-          "rank": 3,
-          "keyword": "블라우스"
-        },
-        {
-          "rank": 4,
-          "keyword": "플리츠원피스"
-        },
-        {
-          "rank": 5,
-          "keyword": "잇미샤원피스"
-        },
-        {
-          "rank": 6,
-          "keyword": "듀엘원피스"
-        },
-        {
-          "rank": 7,
-          "keyword": "시슬리원피스"
-        },
-        {
-          "rank": 8,
-          "keyword": "티셔츠"
-        },
-        {
-          "rank": 9,
-          "keyword": "에고이스트"
-        },
-        {
-          "rank": 10,
-          "keyword": "남자반바지"
-        }
-      ]
-    },
-    {
       "date": "2026.07.29.(수)",
       "keywords": [
         {
@@ -542,12 +497,9 @@
           "keyword": "써스데이아일랜드"
         }
       ]
-    }
-  ],
-  "mode": "fashion",
-  "fashion_filtered": [
+    },
     {
-      "date": "2026.07.28.(화)",
+      "date": "2026.08.09.(일)",
       "keywords": [
         {
           "rank": 1,
@@ -555,11 +507,11 @@
         },
         {
           "rank": 2,
-          "keyword": "여름원피스"
+          "keyword": "블라우스"
         },
         {
           "rank": 3,
-          "keyword": "블라우스"
+          "keyword": "여름원피스"
         },
         {
           "rank": 4,
@@ -567,26 +519,33 @@
         },
         {
           "rank": 5,
-          "keyword": "잇미샤원피스"
-        },
-        {
-          "rank": 6,
-          "keyword": "듀엘원피스"
-        },
-        {
-          "rank": 7,
           "keyword": "시슬리원피스"
         },
         {
+          "rank": 6,
+          "keyword": "올리비아로렌"
+        },
+        {
+          "rank": 7,
+          "keyword": "쉬즈미스원피스"
+        },
+        {
           "rank": 8,
-          "keyword": "티셔츠"
+          "keyword": "듀엘원피스"
+        },
+        {
+          "rank": 9,
+          "keyword": "에고이스트원피스"
         },
         {
           "rank": 10,
-          "keyword": "남자반바지"
+          "keyword": "지고트원피스"
         }
       ]
-    },
+    }
+  ],
+  "mode": "fashion",
+  "fashion_filtered": [
     {
       "date": "2026.07.29.(수)",
       "keywords": [
@@ -993,7 +952,48 @@
           "keyword": "플리츠원피스"
         }
       ]
+    },
+    {
+      "date": "2026.08.09.(일)",
+      "keywords": [
+        {
+          "rank": 1,
+          "keyword": "원피스"
+        },
+        {
+          "rank": 2,
+          "keyword": "블라우스"
+        },
+        {
+          "rank": 3,
+          "keyword": "여름원피스"
+        },
+        {
+          "rank": 4,
+          "keyword": "플리츠원피스"
+        },
+        {
+          "rank": 5,
+          "keyword": "시슬리원피스"
+        },
+        {
+          "rank": 7,
+          "keyword": "쉬즈미스원피스"
+        },
+        {
+          "rank": 8,
+          "keyword": "듀엘원피스"
+        },
+        {
+          "rank": 9,
+          "keyword": "에고이스트원피스"
+        },
+        {
+          "rank": 10,
+          "keyword": "지고트원피스"
+        }
+      ]
     }
   ],
-  "collected_at": "2026-08-10T01:52:38.476112+00:00"
+  "collected_at": "2026-08-10T15:04:24.955686+00:00"
 }
