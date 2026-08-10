@@ -1,39 +1,47 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-08-03",
-    "to": "2026-08-09"
+    "from": "2026-08-04",
+    "to": "2026-08-10"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "여름원피스",
+      "keyword": "원피스",
       "growth": "+8%",
-      "total_mentions": 88
+      "total_mentions": 85
+    },
+    {
+      "keyword": "style",
+      "growth": "+11%",
+      "total_mentions": 70
     },
     {
       "keyword": "시슬리원피스",
       "growth": "+11%",
-      "total_mentions": 68
+      "total_mentions": 69
     },
     {
-      "keyword": "#fashion",
-      "growth": "+12%",
-      "total_mentions": 53
+      "keyword": "#ootd",
+      "growth": "+11%",
+      "total_mentions": 64
     },
     {
       "keyword": "#shorts",
-      "growth": "+12%",
-      "total_mentions": 53
-    },
-    {
-      "keyword": "여름코디",
-      "growth": "+50%",
-      "total_mentions": 47
+      "growth": "+150%",
+      "total_mentions": 55
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "여름원피스",
       "platforms": [
@@ -68,6 +76,6 @@
     "style",
     "시슬리원피스",
     "#ootd",
-    "데일리룩"
+    "#shorts"
   ]
 }

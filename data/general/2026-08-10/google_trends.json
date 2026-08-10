@@ -1,0 +1,724 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "간식",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "GS25, 베트남에 바나나 지정농장 운영…\"안정적 공급 기반 마련\"",
+              "url": "https://v.daum.net/v/20260810084156237"
+            },
+            {
+              "title": "GS25, 베트남에 바나나 전용농장…월 20만봉 안정 공급",
+              "url": "https://www.sedaily.com/article/20077544"
+            },
+            {
+              "title": "신세계라이브쇼핑, 13일까지 '여름 간식 대전'…\"최대 60% 할인\"",
+              "url": "https://www.yna.co.kr/view/AKR20260810017100030"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "신봉선",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "하우스 푸어 겪은 신봉선, 매달 100만원씩 10년 묻어두자 벌어진 일",
+              "url": "https://www.segye.com/newsView/20260706517383"
+            },
+            {
+              "title": "닮은꼴 아이유 뛰어넘었나...'11kg 감량' 신봉선, 물오른 미모",
+              "url": "https://v.daum.net/v/20260808220210603"
+            },
+            {
+              "title": "아이유인 줄…신봉선, 100일 만 '체지방 11kg' 삭제→날렵한 턱선에 '미모 포텐' 터졌다 [RE:스타]",
+              "url": "https://news.nate.com/view/20260809n06071"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "노화",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "“늙은 세포를 다시 젊게”…바다에서 찾는 ‘역노화’ 가능성",
+              "url": "https://v.daum.net/v/20260810103012989"
+            },
+            {
+              "title": "KIOST, 해파리 등 바다생물에서 노화극복 기술 찾는다",
+              "url": "https://news.nate.com/view/20260806n27775"
+            },
+            {
+              "title": "해양과학기술원, 노화를 되돌릴 해양소재 개발 착수",
+              "url": "https://www.joongdo.co.kr/web/view.php?key=20260806010002142"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "화가",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "박한별, 미술대회 본선 진출 \"다시봐도 안믿김\" 경사 터졌다[스타이슈]",
+              "url": "https://v.daum.net/v/20260809203209556"
+            },
+            {
+              "title": "화가 된 박한별 \"첫 도전에 인사동 전시, 파리 초대까지\"",
+              "url": "https://www.newsis.com/view/NISX20260809_0003741950"
+            },
+            {
+              "title": "박한별, 여전한 얼짱 \"말도 안되는 일 벌어져..현실감 제로\" - 조선비즈",
+              "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/09/GEZGGOLGMVTDQM3EMM4TSOLEGM/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "태풍 페이",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "태풍 ‘찬홈’ 일본 뚫고 동해 진입...폭염 기세 꺾일까",
+              "url": "https://www.kyeonggi.com/article/20260809580088"
+            },
+            {
+              "title": "태풍 돌핀, 중국 동부 상륙…50만 명 대피",
+              "url": "https://v.daum.net/v/20260810103450253"
+            },
+            {
+              "title": "\"태풍 3개 동시 북상 중\" 돌핀·찬홈 이어 '페이러우'...한반도 영향은 - 머니투데이",
+              "url": "https://www.mt.co.kr/society/2026/08/10/2026081007575138930"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "이상호",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "주거",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "가구 수보다 주택 수가 더 많지만···판잣집·여관 사는 주거취약가구 55만 달해",
+              "url": "https://www.khan.co.kr/article/202608100737001"
+            },
+            {
+              "title": "폭염 속 판잣집·여관 등 ‘집 아닌 곳’ 거주 55만 가구…5년 새 11% 늘어",
+              "url": "https://www.donga.com/news/Economy/article/all/20260810/134447855/1"
+            },
+            {
+              "title": "극한 더위에 판잣집·여관 등서 사는 주거취약가구 55만",
+              "url": "https://v.daum.net/v/20260810055510137"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "이다영",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "‘학폭 논란’ 韓배구계 뒤흔든 쌍둥이 아직 현역이다! 나란히 아제르바이잔행→5년 만에 한솥밥 확정",
+              "url": "https://www.osen.co.kr/article/G1112853514"
+            },
+            {
+              "title": "‘배구 노마드족’ 이재영·이다영",
+              "url": "https://v.daum.net/v/20260810000313146"
+            },
+            {
+              "title": "'아제르바이잔행' 여자배구 이다영 \"이적해 행복…좋은 모습으로 보답\"",
+              "url": "https://www.newsis.com/view/NISX20260809_0003741885"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "벤 셸턴",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "'2연패 도전' 셸턴, 폰세카 꺾고 8강 합류",
+              "url": "https://www.newsis.com/view/NISI20260810_0002208094"
+            },
+            {
+              "title": "[내셔널뱅크 오픈] 남친 경기 지켜보는 트리니티 로드먼",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3659967"
+            },
+            {
+              "title": "브라질 19세 '신성' 다시 괴력을 뽐내다…주앙 폰세카, 치치파스에 이어 루드까지 제압",
+              "url": "https://v.daum.net/v/20260808111707172"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "전장연",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "[사회][속보] 전장연 시위로 1호선 용산역 상행선 무정차 통과",
+              "url": "https://www.ytn.co.kr/_cs/_ln_0103_202608100848365955_005.html"
+            },
+            {
+              "title": "장애인단체 출근길 탑승시위…1호선 용산역 한때 무정차(종합2보)",
+              "url": "https://www.yna.co.kr/view/AKR20260810021352004"
+            },
+            {
+              "title": "최고위 참석하는 국민의힘 지도부",
+              "url": "https://news.nate.com/view/20260810n07003?mid=n0100"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 3,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 46,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "leagues cup standings",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Who's in, who's out? Leagues Cup 2026 knockout stage",
+              "url": "https://www.mlssoccer.com/competitions/leagues-cup/news/leagues-cup-2026-knockout-stage-mls-liga-mx-in-out-qualified-eliminated"
+            },
+            {
+              "title": "Leagues Cup Returns: What To Know, Predictions For MLS-Liga MX Tournament",
+              "url": "https://www.foxsports.com/stories/soccer/leagues-cup-mls-liga-mx-messi-2026"
+            },
+            {
+              "title": "Leagues Cup 2026 Kicking Off on Apple TV",
+              "url": "https://www.macrumors.com/2026/08/03/leagues-cup-2026-apple-tv/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "perseid meteor shower 2026",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Hundreds of meteors will soon paint the sky: peak hours & where to watch in Oregon",
+              "url": "https://katu.com/news/local/hundreds-of-meteors-will-soon-paint-the-sky-peak-hours-where-to-watch-in-oregon"
+            },
+            {
+              "title": "What can you expect to see during this month's three major celestial events",
+              "url": "https://www.wbur.org/upnext/2026/08/06/lunar-solar-eclipse-meteor-shower-massachusetts"
+            },
+            {
+              "title": "Perseid meteor shower and partial solar eclipse to light up skies next week",
+              "url": "https://globalnews.ca/news/12013035/perseid-meteor-showers-partial-solar-eclipse-canada/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "permanent daylight savings time",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Will clocks fall back on Nov. 1? Here's the latest",
+              "url": "https://www.usatoday.com/story/news/nation/2026/08/09/daylight-saving-time-clock-change-nov-1/91216672007/"
+            },
+            {
+              "title": "Sunrise would shift to nearly 9 a.m. in SC winters if federal daylight saving time law passes",
+              "url": "https://www.postandcourier.com/news/sunrise-would-shift-to-nearly-9-a-m-in-sc-winters-if-federal-daylight-saving/article_5dee7c26-c119-457e-8b4c-0be9e7816bd8.html"
+            },
+            {
+              "title": "Mississippi sunrise, sunset times under permanent daylight saving time",
+              "url": "https://www.clarionledger.com/story/news/2026/08/07/mississippi-sunrise-sunset-times-with-permanent-daylight-saving-time/91211708007/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "hugo camberos",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Hugo Camberos, el niño héroe que le dio a México el pase a los Juegos Olímpicos 2028",
+              "url": "https://www.si.com/mx/futbol/hugo-camberos-nino-heroe-dio-mexico-pase-juegos-olimpicos-2028"
+            },
+            {
+              "title": "Hugo Camberos: figura y goleador del Tricolor Sub-20 y relegado en Chivas por el sistema de Milito",
+              "url": "https://www.record.com.mx/historia/hugo-camberos-figura-y-goleador-del-tricolor-sub-20-y-relegado-en-chivas-por-el-sistema-de-milito-2026081000305095843"
+            },
+            {
+              "title": "¡Orgullo de Chivas! Hugo Camberos campeón de goleo del Premundial Sub-20 de la CONCACAF",
+              "url": "https://chivaspasion.bolavip.com/seleccion-mexicana/orgullo-de-chivas-hugo-camberos-campeon-de-goleo-del-premundial-sub-20-de-la-concacaf"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "fernando tatis jr",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Fernando Tatis Jr.'s three-run home run (11)",
+              "url": "https://sports.yahoo.com/videos/fernando-tatis-jr-three-run-013050717.html"
+            },
+            {
+              "title": "Fernando Tatis Jr. goes yard Wednesday",
+              "url": "https://www.fantasypros.com/mlb/news/600741/fernando-tatis-jr-goes-yard-wednesday.php"
+            },
+            {
+              "title": "Padres star Fernando Tatis Jr still isn’t hitting a ton of homers, but the ones he hits go far",
+              "url": "https://clutchpoints.com/mlb/san-diego-padres/padres-news-fernando-tatis-jr-still-isnt-hitting-ton-homers-the-ones-he-hits-go-far"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "américa vs portland",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "América vs Timbers: posibles alineaciones y probabilidades",
+              "url": "https://espndeportes.espn.com/futbol/norte-centro-america/nota/_/id/17091541/america-vs-portland-timbers-alineaciones-probabilidades-leagues-cup-2026"
+            },
+            {
+              "title": "La predicción de la Inteligencia Artificial para el partido América vs Portland Timbers",
+              "url": "https://www.si.com/es-us/futbol/la-prediccion-de-la-inteligencia-artificial-para-el-partido-america-vs-portland-timbers"
+            },
+            {
+              "title": "América vs. Portland Timbers EN VIVO: ¿A qué hora y dónde ver HOY partido Leagues Cup 2026?",
+              "url": "https://www.mediotiempo.com/futbol/leagues-cup/america-vs-portland-en-vivo-horario-y-canal-partido-leagues-2026"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "américa - timbers",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Portland Timbers, Club América set for Leagues Cup blockbuster",
+              "url": "https://www.mlssoccer.com/competitions/leagues-cup/news/portland-timbers-club-america-set-for-leagues-cup-blockbuster"
+            },
+            {
+              "title": "Matchday | Timbers host Liga MX's Club América in Leagues Cup showdown Sunday",
+              "url": "https://www.timbers.com/news/matchday-timbers-host-liga-mx-s-club-america-in-leagues-cup-showdown-sunday"
+            },
+            {
+              "title": "America vs Timbers LIVE Score Updates in Leagues Cup Match",
+              "url": "https://www.vavel.com/en-us/soccer/2026/08/10/1267626-club-america-vs-atlante-live-score-updates-in-leagues-cup-match.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "double lives of suburban wives",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "New Reality Show Follows Six Moms With Adult Content Side Hustles: How to Watch 'Double Lives of Suburban Wives'",
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-double-lives-of-suburban-wives-stream-tlc-online-free-1236669817/"
+            },
+            {
+              "title": "'Double Lives of Suburban Wives' Star Defends Adult Content Career",
+              "url": "https://www.tmz.com/2026/08/09/tammy-from-double-lives-of-suburban-wives-defends-doing-adult-content-creation/"
+            },
+            {
+              "title": "'Double Lives of Suburban Wives': Former Teacher Details Real-Life Repercussions of Spicy Content Creation (Exclusive)",
+              "url": "https://www.yahoo.com/lifestyle/videos/double-lives-suburban-wives-former-180419799.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "daulton varsho",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Measuring the stats on Daulton Varsho's home run",
+              "url": "https://www.mlb.com/video/measuring-the-stats-on-daulton-varsho-s-home-run-x1551"
+            },
+            {
+              "title": "Daulton Varsho's first home run with the Astros (8)",
+              "url": "https://sports.yahoo.com/videos/daulton-varshos-first-home-run-004439631.html"
+            },
+            {
+              "title": "Varsho crushes two-run homer to put Astros up",
+              "url": "https://www.nbcsports.com/watch/mlb/sunday-night-baseball-on-nbc/daulton-varsho-crushes-two-run-homer-to-give-astros-lead-over-padres"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "reacher season 4 release date",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Tom Cruise's 'Reacher' Sequel Joins Streaming Ahead of Alan Ritchson's Return",
+              "url": "https://www.imdb.com/news/ni65960256/?ref_=nmnw_art_perm"
+            },
+            {
+              "title": "‘Reacher’ season 4 release schedule: When do new episodes premiere?",
+              "url": "https://www.lifestyleasia.com/hk/entertainment/streaming/reacher-season-4-prime-video-release-schedule/"
+            },
+            {
+              "title": "Reacher season 4 episodes 1-3 release date and time — when are they dropping on Prime Video?",
+              "url": "https://www.yahoo.com/entertainment/tv/articles/reacher-season-4-episodes-1-130000902.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "home DIY",
+          "interest_avg": 40,
+          "interest_max": 100,
+          "interest_latest": 35,
+          "rank": 1
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 37,
+          "interest_max": 100,
+          "interest_latest": 33,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 8,
+          "interest_max": 38,
+          "interest_latest": 9,
+          "rank": 3
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 7,
+          "interest_max": 59,
+          "interest_latest": 5,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 1,
+          "interest_max": 13,
+          "interest_latest": 3,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "せいや",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "トーキング千鳥！第２弾★明日夜１０時〜千鳥と話題の有名人が（秘）価値観で爆笑トーク祭",
+              "url": "https://www.tbs.co.jp/tv/20260811_B7D6.html"
+            },
+            {
+              "title": "「トーキング千鳥！」第2弾に霜降り明星せいや、ハリセンボン春菜ら出演 水曜22時放送（お笑いナタリー）",
+              "url": "https://news.yahoo.co.jp/articles/c09fcdf7fe7835a4721027bfe1f8b8f63b0c18e5"
+            },
+            {
+              "title": "深澤辰哉が“絶対タクシー”生活を告白!? EXILE TAKAHIROが語る東京から離れたくない意外な理由とは…",
+              "url": "https://fan.books.rakuten.co.jp/articles/9763"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ヒコロヒー",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "【 ヒコロヒー 】極貧時代は先輩の「配給」で生活…今や後輩に「お前も食うか?」と500円のアイスを奢れるまでに成長",
+              "url": "https://news.yahoo.co.jp/articles/5afe47457217f0b41f59298569f79bd1b6d1dae5"
+            },
+            {
+              "title": "ヒコロヒー、つるの相方に突然電話「電話するなら出さんかーい」つるとの同居時代を回想",
+              "url": "https://www.nikkansports.com/entertainment/news/202608090001098.html"
+            },
+            {
+              "title": "【画像まとめ】ヒコロヒー、恋愛について赤裸々トーク「相手に求めることは…」",
+              "url": "https://news.tv-asahi.co.jp/news_geinou/articles/photos/900196826.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "くら寿司 ちいかわ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "ちいかわ＞くら寿司コラボ ビッくらポン！景品にフィギュア、缶バッジ ミニ巾着、湯のみ、寿司皿のプレゼントも（MANTANWEB）",
+              "url": "https://news.yahoo.co.jp/articles/cdee678fe98783c692cd115c04917daa4ea1c9cc"
+            },
+            {
+              "title": "「ちいかわ」×くら寿司コラボキャンペーンが8月21日より期間限定開催 オリジナルの湯呑みや寿司皿が景品に登場！",
+              "url": "https://game.watch.impress.co.jp/docs/news/2131856.html"
+            },
+            {
+              "title": "【ちいかわ】ナイトブラにちいかわ登場！ 「バストをキレイにケアする」ナイトブラVIAGE、「ちいかわ」コレクション新発売",
+              "url": "https://mdpr.jp/other/detail/4826873"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "リクルート 株価",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "リクルート---ストップ高、コンセンサス大幅に上回る好決算発表で(フィスコ)",
+              "url": "https://finance.yahoo.co.jp/news/detail/52e1e48339f540afe50aba268066007937fbbfc5"
+            },
+            {
+              "title": "リクルートHD株価ストップ高 27年3月期純利益を上方修正",
+              "url": "https://www.nikkei.com/article/DGXZQOFL100BO0Q6A810C2000000/"
+            },
+            {
+              "title": "今朝の注目ニュース！ ★リクルート、内外テック、ダイジェトなどに注目！",
+              "url": "https://kabutan.jp/news/marketnews/?b=n202608100022"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "榎田達治",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ヌートバー、日本人の祖父の死去明かす ミドルネーム「タツジ」の由来…「本当に感謝」",
+              "url": "https://news.yahoo.co.jp/pickup/6591158"
+            },
+            {
+              "title": "ヌートバー、日本人の祖父の死去明かす　ミドルネーム「タツジ」の由来…「本当に感謝」",
+              "url": "https://topics.smt.docomo.ne.jp/article/fullcount/sports/fullcount-2001381"
+            },
+            {
+              "title": "ヌートバー、日本人の祖父の死去明かす ミドルネーム「タツジ」の由来…「本当に感謝」",
+              "url": "https://sportsbull.jp/p/2394459/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "エグジビット10契約",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "河村勇輝をNBAクリッパーズが獲得発表、八村塁と共闘目指す 「エグジビット10契約」からスタート（THE ANSWER）",
+              "url": "https://news.yahoo.co.jp/articles/8e3170fe31d2652f58554bf7691247cbd32c2e40"
+            },
+            {
+              "title": "河村勇輝、バスケ日本代表への思い語る「ＮＢＡのコートに立つのは同じレベル」「強豪国とも対等に戦える力はある」",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260809-OHT1T51251"
+            },
+            {
+              "title": "「エグジビット10」契約とは？河村勇輝がNBA挑戦1年目と同じ流れで悲願の本契約を目指す",
+              "url": "https://www.sponichi.co.jp/sports/news/2026/08/10/gazo/20260810s10011061112000p.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "ミセス",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "ミセス、きょうから“約1ヶ月”夏季休暇＆いきさつ説明 「街で見かけられても、十分なご配慮を」事務所が呼びかけ（オリコン）",
+              "url": "https://news.yahoo.co.jp/articles/392246d003d49407097abc91015a76115517ec2c"
+            },
+            {
+              "title": "Mrs. GREEN APPLE、約1カ月の夏季長期休暇を発表「よりクリエイティブを追求できるリフレッシュ期間として」【全文】",
+              "url": "https://topics.smt.docomo.ne.jp/article/mdpr/entertainment/mdpr-4827132?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
+            },
+            {
+              "title": "Mrs. GREEN APPLE、1ヶ月の夏季休暇",
+              "url": "https://www.oricon.co.jp/news/2473053/full/?anc=294"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "杉浦太陽",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "読売テレビ『24時間テレビ』第2弾出演者発表　長友佑都の妻・平愛梨、辻希美の夫・杉浦太陽、ギャロップも登場へ【コメント全文】",
+              "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2473019"
+            },
+            {
+              "title": "24時間テレビ関西パートゲストに平愛梨、杉浦太陽、ギャロップ（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/3771a7cf206c02a246b958c72db0f50699595023"
+            },
+            {
+              "title": "平愛梨「ランナーが星野真里さんと知って涙しました」 ｙｔｖ２４時間テレビに杉浦太陽、ギャロップとゲスト出演",
+              "url": "https://www.yomiuri.co.jp/culture/hochi/20260809064-OHT1T51212/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "高田純次",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "菊地亜美、移住先のマンション購入→現状説明 それを聞いた高田純次がぽつり「やばいな…」（オリコン）",
+              "url": "https://news.yahoo.co.jp/articles/d52fce376974b3051b1e8100100999004ce93b92"
+            },
+            {
+              "title": "菊地亜美がマレーシア移住を決断　二拠点生活へ「人生こそがバラエティー！笑」",
+              "url": "https://www.nikkansports.com/entertainment/news/202608050000285.html"
+            },
+            {
+              "title": "【実際の動画】菊地亜美「人生こそがバラエティー！」晴れやか笑顔でマレーシア移住報告",
+              "url": "https://www.chunichi.co.jp/article/1292099"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "高校野球 速報",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "【夏の甲子園｜一球速報 - 中京（岐阜）ー 霞ケ浦（茨城）】バーチャル高校野球",
+              "url": "https://vk.sportsbull.jp/koshien/senshuken/sokuho/?game_id=2021048494"
+            },
+            {
+              "title": "【甲子園】注目の一戦、横浜－沖縄尚学 第１試合は日南学園が明徳義塾にサヨナラ勝ち／速報中",
+              "url": "https://www.nikkansports.com/baseball/highschool/news/202608040000407.html"
+            },
+            {
+              "title": "【イニング速報】甲子園、沖縄尚学―横浜（神奈川）屈指の強豪対決",
+              "url": "https://ryukyushimpo.jp/sports/entry-5447545.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 24,
+          "interest_max": 99,
+          "interest_latest": 21,
+          "rank": 1
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 24,
+          "interest_max": 100,
+          "interest_latest": 21,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 4,
+          "interest_max": 34,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 1,
+          "interest_max": 39,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-08-10T01:55:01.333999+00:00"
+}
