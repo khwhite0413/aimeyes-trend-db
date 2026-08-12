@@ -1,36 +1,31 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-08-05",
-    "to": "2026-08-11"
+    "from": "2026-08-06",
+    "to": "2026-08-12"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+4%",
-      "total_mentions": 162
-    },
-    {
-      "keyword": "원피스",
-      "growth": "+17%",
-      "total_mentions": 86
-    },
-    {
-      "keyword": "style",
-      "growth": "+22%",
-      "total_mentions": 75
-    },
-    {
       "keyword": "시슬리원피스",
       "growth": "+10%",
-      "total_mentions": 71
+      "total_mentions": 72
     },
     {
       "keyword": "#shorts",
-      "growth": "+100%",
-      "total_mentions": 59
+      "growth": "+22%",
+      "total_mentions": 65
+    },
+    {
+      "keyword": "여름",
+      "growth": "+33%",
+      "total_mentions": 45
+    },
+    {
+      "keyword": "베네통원피스",
+      "growth": "+40%",
+      "total_mentions": 43
     }
   ],
   "most_cross_platform": [
@@ -72,10 +67,10 @@
     "블라우스",
     "원피스",
     "플리츠원피스",
+    "시슬리원피스",
     "style",
     "ootd",
-    "시슬리원피스",
-    "#ootd",
-    "#shorts"
+    "#shorts",
+    "#ootd"
   ]
 }
