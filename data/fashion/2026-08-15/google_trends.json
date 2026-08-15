@@ -1,0 +1,965 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "변광용",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "거제시장 \"경찰서 이전·신축, 지역사회 공감대 형성이 우선\"",
+              "url": "https://v.daum.net/v/20260814163740827"
+            },
+            {
+              "title": "변광용 거제시장, “거제경찰서 이전 입지 선정 다시 논의해야”",
+              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308989"
+            },
+            {
+              "title": "10년 넘게 표류한 거제경찰서…부지 정했지만 시 반발 '산 넘어 산'",
+              "url": "https://www.news1.kr/local/busan-gyeongnam/6259777"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "소방관",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "“앞이 안 보여도 호스는 놓치지 않는다”…119명 예비 소방관의 실전훈련",
+              "url": "https://v.daum.net/v/20260813145507987"
+            },
+            {
+              "title": "불길 속 생명줄 잡고 ‘생존훈련’",
+              "url": "https://www.kado.net/news/articleView.html?idxno=2066687"
+            },
+            {
+              "title": "저수율 40% ‘심각’ 단계…긴급 농업용수 지원",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8637702"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "장윤정",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "‘자식 농사 대박’ 장윤정…첫째 워싱턴대 졸업 이어 둘째는 영국 대학 합격",
+              "url": "https://www.segye.com/newsView/20260812517522"
+            },
+            {
+              "title": "장윤정, 둘째 딸 영국 유학 보낸다… \"원하는 대학 합격 축하해\"",
+              "url": "https://www.hankookilbo.com/news/article/A2026081214250004102"
+            },
+            {
+              "title": "장윤정 집안 경사났네! 둘째 딸, 영국 대학 합격…직접 차린 축하상까지",
+              "url": "https://www.xportsnews.com/article/2182772"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "송도 럭스 오션 sk뷰",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "신축 아파트 발코니 통째로 '와르르'…재시공 요구",
+              "url": "https://www.yna.co.kr/view/MYH20260814002500038"
+            },
+            {
+              "title": "[CEO Effect] 김영식의 나노미터, 그리고 균열",
+              "url": "https://www.greened.kr/news/articleView.html?idxno=347561&replyAll=&reply_sc_order_by=C"
+            },
+            {
+              "title": "'테라스 붕괴' SK에코플랜트 시공 아파트 사고조사위 꾸린다",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6844875_36918.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "메이저 리그 사커",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "MLS, ‘은퇴 리그’서 특급 스타들 ‘핫 리그’로 떠올라",
+              "url": "https://www.donga.com/news/Sports/article/all/20260814/134475791/2"
+            },
+            {
+              "title": "[오피셜] 손흥민 오고 MLS에 슈퍼스타 모인다…37살 산체스도 미국 진출! 몽레알 No.10으로 합류",
+              "url": "https://sports.news.nate.com/view/20260813n25987"
+            },
+            {
+              "title": "‘SON, 나도 미국 왔어’ 칠레 레전드 MLS 상륙···“알렉시스 산체스, 몽레알과 2년 계약”",
+              "url": "https://sports.khan.co.kr/article/202608110906003"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "현대무벡스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "현대무벡스 주가, 급등세... 무슨 회사길래?",
+              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1175499"
+            },
+            {
+              "title": "현대무벡스 주가 불기둥… AI·스마트팩토리 수혜 기대에 SI주 ‘들썩’",
+              "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477368"
+            },
+            {
+              "title": "현대무벡스 주가, 8월 14일 장중 27,950원 10.47% 상승",
+              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16163398"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "이지혜",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "유리, 남편 공개했다",
+              "url": "https://www.newsis.com/view/NISX20260813_0003748545"
+            },
+            {
+              "title": "쿨 유리, 미국에서 얼마나 많이 참길래…이지혜 \"몸에서 사리 나올 듯\" ('관종언니')",
+              "url": "https://v.daum.net/v/20260814075307868"
+            },
+            {
+              "title": "쿨 유리, ♥6살 연하 남편과 유튜브 출격..“아이돌이에요?” 이지혜도 감탄 [핫피플]",
+              "url": "https://www.osen.co.kr/article/G1112857234"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "두산에너빌리티",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "빌 게이츠는 왜 韓 SMR 공급망을 택했나",
+              "url": "https://zdnet.co.kr/view/?no=20260814172114"
+            },
+            {
+              "title": "빌 게이츠 한국 오면 꼭 만나는 두 사람…코드명 'SMR 리더십' - 머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/08/15/2026081417305488785"
+            },
+            {
+              "title": "[AM-PM] 방한한 빌게이츠…한 총리·재계 총수 잇달아 회동 外",
+              "url": "https://v.daum.net/v/YQU6h0Lxtj"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "테슬라",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "중국서 안 팔리는 테슬라…상하이 공장 내년 1월 또 감산",
+              "url": "https://news.nate.com/view/20260814n17453"
+            },
+            {
+              "title": "테슬라 中 상하이공장, 7개월 만에 작년 수출량 돌파…글로벌 허브 입지 강화",
+              "url": "https://www.theguru.co.kr/news/article.html?no=105863"
+            },
+            {
+              "title": "韓 수입차 판매1위 테슬라, 중국선 3년 새 19% 감소",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1393925"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "день освобождения кореи",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Валерий Лимаренко поздравил сахалинских корейцев с днем освобождения Кореи",
+              "url": "https://citysakh.ru/news/129418"
+            },
+            {
+              "title": "День независимости Кореи и органный фестиваль: что еще ждет сахалинцев на выходных",
+              "url": "https://sakhalinmedia.ru/news/2589215/"
+            },
+            {
+              "title": "Сахалинцев пригласили на 81-ю годовщину освобождения Корейского полуострова",
+              "url": "https://sakh.online/news/18/2026-08-13/v-yuzhno-sahalinske-otmetyat-81-yu-godovschinu-osvobozhdeniya-koreyskogo-poluostrova-522319"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 51,
+          "interest_max": 100,
+          "interest_latest": 38,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 6,
+          "interest_max": 21,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 1,
+          "interest_max": 68,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 80,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 78,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 87,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [
+        {
+          "rank": 6,
+          "keyword": "brandon pfaadt",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Braves vs. Diamondbacks chat and discussion: Chris Sale vs Brandon Pfaadt",
+              "url": "https://www.batterypower.com/atlanta-braves-discussion/138145/braves-chat-and-discussion-chris-sale-vs-brandon-pfaadt"
+            },
+            {
+              "title": "Diamondbacks vs Braves Prediction, Picks & Odds for Today's MLB Game",
+              "url": "https://www.covers.com/mlb/diamondbacks-vs-braves-prediction-picks-odds-friday-8-14-2026"
+            },
+            {
+              "title": "Diamondbacks Reveal Lineup to Combat Chris Sale in Game 1 vs Braves",
+              "url": "https://sports.yahoo.com/articles/diamondbacks-reveal-lineup-combat-chris-202837921.html"
+            }
+          ]
+        }
+      ],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "jack strand",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 2,
+          "keyword": "eva lys",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Sofia Kenin v Eva Lys Odds",
+              "url": "https://sportsbook.fanduel.com/tennis/wta-cincinnati-2026/sofia-kenin-v-eva-lys-35937554"
+            },
+            {
+              "title": "WTA Cincinnati Day 2 Predictions Including Sofia Kenin vs Eva Lys",
+              "url": "https://lastwordonsports.com/tennis/2026/08/13/wta-cincinnati-predictions-kenin-lys/"
+            },
+            {
+              "title": "Sofia Kenin vs. Eva Lys prediction, odds, picks for WTA Cincinnati Open 2026",
+              "url": "https://www.dimers.com/tennis/news/sofia-kenin-vs-eva-lys-tennis-prediction-wta-cincinnati-open-2026-ac"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "trent grisham",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "The distance behind Trent Grisham's home run",
+              "url": "https://www.mlb.com/yankees/video/the-distance-behind-trent-grisham-s-home-run-x4439"
+            },
+            {
+              "title": "Trent Grisham's solo home run (16)",
+              "url": "https://sports.yahoo.com/videos/trent-grishams-solo-home-run-003704187.html"
+            },
+            {
+              "title": "A deep dive into Trent Grisham's home run",
+              "url": "https://www.mlb.com/yankees/video/a-deep-dive-into-trent-grisham-s-home-run-x7072"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "athan kaliakmanis",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Practice 10: 2026 Miami Dolphins Training Camp Notebook",
+              "url": "https://www.miamidolphins.com/news/practice-10-2026-miami-dolphins-training-camp-notebook"
+            },
+            {
+              "title": "Miami Dolphins Training Camp Practice 10 Observations: More Injuries, More Interceptions, Some Chippiness",
+              "url": "https://www.si.com/nfl/dolphins/onsi/miami-dolphins-training-camp-practice-10-observations-more-injuries-more-interceptions-some-chippiness-01kzp5wzs1ke"
+            },
+            {
+              "title": "Dolphins Commanders Football",
+              "url": "https://www.bdtonline.com/sports/national_sports/dolphins-commanders-football/image_9a9594ec-5508-5e81-b7f4-37f720d192a3.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "llws 2026",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Little League World Series Regionals 2026 Scores and Bracket Results from Day 8",
+              "url": "https://bleacherreport.com/articles/25472360-little-league-world-series-regionals-2026-scores-and-bracket-results-day-8"
+            },
+            {
+              "title": "Iowa vs Wisconsin LLWS Midwest Region Championship: Live updates, where to watch",
+              "url": "https://www.usatoday.com/story/sports/mlb/llws/2026/08/14/iowa-vs-wisconsin-llws-midwest-region-championship-live-updates-where-to-watch--live/91296384007/"
+            },
+            {
+              "title": "Iowa team wins Midwest region, advances to Little League World Series",
+              "url": "https://sports.yahoo.com/articles/iowa-team-wins-midwest-region-195310115.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "brandon pfaadt",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Braves vs. Diamondbacks chat and discussion: Chris Sale vs Brandon Pfaadt",
+              "url": "https://www.batterypower.com/atlanta-braves-discussion/138145/braves-chat-and-discussion-chris-sale-vs-brandon-pfaadt"
+            },
+            {
+              "title": "Diamondbacks vs Braves Prediction, Picks & Odds for Today's MLB Game",
+              "url": "https://www.covers.com/mlb/diamondbacks-vs-braves-prediction-picks-odds-friday-8-14-2026"
+            },
+            {
+              "title": "Diamondbacks Reveal Lineup to Combat Chris Sale in Game 1 vs Braves",
+              "url": "https://sports.yahoo.com/articles/diamondbacks-reveal-lineup-combat-chris-202837921.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "lexie hull",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Fever Star Lexie Hull Announces Career News on Friday",
+              "url": "https://athlonsports.com/wnba/indiana-fever/fever-star-lexie-hull-announces-off-court-news-during-2026-wnba-season"
+            },
+            {
+              "title": "How Fever starter Lexie Hull is building FORTA makeup brand from scratch with perfect partner",
+              "url": "https://www.indystar.com/story/sports/basketball/wnba/fever/2026/08/14/indiana-fever-lexie-hull-builds-forta-makeup-brand-products-release-stanford-sarah-guller/91281350007/"
+            },
+            {
+              "title": "How Lexie Hull is building FORTA makeup brand from scratch with perfect business partner",
+              "url": "https://www.indystar.com/videos/sports/basketball/wnba/2026/08/14/lexie-hull-builds-forta-makeup-brand/91302604007/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "yordan álvarez",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Breaking down Yordan Alvarez's home run",
+              "url": "https://www.mlb.com/astros/video/breaking-down-yordan-alvarez-s-home-run-x8294"
+            },
+            {
+              "title": "Yordan Alvarez's solo homer (36)",
+              "url": "https://sports.yahoo.com/videos/yordan-alvarezs-solo-homer-36-002554805.html"
+            },
+            {
+              "title": "Houston Astros at San Francisco Giants Preview - 08/12/2026",
+              "url": "https://www.mlb.com/stories/game-preview/823187"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "zach wilson",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Key takeaways from Saints Training Camp media availability: Day 12",
+              "url": "https://www.neworleanssaints.com/news/key-takeaways-from-saints-training-camp-media-availability-day-12"
+            },
+            {
+              "title": "Saints training camp Day 11: Bryce Lance continues standout camp",
+              "url": "https://neworleans.football/article/saints-training-camp-day-11-bryce-lance-continues-standout-camp"
+            },
+            {
+              "title": "Saints' offense finally clicking while defense remains ahead in camp",
+              "url": "https://sports.yahoo.com/videos/saints-offense-finally-clicking-while-205807448.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "rangers vs athletics",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Texas Rangers lineup for August 14, 2026",
+              "url": "https://sports.yahoo.com/articles/texas-rangers-lineup-august-14-235245085.html"
+            },
+            {
+              "title": "Rangers vs. Athletics Prediction, Odds, Probable Pitchers, Prop Bets for Friday, Aug. 14",
+              "url": "https://www.si.com/betting/rangers-vs-athletics-prediction-odds-probable-pitchers-prop-bets-for-friday-aug-14"
+            },
+            {
+              "title": "Game #122: Rangers at Athletics Game Thread",
+              "url": "https://www.athleticsnation.com/athletics-game-information/108407/game-122-rangers-at-athletics-game-thread"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 36,
+          "interest_max": 100,
+          "interest_latest": 37,
+          "rank": 1
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 25,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 23,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 20,
+          "interest_max": 68,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 18,
+          "interest_max": 73,
+          "interest_latest": 16,
+          "rank": 5
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 15,
+          "interest_max": 29,
+          "interest_latest": 15,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 4,
+          "interest_max": 17,
+          "interest_latest": 8,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 2,
+          "interest_max": 17,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 3,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "loewe",
+          "value": "190"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury brands handbags",
+          "value": "160"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury watches",
+          "value": "150"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "coach",
+          "value": "140"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "the row",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette rvc",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette bake shop",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette brasserie",
+          "value": "150"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette wallpaper laptop",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette girl names",
+          "value": "60"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ミゲル・バルガス",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "村上宗隆、「2番・一塁」でスタメン復帰 2位・タイガースとの直接対決 2021年ドラフト全体3位右腕と対戦（サンケイスポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/81a39d69c5d4693be9b366230a169dee7f5c40fd"
+            },
+            {
+              "title": "ブルワーズ戦で力投するドジャース先…：【写真特集】米大リーグ きょうの日本人選手：時事ドットコム",
+              "url": "https://www.jiji.com/jc/d6?id=mlbjptoday&p=mlbjptoday-jpp092534941-222222"
+            },
+            {
+              "title": "Wソックス・村上　“休養”で代打起用も三振　連続出塁は27試合でストップ",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260815-0042"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "立石正広",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "【日本ハム】先発の北山亘基「球数少なく、もうちょっと投げられていたら」初の10勝は持ち越し",
+              "url": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202608120001944-1.html"
+            },
+            {
+              "title": "【阪神】立石正広が心機一転のオールドスタイル「でかく見えたら怖いかなって」２軍戦で初披露",
+              "url": "https://sportsbull.jp/p/2395635/"
+            },
+            {
+              "title": "【スタメン発表】阪神・立石正広が「4番・左翼」で降格後初出場！先発は西勇輝",
+              "url": "https://www.sanspo.com/article/20260811-XILKLBPMBNHEXOSXQOGRRORVR4/?outputType=theme_tigers"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "戦没者追悼式",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "駅長かなわず戦死 父の無念思う娘",
+              "url": "https://news.yahoo.co.jp/pickup/6591771"
+            },
+            {
+              "title": "きょう戦後81年の終戦の日 各地で戦没者追悼の催し",
+              "url": "https://news.web.nhk/newsweb/na/nd-20260814de44171"
+            },
+            {
+              "title": "駅長かなわず戦死の父とレイテ島で亡くなった兄思う８５歳夫婦、追悼式初参加へ…「最後の機会かもしれないから」",
+              "url": "https://www.yomiuri.co.jp/sengo/20260814-GYT1T00349/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "望月理恵",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "美貌が話題の52歳「望月理恵」 独自の道を行くフリーアナの「おひとりさまライフ」〈ぶらり途中下車の旅きょう〉",
+              "url": "https://dot.asahi.com/articles/-/290078"
+            },
+            {
+              "title": "8月15日放送の「ぶらり途中下車の旅」は千代田線",
+              "url": "https://www.ntv.co.jp/burari/articles/227mtpj8j8h33jtv9yg.html"
+            },
+            {
+              "title": "8月15日放送の「ぶらり途中下車の旅」は千代田線（日テレTOPICS）",
+              "url": "https://topics.smt.docomo.ne.jp/article/ntv_topics/entertainment/www.ntv.co.jp-burari-articles-227mtpj8j8h33jtv9yg-html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "福田麻貴",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "【カンコレ】3時のヒロイン福田麻貴、腰回りに自信「おなかモデルみたいな感じで歩きたい」（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/1852879684999f0476ae4185106c71cd34fd787a"
+            },
+            {
+              "title": "３時のヒロインが「カンサイコレクション　２０２６Ａ／Ｗ」登場　怪獣コンセプトに福田麻貴「私らは絶対こっち」",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/entertainment/hochi-20260813-OHT1T51335"
+            },
+            {
+              "title": "画像・写真 | 【関コレ】3時のヒロイン・かなで、滝のように汗だく ファッションランウェイで異例の厚着を披露 7枚目",
+              "url": "https://www.oricon.co.jp/news/2473466/photo/7/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "高徳線",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "鳴門市のJR高徳線・居屋敷踏切で乗用車が自損事故、13本の列車に運休や遅れ",
+              "url": "https://www.topics.or.jp/articles/-/1478952"
+            },
+            {
+              "title": "【速報】JR高徳線・池谷駅～徳島駅 運転再開【徳島】（2026年8月14日掲載）｜JRT NEWS NNN",
+              "url": "https://news.ntv.co.jp/n/jrt/category/society/jrdb1f8c0579384a2ab9d029dcd4ac5bf1"
+            },
+            {
+              "title": "ＪＲ高徳線 池谷駅〜徳島駅で運転見合わせ（１６：５０）",
+              "url": "https://news.web.nhk/newsweb/na/nb-8020026748"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "清宮幸太郎",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【日本ハム】清宮幸太郎が代打で適時打「またこれで代打だよ…と思いました」",
+              "url": "https://www.nikkansports.com/baseball/news/202608140002206.html"
+            },
+            {
+              "title": "日本ハム・新庄監督「集中力、振りが違うね」清宮幸太郎の“代打適性”たたえるも、本人は「打たなかったらスタメンあるのかな…」ジレンマ（中日スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/d0a32fbfd9145d2c3b1769b024861ea40a2486f3"
+            },
+            {
+              "title": "日本ハム・清宮が代打で圧巻の打率・571　驚異の勝負強さ「燃えるものはある」",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20260815-0081?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch7"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "インモービレ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "インモービレが36歳で現役引退…セリエAでは4度の得点王獲得（GOAL）",
+              "url": "https://news.yahoo.co.jp/articles/deabfc035de5edf03562afff831dd320fa261a61"
+            },
+            {
+              "title": "サッカー＝元イタリア代表インモービレが現役引退、セリエＡで4度の得点王",
+              "url": "https://jp.reuters.com/life/sports/ICDEQK4TNBNHPEDUKZ3WAIM7DI-2026-08-15/"
+            },
+            {
+              "title": "セリエAの象徴チーロ・インモービレが、伝説的なキャリアを経てプロサッカーからの引退を発表",
+              "url": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/%E3%82%BB%E3%83%AA%E3%82%A8a%E3%81%AE%E8%B1%A1%E5%BE%B4%E3%83%81%E3%83%BC%E3%83%AD-%E3%82%A4%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%92%E3%82%99%E3%83%AC-%E4%BC%9D%E8%AA%AC%E7%9A%84%E3%81%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%92%E7%B5%8C%E3%81%A6%E7%8F%BE%E5%BD%B9%E5%BC%95%E9%80%80%E3%82%92%E7%99%BA%E8%A1%A8/blta076232a79d82724"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "コミックマーケット",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "今年の夏コミは氷の国から！『原神』が「コミックマーケット108」に出展決定！特設ステージや大型展示物が登場！さらにここでしか手に入らないノベルティも配布！",
+              "url": "https://genshin.hoyoverse.com/ja/news/detail/165699"
+            },
+            {
+              "title": "【Google Play(8/14)】新★5キャラ「オデット」登場の『原神』が4位に急上昇 「ペルソナ」シリーズコラボを開催の『NIKKE』は8位に急浮上",
+              "url": "https://gamebiz.jp/news/431065"
+            },
+            {
+              "title": "「原神」がコミケ108に出展！スネージナヤを再現したブースを展開、瞬間冷却パックやトレカなどの限定ノベルティも",
+              "url": "https://www.gamer.ne.jp/news/202608130022/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "スーパーリアル麻雀",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "ILLUMINATIONとインフィニットループ、VR対応脱衣麻雀ゲーム『スーパーリアル麻雀 Venus Returns』の発売日を2026年8月27日12時に決定",
+              "url": "https://gamebiz.jp/news/431055"
+            },
+            {
+              "title": "麻雀が大好きな元気印少女「遠野みづき」！脱衣麻雀『スーパーリアル麻雀 Venus Returns』キャラクター紹介PVが公開",
+              "url": "https://article.auone.jp/article/493b3dba-24d2-4d82-b419-f7ca9d70e6c5"
+            },
+            {
+              "title": "脱衣麻雀『スーパーリアル麻雀 Venus Returns』各ヒロインの際どいVR視点脱衣動画を公開。別館アカウントでは下着をとった姿も（ただし謎の光つき） 4枚目の写真・画像",
+              "url": "https://www.gamespark.jp/article/img/2026/08/10/170489/1172969.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 43,
+          "interest_max": 100,
+          "interest_latest": 39,
+          "rank": 1
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 33,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 31,
+          "interest_max": 99,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 21,
+          "interest_max": 87,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 18,
+          "interest_max": 56,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 14,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 25,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 1,
+          "interest_max": 29,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 24,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-08-15T01:16:51.563780+00:00"
+}
