@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-08-10",
-    "to": "2026-08-16"
+    "from": "2026-08-11",
+    "to": "2026-08-17"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "시슬리원피스",
-      "growth": "+20%",
-      "total_mentions": 81
+      "growth": "+9%",
+      "total_mentions": 83
     },
     {
-      "keyword": "#fashion",
+      "keyword": "데일리룩",
       "growth": "+11%",
       "total_mentions": 60
     },
     {
+      "keyword": "#데일리룩",
+      "growth": "+12%",
+      "total_mentions": 54
+    },
+    {
+      "keyword": "여름코디",
+      "growth": "+29%",
+      "total_mentions": 53
+    },
+    {
       "keyword": "듀엘원피스",
       "growth": "+50%",
-      "total_mentions": 48
-    },
-    {
-      "keyword": "올리비아로렌",
-      "growth": "+20%",
-      "total_mentions": 40
-    },
-    {
-      "keyword": "잇미샤원피스",
-      "growth": "+75%",
-      "total_mentions": 36
+      "total_mentions": 51
     }
   ],
   "most_cross_platform": [
@@ -54,12 +54,12 @@
     "fashion",
     "원피스",
     "블라우스",
-    "플리츠원피스",
     "시슬리원피스",
+    "플리츠원피스",
     "ootd",
     "여름원피스",
     "#shorts",
     "#ootd",
-    "#fashion"
+    "데일리룩"
   ]
 }
