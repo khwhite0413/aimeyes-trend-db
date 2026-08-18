@@ -1,39 +1,55 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-08-11",
-    "to": "2026-08-17"
+    "from": "2026-08-12",
+    "to": "2026-08-18"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "시슬리원피스",
-      "growth": "+9%",
+      "keyword": "ootd",
+      "growth": "+100%",
       "total_mentions": 83
     },
     {
-      "keyword": "ootd",
-      "growth": "+18%",
-      "total_mentions": 80
-    },
-    {
       "keyword": "#ootd",
-      "growth": "+11%",
-      "total_mentions": 67
+      "growth": "+83%",
+      "total_mentions": 69
     },
     {
       "keyword": "데일리룩",
-      "growth": "+11%",
-      "total_mentions": 60
+      "growth": "+43%",
+      "total_mentions": 61
     },
     {
-      "keyword": "#데일리룩",
-      "growth": "+12%",
-      "total_mentions": 54
+      "keyword": "#fashion",
+      "growth": "+40%",
+      "total_mentions": 58
+    },
+    {
+      "keyword": "여름코디",
+      "growth": "+83%",
+      "total_mentions": 57
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "드레스",
+      "platforms": [
+        "google_trends",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "티셔츠",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "원피스",
       "platforms": [
@@ -55,11 +71,11 @@
     "원피스",
     "블라우스",
     "시슬리원피스",
-    "플리츠원피스",
     "ootd",
+    "플리츠원피스",
+    "#ootd",
     "여름원피스",
     "#shorts",
-    "#ootd",
     "데일리룩"
   ]
 }
