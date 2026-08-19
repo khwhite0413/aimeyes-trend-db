@@ -2,9 +2,9 @@
   "date": "2026-08-19",
   "mode": "general",
   "compared_to": "2026-08-18",
-  "total_keywords_today": 445,
+  "total_keywords_today": 447,
   "total_keywords_yesterday": 442,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -17,6 +17,50 @@
         "youtube"
       ],
       "sample_note": "오늘 15건, 어제 12건 기준"
+    },
+    {
+      "keyword": "#shorts",
+      "change": "+18%",
+      "today_count": 13,
+      "yesterday_count": 11,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 13건, 어제 11건 기준"
+    },
+    {
+      "keyword": "#trending",
+      "change": "+20%",
+      "today_count": 12,
+      "yesterday_count": 10,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 12건, 어제 10건 기준"
+    },
+    {
+      "keyword": "잇미샤원피스",
+      "change": "+12%",
+      "today_count": 9,
+      "yesterday_count": 8,
+      "confidence": "medium",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 9건, 어제 8건 기준"
+    },
+    {
+      "keyword": "지고트원피스",
+      "change": "+17%",
+      "today_count": 7,
+      "yesterday_count": 6,
+      "confidence": "medium",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
       "keyword": "#trend",
@@ -50,6 +94,39 @@
         "youtube"
       ],
       "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "tips",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "songs",
+      "change": "+400%",
+      "today_count": 5,
+      "yesterday_count": 1,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 1건 기준"
+    },
+    {
+      "keyword": "august",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
       "keyword": "유행하는",
@@ -96,17 +173,6 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "dance",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
       "keyword": "amp",
       "change": "+300%",
       "today_count": 4,
@@ -127,17 +193,6 @@
         "youtube"
       ],
       "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "august",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
       "keyword": "#tiktok​​",
@@ -171,76 +226,35 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#usa​​",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#trending​​",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#viralshorts​​",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "usa",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#dance",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "#viral",
-      "change": "-17%",
-      "today_count": 10,
+      "change": "-8%",
+      "today_count": 11,
       "yesterday_count": 12,
       "confidence": "high"
     },
     {
-      "keyword": "#shorts",
-      "change": "-18%",
+      "keyword": "플리츠원피스",
+      "change": "-10%",
       "today_count": 9,
-      "yesterday_count": 11,
+      "yesterday_count": 10,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "듀엘원피스",
+      "change": "-11%",
+      "today_count": 8,
+      "yesterday_count": 9,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "여름원피스",
+      "change": "-14%",
+      "today_count": 6,
+      "yesterday_count": 7,
       "confidence": "medium"
     },
     {
@@ -252,13 +266,13 @@
     },
     {
       "keyword": "最新tiktokメドレー",
-      "change": "-20%",
-      "today_count": 4,
+      "change": "-80%",
+      "today_count": 1,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "tips",
+      "keyword": "베네통원피스",
       "change": "-25%",
       "today_count": 3,
       "yesterday_count": 4,
@@ -266,34 +280,6 @@
     },
     {
       "keyword": "spiderman",
-      "change": "-33%",
-      "today_count": 2,
-      "yesterday_count": 3,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#lifehacks",
-      "change": "-33%",
-      "today_count": 2,
-      "yesterday_count": 3,
-      "confidence": "low"
-    },
-    {
-      "keyword": "lifehacks",
-      "change": "-33%",
-      "today_count": 2,
-      "yesterday_count": 3,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#diy",
-      "change": "-33%",
-      "today_count": 2,
-      "yesterday_count": 3,
-      "confidence": "low"
-    },
-    {
-      "keyword": "diy",
       "change": "-33%",
       "today_count": 2,
       "yesterday_count": 3,
