@@ -8,32 +8,40 @@
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+11%",
-      "total_mentions": 126
-    },
-    {
-      "keyword": "데일리룩",
-      "growth": "+12%",
-      "total_mentions": 62
-    },
-    {
       "keyword": "여름코디",
-      "growth": "+29%",
-      "total_mentions": 61
+      "growth": "+14%",
+      "total_mentions": 60
     },
     {
-      "keyword": "듀엘원피스",
-      "growth": "+14%",
-      "total_mentions": 58
+      "keyword": "잇미샤원피스",
+      "growth": "+50%",
+      "total_mentions": 52
     },
     {
-      "keyword": "#데일리룩",
-      "growth": "+14%",
-      "total_mentions": 57
+      "keyword": "올리비아로렌",
+      "growth": "+33%",
+      "total_mentions": 47
+    },
+    {
+      "keyword": "#데일리룩코디",
+      "growth": "+20%",
+      "total_mentions": 44
+    },
+    {
+      "keyword": "데일리룩코디",
+      "growth": "+20%",
+      "total_mentions": 44
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "드레스",
+      "platforms": [
+        "google_trends",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "티셔츠",
       "platforms": [
@@ -49,22 +57,14 @@
         "youtube"
       ],
       "count": 2
-    },
-    {
-      "keyword": "드레스",
-      "platforms": [
-        "google_trends",
-        "youtube"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
     "원피스",
     "블라우스",
     "시슬리원피스",
-    "플리츠원피스",
-    "잇미샤원피스"
+    "잇미샤원피스",
+    "플리츠원피스"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -75,7 +75,7 @@
     "#ootd",
     "플리츠원피스",
     "#shorts",
-    "#fashion",
-    "데일리룩"
+    "데일리룩",
+    "#fashion"
   ]
 }
