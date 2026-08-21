@@ -1,36 +1,31 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-08-14",
-    "to": "2026-08-20"
+    "from": "2026-08-15",
+    "to": "2026-08-21"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "여름코디",
-      "growth": "+14%",
-      "total_mentions": 60
+      "keyword": "#shorts",
+      "growth": "+88%",
+      "total_mentions": 71
     },
     {
       "keyword": "잇미샤원피스",
       "growth": "+50%",
-      "total_mentions": 52
+      "total_mentions": 55
     },
     {
       "keyword": "올리비아로렌",
-      "growth": "+33%",
-      "total_mentions": 47
+      "growth": "+14%",
+      "total_mentions": 49
     },
     {
-      "keyword": "#데일리룩코디",
-      "growth": "+20%",
-      "total_mentions": 44
-    },
-    {
-      "keyword": "데일리룩코디",
-      "growth": "+20%",
-      "total_mentions": 44
+      "keyword": "에고이스트",
+      "growth": "+40%",
+      "total_mentions": 46
     }
   ],
   "most_cross_platform": [
@@ -73,9 +68,9 @@
     "블라우스",
     "시슬리원피스",
     "#ootd",
-    "플리츠원피스",
     "#shorts",
+    "플리츠원피스",
     "데일리룩",
-    "#fashion"
+    "여름코디"
   ]
 }
