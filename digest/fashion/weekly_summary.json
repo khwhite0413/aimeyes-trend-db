@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-08-16",
-    "to": "2026-08-22"
+    "from": "2026-08-17",
+    "to": "2026-08-23"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "ootd",
-      "growth": "+17%",
-      "total_mentions": 97
+      "growth": "+15%",
+      "total_mentions": 100
     },
     {
       "keyword": "원피스",
       "growth": "+17%",
-      "total_mentions": 87
+      "total_mentions": 89
     },
     {
       "keyword": "블라우스",
       "growth": "+8%",
-      "total_mentions": 85
+      "total_mentions": 86
     },
     {
       "keyword": "#ootd",
-      "growth": "+22%",
-      "total_mentions": 76
+      "growth": "+10%",
+      "total_mentions": 78
     },
     {
-      "keyword": "데일리룩",
-      "growth": "+12%",
-      "total_mentions": 62
+      "keyword": "#shorts",
+      "growth": "+29%",
+      "total_mentions": 72
     }
   ],
   "most_cross_platform": [
@@ -51,7 +51,7 @@
       "count": 2
     },
     {
-      "keyword": "티셔츠",
+      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
@@ -59,7 +59,7 @@
       "count": 2
     },
     {
-      "keyword": "블라우스",
+      "keyword": "티셔츠",
       "platforms": [
         "naver",
         "youtube"
@@ -87,11 +87,11 @@
     "ootd",
     "원피스",
     "블라우스",
-    "시슬리원피스",
     "#ootd",
+    "시슬리원피스",
     "#shorts",
     "데일리룩",
-    "플리츠원피스",
-    "잇미샤원피스"
+    "잇미샤원피스",
+    "플리츠원피스"
   ]
 }
