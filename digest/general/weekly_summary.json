@@ -1,39 +1,47 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-08-17",
-    "to": "2026-08-23"
+    "from": "2026-08-18",
+    "to": "2026-08-24"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "trend",
-      "growth": "+60%",
-      "total_mentions": 96
+      "growth": "+25%",
+      "total_mentions": 101
     },
     {
       "keyword": "#shorts",
-      "growth": "+60%",
-      "total_mentions": 91
+      "growth": "+45%",
+      "total_mentions": 97
     },
     {
       "keyword": "#viral",
-      "growth": "+45%",
-      "total_mentions": 83
+      "growth": "+17%",
+      "total_mentions": 86
     },
     {
       "keyword": "#trending",
-      "growth": "+75%",
-      "total_mentions": 77
+      "growth": "+20%",
+      "total_mentions": 81
     },
     {
       "keyword": "잇미샤원피스",
-      "growth": "+43%",
-      "total_mentions": 62
+      "growth": "+25%",
+      "total_mentions": 65
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "로블록스",
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "엘지트윈스",
       "platforms": [
@@ -53,13 +61,13 @@
   "top_keywords_overall": [
     "trend",
     "#shorts",
+    "#viral",
     "원피스",
     "블라우스",
-    "#viral",
     "#trending",
     "시슬리원피스",
     "잇미샤원피스",
-    "플리츠원피스",
+    "지고트원피스",
     "올리비아로렌"
   ]
 }

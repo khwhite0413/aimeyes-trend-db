@@ -1,0 +1,729 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "니어스랩",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[특징주] 니어스랩, 코스닥 상장 첫날 장 초반 13%대 하락",
+              "url": "https://v.daum.net/v/20260824093051685"
+            },
+            {
+              "title": "'피지컬 AI 기반 자율비행 드론' 니어스랩, 코스닥 데뷔",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02027046645550600"
+            },
+            {
+              "title": "[공모주달력]흥행 엇갈린 니어스랩·해치텍 잇따라 코스닥 상장",
+              "url": "https://news.bizwatch.co.kr/article/market/2026/08/21/0016"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "새마을금고",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "새마을금고, 상반기 정책자금 2천170억원 공급",
+              "url": "https://www.yna.co.kr/view/AKR20260824041200002"
+            },
+            {
+              "title": "새마을금고, 상반기 정책자금 2170억원 공급…지방 금융지원 확대",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02499366645550600"
+            },
+            {
+              "title": "새마을금고, 상반기 정책자금 2170억원 공급…서민·소상공인 지원 확대",
+              "url": "http://www.etnews.com/20260824000061"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "농업인",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "경북 봉화군, 청년농업인에 최대 1억 지원으로 농촌 활력 불어넣는다",
+              "url": "https://www.viva100.com/article/20260824500269"
+            },
+            {
+              "title": "농업·농촌 살릴 청년 귀농귀촌… 관건은 ‘먹고살 기반’",
+              "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61736"
+            },
+            {
+              "title": "전남광주 농기원, 청년 창농기업 지원 대상자 모집",
+              "url": "https://www.newsis.com/view/NISX20260818_0003752326"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "고용노동부",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "난임치료휴가 유급기간 2일→4일 확대…불리한 처우시 처벌",
+              "url": "https://v.daum.net/v/20260823185951164"
+            },
+            {
+              "title": "난임치료휴가 유급기간 2일→4일 확대…불리한 처우시 처벌",
+              "url": "https://www.yna.co.kr/view/AKR20260822027600530"
+            },
+            {
+              "title": "난임치료휴가, 11월부터 '유급기간 4일로 확대'",
+              "url": "https://go.seoul.co.kr/news/prnewsView.php?id=443529"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "zoom",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.",
+              "url": "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html"
+            },
+            {
+              "title": "Freedom 250 brings IndyCar to Washington, D.C.",
+              "url": "https://www.wral.com/video/freedom205-indycar-washington-dc-august-2026/"
+            },
+            {
+              "title": "Kyle Kirkwood Dominates for Historic, Star-Spangled Victory in D.C.",
+              "url": "https://www.indycar.com/news/2026/08/08-23-nics-dc-race"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "장기전세주택",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "3억 전세로 강남 20년 살고…\"무기한 살게 해달라\" 논란 [이슈픽]",
+              "url": "https://news.nate.com/view/20260824n02937"
+            },
+            {
+              "title": "[팩트체크] 임대주택 살면 내집장만 못한다?…서울 장기전세 입주민 8% 마련",
+              "url": "https://v.daum.net/v/20260822080203425"
+            },
+            {
+              "title": "강남 20년 임대 논란 “무기 계약 해달라” vs “다른 사람은?”",
+              "url": "https://www.munhwa.com/article/11610381"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "손범수",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "'손범수♥' 진양혜 \"子 12년 열애 끝 결혼, '양다리 걸쳐라' 농담하니 정색하더라\"(아침마당)",
+              "url": "https://news.nate.com/view/20260824n05423"
+            },
+            {
+              "title": "손범수♥진양혜 아들, 12년 열애 끝 결혼…'연세대 동문' 미모의 아내 깜짝 공개 (아침마당) - 조선비즈",
+              "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/24/MQYWGN3GGAZTKNLCMM3GGYRZME/"
+            },
+            {
+              "title": "진양혜 “손범수, 5개월 신입인 내게 프러포즈‥화 끓어 ‘미친 거 아니냐’”(아침마당)",
+              "url": "https://m.newsen.com/news_view.php?uid=202608240910176710"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "빗썸",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "거래대금 급감에 실적 반토막…두나무·빗썸, 자체 코인자산도 줄었다",
+              "url": "https://v.daum.net/v/20260823145110320"
+            },
+            {
+              "title": "올해 두나무에 2조 베팅한 금융사들 '물렸다'…빗썸도 몸값 반토막",
+              "url": "https://www.etnews.com/20260821000200"
+            },
+            {
+              "title": "업비트·빗썸, 소송충당금 750억…규제 리스크↑",
+              "url": "https://news.nate.com/view/20260823n09423"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "브레이브스 대 브루어스",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "김하성 7경기 연속 결장…애틀랜타, 밀워키에 1-4 역전패",
+              "url": "https://v.daum.net/v/20260823090654093"
+            },
+            {
+              "title": "'이럴거면 그냥 나가는게…' 8월 타율 0 김하성, 때론 돈 보다 중요한 게 있다",
+              "url": "https://www.chosun.com/sports/world-baseball/2026/08/23/MNQTKZDEGE3DQOBVG5RGINJQMQ/"
+            },
+            {
+              "title": "애틀랜타 벤치 지박령 김하성, 7경기째 그라운드 못 밟아",
+              "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432764"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "송성문",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "샌디에이고, 미네소타에 짜릿한 7-5 뒤집기…송성문 결장",
+              "url": "https://v.daum.net/v/20260823123728893"
+            },
+            {
+              "title": "길어지는 로테이션 간격…송성문 3G 연속 결장, SD는 3연승 질주",
+              "url": "https://www.chosun.com/sports/world-baseball/2026/08/24/MU3DOMZXGQZTIZDGGVSWEMRSGY/"
+            },
+            {
+              "title": "송성문 2경기 연속 결장, '전 NC' 하트 1이닝 1실점...팀은 7-5 역전승 [SD 리뷰] - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/08/23/202608231237773744O"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 2,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "caitlin clark",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "“Yes It’s Her Fault”: WNBA World Reacts As Team USA HC Kara Lawson Calls Out Caitlin Clark’s Mistakes in Fever Loss",
+              "url": "https://sports.yahoo.com/articles/yes-her-fault-wnba-world-084533812.html"
+            },
+            {
+              "title": "Everything Caitlin Clark, Stephanie White Said After Fever's Loss to Breanna Stewart, Liberty",
+              "url": "https://bleacherreport.com/articles/25481616-everything-caitlin-clark-stephanie-white-said-after-fevers-loss-breanna-stewart-liberty"
+            },
+            {
+              "title": "How losses show Indiana Fever areas to improve with 'playoff basketball right now'",
+              "url": "https://www.indystar.com/story/sports/basketball/wnba/fever/2026/08/22/indiana-fever-losing-streak-liberty-wings-next-game-sky-wnba-standings-playoff-seeding/91428407007/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "josh jacobs",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Packers news: Green Bay faces major decision at RB amid wait for Josh Jacobs punishment",
+              "url": "https://sports.yahoo.com/articles/packers-news-green-bay-faces-214002072.html"
+            },
+            {
+              "title": "Packers Need a Backup Plan at Running Back Due to Josh Jacobs Uncertainty",
+              "url": "https://cheeseheadtv.com/blog/packers-need-a-backup-plan-at-running-back-due-to-josh-jacobs-uncertainty-553"
+            },
+            {
+              "title": "Packers’ Josh Jacobs Uncertainty Opens Door for Surprise Roster Move",
+              "url": "https://heavy.com/sports/nfl/green-bay-packers/packers-josh-jacobs-uncertainty-roster-move/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "junior vs once caldas",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Cuándo juegan Junior vs. Once Caldas por Liga BetPlay: equipo, fecha, hora y TV en vivo",
+              "url": "https://espndeportes.espn.com/futbol/colombia/nota/_/id/17155762/junior-vs-once-caldas-liga-betplay-equipo-fecha-hora-tv-en-vivo"
+            },
+            {
+              "title": "Los blancos quieren una revancha por la eliminación en semifinales del primer semestre, mientras que el Tiburón viene de dos derrotas seguidas",
+              "url": "https://www.facebook.com/infobaecolombia/posts/los-blancos-quieren-una-revancha-por-la-eliminaci%C3%B3n-en-semifinales-del-primer-se/1516202697189154/"
+            },
+            {
+              "title": "¿A qué hora juega el Once Caldas? El Blanco visita al Junior y busca tres puntos para reacomodarse en la Liga",
+              "url": "https://www.lapatria.com/deportes/que-hora-juega-el-once-caldas-el-blanco-visita-al-junior-y-busca-tres-puntos-para"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "travis hunter",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "“Not Worth Going to Jail”: Travis Hunter Gets Front-Row Look at Illegal Racket Bust With Jacksonville Cop",
+              "url": "https://sports.yahoo.com/articles/not-worth-going-jail-travis-022343484.html"
+            },
+            {
+              "title": "Jaguars Star Travis Hunter’s Police Ride-Along Ends With Major Drug Bust",
+              "url": "https://sports.yahoo.com/articles/jaguars-star-travis-hunter-police-233858557.html"
+            },
+            {
+              "title": "Travis Hunter Joins Police Ride-Along As Cops Make Major Drug Bust",
+              "url": "https://www.yahoo.com/entertainment/videos/travis-hunter-joins-police-ride-182604425.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "pat murphy",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Why did Brewers manager Pat Murphy yank his starter in the middle of an at-bat?",
+              "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/08/20/milwaukee-brewers-manager-pat-murphy-pulled-starter-robert-gasser-mid-at-bat-vs-seattle-mariners/91384116007/"
+            },
+            {
+              "title": "Brewers' Demotion When Sal Frelick Returns Is Getting Clear",
+              "url": "https://www.si.com/mlb/brewers/onsi/brewers-demotion-when-sal-frelick-returns-is-getting-clear-pat3"
+            },
+            {
+              "title": "With a pair of hits (including a HR) for Nashville, Frelick could be following Pratt back to the bigs",
+              "url": "https://www.mlb.com/news/cooper-pratt-reinstated-from-injured-list"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "chris sale",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Inside the fastest show in baseball: What it's like to watch Brewers sensation Jacob Misiorowski",
+              "url": "https://www.cbssports.com/mlb/news/inside-fastest-show-in-baseball-brewers-sensation-jacob-misiorowski/"
+            },
+            {
+              "title": "Misiorowski outduels Sale, gets high praise from Braves foe",
+              "url": "https://www.espn.com/mlb/story/_/id/49685946/braves-chris-sale-says-brewers-jacob-misiorowski-probably-most-impressive-fastball-ever-seen"
+            },
+            {
+              "title": "Jacob Misiorowski lowers MLB-best ERA in duel vs. Chris Sale as Brewers outlast Braves in defensive showdown",
+              "url": "https://sports.yahoo.com/mlb/article/jacob-misiorowski-lowers-mlb-best-era-in-duel-vs-chris-sale-as-brewers-outlast-braves-in-defensive-showdown-224325056.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "fedex top 30",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Inside the Field: TOUR Championship",
+              "url": "https://www.pgatour.com/article/news/inside-the-field/2026/08/21/how-the-field-qualified-for-tour-championship-east-lake-golf-club-top-30-fedexcup-playoffs"
+            },
+            {
+              "title": "FedEx Cup 2026: Here are the 30 players who qualified for the Tour Championship (and notables who missed)",
+              "url": "https://www.golfdigest.com/story/fexex-cup-2026-here-are-the-top-30-players-who-qualified-for-the-tour-championship-and-notables-who-missed"
+            },
+            {
+              "title": "Bubble bursts for three players in St. Louis as Cantlay, MacIntyre and Woodland make Tour Championship",
+              "url": "https://www.golfchannel.com/pga-tour/news/rickie-fowler-kurt-kitayama-2026-bmw-championship-final-round-recap-fedex-cup-standings"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "broncos depth chart",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Broncos 53-man roster projection: How many QBs? And what to do at ILB and TE?",
+              "url": "https://www.denverpost.com/2026/08/23/broncos-53-man-roster-projection-how-many-qbs-and-what-to-do-at-ilb-and-te/"
+            },
+            {
+              "title": "Broncos 53-Man Roster Projection 4.0: Game 2 Shakes Up the Roster Bubble",
+              "url": "https://www.si.com/nfl/broncos/onsi/broncos-53-man-roster-projection-4-0-game-2-shakes-up-roster-bubble"
+            },
+            {
+              "title": "Broncos' depth chart for preseason game vs. Packers",
+              "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/08/21/denver-broncos-depth-chart-game-vs-green-bay-packers/91394032007/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "russell wilson",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Jim Nantz weighs in on Russell Wilson joining CBS’s ‘The NFL Today’",
+              "url": "https://awfulannouncing.com/cbs/jim-nantz-russell-wilson-the-nfl-today.html"
+            },
+            {
+              "title": "Sam Darnold could make Seahawks fans rethink Russell Wilson’s legacy",
+              "url": "https://12thmanrising.com/sam-darnold-make-seattle-seahawks-fans-rethink-russell-wilson-legacy"
+            },
+            {
+              "title": "Super Bowl-winning QB should be on Browns wishlist after latest prediction",
+              "url": "https://sports.yahoo.com/articles/super-bowl-winning-qb-browns-053528447.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "chargers depth chart",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "What to know before the upcoming 53-man roster deadline",
+              "url": "https://www.raiders.com/news/53-man-roster-deadline-what-to-know-faq-nfl-upcoming-dates-2026-season"
+            },
+            {
+              "title": "What To Know About Chargers Ahead of 2026 NFL 53-Man Roster Cutdown Deadline",
+              "url": "https://www.chargers.com/news/2026-nfl-53-man-roster-cutdown-deadline"
+            },
+            {
+              "title": "Chargers roster bubble: 4 players who helped their cause vs. 49ers",
+              "url": "https://chargerswire.usatoday.com/story/sports/nfl/chargers/2026/08/22/chargers-roster-bubble-standouts-rodney-shelley-jacob-spomer/91422687007/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 58,
+          "interest_max": 100,
+          "interest_latest": 41,
+          "rank": 1
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 37,
+          "interest_max": 66,
+          "interest_latest": 38,
+          "rank": 2
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 11,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 6,
+          "interest_max": 31,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 2,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "総務省",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "総務省、自治体のカスハラ対策支援 対応時間の目安も明示",
+              "url": "https://www.jiji.com/jc/article?k=2026082200304&g=pol"
+            },
+            {
+              "title": "「お客様は神様」では、もう守れない――大手企業４社に学ぶカスハラ対策",
+              "url": "https://newspicks.com/news/17354768/?ref=pickstream_130662"
+            },
+            {
+              "title": "カスハラ対策、10月から義務化 最も多い「45歳以上男性、年収1000万円以上」",
+              "url": "https://business.nikkei.com/atcl/seminar/19nv/120500136/080601478/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "シャープ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "シャープ製スマートウォッチの驚きの新機能、手首に着けているだけでわかるという摂取カロリーの数値は正確!?（アスキー）",
+              "url": "https://news.yahoo.co.jp/articles/30915acd0e03d27658d0e43391073360edb79f1d"
+            },
+            {
+              "title": "シャープ製スマートウォッチの驚きの新機能、手首に着けているだけでわかるという摂取カロリーの数値は正確!?",
+              "url": "https://news.infoseek.co.jp/topics/asciijp_4428639/"
+            },
+            {
+              "title": "シャープ「AQUOS 4K」が上位4位を獲得 4Kテレビ人気ランキングTOP10 2026/8/23（BCN）",
+              "url": "https://news.yahoo.co.jp/articles/a803301700e825daf94eff04157834866ae2053b"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "3",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "3 Cyclists Die in One Week in Hit-and-Runs in New York City",
+              "url": "https://www.nytimes.com/2026/08/23/nyregion/nyc-cycling-bike-deaths.html"
+            },
+            {
+              "title": "Hit-and-Run Drivers Have Killed Three Cyclists in Three Days",
+              "url": "https://nyc.streetsblog.org/2026/08/21/hit-and-run-drivers-killed-three-new-york-city-cyclists-this-week"
+            },
+            {
+              "title": "3 NYC cyclist deaths in 3 days as deliverista killed in Brooklyn crash",
+              "url": "https://www.nydailynews.com/2026/08/21/40-year-old-bicyclist-killed-in-brooklyn-crash-third-cyclist-to-die-in-nyc-in-three-days/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "伊藤智洋",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (8月24日記）",
+              "url": "https://kabutan.jp/news/marketnews/?b=n202608240020"
+            },
+            {
+              "title": "【テクニカル】日経平均株価テクニカル分析－25日線と75日線に挟まれて陽線を形成",
+              "url": "https://www.gaitame.com/media/entry/2026/08/22/005107"
+            },
+            {
+              "title": "【日経平均の値位置を知る！】 上値・下値テクニカル・ポイント(21日現在)(株探ニュース)",
+              "url": "https://finance.yahoo.co.jp/news/detail/0b1a3e3757cb8627b616b9d9d5a587d59150c543"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "フィリピン",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "台風21号発生へ…気象庁の予想進路、米軍・ヨーロッパの見方 日本への影響は",
+              "url": "https://www.fukuishimbun.co.jp/articles/-/2680803"
+            },
+            {
+              "title": "【台風情報】トリプル台風に加え「熱帯低気圧d」今日にも台風に発達か…“台風4つ”となる可能性 進路予想・9月3日にかけての雨風シミュレーション【気象庁24日7時20分発表】",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2890854?display=1"
+            },
+            {
+              "title": "【台風・熱低情報】フィリピンの東で24日（月）中にも新たな台風発生へ（tbc東北放送）",
+              "url": "https://news.yahoo.co.jp/articles/15b27c06cca52a5b6c1216b4bd1b4a01cb665941"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "森脇健児",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "鬼レンチャンで肉離れの森脇健児が「まだ世代交代はさせません」",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkangeinou/entertainment/f-et-tp0-260824-202608240000243?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
+            },
+            {
+              "title": "［森脇健児さん］右膝損傷 「苦しいけど楽しい」手術2日後リハビリ開始…7か月後、テレビで300m走優勝（読売新聞（ヨミドクター））",
+              "url": "https://news.yahoo.co.jp/articles/34d863984178b7354e79e7656feef88f10989247"
+            },
+            {
+              "title": "鬼レンチャンで肉離れの森脇健児が「まだ世代交代はさせません」",
+              "url": "https://www.nikkansports.com/entertainment/news/202608240000243.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "カズレーザー",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "カズレーザー「ヘビロテ」している食べ物を告白「苦みがあるけど関係ねえ。超うめぇ」（スポーツ報知）",
+              "url": "https://news.yahoo.co.jp/articles/b4031bcd39dc5eac1a0752907295b28c4f75e774"
+            },
+            {
+              "title": "カズレーザー「とにかくうまい」と大絶賛 お気に入り人気チェーンの夏季限定メニュー明かす",
+              "url": "https://www.sponichi.co.jp/entertainment/news/2026/08/20/kiji/20260820s00041000328000c.html"
+            },
+            {
+              "title": "カズレーザー、“ドハマり中”の食べ物告白 「塩だけでこんなうまい…」「ある店探しちゃう」 – ページ 2",
+              "url": "https://sirabee.com/2026/08/21/20163576522/2/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "ヤマハ発動機 株価",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "蔵内勇夫",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "福岡県議会の「ドン」蔵内勇夫議長、議員辞職へ（毎日新聞）",
+              "url": "https://news.yahoo.co.jp/articles/d3d8f657130ad1e517e0caf01d699043d93b4ffd"
+            },
+            {
+              "title": "膳場貴子が福岡県議会ドン進退に言及「1人の自民県議にこれだけ影響力集中の背景には」",
+              "url": "https://www.nikkansports.com/entertainment/news/202608230000567.html"
+            },
+            {
+              "title": "福岡県議現金授受疑惑、実態調査必要７４％",
+              "url": "https://www.shimotsuke.co.jp/articles/-/1408051"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "科研費",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "来年度予算の歳出増加・減税試算：20兆円超の財政収支の大幅悪化要因に（NRI研究員の時事解説）",
+              "url": "https://news.yahoo.co.jp/articles/d7a1529ef7d1168b8749e5a964149b3557824a91"
+            },
+            {
+              "title": "国債費、想定金利３．８％で調整 ２７年度概算要求、大幅引き上げ―財務省",
+              "url": "https://www.jiji.com/jc/article?k=2026082100985&g=eco"
+            },
+            {
+              "title": "科研費倍増要求へ 文科省、４５５２億円 若手支援を拡充",
+              "url": "https://www.yomiuri.co.jp/shimen/20260823-GYT9T00032/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-08-24T01:22:56.845487+00:00"
+}
