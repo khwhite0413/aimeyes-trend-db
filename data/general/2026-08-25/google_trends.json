@@ -1,0 +1,707 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "임금",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "현대차 임협 111일 만에 잠정합의…성과금 ‘400%+1270만원’",
+              "url": "https://www.mk.co.kr/news/business/12135366"
+            },
+            {
+              "title": "현대차 노사 임금협상 잠정합의…31일 찬반투표",
+              "url": "https://v.daum.net/v/20260825094505968"
+            },
+            {
+              "title": "HD현중 노조, 파업 찬반투표 개시…27일까지 진행",
+              "url": "https://www.khan.co.kr/article/202608250853001"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "대한민국",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "교촌 영양 발효공방1991, '대한민국 명소' 2개 부문 선정",
+              "url": "https://v.daum.net/v/XvSTXqkLYr"
+            },
+            {
+              "title": "전남광주시, 대한민국 대표 명소에 1032곳 선정돼 - 머니투데이",
+              "url": "https://www.mt.co.kr/policy/2026/08/25/2026082509415655197"
+            },
+            {
+              "title": "경남 관광명소 775건, ‘대한민국 명소발굴 100×100’ 선정",
+              "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713409"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "장서희",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "인플레이션",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "[속보]美증시 반도체 급락…마이크론 -5.8%·하닉ADR -4.9%",
+              "url": "https://www.munhwa.com/article/11611692"
+            },
+            {
+              "title": "ING \"美 바이백 효과 있다…자금 조달 방식보다 규모 봐야\"",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431628"
+            },
+            {
+              "title": "뉴욕증시, 국채 금리 하락에도 혼조 마감…다우 0.26%↑",
+              "url": "https://www.newsis.com/view/NISX20260825_0003760789"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "합계출산율",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "“아이 한 명당 7600만원 준다”···‘출산율 역대 최저’로 떨어져 파격 육아 지원책 내놓은 국가",
+              "url": "https://www.khan.co.kr/article/202608241354011"
+            },
+            {
+              "title": "'아이 낳으면 천만원, 총 7천만원 드립니다'…어디야?",
+              "url": "https://v.daum.net/v/20260825080603016"
+            },
+            {
+              "title": "'출산율 비상' 싱가포르 17세까지 7천만원 준다",
+              "url": "https://www.mk.co.kr/news/world/12135095"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "장동윤",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "장동윤, 배우 김승윤과 10월 결혼…\"서로의 편 되어주기로\"",
+              "url": "https://www.yna.co.kr/view/AKR20260825032800005"
+            },
+            {
+              "title": "장동윤, 손편지로 10월 결혼 발표…예비신부는 배우 김승윤",
+              "url": "https://www.viva100.com/article/20260825500285"
+            },
+            {
+              "title": "장동윤·김승윤, 10월 화촉…“서로의 편이 되어주기로 했다”",
+              "url": "https://www.munhwa.com/article/11611797"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "케빈 오",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[인터뷰]김미조 감독 \"영화란 카타르시스에 중독됐어요\"",
+              "url": "https://www.newsis.com/view/NISX20260824_0003760726"
+            },
+            {
+              "title": "‘경주기행’ 이정은, 이런 엄마는 처음이야…“‘진짜 미쳤나’ 싶죠” [IS인터뷰]",
+              "url": "https://v.daum.net/v/20260825095842635"
+            },
+            {
+              "title": "가족 여행기인 줄 알았더니…막내딸 살인범 복수극이라고?",
+              "url": "https://www.hani.co.kr/arti/culture/culture_general/1274308.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "선박",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "소형선박 검사 부담 절감…선박안전법 시행규칙 개정",
+              "url": "https://v.daum.net/v/20260824112633831"
+            },
+            {
+              "title": "해수부, 소형 선박 안전검사 간소화…소상공인 부담 낮춘다",
+              "url": "https://stock.mk.co.kr/news/view/1146965"
+            },
+            {
+              "title": "10t 미만 선박 프로펠러축 검사 간소화…670척 비용·시간 절감",
+              "url": "https://www.newsis.com/view/NISX20260824_0003759246"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "수능원서",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "오늘부터 2027학년도 수능 응시원서 접수",
+              "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260824_0021408255&pID=1&cID=&sID=1&type=Main&idx=4"
+            },
+            {
+              "title": "[포토] 개편 전 마지막 수능…'N수생' 얼마나 몰릴까",
+              "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1330303"
+            },
+            {
+              "title": "2027학년도 대학수학능력시험 응시원서 접수 시작 [포토뉴스]",
+              "url": "https://www.kyeonggi.com/article/20260824580314"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "대한전선",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "효성중공업·대한전선, 유럽서 탄소 저감·HVDC 경쟁력 강조",
+              "url": "https://v.daum.net/v/20260825095152325"
+            },
+            {
+              "title": "효성重, ‘CIGRE 2026’서 차세대 전력망 토털 솔루션 공개… 유럽 시장 공략",
+              "url": "https://stock.mk.co.kr/news/view/1147477"
+            },
+            {
+              "title": "대한전선, '시그레 2026'서 해저·지중 케이블 턴키 솔루션 공개",
+              "url": "https://core.asiae.co.kr/article/2026082508430573670"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "jamie foxx",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "It Sounds Like Jamie Foxx Is Welcoming First Baby Boy with Alyce Huckstepp! (Exclusive)",
+              "url": "https://extratv.com/2026/08/24/did-jamie-foxx-just-reveal-his-baby-s-gender-during-beat-shazam-interview-exclusive/"
+            },
+            {
+              "title": "Jamie Foxx’s Daughter Corinne Calls Him the ‘Best Dad’ as the Duo Talk About His Baby on the Way",
+              "url": "https://www.yahoo.com/entertainment/celebrity/articles/jamie-foxx-daughter-corinne-calls-192001712.html"
+            },
+            {
+              "title": "Jamie Foxx Explains Why He Was a ‘Little on the Fence’ About Having Another Baby at 58",
+              "url": "https://people.com/jamie-foxx-explains-why-he-was-a-little-on-the-fence-about-having-baby-at-58-12064697"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "lunar eclipse",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Here’s how to watch this week’s ‘blood moon’ lunar eclipse",
+              "url": "https://www.bostonglobe.com/2026/08/24/metro/lunar-eclipse-blood-moon-how-to-watch/"
+            },
+            {
+              "title": "Look up! Blood moon eclipse visible in Florida. Here’s when",
+              "url": "https://www.clickorlando.com/weather/2026/08/24/look-up-blood-moon-eclipse-visible-in-florida-heres-when/"
+            },
+            {
+              "title": "A partial lunar eclipse will be visible over Minnesota on Thursday. Here's what to know.",
+              "url": "https://www.cbsnews.com/minnesota/news/partial-lunar-eclipse-minnesota-aug-27/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "trevor svajda",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "August 25, 2026: Alex Bolt vs Pablo Llamas Ruiz: Set 2 Winner Prediction Market",
+              "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/alex-bolt-vs-pablo-llamas-ruiz-set-2-winner-aug-25-2026/"
+            },
+            {
+              "title": "August 24, 2026: Luka Pavlovic vs Juan Pablo Varillas: Set 2 Winner Prediction Market",
+              "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/luka-pavlovic-vs-juan-pablo-varillas-set-2-winner-aug-24-2026/"
+            },
+            {
+              "title": "August 24, 2026: Luka Pavlovic vs Juan Pablo Varillas: Set 1 Winner Prediction Market",
+              "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/luka-pavlovic-vs-juan-pablo-varillas-set-1-winner-aug-24-2026/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "lamade stadium",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Little League Baseball® World Series – Game 14 Recap",
+              "url": "https://www.littleleague.org/world-series/2026/llbws/news/little-league-baseball-world-series-game-14-recap/"
+            },
+            {
+              "title": "Hamilton West Side defeats New England to advance in LLWS | Photos",
+              "url": "https://www.cincinnati.com/picture-gallery/sports/2026/08/22/hamilton-west-side-new-england-little-league-world-series-photos/91424706007/"
+            },
+            {
+              "title": "Historic Bridgewater run ends at Little League World Series",
+              "url": "https://www.wcvb.com/article/bridgewater-eliminated-little-league-world-series/73502078"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "phillies vs mariners",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "Hot Stuff: Mariners vs. Phillies Series Preview",
+              "url": "https://www.lookoutlanding.com/seattle-mariners-game-information/148154/series-preview-seattle-mariners-vs-philadelphia-phillies-august-2026"
+            },
+            {
+              "title": "Experts Release latest for Mariners vs. Phillies Tuesday prediction following latest injury updates",
+              "url": "https://www.oregonlive.com/betting/2026/08/experts-release-latest-for-mariners-vs-phillies-tuesday-prediction-following-latest-injury-updates.html"
+            },
+            {
+              "title": "Mariners-Phillies Preview: Injuries, standings and more",
+              "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-philadelphia-phillies-preview-injuries-standings"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "reds vs giants",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Giants-Reds Series Preview",
+              "url": "https://www.mccoveychronicles.com/san-francisco-giants-game-information/110747/giants-reds-series-preview"
+            },
+            {
+              "title": "Cincinnati Reds @ San Francisco Giants Odds",
+              "url": "https://sportsbook.fanduel.com/baseball/mlb/cincinnati-reds-@-san-francisco-giants-35973143"
+            },
+            {
+              "title": "Reds vs. Giants to air on 2 channels Monday. How to watch the game",
+              "url": "https://www.cincinnati.com/story/sports/mlb/reds/2026/08/24/what-channel-are-the-reds-on-how-to-watch-stream-reds-giants-monday/91438153007/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "mike rogers",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "AIPAC Wants to Back This Republican, but He Has Some Reservations",
+              "url": "https://www.nytimes.com/2026/08/24/us/politics/aipac-rogers-michigan-senate.html"
+            },
+            {
+              "title": "Scoop: Mike Rogers-AIPAC rupture roils Michigan Senate race",
+              "url": "https://www.axios.com/2026/08/22/mike-rogers-aipac-michigan-senate"
+            },
+            {
+              "title": "Michigan GOP Senate candidate Mike Rogers said to ask AIPAC not to campaign on his behalf",
+              "url": "https://www.timesofisrael.com/michigan-gop-senate-candidate-mike-rogers-said-to-ask-aipac-not-to-campaign-on-his-behalf/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "tristan peters",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "White Sox are walk-off winners for the 11th time after Tristan Peters stuns Mets with ninth-inning blast",
+              "url": "https://chicago.suntimes.com/white-sox/2026/08/23/white-sox-are-walk-off-winners-for-the-11th-time-after-tristan-peters-stuns-mets-with-ninth-inning-blast-will-venable-grant-taylor-hagen-smith-sean-newcomb-munetaka-murakami-colson-montgomery"
+            },
+            {
+              "title": "An animated look at Tristan Peters' home run",
+              "url": "https://www.mlb.com/whitesox/video/an-animated-look-at-tristan-peters-home-run-x6456"
+            },
+            {
+              "title": "White Sox 2-1 Mets (Aug 23, 2026) Game Recap",
+              "url": "https://www.espn.com/mlb/recap/_/gameId/401816649"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "shirley ballas",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Shirlie Ballas' painted kitchen cupboards look so stylish",
+              "url": "https://www.idealhome.co.uk/all-rooms/kitchen/shirley-ballas-painted-cupboards-kitchen-renovation"
+            },
+            {
+              "title": "Strictly's Shirley Ballas bags huge second job in the US after impressing execs with her 'no-nonsense' style",
+              "url": "https://www.thesun.co.uk/tv/40158450/strictly-shirley-ballas-job-dancing-with-the-stars/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "joc pederson",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Joc Pederson, Rangers' hottest hitter all year, mired in significant slump at wrong time",
+              "url": "https://www.dallasnews.com/sports/rangers/article/texas-rangers-joc-pederson-slump-leadoff-22401902.php"
+            },
+            {
+              "title": "Diamondbacks' Juan Burgos: Promoted to big leagues",
+              "url": "https://www.cbssports.com/fantasy/baseball/news/diamondbacks-juan-burgos-promoted-to-big-leagues/"
+            },
+            {
+              "title": "Cubs outright Owen Miller to Triple-A",
+              "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/cubs-outright-owen-miller-to-triple-a"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 63,
+          "interest_max": 100,
+          "interest_latest": 85,
+          "rank": 1
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 32,
+          "interest_max": 54,
+          "interest_latest": 36,
+          "rank": 2
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 8,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 5,
+          "interest_max": 24,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 2,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "メルボルン",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Melbourne Uni Boosts National Security Support",
+              "url": "https://www.miragenews.com/melbourne-uni-boosts-national-security-support-1732440/"
+            },
+            {
+              "title": "Jetstar’s new route to one of Asia’s coolest destinations takes off",
+              "url": "https://www.smh.com.au/traveller/travel-news/jetstar-s-new-route-to-one-of-asia-s-coolest-destinations-takes-off-20260824-p60qy6.html"
+            },
+            {
+              "title": "Australian Jetstar’s maiden direct flight to arrive tomorrow",
+              "url": "https://srilankamirror.com/biz/australian-jetstars-maiden-direct-flight-to-arrive-tomorrow/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "金相場",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "金価格1オンス4500ドル時代、誰も語らない買い手の正体",
+              "url": "https://forbesjapan.com/articles/detail/103439"
+            },
+            {
+              "title": "金（ゴールド）・プラチナ・銀、10％超の急上昇",
+              "url": "https://media.rakuten-sec.net/articles/-/53281"
+            },
+            {
+              "title": "NY金：続伸で4,701.34ドル、地政学リスクや金融政策の先行き不透明感を支えに買い優勢(フィスコ)",
+              "url": "https://finance.yahoo.co.jp/news/detail/18e7e6aa36a388f99d92dd1f81ff2dff74056415"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "岐阜 県 大野 町",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "腐敗進み白骨化も…住宅で身元不明の3人の遺体見つかる 母屋に2人 離れに1人 玄関は無施錠で家主と連絡取れず",
+              "url": "https://news.yahoo.co.jp/articles/698fc6205c5a85177d83ac666cc9f1601c6a331c"
+            },
+            {
+              "title": "岐阜 大野町 住宅で成人とみられる3人の遺体見つかる",
+              "url": "https://news.web.nhk/newsweb/na/nd-20260825de46099"
+            },
+            {
+              "title": "民家で3人遺体発見 いずれも性別や年齢は不明、岐阜・大野町「連絡が取れない世帯ある」",
+              "url": "https://www.sankei.com/article/20260825-BRHC7JPHJFLJ7JF5NDKO352NDA/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "三菱・パジェロ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "新型「“本格”クロカンSUV」公開で“反響殺到”！「目が潤んだ…」「昔乗ってた！」と往年のファン歓喜！ “27年ぶり”復活の「3連メーター」に熱視線！ 新型「パジェロ」に販売店へ寄せられた“本音の声”！",
+              "url": "https://topics.smt.docomo.ne.jp/article/kurumanews/trend/kurumanews-1102354"
+            },
+            {
+              "title": "爆誕カウントダウン。SUVブームの立役者、五代目ミツビシ・パジェロ間もなく登場！（FORZA STYLE）",
+              "url": "https://news.yahoo.co.jp/articles/7c3edaf829d833341dc02d17e45276d92a12200d"
+            },
+            {
+              "title": "三菱自、ヒト型ロボ効果一巡 パジェロ復活･3社協業に期待",
+              "url": "https://www.nikkei.com/prime/veritas/article/DGXZQOUC043J80U6A800C2000000"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ティアフォー 株価",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "レーティング日報【新規格付け】 (8月24日)(株探ニュース)",
+              "url": "https://finance.yahoo.co.jp/news/detail/6e7638e011ecb7fadbd1bf25437a4adbf8ff7be3"
+            },
+            {
+              "title": "ティアフォーは大幅続伸、ホンダが反落 米国とカナダの関税交渉決裂を嫌気（午前の個別銘柄解説）",
+              "url": "https://moneyworld.jp/news/detail?id=217542"
+            },
+            {
+              "title": "ティアフォー続伸、カバーが反発、SBG続落（24日）",
+              "url": "https://www.nikkei.com/prime/veritas/article/DGXZQOUB242Z50U6A820C2000000"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "女子バレーボール",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【バレー女子】中国とタイが開幕2連勝 ベトナムがホンコンチャイナ下し今大会初勝利＜アジア選手権＞（日テレNEWS NNN）",
+              "url": "https://news.yahoo.co.jp/articles/b839ac241e54d5b3dd6a12c530caa37df943ad42"
+            },
+            {
+              "title": "韓国戦でタッチを交わす石川（左端）ら＝天津（Volleyball World提供） - 日本、2連勝で準々決勝へ バレー女子アジア選手権 - 写真・画像(1/1)",
+              "url": "https://www.nishinippon.co.jp/image/1074691/"
+            },
+            {
+              "title": "「正直複雑です」MB島村春世が韓国戦で見つけた課題「サーブレシーブのスピードがいつもよりゆっくり」",
+              "url": "https://volleyballking.jp/article/88887/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "京セラ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "京セラ、岐阜県美濃加茂市議選で電子投開票（時事通信）",
+              "url": "https://news.yahoo.co.jp/articles/f8990294a782bf5f4ba253eb778c9c47e3be9852"
+            },
+            {
+              "title": "福岡・粕屋町長選きょう告示 8年ぶりの選挙戦か",
+              "url": "https://www.nishinippon.co.jp/item/1530104/"
+            },
+            {
+              "title": "「電子投票」は広がるか オーバーヒートで“選挙無効”という苦い過去も 期待高まる「ネット投票」実現に立ちはだかる“3つのリスク”とは？（2026年8月22日掲載）",
+              "url": "https://news.ntv.co.jp/n/ctv/category/politics/ct4f03260129de45479b4240fa5662f0ab?p=2"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "佐野勇斗",
+          "traffic": "2000+",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "日本 女子 プロ ゴルフ 選手権 大会",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "片山津に「奇跡の集結」山下美夢有が凱旋 母は七尾出身 ソニー日本女子プロゴルフ選手権（北國新聞社）",
+              "url": "https://news.yahoo.co.jp/articles/b131bc7c97c93629dabbdb809bed22c45014edd0"
+            },
+            {
+              "title": "駐車場3560台準備着々 ソニー日本女子プロゴルフ・片山津GC 渋滞対策、交通規制決定",
+              "url": "https://article.auone.jp/article/c4c3af91-4d23-4c45-aad3-194088a59106"
+            },
+            {
+              "title": "多数の海外組が参戦　９月、日本女子プロ選手権　片山津ＧＣ理事会　７０周年へ将来構想策定",
+              "url": "https://topics.smt.docomo.ne.jp/article/hokkoku/region/hokkoku-20260818231055"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "りく りゅう ペア 婚約",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "りくりゅう婚約発表の当日…ベッドで寝ころぶ2人の姿 日本企業が粋な祝福「毎日ぐっすり眠れるように」（THE ANSWER）",
+              "url": "https://news.yahoo.co.jp/articles/10f6878a912bc4cc84b7a895e23064984b2e26fe"
+            },
+            {
+              "title": "「嘘つき！」「騙された！」りくりゅう婚約への批判SNS投稿が2400万表示…交際を隠すのは問題？ 批判投稿の名誉毀損のリスクを弁護士に聞いた",
+              "url": "https://shueisha.online/articles/-/258464"
+            },
+            {
+              "title": "お忍びで訪れた古平町の寿司店「今回もびっくり」「落ち着いたら、またいらして」りくりゅうペア婚約に祝福",
+              "url": "https://www.htb.co.jp/news/archives_39226.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 10,
+          "interest_max": 100,
+          "interest_latest": 17,
+          "rank": 1
+        },
+        {
+          "keyword": "バズった",
+          "interest_avg": 8,
+          "interest_max": 29,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 1,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 35,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-08-25T01:20:20.030074+00:00"
+}
