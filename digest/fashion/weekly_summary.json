@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-08-19",
-    "to": "2026-08-25"
+    "from": "2026-08-20",
+    "to": "2026-08-26"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "ootd",
-      "growth": "+7%",
-      "total_mentions": 104
-    },
-    {
-      "keyword": "#ootd",
-      "growth": "+9%",
-      "total_mentions": 81
+      "keyword": "지고트원피스",
+      "growth": "+38%",
+      "total_mentions": 69
     },
     {
       "keyword": "잇미샤원피스",
       "growth": "+11%",
-      "total_mentions": 67
-    },
-    {
-      "keyword": "지고트원피스",
-      "growth": "+57%",
-      "total_mentions": 65
+      "total_mentions": 68
     },
     {
       "keyword": "올리비아로렌",
-      "growth": "+43%",
-      "total_mentions": 62
+      "growth": "+25%",
+      "total_mentions": 65
+    },
+    {
+      "keyword": "outfit",
+      "growth": "+33%",
+      "total_mentions": 60
+    },
+    {
+      "keyword": "style",
+      "growth": "+14%",
+      "total_mentions": 53
     }
   ],
   "most_cross_platform": [
@@ -80,10 +80,10 @@
     "원피스",
     "블라우스",
     "#ootd",
-    "#shorts",
-    "잇미샤원피스",
     "지고트원피스",
-    "시슬리원피스",
-    "#fashion"
+    "잇미샤원피스",
+    "#shorts",
+    "올리비아로렌",
+    "outfit"
   ]
 }

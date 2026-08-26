@@ -1,0 +1,954 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "yeouido",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Wildfire Consumes Area 20 Times Size of Yeouido in Just One Day... Evacuation Orders Issued for 90,000",
+              "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008719671"
+            },
+            {
+              "title": "Fast-moving wildfire amid shifting winds threatens Reno, Nevada, forcing thousands to evacuate",
+              "url": "https://apnews.com/article/hawk-fire-reno-nevada-evacuations-aae2f4b77e2d4aa5678b365a2ee377e6"
+            },
+            {
+              "title": "North Valleys ER in Reno temporarily closes amid Hawk Fire evacuation order",
+              "url": "https://mynews4.com/news/local/north-valleys-er-in-reno-temporarily-closes-amid-hawk-fire-evacuation-order"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "이준석",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "[속보] 이준석, 개혁신당 대표직 사퇴‥\"쇄신안 당내 호응 못 얻어\"",
+              "url": "https://imnews.imbc.com/news/2026/politics/article/6847385_36911.html"
+            },
+            {
+              "title": "'당대표 사퇴' 이준석 \"당 쇄신 제안 해왔으나 충분한 호응 얻지 못해\" [뉴시스Pic]",
+              "url": "https://www.newsis.com/view/NISX20260826_0003762925"
+            },
+            {
+              "title": "[속보] 이준석 개혁신당 대표 사퇴 “당 쇄신 못한 책임”",
+              "url": "https://www.hani.co.kr/arti/politics/politics_general/1274665.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "엔비디아 실적",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[뉴욕증시] 3대 지수 일제히 상승…대형 기술주 '매수세'",
+              "url": "https://v.daum.net/v/20260826075703830"
+            },
+            {
+              "title": "오늘 저녁부터 '슈퍼데이'…엔비디아 외에 챙겨야 할 곳은?",
+              "url": "https://www.hankyung.com/article/202608251391i"
+            },
+            {
+              "title": "“손절도 못하고 미치겠어요”…코스피 7천, 이번 주 3대 변수가 가른다 [잇슈 머니]",
+              "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646118"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "한겨레",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "김회승 전 논설위원 청와대 직행에, 한겨레 \"깊은 유감\"",
+              "url": "https://v.daum.net/v/6IxGVhV7Zb"
+            },
+            {
+              "title": "‘춘추관장 직행 김회승’ 청와대로 간 언론인 누가 더 있었나?",
+              "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336663"
+            },
+            {
+              "title": "김회승 신임 춘추관장 임명에 \"청와대 직행, 깊은 유감\"",
+              "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261323"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "판결",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[판결] “주총 권한 밖 결의라도, 무조건 각하 안 돼”",
+              "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=225323"
+            },
+            {
+              "title": "이정재 소속사 아티스트컴퍼, 50억대 손배소 항소심서 1심 판결 유지",
+              "url": "https://www.hankyung.com/article/202608262994H"
+            },
+            {
+              "title": "[더벨]아티스트컴퍼니, 아티스트스튜디오 전 대표 상대 손배소 항소심서 1심 판결 유지 - 머니투데이",
+              "url": "https://www.mt.co.kr/stock/2026/08/26/2026082608569699652"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "스코티 셰플러",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "김시우의 새 이정표 출격…‘한국 선수 첫 페덱스컵 우승 도전’",
+              "url": "https://v.daum.net/v/20260826010151902"
+            },
+            {
+              "title": "PGA PO 최종전 앞둔 김시우 향한 찬사…\"우승 없지만 최고의 해\"",
+              "url": "https://www.newsis.com/view/NISX20260826_0003762603"
+            },
+            {
+              "title": "수족구병에 걸린 세계랭킹 1위 셰플러…김시우·김주형도 ‘138억원 우승 경쟁’에 도전장",
+              "url": "https://www.khan.co.kr/article/202608251455011"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "이요원",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "명문대 나온 딸에게 고시원 같은 방 내어준, 수십억 자산가 이요원의 원칙",
+              "url": "https://www.segye.com/newsView/20260722520833"
+            },
+            {
+              "title": "'살림남' 지상렬, 이요원에 피처링 제안 속 계약금도 줬지만…거절 아픔",
+              "url": "https://v.daum.net/v/20260823055149642?f=p"
+            },
+            {
+              "title": "박서진, 피처링 섭외 나선 지상렬에 ♥신보람 소환···박현호 “창문에서 뛰어내리려 했다” (살림남)",
+              "url": "https://sports.khan.co.kr/article/202608231843003"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "베라 루빈",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "대규모 에이전틱 AI 가속 위해 NVIDIA Vera CPU 도입하는 SpaceXAI",
+              "url": "https://blogs.nvidia.co.kr/blog/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale/"
+            },
+            {
+              "title": "인도 데이터센터 회사, 엔비디아 루빈 GPU 9000개 발주",
+              "url": "https://v.daum.net/v/20260826085237320"
+            },
+            {
+              "title": "머스크 \"내년 4분기 첫 AI 위성 발사…2028년엔 대규모\"",
+              "url": "https://www.yna.co.kr/view/AKR20260825022500009"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "돌리 파튼",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "‘컨트리의 아이콘’ 가수 겸 배우 돌리 파튼 별세",
+              "url": "https://www.donga.com/news/Inter/article/all/20260826/134544556/1"
+            },
+            {
+              "title": "트럼프, 훈장 제안 2차례 거절한 파튼 별세에 “상실감 커”",
+              "url": "https://v.daum.net/v/20260826095838551"
+            },
+            {
+              "title": "돌리 파튼 벽화 앞에 놓인 추모 꽃들",
+              "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260826_0002221290&provider_id=&cID=&type=Main&catg=&idx=7"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "한국고속철도",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "李대통령 \"SRT·KTX 적자 고려해야…누적되면 결국 국민 세금\"",
+              "url": "https://v.daum.net/v/20260825173529137"
+            },
+            {
+              "title": "추석 연휴 포항 찾는 귀성객·관광객 고속열차 이용 쉬워진다",
+              "url": "https://www.news1.kr/local/daegu-gyeongbuk/6268343"
+            },
+            {
+              "title": "코레일 '미래 철도포럼' 개최, 고속철도 통합 앞두고 전문가 의견 공유",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445572"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 61,
+          "interest_max": 100,
+          "interest_latest": 100,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 7,
+          "interest_max": 23,
+          "interest_latest": 23,
+          "rank": 2
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 36,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 38,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 21,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 23,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 77,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "julie chen moonves",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Julie Chen Moonves Reveals the ‘Big Brother’ Alum She’d Want to Replace Her As Host",
+              "url": "https://www.tvinsider.com/1283571/julie-chen-moonves-big-brother-alum-replace-host-taylor-hale-jeff-schroeder/"
+            },
+            {
+              "title": "Julie Chen Moonves Reveals ‘Big Brother’ Alum She’d Want to Replace Her",
+              "url": "https://www.aol.com/articles/julie-chen-moonves-reveals-big-181918000.html"
+            },
+            {
+              "title": "Julie Chen Moonves Reveals the ‘Big Brother’ Alum She’d Want to Replace Her As Host",
+              "url": "https://www.imdb.com/de/news/ni65987464/?ref_=nwc_art_perm"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "how many innings in little league world series",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Little League Baseball® World Series – Game 25 Recap",
+              "url": "https://www.littleleague.org/world-series/2026/llbws/news/little-league-baseball-world-series-game-25-recap-2/"
+            },
+            {
+              "title": "Little League World Series: Japan advances after win over Mexico",
+              "url": "https://www.usatoday.com/story/sports/mlb/2026/08/25/little-league-world-series-live-updates-mexico-vs-japan-highlights-box-score--live/91447621007/"
+            },
+            {
+              "title": "Tijuana Municipal fans stole the show during team’s Little League World Series run",
+              "url": "https://www.sandiegouniontribune.com/2026/08/25/tijuana-municipal-fans-stole-the-show-during-teams-little-league-world-series-run/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "francisco lindor",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "New York Mets Star Francisco Lindor Sends Out 2-Word Post Before Brewers Series",
+              "url": "https://heavy.com/sports/mlb/new-york-mets/lindor-sends-out-2-word-post-before-brewers/"
+            },
+            {
+              "title": "Mets Star Fires off 2-Word Message Amid Horrific Season",
+              "url": "https://www.yardbarker.com/mlb/articles/mets_star_fires_off_2_word_message_amid_horrific_season/s1_17355_44218531"
+            },
+            {
+              "title": "Mets vs. Brewers: Lineups, broadcast info, and open thread, 8/25/26",
+              "url": "https://www.amazinavenue.com/new-york-mets-discussion/99825/mets-vs-brewers-lineups-broadcast-info-and-open-thread-8-25-26-thornton-harrison"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "yordan álvarez",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "There's a seismic shift at the top of our latest MVP poll",
+              "url": "https://www.mlb.com/news/yordan-alvarez-pete-crow-armstrong-lead-fifth-2026-mvp-poll"
+            },
+            {
+              "title": "Will Yordan Alvarez win Triple Crown? Tracking Astros slugger's historic stats",
+              "url": "https://www.usatoday.com/story/sports/mlb/2026/08/25/yordan-alvarez-stats-astros-triple-crown-mlb/91464125007/"
+            },
+            {
+              "title": "Yordan Álvarez Extends AL MVP Lead on Kalshi Prediction Market",
+              "url": "https://www.si.com/prediction-markets/mlb/yordan-alvarez-extends-al-mvp-lead-on-kalshi-prediction-market-01m0jethsjw5"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "bayonne little league",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Bayonne loses 6-0 to Iowa in Little League World Series game",
+              "url": "https://abc7ny.com/post/bayonne-new-jersey-set-face-off-davenport-iowa-little-league-world-series-sunday-1-pm-abc/19722928/"
+            },
+            {
+              "title": "Little League World Series: Live updates New Jersey vs Ohio, Aug. 25 score, TV, stream",
+              "url": "https://www.usatoday.com/story/sports/mlb/llws/2026/08/25/little-league-world-series-new-jersey-vs-ohio-live-updates-highlights-box-score--live/91442988007/"
+            },
+            {
+              "title": "Bayonne pushed to brink of elimination at Little League World Series after Iowa ends 15-game winning streak",
+              "url": "https://sports.yahoo.com/articles/bayonne-pushed-brink-elimination-little-013337564.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "lili estefan",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Lina Luaces debuta como presentadora en Telemundo y así estuvo presente Lili Estefan",
+              "url": "https://www.hola.com/us-es/celebrities/20260825919962/lina-luaces-debut-presentadora-telemundo-miss-universe-cuba/"
+            },
+            {
+              "title": "Lili Estefan reacciona al anuncio de la llegada de su hija Lina a Telemundo como reportera",
+              "url": "https://peopleenespanol.com/lili-estefan-reacciona-anuncio-llegada-hija-telemundo-reportera-12066080"
+            },
+            {
+              "title": "Modelo cubana Lina Luaces se prepara para entregar la corona de Miss Cuba y revela el nuevo rumbo de su vida",
+              "url": "https://www.cubaenmiami.com/modelo-cubana-lina-luaces-se-prepara-para-entregar-la-corona-de-miss-cuba-y-revela-el-nuevo-rumbo-de-su-vida/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "corbin rodenberg",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Attorney examines potential liability after man falls from Harpo's rooftop bar",
+              "url": "https://www.komu.com/news/midmissourinews/attorney-examines-potential-liability-after-man-falls-from-harpos-rooftop-bar/article_d50a132b-ac02-464c-8130-f5d5cdfe72a5.html"
+            },
+            {
+              "title": "Person transported to hospital after fall at Harpo's, according to Columbia Police",
+              "url": "https://www.columbiamissourian.com/news/local/person-transported-to-hospital-after-fall-at-harpos-according-to-columbia-police/article_b180bd5d-6492-55ee-9c64-8f008478fa01.html"
+            },
+            {
+              "title": "21-Year-Old in Critical Condition with Multiple Skull Fractures After Falling Over Railing at Popular Rooftop Bar",
+              "url": "https://people.com/21-year-old-in-critical-condition-with-multiple-skull-fractures-after-falling-over-railing-at-popular-rooftop-bar-12067389"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "trump beef",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Trump faces backlash from Republicans over plan to lift tariffs on beef imports",
+              "url": "https://www.theguardian.com/us-news/2026/aug/25/trump-republican-backlash-beef-tariff-import"
+            },
+            {
+              "title": "Colorado ranchers concerned over impact of imported beef",
+              "url": "https://www.cbsnews.com/colorado/video/colorado-ranchers-concerned-over-impact-of-imported-beef/"
+            },
+            {
+              "title": "Trump’s fight with GOP senators over trade intensifies",
+              "url": "https://thehill.com/homenews/senate/6047923-trump-beef-canada-tariffs-gop-senators/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "luis garcía jr.",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Scott Booker, Justin Hamilton, and Mike Smith | Defensive Coaches Media Availability 8/25",
+              "url": "https://www.patriots.com/video/scott-booker-justin-hamilton-and-mike-smith-defensive-coaches-media-availability-8-25"
+            },
+            {
+              "title": "Eagles release final preseason depth chart ahead of game vs. Bengals",
+              "url": "https://sports.yahoo.com/articles/eagles-release-final-preseason-depth-150444394.html"
+            },
+            {
+              "title": "The L.A. Queens, led by former Rockie Eric Young Sr., will be back in WPBL action against the Boston Hunters this evening.",
+              "url": "https://www.purplerow.com/post/p8K7qtIftMXi"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "gentner drummond",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "Oklahoma Governor Primary Runoff 2026 Live Results: Gentner Drummond vs. Mike Mazzei",
+              "url": "https://www.nbcnews.com/politics/2026-primary-elections/oklahoma-governor-runoff-results"
+            },
+            {
+              "title": "Democratic newcomer scores runoff upset in Oklahoma, vows to impeach Trump if elected",
+              "url": "https://www.foxnews.com/politics/democratic-newcomer-scores-runoff-upset-oklahoma-vows-impeach-trump-elected"
+            },
+            {
+              "title": "Oklahoma U.S. Senate Runoff 2026: Live Election Results, Priest vs. Thomas",
+              "url": "https://www.nytimes.com/interactive/2026/08/25/us/elections/results-oklahoma-us-senate-runoff.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 33,
+          "interest_max": 100,
+          "interest_latest": 33,
+          "rank": 1
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 23,
+          "interest_max": 77,
+          "interest_latest": 29,
+          "rank": 2
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 23,
+          "interest_max": 100,
+          "interest_latest": 13,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 21,
+          "interest_max": 100,
+          "interest_latest": 43,
+          "rank": 4
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 15,
+          "interest_max": 28,
+          "interest_latest": 15,
+          "rank": 5
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 15,
+          "interest_max": 39,
+          "interest_latest": 13,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 3,
+          "interest_max": 15,
+          "interest_latest": 9,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 1,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 52,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quince",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "polene",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "best quiet luxury brands",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury aesthetic",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "ralph lauren",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette bainbridge",
+          "value": "150"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "tufted coquette",
+          "value": "110"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "my girl boston",
+          "value": "110"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "urban outfitters",
+          "value": "110"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette bake shop",
+          "value": "110"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ぴあ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "【「スイッチ」を押すと何かがおこる！ イマーシブな合同企業説明会】面白法人カヤック、8月31日（月）ぴあアリーナＭＭで体験型コンテンツ『就活スイッチ』を上演",
+              "url": "https://prtimes.jp/main/html/rd/p/000000973.000014685.html"
+            },
+            {
+              "title": "『～ぴあ Presents～エンタメ業界研究フェス VOL.２』いよいよ来週開催！新たに旭プロダクション、新潮社が出展し、全出展企業決定！",
+              "url": "https://prtimes.jp/main/html/rd/p/000004322.000011710.html"
+            },
+            {
+              "title": "【東京工芸大学】日本・スウェーデンの写真学生による国際共同プロジェクト2026 ― 共同写真展開催、スウェーデンとの交流で学ぶ新たな写真表現",
+              "url": "https://www.okinawatimes.co.jp/articles/-/1908673"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "microsoft",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Forget the S&P 500: Microsoft Remains One of the Best Stocks to Own",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/forget-p-500-microsoft-remains-130200470.html"
+            },
+            {
+              "title": "Most Investors Overlook MSFT's AI Moat. I Think That's a Mistake.",
+              "url": "https://www.fool.com/investing/2026/08/25/most-investors-overlook-msft-ai-moat-microsoft/"
+            },
+            {
+              "title": "Microsoft's AI Rally Has Room To Run (NASDAQ:MSFT)",
+              "url": "https://seekingalpha.com/article/4940031-microsoft-ai-rally-has-room-to-run"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "test",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "South Carolina U.S. Senate Special Runoff 2026: Live Election Results, Graham vs. Norman",
+              "url": "https://www.nytimes.com/interactive/2026/08/25/us/elections/results-south-carolina-us-senate-special-runoff-august-25.html"
+            },
+            {
+              "title": "Sen. Darline Graham wins the Republican Senate primary runoff in South Carolina",
+              "url": "https://www.nbcnews.com/politics/2026-election/darline-graham-winner-south-carolina-gop-senate-primary-rcna593581"
+            },
+            {
+              "title": "South Carolina could give Trump a revitalizing win — or his most embarrassing loss",
+              "url": "https://www.politico.com/news/2026/08/25/trump-test-darline-graham-south-carolina-01048663"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "cia",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+              "url": "https://www.bbc.com/news/articles/c87vg9x5d7do"
+            },
+            {
+              "title": "CIA Director John Ratcliffe on secret trip in Russia",
+              "url": "https://www.cbsnews.com/news/cia-director-john-ratcliffe-russia-secret-trip/"
+            },
+            {
+              "title": "U.S. spy chief visits Russia for unannounced meetings",
+              "url": "https://www.japantimes.co.jp/news/2026/08/26/world/politics/us-spy-chief-russia-meetings/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "teams",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "SEC draws rule to stop NFL, NBA, WNBA players from returning",
+              "url": "https://www.espn.com/college-football/story/_/id/49726430/sec-draws-rule-stop-nfl-nba-wnba-players-returning"
+            },
+            {
+              "title": "SEC joins Big Ten in banning pros from returning to college, includes basketball players",
+              "url": "https://www.nbcnews.com/sports/college-football/sec-joins-big-ten-banning-pros-returning-college-includes-basketball-rcna594440"
+            },
+            {
+              "title": "Big Ten bars football players with pro contracts from returning to play amid NCAA eligibility chaos",
+              "url": "https://www.kcci.com/article/big-ten-bars-football-players-with-pro-contracts-nfl-ncaa-eligibility/73525634"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "メルボルン",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Bystanders save mum, 10yo in alleged attack",
+              "url": "https://www.news.com.au/national/victoria/crime/man-arrested-after-allegedly-assaulting-boy-10-stabbing-woman-trying-to-intervene-in-melbourne-cbd/news-story/5df3ded0642041788109fe6df2e31afa"
+            },
+            {
+              "title": "Woman allegedly repeatedly stabbed with scissors while protecting son from ‘random’ Melbourne CBD attack",
+              "url": "https://www.theguardian.com/australia-news/2026/aug/25/woman-allegedly-repeatedly-stabbed-with-scissors-while-protecting-son-from-random-melbourne-cbd-attack-ntwnfb"
+            },
+            {
+              "title": "Police horrified at random attack on mother and boy in Melbourne CBD",
+              "url": "https://www.abc.net.au/news/2026-08-25/woman-stabbed-boy-assaulted-in-melbourne-cbd-attack/107076598"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "downdetector",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Wikipedia Outage Today: Is Wikipedia Down Today? Users Report Website, Login & Editing Issues as Dolly Parton Page Draws Attention | Wikipedia Downdetector Status",
+              "url": "https://sundayguardianlive.com/world/wikipedia-outage-today-is-wikipedia-down-today-users-report-website-login-editing-issues-as-dolly-parton-page-draws-attention-wikipedia-downdetector-status-269988/"
+            },
+            {
+              "title": "AT&T outages impact customers. AT&T service outage reported Tuesday",
+              "url": "https://www.app.com/story/news/2026/08/25/att-outage-map-in-my-area-is-att-down-right-now-for-many/91455953007/"
+            },
+            {
+              "title": "Is AT&T down today (August 25, 2026)? Outage status explored",
+              "url": "https://tech.sportskeeda.com/mobiles/news-is-at-t-right-now-august-25-2026-outage-status-explored"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "ジムニーノマド",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "ジムニー ノマドが爆売れしているのに、なぜ他社は「ジムニー対抗車」を作らないのか（BUSINESS INSIDER JAPAN）",
+              "url": "https://news.yahoo.co.jp/articles/05051a4a2fef02086b9cadd8c52506e72e5ce61b"
+            },
+            {
+              "title": "ジムニーノマド（JC74W）おすすめカスタム特集 プロト厳選パーツを一挙紹介",
+              "url": "https://www.motomegane.com/car_news/pl_jimny-jc74w_20260825"
+            },
+            {
+              "title": "ジムニー ノマドが爆売れしているのに、なぜ他社は「ジムニー対抗車」を作らないのか (Business Insider Japan)",
+              "url": "https://newspicks.com/news/17374608/?ref=news-summary_4212306"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "チケットぴあ",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "【試写会】世界初、主演ニワトリ！その目から見た人間社会を描いた異色のヒューマンドラマ 『雌鶏』",
+              "url": "https://filmaga.filmarks.com/articles/335350/"
+            },
+            {
+              "title": "【ご招待】『雌鶏』一般試写会 30組60名様！",
+              "url": "https://lp.p.pia.jp/article/news/511785/index.html"
+            },
+            {
+              "title": "映画『白鳥とコウモリ』舞台挨拶 開催のお知らせ | ニュース | 映画『白鳥とコウモリ』公式サイト｜9月4日(金) 全国公開",
+              "url": "https://movies.shochiku.co.jp/eiga-hakuchotokomori/news/0825info/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "アリサ・リュウ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "アリサ・リュウ、今シーズン競技不参加を発表 引退は否定「必ず戻ってきます」…ミラノ・コルティナ五輪フィギュア女子金メダル",
+              "url": "https://news.yahoo.co.jp/articles/48cb0f4e8c2ca222c77697321f5ec90a6a5e1dda"
+            },
+            {
+              "title": "アリサ・リュウが今季の休養を発表 フィギュア・五輪金メダル",
+              "url": "https://mainichi.jp/articles/20260826/k00/00m/050/023000c"
+            },
+            {
+              "title": "フィギュアスケート女子で五輪金のアリサ・リュウが今季の休養を発表「必ず戻ってくる」",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkansports/sports/f-sp-tp0-260826-202608260000187"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 34,
+          "interest_max": 85,
+          "interest_latest": 48,
+          "rank": 1
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 33,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 21,
+          "interest_max": 100,
+          "interest_latest": 12,
+          "rank": 3
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 18,
+          "interest_max": 100,
+          "interest_latest": 32,
+          "rank": 4
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 16,
+          "interest_max": 78,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 10,
+          "interest_max": 46,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 38,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-08-26T01:21:07.370365+00:00"
+}
