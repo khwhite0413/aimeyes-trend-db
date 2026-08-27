@@ -2,9 +2,9 @@
   "date": "2026-08-27",
   "mode": "fashion",
   "compared_to": "2026-08-26",
-  "total_keywords_today": 485,
+  "total_keywords_today": 483,
   "total_keywords_yesterday": 473,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -52,6 +52,17 @@
       "sample_note": "오늘 12건, 어제 11건 기준"
     },
     {
+      "keyword": "outfit",
+      "change": "+22%",
+      "today_count": 11,
+      "yesterday_count": 9,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 11건, 어제 9건 기준"
+    },
+    {
       "keyword": "잇미샤원피스",
       "change": "+22%",
       "today_count": 11,
@@ -63,15 +74,15 @@
       "sample_note": "오늘 11건, 어제 9건 기준"
     },
     {
-      "keyword": "outfit",
-      "change": "+11%",
+      "keyword": "style",
+      "change": "+25%",
       "today_count": 10,
-      "yesterday_count": 9,
+      "yesterday_count": 8,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 10건, 어제 9건 기준"
+      "sample_note": "오늘 10건, 어제 8건 기준"
     },
     {
       "keyword": "올리비아로렌",
@@ -83,6 +94,17 @@
         "naver"
       ],
       "sample_note": "오늘 10건, 어제 9건 기준"
+    },
+    {
+      "keyword": "데일리룩",
+      "change": "+29%",
+      "today_count": 9,
+      "yesterday_count": 7,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 9건, 어제 7건 기준"
     },
     {
       "keyword": "제시뉴욕",
@@ -97,17 +119,6 @@
     },
     {
       "keyword": "#데일리룩",
-      "change": "+14%",
-      "today_count": 8,
-      "yesterday_count": 7,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 8건, 어제 7건 기준"
-    },
-    {
-      "keyword": "데일리룩",
       "change": "+14%",
       "today_count": 8,
       "yesterday_count": 7,
@@ -140,17 +151,6 @@
       "sample_note": "오늘 8건, 어제 7건 기준"
     },
     {
-      "keyword": "가을",
-      "change": "+50%",
-      "today_count": 6,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 4건 기준"
-    },
-    {
       "keyword": "코디",
       "change": "+20%",
       "today_count": 6,
@@ -173,6 +173,17 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
+      "keyword": "가을",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
       "keyword": "lookbook",
       "change": "+25%",
       "today_count": 5,
@@ -184,7 +195,7 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "트렌드",
+      "keyword": "#style",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -195,29 +206,18 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "데님",
+      "keyword": "heels",
       "change": "NEW",
-      "today_count": 3,
+      "today_count": 4,
       "yesterday_count": 0,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건 (신규)"
+      "sample_note": "오늘 4건 (신규)"
     },
     {
-      "keyword": "룩북",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#style",
+      "keyword": "트렌드",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -230,11 +230,11 @@
   ],
   "declining": [
     {
-      "keyword": "#fashion",
-      "change": "-12%",
-      "today_count": 7,
-      "yesterday_count": 8,
-      "confidence": "medium"
+      "keyword": "패션",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
     },
     {
       "keyword": "#데일리룩코디",
@@ -245,8 +245,8 @@
     },
     {
       "keyword": "dress",
-      "change": "-25%",
-      "today_count": 3,
+      "change": "-50%",
+      "today_count": 2,
       "yesterday_count": 4,
       "confidence": "low"
     },
@@ -258,30 +258,15 @@
       "confidence": "low"
     },
     {
-      "keyword": "street",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
       "keyword": "shein",
       "change": "-67%",
       "today_count": 1,
       "yesterday_count": 3,
       "confidence": "low"
-    },
-    {
-      "keyword": "summer",
-      "change": "-33%",
-      "today_count": 2,
-      "yesterday_count": 3,
-      "confidence": "low"
     }
   ],
   "new_entries": [
-    "데님",
-    "컬러"
+    "heels"
   ],
   "cross_platform_hot": []
 }
