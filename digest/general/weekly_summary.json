@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-08-21",
-    "to": "2026-08-27"
+    "from": "2026-08-22",
+    "to": "2026-08-28"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "trend",
-      "growth": "+8%",
-      "total_mentions": 109
-    },
-    {
       "keyword": "#shorts",
-      "growth": "+55%",
-      "total_mentions": 107
+      "growth": "+6%",
+      "total_mentions": 114
     },
     {
-      "keyword": "#viral",
-      "growth": "+62%",
-      "total_mentions": 96
+      "keyword": "trend",
+      "growth": "+42%",
+      "total_mentions": 113
+    },
+    {
+      "keyword": "#trending",
+      "growth": "+8%",
+      "total_mentions": 86
     },
     {
       "keyword": "지고트원피스",
       "growth": "+33%",
-      "total_mentions": 73
+      "total_mentions": 76
     },
     {
-      "keyword": "잇미샤원피스",
+      "keyword": "올리비아로렌",
       "growth": "+22%",
-      "total_mentions": 69
+      "total_mentions": 68
     }
   ],
   "most_cross_platform": [
@@ -41,26 +41,18 @@
         "youtube"
       ],
       "count": 2
-    },
-    {
-      "keyword": "엘지트윈스",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
     "원피스",
     "블라우스",
     "지고트원피스",
-    "잇미샤원피스",
-    "올리비아로렌"
+    "올리비아로렌",
+    "잇미샤원피스"
   ],
   "top_keywords_overall": [
-    "trend",
     "#shorts",
+    "trend",
     "#viral",
     "#trending",
     "원피스",
@@ -68,6 +60,6 @@
     "지고트원피스",
     "잇미샤원피스",
     "올리비아로렌",
-    "시슬리원피스"
+    "제시뉴욕"
   ]
 }
