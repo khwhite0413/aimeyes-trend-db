@@ -1,41 +1,57 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-08-23",
-    "to": "2026-08-29"
+    "from": "2026-08-24",
+    "to": "2026-08-30"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "지고트원피스",
-      "growth": "+20%",
-      "total_mentions": 79
+      "growth": "+9%",
+      "total_mentions": 81
     },
     {
       "keyword": "올리비아로렌",
-      "growth": "+33%",
-      "total_mentions": 71
+      "growth": "+20%",
+      "total_mentions": 74
     },
     {
       "keyword": "#shorts",
-      "growth": "+38%",
-      "total_mentions": 61
+      "growth": "+57%",
+      "total_mentions": 64
     },
     {
       "keyword": "데일리룩",
-      "growth": "+43%",
-      "total_mentions": 59
+      "growth": "+50%",
+      "total_mentions": 61
     },
     {
       "keyword": "제시뉴욕",
-      "growth": "+67%",
-      "total_mentions": 56
+      "growth": "+43%",
+      "total_mentions": 60
     }
   ],
   "most_cross_platform": [
     {
+      "keyword": "티셔츠",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
       "keyword": "원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "스커트",
       "platforms": [
         "naver",
         "youtube"
@@ -45,21 +61,21 @@
   ],
   "naver_shopping_hot": [
     "원피스",
+    "지고트원피스",
     "블라우스",
     "올리비아로렌",
-    "지고트원피스",
     "잇미샤원피스"
   ],
   "top_keywords_overall": [
     "fashion",
-    "ootd",
     "원피스",
+    "ootd",
     "블라우스",
     "지고트원피스",
-    "outfit",
     "올리비아로렌",
     "잇미샤원피스",
+    "outfit",
     "#ootd",
-    "#fashion"
+    "#shorts"
   ]
 }
