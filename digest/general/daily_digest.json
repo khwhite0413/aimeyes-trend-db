@@ -2,43 +2,43 @@
   "date": "2026-09-01",
   "mode": "general",
   "compared_to": "2026-08-31",
-  "total_keywords_today": 464,
+  "total_keywords_today": 487,
   "total_keywords_yesterday": 427,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
+      "keyword": "trend",
+      "change": "+11%",
+      "today_count": 20,
+      "yesterday_count": 18,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 20건, 어제 18건 기준"
+    },
+    {
       "keyword": "#shorts",
-      "change": "+17%",
-      "today_count": 14,
+      "change": "+33%",
+      "today_count": 16,
       "yesterday_count": 12,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 14건, 어제 12건 기준"
+      "sample_note": "오늘 16건, 어제 12건 기준"
     },
     {
-      "keyword": "#viral",
-      "change": "+8%",
-      "today_count": 14,
-      "yesterday_count": 13,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 14건, 어제 13건 기준"
-    },
-    {
-      "keyword": "#trending",
-      "change": "+12%",
-      "today_count": 9,
-      "yesterday_count": 8,
+      "keyword": "dance",
+      "change": "+22%",
+      "today_count": 11,
+      "yesterday_count": 9,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 9건, 어제 8건 기준"
+      "sample_note": "오늘 11건, 어제 9건 기준"
     },
     {
       "keyword": "#tiktok",
@@ -52,7 +52,7 @@
       "sample_note": "오늘 8건, 어제 6건 기준"
     },
     {
-      "keyword": "#funny",
+      "keyword": "#dance",
       "change": "+17%",
       "today_count": 7,
       "yesterday_count": 6,
@@ -61,39 +61,6 @@
         "youtube"
       ],
       "sample_note": "오늘 7건, 어제 6건 기준"
-    },
-    {
-      "keyword": "funny",
-      "change": "+17%",
-      "today_count": 7,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
-    },
-    {
-      "keyword": "最新tiktokメドレー",
-      "change": "+17%",
-      "today_count": 7,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
-    },
-    {
-      "keyword": "cry",
-      "change": "+150%",
-      "today_count": 5,
-      "yesterday_count": 2,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
       "keyword": "tips",
@@ -107,37 +74,70 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
-      "keyword": "#comedy",
-      "change": "+33%",
+      "keyword": "cry",
+      "change": "+100%",
       "today_count": 4,
-      "yesterday_count": 3,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "baby",
-      "change": "+300%",
+      "keyword": "#リュウジ",
+      "change": "+100%",
       "today_count": 4,
-      "yesterday_count": 1,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 1건 기준"
+      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "comedy",
-      "change": "+33%",
+      "keyword": "#バズレシピ",
+      "change": "+100%",
       "today_count": 4,
-      "yesterday_count": 3,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "リュウジ",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "バズレシピ",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "crybaby",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
       "keyword": "diy",
@@ -151,37 +151,26 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "#tiktokメドレー",
-      "change": "+50%",
+      "keyword": "#レビュー",
+      "change": "+200%",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "今バズってる神曲だけ集めました",
-      "change": "+50%",
+      "keyword": "レビュー",
+      "change": "+200%",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "tiktokメドレー",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
       "keyword": "사기",
@@ -226,21 +215,32 @@
         "youtube"
       ],
       "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "budots",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
-    {
-      "keyword": "trend",
-      "change": "-6%",
-      "today_count": 17,
-      "yesterday_count": 18,
-      "confidence": "high"
-    },
     {
       "keyword": "제시뉴욕",
       "change": "-10%",
       "today_count": 9,
       "yesterday_count": 10,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "最新tiktokメドレー",
+      "change": "-17%",
+      "today_count": 5,
+      "yesterday_count": 6,
       "confidence": "medium"
     },
     {
@@ -252,50 +252,50 @@
     },
     {
       "keyword": "日本のトレンド",
-      "change": "-40%",
-      "today_count": 3,
+      "change": "-100%",
+      "today_count": 0,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
       "keyword": "august",
-      "change": "-40%",
-      "today_count": 3,
+      "change": "-100%",
+      "today_count": 0,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
       "keyword": "newsdrop",
-      "change": "-40%",
-      "today_count": 3,
+      "change": "-100%",
+      "today_count": 0,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
       "keyword": "jp",
-      "change": "-40%",
-      "today_count": 3,
+      "change": "-100%",
+      "today_count": 0,
       "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#edit",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "edit",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
       "confidence": "low"
     },
     {
       "keyword": "life",
       "change": "-50%",
       "today_count": 2,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#youtube",
+      "change": "-50%",
+      "today_count": 2,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "hacks",
+      "change": "-25%",
+      "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     }
