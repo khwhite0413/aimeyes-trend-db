@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-08-25",
-    "to": "2026-08-31"
+    "from": "2026-08-26",
+    "to": "2026-09-01"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "trend",
+      "growth": "+6%",
+      "total_mentions": 109
+    },
+    {
+      "keyword": "#viral",
+      "growth": "+17%",
+      "total_mentions": 90
+    },
+    {
+      "keyword": "원피스",
+      "growth": "+9%",
+      "total_mentions": 83
+    },
+    {
+      "keyword": "블라우스",
+      "growth": "+9%",
+      "total_mentions": 83
+    },
+    {
       "keyword": "지고트원피스",
       "growth": "+9%",
-      "total_mentions": 82
-    },
-    {
-      "keyword": "올리비아로렌",
-      "growth": "+10%",
-      "total_mentions": 75
-    },
-    {
-      "keyword": "제시뉴욕",
-      "growth": "+43%",
-      "total_mentions": 63
-    },
-    {
-      "keyword": "dance",
-      "growth": "+50%",
-      "total_mentions": 59
-    },
-    {
-      "keyword": "티셔츠",
-      "growth": "+43%",
-      "total_mentions": 59
+      "total_mentions": 83
     }
   ],
   "most_cross_platform": [],
@@ -49,8 +49,8 @@
     "블라우스",
     "지고트원피스",
     "올리비아로렌",
-    "#trending",
     "잇미샤원피스",
+    "#trending",
     "제시뉴욕"
   ]
 }

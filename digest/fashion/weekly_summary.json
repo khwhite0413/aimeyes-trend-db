@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-08-25",
-    "to": "2026-08-31"
+    "from": "2026-08-26",
+    "to": "2026-09-01"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "원피스",
-      "growth": "+8%",
-      "total_mentions": 85
+      "growth": "+18%",
+      "total_mentions": 86
+    },
+    {
+      "keyword": "블라우스",
+      "growth": "+9%",
+      "total_mentions": 83
     },
     {
       "keyword": "지고트원피스",
       "growth": "+9%",
-      "total_mentions": 82
+      "total_mentions": 83
     },
     {
       "keyword": "올리비아로렌",
-      "growth": "+10%",
-      "total_mentions": 75
+      "growth": "+22%",
+      "total_mentions": 76
     },
     {
       "keyword": "#shorts",
-      "growth": "+44%",
-      "total_mentions": 70
-    },
-    {
-      "keyword": "제시뉴욕",
-      "growth": "+43%",
-      "total_mentions": 63
+      "growth": "+75%",
+      "total_mentions": 75
     }
   ],
   "most_cross_platform": [
@@ -71,11 +71,11 @@
     "원피스",
     "블라우스",
     "지고트원피스",
-    "ootd",
     "올리비아로렌",
     "#shorts",
+    "ootd",
     "잇미샤원피스",
-    "outfit",
+    "티셔츠",
     "제시뉴욕"
   ]
 }
