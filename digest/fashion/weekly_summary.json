@@ -8,11 +8,6 @@
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+6%",
-      "total_mentions": 110
-    },
-    {
       "keyword": "원피스",
       "growth": "+8%",
       "total_mentions": 88
@@ -31,6 +26,11 @@
       "keyword": "티셔츠",
       "growth": "+38%",
       "total_mentions": 69
+    },
+    {
+      "keyword": "#ootd",
+      "growth": "+12%",
+      "total_mentions": 60
     }
   ],
   "most_cross_platform": [
@@ -65,14 +65,6 @@
         "youtube"
       ],
       "count": 2
-    },
-    {
-      "keyword": "장금상선",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
@@ -92,6 +84,6 @@
     "잇미샤원피스",
     "ootd",
     "티셔츠",
-    "제시뉴욕"
+    "outfit"
   ]
 }
