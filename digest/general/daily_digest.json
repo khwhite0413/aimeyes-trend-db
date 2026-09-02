@@ -1,58 +1,69 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "mode": "general",
-  "compared_to": "2026-08-31",
-  "total_keywords_today": 487,
-  "total_keywords_yesterday": 427,
-  "data_days_available": 91,
+  "compared_to": "2026-09-01",
+  "total_keywords_today": 550,
+  "total_keywords_yesterday": 487,
+  "data_days_available": 92,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "trend",
-      "change": "+11%",
-      "today_count": 20,
-      "yesterday_count": 18,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 20건, 어제 18건 기준"
-    },
-    {
       "keyword": "#shorts",
-      "change": "+33%",
-      "today_count": 16,
-      "yesterday_count": 12,
+      "change": "+12%",
+      "today_count": 18,
+      "yesterday_count": 16,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 16건, 어제 12건 기준"
+      "sample_note": "오늘 18건, 어제 16건 기준"
     },
     {
-      "keyword": "dance",
-      "change": "+22%",
-      "today_count": 11,
-      "yesterday_count": 9,
-      "confidence": "medium",
+      "keyword": "#viral",
+      "change": "+8%",
+      "today_count": 14,
+      "yesterday_count": 13,
+      "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 11건, 어제 9건 기준"
+      "sample_note": "오늘 14건, 어제 13건 기준"
     },
     {
       "keyword": "#tiktok",
-      "change": "+33%",
-      "today_count": 8,
-      "yesterday_count": 6,
+      "change": "+12%",
+      "today_count": 9,
+      "yesterday_count": 8,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 8건, 어제 6건 기준"
+      "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
-      "keyword": "#dance",
+      "keyword": "#trending",
+      "change": "+12%",
+      "today_count": 9,
+      "yesterday_count": 8,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 9건, 어제 8건 기준"
+    },
+    {
+      "keyword": "에고이스트",
+      "change": "+12%",
+      "today_count": 9,
+      "yesterday_count": 8,
+      "confidence": "medium",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 9건, 어제 8건 기준"
+    },
+    {
+      "keyword": "#funny",
       "change": "+17%",
       "today_count": 7,
       "yesterday_count": 6,
@@ -63,73 +74,73 @@
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "tips",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
+      "keyword": "funny",
+      "change": "+17%",
+      "today_count": 7,
+      "yesterday_count": 6,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "cry",
-      "change": "+100%",
+      "keyword": "#comedy",
+      "change": "+33%",
       "today_count": 4,
-      "yesterday_count": 2,
+      "yesterday_count": 3,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "#リュウジ",
-      "change": "+100%",
+      "keyword": "comedy",
+      "change": "+33%",
       "today_count": 4,
-      "yesterday_count": 2,
+      "yesterday_count": 3,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "#バズレシピ",
-      "change": "+100%",
+      "keyword": "#shortvideo",
+      "change": "+33%",
       "today_count": 4,
-      "yesterday_count": 2,
+      "yesterday_count": 3,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "リュウジ",
-      "change": "+100%",
+      "keyword": "shortvideo",
+      "change": "+33%",
       "today_count": 4,
-      "yesterday_count": 2,
+      "yesterday_count": 3,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "バズレシピ",
-      "change": "+100%",
+      "keyword": "diy",
+      "change": "+33%",
       "today_count": 4,
-      "yesterday_count": 2,
+      "yesterday_count": 3,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "crybaby",
+      "keyword": "dances",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -140,7 +151,18 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "diy",
+      "keyword": "꿀팁",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "생활꿀팁",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -151,7 +173,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "#レビュー",
+      "keyword": "#family",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -162,7 +184,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "レビュー",
+      "keyword": "family",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -173,7 +195,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "사기",
+      "keyword": "2026년",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -184,7 +206,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "이거",
+      "keyword": "8월",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -195,29 +217,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "percibi",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "thai",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "budots",
+      "keyword": "#fyp",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -230,76 +230,86 @@
   ],
   "declining": [
     {
-      "keyword": "제시뉴욕",
-      "change": "-10%",
-      "today_count": 9,
-      "yesterday_count": 10,
-      "confidence": "medium"
+      "keyword": "dance",
+      "change": "-9%",
+      "today_count": 10,
+      "yesterday_count": 11,
+      "confidence": "high"
     },
     {
-      "keyword": "最新tiktokメドレー",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "유행하는",
+      "keyword": "요즘",
       "change": "-20%",
       "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "日本のトレンド",
-      "change": "-100%",
-      "today_count": 0,
+      "keyword": "最新tiktokメドレー",
+      "change": "-20%",
+      "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "august",
-      "change": "-100%",
-      "today_count": 0,
+      "keyword": "모조에스핀",
+      "change": "-20%",
+      "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "newsdrop",
-      "change": "-100%",
-      "today_count": 0,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "jp",
-      "change": "-100%",
-      "today_count": 0,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "life",
-      "change": "-50%",
-      "today_count": 2,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#youtube",
-      "change": "-50%",
-      "today_count": 2,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "hacks",
+      "keyword": "유행하는",
       "change": "-25%",
       "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
+    },
+    {
+      "keyword": "#edit",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "edit",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#michaeljackson",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "michaeljackson",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "crybaby",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
     }
   ],
   "new_entries": [],
-  "cross_platform_hot": []
+  "cross_platform_hot": [
+    {
+      "keyword": "장금상선",
+      "platform_count": 2,
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "total_count": 2
+    }
+  ]
 }
