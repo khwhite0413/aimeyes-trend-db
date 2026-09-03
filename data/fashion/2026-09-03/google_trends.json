@@ -1,0 +1,937 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "손예진",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "'스캔들' 손예진·지창욱·나나, 위험하고 지독하게 얽힌 관계성",
+              "url": "https://v.daum.net/v/20260903111250956"
+            },
+            {
+              "title": "\"영판 케이로소이다\"... 조선의 금기를 깨는 넷플릭스 '스캔들'",
+              "url": "https://kstar.kbs.co.kr/list_view.html?idx=409019"
+            },
+            {
+              "title": "넷플릭스 ‘스캔들’, 영화와 얼마나 다를까",
+              "url": "https://sports.khan.co.kr/article/202609011121003"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "지방이전",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "[속보] 韓총리 “구조개혁·일원화·통합 통해 공공기관 109개 감축”",
+              "url": "https://www.mk.co.kr/news/politics/12143170"
+            },
+            {
+              "title": "[속보] 법무·성평등부, 내년 세종 간다…공공기관 350곳 지역 이전",
+              "url": "https://www.hani.co.kr/arti/politics/assembly/1276020.html"
+            },
+            {
+              "title": "공공기관 2차 이전 본격화...국토장관 \"수도권 잔류 최소화\"",
+              "url": "https://www.chosun.com/economy/real_estate/2026/09/03/OQYP3HC44BAAHPQEO5YZFVXPBM/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "정부",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[종합] 네이버, '보안 AI' 품었다…GPU·데이터·실증 역량 앞세워",
+              "url": "https://zdnet.co.kr/view/?no=20260903102501"
+            },
+            {
+              "title": "[속보]'보안 특화 AI' 개발 사업자에 네이버클라우드 컨소시엄 선정",
+              "url": "https://www.newsis.com/view/NISX20260903_0003774248"
+            },
+            {
+              "title": "[속보] 국토장관 \"공공기관 지방이전 원칙…수도권 잔류 최소화\"",
+              "url": "https://news.nate.com/view/20260903n14248"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "예금",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "[단독] “세금 아끼려고”…‘차명예금’ 110억 든 새마을금고 이사장",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8653143"
+            },
+            {
+              "title": "110억 차명 예금 만든 새마을금고 이사장 수사",
+              "url": "https://www.sedaily.com/article/20086544"
+            },
+            {
+              "title": "“고양이한테 생선 맡겼네”…110억 차명예금 의혹 새마을금고 이사장 수사",
+              "url": "https://stock.mk.co.kr/news/view/1152571"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "종합 부동산 세",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "이형일, 과천 아파트 비거주 논란에 “재건축으로 멸실 중”",
+              "url": "https://www.donga.com/news/Politics/article/all/20260903/134597065/1"
+            },
+            {
+              "title": "한병도, '세제 개편 수정' 비판에 \"국민 목소리 정책 반영\" 반박",
+              "url": "https://v.daum.net/v/20260903114800927"
+            },
+            {
+              "title": "고가 주택·부부 공동명의 세금 불이익 그대로",
+              "url": "https://www.chosun.com/economy/real_estate/2026/09/03/HF6KXWCAJNH2RMC2JDBPD7DWPA/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "김가은",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "\"안세영에 도전장\" 中 걱정, 천위페이·한웨도 없는데... 유망주가 '세계 1위 여제'와 붙는다",
+              "url": "https://v.daum.net/v/20260903065609000"
+            },
+            {
+              "title": "‘안세영 한판 붙자!’ 중국의 마지막 자존심 왕즈이, 38분 만에 2-0 셧아웃 승리...16강 진출",
+              "url": "https://www.chosun.com/sports/sports_general/2026/09/02/MY3DOOBUGRRTMMJXMNTDIMBQMM/"
+            },
+            {
+              "title": "안세영, 린샹티 꺾고 16강 안착",
+              "url": "https://www.newsis.com/view/NISI20260902_0002227618"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "로스앤젤레스 에인절스",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "11년 연속 가을야구 실패 LA에인절스, 역대 최고가 5조5000억 원에 매각",
+              "url": "https://www.donga.com/news/Sports/article/all/20260902/134591510/1"
+            },
+            {
+              "title": "재산 33조원, 취미는 스포츠 구단 인수",
+              "url": "https://www.chosun.com/sports/sports_general/2026/09/03/ZLLHNWBUWRE23FMIWCT5UCWALE/"
+            },
+            {
+              "title": "\"혐오스런 구단주가 떠났다, 우승한 것처럼 환호\" LAA 축복의 날, 무려 21배 수익내고 팔았는데…얼마나 최악이었길래",
+              "url": "https://v.daum.net/v/20260903062149517"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "금융투자협회",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "증시 결제 주기 'T+1' 전환에…\"공감하나 충분한 시간 필요\"",
+              "url": "https://www.yna.co.kr/view/AKR20260902150100008"
+            },
+            {
+              "title": "'T+1' 단축 공감하지만…금투업계 \"충분한 준비기간 필요\"",
+              "url": "https://www.newsis.com/view/NISX20260902_0003773833"
+            },
+            {
+              "title": "주식 결제 이틀→하루, 관건은 '속도·안정성'",
+              "url": "https://v.daum.net/v/20260902165041273"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "매일신문",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "강풍",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "한풀 꺾인 늦더위…24호 태풍 ’크로반’ 영향은?",
+              "url": "https://www.yonhapnewstv.co.kr/news/MYH20260903052104YV2"
+            },
+            {
+              "title": "오키나와까지 북상한 태풍 '크로반' 이례적 진로…한반도 영향은?",
+              "url": "https://news.nate.com/view/20260903n15949"
+            },
+            {
+              "title": "\"태풍의 길 열릴 수도\"...가을 태풍 안심 못 해 [자막뉴스]",
+              "url": "https://www.ytn.co.kr/_ln/0134_202609031006464700"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 64,
+          "interest_max": 100,
+          "interest_latest": 96,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 7,
+          "interest_max": 24,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 79,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 68,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 8,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 56,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "america",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently",
+              "url": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html"
+            },
+            {
+              "title": "MapQuest Surges to No. 1 in the Apple App Store, 30 Years After Inventing Online Mapping",
+              "url": "https://www.businesswire.com/news/home/20260831810778/en/MapQuest-Surges-to-No.-1-in-the-Apple-App-Store-30-Years-After-Inventing-Online-Mapping"
+            },
+            {
+              "title": "Apple Maps switches to ‘Lake America’ for some users",
+              "url": "https://www.foxla.com/news/apple-maps-switches-lake-america-some-users"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "judge blocks trump citizenship executive order",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Judge blocks Trump's latest effort to narrow birthright citizenship",
+              "url": "https://www.cbsnews.com/news/judge-blocks-trump-executive-order-birthright-citizenship/"
+            },
+            {
+              "title": "EXCLUSIVE: US may ask parents to prove citizenship or immigration status to get passports for their children",
+              "url": "https://www.reuters.com/legal/government/trump-birthright-curbs-may-prompt-us-passport-checks-parents-2026-09-01/"
+            },
+            {
+              "title": "US judge blocks Trump’s latest effort to limit birthright citizenship",
+              "url": "https://www.aljazeera.com/news/2026/9/3/us-judge-blocks-trumps-latest-effort-to-limit-birthright-citizenship"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "federico viñas",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Federico Viñas no se conforma con el momento que vive con Toluca",
+              "url": "https://es-us.noticias.yahoo.com/federico-vi%C3%B1as-conforma-vive-toluca-202731384.html"
+            },
+            {
+              "title": "Federico Viñas tiene claros los objetivos de Toluca: \"Aspiramos a lo máximo en cada competición\"",
+              "url": "https://www.marca.com/mx/futbol/liga-mx/2026/09/02/federico-vinas-claros-objetivos-toluca-aspiramos-maximo-competicion-video.html"
+            },
+            {
+              "title": "“Vine a crecer y competir”: Federico Viñas habla sobre su alegría de jugar en Toluca",
+              "url": "https://oem.com.mx/esto/futbol-internacional/federico-vinas-asegura-que-llego-al-toluca-para-competir-y-crecer-31852314"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "us open bracket",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "All-American rout: Pegula dismisses Kenin in 56 minutes at US Open",
+              "url": "https://www.wtatennis.com/news/4571161/all-american-rout-pegula-dismisses-kenin-in-56-minutes-at-us-open"
+            },
+            {
+              "title": "How to Watch the 2026 US Open Round Two Live (Even for Free)",
+              "url": "https://uk.pcmag.com/video-streaming-services/166808/how-to-watch-2026-us-open-round-two-day-4-live-for-free-sept-2"
+            },
+            {
+              "title": "Pegula and Shelton into third round at a rainy US Open, where some players are still stuck in first",
+              "url": "https://www.foxsports.com/articles/tennis/pegula-and-shelton-into-third-round-at-a-rainy-us-open-where-some-players-are-still-stuck-in-first"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "actor tim curry passing",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Tim Curry's cause of death revealed",
+              "url": "https://www.foxnews.com/entertainment/tim-currys-cause-death-revealed"
+            },
+            {
+              "title": "Tim Curry, ‘Rocky Horror Picture Show’ and ‘It’ actor, dead at 80",
+              "url": "https://pagesix.com/2026/08/26/celebrity-news/tim-curry-rocky-horror-picture-show-actor-dead-at-80/"
+            },
+            {
+              "title": "Actor Tim Curry’s cause of death revealed",
+              "url": "https://www.wowt.com/2026/09/02/actor-tim-currys-cause-death-revealed/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "mn twins",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Tigers try to avoid sweep in Minnesota",
+              "url": "https://www.detroitnews.com/picture-gallery/sports/mlb/tigers/2026/09/02/tigers-series-twins-minnesota-sweep/91587633007/"
+            },
+            {
+              "title": "Game 140: Detroit Tigers at Minnesota Twins",
+              "url": "https://sports.yahoo.com/articles/game-140-detroit-tigers-minnesota-222508002.html"
+            },
+            {
+              "title": "Twins Reveal Lineup as Dean Kremer Takes Mound With Sweep on the Line",
+              "url": "https://www.si.com/mlb/twins/onsi/twins-reveal-lineup-as-dean-kremer-takes-mound-with-sweep-on-line"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "brewers standings",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "MLB power rankings: Brewers take No. 1 spot ahead of Braves and Dodgers in all-NL top 3; Rays and Phillies round out top 5",
+              "url": "https://sports.yahoo.com/mlb/article/mlb-power-rankings-brewers-take-no-1-spot-ahead-of-braves-and-dodgers-in-all-nl-top-3-rays-and-phillies-round-out-top-5-205202060.html"
+            },
+            {
+              "title": "MLB Power Rankings as Braves Bully Dodgers and Yankees Roll Past Red Sox",
+              "url": "https://bleacherreport.com/articles/25481744-mlb-power-rankings-braves-bully-dodgers-and-yankees-roll-past-red-sox"
+            },
+            {
+              "title": "MLB power rankings: Baseball's worst division gets embarrassed again",
+              "url": "https://www.usatoday.com/story/sports/mlb/2026/08/31/mlb-power-rankings-al-west-standings/91541319007/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "christy knowings all that actress",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "‘All That’ Alum Christy Knowings’ Cause of Death Revealed After Her Death at 46 (Exclusive)",
+              "url": "https://people.com/all-that-alum-christy-knowings-cause-of-death-revealed-12059441"
+            },
+            {
+              "title": "‘All That’ star Christy Knowings’ cause of death revealed after tragic death at 46",
+              "url": "https://pagesix.com/2026/09/02/celebrity-news/all-that-star-christy-knowings-cause-of-death-revealed-after-tragic-death-at-46/"
+            },
+            {
+              "title": "‘All That’ Alum Christy Knowings Was Cremated, Ashes Scattered at Sea After Star’s Death at 46",
+              "url": "https://www.usmagazine.com/celebrity-news/news/all-thats-christy-knowings-cremated-ashes-scattered-at-sea/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "zimbabwe",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Australia selectors focus on 'important' stepping stone to ODI World Cup defence",
+              "url": "https://www.cricinfo.com/story/australia-selectors-focus-on-important-stepping-stone-to-odi-world-cup-defence-1552395"
+            },
+            {
+              "title": "\"Pretty important tour for us\": George Bailey stresses importance of South Africa, Zimbabwe tours ahead of 2027 WC",
+              "url": "https://www.aninews.in/news/sports/cricket/pretty-important-tour-for-us-george-bailey-stresses-importance-of-south-africa-zimbabwe-tours-ahead-of-2027-wc20260901195546"
+            },
+            {
+              "title": "Marsh, Head return for ODIs against Zimbabwe, South Africa",
+              "url": "https://www.millenniumpost.in/sports/marsh-head-return-for-odis-against-zimbabwe-south-africa-674459"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "freddie freeman",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Freddie Freeman: Home Run Statcast Analysis",
+              "url": "https://www.mlb.com/dodgers/video/freddie-freeman-home-run-statcast-analysis-x2126"
+            },
+            {
+              "title": "Wild Freddie Freeman Stat Shines Light on Dodgers Biggest Flaw",
+              "url": "https://dodgersbeat.com/freddie-freeman-statistic-shines-light-dodgers-biggest-issue-home-runs/"
+            },
+            {
+              "title": "Dodgers’ Freddie Freeman Snapped Career-Long Drought in Cardinals Game",
+              "url": "https://heavy.com/sports/mlb/los-angeles-dodgers/dodgers-freddie-freeman-snapped-career-long-drought-in-cardinals-game/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 36,
+          "interest_max": 100,
+          "interest_latest": 100,
+          "rank": 1
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 19,
+          "interest_max": 100,
+          "interest_latest": 21,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 19,
+          "interest_max": 100,
+          "interest_latest": 45,
+          "rank": 3
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 15,
+          "interest_max": 42,
+          "interest_latest": 24,
+          "rank": 4
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 10,
+          "interest_max": 41,
+          "interest_latest": 10,
+          "rank": 5
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 7,
+          "interest_max": 20,
+          "interest_latest": 11,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 4,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 1,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 3,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "goyard bag",
+          "value": "300"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "toteme bag",
+          "value": "110"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "strathberry",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "the row bag",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "khaite",
+          "value": "40"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d5",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette clothes",
+          "value": "180"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette dress",
+          "value": "170"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette gta",
+          "value": "90"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "嵐",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "嵐ドキュメンタリー映画アマプラ12・15世界配信、是枝裕和総監督、松本潤編集ラストライブも",
+              "url": "https://www.nikkansports.com/entertainment/news/202609030000131.html"
+            },
+            {
+              "title": "『5 - 嵐という時間 -』ティザー初公開 嵐5人の“最後の時間”を映す（ORICON NEWS）",
+              "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2477973?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch4"
+            },
+            {
+              "title": "『5 - 嵐という時間 -』ティザー初公開 嵐5人の“最後の時間”を映す",
+              "url": "https://www.oricon.co.jp/news/2477973/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "クリステイラー",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "オフのド軍から“BIGニュース”「マジで？」　LAファン歓喜の声「やったーー」",
+              "url": "https://topics.smt.docomo.ne.jp/article/fullcount/sports/fullcount-2011034"
+            },
+            {
+              "title": "「え？え？え？？？」 日本の未明…ドジャース突然の発表に騒然「胸がいっぱい」「頑張って！」",
+              "url": "https://www.chiba-tv.com/plus/detail/2026081957971"
+            },
+            {
+              "title": "ド軍戦で発見「めちゃくちゃガタイがいい」 中継に映った“転身”した大物が「カッコよ」",
+              "url": "https://portal.uqmobile.jp/detail/1/6/10/10334_10_r_20260827_1787779302396763"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "山中柔太朗 ドラマ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "【山中柔太朗】TBS系火曜ドラマ『いろはの恋は時代(とき)をかける』出演決定！",
+              "url": "https://sd-milk.com/contents/1107059"
+            },
+            {
+              "title": "山中柔太朗、GP帯連ドラ初レギュラー出演決定 上白石萌音＆向井康二「いろはの恋は時代をかける」で熱血新米教師役",
+              "url": "https://mdpr.jp/drama/detail/4838512"
+            },
+            {
+              "title": "上白石萌音×向井康二が新キャストのヒントを公開??",
+              "url": "https://tver.jp/episodes/epzcyet41o"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "アリアナグランデ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "アリアナ・グランデ、千秋楽でファンに別れ",
+              "url": "https://www.cnn.co.jp/video/23987.html"
+            },
+            {
+              "title": "アリアナ・グランデ、千秋楽でファンに涙の別れ 公の場での活動休止へ（CNN.co.jp）",
+              "url": "https://news.yahoo.co.jp/articles/cc1492c0e56128df7aaddb2d0a591c2eb58b5ecb"
+            },
+            {
+              "title": "アリアナ・グランデ、足の軽傷でハイヒール封印――ロンドンのツアー千秋楽は「いつもより身長が低い」",
+              "url": "https://hollywoodreporter.jp/music/221938/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "蒼井 優",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "【Ｔ乾】で新キャラ登場へ イノッチが住む海辺の街に住む女性、咲子のことも知っている…？（デイリースポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/d89845d083aba346600194056fdf79def96df93d"
+            },
+            {
+              "title": "『Tシャツが乾くまで』新ゲスト",
+              "url": "https://www.asahi.com/and/entertainment/16859607"
+            },
+            {
+              "title": "千鶴（臼田あさ美）は何を求めている？",
+              "url": "https://realsound.jp/movie/2026/09/post-2509320_2.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "アナウンサー",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "アナウンサーから弁護士転身…菊間千乃さん〝永遠のアイドル〟推し活ショットに反響続々「わぁ〜羨ましい」「昭和のレジェンドアイドル」",
+              "url": "https://topics.smt.docomo.ne.jp/article/nishispo/entertainment/nishispo-1037187"
+            },
+            {
+              "title": "「軟体系」アナウンサー長久梨那　ピタピタレギンスで見事なI字バランス披露「体柔らかい」",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkangeinou/entertainment/f-et-tp0-260902-202609010001094?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch3"
+            },
+            {
+              "title": "“180度開脚アナ”長久梨那 I字バランス披露に「すごい」「スタイル良い＆可愛い」「素敵っす」",
+              "url": "https://www.sponichi.co.jp/entertainment/news/2026/09/02/kiji/20260902s00041000118000c.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "フレディ・フリーマン",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "山本由伸、メジャー自己最多１３勝目へ「３度目の正直」なるか　カージナルス戦先発し初回無失点",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260903-OHT1T51041"
+            },
+            {
+              "title": "大谷翔平、四球でチャンス演出し、フリーマンの３ランで本塁生還 12試合ぶりのアーチなるか（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/d940cb27df28047ee64a4e40b6cae8331b674017"
+            },
+            {
+              "title": "「11イニングで１失点もなし」山本由伸、相性抜群のカーディナルス戦へ！MLB公式も期待「まさに安定した投球」",
+              "url": "https://article.auone.jp/86b012bc-2951-4687-8acd-9c994cf8726d"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "戦争",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "戦争を語りたがる子どもたち　哲学者・永井玲衣さんが対話を通じて見えてきた“社会の姿”",
+              "url": "https://topics.smt.docomo.ne.jp/article/phpbiz/nation/phpbiz-20260827194426281"
+            },
+            {
+              "title": "小山美砂と永井玲衣が考える 「せんそう」と被爆二世【前編】",
+              "url": "https://shinsho-plus.shueisha.co.jp/interview/koyama_nagai/36517"
+            },
+            {
+              "title": "「戦争を何も知らない」と言うことにも意味がある 哲学者がひらく“対話の場”で始まる戦争との関係（PHPオンライン）",
+              "url": "https://news.yahoo.co.jp/articles/3b74fe6b5ec078453bfe3e71b313ddcdf68cac8b?page=2"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ニコン",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Fujifilm Didn’t Actually Jump Ahead of Nikon in Mirrorless",
+              "url": "https://petapixel.com/2026/09/01/the-data-was-misleading-fujifilm-didnt-actually-jump-ahead-of-nikon-in-mirrorless/"
+            },
+            {
+              "title": "This retro camera brand has almost doubled in popularity in the last two years – and that doesn’t even include compact cameras",
+              "url": "https://www.digitalcameraworld.com/cameras/how-popular-would-fujifilm-be-without-the-x100vi-new-rankings-from-japan-hint-compact-cameras-arent-the-only-camera-trend-to-watch"
+            },
+            {
+              "title": "PetaPixel Is WRONG: Nikon Does NOT Sell More Mirrorless Cameras Than Fujifilm - UPDATE",
+              "url": "https://www.fujirumors.com/petapixel-is-wrong-nikon-does-not-sell-more-mirrorless-cameras-than-fujifilm/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "新潟少女監禁事件",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "新潟県の民家から「9年間行方不明だった少女」が発見…《父親とは63歳差》引きこもり男性（37）を“誘拐犯”に変えた「特殊な家庭環境」（平成12年の事件）",
+              "url": "https://bunshun.jp/articles/-/91441"
+            },
+            {
+              "title": "新潟県の民家から「9年間行方不明だった少女」が発見…《父親とは63歳差》引きこもり男性（37）を“誘拐犯”に変えた「特",
+              "url": "https://news.nicovideo.jp/watch/nw19733595?news_ref=watch_10_nw19629385"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 43,
+          "interest_max": 100,
+          "interest_latest": 34,
+          "rank": 1
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 36,
+          "interest_max": 100,
+          "interest_latest": 34,
+          "rank": 2
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 27,
+          "interest_max": 100,
+          "interest_latest": 48,
+          "rank": 3
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 19,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 15,
+          "interest_max": 97,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 11,
+          "interest_max": 53,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 30,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 16,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 56,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 61,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-09-03T03:23:14.365692+00:00"
+}
