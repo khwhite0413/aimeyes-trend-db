@@ -4,30 +4,30 @@
   "compared_to": "2026-09-03",
   "total_keywords_today": 478,
   "total_keywords_yesterday": 502,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "trend",
-      "change": "+13%",
-      "today_count": 17,
+      "change": "+33%",
+      "today_count": 20,
       "yesterday_count": 15,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 17건, 어제 15건 기준"
+      "sample_note": "오늘 20건, 어제 15건 기준"
     },
     {
       "keyword": "#trending",
-      "change": "+38%",
-      "today_count": 11,
+      "change": "+50%",
+      "today_count": 12,
       "yesterday_count": 8,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 11건, 어제 8건 기준"
+      "sample_note": "오늘 12건, 어제 8건 기준"
     },
     {
       "keyword": "잇미샤원피스",
@@ -39,6 +39,39 @@
         "naver"
       ],
       "sample_note": "오늘 11건, 어제 10건 기준"
+    },
+    {
+      "keyword": "#tiktok",
+      "change": "+29%",
+      "today_count": 9,
+      "yesterday_count": 7,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 9건, 어제 7건 기준"
+    },
+    {
+      "keyword": "#dance",
+      "change": "+100%",
+      "today_count": 6,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 3건 기준"
+    },
+    {
+      "keyword": "#viralvideo",
+      "change": "+200%",
+      "today_count": 6,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 2건 기준"
     },
     {
       "keyword": "dance",
@@ -63,39 +96,6 @@
       "sample_note": "오늘 6건, 어제 4건 기준"
     },
     {
-      "keyword": "#dance",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
-    },
-    {
-      "keyword": "life",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "food",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
-    },
-    {
       "keyword": "모조에스핀",
       "change": "+25%",
       "today_count": 5,
@@ -118,18 +118,51 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "diy",
-      "change": "+33%",
+      "keyword": "#lyrics",
+      "change": "+300%",
       "today_count": 4,
-      "yesterday_count": 3,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 4건, 어제 1건 기준"
     },
     {
-      "keyword": "#food",
+      "keyword": "lyrics",
+      "change": "+300%",
+      "today_count": 4,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 1건 기준"
+    },
+    {
+      "keyword": "#lifehacks",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "lifehacks",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "food",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -162,77 +195,51 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "#viralvideo",
-      "change": "+50%",
+      "keyword": "#39;m",
+      "change": "+200%",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "amazing",
-      "change": "+50%",
+      "keyword": "#edit",
+      "change": "+200%",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "#lifehacks",
-      "change": "+50%",
+      "keyword": "addicted",
+      "change": "+200%",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "daily",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "lifehacks",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "useful",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "#shorts",
-      "change": "-7%",
-      "today_count": 14,
+      "change": "-13%",
+      "today_count": 13,
+      "yesterday_count": 15,
+      "confidence": "high"
+    },
+    {
+      "keyword": "#viral",
+      "change": "-20%",
+      "today_count": 12,
       "yesterday_count": 15,
       "confidence": "high"
     },
@@ -258,6 +265,13 @@
       "confidence": "low"
     },
     {
+      "keyword": "hack",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
       "keyword": "#prayer",
       "change": "-33%",
       "today_count": 2,
@@ -272,13 +286,6 @@
       "confidence": "low"
     },
     {
-      "keyword": "#youtubeshorts",
-      "change": "-33%",
-      "today_count": 2,
-      "yesterday_count": 3,
-      "confidence": "low"
-    },
-    {
       "keyword": "#sad",
       "change": "-33%",
       "today_count": 2,
@@ -287,13 +294,6 @@
     },
     {
       "keyword": "allah",
-      "change": "-33%",
-      "today_count": 2,
-      "yesterday_count": 3,
-      "confidence": "low"
-    },
-    {
-      "keyword": "ki",
       "change": "-33%",
       "today_count": 2,
       "yesterday_count": 3,
