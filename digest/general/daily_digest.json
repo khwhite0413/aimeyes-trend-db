@@ -2,11 +2,33 @@
   "date": "2026-09-06",
   "mode": "general",
   "compared_to": "2026-09-05",
-  "total_keywords_today": 487,
+  "total_keywords_today": 496,
   "total_keywords_yesterday": 487,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
+    {
+      "keyword": "#viral",
+      "change": "+6%",
+      "today_count": 17,
+      "yesterday_count": 16,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 17건, 어제 16건 기준"
+    },
+    {
+      "keyword": "#shorts",
+      "change": "+27%",
+      "today_count": 14,
+      "yesterday_count": 11,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 14건, 어제 11건 기준"
+    },
     {
       "keyword": "#trending",
       "change": "+8%",
@@ -17,17 +39,6 @@
         "youtube"
       ],
       "sample_note": "오늘 13건, 어제 12건 기준"
-    },
-    {
-      "keyword": "#shorts",
-      "change": "+18%",
-      "today_count": 13,
-      "yesterday_count": 11,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 13건, 어제 11건 기준"
     },
     {
       "keyword": "에고이스트",
@@ -52,6 +63,17 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
+      "keyword": "트렌드",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 2건 기준"
+    },
+    {
       "keyword": "#trend",
       "change": "+25%",
       "today_count": 5,
@@ -61,17 +83,6 @@
         "youtube"
       ],
       "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "#viralvideo",
-      "change": "+150%",
-      "today_count": 5,
-      "yesterday_count": 2,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
       "keyword": "#youtubeshorts",
@@ -127,17 +138,6 @@
         "naver"
       ],
       "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "트렌드",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
       "keyword": "#shortvideo",
@@ -252,8 +252,8 @@
     },
     {
       "keyword": "dance",
-      "change": "-29%",
-      "today_count": 5,
+      "change": "-14%",
+      "today_count": 6,
       "yesterday_count": 7,
       "confidence": "medium"
     },
@@ -263,20 +263,6 @@
       "today_count": 5,
       "yesterday_count": 6,
       "confidence": "medium"
-    },
-    {
-      "keyword": "#challenge",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "challenge",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
     },
     {
       "keyword": "life",
@@ -294,8 +280,22 @@
     },
     {
       "keyword": "日本のトレンド",
-      "change": "-33%",
-      "today_count": 2,
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "newsdrop",
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "jp",
+      "change": "-67%",
+      "today_count": 1,
       "yesterday_count": 3,
       "confidence": "low"
     }
