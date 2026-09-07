@@ -2,32 +2,43 @@
   "date": "2026-09-07",
   "mode": "general",
   "compared_to": "2026-09-06",
-  "total_keywords_today": 455,
+  "total_keywords_today": 477,
   "total_keywords_yesterday": 496,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "trend",
-      "change": "+6%",
-      "today_count": 18,
+      "change": "+18%",
+      "today_count": 20,
       "yesterday_count": 17,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 18건, 어제 17건 기준"
+      "sample_note": "오늘 20건, 어제 17건 기준"
     },
     {
       "keyword": "dance",
-      "change": "+83%",
-      "today_count": 11,
+      "change": "+67%",
+      "today_count": 10,
       "yesterday_count": 6,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 11건, 어제 6건 기준"
+      "sample_note": "오늘 10건, 어제 6건 기준"
+    },
+    {
+      "keyword": "#tiktok",
+      "change": "+14%",
+      "today_count": 8,
+      "yesterday_count": 7,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 8건, 어제 7건 기준"
     },
     {
       "keyword": "#dance",
@@ -39,6 +50,17 @@
         "youtube"
       ],
       "sample_note": "오늘 7건, 어제 5건 기준"
+    },
+    {
+      "keyword": "#viralvideo",
+      "change": "+133%",
+      "today_count": 7,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 7건, 어제 3건 기준"
     },
     {
       "keyword": "바람막이",
@@ -85,18 +107,7 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "#viralvideo",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
-    },
-    {
-      "keyword": "diy",
+      "keyword": "#lyrics",
       "change": "+150%",
       "today_count": 5,
       "yesterday_count": 2,
@@ -107,29 +118,51 @@
       "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
-      "keyword": "#usa",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
+      "keyword": "lyrics",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "usa",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
       "keyword": "amazing",
+      "change": "+67%",
+      "today_count": 5,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 3건 기준"
+    },
+    {
+      "keyword": "#edit",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "edit",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#lifehacks",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -140,29 +173,40 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
+      "keyword": "lifehacks",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "diy",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "daily",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
       "keyword": "#39;m",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#edit",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#lyrics",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -182,53 +226,16 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "edit",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "lyrics",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "secret",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "craft",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
     }
   ],
   "declining": [
+    {
+      "keyword": "#viral",
+      "change": "-6%",
+      "today_count": 16,
+      "yesterday_count": 17,
+      "confidence": "high"
+    },
     {
       "keyword": "#shorts",
       "change": "-21%",
@@ -286,14 +293,7 @@
       "confidence": "low"
     },
     {
-      "keyword": "hacks",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#ytshorts",
+      "keyword": "#challenge",
       "change": "-25%",
       "today_count": 3,
       "yesterday_count": 4,
