@@ -1,39 +1,47 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-08-31",
-    "to": "2026-09-06"
+    "from": "2026-09-01",
+    "to": "2026-09-07"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+29%",
-      "total_mentions": 127
+      "growth": "+40%",
+      "total_mentions": 131
     },
     {
-      "keyword": "outfit",
-      "growth": "+57%",
+      "keyword": "원피스",
+      "growth": "+8%",
+      "total_mentions": 91
+    },
+    {
+      "keyword": "블라우스",
+      "growth": "+8%",
+      "total_mentions": 85
+    },
+    {
+      "keyword": "#ootd",
+      "growth": "+10%",
       "total_mentions": 74
     },
     {
       "keyword": "에고이스트",
       "growth": "+38%",
-      "total_mentions": 66
-    },
-    {
-      "keyword": "#fashion",
-      "growth": "+22%",
-      "total_mentions": 64
-    },
-    {
-      "keyword": "가을코디",
-      "growth": "+57%",
-      "total_mentions": 63
+      "total_mentions": 69
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "블라우스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "원피스",
       "platforms": [
@@ -64,7 +72,7 @@
     "블라우스",
     "올리비아로렌",
     "에고이스트",
-    "잇미샤원피스"
+    "지고트원피스"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -73,9 +81,9 @@
     "블라우스",
     "ootd",
     "올리비아로렌",
-    "지고트원피스",
     "outfit",
     "#ootd",
-    "티셔츠"
+    "지고트원피스",
+    "에고이스트"
   ]
 }

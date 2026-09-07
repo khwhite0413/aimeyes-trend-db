@@ -1,58 +1,69 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "mode": "general",
-  "compared_to": "2026-09-05",
-  "total_keywords_today": 496,
-  "total_keywords_yesterday": 487,
-  "data_days_available": 91,
+  "compared_to": "2026-09-06",
+  "total_keywords_today": 455,
+  "total_keywords_yesterday": 496,
+  "data_days_available": 92,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "#viral",
+      "keyword": "trend",
       "change": "+6%",
-      "today_count": 17,
-      "yesterday_count": 16,
+      "today_count": 18,
+      "yesterday_count": 17,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 17건, 어제 16건 기준"
+      "sample_note": "오늘 18건, 어제 17건 기준"
     },
     {
-      "keyword": "#shorts",
-      "change": "+27%",
-      "today_count": 14,
-      "yesterday_count": 11,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 14건, 어제 11건 기준"
-    },
-    {
-      "keyword": "#trending",
-      "change": "+8%",
-      "today_count": 13,
-      "yesterday_count": 12,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 13건, 어제 12건 기준"
-    },
-    {
-      "keyword": "에고이스트",
-      "change": "+10%",
+      "keyword": "dance",
+      "change": "+83%",
       "today_count": 11,
-      "yesterday_count": 10,
-      "confidence": "high",
+      "yesterday_count": 6,
+      "confidence": "medium",
       "platforms": [
-        "naver"
+        "youtube"
       ],
-      "sample_note": "오늘 11건, 어제 10건 기준"
+      "sample_note": "오늘 11건, 어제 6건 기준"
+    },
+    {
+      "keyword": "#dance",
+      "change": "+40%",
+      "today_count": 7,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 7건, 어제 5건 기준"
     },
     {
       "keyword": "바람막이",
+      "change": "+17%",
+      "today_count": 7,
+      "yesterday_count": 6,
+      "confidence": "medium",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 7건, 어제 6건 기준"
+    },
+    {
+      "keyword": "#trend",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
+      "keyword": "모조에스핀",
       "change": "+20%",
       "today_count": 6,
       "yesterday_count": 5,
@@ -63,7 +74,29 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "트렌드",
+      "keyword": "스웨이드자켓",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
+      "keyword": "#viralvideo",
+      "change": "+67%",
+      "today_count": 5,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 3건 기준"
+    },
+    {
+      "keyword": "diy",
       "change": "+150%",
       "today_count": 5,
       "yesterday_count": 2,
@@ -74,95 +107,7 @@
       "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
-      "keyword": "#trend",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "#youtubeshorts",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
-    },
-    {
-      "keyword": "youtubeshorts",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
-    },
-    {
-      "keyword": "hacks",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
-    },
-    {
-      "keyword": "모조에스핀",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "naver"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "스웨이드자켓",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "naver"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "#shortvideo",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#ytshorts",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "allah",
+      "keyword": "#usa",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -173,7 +118,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "ki",
+      "keyword": "usa",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -184,7 +129,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "madad",
+      "keyword": "amazing",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -195,108 +140,163 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "shortvideo",
-      "change": "+100%",
-      "today_count": 4,
+      "keyword": "#39;m",
+      "change": "+50%",
+      "today_count": 3,
       "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "ytshorts",
-      "change": "+100%",
-      "today_count": 4,
+      "keyword": "#edit",
+      "change": "+50%",
+      "today_count": 3,
       "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#food",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
+      "keyword": "#lyrics",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "addicted",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "edit",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "lyrics",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "secret",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "craft",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
     }
   ],
   "declining": [
     {
-      "keyword": "지고트원피스",
-      "change": "-10%",
-      "today_count": 9,
-      "yesterday_count": 10,
-      "confidence": "medium"
+      "keyword": "#shorts",
+      "change": "-21%",
+      "today_count": 11,
+      "yesterday_count": 14,
+      "confidence": "high"
     },
     {
       "keyword": "잇미샤원피스",
-      "change": "-10%",
-      "today_count": 9,
-      "yesterday_count": 10,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "티셔츠",
       "change": "-11%",
       "today_count": 8,
       "yesterday_count": 9,
       "confidence": "medium"
     },
     {
-      "keyword": "dance",
-      "change": "-14%",
-      "today_count": 6,
-      "yesterday_count": 7,
+      "keyword": "지고트원피스",
+      "change": "-11%",
+      "today_count": 8,
+      "yesterday_count": 9,
       "confidence": "medium"
     },
     {
-      "keyword": "#dance",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
+      "keyword": "제시뉴욕",
+      "change": "-12%",
+      "today_count": 7,
+      "yesterday_count": 8,
       "confidence": "medium"
     },
     {
-      "keyword": "life",
-      "change": "-33%",
+      "keyword": "티셔츠",
+      "change": "-12%",
+      "today_count": 7,
+      "yesterday_count": 8,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "트렌드",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#youtubeshorts",
+      "change": "-60%",
       "today_count": 2,
-      "yesterday_count": 3,
+      "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "diy",
-      "change": "-33%",
+      "keyword": "youtubeshorts",
+      "change": "-60%",
       "today_count": 2,
-      "yesterday_count": 3,
+      "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "日本のトレンド",
-      "change": "-67%",
-      "today_count": 1,
-      "yesterday_count": 3,
+      "keyword": "hacks",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "newsdrop",
-      "change": "-67%",
-      "today_count": 1,
-      "yesterday_count": 3,
-      "confidence": "low"
-    },
-    {
-      "keyword": "jp",
-      "change": "-67%",
-      "today_count": 1,
-      "yesterday_count": 3,
+      "keyword": "#ytshorts",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
       "confidence": "low"
     }
   ],
