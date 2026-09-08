@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-09-01",
-    "to": "2026-09-07"
+    "from": "2026-09-02",
+    "to": "2026-09-08"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+20%",
+      "growth": "+7%",
       "total_mentions": 128
     },
     {
       "keyword": "ootd",
-      "growth": "+9%",
-      "total_mentions": 81
+      "growth": "+40%",
+      "total_mentions": 84
     },
     {
       "keyword": "#ootd",
-      "growth": "+10%",
-      "total_mentions": 74
+      "growth": "+33%",
+      "total_mentions": 76
     },
     {
       "keyword": "에고이스트",
-      "growth": "+38%",
-      "total_mentions": 69
+      "growth": "+22%",
+      "total_mentions": 72
     },
     {
-      "keyword": "가을코디",
-      "growth": "+67%",
-      "total_mentions": 66
+      "keyword": "style",
+      "growth": "+17%",
+      "total_mentions": 57
     }
   ],
   "most_cross_platform": [
@@ -64,18 +64,18 @@
     "블라우스",
     "올리비아로렌",
     "에고이스트",
-    "지고트원피스"
+    "바람막이"
   ],
   "top_keywords_overall": [
     "fashion",
     "#shorts",
     "원피스",
-    "블라우스",
     "ootd",
+    "블라우스",
     "올리비아로렌",
-    "outfit",
     "#ootd",
-    "지고트원피스",
-    "에고이스트"
+    "outfit",
+    "에고이스트",
+    "가을코디"
   ]
 }

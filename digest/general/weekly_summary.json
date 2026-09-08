@@ -1,45 +1,54 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-09-01",
-    "to": "2026-09-07"
+    "from": "2026-09-02",
+    "to": "2026-09-08"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#viral",
-      "growth": "+23%",
-      "total_mentions": 104
-    },
-    {
       "keyword": "#trending",
-      "growth": "+62%",
-      "total_mentions": 73
+      "growth": "+100%",
+      "total_mentions": 79
     },
     {
       "keyword": "에고이스트",
-      "growth": "+38%",
-      "total_mentions": 69
+      "growth": "+22%",
+      "total_mentions": 72
     },
     {
-      "keyword": "모조에스핀",
-      "growth": "+20%",
-      "total_mentions": 33
+      "keyword": "#tiktok",
+      "growth": "+43%",
+      "total_mentions": 55
     },
     {
-      "keyword": "#viralvideo",
-      "growth": "+40%",
-      "total_mentions": 29
+      "keyword": "dance",
+      "growth": "+22%",
+      "total_mentions": 53
+    },
+    {
+      "keyword": "#dance",
+      "growth": "+67%",
+      "total_mentions": 43
     }
   ],
-  "most_cross_platform": [],
+  "most_cross_platform": [
+    {
+      "keyword": "ai",
+      "platforms": [
+        "google_trends",
+        "youtube"
+      ],
+      "count": 2
+    }
+  ],
   "naver_shopping_hot": [
     "원피스",
     "블라우스",
     "올리비아로렌",
     "에고이스트",
-    "지고트원피스"
+    "바람막이"
   ],
   "top_keywords_overall": [
     "trend",
@@ -47,10 +56,10 @@
     "#shorts",
     "원피스",
     "블라우스",
-    "올리비아로렌",
     "#trending",
-    "지고트원피스",
+    "올리비아로렌",
     "에고이스트",
+    "지고트원피스",
     "잇미샤원피스"
   ]
 }
