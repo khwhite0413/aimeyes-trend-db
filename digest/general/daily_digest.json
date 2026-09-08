@@ -2,11 +2,22 @@
   "date": "2026-09-08",
   "mode": "general",
   "compared_to": "2026-09-07",
-  "total_keywords_today": 514,
+  "total_keywords_today": 496,
   "total_keywords_yesterday": 477,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
+    {
+      "keyword": "#viral",
+      "change": "+6%",
+      "today_count": 17,
+      "yesterday_count": 16,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 17건, 어제 16건 기준"
+    },
     {
       "keyword": "#trending",
       "change": "+8%",
@@ -19,37 +30,37 @@
       "sample_note": "오늘 14건, 어제 13건 기준"
     },
     {
-      "keyword": "dance",
-      "change": "+10%",
-      "today_count": 11,
-      "yesterday_count": 10,
+      "keyword": "#shorts",
+      "change": "+9%",
+      "today_count": 12,
+      "yesterday_count": 11,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 11건, 어제 10건 기준"
+      "sample_note": "오늘 12건, 어제 11건 기준"
     },
     {
       "keyword": "#tiktok",
-      "change": "+25%",
-      "today_count": 10,
+      "change": "+12%",
+      "today_count": 9,
       "yesterday_count": 8,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 10건, 어제 8건 기준"
+      "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
       "keyword": "#dance",
-      "change": "+43%",
-      "today_count": 10,
+      "change": "+29%",
+      "today_count": 9,
       "yesterday_count": 7,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 10건, 어제 7건 기준"
+      "sample_note": "오늘 9건, 어제 7건 기준"
     },
     {
       "keyword": "바람막이",
@@ -75,47 +86,113 @@
     },
     {
       "keyword": "#usa",
-      "change": "+67%",
-      "today_count": 5,
+      "change": "+100%",
+      "today_count": 6,
       "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 6건, 어제 3건 기준"
     },
     {
       "keyword": "#challenge",
-      "change": "+67%",
-      "today_count": 5,
+      "change": "+100%",
+      "today_count": 6,
       "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 6건, 어제 3건 기준"
     },
     {
       "keyword": "usa",
-      "change": "+67%",
-      "today_count": 5,
+      "change": "+100%",
+      "today_count": 6,
       "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 6건, 어제 3건 기준"
     },
     {
       "keyword": "challenge",
-      "change": "+67%",
-      "today_count": 5,
+      "change": "+100%",
+      "today_count": 6,
       "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 6건, 어제 3건 기준"
+    },
+    {
+      "keyword": "#music",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#duet",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#usashorts",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#viralshorts",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 2건 기준"
+    },
+    {
+      "keyword": "duet",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 2건 기준"
+    },
+    {
+      "keyword": "usashorts",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
       "keyword": "#lifehacks",
@@ -140,107 +217,23 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "유행하는",
-      "change": "+33%",
-      "today_count": 4,
+      "keyword": "food",
+      "change": "+67%",
+      "today_count": 5,
       "yesterday_count": 3,
-      "confidence": "low",
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "#music",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#duet",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#usashorts",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#viralshorts",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "duet",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "usashorts",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "recipe",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 5건, 어제 3건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "trend",
-      "change": "-5%",
-      "today_count": 19,
+      "change": "-15%",
+      "today_count": 17,
       "yesterday_count": 20,
-      "confidence": "high"
-    },
-    {
-      "keyword": "#viral",
-      "change": "-6%",
-      "today_count": 15,
-      "yesterday_count": 16,
       "confidence": "high"
     },
     {
@@ -259,10 +252,10 @@
     },
     {
       "keyword": "#viralvideo",
-      "change": "-14%",
-      "today_count": 6,
+      "change": "-43%",
+      "today_count": 4,
       "yesterday_count": 7,
-      "confidence": "medium"
+      "confidence": "low"
     },
     {
       "keyword": "제시뉴욕",
@@ -280,9 +273,23 @@
     },
     {
       "keyword": "#trend",
-      "change": "-33%",
-      "today_count": 4,
+      "change": "-50%",
+      "today_count": 3,
       "yesterday_count": 6,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#lyrics",
+      "change": "-40%",
+      "today_count": 3,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
+      "keyword": "lyrics",
+      "change": "-40%",
+      "today_count": 3,
+      "yesterday_count": 5,
       "confidence": "low"
     },
     {
@@ -290,13 +297,6 @@
       "change": "-40%",
       "today_count": 3,
       "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "diy",
-      "change": "-50%",
-      "today_count": 2,
-      "yesterday_count": 4,
       "confidence": "low"
     }
   ],

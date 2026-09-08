@@ -8,6 +8,11 @@
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "#viral",
+      "growth": "+13%",
+      "total_mentions": 108
+    },
+    {
       "keyword": "#trending",
       "growth": "+100%",
       "total_mentions": 79
@@ -19,30 +24,16 @@
     },
     {
       "keyword": "#tiktok",
-      "growth": "+43%",
-      "total_mentions": 55
+      "growth": "+29%",
+      "total_mentions": 54
     },
     {
       "keyword": "dance",
-      "growth": "+22%",
-      "total_mentions": 53
-    },
-    {
-      "keyword": "#dance",
-      "growth": "+67%",
-      "total_mentions": 43
+      "growth": "+11%",
+      "total_mentions": 52
     }
   ],
-  "most_cross_platform": [
-    {
-      "keyword": "ai",
-      "platforms": [
-        "google_trends",
-        "youtube"
-      ],
-      "count": 2
-    }
-  ],
+  "most_cross_platform": [],
   "naver_shopping_hot": [
     "원피스",
     "블라우스",
