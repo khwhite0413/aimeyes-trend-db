@@ -1,0 +1,937 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "chat gtp",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like",
+              "url": "https://www.searchenginejournal.com/6-months-into-chatgpt-ads-advertisers-still-dont-know-what-good-looks-like/587583/"
+            },
+            {
+              "title": "OpenAI CFO Sarah Friar says ChatGPT's ads should be like 'if Google and Meta had a baby'",
+              "url": "https://www.businessinsider.com/openai-cfo-chatgpts-ads-google-and-meta-had-a-baby-2026-9"
+            },
+            {
+              "title": "A milestone in expanding access to AI",
+              "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "먹방",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "24살 120만 '먹방 인플루언서' 떠났다…한번에 70개 먹은 '음식' 뭐길래 [글로벌 pick]",
+              "url": "https://v.daum.net/v/20260909111045199"
+            },
+            {
+              "title": "24세 먹방 유튜버의 비극…사망 사흘전 “칼륨 부족 입원” 고백",
+              "url": "https://www.koreadaily.com/article/20260908142541600"
+            },
+            {
+              "title": "\"이 행동이 죽음 불렀다\"…오리알 60~70개 먹방 100만 中인플루언서 사망",
+              "url": "https://view.asiae.co.kr/article/2026090818292417904"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "파주 카페",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'냉동창고 살인' 피해자 몸에 외상 없어‥범행 일주일 전 창고 설치",
+              "url": "https://v.daum.net/v/20260909115509877"
+            },
+            {
+              "title": "[속보] 파주 냉동창고 살인 피의자 신상 SNS 확산…경찰 “신상공개 검토 안 해”",
+              "url": "https://www.kyeonggi.com/article/20260909580101"
+            },
+            {
+              "title": "파주 카페 냉동창고서 60대女 시신… 그 옆엔 500억원어치 가짜 상품권",
+              "url": "https://www.chosun.com/national/national_general/2026/09/09/LYMGSV6J2RCQ7H53GC7MCUYCBM/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "레즈 대 다저스",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "'충격의 4연타석 삼진' 오타니 부상자명단은 피했다, 다만 선발 제외 \"어제 경기 봤다면, 휴식 이해했을 것\"",
+              "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1005483"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "설악산",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "설악산 출입금지 구역서 단체 암벽등반하다가...불어난 계곡물에 고립",
+              "url": "https://www.ytn.co.kr/_ln/0103_202609090836160297"
+            },
+            {
+              "title": "설악산 토왕골서 등산객 8명 고립…1시간30분 만에 구조",
+              "url": "https://www.donga.com/news/Society/article/all/20260909/134631839/1"
+            },
+            {
+              "title": "‘위기탈출 넘버원’ 미아 방지 수칙·가을 산악 조난 대책",
+              "url": "https://v.daum.net/v/20260908112127688"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "사위",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "사위와 딸, 딸의 상간남이 한집 동거…장모는 눈감아줬다, 왜?[탐정비밀]",
+              "url": "https://www.news1.kr/society/general-society/6283755"
+            },
+            {
+              "title": "아내 내연남과 동거 택한 남편…알고 보니 아내의 대학 시절 전 남친 (탐비)[종합]",
+              "url": "https://v.daum.net/v/20260908124747036"
+            },
+            {
+              "title": "수천만 원 갈취에 명의까지 팔아넘긴 여친, 알고보니 전과자 \"고소하려면 해라\" - 조선비즈",
+              "url": "https://biz.chosun.com/entertainment/tv/2026/09/08/MM4DSN3DG5QTIYZRGQ4DQOJTMM/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "국내산 홍어",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "공영홈쇼핑서 산 국내산 홍어·가자미…정체 알고 보니 '깜짝'",
+              "url": "https://www.hankyung.com/article/202609092507H"
+            },
+            {
+              "title": "믿었던 공영홈쇼핑이… 외국산을 국산 둔갑 2.8억 판매",
+              "url": "https://www.munhwa.com/article/11615714"
+            },
+            {
+              "title": "“중기부 산하 공영홈쇼핑서 수입 해산물이 국산 둔갑”",
+              "url": "https://v.daum.net/v/20260909111949841"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "발롱도르",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "케인·메시·뎀밸레 등 발롱도르 후보 발표…아시아 선수 또 0명",
+              "url": "https://www.yna.co.kr/view/AKR20260909075500007"
+            },
+            {
+              "title": "최고의 축구 선수가 받는 발롱도르, 후보 30인 공개…3연속 한국인 '0'",
+              "url": "https://www.newsis.com/view/NISX20260909_0003781920"
+            },
+            {
+              "title": "케인, 야말 제치고 베팅업체들 1순위…음바페 “내가 적격이야”",
+              "url": "https://www.khan.co.kr/article/202609082014005"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "이스타항공",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"수하물 열어봐야 합니다\" 전화 대신 카톡…이스타항공 알림 서비스 - 머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/09/09/2026090909071557546"
+            },
+            {
+              "title": "이스타항공, 수하물 개봉 검사 카톡으로 알린다… 5개 공항 적용",
+              "url": "https://www.viva100.com/article/20260909500328"
+            },
+            {
+              "title": "이스타항공, 수하물 검색 알림톡→대한항공, 스마트시티엑스포 참가",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=764719"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "이혁재",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "개그맨 이혁재 음주운전 사고…\"떨어트린 휴대전화 줍다가\"(종합)",
+              "url": "https://v.daum.net/v/20260909101054392"
+            },
+            {
+              "title": "방송인 이혁재, 음주운전하다 오토바이 추돌…‘면허정지 수치’",
+              "url": "https://news.jtbc.co.kr/article/NB12317471"
+            },
+            {
+              "title": "이혁재, 음주운전 사고로 입건… 신호대기 오토바이 ‘쾅’",
+              "url": "https://www.chosun.com/national/incident/2026/09/09/YUYEZSHIQRFG5E5QOVLBXSN7T4/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 56,
+          "interest_max": 100,
+          "interest_latest": 74,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 6,
+          "interest_max": 19,
+          "interest_latest": 11,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 25,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 27,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "diamondbacks",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "D-backs throw 9 scoreless innings before offense erupts in 10th",
+              "url": "https://www.mlb.com/news/diamondbacks-bullpen-shines-in-victory-over-royals"
+            },
+            {
+              "title": "Arizona Diamondbacks News 9/8: Labor Yay!",
+              "url": "https://www.azsnakepit.com/arizona-diamondbacks-daily-news/97294/snake-bytes-9-8-labor-yay"
+            },
+            {
+              "title": "Diamondbacks score 5 in 10th to beat Royals",
+              "url": "https://arizonasports.com/mlb/arizona-diamondbacks/royals-5-runs-10th-inning"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ben shelton girlfriend",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Why Trinity Rodman has been 'pretty inspiring' to Ben Shelton",
+              "url": "https://www.atptour.com/en/news/shelton-racquets-relationships-2026"
+            },
+            {
+              "title": "USWNT’s Trinity Rodman and tennis star Ben Shelton lean on each other at the top of their sports - The Athletic",
+              "url": "https://www.nytimes.com/athletic/7574565/2026/09/08/trinity-rodman-ben-shelton-relationship-tennis-soccer/"
+            },
+            {
+              "title": "All About Pro Athletes Ben Shelton and Trinity Rodman’s Relationship",
+              "url": "https://people.com/all-about-trinity-rodman-ben-shelton-relationship-12110995"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "carlos alcaraz girlfriend",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Carlos Alcaraz Rumored Girlfriend: Is Tennis Star Dating Claudia Canals?",
+              "url": "https://www.yahoo.com/entertainment/celebrity/articles/carlos-alcaraz-rumored-girlfriend-tennis-173300311.html"
+            },
+            {
+              "title": "Carlos Alcaraz’s rumored girlfriend gets ChatGPT makeover before US Open match",
+              "url": "https://nypost.com/2026/09/08/sports/carlos-alcarazs-rumored-gf-gets-chatgpt-makeover-amid-us-open/"
+            },
+            {
+              "title": "Carlos Alcaraz’s Rumored GF Turns Heads Before US Open Ben Shelton Match",
+              "url": "https://heavy.com/sports/tennis/carlos-alcaraz-us-open-ben-shelton/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "mlb playoff picture",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "2026 MLB playoff contenders: Remaining strength of schedule",
+              "url": "https://www.espn.com/mlb/story/_/id/49796212/mlb-2026-remaining-strength-schedule-top-playoff-contenders"
+            },
+            {
+              "title": "2026 MLB playoff picture: Standings, current bracket, postseason projections",
+              "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-picture-standings-bracket/"
+            },
+            {
+              "title": "MLB Playoff Rankings: Dodgers, Red Sox Lead 1st Playoff Picture",
+              "url": "https://www.si.com/fannation/mlb/fastball/news/mlb-playoff-rankings-dodgers-red-sox-lead-1st-playoff-picture-pat3"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ben shelton parents",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Ben Shelton’s tennis gifts made him a contender. To become a champion, he has more to unwrap",
+              "url": "https://www.nytimes.com/athletic/7569041/2026/09/06/ben-shelton-tennis-style-us-open/"
+            },
+            {
+              "title": "Both of Ben Shelton’s Parents Used to Play Competitive Tennis",
+              "url": "https://sports.yahoo.com/articles/both-ben-shelton-parents-used-184000583.html"
+            },
+            {
+              "title": "Inspiring story of the day: “she is vital in my career. It honestly means everything to me” - How Ben She",
+              "url": "https://timesofindia.indiatimes.com/sports/international-sports/inspiring-story-of-the-day-she-is-vital-in-my-career-it-honestly-means-everything-to-me-how-ben-shelton-powerhouse-partnership-with-family-and-trinity-rodman-into-tennis-stardom/articleshow/133944926.cms"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "us open live",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "US Open 2026 results: Aryna Sabalenka fights back against Linda Noskova to keep title defence alive",
+              "url": "https://www.bbc.com/sport/tennis/articles/c3v43p9r2qdo"
+            },
+            {
+              "title": "US Open Tennis 2026 Results, Sunday's Bracket Winners, Losers and Highlights",
+              "url": "https://bleacherreport.com/articles/25496817-us-open-tennis-2026-results-sundays-bracket-winners-losers-and-highlights"
+            },
+            {
+              "title": "Aryna Sabalenka rediscovers her superpower in U.S. Open quarterfinal win over Linda Nosková",
+              "url": "https://www.nytimes.com/athletic/7575256/2026/09/08/us-open-sabalenka-noskova-result-analysis/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "brewers magic number",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Can the Brewers turn their regular-season success into October glory?",
+              "url": "https://sports.yahoo.com/mlb/article/can-the-brewers-turn-their-regular-season-success-into-october-glory-205822679.html"
+            },
+            {
+              "title": "Predicting when every MLB division leader will clinch, starting with the Brewers",
+              "url": "https://fansided.com/mlb/predicting-when-every-mlb-division-leader-will-clinch-starting-with-the-brewers-01m1y8gaqd6p"
+            },
+            {
+              "title": "Mistretta’s Musings: 3 reasons why Brewers are finally poised to upset Dodgers in playoffs",
+              "url": "https://clutchpoints.com/mlb/milwaukee-brewers/mistretta-musings-brewers-finally-poised-upset-dodgers-playoffs"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "nicolas cage",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Massive sinkhole at Nicolas Cage’s Malibu mansion prompts local emergency",
+              "url": "https://ktla.com/news/local-news/nicolas-cage-malibu-driveway-collapse-local-emergency/"
+            },
+            {
+              "title": "Malibu driveway collapses into sinkhole amid coastal erosion, prompting response from crews and firefighters",
+              "url": "https://abc7.com/post/driveway-collapses-malibu-home-prompting-response-crews-firefighters/19806138/"
+            },
+            {
+              "title": "Malibu residents evacuate after massive, expanding sinkhole opens at Nicolas Cage's house",
+              "url": "https://www.latimes.com/california/story/2026-09-08/malibu-driveway-collapses-into-massive-sinkhole-amid-coastal-flood-risks"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "hasan piker",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "The Hasan Piker Question",
+              "url": "https://www.theatlantic.com/politics/2026/09/hasan-piker-midterms-democrats-michigan/688504/"
+            },
+            {
+              "title": "Hasan Piker and the Democrats’ Edgelord Dilemma",
+              "url": "https://www.thenation.com/article/politics/abdul-el-sayed-hasan-piker-dirtbag-leftists/"
+            },
+            {
+              "title": "Raskin dismisses Hasan Piker’s Hamas rhetoric as ‘irrelevant distraction’",
+              "url": "https://www.foxnews.com/video/6404681684112"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "daycare",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Hidden camera in outlet leads to Volusia County dog daycare owner’s arrest",
+              "url": "https://www.clickorlando.com/news/local/2026/09/08/hidden-camera-in-outlet-leads-to-dog-daycare-owners-arrest-volusia-deputies-say/"
+            },
+            {
+              "title": "Doggy daycare owner arrested in Volusia County after hidden camera found in bathroom, deputies say",
+              "url": "https://www.wesh.com/article/new-smyrna-beach-dog-daycare-hidden-camera-arrest/73641830"
+            },
+            {
+              "title": "Florida business owner arrested after employees find hidden camera in bathroom: sheriff",
+              "url": "https://www.wfla.com/news/florida-business-owner-arrested-after-employees-find-hidden-camera-in-bathroom-sheriff/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 25,
+          "interest_max": 100,
+          "interest_latest": 25,
+          "rank": 1
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 23,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 15,
+          "interest_max": 100,
+          "interest_latest": 11,
+          "rank": 3
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 9,
+          "interest_max": 21,
+          "interest_latest": 9,
+          "rank": 4
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 8,
+          "interest_max": 22,
+          "interest_latest": 9,
+          "rank": 5
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 6,
+          "interest_max": 17,
+          "interest_latest": 9,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 1,
+          "interest_max": 4,
+          "interest_latest": 2,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 10,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "khaite",
+          "value": "350"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "goyard bag",
+          "value": "180"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "best quiet luxury bags",
+          "value": "110"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "polene bag",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "demellier bag",
+          "value": "40"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette clothes",
+          "value": "1300"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette dress",
+          "value": "600"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "藤井風 ピアノリサイタル",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Fujii Kaze、【藤井風 ピアノリサイタル】東京ドームで2日間開催決定",
+              "url": "https://news.yahoo.co.jp/articles/2ecbc51ffccfcc6b5d364dfa1730253839ec800c"
+            },
+            {
+              "title": "Fujii Kazeがピアノリサイタル開催、東京ドームで2公演",
+              "url": "https://natalie.mu/music/news/688661"
+            },
+            {
+              "title": "Fujii Kaze(藤井 風)、東京ドームでピアノリサイタル決定 ピアノ弾き語りや独奏をたっぷりお届け 11月20日&21日開催",
+              "url": "https://www.oricon.co.jp/news/2479230/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "熊本県知事",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "なぜ「避難所で雑魚寝」なのか？ 「国からのクーラー300台」は迷惑？ 熊本県知事が語る大地震の真実（文春オンライン）",
+              "url": "https://news.yahoo.co.jp/articles/d1d1fbfbb9ec381e915e210911d76f15690cdcea"
+            },
+            {
+              "title": "熊本地震の避難所運営、８割超が民間委託に…自治体は被災者の生活再建に集中",
+              "url": "https://www.yomiuri.co.jp/national/20260908-GYT1T00201/"
+            },
+            {
+              "title": "避難所で見た被災者の不安と疲弊 平時の備えで減らせる苦しみ",
+              "url": "https://www.asahi.com/sp/articles/photo/AS20260906001398.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ios 26.6 2",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Apple Releases iOS 26.6.2",
+              "url": "https://www.macrumors.com/2026/09/08/apple-releases-ios-26-6-2/"
+            },
+            {
+              "title": "Update your iPhone. Apple Issued iOS 26.6.2 for all",
+              "url": "https://www.letemsvetemapplem.eu/en/2026/09/08/aktualizujte-svuj-iphone-apple-vydal-ios-26-6-2-pro-vsechny/"
+            },
+            {
+              "title": "iOS 26.6.2 patches only one bug, but it's incredibly important",
+              "url": "https://www.neowin.net/news/ios-2662-patches-only-one-bug-but-its-incredibly-important/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "シャルル・ルクレール",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "フェラーリはハミルトンとルクレールを制御できるのか 母国GPで露呈したチームの弱点とは",
+              "url": "https://sports.yahoo.co.jp/column/detail/2026090900002-spnavi"
+            },
+            {
+              "title": "ハミルトン、フェラーリに苦言「”俺たち”じゃないだろ！」 チーム内での交戦規定の整備を要求",
+              "url": "https://jp.motorsport.com/f1/news/lewis-hamilton-calls-for-clearer-ferrari-team-rules-after-leclerc-monza-clash/10853281/"
+            },
+            {
+              "title": "【写真3】クラッシュの後、マシンから降りたシャルル・ルクレール（フェラーリ）",
+              "url": "https://www.as-web.jp/f1/1349629/attachment/26rd13italy-sun-lec-xpb2_2"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "valheim",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Valheim Review: Getting Lost on the Way to Where I Was Going",
+              "url": "https://www.mmorpg.com/reviews/valheim-review-getting-lost-on-the-way-to-where-i-was-going-2000138877"
+            },
+            {
+              "title": "Valheim’s 1.0 update is finally the game it was always meant to be",
+              "url": "https://www.polygon.com/valheim-launch-update-1-0-impressions/"
+            },
+            {
+              "title": "Valheim Video Review",
+              "url": "https://in.ign.com/valheim/271245/valheim-video-review"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "エリー・デラクルーズ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "止められない！“大谷マニア”レッズ・デラクルスが4戦連発25号！同点弾にドジャースタジアム沈黙（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/d8c8e242360babe2cd69ce0618d18853f889710b"
+            },
+            {
+              "title": "大谷翔平好きのデラクルスが超人プレー　４試合連発の２５号特大２ラン　守備では“爆肩”発動でランニング本塁打阻止　球場騒然",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20260909-OHT1T51082?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
+            },
+            {
+              "title": "“大谷マニア”レッズ・デラクルスが3戦連発！大谷翔平スタメン復帰試合で24号先制アーチ",
+              "url": "https://www.sponichi.co.jp/baseball/news/2026/09/08/kiji/20260908s00001007077000c.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "iphone 17 pro",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Apple Event 2026 Live: The First Foldable iPhone, iPhone 18 Pro, Apple Watch 12 and More",
+              "url": "https://www.cnet.com/news-live/apple-event-2026-live-updates/"
+            },
+            {
+              "title": "How to Watch Apple's 'Surprise and Shine' September 9 Event",
+              "url": "https://www.macrumors.com/how-to/watch-apple-september-9-iphone-event/"
+            },
+            {
+              "title": "Apple event expected to deliver foldable iPhone and debut of new CEO John Ternus",
+              "url": "https://www.cbsnews.com/news/apple-event-foldable-iphone-john-ternus/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "柿谷 曜一朗",
+          "traffic": "50000+",
+          "related_news": [
+            {
+              "title": "3連勝バレー日本戦であった衝撃プレー「なんで？」「意味わからん」 31歳の超絶ディグに驚嘆「概念を破壊してる」",
+              "url": "https://news.yahoo.co.jp/articles/e04186e27e218d3c5d85c7c201370a083481a708"
+            },
+            {
+              "title": "バレー推し：小野寺太志、ワンハンドトスは「遊びでやっている練習が生きた」",
+              "url": "https://mainichi.jp/articles/20260908/k00/00m/050/302000c"
+            },
+            {
+              "title": "【バレー男子】日本がオーストラリア撃破で首位で準々決勝進出 B組はインドが勝利で首の皮一枚 C組は韓国が2勝目〈アジア選手権〉",
+              "url": "https://news.ntv.co.jp/category/sports/90380c9db68d490aaf373c4ef5aabc52"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ドムドムバーガー",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ドムドムハンバーガー「丸ごと!! カニバーガー」名古屋みそ味 9月17日(木)全国の店舗で販売開始★",
+              "url": "https://www.sankei.com/pressrelease/prtimes/OBWCU3EXC5NWHK7OTF4CJBYZLY/"
+            },
+            {
+              "title": "殻ごと食べられる、ドムドム名物「丸ごと!! カニバーガー」に\"名古屋みそ味\"が新登場!",
+              "url": "https://news.mynavi.jp/article/20260909-4939891/"
+            },
+            {
+              "title": "ドムドムハンバーガー「丸ごと!! カニバーガー 名古屋みそ味」期間限定で全国販売！ みそソースの濃厚なコクと香り",
+              "url": "https://gourmet.watch.impress.co.jp/docs/news/2139355.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "上智大生殺害事件",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "「娘の無念を晴らすため…」父が訴え 上智大生殺害、未解決30年（朝日新聞）",
+              "url": "https://news.yahoo.co.jp/articles/02b96e116ab22e874503c13a01e4e9232b73da20"
+            },
+            {
+              "title": "上智大生殺害３０年",
+              "url": "https://sp.m.jiji.com/article/show/3862889"
+            },
+            {
+              "title": "上智大生殺害事件から30年 現場跡地で献花 [写真特集1/9]",
+              "url": "https://mainichi.jp/graphs/20260909/mpj/00m/040/062000f/20260909mpj00m040053000p"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 39,
+          "interest_max": 100,
+          "interest_latest": 31,
+          "rank": 1
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 31,
+          "interest_max": 100,
+          "interest_latest": 24,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 23,
+          "interest_max": 69,
+          "interest_latest": 29,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 16,
+          "interest_max": 82,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 13,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 8,
+          "interest_max": 77,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 38,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション 通販",
+          "value": "50"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-09-09T03:33:58.545032+00:00"
+}
