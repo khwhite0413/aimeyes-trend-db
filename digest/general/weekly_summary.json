@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-09-03",
-    "to": "2026-09-09"
+    "from": "2026-09-04",
+    "to": "2026-09-10"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "trend",
-      "growth": "+7%",
-      "total_mentions": 122
+      "keyword": "#viral",
+      "growth": "+33%",
+      "total_mentions": 109
     },
     {
-      "keyword": "#trending",
-      "growth": "+50%",
-      "total_mentions": 84
+      "keyword": "#shorts",
+      "growth": "+15%",
+      "total_mentions": 87
     },
     {
       "keyword": "에고이스트",
       "growth": "+10%",
-      "total_mentions": 74
-    },
-    {
-      "keyword": "#tiktok",
-      "growth": "+29%",
-      "total_mentions": 56
+      "total_mentions": 75
     },
     {
       "keyword": "dance",
-      "growth": "+125%",
-      "total_mentions": 52
+      "growth": "+67%",
+      "total_mentions": 58
+    },
+    {
+      "keyword": "#dance",
+      "growth": "+50%",
+      "total_mentions": 51
     }
   ],
   "most_cross_platform": [],
@@ -44,13 +44,13 @@
   "top_keywords_overall": [
     "trend",
     "#viral",
-    "#shorts",
     "#trending",
+    "#shorts",
     "원피스",
     "블라우스",
     "올리비아로렌",
     "에고이스트",
-    "잇미샤원피스",
-    "지고트원피스"
+    "#tiktok",
+    "dance"
   ]
 }

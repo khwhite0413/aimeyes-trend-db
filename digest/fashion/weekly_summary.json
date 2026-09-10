@@ -1,8 +1,8 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-09-03",
-    "to": "2026-09-09"
+    "from": "2026-09-04",
+    "to": "2026-09-10"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -10,27 +10,27 @@
     {
       "keyword": "블라우스",
       "growth": "+8%",
-      "total_mentions": 85
-    },
-    {
-      "keyword": "ootd",
-      "growth": "+20%",
-      "total_mentions": 83
-    },
-    {
-      "keyword": "#ootd",
-      "growth": "+11%",
-      "total_mentions": 75
+      "total_mentions": 86
     },
     {
       "keyword": "에고이스트",
       "growth": "+10%",
-      "total_mentions": 74
+      "total_mentions": 75
     },
     {
-      "keyword": "#fashion",
-      "growth": "+38%",
-      "total_mentions": 67
+      "keyword": "가을",
+      "growth": "+71%",
+      "total_mentions": 64
+    },
+    {
+      "keyword": "style",
+      "growth": "+14%",
+      "total_mentions": 59
+    },
+    {
+      "keyword": "바람막이",
+      "growth": "+125%",
+      "total_mentions": 47
     }
   ],
   "most_cross_platform": [
@@ -44,14 +44,6 @@
     },
     {
       "keyword": "원피스",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "가죽자켓",
       "platforms": [
         "naver",
         "youtube"
@@ -76,14 +68,14 @@
   ],
   "top_keywords_overall": [
     "fashion",
-    "#shorts",
     "원피스",
     "블라우스",
+    "#shorts",
     "ootd",
     "올리비아로렌",
-    "#ootd",
     "에고이스트",
-    "outfit",
-    "#fashion"
+    "#ootd",
+    "#fashion",
+    "가을"
   ]
 }
