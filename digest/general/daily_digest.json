@@ -2,9 +2,9 @@
   "date": "2026-09-10",
   "mode": "general",
   "compared_to": "2026-09-09",
-  "total_keywords_today": 475,
+  "total_keywords_today": 480,
   "total_keywords_yesterday": 486,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -19,18 +19,51 @@
       "sample_note": "오늘 16건, 어제 15건 기준"
     },
     {
+      "keyword": "#trending",
+      "change": "+8%",
+      "today_count": 13,
+      "yesterday_count": 12,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 13건, 어제 12건 기준"
+    },
+    {
       "keyword": "#shorts",
-      "change": "+36%",
-      "today_count": 15,
+      "change": "+18%",
+      "today_count": 13,
       "yesterday_count": 11,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 15건, 어제 11건 기준"
+      "sample_note": "오늘 13건, 어제 11건 기준"
     },
     {
       "keyword": "dance",
+      "change": "+22%",
+      "today_count": 11,
+      "yesterday_count": 9,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 11건, 어제 9건 기준"
+    },
+    {
+      "keyword": "#tiktok",
+      "change": "+11%",
+      "today_count": 10,
+      "yesterday_count": 9,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 10건, 어제 9건 기준"
+    },
+    {
+      "keyword": "#dance",
       "change": "+11%",
       "today_count": 10,
       "yesterday_count": 9,
@@ -184,28 +217,6 @@
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "#shortvideo",
-      "change": "+50%",
-      "today_count": 6,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 4건 기준"
-    },
-    {
-      "keyword": "shortvideo",
-      "change": "+50%",
-      "today_count": 6,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 4건 기준"
-    },
-    {
       "keyword": "트위드자켓",
       "change": "+20%",
       "today_count": 6,
@@ -215,17 +226,6 @@
         "naver"
       ],
       "sample_note": "오늘 6건, 어제 5건 기준"
-    },
-    {
-      "keyword": "유행하는",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
     }
   ],
   "declining": [
@@ -234,13 +234,6 @@
       "change": "-6%",
       "today_count": 15,
       "yesterday_count": 16,
-      "confidence": "high"
-    },
-    {
-      "keyword": "#trending",
-      "change": "-8%",
-      "today_count": 11,
-      "yesterday_count": 12,
       "confidence": "high"
     },
     {
@@ -265,6 +258,13 @@
       "confidence": "medium"
     },
     {
+      "keyword": "트렌드",
+      "change": "-20%",
+      "today_count": 4,
+      "yesterday_count": 5,
+      "confidence": "low"
+    },
+    {
       "keyword": "#lifehacks",
       "change": "-60%",
       "today_count": 2,
@@ -280,22 +280,22 @@
     },
     {
       "keyword": "recipe",
-      "change": "-20%",
-      "today_count": 4,
+      "change": "-60%",
+      "today_count": 2,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
       "keyword": "#viralvideo",
-      "change": "-75%",
-      "today_count": 1,
+      "change": "-50%",
+      "today_count": 2,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "life",
-      "change": "-25%",
-      "today_count": 3,
+      "keyword": "#recipe",
+      "change": "-50%",
+      "today_count": 2,
       "yesterday_count": 4,
       "confidence": "low"
     }
