@@ -8,34 +8,24 @@
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "원피스",
-      "growth": "+8%",
-      "total_mentions": 90
-    },
-    {
-      "keyword": "블라우스",
-      "growth": "+8%",
-      "total_mentions": 87
-    },
-    {
       "keyword": "에고이스트",
       "growth": "+10%",
       "total_mentions": 76
     },
     {
-      "keyword": "가을",
-      "growth": "+12%",
-      "total_mentions": 64
-    },
-    {
       "keyword": "바람막이",
       "growth": "+100%",
       "total_mentions": 53
+    },
+    {
+      "keyword": "스웨이드자켓",
+      "growth": "+125%",
+      "total_mentions": 46
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "블라우스",
+      "keyword": "티셔츠",
       "platforms": [
         "naver",
         "youtube"
@@ -52,6 +42,14 @@
     },
     {
       "keyword": "원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
