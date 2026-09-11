@@ -1,0 +1,748 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "인터파크",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "여행도 공연도 한곳에서…NOL, '슈퍼앱' 시동",
+              "url": "https://nwww.newsis.com/view/NISX20260908_0003780866"
+            },
+            {
+              "title": "NOL, 인터파크투어·티켓 통합…트리플도 11월 초 합류",
+              "url": "https://v.daum.net/v/20260909060301768"
+            },
+            {
+              "title": "숙박앱 넘어 ‘놀거리 슈퍼앱’으로…놀유니버스, NOL 통합 승부수",
+              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260908010003101"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "파운드리",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "'삼성전자, 드디어 터지나' 들썩…증권가서 '파격 전망' 나왔다 [분석+]",
+              "url": "https://www.hankyung.com/article/2026091178816"
+            },
+            {
+              "title": "\"FOMC 전까지 관망해야 하나\"…전문가가 본 삼전하닉 10월 반등의 조건",
+              "url": "https://www.newsis.com/view/NISX20260910_0003783590"
+            },
+            {
+              "title": "“삼성전자 HBM4 매출, 3배 이상 늘어난다”…파운드리까지 ‘청신호’",
+              "url": "https://stock.mk.co.kr/news/view/1157489"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "여권",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "“도난 당했다”…일본 간 한국인들 ‘긴급여권’ 발급 급증, 무슨 일",
+              "url": "https://v.daum.net/v/20260911064007540"
+            },
+            {
+              "title": "\"여권 잃어버렸다\"…일본 간 한국인들 '긴급 여권' 3배 급증",
+              "url": "https://www.hankyung.com/article/202609118369H"
+            },
+            {
+              "title": "역대 최대 규모 일본 여행에…일본서 발급된 긴급여권도 급증세",
+              "url": "https://www.yna.co.kr/view/AKR20260910080100001"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "카카오 모빌리티",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "택시노동자들, 카카오모빌리티에 단체교섭 요구",
+              "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=236725"
+            },
+            {
+              "title": "카카오 서울자율차가 복잡한 강남 밤길 누비는 이유",
+              "url": "https://zdnet.co.kr/view/?no=20260909160312"
+            },
+            {
+              "title": "자율주행 힘주는 카카오모빌리티…'韓 특화 데이터' 앞세워 빅테크와 경쟁",
+              "url": "https://v.daum.net/v/UIEsECnQHJ"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "엘레나 리바키나",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "테니스 리바키나, US오픈 4강 오르며 생애 첫 세계 1위 확정(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20260910061451007"
+            },
+            {
+              "title": "리바키나, US오픈 4강 진출…카자흐스탄 선수 최초 세계 1위 확정",
+              "url": "https://www.news1.kr/sports/general-sport/6285855"
+            },
+            {
+              "title": "리바키나, 정친원 잡았다…US오픈 준결승 진출·생애 첫 테니스 1위",
+              "url": "https://www.newsis.com/view/NISX20260910_0003784094"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "강남구",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "집 살 사람은 다 샀다? 뜨겁던 서울 부동산에 '찬바람' - 머니투데이",
+              "url": "https://www.mt.co.kr/estate/2026/09/11/2026091021573651633"
+            },
+            {
+              "title": "나경원 \"서울 아파트값 86주 연속 상승…매매·전세·월세 트리플 폭등 재앙\"",
+              "url": "https://www.newspim.com/news/view/20260911000483"
+            },
+            {
+              "title": "'5억 보태면 서울 집 샀는데…' 5년 후 현실에 세입자 '눈물' [시장톡]",
+              "url": "https://www.hankyung.com/article/2026091057046"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "구축함",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "이란전 주축 미 구축함 디케이터 공개…“독립 작전도 가능” [현장]",
+              "url": "https://www.hani.co.kr/arti/international/america/1277186.html"
+            },
+            {
+              "title": "대만해협 누빈 美 구축함의 경고… \"명령 내리면 중동까지 즉각 전개\"",
+              "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=191887"
+            },
+            {
+              "title": "진주만 85년 상흔 '디케이터'… 中 위협 \"언제든 출격\" : 국제",
+              "url": "https://news.jkn.co.kr/post/982807"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "슈퍼맨이 돌아왔다",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "'슈돌' 심형탁 子 하루, 우대갈비·쪽갈비 먹방…계곡 나들이",
+              "url": "https://v.daum.net/v/20260909214453634"
+            },
+            {
+              "title": "'슈돌' 심형탁 \"子 하루 이 정도 옹알이 처음\"…수족관서 흥 폭발 [RE:TV]",
+              "url": "https://www.news1.kr/entertain/broadcast-tv/6285431"
+            },
+            {
+              "title": "‘슈돌’ 하루, 마린룩 찰떡 소화…돌고래급 고주파 샤우팅 “꺄아!”",
+              "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517766"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "대한민국 의 대법관",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "조희대 \"법원, 다른 국가기관 부당 간섭에 영향받지 않아야\"",
+              "url": "https://www.yna.co.kr/view/AKR20260911080700004"
+            },
+            {
+              "title": "‘법왜곡죄, 탄핵 으름장’… 87년 체제 뒤 최악탄압, 흔들리는 법원",
+              "url": "https://www.munhwa.com/article/11616372"
+            },
+            {
+              "title": "대법원장 목까지 정치가 흔드는 나라 [기자수첩-사회]",
+              "url": "https://www.dailian.co.kr/news/view/1688902/%EB%8C%80%EB%B2%95%EC%9B%90%EC%9E%A5-%EB%AA%A9-%EC%A0%95%EC%B9%98-%ED%9D%94%EB%93%9C-%EB%82%98%EB%9D%BC-%EA%B8%B0%EC%9E%90%EC%88%98%EC%B2%A9-2026"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "칫솔",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'75만원 칫솔' 누가 살까 했는데…사전예약부터 '완판'",
+              "url": "https://www.hankyung.com/article/202609106249i"
+            },
+            {
+              "title": "세정력 넘어 AI·카메라로…전동칫솔 '기술 경쟁' 본격화",
+              "url": "https://v.daum.net/v/20260910181445480"
+            },
+            {
+              "title": "\"피슉, 피슉\"…치아 사이 지나자 액체 분사 '다이슨 카메라젯'(종합)",
+              "url": "https://view.asiae.co.kr/article/2026091013335110833"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "자기계발",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "stetson bennett",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Rams vs. 49ers Position-by-Position Breakdown: Who Has the Edge?",
+              "url": "https://www.si.com/nfl/rams/onsi/rams-49ers-week-1-matchup-breakdown"
+            },
+            {
+              "title": "Who is the Rams' No. 2 quarterback against the 49ers?",
+              "url": "https://sports.yahoo.com/articles/rams-no-2-quarterback-against-234023700.html"
+            },
+            {
+              "title": "Ty Simpson Inactive for Week 1 vs. 49ers, 1st-Round NFL Draft Pick is Rams' QB3 Behind Bennett",
+              "url": "https://bleacherreport.com/articles/25498184-ty-simpson-inactive-week-1-vs-49ers-1st-round-nfl-draft-pick-rams-qb3-behind-bennett"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "nate landman",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Inter Miami Fire Soccer",
+              "url": "https://www.couriernews.com/sports/inter-miami-fire-soccer/image_7c66d718-fffe-5098-aba8-804eaf80e834.html"
+            },
+            {
+              "title": "Rams Football",
+              "url": "https://www.idahostatejournal.com/sports/national/rams-football/image_83005839-d88c-538e-8f9b-74ca613aa6ca.html"
+            },
+            {
+              "title": "Rams Football",
+              "url": "https://www.bdtonline.com/sports/national_sports/rams-football/image_bf6224ff-0457-564c-8522-b4fa973e2e0b.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "did coco gauff win today",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Coco Gauff escapes U.S. Open heartbreak as Mirra Andreeva wilts on Arthur Ashe Stadium",
+              "url": "https://www.nytimes.com/athletic/7579397/2026/09/09/coco-gauff-us-open-mirra-andreeva/"
+            },
+            {
+              "title": "Coco Gauff draws on Tiafoe and ‘delusional’ self-belief in US Open escape",
+              "url": "https://www.theguardian.com/sport/2026/sep/09/coco-gauff-belief-mirra-andreeva-us-open-semi-finals"
+            },
+            {
+              "title": "Mirra Andreeva vs. Coco Gauff: Match Highlights",
+              "url": "https://www.espn.com/video/clip?id=49884367"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "domhnall gleeson",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "The Paper season two review – one of the best comedies on TV right now",
+              "url": "https://www.theguardian.com/tv-and-radio/2026/sep/10/the-paper-season-two-review-one-of-the-best-comedies-on-tv-right-now"
+            },
+            {
+              "title": "Domhnall Gleeson on ‘The Paper’ S2, Taylor Swift’s ‘Opalite’ Video",
+              "url": "https://www.today.com/video/domhnall-gleeson-on-the-paper-s2-taylor-swift-s-opalite-video-269614149998"
+            },
+            {
+              "title": "‘The Paper’ Review: Season 2 Can’t Deliver Its One, Big, Diabolical Idea",
+              "url": "https://www.indiewire.com/criticism/shows/the-paper-season-2-review-the-office-spinoff-bad-1235213892/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "rams defense",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Rams' top safety suffers ankle injury vs. 49ers",
+              "url": "https://sports.yahoo.com/articles/rams-top-safety-suffers-ankle-022700714.html"
+            },
+            {
+              "title": "Rams' Kamren Curl: Questionable to return Thursday",
+              "url": "https://www.cbssports.com/fantasy/football/news/rams-kamren-curl-questionable-to-return-thursday/"
+            },
+            {
+              "title": "Rams starting LB exits vs. 49ers with hip injury",
+              "url": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/09/10/rams-injury-omar-speights-update-49ers/91700015007/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "martha stewart",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Martha Stewart reveals haunting conversation she had with ‘90s heartthrob before his tragic death",
+              "url": "https://www.syracuse.com/celebrity-news/2026/09/martha-stewart-reveals-haunting-conversation-she-had-with-90s-heartthrob-before-his-tragic-death.html"
+            },
+            {
+              "title": "Martha Stewart reveals the warning she gave JFK Jr. days before he died",
+              "url": "https://www.usatoday.com/story/entertainment/tv/2026/09/08/martha-stewart-jfk-jr-john-f-kennedy-bravo-rhony-premiere/91656093007/"
+            },
+            {
+              "title": "Martha Stewart recalls telling JFK Jr. to get a copilot days before fatal flight",
+              "url": "https://malaysia.news.yahoo.com/martha-stewart-recalls-telling-jfk-010000228.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "josh hoover",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Cignetti’s critiques after Hoover’s 4 TD debut: The “culture shock” IU football’s QB wanted",
+              "url": "https://www.thedailyhoosier.com/cignettis-critiques-after-hoovers-4-td-debut-the-culture-shock-iu-footballs-qb-wanted/"
+            },
+            {
+              "title": "Josh Hoover’s bloody nose had the Indiana sideline impressed 😂",
+              "url": "https://www.foxsports.com/watch-vertical/fmc-urlnkpe9vbfri1mx"
+            },
+            {
+              "title": "‘No disrespect’ but Indiana QB Josh Hoover takes a swipe at TCU & Sonny Dykes",
+              "url": "https://www.star-telegram.com/sports/spt-columns-blogs/mac-engel/article317150292.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "49ers schedule 2026",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Position-By-Position Breakdown of the 49ers 2026 Initial Roster",
+              "url": "https://www.49ers.com/news/position-by-position-breakdown-of-the-49ers-2026-initial-roster"
+            },
+            {
+              "title": "Kyle Shanahan reveals two 49ers roles remain murky ahead of Week 1 vs. Rams",
+              "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/kyle-shanahan-two-roles-remain-murky/1959894/"
+            },
+            {
+              "title": "49ers’ Road To 53 Features Mykel Williams, Christian Kirk On Injured Lists",
+              "url": "https://www.profootballrumors.com/2026/08/49ers-road-to-53-features-mykel-williams-christian-kirk-on-injured-lists"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "keion white",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "49ers’ Keion White opens up about his recovery from a gunshot wound",
+              "url": "https://www.nytimes.com/athletic/7563782/2026/09/04/keion-white-49ers-recovery-week-1/"
+            },
+            {
+              "title": "49ers veteran Keion White reflects on being shot in foot during Super Bowl party",
+              "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/keion-white-super-bowl-party-shooting/1960871/"
+            },
+            {
+              "title": "NFC Notes: Aaron Donald, Keion White, 49ers, Rams, Seahawks",
+              "url": "https://nfltraderumors.co/nfc-notes-aaron-donald-keion-white-49ers-rams-seahawks/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "miami university football",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Week 2 GameDay Kickoff: QB issues for Michigan, Buckeyes-Horns and more",
+              "url": "https://www.espn.com/college-football/story/_/page/gamedaykickoff091026/2026-gameday-kickoff-week-2-preview-top-games-ohio-state-texas-michigan"
+            },
+            {
+              "title": "Texas wins late, Oklahoma wins easily: College football Week 2 oddly specific predictions",
+              "url": "https://www.nytimes.com/athletic/7578296/2026/09/10/college-football-predictions-texas-ohio-state-texas-michigan/"
+            },
+            {
+              "title": "College Football Week 2 Expert Picks, Predictions For Michigan-Oklahoma And More",
+              "url": "https://www.foxsports.com/stories/college-football/picks-predictions-odds-week-2-michigan-oklahoma-texas-ohio-state"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 61,
+          "interest_max": 100,
+          "interest_latest": 82,
+          "rank": 1
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "青島 俊作",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "今見ると豪華すぎ！『踊る大捜査線』にチョイ役で出演していた「ブレイク前の人気俳優」たち",
+              "url": "https://article.auone.jp/a6d9465f-a7d7-4e38-88dc-3b7075564741"
+            },
+            {
+              "title": "【画像】ムロツヨシが「踊る大捜査線3」に無名時代の脇役で出演していたと話題",
+              "url": "https://news.livedoor.com/article/image_detail/32284099/?img_id=56257713"
+            },
+            {
+              "title": "「踊る大捜査線」北丘雲斗(佐々木蔵之介)は過去作に登場していた？冷徹なエリート警察官に注目",
+              "url": "https://ciatr.jp/topics/339276"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ちい かわ くら 寿司 コラボ 中止",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "くら寿司「ちいかわ」コラボ中止騒動》景品を横流しした従業員に待ち受ける重い罪 刑事責任としては窃盗罪、もしくは業務上横領罪 損害賠償請求額は数千万円以上になる可能性も（女性セブンプラス",
+              "url": "https://news.yahoo.co.jp/articles/de5c70008650bedae849098186e4de0adc4f3c4a"
+            },
+            {
+              "title": "画像・写真 | 蛯原友里、すっぴん笑顔にスタッフ絶句 46歳の“老けない秘密”を徹底密着 2枚目",
+              "url": "https://www.oricon.co.jp/news/2479499/photo/2/"
+            },
+            {
+              "title": "61歳・草刈民代、“ちいかわ三昧”な週末楽しむ 映画は夫・周防正行監督と一緒に鑑賞、奥深い魅力に触れ「癒され方がなんとも言えない」",
+              "url": "https://www.sankei.com/article/20260910-ZRBPSYR4B5OEVPFEXMHWF7R2AM/?outputType=theme_oriconnews"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ノルウェー軍",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ロシア軍深海部隊GUGIの特殊作戦を阻止か 米英ノルウェー軍が北極海で追跡・対峙",
+              "url": "https://news.tv-asahi.co.jp/news_international/articles/900199396.html"
+            },
+            {
+              "title": "EXCLUSIVE-ＮＡＴＯ、ロシアの海底ケーブル破壊工作を阻止 北極圏で対峙（ロイター）",
+              "url": "https://news.yahoo.co.jp/articles/fb11e392e419f8627e385a66a34609ef27c878a5"
+            },
+            {
+              "title": "NATOは北大西洋におけるロシア潜水艦への対抗能力を強化している。",
+              "url": "https://www.vietnam.vn/ja/nato-tang-cuong-nang-luc-doi-pho-tau-ngam-nga-tai-bac-dai-tay-duong"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "債券",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "米国株式市場＝続落、ＰＰＩと原油高で利上げ観測強まる",
+              "url": "https://jp.reuters.com/jp/markets/japan/2P5QBJ4ZMNLLRKIXO5EHNKLH3A-2026-09-10/"
+            },
+            {
+              "title": "【日本市況】債券大幅安、原油急伸と米金利上昇重し－日経平均3%超安",
+              "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2937561?display=1"
+            },
+            {
+              "title": "１１日の東京株式市場見通し＝反落後も軟調な展開か 速報",
+              "url": "https://kabushiki.jp/news/767366"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "風呂",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「お風呂にスマホを持ち込む人」はどれくらいいる? - 300人調査",
+              "url": "https://article.auone.jp/020e3fd0-e9a7-43e6-a0bd-3675122ae9f6"
+            },
+            {
+              "title": "湯船派？シャワー派？300人に聞いた温浴習慣、20代の7割はお風呂スマホ",
+              "url": "https://www.jiji.com/jc/article?k=000000131.000111955&g=prt"
+            },
+            {
+              "title": "お風呂でスマホを見ている人へ。年間7000人以上が死亡？ 若くても命にかかわる、危ないお風呂の入り方",
+              "url": "https://www.chiba-tv.com/plus/detail/2026091992771"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "ハンドボール",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "【ハンドボール】第80回国民スポーツ大会 最終結果のお知らせ",
+              "url": "https://sports.yahoo.co.jp/official/detail/2026091000102-spnaviow"
+            },
+            {
+              "title": "イズミメイプルレッズ「10月開幕のリーグHに繋がる」国スポ・ハンドボール成年女子で広島県チームが２３年ぶり優勝",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2932294?display=1"
+            },
+            {
+              "title": "青森国スポ＞レットルが2連覇 橋本駆「中堅としてチーム引っ張る」 ハンドボール成年男子 | スポーツ | 佐賀県のニュース",
+              "url": "https://www.saga-s.co.jp/articles/gallery/1787777?ph=1"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "デジタル庁",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "政府職員らの情報 24万件漏えいか",
+              "url": "https://news.yahoo.co.jp/pickup/6594942"
+            },
+            {
+              "title": "政府ネットに不正アクセス 24万件超漏えいか",
+              "url": "https://www.hokkaido-np.co.jp/article/1369078/"
+            },
+            {
+              "title": "政府の共通基盤ネットワークにサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいの可能性",
+              "url": "https://www.yomiuri.co.jp/national/20260911-GYT1T00096/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "長谷川閑史",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "武田薬品元社長 長谷川閑史氏死去",
+              "url": "https://news.yahoo.co.jp/pickup/6594930"
+            },
+            {
+              "title": "「行動で被災地に寄り添った」 長谷川さんの死悼む―同友会・山口氏",
+              "url": "https://www.jiji.com/jc/article?k=2026091100471&g=eco"
+            },
+            {
+              "title": "武田薬品元社長の長谷川閑史さんが死去 経済同友会代表幹事も務める",
+              "url": "https://www.asahi.com/articles/ASV9C0CNDV9CULFA01SM.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "歌舞伎",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "中村屋一門が全国各地に届ける、「春暁・陽春歌舞伎特別公演」2027年3・4月に開催",
+              "url": "https://natalie.mu/stage/news/688899"
+            },
+            {
+              "title": "中村屋一門が全国各地へ　『春暁歌舞伎特別公演 2027』と『陽春歌舞伎特別公演 2027』の演目・出演者など詳細が決定",
+              "url": "https://spice.eplus.jp/articles/348927"
+            },
+            {
+              "title": "中村屋一門が全国各地へ 中村勘九郎 中村七之助「春暁・陽春歌舞伎特別公演 2027」演目・出演者など、公演詳細が決定",
+              "url": "https://prtimes.jp/main/html/rd/p/000000943.000041063.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "パワーエックス 株価",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "東急不動産・IBeeTが出資する蓄電所向け蓄電システムを伊藤忠商事と共同受注",
+              "url": "https://www.asahi.com/and/pressrelease/16844740"
+            },
+            {
+              "title": "パワーエックス株価はどこまで上がる?蓄電池需要の拡大と新製品が追い風【2026年9月最新】",
+              "url": "https://www.ebc.com/jp/forex/311350.html"
+            },
+            {
+              "title": "出来高変化率ランキング（14時台）～日電波、DELTA－Pなどがランクイン(フィスコ)",
+              "url": "https://finance.yahoo.co.jp/news/detail/16490e331f2cf7df9a49ef210a9864651cb06786"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 8,
+          "interest_max": 50,
+          "interest_latest": 7,
+          "rank": 1
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 7,
+          "interest_max": 100,
+          "interest_latest": 11,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 1,
+          "interest_max": 10,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 31,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 8,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-09-11T03:32:15.292741+00:00"
+}
