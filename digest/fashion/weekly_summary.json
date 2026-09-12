@@ -1,26 +1,26 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-09-05",
-    "to": "2026-09-11"
+    "from": "2026-09-06",
+    "to": "2026-09-12"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "에고이스트",
-      "growth": "+10%",
-      "total_mentions": 76
+      "keyword": "가을",
+      "growth": "+25%",
+      "total_mentions": 65
     },
     {
       "keyword": "바람막이",
-      "growth": "+100%",
-      "total_mentions": 53
+      "growth": "+67%",
+      "total_mentions": 58
     },
     {
       "keyword": "스웨이드자켓",
-      "growth": "+125%",
-      "total_mentions": 46
+      "growth": "+60%",
+      "total_mentions": 50
     }
   ],
   "most_cross_platform": [
@@ -28,14 +28,6 @@
       "keyword": "티셔츠",
       "platforms": [
         "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "ai",
-      "platforms": [
-        "google_trends",
         "youtube"
       ],
       "count": 2
@@ -55,6 +47,14 @@
         "youtube"
       ],
       "count": 2
+    },
+    {
+      "keyword": "ai",
+      "platforms": [
+        "google_trends",
+        "youtube"
+      ],
+      "count": 2
     }
   ],
   "naver_shopping_hot": [
@@ -68,12 +68,12 @@
     "fashion",
     "원피스",
     "블라우스",
-    "ootd",
     "에고이스트",
     "올리비아로렌",
     "#shorts",
-    "#ootd",
+    "ootd",
+    "가을",
     "#fashion",
-    "가을"
+    "#ootd"
   ]
 }
