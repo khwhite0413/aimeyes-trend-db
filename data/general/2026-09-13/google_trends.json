@@ -1,0 +1,691 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "이시언",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "비, ♥김태희 아침 육아에 스스로 뺨까지 \"무조건 일어나야\" (시언스쿨)",
+              "url": "https://v.daum.net/v/20260913085637587"
+            },
+            {
+              "title": "‘♥김태희’ 비 “워터밤 전날 식단 왜 해?”…365일 관리하는 자기관리 끝판왕",
+              "url": "https://sports.donga.com/ent/article/all/20260912/134655465/1"
+            },
+            {
+              "title": "이시언♥서지승, 4개월 子와 가족사진..“엄마 아빠보다 표정부자”",
+              "url": "https://www.sportschosun.com/entertainment/2026-09-13/202609130100086610005670"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "용혜인 사퇴",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "[최덕재의 3분 맥짚기] 용혜인의 '완주 선언문', \"나는 문제 없어\"",
+              "url": "https://v.daum.net/v/20260913110155281"
+            },
+            {
+              "title": "[속보] 용혜인 성평등부 장관후보자 자진사퇴‥\"여당서 결단 의사 전달받아\"",
+              "url": "https://imnews.imbc.com/news/2026/politics/article/6851461_36911.html"
+            },
+            {
+              "title": "[속보] 용혜인 성평등부 장관 후보 사퇴…“민주당서 결단해달라 했다”",
+              "url": "https://www.hani.co.kr/arti/politics/politics_general/1277511.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "신지애",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "김아림·신지애, 일본 메이저 무빙데이 어땠나?…LPGA 멤버들 우승 경쟁 [JLPGA 챔피언십]",
+              "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021852"
+            },
+            {
+              "title": "김아림, 일본 메이저 원정 둘째날 29위…신지애 53위 [JLPGA 챔피언십]",
+              "url": "https://v.daum.net/v/20260912043451115"
+            },
+            {
+              "title": "신지애, 이번주 일본 메이저 우승 도전…김아림·하타오카·이와이 등 LPGA 멤버들 출격 [JLPGA 챔피언십]",
+              "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021801"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "조세",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "임광현 \"부부공동 1주택자들 그간 더 많이 낸 종부세 환급해줄 것\"",
+              "url": "https://www.chosun.com/economy/economy_general/2026/09/13/EZ2OIA5JPFGSXOH6V2NECAUG6U/"
+            },
+            {
+              "title": "국세청, 몰라서 더 낸 부부 공동명의 종부세 환급해준다",
+              "url": "https://www.khan.co.kr/article/202609131107001"
+            },
+            {
+              "title": "국세청, 부부 공동명의 1주택 종부세 '최저 세액' 찾아준다",
+              "url": "https://www.newspim.com/news/view/20260913000022"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "의사",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "챗GPT 보고 병원 갔더니…\"의사가 괜히 있어요?\" 핀잔",
+              "url": "https://www.hankyung.com/article/2026091306727"
+            },
+            {
+              "title": "챗GPT에 증상 물어보고 병원 갔더니…\"의사가 괜히 있냐\" 핀잔",
+              "url": "https://news.nate.com/view/20260913n00063"
+            },
+            {
+              "title": "“챗GPT가 이러던데요?” 환자에 “의사가 괜히 있어요?” 발끈한 의사",
+              "url": "https://www.munhwa.com/article/11616526"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "거점국립대학교",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "최교진, '서울대 10개' 충남대 방문…KAIST 협력·AI연구소 추진",
+              "url": "https://nwww.newsis.com/view/NISX20260908_0003780141"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "서울경제",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 8,
+          "keyword": "제앙실바",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "‘멕시코 영웅’ 모레노, 우상으로 인정해 준 모랄레스와 13일 맞대결…출격 준비 끝",
+              "url": "https://v.daum.net/v/XdM13sAimV"
+            },
+            {
+              "title": "'왈왈' 개 짖는 소리 도발→\"이런 순간 위해 태어났다\"... UFC 실바vs델가도 '빅뱅' - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/09/12/2026091213470441770"
+            },
+            {
+              "title": "'한 팔로 끝냈다' 제앙 실바, 델가도에 서브미션 승…\"다음 챔피언은 나\"",
+              "url": "https://sports.news.nate.com/view/20260913n07595"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "스타뉴스",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[이슈] \"매혹적인 역사적 재구성\"…'암살자(들)' 토론토까지 홀렸다",
+              "url": "https://v.daum.net/v/20260912152708954"
+            },
+            {
+              "title": "‘암살자(들)’ 관람 포인트 셋…‘6발의 총성’부터 유해진·박해일·이민호 앙상블까지",
+              "url": "https://sports.donga.com/ent/article/all/20260913/134655793/1"
+            },
+            {
+              "title": "신입 기자 된 이민호 \"활어 같은 인물…막걸리 마시며 연기했죠\"",
+              "url": "https://www.yna.co.kr/view/AKR20260911144700005"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "노동",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "“월례비 350만원” 다시 활개치는 건폭",
+              "url": "https://v.daum.net/v/qXJOWj4qX7?f=p"
+            },
+            {
+              "title": "\"덤프 웃돈 1.5억\" 다시 고개 든 건설현장 횡포",
+              "url": "https://www.news1.kr/realestate/general/6287631"
+            },
+            {
+              "title": "[사설] 李 “건설노조 불법행위 점검” 지시…건폭과의 전쟁 다시 나서야",
+              "url": "https://www.dnews.co.kr/m_home/view.jsp?idxno=202609061939138250838"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "자기계발",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "teofimo lopez",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Watch: Teofimo pulled up in disguise",
+              "url": "https://www.yardbarker.com/boxing/articles/watch_teofimo_pulled_up_in_disguise/s1_15653_44288935"
+            },
+            {
+              "title": "World champ unveils DISGUISE to call out Garcia… but can you work out who it is?",
+              "url": "https://www.the-sun.com/sport/16986519/world-champion-disguise-ryan-garcia/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ryan gosling",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Everything We Know About Ryan Gosling's Star Wars: Starfighter, From the Timeline to Tom Cruise",
+              "url": "https://www.syfy.com/videos/everything-we-know-about-ryan-goslings-star-wars-starfighter-from-the-timeline-to-tom-cruise"
+            },
+            {
+              "title": "Everything We Know About Ryan Gosling's Star Wars: Starfighter",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/everything-know-ryan-goslings-star-151605122.html"
+            },
+            {
+              "title": "Netflix's Flintstones Surge Is the Perfect Warm-Up for Ryan Gosling's Reboot",
+              "url": "https://collider.com/live-action-the-flintstones-streaming-success-netflix-september-2026/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "hines ward",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "State’s all-time leading NFL rushers, passers, receivers",
+              "url": "https://www.ajc.com/sports/2026/09/states-all-time-leading-nfl-rushers-passers-receivers/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "vix",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Will Midterm Elections Cause the Stock Market to Plunge? 75 Years of History Offer an Unexpected Answer.",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/midterm-elections-cause-stock-market-132601186.html"
+            },
+            {
+              "title": "Investors seek hedges as midterms and geopolitical risks threaten market calm",
+              "url": "https://www.cnbc.com/2026/09/10/fear-gauge-vix-hedges-volatility-stocks.html"
+            },
+            {
+              "title": "Wall Street Is Betting On a Split Congress With Midterms on Tap",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-10/wall-street-is-betting-on-a-split-congress-with-midterms-on-tap"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "usc score",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Live Score Updates: USC Trojans vs. Louisiana Ragin Cajuns’",
+              "url": "https://www.si.com/college/usc/football/usc-trojans-live-score-updates-louisiana-ragin-cajuns"
+            },
+            {
+              "title": "Louisiana football vs No. 14 USC live score, game updates from Week 2",
+              "url": "https://www.theadvertiser.com/story/sports/college/ul/2026/09/12/louisiana-football-vs-no-15-usc-live-score-game-updates-from-week-2/91611894007/"
+            },
+            {
+              "title": "【LIVESTREAMS】FREE]Louisiana vs USC Football Live Free TV",
+              "url": "https://www.lboro.ac.uk/microsites/360s/computer-work-area/rvtouch.html?&xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22%2F%5C%2Fthomassrivera%2Egithub%2Eio%2Fcms%2Ffr%2Exml%22%2F%3E%3C%2Fkrpano%3E&id=usc-vs-louisiana-football-online-tv564654"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "flash flood watch",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Flash Flood Watch in effect for most of Sunday for Spokane wildfire burn scar areas",
+              "url": "https://www.kxly.com/news/flash-flood-watch-in-effect-for-most-of-sunday-for-spokane-wildfire-burn-scar-areas/article_fd10d762-7fb0-4994-820a-a196ecc3c089.html"
+            },
+            {
+              "title": "City of Washington declares state of emergency as storms cause serious floods",
+              "url": "https://www.wpxi.com/news/local/city-washington-declares-state-emergency-after-storms-cause-serious-floods/LRXYD3F3XVEPVOXPHTDPENGUBA/"
+            },
+            {
+              "title": "Storms lead to ‘widespread’ flooding in Washington area",
+              "url": "https://www.observer-reporter.com/news/local-news/2026/sep/12/flooding-at-cameron-stadium-forces-suspension-of-wj-football-game/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "kamala harris",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Person ‘illegally entered’ Malibu property of Kamala Harris, Doug Emhoff: reports",
+              "url": "https://ktla.com/news/local-news/person-illegally-entered-malibu-property-of-kamala-harris-doug-emhoff-reports/"
+            },
+            {
+              "title": "L.A. County deputies respond to trespasser at Malibu home of Kamala Harris",
+              "url": "https://www.cbsnews.com/losangeles/news/kamala-harris-trespassing-report-los-angeles-county-malibu-home/"
+            },
+            {
+              "title": "Security stops trespasser at former VP Kamala Harris' Malibu home, sheriff's department says",
+              "url": "https://abc7.com/story/deputies-stop-trespasser-former-vp-kamala-harris-malibu-home-los-angeles-county-sheriffs-department-says/19824942/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "big 10",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Bill Connelly's Week 2 preview: Big Ten-SEC challenge, early conference tests",
+              "url": "https://www.espn.com/college-football/story/_/id/49893574/connelly-college-football-week-2-ohio-state-texas-oklahoma-michigan-more"
+            },
+            {
+              "title": "SEC had a week from hell. Then it went 16-0, while Big Ten was left scrambling | Opinion",
+              "url": "https://www.usatoday.com/story/sports/ncaaf/2026/09/07/sec-big-ten-rivalry-week-1-college-football/91647096007/"
+            },
+            {
+              "title": "College Football Hate Picks for Week 2: Oklahoma Storms Through Ann Arbor",
+              "url": "https://www.covers.com/ncaaf/hate-picks-week-2-2026"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "gervonta davis",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Ryan Garcia Questions Gervonta Davis’ Boxing Future With Blunt Mental Health Remark",
+              "url": "https://sports.yahoo.com/articles/ryan-garcia-questions-gervonta-davis-190945708.html"
+            },
+            {
+              "title": "Garcia On Gervonta Davis' Motivation",
+              "url": "https://boxingnews.com/news/garcia-on-gervonta-davis-motivation"
+            },
+            {
+              "title": "Ryan Garcia Questions Gervonta Davis’ Love For Boxing",
+              "url": "https://www.boxingnews24.com/2026/09/ryan-garcia-questions-gervonta-davis-love-for-boxing/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "texas longhorns schedule",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Longhorns Daily News: Texas softball announces 2027 SEC schedule",
+              "url": "https://www.burntorangenation.com/texas-longhorns-news/104446/longhorns-daily-news-texas-softball-announces-2027-sec-schedule"
+            },
+            {
+              "title": "14 NCAA Tournament Teams, 3 College World Series Participants Highlight Hogs’ 2027 Schedule",
+              "url": "https://arkansasrazorbacks.com/14-ncaa-tournament-teams-3-college-world-series-participants-highlight-hogs-2027-schedule/"
+            },
+            {
+              "title": "Georgia softball releases 2027 SEC schedule featuring Oklahoma in Athens",
+              "url": "https://www.onlineathens.com/story/sports/college/bulldogs-extra/2026/09/10/oklahoma-catcher-to-return-to-athens-for-georgia-sec-softball-opener/91691223007/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 59,
+          "interest_max": 100,
+          "interest_latest": 39,
+          "rank": 1
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 31,
+          "interest_max": 53,
+          "interest_latest": 31,
+          "rank": 2
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 7,
+          "interest_max": 100,
+          "interest_latest": 7,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 4,
+          "interest_max": 41,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 1,
+          "interest_max": 7,
+          "interest_latest": 5,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "上田晋也",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 2,
+          "keyword": "現地 生産",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "トランプ氏、米国で現地生産なら中国車容認 「日本もそうしている」",
+              "url": "https://www.nikkei.com/article/DGXZQOGN1301A0T10C26A9000000/"
+            },
+            {
+              "title": "トランプ大統領、中国車のアメリカ生産なら「構わない」と容認 雇用を重視 米中首脳会談を控えるなか",
+              "url": "https://news.yahoo.co.jp/articles/c3451240dc7d3c370d3a571ab590006700e8287a"
+            },
+            {
+              "title": "トランプ氏、中国車の米国生産「構わない」 雇用が重要と指摘",
+              "url": "https://jp.reuters.com/jp/economy/5L34C2BOHJITDMLGNVITAGWE64-2026-09-12/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "全日本空輸",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ANAがネットワーク構築を「数カ月→数週間」に短縮 “システムごとに回線追加”からどう脱却した？",
+              "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news036.html"
+            },
+            {
+              "title": "ANA、欧州からの訪日客向けに国内線が2区間無料になる「TOKYO+」を発売 インバウンドの地方送客を促進",
+              "url": "https://sky-budget.com/2026/09/12/ana-news-sep2026/"
+            },
+            {
+              "title": "ANAの二地域居住、福岡・古賀市が参画 空の移動負担軽減",
+              "url": "https://www.aviationwire.jp/archives/350341"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "離岸流",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "【検証】中高生３人が海で死亡 離岸流ではなかった…専門家「干潮で岩場に戻れなかった可能性」 鹿児島・いちき串木野市",
+              "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1112564"
+            },
+            {
+              "title": "「前は上がれたのに上がれない」干潮時の落とし穴か――中高生3人死亡事故で専門家が現地調査（ＫＹＴ鹿児島読売テレビ）",
+              "url": "https://news.yahoo.co.jp/articles/cf34efd281da096ce5160fbe930f7c6acaeb6d40"
+            },
+            {
+              "title": "潮の満ち引きの落とし穴――いちき串木野市の海難事故で専門家が現地調査 中高生3人死亡 原因は…",
+              "url": "https://tver.jp/episodes/ep01eji8op"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "卓球 張本",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "第1シード・張本美和が4強入り 男子はスウェーデン勢2名が準決勝へ＜卓球・WTTチャンピオンズマカオ2026＞（Rallys）",
+              "url": "https://news.yahoo.co.jp/articles/5efcb53a21c27cc90e4509bcbd43f10b9c47de46"
+            },
+            {
+              "title": "【卓球】中国男子全滅「張本の手の内を探ることができず」８強敗退選手の“悪くない発言”も波紋",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkansports/sports/f-sp-tp0-260913-202609130000277?fm=latestnews"
+            },
+            {
+              "title": "【女子シングルス準々決勝】大藤沙月 vs 早田ひな｜WTTチャンピオンズマカオ2026｜テレ東卓球NEWS：テレ東",
+              "url": "https://www.tv-tokyo.co.jp/tabletennis/news/2026/09/042386.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "サムスン",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "「iPhone Duo」の登場で折り畳み式スマホが主流に--もう後戻りできない5つの理由",
+              "url": "https://japan.zdnet.com/article/35252546/2/"
+            },
+            {
+              "title": "「iPhone Duo」でAppleの“折りたたみスマホシェア”は全世界5割超に？ 激変するフォルダブルスマホ市場（ITmedia Mobile）",
+              "url": "https://news.yahoo.co.jp/articles/6b1e0ca86f98ba7283dc4ebe25ad8fbf43ae5ef8"
+            },
+            {
+              "title": "iPhone Duoを発表",
+              "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "個人向け国債",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "【2026年9月】個人向け国債「固定5年」とネットで預ける高金利の定期預金、50万円で利息はいくら違う？",
+              "url": "https://finance.yahoo.co.jp/news/detail/a2535576315ea036c67ea174b196c682c570becf"
+            },
+            {
+              "title": "森永康平さんに聞く、金利のある時代「個人向け国債」など債券を活用した資産運用術",
+              "url": "https://media.rakuten-sec.net/articles/-/53434"
+            },
+            {
+              "title": "荻原博子氏「魅力増した3つの個人向け国債 どれを選ぶ？」",
+              "url": "https://mainichi.jp/premier/business/articles/20260904/biz/00m/020/004000c"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "ヒカキン 新商品",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "HIKAKIN、ヒゲもじゃ姿で新発表…「激アツ」「予想してなかった!」と反響 『ONICHA コーン茶』発売へ",
+              "url": "https://www.oricon.co.jp/news/2480084/"
+            },
+            {
+              "title": "ヒカキン、12日に新商品を発表！“意味深”な生配信も開始で「ヒントが隠されています」（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/ab6b8c4030a959bb51d7a8ac2fcfd3c41ffa738f"
+            },
+            {
+              "title": "またまたヒカキンが謎の生配信… 次の新商品は生配信の中にヒントがある！？",
+              "url": "https://mdpr.jp/news/detail/4842537"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ライアンガルシア",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "間も無くゴング！ WBCウエルター級タイトルマッチ（林壮一） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/45699082eca4295bc0a4540532d13c7e7baf33ee"
+            },
+            {
+              "title": "【9月13日】ライアン・ガルシアvsコナー・ベンのテレビ放送・ネット配信・試合日程・開始時間",
+              "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/ryan-garcia-connor-benn-boxing-where-to-watch-20260913/blt31e9dec951a51334"
+            },
+            {
+              "title": "【9月13日】『Zuffa Boxing：ガルシアvsベン』ライアン・ガルシアvsコナー・ベンの日程・放送予定",
+              "url": "https://www.sportingnews.com/jp/boxing/news/2026-9-12-zuffa-boxing-garcia-vs-benn-schedule-tv-ott-jpn/bfb7b4ad7af98ea93c90a063"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "天気予報 台風",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "【ダブル台風のたまご】「熱帯低気圧」２つ発生へ シルバーウイークに近づくのか【雨風シミュレーション２３日（水祝）まで／シルバーウイーク天気予報】今後の「台風情報」に注意 気象庁予想天気図",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2940865"
+            },
+            {
+              "title": "シルバーウィークにかけての天気　秋雨前線の影響で雨が多く　台風のたまごにも注意(気象予報士 吉田　友海 2026年09月12日)",
+              "url": "https://tenki.jp/forecaster/t_yoshida/2026/09/12/40577.html"
+            },
+            {
+              "title": "【気がかりな渦】シルバーウィークに前線刺激するおそれ 次の台風のたまごか 全国の天気（RCC中国放送）",
+              "url": "https://news.yahoo.co.jp/articles/61738f044166c7dc24c580d963732be196d651c9"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 8,
+          "interest_max": 100,
+          "interest_latest": 6,
+          "rank": 1
+        },
+        {
+          "keyword": "バズった",
+          "interest_avg": 7,
+          "interest_max": 33,
+          "interest_latest": 10,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 1,
+          "interest_max": 10,
+          "interest_latest": 6,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 37,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-09-13T03:43:27.339579+00:00"
+}
