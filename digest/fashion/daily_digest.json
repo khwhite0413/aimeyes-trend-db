@@ -2,9 +2,9 @@
   "date": "2026-09-13",
   "mode": "fashion",
   "compared_to": "2026-09-12",
-  "total_keywords_today": 461,
+  "total_keywords_today": 494,
   "total_keywords_yesterday": 495,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -52,17 +52,6 @@
       "sample_note": "오늘 11건, 어제 10건 기준"
     },
     {
-      "keyword": "outfit",
-      "change": "+12%",
-      "today_count": 9,
-      "yesterday_count": 8,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 9건, 어제 8건 기준"
-    },
-    {
       "keyword": "트위드자켓",
       "change": "+29%",
       "today_count": 9,
@@ -85,6 +74,17 @@
       "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
+      "keyword": "ootd",
+      "change": "+33%",
+      "today_count": 8,
+      "yesterday_count": 6,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 8건, 어제 6건 기준"
+    },
+    {
       "keyword": "여성가디건",
       "change": "+33%",
       "today_count": 8,
@@ -96,15 +96,15 @@
       "sample_note": "오늘 8건, 어제 6건 기준"
     },
     {
-      "keyword": "ootd",
-      "change": "+17%",
+      "keyword": "#ootd",
+      "change": "+75%",
       "today_count": 7,
-      "yesterday_count": 6,
+      "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
+      "sample_note": "오늘 7건, 어제 4건 기준"
     },
     {
       "keyword": "후드집업",
@@ -116,17 +116,6 @@
         "naver"
       ],
       "sample_note": "오늘 7건, 어제 5건 기준"
-    },
-    {
-      "keyword": "#ootd",
-      "change": "+50%",
-      "today_count": 6,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 4건 기준"
     },
     {
       "keyword": "가을코디",
@@ -151,6 +140,17 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
+      "keyword": "women",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
       "keyword": "#가을코디",
       "change": "+100%",
       "today_count": 4,
@@ -173,7 +173,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "ideas",
+      "keyword": "amp",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -206,18 +206,18 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "casual",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "입는",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#중년패션코디",
+      "keyword": "이렇게",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -231,8 +231,8 @@
   "declining": [
     {
       "keyword": "fashion",
-      "change": "-23%",
-      "today_count": 10,
+      "change": "-8%",
+      "today_count": 12,
       "yesterday_count": 13,
       "confidence": "high"
     },
@@ -251,30 +251,30 @@
       "confidence": "medium"
     },
     {
-      "keyword": "#fashion",
-      "change": "-12%",
-      "today_count": 7,
-      "yesterday_count": 8,
+      "keyword": "haul",
+      "change": "-29%",
+      "today_count": 5,
+      "yesterday_count": 7,
       "confidence": "medium"
     },
     {
       "keyword": "티셔츠",
-      "change": "-20%",
-      "today_count": 4,
+      "change": "-40%",
+      "today_count": 3,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
       "keyword": "트렌드",
-      "change": "-50%",
-      "today_count": 2,
+      "change": "-75%",
+      "today_count": 1,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
       "keyword": "추천",
-      "change": "-25%",
-      "today_count": 3,
+      "change": "-50%",
+      "today_count": 2,
       "yesterday_count": 4,
       "confidence": "low"
     },
@@ -293,23 +293,15 @@
       "confidence": "low"
     },
     {
-      "keyword": "skirt",
-      "change": "-67%",
-      "today_count": 1,
+      "keyword": "september",
+      "change": "-33%",
+      "today_count": 2,
       "yesterday_count": 3,
       "confidence": "low"
     }
   ],
-  "new_entries": [],
-  "cross_platform_hot": [
-    {
-      "keyword": "티셔츠",
-      "platform_count": 2,
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "total_count": 4
-    }
-  ]
+  "new_entries": [
+    "가을옷"
+  ],
+  "cross_platform_hot": []
 }
