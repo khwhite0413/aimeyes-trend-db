@@ -1,0 +1,923 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [
+        {
+          "rank": 5,
+          "keyword": "브룩스 레일리",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"뭐가 문제인지 모르겠다\" 다시 한국 와야 하나, 철벽 불펜이 급추락하다니…ERA 1.96→6.97 '트레이드 대실패'",
+              "url": "https://v.daum.net/v/20260914044237634"
+            },
+            {
+              "title": "\"뭐가 문제인지 모르겠다\" 다시 한국 와야 하나, 철벽 불펜이 급추락하다니…ERA 1.96→6.97 '트레이드 대실패' - 조선비즈",
+              "url": "https://biz.chosun.com/sports/baseball/2026/09/14/GM3GEM3DGRQTINJSMQZDQYLEMU/"
+            },
+            {
+              "title": "애틀랜타 김하성, 2타수 무안타 2볼넷…4경기 연속 출루",
+              "url": "https://www.yna.co.kr/view/AKR20260914014000007"
+            }
+          ]
+        }
+      ],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "이정후",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "이정후, 5타수 무안타 타율 0.276↓…송성문 대수비 출전",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8662532"
+            },
+            {
+              "title": "韓 메이저리거들, 나란히 타격 부진…팀 패배 못 막아",
+              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260914010005103"
+            },
+            {
+              "title": "아! 168km-162km 하드히트가 아웃으로, 이정후 '바빕신' 외면 무안타...SD 송성문 대수비 출장 [SF 리뷰]",
+              "url": "https://v.daum.net/v/uhJriXDgvd?f=p"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "브루노마스 내한",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "[잇슈 컬처] 브루노 마스 내한 공연, 추가 개최 “예매 열기 반영”",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8662256"
+            },
+            {
+              "title": "10만 관객 불렀던 브루노 마스, 이번엔 5일간 한국 무대",
+              "url": "https://www.chosun.com/entertainments/enter_general/2026/09/12/UIK2FT4TDNE3JOIIQUT63WKYOQ/"
+            },
+            {
+              "title": "[문화연예 플러스] 브루노 마스, 내한 공연 1회 추가",
+              "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6851584_37012.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "kt",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "58% of Korean Companies Utilize AI, with 81% Reporting Higher Productivity",
+              "url": "https://www.asiae.co.kr/en/article/2026091408503321348"
+            },
+            {
+              "title": "KT Report Finds 60% of Korean Financial Firms Executing AI Transformation",
+              "url": "https://en.sedaily.com/technology/2026/09/14/kt-report-finds-60-percent-of-korean-financial-firms"
+            },
+            {
+              "title": "KT publishes 'AX Insights Report' analyzing challenges in finance, public sectors",
+              "url": "https://www.digitaltoday.co.kr/en/view/102921/kt-publishes-ax-insights-report-analyzing-challenges-in-finance-and-public-sectors"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "휴대 전화",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "\"앞에 조심해!\"...휴대전화 보다 구멍으로 '푹' [나우쇼츠]",
+              "url": "https://www.ytn.co.kr/_ln/0103_202609141226134651"
+            },
+            {
+              "title": "휴대전화 보며 걷던 남성, 공사장 구덩이로 추락…CCTV 영상 확산 [현장영상]",
+              "url": "https://ichannela.com/news/detail/000000550202.do"
+            },
+            {
+              "title": "삼성 ‘여권폰’ 맞선다…잡스와 쿡이 키운 애플맨 첫 승부",
+              "url": "https://www.koreadaily.com/article/20260913130041492"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "브룩스 레일리",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"뭐가 문제인지 모르겠다\" 다시 한국 와야 하나, 철벽 불펜이 급추락하다니…ERA 1.96→6.97 '트레이드 대실패'",
+              "url": "https://v.daum.net/v/20260914044237634"
+            },
+            {
+              "title": "\"뭐가 문제인지 모르겠다\" 다시 한국 와야 하나, 철벽 불펜이 급추락하다니…ERA 1.96→6.97 '트레이드 대실패' - 조선비즈",
+              "url": "https://biz.chosun.com/sports/baseball/2026/09/14/GM3GEM3DGRQTINJSMQZDQYLEMU/"
+            },
+            {
+              "title": "애틀랜타 김하성, 2타수 무안타 2볼넷…4경기 연속 출루",
+              "url": "https://www.yna.co.kr/view/AKR20260914014000007"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "은마 종합 상가",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "재건축 달리나 했더니 ‘투쟁’ 붙었다…은마 재건축, 상가 세입자 집단반발",
+              "url": "https://www.mk.co.kr/news/realestate/12151631"
+            },
+            {
+              "title": "\"옥상서 망루-폭발물 농성?\" 은마상가 재건축 둘러싼 갈등 폭발하나",
+              "url": "https://realty.chosun.com/site/data/html_dir/2026/09/10/2026091002102.html"
+            },
+            {
+              "title": "은마 재건축 상가 갈등 본격화⋯임차인들 \"권리금·생계 보상하라\"",
+              "url": "https://v.daum.net/v/20260910145905851?f=p"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "에어로케이",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "에어로케이 강병호 대표, 일자리창출 대통령표창…2년간 임직원 72.3% 증가",
+              "url": "http://www.cndnews.co.kr/459808"
+            },
+            {
+              "title": "강병호 에어로케이항공 대표이사 '2026 일자리창출 지원 유공' 대통령표창 수상",
+              "url": "https://www.inews365.com/news/article.html?no=935518"
+            },
+            {
+              "title": "‘청주 거점 일자리 창출’ 에어로케이 강병호 대표, 대통령표창",
+              "url": "https://www.bzeronews.com/news/articleView.html?idxno=822494"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "skt",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[Report] \"It's Exciting to Ride Attractions While Everyone Sleeps\"... SKT 'Adventure Day'",
+              "url": "https://www.asiae.co.kr/en/article/IT/2026091407414808173"
+            },
+            {
+              "title": "SK Telecom rents out Lotte World Adventure at night for long-term customers",
+              "url": "https://www.digitaltoday.co.kr/en/view/102947/sk-telecom-rents-out-lotte-world-adventure-at-night-for-long-term-customers"
+            },
+            {
+              "title": "At 11 p.m. on the 12th, 3,000 customers entered Lotte World Adventure in Jamsil, Seoul. All of them",
+              "url": "https://www.mk.co.kr/en/it/12151826"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "소득세",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "반도체 호황에 내년 법인세 216.7조 ‘역대 최대’… 소득세 15년 만에 역전",
+              "url": "https://v.daum.net/v/20260914063639159"
+            },
+            {
+              "title": "내년 법인세 수입, 15년만에 소득세 추월한다…'삼전닉스' 효과",
+              "url": "https://www.yna.co.kr/view/AKR20260912040500002"
+            },
+            {
+              "title": "반도체 이익, 반도체 투자에만 집중… 체감 안되는 호황",
+              "url": "https://www.munhwa.com/article/11616773"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "에어부산",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "에어부산, ‘숏트립’ 여행객 특가… 일본 편도 6만8900원부터",
+              "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260914.99099004329"
+            },
+            {
+              "title": "에어부산, 국제선 18개 노선 대상 가을·겨울 특가 프로모션",
+              "url": "https://www.news1.kr/local/busan-gyeongnam/6289424"
+            },
+            {
+              "title": "에어부산, 가을·겨울 `짧은 휴가` 특가 행사",
+              "url": "https://www.busan.com/view/busan/view.php?code=2026091409383731276"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 64,
+          "interest_max": 100,
+          "interest_latest": 85,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 7,
+          "interest_max": 28,
+          "interest_latest": 19,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 70,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 80,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 66,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 54,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 11,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "chevrolet silverado",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "A Chevy Silverado's 6.2L V8 Failed at 98,876 Miles Under GM's Recall, but the Replacement Engine Is Backordered With No Timeline",
+              "url": "https://www.torquenews.com/18003/chevy-silverado-s-62l-v8-failed-98876-miles-under-gm-s-recall-replacement-engine-backordered"
+            },
+            {
+              "title": "Chevy Silverado, GMC Sierra Recalled For Brake System Warning Light Malfunction",
+              "url": "https://gmauthority.com/blog/2026/09/chevy-silverado-gmc-sierra-recalled-for-brake-system-warning-light-malfunction/"
+            },
+            {
+              "title": "Used Car Lot Discounts Limited Edition Chevy Truck. Saleswoman Says People Still Won’t Buy It: ‘I Don’t Understand What’s Wrong'",
+              "url": "https://www.motor1.com/news/807874/limited-edition-chevrolet-silverado-wont-sell/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "bo nix",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Renck: Broncos’ Bo Nix will meet the moment on Monday night against Chiefs",
+              "url": "https://www.denverpost.com/2026/09/13/bo-nix-patrick-mahomes-broncos-chiefs/"
+            },
+            {
+              "title": "Bo Nix's year three breakout starts with his footwork – Denver Sports",
+              "url": "https://denversports.com/nfl/denver-broncos/bo-nixs-year-three-breakout-starts-with-his-footwork"
+            },
+            {
+              "title": "Broncos' Courtland Sutton: Bo Nix has been 'like a mountain lion' awaiting his Week 1 return",
+              "url": "https://www.nfl.com/news/broncos-courtland-sutton-bo-nix-has-been-like-a-mountain-lion-awaiting-his-week-1-return"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "stephen a smith",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Skip Bayless returning to ‘First Take’ with Stephen A. Smith every Friday",
+              "url": "https://awfulannouncing.com/espn/skip-bayless-returning-first-take-stephen-a-smith-every-friday.html"
+            },
+            {
+              "title": "Michael Irvin returning to ‘First Take’",
+              "url": "https://sports.yahoo.com/articles/michael-irvin-join-first-monday-021424220.html"
+            },
+            {
+              "title": "Stephen A. Smith Announces Skip Bayless' Return to 'First Take' in Part-Time Role",
+              "url": "https://bleacherreport.com/articles/25498376-stephen-smith-announces-skip-bayless-return-first-take-part-time-role"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "santos laguna vs fc juárez standings",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Santos Laguna vs Juárez Prediction, Betting Tips, Lineups & Odds | 13 Sep 2026",
+              "url": "https://www.sportsgambler.com/betting-tips/football/santos-laguna-vs-juarez-prediction-lineups-odds-2026-09-13/"
+            },
+            {
+              "title": "Santos vs FC Juarez LIVE Updates: Lozano turns the game around (2-1)",
+              "url": "https://www.vavel.com/en-us/mexican-soccer/2026/09/14/1271253-santos-vs-juarez-live-score-liga-mx.html"
+            },
+            {
+              "title": "SANTOS LAGUNA LAUNCHES SPECIAL PROMOTION FOR ITS ANNIVERSARY AGAINST FC JUÁREZ",
+              "url": "https://www.clubsantos.mx/en/news/santos-laguna-lanza-promocion-especial-por-su-aniversario-ante-fc-juarez"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "chivas vs america",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Club América vs. Chivas: Día, hora y canal para ver EN VIVO el Clásico Nacional del Apertura 2026",
+              "url": "https://chivaspasion.bolavip.com/ligamx/club-america-vs-chivas-dia-hora-y-canal-para-ver-en-vivo-el-clasico-nacional-del-apertura-2026"
+            },
+            {
+              "title": "Detalles del América vs Guadalajara en la Liga MX",
+              "url": "https://onefootball.com/es/noticias/detalles-del-america-vs-guadalajara-en-la-liga-mx-43448261"
+            },
+            {
+              "title": "Cuándo vuelve a jugar el América: su próximo partido será el Clásico Nacional ante Chivas",
+              "url": "https://www.tvazteca.com/aztecadeportes/cuando-vuelve-jugar-america-proximo-partido-sera-clasico-nacional-chivas/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "dude 44 bravo",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Sunday on 60 Minutes: U.S. Air Force officer details story of survival; hidden camera probe explores the pardon economy",
+              "url": "https://www.cbsnews.com/news/first-on-60-minutes-air-force-officer-shot-down-iran-rescued/"
+            },
+            {
+              "title": "Air Force officer recalls ‘free-falling’ after jet was shot down over Iran",
+              "url": "https://www.nbcnews.com/news/us-news/air-force-officer-free-falling-jet-was-shot-down-iran-rcna597585"
+            },
+            {
+              "title": "US aviator shot down over Iran recalls 'free-falling' in first interview since rescue",
+              "url": "https://www.bbc.com/news/articles/cy7zvxe1jm7o"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "caitlin clark angel reese friendship",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Angel Reese and Caitlin Clark celebrate their ‘chemistry’ as USA advance to Fiba World Cup semis",
+              "url": "https://www.theguardian.com/sport/2026/sep/10/angel-reese-caitlin-clark-fiba-world-cup-basketball-usa-hungary"
+            },
+            {
+              "title": "“2nd Best Thing to Come Out of Berlin”: Caitlin Clark’s Viral Exchange With FIBA Reporter Over Angel Reese Question Draws Blunt Response from ESPN Veteran",
+              "url": "https://sports.yahoo.com/articles/2nd-best-thing-come-berlin-012532574.html"
+            },
+            {
+              "title": "Caitlin Clark and Angel Reese's chemistry with Team USA shows their rivalry doesn't have to fuel division",
+              "url": "https://www.cbssports.com/wnba/news/caitlin-clark-angel-reese-chemistry-team-usa-world-cup/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "inundación",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Las inundaciones arrasaron tres barcazas y sumergieron cientos de viviendas.",
+              "url": "https://www.vietnam.vn/es/mua-lu-cuon-troi-3-sa-lan-hang-tram-nha-dan-bi-ngap"
+            },
+            {
+              "title": "Noticias de la mañana, 14 de septiembre: Las lluvias continúan durante una semana en el norte y centro de Vietnam; ¿Es punible por ley fotocopiar libros de texto para niños?",
+              "url": "https://www.vietnam.vn/es/tin-sang-14-9-mien-bac-mien-trung-mua-keo-dai-ca-tuan-photocopy-sach-giao-khoa-cho-con-co-bi-phat-khong"
+            },
+            {
+              "title": "Cuatro provincias y ciudades centrales se enfrentan a un riesgo muy elevado de deslizamientos de tierra.",
+              "url": "https://www.vietnam.vn/es/4-tinh-thanh-mien-trung-nguy-co-sat-lo-rat-cao"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "the last photograph",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "‘The Last Photograph’ Review: DC’s Zack Snyder Comes Back Down To Earth",
+              "url": "https://deadline.com/2026/09/the-last-photograph-review-zack-snyder-stuart-martin-toronto-1237101249/"
+            },
+            {
+              "title": "Zack Snyder Goes Indie: No Green Screen, No Video Village and No Slow-Motion Shots (Exclusive)",
+              "url": "https://www.hollywoodreporter.com/movies/movie-features/zack-snyder-dc-filmmaker-the-last-photograph-interview-1236699109/"
+            },
+            {
+              "title": "TIFF 2026 REVIEW: The Last Photograph",
+              "url": "https://theholofiles.com/2026/09/13/tiff-2026-review-the-last-photograph/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "fdny",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'25 years later, I'm still here': Retired FDNY firefighter's 9/11 story of survival, loss and purpose",
+              "url": "https://www.wkyc.com/article/news/history/remembering-911/september-11-new-york-firefighter-bill-spade-rescue-company-5-survival-fire-department-fdny-911-world-trade-center/95-16909298-eae4-4360-b1ae-ca9b681ff598"
+            },
+            {
+              "title": "Firefighter Spent Months Cleaning up Twin Towers Rubble. After Avoiding Site for Years, Retirement Lead Him Back",
+              "url": "https://people.com/firefighter-spent-months-cleaning-up-twin-towers-rubble-after-avoiding-site-for-years-retirement-lead-him-back-12076729"
+            },
+            {
+              "title": "Why firefighter's words haunt this 9/11 Memorial & Museum tour guide",
+              "url": "https://www.northjersey.com/story/news/new-york/2026/09/10/george-mironis-tour-guide-911-survivor-nj/90459108007/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 43,
+          "interest_max": 87,
+          "interest_latest": 57,
+          "rank": 1
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 34,
+          "interest_max": 100,
+          "interest_latest": 35,
+          "rank": 2
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 22,
+          "interest_max": 100,
+          "interest_latest": 16,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 17,
+          "interest_max": 100,
+          "interest_latest": 22,
+          "rank": 4
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 10,
+          "interest_max": 34,
+          "interest_latest": 9,
+          "rank": 5
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 8,
+          "interest_max": 19,
+          "interest_latest": 11,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 5,
+          "interest_max": 22,
+          "interest_latest": 14,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 1,
+          "interest_max": 18,
+          "interest_latest": 5,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 3,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "moynat",
+          "value": "180"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury brands handbags",
+          "value": "120"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "khaite",
+          "value": "120"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "louis vuitton",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury nails",
+          "value": "80"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "マックス・フェルスタッペン",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "【F1スペインGP】代役参戦の角田裕毅は14位、1周目の1コーナーで接触…その時点で「僕のレースは終わってしまった」",
+              "url": "https://news.yahoo.co.jp/articles/16c8c66a56178d1a5679c8dea927c9537ee6bce7"
+            },
+            {
+              "title": "メルセデスのキミ・アントネッリが8勝目！今シーズン3戦目の角田裕毅は14位【F1第14戦スペイングランプリ決勝結果】",
+              "url": "https://www.fnn.jp/articles/-/1113744"
+            },
+            {
+              "title": "スペインGPでアントネッリが今季8勝目！2位フェルスタッペン、序盤VSCで不運のノリスは3位…角田裕毅は序盤接触でダメージも粘りの14位｜F1",
+              "url": "https://www.dazn.com/ja-JP/news/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/2026-09-14-spain-f-f1/wfo96aswjs1j1rgknzej40bqw"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ファミマ クリスマス",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "今年のクリスマスもファミマでおトクにそろいマス！ 「おいしいのが、いちばん！ファミマのクリスマス」 9月16日（水）から予約受付開始 初登場「ピエール マルコリーニ」監修ケーキなど全66種をラインアップ",
+              "url": "https://www.family.co.jp/company/news_releases/2026/20260914_01.html"
+            },
+            {
+              "title": "BE:FIRSTがファミリーマートのクリスマスアンバサダーに2年連続で就任！メンバー監修の限定コラボケーキが2種類に",
+              "url": "https://www.thefirsttimes.jp/news/0000880922/"
+            },
+            {
+              "title": "『踊る大捜査線』“青島”織田裕二が14年ぶり大阪登場 駅前に5000人大歓声 関西弁ボケ→拳突き上げる",
+              "url": "https://www.oricon.co.jp/news/2479748/photo/10/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "近藤健介",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "KOBE CHIBEN・高校野球女子選抜＞3安打を許した福田（右から2人目）に「参りました」と頭を下げるイチロー氏（撮影・沢田 明徳）",
+              "url": "https://www.sponichi.co.jp/baseball/news/2026/09/14/gazo/20260914s10001000016000p.html"
+            },
+            {
+              "title": "【ソフトバンク】近藤健介２試合連続28号　27号の正木に並ばれた直後に突き放す貫禄の一発",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkansports/sports/f-bb-tp0-260913-202609130000970"
+            },
+            {
+              "title": "【動画】ソフトバンク正木智也27号 近藤健介28号",
+              "url": "https://www.nikkansports.com/baseball/news/202609130000821.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "田代 まさし",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "田代まさしさん 田中聖＆高知東生との３ショットに衝撃「穏やかなお顔」「清々しい」（スポーツ報知）",
+              "url": "https://news.yahoo.co.jp/articles/4cd74c63dfd3495b7ca16b489d0134611dd6a834"
+            },
+            {
+              "title": "「お互い頑張ろう！」エール交換も…田代まさし＆田中聖＆高知東生、依存症からの回復イベント3Sに反響",
+              "url": "https://article.auone.jp/1246bc60-5f1c-48f6-bab0-953aa51ef9ed"
+            },
+            {
+              "title": "「お互い頑張ろう！」エール交換も…田代まさし＆田中聖＆高知東生、依存症からの回復イベント3Sに反響｜概要｜ニュース",
+              "url": "https://pinzuba.news/articles/-/17863"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "爆発",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "「ガス充満」工場爆発で3人けが 東京・大田区（テレビ朝日系（ANN））",
+              "url": "https://news.yahoo.co.jp/articles/d0bc142c81c6ca7ec2b3889d7d0f4b49ec74fa42"
+            },
+            {
+              "title": "東京・大田区の金属加工工場が爆発 部品を加熱する作業中にガス充満か 3人がガラス片で手を切るなどケガ",
+              "url": "https://www.fnn.jp/articles/-/1113725"
+            },
+            {
+              "title": "東京都大田区の工場で爆発か、3人けがの情報 周辺住人「地響き」 [東京都]",
+              "url": "https://www.asahi.com/articles/ASV9G045SV9GUEFT00LM.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "中国 の 自動車 産業",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "なぜ中国車は「チャイナスピード」で走り続けるのか？ 430万台リコールが直撃！ EV覇権を巡る激戦の足元で何が起きているのか――中国政府が打ち出す「新ルール」とは（Merkmal） | 自動車情報・ニュース",
+              "url": "https://carview.yahoo.co.jp/news/detail/30019a526bc953f3c032ba3fe7c8bdb3b88ed2a3/"
+            },
+            {
+              "title": "年末に260万台が寿命…中国製NEVを襲う「バッテリー劣化問題」",
+              "url": "https://gendai.media/articles/-/170973?page=2"
+            },
+            {
+              "title": "中国EV、電池「大量退役」時代へ 2030年までに100万トン、回収ルールを大転換",
+              "url": "https://36kr.jp/501131/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "池上彰",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 8,
+          "keyword": "箕輪厚介",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "静岡市 天気",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "湿った空気で雨や曇り…ぐずついた天気は19日（土）まで 静岡地方気象台（テレビ静岡NEWS）",
+              "url": "https://news.yahoo.co.jp/articles/df1b97ec96f03054ac58e5627b77299cf43d071b"
+            },
+            {
+              "title": "牧之原市の海上照らす１１７３発 「竜巻災害」復旧に祈りも さがらサンビーチで花火大会",
+              "url": "https://news.at-s.com/article/2055180"
+            },
+            {
+              "title": "Tシャツが乾く日はいつやってくる？ 異例の長雨でコインランドリー人気 稼働率が前月比3倍となった店舗も＝静岡市",
+              "url": "https://newsdig.tbs.co.jp/articles/-/2939729"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "予測",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【警報級大雨おそれ】関東甲信・近畿・東海 で「警報級の可能性」【１時間ごと雨シミュレーション１６日（水）まで】気象庁予想天気図",
+              "url": "https://newsdig.tbs.co.jp/articles/mbc/2941408?page=2"
+            },
+            {
+              "title": "線状降水帯「発生予測」に壁 スパコン駆使も的中3割台 予測が難しい背景とは（テレビ朝日系（ANN））",
+              "url": "https://news.yahoo.co.jp/articles/dede1e7f7da6cfefea18f9c904bcefeab7aa632a"
+            },
+            {
+              "title": "「現在の技術の限界」 頻発する豪雨、線状降水帯の予測難しく",
+              "url": "https://mainichi.jp/articles/20260911/k00/00m/040/246000c"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 41,
+          "interest_max": 100,
+          "interest_latest": 35,
+          "rank": 1
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 37,
+          "interest_max": 100,
+          "interest_latest": 42,
+          "rank": 2
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 19,
+          "interest_max": 69,
+          "interest_latest": 18,
+          "rank": 3
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 8,
+          "interest_max": 100,
+          "interest_latest": 7,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 4,
+          "interest_max": 16,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 2,
+          "interest_max": 18,
+          "interest_latest": 4,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-09-14T03:49:42.346277+00:00"
+}
