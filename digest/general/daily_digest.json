@@ -2,9 +2,9 @@
   "date": "2026-09-14",
   "mode": "general",
   "compared_to": "2026-09-13",
-  "total_keywords_today": 457,
+  "total_keywords_today": 446,
   "total_keywords_yesterday": 473,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -19,15 +19,15 @@
       "sample_note": "오늘 18건, 어제 17건 기준"
     },
     {
-      "keyword": "#tiktok",
-      "change": "+9%",
-      "today_count": 12,
+      "keyword": "#shorts",
+      "change": "+18%",
+      "today_count": 13,
       "yesterday_count": 11,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 12건, 어제 11건 기준"
+      "sample_note": "오늘 13건, 어제 11건 기준"
     },
     {
       "keyword": "#viral",
@@ -39,17 +39,6 @@
         "youtube"
       ],
       "sample_note": "오늘 12건, 어제 10건 기준"
-    },
-    {
-      "keyword": "#shorts",
-      "change": "+9%",
-      "today_count": 12,
-      "yesterday_count": 11,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 12건, 어제 11건 기준"
     },
     {
       "keyword": "바람막이",
@@ -162,17 +151,6 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "#challenge",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
       "keyword": "#viralshorts",
       "change": "+33%",
       "today_count": 4,
@@ -217,7 +195,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "challenge",
+      "keyword": "september",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -226,20 +204,42 @@
         "youtube"
       ],
       "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "comedy",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "생활꿀팁",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "trend",
-      "change": "-7%",
-      "today_count": 25,
+      "change": "-11%",
+      "today_count": 24,
       "yesterday_count": 27,
       "confidence": "high"
     },
     {
       "keyword": "dance",
-      "change": "-17%",
-      "today_count": 10,
+      "change": "-8%",
+      "today_count": 11,
       "yesterday_count": 12,
       "confidence": "high"
     },
@@ -265,6 +265,13 @@
       "confidence": "medium"
     },
     {
+      "keyword": "tips",
+      "change": "-17%",
+      "today_count": 5,
+      "yesterday_count": 6,
+      "confidence": "medium"
+    },
+    {
       "keyword": "hacks",
       "change": "-33%",
       "today_count": 4,
@@ -273,8 +280,8 @@
     },
     {
       "keyword": "daily",
-      "change": "-20%",
-      "today_count": 4,
+      "change": "-40%",
+      "today_count": 3,
       "yesterday_count": 5,
       "confidence": "low"
     },
@@ -287,13 +294,6 @@
     },
     {
       "keyword": "요즘",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#39;m",
       "change": "-25%",
       "today_count": 3,
       "yesterday_count": 4,
