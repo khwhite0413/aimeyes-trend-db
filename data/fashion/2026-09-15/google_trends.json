@@ -1,0 +1,937 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "유학생",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "또 법원에 막힌 트럼프… 유학생 비자 제한 시행 하루 전 제동",
+              "url": "https://www.chosun.com/international/international_general/2026/09/15/JXWU3MCDJFE5VI6YLKKE3WR53I/"
+            },
+            {
+              "title": "미국서 공부하던 딸 강제 귀국할 뻔…유학생 발칵 뒤집은 트럼프 규정, 결국",
+              "url": "https://www.sedaily.com/article/20091058"
+            },
+            {
+              "title": "트럼프 ‘유학생 체류 4년 제한’ 제동 걸려…미 법원 “시행 중단”",
+              "url": "https://www.hani.co.kr/arti/international/america/1277841.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "스포츠조선",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "25세 日 스타 AV 배우, 사망…전남친 폭행설 제기",
+              "url": "https://www.newsis.com/view/NISX20260914_0003789283"
+            },
+            {
+              "title": "25세 日 AV 배우 쿠라키 하나, 전남친 자택서 사망..폭행·협박 의혹 확산 [Oh! 재팬]",
+              "url": "https://www.koreadaily.com/article/20260914025014349"
+            },
+            {
+              "title": "日 AV 배우, 전 남친 집서 숨진 채 발견… 폭행·협박 의혹",
+              "url": "https://view.asiae.co.kr/article/2026091418144158642"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "렉서스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "중국産 아닌데… 렉서스도 전기차 가격 경쟁 가세",
+              "url": "https://www.chosun.com/economy/auto/2026/09/15/IP44WFH4LRC23BGNFVTU45MICE/"
+            },
+            {
+              "title": "렉서스코리아, '올 뉴 ES' 사전 계약 실시",
+              "url": "https://v.daum.net/v/uYCu90Hlsa"
+            },
+            {
+              "title": "\"HEV에 BEV까지 갖췄다\"..렉서스코리아 '올 뉴 ES' 사전계약 시작 - 머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/09/14/2026091409531029208"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "황유민",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "이다연 vs 이민지, KLPGA 하나금융그룹 챔피언십에서 리턴매치",
+              "url": "https://www.yna.co.kr/view/AKR20260915040200007"
+            },
+            {
+              "title": "KLPGA vs LPGA ‘미니 대항전’ 성사…서교림·김민솔의 기세냐, 리디아 고·이민지의 명성이냐",
+              "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000012100&code=61161511&sid1=photo"
+            },
+            {
+              "title": "황유민, KLPGA 하나금융그룹 대회 출격…박현경 이번주에는 나올까?",
+              "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021885"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "서영교",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "김승원, ‘신약 로비’ 의혹에 “제 피의사실 말하면 피의사실공표죄”",
+              "url": "https://www.chosun.com/politics/assembly/2026/09/15/DV3IOQKTFBE7VBJDCODDHQIZJQ/"
+            },
+            {
+              "title": "“돈벌이 절대 아니다”…김승원, ‘가족 조합’ 특혜 논란에 울먹",
+              "url": "https://v.daum.net/v/20260915123510857"
+            },
+            {
+              "title": "여야, 김승원 청문회 초반부터 “주진우는 악마” vs “사과하라”",
+              "url": "https://www.donga.com/news/Politics/article/all/20260915/134670133/1"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "김혜경",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "김혜경 여사, 우즈벡 영부인과 경복궁서 친교…“문화·교육·기술 교류 깊어지길”",
+              "url": "https://v.daum.net/v/20260914212215119"
+            },
+            {
+              "title": "김혜경 여사, 우즈베키스탄 대통령 부인과의 친교 일정",
+              "url": "https://www.president.go.kr/photos/first-lady/uFxp1oOc"
+            },
+            {
+              "title": "金여사, 우즈베크 영부인과 고궁박물관 관람…\"교류 깊어지길\"",
+              "url": "https://www.yna.co.kr/view/AKR20260914168700001"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "김기수",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "가위질 10시간 하고 이 몸?…51세 ‘수쌤’ 김기수, 밀착핏 꽉 채운 애플힙",
+              "url": "https://www.sportsseoul.com/news/read/1635094"
+            },
+            {
+              "title": "‘미용실 원장’ 된 김기수, 비주얼부터 분위기까지 확 달라진 근황",
+              "url": "https://www.insight.co.kr/news/573529"
+            },
+            {
+              "title": "김기수라고? 못 알아보겠네..얼굴 이어 반전 뒷모습 “관리는 중요한 것”",
+              "url": "https://v.daum.net/v/Pb48elwahA"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "김태규",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "오늘도 고함치는 김태규 의원 [TF사진관]",
+              "url": "https://news.tf.co.kr/read/photomovie/2366050.htm"
+            },
+            {
+              "title": "김승원, ‘신약 로비’ 의혹에 “제 피의사실 말하면 피의사실공표죄”",
+              "url": "https://www.chosun.com/politics/assembly/2026/09/15/DV3IOQKTFBE7VBJDCODDHQIZJQ/"
+            },
+            {
+              "title": "[포토] 김승원 인사청문회에 쏠린 관심",
+              "url": "https://www.etnews.com/20260915000206"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "백종원",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "‘당류 0g’ 백종원 ‘연돈 카레’ 당분 함량 허위 표기, 행정처분",
+              "url": "https://biz.heraldcorp.com/article/10873801"
+            },
+            {
+              "title": "더본코리아, '연돈카레 당류 0g' 부적합에 \"출시 땐 0.3g…양파 따라 변동\"",
+              "url": "https://www.ngetnews.com/news/articleView.html?idxno=553311"
+            },
+            {
+              "title": "[단독] “설탕 넣고 당류는 0g”…백종원 연돈카레 표시 놓고 논란",
+              "url": "https://wemakenews.co.kr/news/view.php?no=26307"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "홍진영",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "홍진영 친언니, 의미심장 글 \"선 넘으면 호의도 끝\"",
+              "url": "https://www.newsis.com/view/NISX20260914_0003788555"
+            },
+            {
+              "title": "“선 넘는 순간 호의도 끝”…홍진영 친언니 홍선영, 의미심장 경고",
+              "url": "https://www.mk.co.kr/news/hot-issues/12151670"
+            },
+            {
+              "title": "홍진영 친언니, 경고장 날렸다...\"선 넘는 순간 호의 끝난다\"",
+              "url": "https://v.daum.net/v/20260914070509667?f=p"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 62,
+          "interest_max": 100,
+          "interest_latest": 73,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 7,
+          "interest_max": 31,
+          "interest_latest": 20,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 16,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 78,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 25,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 23,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 24,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 40,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "mexico independence day",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "80th annual East L.A. Mexican Independence Day Parade and Festival held Sunday",
+              "url": "https://ktla.com/news/local-news/80th-annual-east-l-a-mexican-independence-day-parade-and-festival-held-sunday/"
+            },
+            {
+              "title": "East LA turns red, white, and green for historic 80th Mexican Independence Day parade",
+              "url": "https://www.yahoo.com/lifestyle/articles/east-la-turns-red-white-190733053.html"
+            },
+            {
+              "title": "Los Angeles is shutting down more than 1.5 miles of streets this weekend ahead of the Mexican Independence Day Parade",
+              "url": "https://secretlosangeles.com/mexican-independence-day-parade-street-closures/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "widows bay season 2",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Widow's Bay Season 2 Filming Window Revealed By Fan-Favorite Star",
+              "url": "https://screenrant.com/widows-bay-season-2-filming-march-2027-kate-o-flynn-response/"
+            },
+            {
+              "title": "‘Widow’s Bay’ Season 2 Is Officially Happening—Here’s When It Could Premiere",
+              "url": "https://www.cosmopolitan.com/entertainment/tv/a73726611/widows-bay-season-2-news-cast-premiere-date/"
+            },
+            {
+              "title": "Everything Widow’s Bay Star Matthew Rhys & More Have Revealed About Season 2",
+              "url": "https://www.eonline.com/news/1435034/widows-bay-season-2-details-what-matthew-rhys-more-stars-have-revealed"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "cal raleigh",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "What MLB scouts really say happened to Cal Raleigh, Paul Skenes this season",
+              "url": "https://fansided.com/mlb/what-mlb-scouts-really-say-happened-cal-raleigh-paul-skenes-this-season"
+            },
+            {
+              "title": "Field View: Cal Raleigh's three-run homer",
+              "url": "https://www.mlb.com/mariners/video/field-view-cal-raleigh-s-three-run-homer"
+            },
+            {
+              "title": "The distance behind Cal Raleigh's home run",
+              "url": "https://www.mlb.com/mariners/video/the-distance-behind-cal-raleigh-s-home-run-x4672"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "nobody wants this",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "‘Nobody Wants This’ Season 3 Sets Fall Release Date As First Look Teases Creator Erin Foster Among Guests",
+              "url": "https://deadline.com/2026/09/nobody-wants-this-season-3-release-date-first-look-photos-1237072856/"
+            },
+            {
+              "title": "Season 3 of ‘Nobody Wants This’ Has a Release Date",
+              "url": "https://www.kveller.com/season-3-of-nobody-wants-this-has-a-release-date/"
+            },
+            {
+              "title": "Nobody Wants This Season 3 Sets October Premiere Date — Kristen Bell and Adam Brody Are Moving In Together",
+              "url": "https://seat42f.com/nobody-wants-this-season-3-release-date/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "kansas city kansas",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Two suspects arrested, charged after two people killed in downtown KCK shooting",
+              "url": "https://fox4kc.com/news/two-suspects-arrested-after-two-people-killed-in-downtown-kck-shooting/"
+            },
+            {
+              "title": "Kansas City man charged with murder in shooting near KCK police headquarters",
+              "url": "https://www.yahoo.com/news/us/articles/kansas-city-man-charged-murder-224625764.html"
+            },
+            {
+              "title": "KCKPD: 2 dead, another hurt in shooting",
+              "url": "https://www.kmbc.com/article/kckpd-2-dead-another-hurt-in-shooting/73701992"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "bungie marathon",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Marathon Development Update - Nightfall Refresh and Symbiosis",
+              "url": "https://www.bungie.net/7/en/News/Article/nightfallrefreshandsymbiosis"
+            },
+            {
+              "title": "Marathon Makes Major Changes Amidst Bungie Struggles, Delays Next Big Update to December",
+              "url": "https://www.ign.com/articles/marathon-delays-next-major-update-puts-focus-on-pve-and-moves-away-from-seasonal-content-amidst-bungie-struggles"
+            },
+            {
+              "title": "Marathon Looks Like Helldivers In First Peek At The Game's PVE Future: 'We Will Be Evolving Marathon Into A More Alien And Dynamic Survival Experience'",
+              "url": "https://kotaku.com/marathon-looks-like-helldivers-in-first-peak-at-the-games-pve-future-we-will-be-evolving-marathon-into-a-more-alien-and-dynamic-survival-experience-2000734337"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "woody harrelson",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Woody Harrelson To Play Wealthy American Expat In Freefall In Rick Alverson’s ‘Summer Of Roses’",
+              "url": "https://deadline.com/2026/09/woody-harrelson-to-star-summer-of-roses-rick-alverson-1237102000/"
+            },
+            {
+              "title": "Woody Harrelson Cast in New Movie Like Lost in Translation After Matthew McConaughey TV Show",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/woody-harrelson-cast-movie-lost-213106075.html"
+            },
+            {
+              "title": "'Summer Of Roses': Woody Harrelson & Caleb Landry Jones Star In Suspense Drama From Director Rick Alverson After Near-Decade Hiatus",
+              "url": "https://theplaylist.net/summer-of-roses-woody-harrelson-caleb-landry-jones-20260914/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "matthew mcconaughey",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Emmys Presenters: Matthew McConaughey, Shailene Woodley and 'Baywatch' Reboot Stars Join Lineup",
+              "url": "https://variety.com/2026/tv/news/emmys-matthew-mcconaughey-shailene-woodley-baywatch-1236860563/"
+            },
+            {
+              "title": "More Stars Join Presenter Lineup for the 78th Emmy Awards, Sept. 14 on NBC and Peacock",
+              "url": "https://www.televisionacademy.com/features/news/awards-news/260913-78th-emmys-presenters"
+            },
+            {
+              "title": "Emmys 2026 full ceremony rundown: When each category will be announced and who’s presenting",
+              "url": "https://www.goldderby.com/tv/2026/emmys-2026-full-ceremony-rundown-presenters-performances/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "jonathon cooper",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Jonathon Cooper absence gives Chiefs welcome relief amid tackle uncertainty",
+              "url": "https://arrowheadaddict.com/jonathon-cooper-absence-gives-chiefs-welcome-relief-amid-tackle-uncertainty"
+            },
+            {
+              "title": "Jonah Elliss Will Have a Breakout Year for the Denver Broncos",
+              "url": "https://sports.yahoo.com/articles/jonah-elliss-breakout-denver-broncos-202926824.html"
+            },
+            {
+              "title": "Why isn’t Jonathon Cooper playing today for Broncos vs Chiefs in 2026 NFL Week 1 MNF?",
+              "url": "https://bolavip.com/en/nfl/why-isnt-jonathon-cooper-playing-today-for-broncos-vs-chiefs-in-2026-nfl-week-1-mnf"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "zach allen",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "What HUGE stat does Broncos DT Zach Allen rank second all time behind future Hall of Famer JJ Watt?",
+              "url": "https://denversports.com/watch/what-huge-stat-does-broncos-dt-zach-allen-rank-second-all-time-behind-future-hall-of-famer-jj-watt/01a092e0-fb08-8008-c307-23f11d21f017"
+            },
+            {
+              "title": "Watching tape with Zach Allen!",
+              "url": "https://www.milehighreport.com/post/5KX7t_AgEG2Y"
+            },
+            {
+              "title": "Inside the Tape With Zach Allen, the NFL’s Most Disruptive Defensive Tackle",
+              "url": "https://athlonsports.com/nfl/zach-allen-broncos-film-study-defensive-tackle"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 43,
+          "interest_max": 89,
+          "interest_latest": 69,
+          "rank": 1
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 34,
+          "interest_max": 100,
+          "interest_latest": 37,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 26,
+          "interest_max": 100,
+          "interest_latest": 63,
+          "rank": 3
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 18,
+          "interest_max": 100,
+          "interest_latest": 33,
+          "rank": 4
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 8,
+          "interest_max": 35,
+          "interest_latest": 8,
+          "rank": 5
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 6,
+          "interest_max": 17,
+          "interest_latest": 11,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 5,
+          "interest_max": 24,
+          "interest_latest": 11,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 2,
+          "interest_max": 20,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 9,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "nordstrom",
+          "value": "200"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury belt",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "strathberry bag",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "the row bags",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "loewe",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "cult of coquette",
+          "value": "60"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "渋野日向子",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "渋野日向子、8打差を逆転した「23パット」の記憶 4戦連続予選落ちから復調なるか",
+              "url": "https://news.yahoo.co.jp/articles/ef999485b748419ab7dfaec41e221cf3bd21479c"
+            },
+            {
+              "title": "豪華女子プロ軍団とガチ対決！ ～第５７回住友生命Ｖｉｔａｌｉｔｙレディス東海クラシック～",
+              "url": "https://tver.jp/episodes/ephz8tsrd7"
+            },
+            {
+              "title": "【神谷桃歌プロ】近づく第57回住友生命Vitalityレディス 東海クラシック",
+              "url": "https://locipo.jp/creative/05866296-ad68-43ac-b96e-6137bf63bb58"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "東京ドーム",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "citen ちいかわ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "アニメ「ちいかわ」ランチグッズとお風呂アイテムが発売！やさしい水色、手をつないだちいかわたちの可愛いデザイン（インサイド）",
+              "url": "https://news.yahoo.co.jp/articles/1c76ede101fccfe90729c4cb75ca32fbbc471a88"
+            },
+            {
+              "title": "「ちいかわ×CITEN」スペシャルコレクション　6アイテムがきょう15日から順次販売【アイテム全カット】",
+              "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2480451"
+            },
+            {
+              "title": "サントリー×「映画ちいかわ」コラボ第2弾開始！ちいかわボトルデザインの「グラス型ジップバッグ」を数量限定で配布 1枚目の写真・画像",
+              "url": "https://www.inside-games.jp/article/img/2026/09/14/187687/1777159.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "重岡 映画",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "重岡大毅、主演映画の初日興収は「推定1600万円」結婚騒動で浮き彫りになった深刻なファン離れ（SmartFLASH）",
+              "url": "https://news.yahoo.co.jp/articles/cbe89b3affd78d9776a4237afd1b27c265df7095"
+            },
+            {
+              "title": "WEST.パーソナリティラジオ「bayじゃないか」内容変更で放送 メンバー2人が脱退発表・グループの今後は協議中",
+              "url": "https://mdpr.jp/news/detail/4843508"
+            },
+            {
+              "title": "主演映画低迷の重岡大毅にファン冷ややか「変ですよね、おれ」自虐気味に明かしていた“秘密主義”が裏目か",
+              "url": "https://article.auone.jp/d4b92573-7cda-4a80-b3a6-a68b45e08424"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "夏帆",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "夏帆が結婚 お相手は甫木元空氏",
+              "url": "https://news.yahoo.co.jp/pickup/6595355"
+            },
+            {
+              "title": "夏帆、結婚を発表　お相手は映画監督・音楽家・小説家の甫木元空氏　「これからは家族として」メッセージつづる【全文】",
+              "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2480450"
+            },
+            {
+              "title": "夏帆、結婚発表 お相手は映画監督",
+              "url": "https://mdpr.jp/news/detail/4844600"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "徳島 天気",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【動画】15日は雨の一日 降り方に注意 佐々木予報士の天気予報（14日：19:00）",
+              "url": "https://tver.jp/episodes/eprxy4ukp8"
+            },
+            {
+              "title": "【松山市】9/15 最高28℃、朝は雨、昼間は雨が残る予想【朝版】",
+              "url": "https://news.yahoo.co.jp/articles/82c7c4d0e2f44ef8d1b05f379850ca69a2d74420"
+            },
+            {
+              "title": "【蓬莱さんのお天気】あす15日は1日雨、落雷や突風にも注意 今週もくもりや雨、最高気温30℃の日が続く",
+              "url": "https://news.ntv.co.jp/n/ytv/category/weather/ytb66aab0dc2d24d46b49a458b9a06f1b7"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "ジョアンナ・ヴィエトリク",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "競技中に失禁も、1時間走り抜く…ハイロックス優勝者「勝ちは勝ち」＝中国（中央日報日本語版）",
+              "url": "https://news.yahoo.co.jp/articles/3c1a42b8f4023b8376a42c9fd6d532a07c92201b"
+            },
+            {
+              "title": "【写真】中国・北京で開かれた「ハイロックス」大会で、便失禁を起こした後も競技を続けるジョアンナ・ヴィエトリク",
+              "url": "https://japanese.joins.com/JArticle/355063"
+            },
+            {
+              "title": "22歳女子選手、便失禁も競技続行…「トラウマになる」と批判された運営は釈明も謝罪するはめに",
+              "url": "https://topics.smt.docomo.ne.jp/article/qoly/sports/qoly-1f0f29ba08d1ab3194852ebc8047a41778c8c8e8?fm=latestnews"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "エドガルド エンリケス",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "火曜朝7時、突如舞い込んだドジャース激震ニュース「マジか」「終わった…」 24歳剛腕の悲報に騒然（THE ANSWER）",
+              "url": "https://news.yahoo.co.jp/articles/dee919ffeb1646f9979db47a93b57d915d44d229"
+            },
+            {
+              "title": "MLB　ディアスPSメンバー外の可能性…ロバーツ監督、切実「何らかで証明して」…復帰戦で1回持たず5失点KO　24歳剛腕もIL入り",
+              "url": "https://topics.smt.docomo.ne.jp/article/sanspo/sports/sanspo-_sports_baseball_mlb_BILD6OWGNJLXZGTNXEXNADBHVQ"
+            },
+            {
+              "title": "ドジャース守護神ディアスはマイナーで炎上、復帰遅れ「もっといい投球を」ロバーツ監督",
+              "url": "https://www.nikkansports.com/baseball/mlb/news/202609150000151.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ウェイモ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "日本で27年に無人ロボタクシー 米ウェイモ、普及へ商慣習と共存模索",
+              "url": "https://www.nikkei.com/article/DGXZQOUC140CR0U6A910C2000000/"
+            },
+            {
+              "title": "Waymoの無人タクシー、東京で2027年商用化へ（ケータイ Watch）",
+              "url": "https://news.yahoo.co.jp/articles/195651c3109c6968fc70f8e9e53e17d374794e76"
+            },
+            {
+              "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",
+              "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "救援投手",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "救援投手ながら毎回奪三振を記録した投手は？【プロ野球記録企画】（デイリースポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/e9ede5a206b2474df31edb779084dc4bcb4f253f"
+            },
+            {
+              "title": "救援投手ながら毎回奪三振を記録した投手は？【プロ野球記録企画】 (2026年9月14日掲載)",
+              "url": "https://news.livedoor.com/topics/detail/32316092/"
+            },
+            {
+              "title": "救援投手ながら毎回奪三振を記録した投手は？【プロ野球記録企画】",
+              "url": "https://portal.uqmobile.jp/detail/1/6/12/10244_12_r_20260914_1789329891521448"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 40,
+          "interest_max": 100,
+          "interest_latest": 44,
+          "rank": 1
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 36,
+          "interest_max": 100,
+          "interest_latest": 19,
+          "rank": 2
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 19,
+          "interest_max": 91,
+          "interest_latest": 31,
+          "rank": 3
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 8,
+          "interest_max": 100,
+          "interest_latest": 8,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 4,
+          "interest_max": 23,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 3,
+          "interest_max": 22,
+          "interest_latest": 3,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 7,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 16,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 66,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 17,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "ストリート系",
+          "query": "エクストラ ラージ",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "ストリート系",
+          "query": "カーハート",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "ストリート系",
+          "query": "秋 服 ストリート 系",
+          "value": "70"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-09-15T03:49:58.561649+00:00"
+}

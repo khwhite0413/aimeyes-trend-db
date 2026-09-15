@@ -1,8 +1,8 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-09-08",
-    "to": "2026-09-14"
+    "from": "2026-09-09",
+    "to": "2026-09-15"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -10,30 +10,38 @@
     {
       "keyword": "바람막이",
       "growth": "+50%",
-      "total_mentions": 68
-    },
-    {
-      "keyword": "#fashion",
-      "growth": "+29%",
-      "total_mentions": 59
+      "total_mentions": 72
     },
     {
       "keyword": "스웨이드자켓",
       "growth": "+43%",
-      "total_mentions": 58
+      "total_mentions": 61
+    },
+    {
+      "keyword": "outfit",
+      "growth": "+33%",
+      "total_mentions": 53
     },
     {
       "keyword": "트위드자켓",
-      "growth": "+125%",
-      "total_mentions": 47
+      "growth": "+100%",
+      "total_mentions": 53
     },
     {
-      "keyword": "haul",
-      "growth": "+50%",
-      "total_mentions": 41
+      "keyword": "여성가디건",
+      "growth": "+150%",
+      "total_mentions": 48
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "유니클로",
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "ai",
       "platforms": [
@@ -79,11 +87,11 @@
     "원피스",
     "블라우스",
     "에고이스트",
-    "올리비아로렌",
     "바람막이",
+    "올리비아로렌",
     "ootd",
-    "가을",
-    "#shorts",
-    "#fashion"
+    "스웨이드자켓",
+    "#fashion",
+    "#shorts"
   ]
 }
