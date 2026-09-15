@@ -4,9 +4,20 @@
   "compared_to": "2026-09-14",
   "total_keywords_today": 480,
   "total_keywords_yesterday": 490,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
+    {
+      "keyword": "ootd",
+      "change": "+10%",
+      "today_count": 11,
+      "yesterday_count": 10,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 11건, 어제 10건 기준"
+    },
     {
       "keyword": "#shorts",
       "change": "+11%",
@@ -63,7 +74,7 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
-      "keyword": "summer",
+      "keyword": "코디",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -74,26 +85,15 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "스트릿",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
+      "keyword": "summer",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
-      "keyword": "y2k",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
       "keyword": "street",
@@ -162,13 +162,13 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "유니클로",
+      "keyword": "패션",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
-        "x_twitter",
+        "google_trends",
         "youtube"
       ],
       "sample_note": "오늘 2건, 어제 1건 기준"
@@ -207,42 +207,35 @@
       "sample_note": "오늘 2건 (신규)"
     },
     {
-      "keyword": "쇼미더머니",
-      "change": "NEW",
+      "keyword": "your",
+      "change": "+100%",
       "today_count": 2,
-      "yesterday_count": 0,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건 (신규)"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "여름옷",
-      "change": "NEW",
+      "keyword": "스트릿",
+      "change": "+100%",
       "today_count": 2,
-      "yesterday_count": 0,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건 (신규)"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "fashion",
-      "change": "-18%",
-      "today_count": 9,
+      "change": "-9%",
+      "today_count": 10,
       "yesterday_count": 11,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "#ootd",
-      "change": "-10%",
-      "today_count": 9,
-      "yesterday_count": 10,
-      "confidence": "medium"
+      "confidence": "high"
     },
     {
       "keyword": "#fashion",
@@ -257,13 +250,6 @@
       "today_count": 6,
       "yesterday_count": 7,
       "confidence": "medium"
-    },
-    {
-      "keyword": "데일리룩",
-      "change": "-33%",
-      "today_count": 4,
-      "yesterday_count": 6,
-      "confidence": "low"
     },
     {
       "keyword": "가을코디",
@@ -287,27 +273,44 @@
       "confidence": "low"
     },
     {
-      "keyword": "#데일리룩",
+      "keyword": "#haul",
       "change": "-40%",
       "today_count": 3,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "#haul",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
+      "keyword": "입는",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "모조에스핀",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "이렇게",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
       "confidence": "low"
     }
   ],
-  "new_entries": [],
+  "new_entries": [
+    "#outfitinspo",
+    "nyfw"
+  ],
   "cross_platform_hot": [
     {
-      "keyword": "유니클로",
+      "keyword": "패션",
       "platform_count": 2,
       "platforms": [
-        "x_twitter",
+        "google_trends",
         "youtube"
       ],
       "total_count": 2

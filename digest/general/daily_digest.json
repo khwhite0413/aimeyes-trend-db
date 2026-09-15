@@ -2,32 +2,32 @@
   "date": "2026-09-15",
   "mode": "general",
   "compared_to": "2026-09-14",
-  "total_keywords_today": 500,
+  "total_keywords_today": 509,
   "total_keywords_yesterday": 446,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "#shorts",
-      "change": "+38%",
-      "today_count": 18,
+      "change": "+31%",
+      "today_count": 17,
       "yesterday_count": 13,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 18건, 어제 13건 기준"
+      "sample_note": "오늘 17건, 어제 13건 기준"
     },
     {
       "keyword": "#viral",
-      "change": "+17%",
-      "today_count": 14,
+      "change": "+8%",
+      "today_count": 13,
       "yesterday_count": 12,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 14건, 어제 12건 기준"
+      "sample_note": "오늘 13건, 어제 12건 기준"
     },
     {
       "keyword": "트위드자켓",
@@ -173,7 +173,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "#youtube",
+      "keyword": "youtubeshorts",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -184,7 +184,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "youtubeshorts",
+      "keyword": "love",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -206,7 +206,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "kalyani",
+      "keyword": "digidi",
       "change": "NEW",
       "today_count": 2,
       "yesterday_count": 0,
@@ -217,22 +217,22 @@
       "sample_note": "오늘 2건 (신규)"
     },
     {
-      "keyword": "digidi",
-      "change": "NEW",
+      "keyword": "useful",
+      "change": "+100%",
       "today_count": 2,
-      "yesterday_count": 0,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건 (신규)"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "trend",
-      "change": "-33%",
-      "today_count": 16,
+      "change": "-25%",
+      "today_count": 18,
       "yesterday_count": 24,
       "confidence": "high"
     },
@@ -244,6 +244,13 @@
       "confidence": "high"
     },
     {
+      "keyword": "dance",
+      "change": "-18%",
+      "today_count": 9,
+      "yesterday_count": 11,
+      "confidence": "medium"
+    },
+    {
       "keyword": "#tiktok",
       "change": "-27%",
       "today_count": 8,
@@ -252,50 +259,43 @@
     },
     {
       "keyword": "#dance",
-      "change": "-40%",
-      "today_count": 6,
+      "change": "-50%",
+      "today_count": 5,
       "yesterday_count": 10,
       "confidence": "medium"
     },
     {
       "keyword": "#viralvideo",
-      "change": "-57%",
-      "today_count": 3,
+      "change": "-43%",
+      "today_count": 4,
       "yesterday_count": 7,
       "confidence": "low"
     },
     {
       "keyword": "#trend",
+      "change": "-17%",
+      "today_count": 5,
+      "yesterday_count": 6,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "#lyrics",
       "change": "-33%",
       "today_count": 4,
       "yesterday_count": 6,
       "confidence": "low"
     },
     {
-      "keyword": "#lyrics",
-      "change": "-50%",
-      "today_count": 3,
-      "yesterday_count": 6,
-      "confidence": "low"
-    },
-    {
       "keyword": "lyrics",
-      "change": "-50%",
-      "today_count": 3,
+      "change": "-33%",
+      "today_count": 4,
       "yesterday_count": 6,
       "confidence": "low"
     },
     {
       "keyword": "#edit",
-      "change": "-60%",
-      "today_count": 2,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "edit",
-      "change": "-60%",
-      "today_count": 2,
+      "change": "-40%",
+      "today_count": 3,
       "yesterday_count": 5,
       "confidence": "low"
     }
