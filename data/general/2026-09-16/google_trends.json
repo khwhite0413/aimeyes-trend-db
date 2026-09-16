@@ -1,0 +1,720 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "미연",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "[단독] 아이들 미연 ‘전도사’ 의료법 위반 의혹 결국 경찰로",
+              "url": "https://sports.khan.co.kr/article/202609160928003"
+            },
+            {
+              "title": "아이들 미연, 내시경 영상 의료법 위반 의혹…\"경찰 수사 의뢰\"",
+              "url": "https://www.hankyung.com/article/202609167934H"
+            },
+            {
+              "title": "女아이돌 적나라한 ‘내시경 삽입’ 모습에 ‘발칵’…‘130만뷰’ 대박 났는데, 무슨 일",
+              "url": "https://www.twig24.com/news/world/2026/09/09/20260909500009"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "아시안게임 농구",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "우승까지 2승 남았다! 농구 대표팀, 요르단에 대승 거두고 4강행",
+              "url": "https://v.daum.net/v/20260916115637712"
+            },
+            {
+              "title": "이현중 28점…한국 남자 농구, ‘중동 강호’ 요르단 대파하고 2026 아시안게임 준결승 선착",
+              "url": "https://www.donga.com/news/Sports/article/all/20260916/134679641/1"
+            },
+            {
+              "title": "작전 지시하는 마줄스 감독",
+              "url": "https://www.news1.kr/photos/8108921"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "리그 오브 레전드",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "리그 오브 레전드 26.18 패치 노트",
+              "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-18-notes/"
+            },
+            {
+              "title": "라이엇 '리그오브레전드', 팀 보이스 추가와 음악 테마 아수라장 예고",
+              "url": "https://v.daum.net/v/7hs4z9HldS"
+            },
+            {
+              "title": "‘LoL’ 시즌3 액트2에 팀 음성 채팅 확대, 명예 낮으면 발언 제한",
+              "url": "https://www.ilovepcbang.com/news/articleView.html?idxno=201596"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "챗",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "질문 하나에 지메일 새어 나갔다... 챗GPT 계정 사이에 뚫린 숨은 통로",
+              "url": "https://www.boannews.com/news/articleView.html?idxno=145740"
+            },
+            {
+              "title": "오픈AI '프로젝트 릴리', 계약직 수백명이 챗GPT 대화 채점…비밀 요청도 뚫렸다",
+              "url": "https://www.wikitree.co.kr/articles/1159490"
+            },
+            {
+              "title": "ChatGPT 취약점으로 인해 모르는 사람이 몰래 Gmail을 읽을 수 있습니다.",
+              "url": "https://www.vietnam.vn/ko/lo-hong-chatgpt-cho-phep-nguoi-la-doc-trom-gmail"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "사건반장",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "\"나 SBS 공채 개그맨이야!\" 술집서 잔 던지고 난동…술값도 안내 - 머니투데이",
+              "url": "https://www.mt.co.kr/society/2026/09/16/2026091523243391299"
+            },
+            {
+              "title": "“나 공채 개그맨이야”…주점서 맥주잔 던지고 술값도 안 냈다",
+              "url": "https://www.mk.co.kr/news/society/12153855"
+            },
+            {
+              "title": "‘사건반장’ SBS 공채 개그맨 주점 난동 사건 조명, 누리꾼 “그래서 누구?”",
+              "url": "https://sports.khan.co.kr/article/202609160854003"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "강남",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "이상화, 남편 강남 포켓몬 카드 감정가 '2억'에 '동공 지진'…\"돈 주고 산 것?\"",
+              "url": "https://v.daum.net/v/20260916114843363"
+            },
+            {
+              "title": "\"2억짜리를 200만원에?\"…이상화, `포켓몬 카드` 싹 팔자 무릎 꿇고 오열한 강남",
+              "url": "https://mydaily.co.kr/page/view/2026091607192267780"
+            },
+            {
+              "title": "이상화, 포켓몬 카드 감정가 2억에 분노…강남, 무릎 꿇었다",
+              "url": "https://www.donga.com/news/Entertainment/article/all/20260916/134678245/1"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "강백호",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "강백호 1루수 전격 선발! 문현빈-노시환 없는 한화, 한지윤-유민-박정현 선발 출전…선두 KT 잡고 3연패 끊을까 [오!쎈 대전] - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/09/15/202609151535776814O"
+            },
+            {
+              "title": "[스경X현장] 강백호, 한화 이적 후 첫 1루 수비 “김태연 손가락 부상 영향”",
+              "url": "https://sports.khan.co.kr/article/202609151641013"
+            },
+            {
+              "title": "[주간전망대] '연승 뚝 연패 늪' 속 주전 바뀌는 한화, 강팀 넘어 재도약하나",
+              "url": "https://v.daum.net/v/3C5mBZvmsV"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "사우디 아라비아",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "200조원 무기 사면 뭐하나… 싸울 의지 없는 사우디, 후티에 쩔쩔",
+              "url": "https://www.chosun.com/international/international_general/2026/09/16/GVBZJLUAXZAJNPK3R6AQAYIZSA/"
+            },
+            {
+              "title": "[영상] 후티, 사막전투 영상 공개하며 진격…다급한 빈살만, 이집트행",
+              "url": "https://www.yna.co.kr/view/AKR20260916087800704"
+            },
+            {
+              "title": "유엔 안보리, 바브엘만데브 해협 긴급회의 소집",
+              "url": "https://www.khan.co.kr/article/202609152120001"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "cj 채용",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "CJ그룹, 하반기 신입사원 공채 시작…채용 규모 40% 확대",
+              "url": "https://v.daum.net/v/20260916103242566"
+            },
+            {
+              "title": "CJ, 하반기 신입 공채 40% 확대…인재 확보·협력사 상생 ‘투트랙’",
+              "url": "https://www.viva100.com/article/20260916500517"
+            },
+            {
+              "title": "CJ 신입 공채 문 열렸다…13개 계열사, 30일까지 지원 접수",
+              "url": "https://zdnet.co.kr/view/?no=20260916105035"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "공무원",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "경찰, '양평 공무원 사망' 민중기 특검 등 강압수사 의혹 불송치",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6852154_36918.html"
+            },
+            {
+              "title": "경찰, '양평공무원 진술 강요 의혹' 김건희특검 수사관 불송치",
+              "url": "https://www.yna.co.kr/view/AKR20260916075000004"
+            },
+            {
+              "title": "경찰, ‘김건희 특검’ 양평군 공무원 강압 수사 의혹 불송치",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8664820"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "자기계발",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "winnie harlow",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Winnie Harlow’s Former L.A. Home Is Back on the Market for $4.5 Million",
+              "url": "https://robbreport.com/shelter/celebrity-homes/zerina-akers-winnie-harlow-house-los-angeles-tarzana-1238638274/"
+            },
+            {
+              "title": "Former L.A. Home of Supermodel Winnie Harlow Lists for $4.5 Million",
+              "url": "https://www.mansionglobal.com/articles/former-l-a-home-of-supermodel-winnie-harlow-lists-for-4-5-million-12b59b6c"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "grito de independencia",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Organizan festejos por el aniversario de la independencia mexicana en el zócalo",
+              "url": "https://www.telemundo.com/noticias/noticias-telemundo-mediodia/internacional/video/organizan-festejos-por-el-aniversario-de-la-independencia-mexicana-en-el-zocalo-tmvo13224055"
+            },
+            {
+              "title": "México celebra su Independencia: mira aquí en vivo la ceremonia desde el Zócalo de Ciudad de México",
+              "url": "https://www.univision.com/noticias/america-latina/grito-de-independencia-de-mexico-en-vivo-mira-aqui-la-celebracion-encabezada-por-claudia-sheinbaum"
+            },
+            {
+              "title": "“Llevarles un pedacito de su tierra”: Intocable habla de la realidad migrante y las canciones que duelen",
+              "url": "https://es-us.vida-estilo.yahoo.com/llevarles-pedacito-tierra-intocable-habla-150335637.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "astros standings",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Carlos Correa (ankle) won't rejoin Astros this season",
+              "url": "https://www.espn.com/mlb/story/_/id/49952241/carlos-correa-ankle-rejoin-astros-season"
+            },
+            {
+              "title": "Astros manager Joe Espada confirms SS Carlos Correa will not return this season from ankle injury",
+              "url": "https://sports.yahoo.com/mlb/article/astros-manager-joe-espada-confirms-ss-carlos-correa-will-not-return-this-season-from-ankle-injury-215334678.html"
+            },
+            {
+              "title": "Carlos Correa Will Not Return To Astros This Season",
+              "url": "https://www.mlbtraderumors.com/2026/09/carlos-correa-will-not-return-to-astros-this-season.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "arizona diamondbacks",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Diamondbacks Reveal Lineup for Critical Game 2 vs Marlins",
+              "url": "https://sports.yahoo.com/articles/diamondbacks-reveal-lineup-critical-game-230004391.html"
+            },
+            {
+              "title": "Diamondbacks 8-7 Marlins (15 Sep, 2026) Final Score",
+              "url": "https://www.espn.ph/mlb/game/_/gameId/401816941"
+            },
+            {
+              "title": "MLB: Miami Marlins at Arizona Diamondbacks",
+              "url": "https://www.reutersconnect.com/item/mlb-miami-marlins-at-arizona-diamondbacks/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4MjM2NDE"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "cole carrigg",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Yankees 8-1 Twins (Sep 15, 2026) Game Recap",
+              "url": "https://www.espn.com/mlb/recap/_/gameId/401816953"
+            },
+            {
+              "title": "No letdown for Yanks, who cruise past Twins a night after clincher",
+              "url": "https://www.mlb.com/news/max-fried-pitches-7-strong-innings-in-yankees-win-over-twins"
+            },
+            {
+              "title": "Outfielders shine in another strong offensive game in Minnesota",
+              "url": "https://www.pinstripealley.com/yankees-scores-standings/207697/yankees-twins-mlb-recap-spencer-jones-cody-bellinger-max-fried-emmanuel-rodriguez"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "target pokemon 30th anniversary",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Massive lines form for 30th anniversary Pokémon cards in S.A.",
+              "url": "https://www.mysanantonio.com/business/article/pokemon-30th-anniversary-22433689.php"
+            },
+            {
+              "title": "Target Will Be Unusually Strict For Pokémon's 30th Anniversary TCG Set Release",
+              "url": "https://www.polygon.com/target-pokemon-30th-anniversary-tcg-drop-limits-etb-new-rules/"
+            },
+            {
+              "title": "What Time Do Pokémon 30th Anniversary TCGs Drop at Target? How to Get Them Before They Sell Out",
+              "url": "https://www.sheknows.com/living/articles/1235076942/pokemon-30th-anniversary-tcg-target-september-2026/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "dermot mulroney",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Dermot Mulroney, Charlie Sheen, Emilio Estevez, Kiefer Sutherland Pose in ‘Young Guns’ Reunion",
+              "url": "https://people.com/dermot-mulroney-charlie-sheen-emilio-estevez-kiefer-sutherland-pose-in-young-guns-reunion-12122941"
+            },
+            {
+              "title": "Young Guns Cast Reunites in Dallas: See Rare Photos from the Epic Fan Event",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/young-guns-cast-reunites-dallas-144811094.html"
+            },
+            {
+              "title": "Brothers Emilio Estevez and Charlie Sheen take rare photo together with Young Guns costars",
+              "url": "https://ew.com/brothers-emilio-estevez-and-charlie-sheen-pose-together-in-rare-photo-12122958"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "peter thiel",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Tech billionaire Peter Thiel bringing Antichrist lectures to Nashville",
+              "url": "https://www.tennessean.com/story/news/local/davidson/2026/09/14/peter-thiel-nashville-secret-antichrist-lectures/91764838007/"
+            },
+            {
+              "title": "Peter Thiel takes his creepy Antichrist lectures to the Bible Belt",
+              "url": "https://www.ms.now/white-house/peter-thiel-antichrist-crypto-ai-obama-trump-flock-musk"
+            },
+            {
+              "title": "Peter Thiel Brings 'Closed-Door' Antichrist Lecture Series to Nashville After Vatican-Area Talks",
+              "url": "https://www.ibtimes.co.uk/peter-thiel-brings-closed-door-antichrist-lecture-series-nashville-after-vatican-area-talks-1819857"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "drake tour",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Drake Announces New Tour Is 'Obviously' Coming in 2027: Details",
+              "url": "https://www.complex.com/music/a/alex-ocho/drake-2027-tour-announcement-details"
+            },
+            {
+              "title": "Drake Confirms He Is Going On Tour Very Soon",
+              "url": "https://www.hotnewhiphop.com/1009854-drake-tour-2027"
+            },
+            {
+              "title": "Drake Premieres His Not-So-Short Film FOMO",
+              "url": "https://pitchfork.com/story/drake-premieres-short-film-fomo-fear-of-missing-out/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "rockies",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Padres win 8th straight, maintain lead over Arizona in Wild Card chase",
+              "url": "https://www.mlb.com/news/padres-outlast-rockies-to-win-8th-straight-game"
+            },
+            {
+              "title": "San Diego Padres vs. Colorado Rockies: Game Highlights",
+              "url": "https://www.espn.com/video/clip/_/id/49954407/game-highlights"
+            },
+            {
+              "title": "San Diego edges out Rox to continue win streak",
+              "url": "https://sports.yahoo.com/articles/san-diego-edges-rox-continue-204000930.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 48,
+          "interest_max": 100,
+          "interest_latest": 59,
+          "rank": 1
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 15,
+          "interest_max": 100,
+          "interest_latest": 20,
+          "rank": 2
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 3,
+          "interest_max": 20,
+          "interest_latest": 3,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 1,
+          "interest_max": 12,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ひよっこ",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "伊藤沙莉 朝ドラ伝説 すべては「ひよっこ」からはじまった #エキスパートトピ（木俣冬） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/70f6d48d1e9444ac362e54fc41c47ed5d86ec048"
+            },
+            {
+              "title": "「ひよっこ」みね子の工場での初めての休日、幸子が「見たい」といった映画のタイトルは？（写真・画像 1/1）",
+              "url": "https://www.iza.ne.jp/article/20260915-LCRUYOOWLVETDCFHTGCAP4NG44/photo/D4YI5FX5HRBLPLVXIJTWZ3FELE/"
+            },
+            {
+              "title": "ひよっこ：昼の再放送に「さおり（米子）」きたーー！ 「声で分かった」「好き」“7年後”の朝ドラヒロインに沸く",
+              "url": "https://mantan-web.jp/article/20260915dog00m200026000a.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "菊池涼介",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【広島】菊池涼介、新井監督＆巨人石井琢朗２軍監督の記録に王手 守備の名手が打撃でも欠かせぬ存在（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/30586a8d21b46acd38a003c3ea8fc9ec85a2f3c5"
+            },
+            {
+              "title": "【広島】菊池涼介、新井監督＆巨人石井琢朗２軍監督の記録に王手 守備の名手が打撃でも欠かせぬ存在",
+              "url": "https://sportsbull.jp/p/2418286/"
+            },
+            {
+              "title": "【広島】菊池涼介が先制打＆完ぺき中継プレー「トコが華麗なる投球。何とかしたい気持ちだけ」",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkansports/sports/f-bb-tp0-260910-202609090002154"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "シドニー・スウィーニー",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "シドニー・スウィーニー、ヌード広告で女性アスリートから猛反発 スポーツ予測市場のキャンペーン(1/2)",
+              "url": "https://www.cnn.co.jp/showbiz/35252623.html"
+            },
+            {
+              "title": "「すべての女性の頬をたたくようなもの」…女性選手らの怒りを買ったスウィーニーの広告（中央日報日本語版）",
+              "url": "https://news.yahoo.co.jp/articles/07eba3874df4df73fc8424a0dbc77b3799e63905"
+            },
+            {
+              "title": "シドニー・スウィーニー、過激な全裸スポーツ賭博広告で炎上 五輪選手らから批判殺到",
+              "url": "https://www.elle.com/jp/culture/celebgossip/a73731681/sydney-sweeney-nude-sports-betting-ad-ignites-backlash-among-female-olympians-260915/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "ココピオ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "『グランブルーファンタジー』グランデフェス開催！",
+              "url": "https://gamewith.jp/gamedb/256/articles/63343"
+            },
+            {
+              "title": "【グラブル】ココピオの評価/性能検証まとめ【グランブルーファンタジー】",
+              "url": "https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/577131"
+            },
+            {
+              "title": "【グラブル】護尊紅刃(ココピオ刀)の評価/性能検証まとめ【グランブルーファンタジー】",
+              "url": "https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/577133"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "広島カープ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "元カープ選手に薬物譲渡の男 有罪",
+              "url": "https://news.yahoo.co.jp/pickup/6595475"
+            },
+            {
+              "title": "ゾンビたばこ「（羽月元選手も）興味を持ったので渡した」広島地裁初公判で男",
+              "url": "https://www.chugoku-np.co.jp/articles/-/895528"
+            },
+            {
+              "title": "広島選手にゾンビたばこ提供の被告初公判に傍聴券求め１２０人超　整理券配開始布時間を早める措置",
+              "url": "https://topics.smt.docomo.ne.jp/article/dailysports/sports/20260916043"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "新潟県高校野球",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "エア ウォーター",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "大和ハウス、有利子負債3兆円が支える連続M＆A 米国売上高は1兆円規模へ",
+              "url": "https://business.nikkei.com/atcl/gen/19/00927/090800007/"
+            },
+            {
+              "title": "上場廃止危機のエア・ウォーター、「会計不正は豊田元CEOだけが原因ではない」",
+              "url": "https://business.nikkei.com/atcl/gen/19/00304/091500261/"
+            },
+            {
+              "title": "審判待つエア・ウォーター／大和ハウス「米国で1兆円」へ／FRB利上げ（2026年9月16日版）",
+              "url": "https://business.nikkei.com/atcl/audio/22/00001/091500963/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "ヘイデン・パネッティーア",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "死亡した米俳優ヘイデン・パネッティーアさん、売人から違法薬物を入手か 偽造薬物の可能性も（CNN.co.jp）",
+              "url": "https://news.yahoo.co.jp/articles/e0feef51e4cef2aba055c55d9bd2e5fc692e76cf"
+            },
+            {
+              "title": "ヘイデン・パネッティーア、麻薬密売人と長年やり取りしていた 闇市場で薬物を買い続けていた可能性が浮上",
+              "url": "https://www.ellegirl.jp/celeb/a73746575/hayden-panettiere-texts-drug-dealer-260916/"
+            },
+            {
+              "title": "米女優ヘイデン・パネッティーアさん フェンタニル混入のオキシコドンで死亡か",
+              "url": "https://www.tokyo-sports.co.jp/articles/-/403171"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ビル ゲイツ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ビル・ゲイツが警告、規制がなければ「AIは最も裕福な人々が彼ら自身のために設計される」",
+              "url": "https://forbesjapan.com/articles/detail/104831"
+            },
+            {
+              "title": "急速に進歩するAIに“世界が十分に備えていない”ビル・ゲイツ氏が警鐘（2026年9月15日掲載）｜日テレNEWS NNN",
+              "url": "https://news.ntv.co.jp/category/international/c572db47d2414697b7fa9c5aaec9fbc4"
+            },
+            {
+              "title": "ビル・ゲイツ氏がAIリスクに危機感 習国家主席とも会談へ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20260915de50436"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "クレーン",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "VIDEO: 4 hurt in Brickell rig collapse that trapped workers, left car on fire",
+              "url": "https://www.nbcmiami.com/news/local/crane-collapse-in-brickell-causes-road-closures-police-say/3858748/"
+            },
+            {
+              "title": "A construction rig fell at Citadel’s construction site Brickell. What happened?",
+              "url": "https://www.miamiherald.com/news/business/real-estate-news/article317251460.html"
+            },
+            {
+              "title": "Crane collapses in Miami, leaving four people with minor injuries",
+              "url": "https://apnews.com/video/crane-collapses-in-miami-leaving-four-people-with-minor-injuries-af8f17a8a89c44faba1b85b1918c6ca2"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 8,
+          "interest_max": 100,
+          "interest_latest": 6,
+          "rank": 1
+        },
+        {
+          "keyword": "バズった",
+          "interest_avg": 7,
+          "interest_max": 26,
+          "interest_latest": 9,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 28,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 0,
+          "interest_max": 8,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-09-16T03:49:03.499566+00:00"
+}
