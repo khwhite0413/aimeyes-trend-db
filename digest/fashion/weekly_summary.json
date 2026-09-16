@@ -8,9 +8,19 @@
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "fashion",
+      "growth": "+7%",
+      "total_mentions": 90
+    },
+    {
       "keyword": "바람막이",
       "growth": "+33%",
       "total_mentions": 76
+    },
+    {
+      "keyword": "ootd",
+      "growth": "+20%",
+      "total_mentions": 64
     },
     {
       "keyword": "스웨이드자켓",
@@ -18,38 +28,12 @@
       "total_mentions": 64
     },
     {
-      "keyword": "트위드자켓",
-      "growth": "+83%",
+      "keyword": "#fashion",
+      "growth": "+11%",
       "total_mentions": 59
-    },
-    {
-      "keyword": "#shorts",
-      "growth": "+80%",
-      "total_mentions": 57
-    },
-    {
-      "keyword": "여성가디건",
-      "growth": "+120%",
-      "total_mentions": 55
     }
   ],
   "most_cross_platform": [
-    {
-      "keyword": "유니클로",
-      "platforms": [
-        "x_twitter",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "후드집업",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
     {
       "keyword": "패션",
       "platforms": [
@@ -67,9 +51,25 @@
       "count": 2
     },
     {
-      "keyword": "강남",
+      "keyword": "원피스",
       "platforms": [
-        "google_trends",
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "블라우스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "티셔츠",
+      "platforms": [
+        "naver",
         "youtube"
       ],
       "count": 2
@@ -89,9 +89,9 @@
     "바람막이",
     "에고이스트",
     "올리비아로렌",
-    "스웨이드자켓",
     "ootd",
-    "트위드자켓",
-    "#shorts"
+    "스웨이드자켓",
+    "#fashion",
+    "트위드자켓"
   ]
 }
