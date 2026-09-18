@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-09-11",
-    "to": "2026-09-17"
+    "from": "2026-09-12",
+    "to": "2026-09-18"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+15%",
-      "total_mentions": 90
+      "keyword": "원피스",
+      "growth": "+9%",
+      "total_mentions": 83
+    },
+    {
+      "keyword": "블라우스",
+      "growth": "+9%",
+      "total_mentions": 83
     },
     {
       "keyword": "바람막이",
       "growth": "+20%",
-      "total_mentions": 79
+      "total_mentions": 81
     },
     {
       "keyword": "에고이스트",
-      "growth": "+9%",
-      "total_mentions": 77
+      "growth": "+20%",
+      "total_mentions": 78
     },
     {
       "keyword": "ootd",
-      "growth": "+86%",
-      "total_mentions": 67
-    },
-    {
-      "keyword": "스웨이드자켓",
-      "growth": "+11%",
-      "total_mentions": 66
+      "growth": "+83%",
+      "total_mentions": 71
     }
   ],
   "most_cross_platform": [
@@ -43,7 +43,7 @@
       "count": 2
     },
     {
-      "keyword": "후드집업",
+      "keyword": "가죽자켓",
       "platforms": [
         "naver",
         "youtube"
@@ -51,7 +51,7 @@
       "count": 2
     },
     {
-      "keyword": "가죽자켓",
+      "keyword": "후드집업",
       "platforms": [
         "naver",
         "youtube"
@@ -72,7 +72,7 @@
     "블라우스",
     "바람막이",
     "에고이스트",
-    "여성가디건"
+    "트위드자켓"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -81,9 +81,9 @@
     "바람막이",
     "에고이스트",
     "ootd",
-    "스웨이드자켓",
     "트위드자켓",
-    "올리비아로렌",
-    "여성가디건"
+    "여성가디건",
+    "스웨이드자켓",
+    "#ootd"
   ]
 }
