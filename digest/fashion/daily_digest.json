@@ -2,32 +2,21 @@
   "date": "2026-09-20",
   "mode": "fashion",
   "compared_to": "2026-09-19",
-  "total_keywords_today": 498,
+  "total_keywords_today": 508,
   "total_keywords_yesterday": 492,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "fashion",
-      "change": "+12%",
-      "today_count": 18,
+      "change": "+6%",
+      "today_count": 17,
       "yesterday_count": 16,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 18건, 어제 16건 기준"
-    },
-    {
-      "keyword": "style",
-      "change": "+25%",
-      "today_count": 10,
-      "yesterday_count": 8,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 10건, 어제 8건 기준"
+      "sample_note": "오늘 17건, 어제 16건 기준"
     },
     {
       "keyword": "데일리룩",
@@ -41,6 +30,17 @@
       "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
+      "keyword": "dress",
+      "change": "+60%",
+      "today_count": 8,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 8건, 어제 5건 기준"
+    },
+    {
       "keyword": "#데일리룩",
       "change": "+17%",
       "today_count": 7,
@@ -50,17 +50,6 @@
         "youtube"
       ],
       "sample_note": "오늘 7건, 어제 6건 기준"
-    },
-    {
-      "keyword": "dress",
-      "change": "+40%",
-      "today_count": 7,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 5건 기준"
     },
     {
       "keyword": "#가을코디",
@@ -140,18 +129,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "street",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "wedding",
+      "keyword": "women",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -162,7 +140,7 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "women",
+      "keyword": "amp",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -206,7 +184,18 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#style",
+      "keyword": "wedding",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "wear",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -226,15 +215,47 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "grwm",
+      "change": "+200%",
+      "today_count": 3,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
+      "keyword": "ootd",
+      "change": "-8%",
+      "today_count": 12,
+      "yesterday_count": 13,
+      "confidence": "high"
+    },
+    {
+      "keyword": "#ootd",
+      "change": "-8%",
+      "today_count": 11,
+      "yesterday_count": 12,
+      "confidence": "high"
+    },
+    {
+      "keyword": "코디",
+      "change": "-29%",
+      "today_count": 5,
+      "yesterday_count": 7,
+      "confidence": "medium"
+    },
+    {
       "keyword": "가을",
-      "change": "-33%",
-      "today_count": 4,
+      "change": "-17%",
+      "today_count": 5,
       "yesterday_count": 6,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "keyword": "올리비아로렌",
