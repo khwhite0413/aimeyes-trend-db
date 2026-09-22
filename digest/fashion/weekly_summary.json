@@ -1,44 +1,44 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-09-15",
-    "to": "2026-09-21"
+    "from": "2026-09-16",
+    "to": "2026-09-22"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+60%",
-      "total_mentions": 102
+      "keyword": "여성가디건",
+      "growth": "+9%",
+      "total_mentions": 83
     },
     {
       "keyword": "에고이스트",
       "growth": "+9%",
+      "total_mentions": 83
+    },
+    {
+      "keyword": "트위드자켓",
+      "growth": "+9%",
       "total_mentions": 82
     },
     {
-      "keyword": "여성가디건",
+      "keyword": "후드집업",
       "growth": "+20%",
       "total_mentions": 81
     },
     {
-      "keyword": "트위드자켓",
-      "growth": "+20%",
-      "total_mentions": 80
-    },
-    {
-      "keyword": "후드집업",
-      "growth": "+33%",
-      "total_mentions": 78
+      "keyword": "스웨이드자켓",
+      "growth": "+10%",
+      "total_mentions": 72
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "패션",
+      "keyword": "아시안게임",
       "platforms": [
         "google_trends",
-        "youtube"
+        "x_twitter"
       ],
       "count": 2
     },
@@ -53,21 +53,21 @@
   ],
   "naver_shopping_hot": [
     "바람막이",
-    "원피스",
     "후드집업",
-    "블라우스",
-    "에고이스트"
+    "여성가디건",
+    "원피스",
+    "트위드자켓"
   ],
   "top_keywords_overall": [
     "fashion",
     "바람막이",
     "원피스",
     "블라우스",
-    "ootd",
-    "에고이스트",
     "여성가디건",
+    "에고이스트",
     "트위드자켓",
     "후드집업",
+    "ootd",
     "#ootd"
   ]
 }
