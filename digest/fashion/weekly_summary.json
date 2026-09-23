@@ -1,44 +1,44 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-09-16",
-    "to": "2026-09-22"
+    "from": "2026-09-17",
+    "to": "2026-09-23"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "여성가디건",
-      "growth": "+9%",
-      "total_mentions": 83
-    },
-    {
-      "keyword": "에고이스트",
-      "growth": "+9%",
-      "total_mentions": 83
-    },
-    {
       "keyword": "트위드자켓",
       "growth": "+9%",
-      "total_mentions": 82
-    },
-    {
-      "keyword": "후드집업",
-      "growth": "+20%",
-      "total_mentions": 81
+      "total_mentions": 83
     },
     {
       "keyword": "스웨이드자켓",
       "growth": "+10%",
-      "total_mentions": 72
+      "total_mentions": 73
+    },
+    {
+      "keyword": "#shorts",
+      "growth": "+11%",
+      "total_mentions": 56
+    },
+    {
+      "keyword": "outfit",
+      "growth": "+25%",
+      "total_mentions": 51
+    },
+    {
+      "keyword": "데일리룩",
+      "growth": "+17%",
+      "total_mentions": 51
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "#이벤트",
+      "keyword": "드래프트",
       "platforms": [
-        "x_twitter",
-        "youtube"
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     },
@@ -46,6 +46,14 @@
       "keyword": "후드집업",
       "platforms": [
         "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "#이벤트",
+      "platforms": [
+        "x_twitter",
         "youtube"
       ],
       "count": 2
@@ -61,13 +69,13 @@
   "top_keywords_overall": [
     "fashion",
     "바람막이",
-    "원피스",
-    "블라우스",
     "여성가디건",
+    "원피스",
     "에고이스트",
-    "트위드자켓",
     "후드집업",
+    "블라우스",
+    "트위드자켓",
     "ootd",
-    "#ootd"
+    "스웨이드자켓"
   ]
 }
