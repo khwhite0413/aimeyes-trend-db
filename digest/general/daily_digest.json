@@ -2,21 +2,32 @@
   "date": "2026-09-23",
   "mode": "general",
   "compared_to": "2026-09-22",
-  "total_keywords_today": 481,
+  "total_keywords_today": 459,
   "total_keywords_yesterday": 498,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "#viral",
-      "change": "+7%",
-      "today_count": 15,
-      "yesterday_count": 14,
-      "confidence": "high",
+      "keyword": "#tiktok",
+      "change": "+12%",
+      "today_count": 9,
+      "yesterday_count": 8,
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 15건, 어제 14건 기준"
+      "sample_note": "오늘 9건, 어제 8건 기준"
+    },
+    {
+      "keyword": "#viralvideo",
+      "change": "+50%",
+      "today_count": 6,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 4건 기준"
     },
     {
       "keyword": "올리브데올리브",
@@ -30,6 +41,50 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
+      "keyword": "#edit",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "#lyrics",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "edit",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "lyrics",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
       "keyword": "september",
       "change": "+33%",
       "today_count": 4,
@@ -41,29 +96,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "#funny",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "funny",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "amazing",
+      "keyword": "life",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -85,29 +118,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "tips",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "#couple",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "couple",
+      "keyword": "유행하는",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -138,39 +149,6 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "beauty",
-      "change": "NEW",
-      "today_count": 3,
-      "yesterday_count": 0,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건 (신규)"
-    },
-    {
-      "keyword": "easy",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "amp",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
       "keyword": "日本のトレンド",
@@ -206,33 +184,55 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#ライフハック",
+      "keyword": "제시뉴욕",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
-        "youtube"
+        "naver"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "ライフハック",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "fw",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "리센느",
+      "change": "NEW",
+      "today_count": 2,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건 (신규)"
+    },
+    {
+      "keyword": "song",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "#shorts",
-      "change": "-4%",
-      "today_count": 22,
+      "change": "-17%",
+      "today_count": 19,
       "yesterday_count": 23,
       "confidence": "high"
     },
@@ -244,6 +244,13 @@
       "confidence": "high"
     },
     {
+      "keyword": "#viral",
+      "change": "-14%",
+      "today_count": 12,
+      "yesterday_count": 14,
+      "confidence": "high"
+    },
+    {
       "keyword": "#trending",
       "change": "-14%",
       "today_count": 12,
@@ -252,8 +259,8 @@
     },
     {
       "keyword": "dance",
-      "change": "-15%",
-      "today_count": 11,
+      "change": "-23%",
+      "today_count": 10,
       "yesterday_count": 13,
       "confidence": "high"
     },
@@ -291,17 +298,10 @@
       "today_count": 5,
       "yesterday_count": 6,
       "confidence": "medium"
-    },
-    {
-      "keyword": "diy",
-      "change": "-50%",
-      "today_count": 2,
-      "yesterday_count": 4,
-      "confidence": "low"
     }
   ],
   "new_entries": [
-    "beauty"
+    "리센느"
   ],
   "cross_platform_hot": []
 }
