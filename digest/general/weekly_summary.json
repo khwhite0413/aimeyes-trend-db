@@ -1,65 +1,51 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-09-17",
-    "to": "2026-09-23"
+    "from": "2026-09-18",
+    "to": "2026-09-24"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+138%",
-      "total_mentions": 119
+      "growth": "+156%",
+      "total_mentions": 134
     },
     {
       "keyword": "#viral",
-      "growth": "+50%",
-      "total_mentions": 88
-    },
-    {
-      "keyword": "트위드자켓",
-      "growth": "+9%",
-      "total_mentions": 83
+      "growth": "+27%",
+      "total_mentions": 94
     },
     {
       "keyword": "후드집업",
       "growth": "+9%",
-      "total_mentions": 82
+      "total_mentions": 83
     },
     {
       "keyword": "스웨이드자켓",
-      "growth": "+10%",
-      "total_mentions": 73
+      "growth": "+20%",
+      "total_mentions": 75
     }
   ],
-  "most_cross_platform": [
-    {
-      "keyword": "대통령",
-      "platforms": [
-        "google_trends",
-        "youtube"
-      ],
-      "count": 2
-    }
-  ],
+  "most_cross_platform": [],
   "naver_shopping_hot": [
     "바람막이",
     "후드집업",
-    "여성가디건",
     "원피스",
-    "트위드자켓"
+    "트위드자켓",
+    "여성가디건"
   ],
   "top_keywords_overall": [
     "trend",
     "#shorts",
-    "#trending",
     "#viral",
+    "#trending",
     "바람막이",
-    "여성가디건",
     "원피스",
+    "트위드자켓",
+    "여성가디건",
     "에고이스트",
-    "블라우스",
-    "트위드자켓"
+    "후드집업"
   ]
 }
