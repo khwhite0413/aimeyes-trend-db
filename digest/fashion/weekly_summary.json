@@ -1,36 +1,31 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-09-20",
-    "to": "2026-09-26"
+    "from": "2026-09-21",
+    "to": "2026-09-27"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "스웨이드자켓",
-      "growth": "+20%",
-      "total_mentions": 79
+      "growth": "+9%",
+      "total_mentions": 81
     },
     {
       "keyword": "#shorts",
-      "growth": "+83%",
-      "total_mentions": 68
-    },
-    {
-      "keyword": "#데일리룩",
-      "growth": "+29%",
-      "total_mentions": 53
-    },
-    {
-      "keyword": "outfit",
-      "growth": "+17%",
-      "total_mentions": 52
+      "growth": "+14%",
+      "total_mentions": 70
     },
     {
       "keyword": "amp",
-      "growth": "+100%",
-      "total_mentions": 44
+      "growth": "+17%",
+      "total_mentions": 47
+    },
+    {
+      "keyword": "올리브데올리브",
+      "growth": "+75%",
+      "total_mentions": 42
     }
   ],
   "most_cross_platform": [
@@ -38,14 +33,6 @@
       "keyword": "사고",
       "platforms": [
         "google_trends",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "가죽자켓",
-      "platforms": [
-        "naver",
         "youtube"
       ],
       "count": 2
