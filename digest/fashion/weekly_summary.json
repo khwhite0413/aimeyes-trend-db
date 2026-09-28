@@ -1,8 +1,8 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-09-21",
-    "to": "2026-09-27"
+    "from": "2026-09-22",
+    "to": "2026-09-28"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -10,17 +10,27 @@
     {
       "keyword": "스웨이드자켓",
       "growth": "+9%",
-      "total_mentions": 81
+      "total_mentions": 82
     },
     {
-      "keyword": "outfit",
-      "growth": "+33%",
-      "total_mentions": 54
+      "keyword": "#ootd",
+      "growth": "+11%",
+      "total_mentions": 57
+    },
+    {
+      "keyword": "ootd",
+      "growth": "+11%",
+      "total_mentions": 57
     },
     {
       "keyword": "올리브데올리브",
-      "growth": "+75%",
-      "total_mentions": 42
+      "growth": "+40%",
+      "total_mentions": 45
+    },
+    {
+      "keyword": "올리비아로렌",
+      "growth": "+25%",
+      "total_mentions": 31
     }
   ],
   "most_cross_platform": [
@@ -37,8 +47,8 @@
     "바람막이",
     "원피스",
     "여성가디건",
-    "스웨이드자켓",
-    "에고이스트"
+    "에고이스트",
+    "스웨이드자켓"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -46,9 +56,9 @@
     "원피스",
     "여성가디건",
     "에고이스트",
+    "스웨이드자켓",
     "후드집업",
     "트위드자켓",
-    "스웨이드자켓",
     "블라우스",
     "#shorts"
   ]
