@@ -14,8 +14,8 @@
     },
     {
       "keyword": "fashion",
-      "growth": "+8%",
-      "total_mentions": 83
+      "growth": "+17%",
+      "total_mentions": 84
     },
     {
       "keyword": "스웨이드자켓",
@@ -24,13 +24,13 @@
     },
     {
       "keyword": "#ootd",
-      "growth": "+71%",
-      "total_mentions": 60
+      "growth": "+57%",
+      "total_mentions": 59
     },
     {
       "keyword": "ootd",
-      "growth": "+71%",
-      "total_mentions": 60
+      "growth": "+57%",
+      "total_mentions": 59
     }
   ],
   "most_cross_platform": [
@@ -39,6 +39,14 @@
       "platforms": [
         "naver",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "우크라이나",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     },
@@ -60,10 +68,10 @@
   ],
   "top_keywords_overall": [
     "원피스",
+    "fashion",
     "바람막이",
     "여성가디건",
     "에고이스트",
-    "fashion",
     "스웨이드자켓",
     "후드집업",
     "트위드자켓",
