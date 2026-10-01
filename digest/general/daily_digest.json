@@ -4,9 +4,20 @@
   "compared_to": "2026-09-30",
   "total_keywords_today": 441,
   "total_keywords_yesterday": 461,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
+    {
+      "keyword": "dance",
+      "change": "+12%",
+      "today_count": 9,
+      "yesterday_count": 8,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 9건, 어제 8건 기준"
+    },
     {
       "keyword": "올리비아로렌",
       "change": "+14%",
@@ -17,39 +28,6 @@
         "naver"
       ],
       "sample_note": "오늘 8건, 어제 7건 기준"
-    },
-    {
-      "keyword": "life",
-      "change": "+75%",
-      "today_count": 7,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 4건 기준"
-    },
-    {
-      "keyword": "september",
-      "change": "+100%",
-      "today_count": 6,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 3건 기준"
-    },
-    {
-      "keyword": "hack",
-      "change": "+20%",
-      "today_count": 6,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
       "keyword": "요즘",
@@ -74,7 +52,7 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
-      "keyword": "tips",
+      "keyword": "life",
       "change": "+25%",
       "today_count": 5,
       "yesterday_count": 4,
@@ -83,6 +61,17 @@
         "youtube"
       ],
       "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "today",
+      "change": "+300%",
+      "today_count": 4,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 1건 기준"
     },
     {
       "keyword": "#tiktok",
@@ -94,50 +83,6 @@
         "youtube"
       ],
       "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "smart",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "日本のトレンド",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "newsdrop",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "jp",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
       "keyword": "#edit",
@@ -226,27 +171,82 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "diy",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#homehacks",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "try",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "homehacks",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "recipe",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "trend",
-      "change": "-10%",
-      "today_count": 19,
+      "change": "-5%",
+      "today_count": 20,
       "yesterday_count": 21,
       "confidence": "high"
     },
     {
       "keyword": "#viral",
-      "change": "-24%",
-      "today_count": 13,
+      "change": "-12%",
+      "today_count": 15,
       "yesterday_count": 17,
       "confidence": "high"
     },
     {
       "keyword": "#shorts",
-      "change": "-25%",
-      "today_count": 12,
+      "change": "-6%",
+      "today_count": 15,
       "yesterday_count": 16,
       "confidence": "high"
     },
@@ -256,13 +256,6 @@
       "today_count": 10,
       "yesterday_count": 11,
       "confidence": "high"
-    },
-    {
-      "keyword": "#trending",
-      "change": "-10%",
-      "today_count": 9,
-      "yesterday_count": 10,
-      "confidence": "medium"
     },
     {
       "keyword": "#trend",
@@ -287,6 +280,13 @@
     },
     {
       "keyword": "#lifehacks",
+      "change": "-50%",
+      "today_count": 2,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "tips",
       "change": "-25%",
       "today_count": 3,
       "yesterday_count": 4,
@@ -294,8 +294,8 @@
     },
     {
       "keyword": "lifehacks",
-      "change": "-25%",
-      "today_count": 3,
+      "change": "-50%",
+      "today_count": 2,
       "yesterday_count": 4,
       "confidence": "low"
     }

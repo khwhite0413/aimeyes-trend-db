@@ -8,14 +8,14 @@
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#trending",
-      "growth": "+12%",
-      "total_mentions": 72
+      "keyword": "trend",
+      "growth": "+5%",
+      "total_mentions": 128
     },
     {
-      "keyword": "life",
-      "growth": "+17%",
-      "total_mentions": 43
+      "keyword": "#trending",
+      "growth": "+25%",
+      "total_mentions": 73
     },
     {
       "keyword": "올리비아로렌",
@@ -24,6 +24,14 @@
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "티셔츠",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "우크라이나",
       "platforms": [
