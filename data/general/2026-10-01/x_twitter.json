@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "신한은행",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "유니버셜",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "위버스 재팬",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "오하욘사",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "국군의날",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "리제 오하",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#이해시를_보면_무조건_1년전_플앱",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "불의의 사고",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "공포 블러",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#누구보다_빠른_10월_최애_선점",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "타워레코드",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "박정희 동상",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "#FELIXxADIDAS",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "이번달도",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "탕화쿵푸",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "알래스카",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "메이크스타",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "인사반파",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "위버스샵",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "#마비노기_트친소",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "에이티즈 8주년",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "#JIMINxLADOR",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "오카리나",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "이따보쟈",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "마이크론",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "부키 오하",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "중수청장",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "가을 하늘",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "감기조심",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "좋은일만",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Arike",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#AEWDynamite",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Red Sox",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Yankees",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Reggie",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Paige",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Dansby",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#RepBX",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Cubs",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Gabby",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Chad Tracy",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Christa Pike",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Becerra",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "holy sheets",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Sonny Gray",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Bryan Danielson",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Palencia",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Crochet",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Kai Cenat",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "#Survivor51",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Hilton",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Gavin Sheets",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Bellinger",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Mike Tomlin",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Flyers",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Contreras",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "ALDS",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "#LetsGoPens",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Alysha Clark",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "#GoAvsGo",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#AEWDynamite",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Arike",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Stolarz",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Cowan",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Reggie",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Red Sox",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#Survivor51",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Paige",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Kai Cenat",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Bryan Danielson",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Flyers",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Yankees",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Islanders",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Christa Pike",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Nick Robertson",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Gabby",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Incident",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "#Leafs",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Ospreay",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Cubs",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Tennessee",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "#WorldsCollide",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Marina",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Tavares",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "#GoAvsGo",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Gausman",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Sissons",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Prime",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Pens",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Cowboy",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "ぼっちゃまくん",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#りんご農家さん応援隊",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "契約解除",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "都民の日",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#スカパー30周年",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#今年のリヴリーハロウィン",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#yogibo",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "フレンドリッチ",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "アクリルチャーム",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#バニラアイスがたまらんビスケットサンド",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "コーヒーの日",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "久しぶりの晴れ",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "キミの大SUKI",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "久しぶりの青空",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "目線カメラ",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "ロイロムチュー",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "天下五剣5体のうち1体確定",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "開催中のガチャ",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "メガネの日",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "らしんばん",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "雲ひとつ",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "リプライブ",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "天一の日",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "久しぶりの快晴",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "久々の晴れ",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "モカホワイト",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "ティール",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "ゴキブリの悪化",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "ゼロカン",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "湖池屋の真発明",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "ウエンツさん",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "ハイパーインフレーション",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "台風27号",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "あと3ヶ月",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "久しぶりの太陽",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "カミガタグッズ",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "タイプロ",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "日本酒の日",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "アクアライン",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "契約違反",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "コンプラ",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "トヨタカレンダー",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "ソロモナス",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "ソースマン",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "ニカゲーム",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "ボムマジ",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "洗濯日和",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "日向ぼっこ",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "メーデー民",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "芋洗坂係長",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Arike",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#AEWDynamite",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#PLN50RBCUMA40RB",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Yankees",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Red Sox",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "ぼっちゃまくん",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#ProvaDofazendeiro",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Reggie",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#EKDinEkGhantaEkSaath",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#MCardxTeeteePor",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "MCARD NEXT GEN WITH TTP",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "契約解除",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "JAEMIN FOR LEE 101",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Paige",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "都民の日",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Cubs",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "フレンドリッチ",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Happy New Month",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "アクリルチャーム",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Dansby",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Gabby",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Christa Pike",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Chad Tracy",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "コーヒーの日",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Nico Paz",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Captain Smit Machchhar",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "holy sheets",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Bryan Danielson",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Becerra",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "28th HAPPY YINYIN DAY",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-01T04:41:49.927408+00:00"
+}
