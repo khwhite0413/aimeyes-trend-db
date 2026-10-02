@@ -1,47 +1,39 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-09-25",
-    "to": "2026-10-01"
+    "from": "2026-09-26",
+    "to": "2026-10-02"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+64%",
-      "total_mentions": 97
+      "growth": "+54%",
+      "total_mentions": 106
     },
     {
       "keyword": "#ootd",
-      "growth": "+38%",
-      "total_mentions": 69
+      "growth": "+43%",
+      "total_mentions": 71
     },
     {
       "keyword": "ootd",
-      "growth": "+38%",
-      "total_mentions": 69
+      "growth": "+43%",
+      "total_mentions": 71
     },
     {
       "keyword": "#fashion",
       "growth": "+100%",
-      "total_mentions": 61
+      "total_mentions": 67
     },
     {
       "keyword": "outfit",
-      "growth": "+100%",
-      "total_mentions": 61
+      "growth": "+57%",
+      "total_mentions": 66
     }
   ],
   "most_cross_platform": [
-    {
-      "keyword": "원피스",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
     {
       "keyword": "우크라이나",
       "platforms": [
@@ -49,21 +41,29 @@
         "x_twitter"
       ],
       "count": 2
+    },
+    {
+      "keyword": "원피스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
     }
   ],
   "naver_shopping_hot": [
     "원피스",
     "스웨이드자켓",
-    "여성가디건",
     "바람막이",
+    "여성가디건",
     "후드집업"
   ],
   "top_keywords_overall": [
     "fashion",
     "원피스",
     "스웨이드자켓",
-    "여성가디건",
     "바람막이",
+    "여성가디건",
     "에고이스트",
     "후드집업",
     "트위드자켓",
