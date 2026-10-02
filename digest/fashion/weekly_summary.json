@@ -9,18 +9,18 @@
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+54%",
-      "total_mentions": 106
+      "growth": "+46%",
+      "total_mentions": 105
     },
     {
       "keyword": "#ootd",
-      "growth": "+43%",
-      "total_mentions": 71
+      "growth": "+57%",
+      "total_mentions": 72
     },
     {
       "keyword": "ootd",
-      "growth": "+43%",
-      "total_mentions": 71
+      "growth": "+57%",
+      "total_mentions": 72
     },
     {
       "keyword": "#fashion",
@@ -35,18 +35,18 @@
   ],
   "most_cross_platform": [
     {
-      "keyword": "우크라이나",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
-    },
-    {
       "keyword": "원피스",
       "platforms": [
         "naver",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "우크라이나",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     }
