@@ -11,9 +11,22 @@
       "keyword": "fashion",
       "growth": "+14%",
       "total_mentions": 116
+    },
+    {
+      "keyword": "#fashion",
+      "growth": "+20%",
+      "total_mentions": 81
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "여행",
+      "platforms": [
+        "google_trends",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "원피스",
       "platforms": [
