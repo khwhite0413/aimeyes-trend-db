@@ -1,48 +1,39 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-09-28",
-    "to": "2026-10-04"
+    "from": "2026-09-29",
+    "to": "2026-10-05"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#shorts",
-      "growth": "+23%",
-      "total_mentions": 106
-    },
-    {
-      "keyword": "#viral",
-      "growth": "+20%",
-      "total_mentions": 100
-    },
-    {
-      "keyword": "dance",
-      "growth": "+38%",
+      "keyword": "#trending",
+      "growth": "+11%",
       "total_mentions": 68
     },
     {
-      "keyword": "올리비아로렌",
-      "growth": "+20%",
-      "total_mentions": 47
+      "keyword": "#tiktok",
+      "growth": "+300%",
+      "total_mentions": 35
     },
     {
-      "keyword": "#tiktok",
-      "growth": "+20%",
-      "total_mentions": 32
-    }
-  ],
-  "most_cross_platform": [
+      "keyword": "#dance",
+      "growth": "+33%",
+      "total_mentions": 34
+    },
     {
-      "keyword": "우크라이나",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
+      "keyword": "가죽자켓",
+      "growth": "+100%",
+      "total_mentions": 33
+    },
+    {
+      "keyword": "레이스나시",
+      "growth": "+200%",
+      "total_mentions": 28
     }
   ],
+  "most_cross_platform": [],
   "naver_shopping_hot": [
     "원피스",
     "바람막이",
