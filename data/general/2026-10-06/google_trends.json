@@ -1,0 +1,702 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "퇴직금",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "불장에 퇴직연금 DB→DC 전환했는데… 증시 조정에 수익률 ‘뚝’ - 조선비즈",
+              "url": "https://biz.chosun.com/stock/stock_general/2026/10/05/G4NLF2LP7RBMFHLBKVYAADWDD4/"
+            },
+            {
+              "title": "“상승장 놓칠라” 퇴직연금 DC 갈아탔는데…하락장에 ‘10%대 손실’",
+              "url": "https://www.kyeonggi.com/article/20261005580013"
+            },
+            {
+              "title": "증시 고점서 DB→DC 전환 15만명…투자 나선 일부는 두 달 만에 -10%",
+              "url": "https://www.viva100.com/article/20261005500215"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "nba",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "NBA experiments with new technologies in preseason",
+              "url": "https://www.nba.com/news/nba-experiments-with-smart-basketballs-wrist-wearables"
+            },
+            {
+              "title": "NBA is experimenting with smart basketballs and official wrist wearables in select preseason games",
+              "url": "https://www.wbal.com/nba-is-experimenting-with-smart-basketballs-and-official-wrist-wearables-in-select-preseason-games"
+            },
+            {
+              "title": "NBA is experimenting with smart basketballs and official wrist wearables in select preseason games",
+              "url": "https://www.enidnews.com/region/nba-is-experimenting-with-smart-basketballs-and-official-wrist-wearables-in-select-preseason-games/article_4dc2b7c5-1acb-540a-94b5-34f885d396c3.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "홍역",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "'백신 거부'가 불러온 보건 재앙…美 뉴욕주, 홍역 비상사태",
+              "url": "https://v.daum.net/v/20261006093605841"
+            },
+            {
+              "title": "30년 만에 최악의 유행…美 3900명 확진에 비상사태 선포",
+              "url": "https://www.hankyung.com/article/2026100641597"
+            },
+            {
+              "title": "미국 홍역 확산 지속…뉴욕주, 지난해 유행 후 첫 비상사태",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8678206"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "강신철",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "\"최소 4발 이상 의도적 매설\"…일대 폭파해 '북 지뢰' 제거",
+              "url": "https://v.daum.net/v/20261006074656045"
+            },
+            {
+              "title": "통일부 “북한 지뢰 폭발 조사 결과 따라 필요 조치 검토”…군사회담 필요성 강조",
+              "url": "https://www.kyeonggi.com/article/20261006580096"
+            },
+            {
+              "title": "[전국 주요 신문 톱뉴스](6일 조간)",
+              "url": "https://www.yna.co.kr/view/AKR20261006009900011"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "티빙",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "‘미생’ 장그래는 버텼는데 ‘로또 1등’ 공은태는 할 말 다 한다···12년 새 달라진 직장 드라마",
+              "url": "https://www.khan.co.kr/article/202610060600111"
+            },
+            {
+              "title": "출근과 퇴사 사이, K-직장인 콘텐츠 열풍[김희경의 컬처 인사이트]",
+              "url": "https://magazine.hankyung.com/business/article/202610016645b"
+            },
+            {
+              "title": "이준혁 '로또 1등도 출근합니다', '연애박사'와 큰 격차로 월화극 1위 - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/10/06/2026100608547270887"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "김종민",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "코요태 김종민, 아빠 된다…\"아내 임신 17주차\"",
+              "url": "https://www.yna.co.kr/view/AKR20261006033500005"
+            },
+            {
+              "title": "“평생소원이 애 아빠” 47살 김종민, 결혼 1년 만에 2세 소식",
+              "url": "https://www.hani.co.kr/arti/culture/music/1281043.html"
+            },
+            {
+              "title": "김종민, 아빠 소식 신지·빽가에게 제일 먼저…'임신' 김종민 아내에게 기립박수 - 조선비즈",
+              "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/06/MFRDEZTEHEYDSYLEHBRDQYTCG4/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "차경은",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "배우 이유진·차경은 결혼…\"첫눈에 반해 교제 5개월 만에\"",
+              "url": "https://v.daum.net/v/20261006103302213"
+            },
+            {
+              "title": "'이효정 아들' 이유진, 차경은과 11월 14일 결혼",
+              "url": "https://www.hankyung.com/article/202610064972H"
+            },
+            {
+              "title": "예비시父 이효정도 호흡...이유진♥차경은, 첫 연출작서 만나 결혼까지 [SC이슈]",
+              "url": "https://www.chosun.com/entertainments/celebrity/2026/10/06/GU4TGNZWMZSWKYJVGY2DCYRSMY/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "성현주",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "성현주, 먼저 떠난 8살 아들…\"1000일 동안 의식 없었다\"",
+              "url": "https://www.newsis.com/view/NISX20261005_0003814645"
+            },
+            {
+              "title": "성현주, 먼저 떠나보낸 8살 아들에 눈물…\"동기들 덕분에 버텼다\" - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/10/05/2026100520480092991"
+            },
+            {
+              "title": "故박지선 떠난 후 또..\"KBS 22기. 코로나때 장례식, 발인 곁 지켰다\"",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/10/06/MZRTCNDBMRSWEMJZGFQWEYLFG4/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "우리은행",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "[기고] 보이스피싱 피해 반토막, 민관협력 빛난다",
+              "url": "https://v.daum.net/v/20261005182630627"
+            },
+            {
+              "title": "LG유플러스, 우리은행과 손잡고 통화 기반 금융사기 막는다",
+              "url": "https://www.yna.co.kr/view/RPR20261006000900353"
+            },
+            {
+              "title": "LG유플러스-우리은행, AI 통화앱 ‘익시오’ 연동해 보이스피싱 선제 차단",
+              "url": "https://www.boannews.com/news/articleView.html?idxno=146201"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "김희정",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'엄마가 미쳤어요' 김희정·강경헌, 아들 문제로 속앓이..극과 극 모자 이야기",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/10/05/GJRWCNBTMNSDEMTGHE4DENJZG4/"
+            },
+            {
+              "title": "‘엄마가 미쳤어요’, 또 자체최고시청률 경신…시청률 두 자릿수 돌파 10.7%",
+              "url": "https://www.osen.co.kr/article/G1112888128"
+            },
+            {
+              "title": "김희정, 믿었던 둘째 아들 투자 실패…압류 딱지 발견에 충격 ('엄마가 미쳤어요')",
+              "url": "https://v.daum.net/v/20261005083214713"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "linda noskova",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Noskova speeds past Golubic in 55 minutes, returns to Beijing fourth round",
+              "url": "https://www.wtatennis.com/videos/4586385/noskova-speeds-past-golubic-in-55-minutes-returns-to-beijing-fourth-round"
+            },
+            {
+              "title": "Golubic Suffers a Clear Defeat Against a Top-Ten Player",
+              "url": "https://www.bluewin.ch/en/sport/golubic-suffers-a-clear-defeat-against-a-top-ten-player-li.3623739"
+            },
+            {
+              "title": "Linda Noskova vs Viktorija Golubic Prediction - WTA China Open 2026",
+              "url": "https://www.statsinsider.com.au/news/linda-noskova-vs-viktorija-golubic-prediction-wta-china-open-2026"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ekaterina alexandrova",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Naomi Osaka shows major respect for Karolina Muchova as she aims for Beijing revenge",
+              "url": "https://www.tennisworldusa.org/tennis/news/WTA_Tennis/170230/naomi-osaka-shows-major-respect-for-karolina-muchova-as-she-aims-for-beijing-revenge-/"
+            },
+            {
+              "title": "Muchova vs. Osaka Prediction at the China Open – Tuesday, October 6",
+              "url": "https://www.bleachernation.com/picks/2026/10/04/muchova-vs-osaka-prediction-at-the-china-open-monday-october-5/"
+            },
+            {
+              "title": "Tennis | WTA Beijing 2026 | Karolina Muchova and Naomi Osaka battle in fourth round blockbuster",
+              "url": "https://britwatchsports.com/tennis-wta-beijing-2026-karolina-muchova-and-naomi-osaka-battle-in-fourth-round-blockbuster/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "jennifer hudson",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Victoria Monét Opens Up on Finding Her 'Frequency of Love' After Success Pressure",
+              "url": "https://www.broadwayworld.com/bwwtv/article/Victoria-Mont-Opens-Up-on-Finding-Her-Frequency-of-Love-After-Success-Pressure-20261005"
+            },
+            {
+              "title": "Victoria Monét to Appear on THE JENNIFER HUDSON SHOW",
+              "url": "https://www.broadwayworld.com/bwwmusic/article/Victoria-Mont-to-Appear-on-THE-JENNIFER-HUDSON-SHOW-20261005"
+            },
+            {
+              "title": "Victoria Monét Says Nas Gave Her the Confidence to Become an Artist",
+              "url": "https://www.broadwayworld.com/bwwtv/article/Victoria-Mont-Says-Nas-Gave-Her-the-Confidence-to-Become-an-Artist-20261005"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "anime zero codes",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Anime Zero codes (October 2026) for coins, dice rolls, and more",
+              "url": "https://www.gamesradar.com/games/rpg/anime-zero-codes/"
+            },
+            {
+              "title": "Anime Levels Codes (October 2026)",
+              "url": "https://beebom.com/anime-levels-codes/"
+            },
+            {
+              "title": "Anime Mysterious codes (October 2026)",
+              "url": "https://www.pcgamesn.com/roblox/anime-mysterious-codes"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "goldman",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Cut spending to curb runaway borrowing costs, Goldman's Gutman tells governments",
+              "url": "https://www.cnbc.com/2026/10/05/goldman-sachs-fiscal-deficit-bond-yields.html"
+            },
+            {
+              "title": "Rising government bond yields demand lower spen...",
+              "url": "https://pluang.com/en/news-feed/kurangi-pengeluaran-untuk-mengendalikan-biaya-peminjaman-goldman-gutman"
+            },
+            {
+              "title": "And so it begins – cut taxes, spend money, the wealthy call for spending cuts",
+              "url": "https://www.dailykos.com/stories/2026/10/5/800107689/community/and-so-it-begins-cut-taxes-spend-money-the-wealthy-call-for-spending-cuts/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "jaden hardy",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Lakers 6’6″ Draft Flop Gets Harsh Bronny James Truth Ahead of Final Roster Cut",
+              "url": "https://sports.yahoo.com/articles/lakers-6-6-draft-flop-142156251.html"
+            },
+            {
+              "title": "New Lakers Rumors on Dalton Knecht's Future, 'Odd Man Out' on Roster Ahead of NBA Season",
+              "url": "https://bleacherreport.com/articles/25505867-new-lakers-rumors-dalton-knechts-future-odd-man-out-roster-ahead-nba-season"
+            },
+            {
+              "title": "\"The fact that he is still on the Lakers right now is absolutely awful\" - Draymond Green says Dalton Knecht's agent ruined his career",
+              "url": "https://www.basketballnetwork.net/latest-news/draymond-green-says-dalton-knechts-agent-ruined-his-career"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "windsor",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Andrew takes legal action over search warrants before his arrest",
+              "url": "https://www.bbc.com/news/articles/c689zl5eljdzo"
+            },
+            {
+              "title": "Andrew Mountbatten-Windsor takes legal action against UK police over Epstein arrest",
+              "url": "https://www.cnn.com/2026/10/05/uk/andrew-mountbatten-windsor-uk-police-court-epstein-intl"
+            },
+            {
+              "title": "Former Prince Andrew files a legal action to quash warrants that led to searches of his residences",
+              "url": "https://abcnews.com/International/wireStory/former-prince-andrew-files-legal-action-quash-warrants-136996092"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "citi",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Citi Speeds Junior Bankers’ Ascent in Fight With Private Equity",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-05/citi-speeds-junior-bankers-ascent-in-fight-with-private-equity"
+            },
+            {
+              "title": "Now Citi will promote even its moderately good analysts to associate after two years",
+              "url": "https://www.efinancialcareers.com/news/now-citi-will-promote-even-its-moderately-good-analysts-to-associate-after-two-years"
+            },
+            {
+              "title": "Citi to speed up promotion path for junior bankers as hiring war heats up",
+              "url": "https://www.ft.com/content/41b567dc-50e9-4c41-95bb-e295caaf2340?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "jacob coxon",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "In NYC, Mamdani cedes AI regulation lane",
+              "url": "https://www.politico.com/news/2026/10/05/in-nyc-mamdani-cedes-ai-regulation-lane-01108016"
+            },
+            {
+              "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
+              "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html"
+            },
+            {
+              "title": "Ex-Anthropic Researcher Testifies at NYC Council AI Hearing",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "nfc south standings",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "NFL Week 4 Sunday aftermath: Bears' defense continues to shine; Jaguars are for real",
+              "url": "https://www.nfl.com/news/nfl-week-4-sunday-aftermath-bears-defense-continues-to-shine-jaguars-are-for-real"
+            },
+            {
+              "title": "Game Recap: Bears ground Jets, improve to 3-1",
+              "url": "https://www.chicagobears.com/news/game-recap-bears-ground-jets-improve-to-3-1"
+            },
+            {
+              "title": "Al Iannazzone: Good feelings from the 1-0 start are gone as Jets' season threatens to spiral away",
+              "url": "https://www.newsday.com/sports/columnists/al-iannazzone/jets-bears-aaron-glenn-rqckmntx"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "home DIY",
+          "interest_avg": 59,
+          "interest_max": 99,
+          "interest_latest": 82,
+          "rank": 1
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 55,
+          "interest_max": 100,
+          "interest_latest": 41,
+          "rank": 2
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 13,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 6,
+          "interest_max": 43,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 2,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "地対空ミサイル",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "画像ギャラリー | 誰か地対空ミサイルを引き取ってくれ！ ロシア製最新兵器導入で“本当に欲しかったモノ”を失ったトルコ",
+              "url": "https://trafficnews.jp/photo/713188"
+            },
+            {
+              "title": "ロシアは、トルコから第三国へのS-400「火竜」ミサイルの移転への道を開いた。",
+              "url": "https://www.vietnam.vn/ja/nga-mo-duong-chuyen-giao-rong-lua-s-400-tu-tho-nhi-ky-sang-nuoc-thu-3"
+            },
+            {
+              "title": "クレムリン、トルコ保有のS-400を第三国へ移転するため、アンカラと協議していることを確認",
+              "url": "https://informat.ro/ja/international-ja/kremlin-confirms-talks-on-the-transfer-of-turkeys-s-400-systems-141302-ja"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ヤフー",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "なぜ不正アクセス急増 識者の見解",
+              "url": "https://news.yahoo.co.jp/pickup/6597718"
+            },
+            {
+              "title": "不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は（1/2 ページ）",
+              "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002013/"
+            },
+            {
+              "title": "AIでサイバー攻撃のコスト激減 数行の指示だけで27社に侵入、カード情報60万件超が流出",
+              "url": "https://weekly.ascii.jp/elem/000/004/439/4439882/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "vivant 野崎",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "『VIVANT』最新人物チャート更新 “重要キャラ”が追加（オリコン）",
+              "url": "https://news.yahoo.co.jp/articles/9c19f08e13869496fc46eeff8350ae87f6cf53e8"
+            },
+            {
+              "title": "滝沢カレン",
+              "url": "https://www.sponichi.co.jp/entertainment/news/2026/10/06/gazo/20261006s10041000112000p.html"
+            },
+            {
+              "title": "中国舞台のVIVANT2が現地で話題「シンシーはありえない」ツッコミ入れつつネット盛況",
+              "url": "https://globe.asahi.com/article/16920045"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "yahoo ニュース",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "日本によるロシアへの追加制裁を受けロシア外務省が対抗措置を表明（FNNプライムオンライン（フジテレビ系））",
+              "url": "https://news.yahoo.co.jp/articles/f271a8679fb135e3df4e2443d69c2be6a2ca665f"
+            },
+            {
+              "title": "「非友好的な対応に対抗」露外務省が対日報復検討 ウクライナ侵攻の追加制裁に反発",
+              "url": "https://www.sankei.com/article/20261006-BT725TGMAJILZCMGGPZKCB3H2A/"
+            },
+            {
+              "title": "ロシア外務省、日本の追加制裁に反発 「相応の対抗措置とる」",
+              "url": "https://www.nikkei.com/article/DGXZQOGR060PM0W6A001C2000000/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "eスカイ",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "「eスカイ」11月発売 軽EVで最安",
+              "url": "https://news.yahoo.co.jp/pickup/6597719"
+            },
+            {
+              "title": "スズキ、価格212万円からの新型EV「e SKY」11月16日発売 油冷「eAxle」など採用で航続距離310km",
+              "url": "https://car.watch.impress.co.jp/docs/news/2145887.html"
+            },
+            {
+              "title": "200万円が軽EVの生命線 スズキは中国BYD製の電池採用で日本最安に",
+              "url": "https://www.nikkei.com/article/DGXZQOUC286UR0Y6A920C2000000/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "gmo",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "GMOグループ会社に不正アクセス 個人情報最大94万件余流出か",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261006de55007"
+            },
+            {
+              "title": "GMOリサーチ&AIのアンケート「infoQ」で不正アクセス、最大約95万件の個人情報が漏えいし、不正なポイント交換も",
+              "url": "https://internet.watch.impress.co.jp/docs/news/2145989.html"
+            },
+            {
+              "title": "【情報まとめ】GMO不正アクセス ポイント不正利用も確認 二次被害が確認されたケースは初めて（テレビ朝日系（ANN））",
+              "url": "https://news.yahoo.co.jp/articles/a5a5953fbd395abb74bd5dd50bc8d9af0edcc439"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "レイズ 対 ヤンキース",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "レイズ、本拠地2連勝で優勝決定シリーズ進出に王手 CY賞本命右腕から価値ある白星 守乱4失策のヤンキース下す",
+              "url": "https://news.yahoo.co.jp/articles/adf7cbeea6ba49fe0bd85e3695741ae13083bb27"
+            },
+            {
+              "title": "【10月6日】タンパベイ・レイズvsニューヨーク・ヤンキースのテレビ放送/ネット配信予定・視聴方法｜MLB2026 AL地区シリーズ第2戦",
+              "url": "https://www.dazn.com/ja-JP/news/%E9%87%8E%E7%90%83/rays-yankees-mlb2026-division-series-20261006/6py5hmslhkx91n3vgmr914akx"
+            },
+            {
+              "title": "レイズのカミネロ、１８１キロの弾丸二塁打でヤンキースのエース攻略　５回一挙４得点でシュリトラーＫＯ　連勝に貢献",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20261006-OHT1T51060"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "木竜麻生",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "【明日10月7日のブラッサム】石橋静河“珠”がついに嫁入り…しかし、待っていた夫は？（映画チャンネル）",
+              "url": "https://news.yahoo.co.jp/articles/e174611d769f92437a564a50ea2a5d9cf7c56029"
+            },
+            {
+              "title": "朝ドラ｢ブラッサム｣渡部篤郎の《モラハラ父役》にネット紛糾も…なぜか\"惹きつけられる色気\"と名作になる予感",
+              "url": "https://toyokeizai.net/articles/-/960098?page=3"
+            },
+            {
+              "title": "『ブラッサム』藤川優子役に松たか子 【キャラクター紹介】",
+              "url": "https://www.sankei.com/article/20261006-S4MGJW6HKNJW3BL6FNWL2VTTIM/?outputType=theme_oriconnews"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "仲野太賀",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "中野英雄 息子の仲野太賀と間宮祥太朗の共演に感極まる「ガキの頃から我が家で遊んでいた間宮と太賀が」（東スポWEB）",
+              "url": "https://news.yahoo.co.jp/articles/33494b90183e0a1e7c070084441d45479d8aa1d1"
+            },
+            {
+              "title": "中野英雄、息子大賀との「大河共演俳優」実名あげ感極まる「ウルウル来てしまった…」",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkangeinou/entertainment/f-et-tp0-261005-202610050000160"
+            },
+            {
+              "title": "仲野太賀“気持ち悪い一面”テレビで暴露されたことも…父も感激の“大河共演”はたしたイケメン俳優",
+              "url": "https://jisin.jp/entertainment/entertainment-news/2603099/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "大阪公立大学",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定（MBSニュース）",
+              "url": "https://news.yahoo.co.jp/articles/4d139d586213ccab1bea8ea57e005e6689c4ab6b"
+            },
+            {
+              "title": "大規模システム障害の大阪公立大学、「ランサムウェア」のサイバー攻撃か…学生・卒業生ら１３万人の氏名・住所・顔写真など流出の可能性",
+              "url": "https://www.yomiuri.co.jp/local/kansai/news/20261006-GYO1T00037/"
+            },
+            {
+              "title": "大阪公立大学にランサム攻撃 個人情報、13万人流出恐れ",
+              "url": "https://www.nikkei.com/article/DGXZQOUF057NR0V01C26A0000000/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 25,
+          "interest_max": 100,
+          "interest_latest": 28,
+          "rank": 1
+        },
+        {
+          "keyword": "バズった",
+          "interest_avg": 13,
+          "interest_max": 79,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 2,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 9,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 72,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-10-06T05:22:12.122907+00:00"
+}

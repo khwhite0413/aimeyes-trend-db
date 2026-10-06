@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#tmi릴레이",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "모기 여섯방 물림",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "대법원장",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "오하욘사",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#HappyHanniverse",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#사이트친소",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#HAPPY_HANNI_DAY",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "새우튀김",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#HBDtoJOOHONEY",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "넾페스타",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "글루어트",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "모카마루",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "인싸력 테스트",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "당신의 인싸력",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "리제 오하",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "런닝맨 키즈",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "꼬들 1739",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "나나 오하",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "트랙리스트",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "마리끌레르",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "스위니토드",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "브리링브리",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "전생 프로필",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "서로의 인생",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "사법독립",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Give Up The Ghost",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "부키 오하",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "증인선서",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "공방 포카 교환",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "다이아웨폰",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Falcons",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Saints",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Yankees",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "san diego",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Boone",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Bijan",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Kellen Moore",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Penix",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Shough",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Olave",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Ben Rice",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Lakers",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Rays",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "#DirtyBirds",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "#WWERAW",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#RiseUp",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Jazz",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Kamara",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "vele",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Kirk Franklin",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Jim Bakker",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "McMahon",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Luka",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Vando",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "#ATLvsNO",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "WE DAT",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "LA and SD",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Acuff",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Drake London",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Kyle Pitts",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Quebec",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Yankees",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "The PQ",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Minority",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Falcons",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "san diego",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#WWERAW",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Saints",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Bijan",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Shough",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Félicitations",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Ben Rice",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "The CAQ",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "ersson",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Paul St-Pierre Plamondon",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#polqc",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Rays",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Kim Campbell",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Pascal Paradis",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Lakers",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "#GoSensGo",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Minoritaire",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "ullmark",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Buck Martinez",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Clay Stevenson",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Sportsnet",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Tocchet",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Bruins",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "#DirtyBirds",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Olave",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#miino",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "ストスト",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#新作肉辛まぜうどんのここがやみつき",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#JTB推し活2026",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#ローソンのグーコロ男爵",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "ファンフェス",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#吐夢の日",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "ミスターマックス",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "ヒルナンデス",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "宇宙戦艦ヤマト",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Uキラーザウルス",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "スーパーカップの抹茶",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "セガサミー",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "タイプ別の好き",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "ドムの日",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "製造終了",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "ダイヤウェポン",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "パープルキャット",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "ひばりちゃん",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "空っぽの人狼ゲーム",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "groupと1人",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "全員驚愕",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "マイティー",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "不正アクセス",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "スタバの新作",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "妖怪パロディボイス",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "フラゲ完了",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "マスコット大運動会",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "抹茶アイス",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "AION2",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "個人情報",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "生のとき",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "庵野秀明",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "岡ちゃん先生",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "ヤンキース",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "ボッチョ",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "G-SHOCK",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "ホワイトソックス",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "ストリーマー",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "クセ強生徒",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "箱の中身",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "シン・ヤマト",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "金の未来",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "激走戦隊カーレンジャー",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "MrMax",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "庵野さん",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "Snow Man official",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "緊急事態宣言",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "こづかい帳",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "情報漏洩",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Falcons",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#miino",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#KisshtLoansWithoutHiccups",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Saints",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Yankees",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "ストスト",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#บันทึกเก้าเดือนของโอ๋เอ๋",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Boone",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "san diego",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#FandomsComLula",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Bijan",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "#新作肉辛まぜうどんのここがやみつき",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "AARON NETFLIX X ANIMALES",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Penix",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Kellen Moore",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Ben Rice",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Shough",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Olave",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Lakers",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "ファンフェス",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Rays",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "SEGUNDO TURNO É LULA",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Enroll Now",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "ミスターマックス",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Cashman",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Quebec",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "スーパーカップの抹茶",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "宇宙戦艦ヤマト",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "RPGP",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "New Orleans",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-06T05:22:12.122907+00:00"
+}
