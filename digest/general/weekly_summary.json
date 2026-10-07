@@ -1,45 +1,40 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-09-30",
-    "to": "2026-10-06"
+    "from": "2026-10-01",
+    "to": "2026-10-07"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+6%",
+      "growth": "+7%",
       "total_mentions": 106
     },
     {
-      "keyword": "dance",
-      "growth": "+38%",
-      "total_mentions": 72
-    },
-    {
-      "keyword": "#tiktok",
-      "growth": "+67%",
-      "total_mentions": 37
-    },
-    {
       "keyword": "가죽자켓",
-      "growth": "+75%",
-      "total_mentions": 37
+      "growth": "+50%",
+      "total_mentions": 39
     },
     {
       "keyword": "레이스나시",
-      "growth": "+250%",
-      "total_mentions": 33
+      "growth": "+133%",
+      "total_mentions": 38
+    },
+    {
+      "keyword": "funny",
+      "growth": "+200%",
+      "total_mentions": 30
     }
   ],
   "most_cross_platform": [],
   "naver_shopping_hot": [
     "원피스",
     "스웨이드자켓",
-    "바람막이",
     "여성가디건",
-    "후드집업"
+    "바람막이",
+    "트위드자켓"
   ],
   "top_keywords_overall": [
     "trend",
@@ -47,8 +42,8 @@
     "#viral",
     "원피스",
     "스웨이드자켓",
-    "바람막이",
     "여성가디건",
+    "바람막이",
     "후드집업",
     "dance",
     "트위드자켓"

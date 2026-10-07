@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#준호버블",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "누리호 발사",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "오하욘사",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "신입사원",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#Melon_Heartattack",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "주요 감정",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "대학가요제",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "포스터 교환",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "디데이 복구",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#GlobalKChart",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "인싸력 테스트",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "발사 성공",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "당신의 인싸력",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "#멜론글로벌TOP100",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "응원 하트",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "대법원장",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "#HAPPY_HANNI_DAY",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "팀러비티",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "꼬들 1740",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "소프트모드",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "비바두비",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "위성 15기",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "리컨비너",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "라벤더 하나",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "새우튀김",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "게임 인터뷰",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "특전 포스터",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "리제 오하",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "오하용가리",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "이즈앤트리",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#DWTS",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Messi",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Ciara",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Guillermo",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#AEWGrandSlam",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Tatyana",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#WWENXT",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Turang",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Dustin May",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Pat Murphy",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Carrie Ann",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Dodgers",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Amber",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Ezra",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Maura",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Merrill",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Edwin Diaz",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "acuña",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Jake Cronenworth",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Yamamoto",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "William Contreras",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Cooper Pratt",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Argentina",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "#Blackhawks",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Yaxel",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "#LaGranjaMX",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Owen Power",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Pivetta",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Olson",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Okada",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#DWTS",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#Leafs",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "McKenna",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Messi",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Matthews",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Guillermo",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Ciara",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Slaf",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#PassionNeverSleeps",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "ICBC",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "#GoHabsGo",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Papi",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Argentina",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Maura",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Dobes",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#WWENXT",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Canes",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Brandon",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Bolduc",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Eklund",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "ersson",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Nico Paz",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Larkin",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Roslovic",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Jenna",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Carolina",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Ezra",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Stamkos",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Nashville",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "McCabe",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#auPAYからプレゼント",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#ガリバーで解放せよ",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "カルテル",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#今年も三角チョコパイの季節",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "ネオユニオン",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "強制調査",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#岸優太_Instagramストーリー",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#カセットこんろとボンベの日",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "公正取引委員会",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "山本由伸",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "箱根湯本温泉",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "独占禁止法違反の疑い",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "徹子の部屋",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "価格めぐり大手4社",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "ソンブラ",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "初音ミク",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "刑事告発",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "シティーズユニオン",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "石原さとみ",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "武田鉄矢",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "KAITO",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "トランス復活",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "草津温泉",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "松井裕樹",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "データ連携",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "侍ジャパン",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "喜びの宿",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "攻撃の無力化",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "ボーカロイド",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "ビール4社",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "VOCALOID",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "共鳴者戦争",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "ディアス",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "ドジャース",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "水戸黄門",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "週の真ん中",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "Codexリセット",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "ミステリー",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "リリーランド",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "あなたと相性",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "IDCFクラウド",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "セカンドV",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "価格引き上げ",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "アジチャン",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "香水プロデュース",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "代表引退",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "魔動王グランゾート",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "ジャパンダートクラシック",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "エミール",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "フリーマン",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Messi",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Enzo",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Sancor Seguros",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#auPAYからプレゼント",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#DWTS",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Chiqui Tapia",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#ยัวร์ทูบเบอร์Q8",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "YOURTUBER Q8",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#ガリバーで解放せよ",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "ميسي",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "#بلا_",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "カルテル",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Nico Paz",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Argentina",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "ネオユニオン",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "強制調査",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Benin",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Otamendi",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Selective Media Bias",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Gracias Leo",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Ciara",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Sole",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "山本由伸",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Guillermo",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "公正取引委員会",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "JASPER CONCERT PRESSTOUR",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Ariela",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Chile",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Scaloni",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "श्री गणेश",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-07T04:50:37.322533+00:00"
+}
