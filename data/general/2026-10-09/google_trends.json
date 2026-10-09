@@ -1,0 +1,709 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "삼성 대 ssg",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "'와' 페덱, 오늘(9일) '깜짝' 등판! 박진만 \"6회 1이닝 정도 점검→상태 따라 추가 투구\" - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/10/09/2026100911020397245"
+            },
+            {
+              "title": "'담 증세' 삼성 페덱, 9일 SSG전 '깜짝' 불펜 등판…\"컨디션 점검\"",
+              "url": "https://www.news1.kr/sports/baseball/6315259"
+            },
+            {
+              "title": "[스경X현장]삼성 임시 선발 사토시는 3이닝, 페덱은 1이닝 깜짝 등판한다…“본인이 던지고 싶다고 요청해서”",
+              "url": "https://sports.khan.co.kr/article/202610091316003"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "kia 대 nc",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "KIA-LG 3위 놓고 끝장 승부…12일 광주 맞대결서 운명 갈리나",
+              "url": "https://www.yna.co.kr/view/AKR20261008088800007"
+            },
+            {
+              "title": "“두 손 두 발 다 들어야죠” 김도영의 전율 홈런…고우석의 진심, 왜 “재미 즐거움이 있다” 했을까",
+              "url": "https://www.osen.co.kr/article/G1112889687"
+            },
+            {
+              "title": "3위도 홈런왕도… 끝날 때까지 끝난 게 아니다",
+              "url": "https://www.segye.com/newsView/20261008514163"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "배트맨",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "‘The Batman Part II’ Production Paused As Matt Reeves Steps Away For Personal Reasons",
+              "url": "https://deadline.com/2026/10/the-batman-part-ii-production-pause-matt-reeves-1237146807/"
+            },
+            {
+              "title": "‘The Batman Part II’ Production Paused as Filmmaker Matt Reeves Steps Away for “Family Matter”",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/the-batman-part-ii-paused-as-filmmaker-matt-reeves-1236722514/"
+            },
+            {
+              "title": "‘The Batman’ Sequel Abruptly Halts Production",
+              "url": "https://www.thedailybeast.com/the-batman-sequel-has-been-put-on-pause"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "lg유플러스",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "LGU+, 22일부터 유심 자동 업데이트…보안 우려 해소 나선다",
+              "url": "https://www.yna.co.kr/view/AKR20261008120200017"
+            },
+            {
+              "title": "LG유플러스 22일부터 유심 자동 업데이트, 가입자 식별번호 보안 강화",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448941"
+            },
+            {
+              "title": "LG유플러스 해킹 은폐 의혹 국감 도마…배경훈 “고의 확인 땐 위약금 면제”",
+              "url": "https://v.daum.net/v/129gxYiPv6"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "한남동",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "\"강남도 명함 못 내밀겠네\"…6년 만에 30억 뛴 '이 동네' [이슬기의 새집다오]",
+              "url": "https://www.hankyung.com/article/2026100779056"
+            },
+            {
+              "title": "영리치 몰린 나인원한남, 국내 첫 '3.3㎡당 2억 단지' 됐다 [부동산 아토즈]",
+              "url": "https://v.daum.net/v/20261006182518472"
+            },
+            {
+              "title": "23년 만에 첫 삽 뜨는 한남뉴타운…하이엔드 타운 시동",
+              "url": "https://www.theguru.co.kr/news/article.html?no=107783"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "한국갤럽",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "민주 지지율 35%, 정부 출범 뒤 최저…이 대통령 부정평가 5%p↓ [갤럽]",
+              "url": "https://www.hani.co.kr/arti/politics/politics_general/1281639.html"
+            },
+            {
+              "title": "李대통령 지지율 37% '최저치' 머물러…與 지지율도 35%로 최저(종합)",
+              "url": "https://www.news1.kr/politics/president/6315275"
+            },
+            {
+              "title": "이 대통령 국정 지지율 37%, 갤럽 기준 취임 후 최저치 유지",
+              "url": "https://imnews.imbc.com/news/2026/politics/article/6856786_36911.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "연예인",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "“33만명 자랑도, 연예인도 필요 없다”…대구 떡볶이축제의 ‘이상한 자신감’",
+              "url": "https://v.daum.net/v/5y1ViuwaSg"
+            },
+            {
+              "title": "33만명 왔지만 올해는 안 센다…대구 북구 떡볶이축제 ‘숫자보다 경험’",
+              "url": "https://www.ekn.kr/web/view.php?key=20261007021225598"
+            },
+            {
+              "title": "원주만두축제, 올해는 '원도심 여행'으로 판 키운다",
+              "url": "https://www.newsis.com/view/NISX20260928_0003804807"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "맥북",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Apple Set to Debut Touch-Screen MacBook and New iPad Mini in Late October",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october"
+            },
+            {
+              "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+              "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor"
+            },
+            {
+              "title": "Apple to Launch Touchscreen OLED MacBook Pro and OLED iPad mini on October 27",
+              "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "박충권",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "정점식 \"지뢰폭발, 北의 명백한 군사도발…안보현실 직시해야\"",
+              "url": "https://www.yna.co.kr/view/AKR20261009027100001"
+            },
+            {
+              "title": "박충권 \"정동영 탄핵감, 순국선열 통탄 … 北이 그리 좋으면 가라\"",
+              "url": "https://www.newdaily.co.kr/site/data/html/2026/10/09/2026100900029.html"
+            },
+            {
+              "title": "정점식 \"'대북 굴종' 화신 정동영, 北 지뢰 사고 알리바이 돼…경질하라\"",
+              "url": "https://www.newsis.com/view/NISX20261009_0003820167"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "기상",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "[뉴스12 날씨] 한글날, 따스한 햇살…내일 남부지방부터 비",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8681946"
+            },
+            {
+              "title": "[날씨] 한글날 맑고 일교차 커…주말 남부 흐리고 비",
+              "url": "https://www.yonhapnewstv.co.kr/news/MYH20261009134412LS2"
+            },
+            {
+              "title": "[날씨] 한낮엔 포근…대기 건조해 '화재 주의'",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790355"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "자기계발",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "jake laravia",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Lakers' Jake LaRavia: Won't start Thursday",
+              "url": "https://www.cbssports.com/fantasy/basketball/news/lakers-jake-laravia-wont-start-thursday/"
+            },
+            {
+              "title": "Jake LaRavia News: Auditioning for starting role",
+              "url": "https://www.rotowire.com/basketball/headlines/jake-laravia-news-auditioning-for-starting-role-533469"
+            },
+            {
+              "title": "Jake LaRavia fills stat line in 21 minutes",
+              "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-06/jake-laravia-fills-stat-line-in-21-minutes"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "beach hazards statement",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "S.F. Bay high tides will be at flood levels this weekend; El Niño-fueled wave of water may have reached city",
+              "url": "https://www.sfchronicle.com/weather/article/coastal-flood-sf-bay-22467316.php"
+            },
+            {
+              "title": "Beach hazards statement for Northern California from Saturday to Monday – breaking waves up to 16 feet predicted",
+              "url": "https://www.eastbaytimes.com/2026/10/08/beach-hazards-statement-for-northern-california-from-saturday-to-monday-breaking-waves-up-to-16-feet-predicted/"
+            },
+            {
+              "title": "Bay Area forecast: Hot day, coastal flooding",
+              "url": "https://www.nbcbayarea.com/video/news/local/weather-hot-day-coastal-flooding/4154660/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "acab",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Licensable picture: FRANCE-DEBRIS-CONTAINERS-GRAFFITI-ACAB-UNIVERSITY",
+              "url": "https://www.reutersconnect.com/item/france-debris-containers-graffiti-acab-university/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMEVPRVc2Ng"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "the boxer anime",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "The Boxer Anime Adaptation Announced",
+              "url": "https://www.crunchyroll.com/news/latest/2026/10/8/the-boxer-anime-adaptation-announced-trailer-staff-cast"
+            },
+            {
+              "title": "The Remarried Empress Webtoon Gets TV Anime From TROYCA in 2027",
+              "url": "https://www.animenewsnetwork.com/news/2026-10-08/the-remarried-empress-webtoon-gets-tv-anime-from-troyca-in-2027/.242645"
+            },
+            {
+              "title": "NYCC 2026: WEBTOON Announces Series Set For Anime Adaptations",
+              "url": "https://www.theouterhaven.net/nycc-2026-webtoon-announces-series-set-for-anime-adaptations/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "shanghai masters",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Hurkacz fires 19 aces to set Djokovic clash, Tsitsipas wins in Shanghai",
+              "url": "https://www.atptour.com/en/news/hurkacz-duckworth-shanghai-2026-thursday"
+            },
+            {
+              "title": "How to watch the men’s Rolex Shanghai Masters: Streaming options for the Round of 64",
+              "url": "https://www.nytimes.com/athletic/7672780/2026/10/08/mens-rolex-shanghai-masters-stream-how-to-watch-october-9/"
+            },
+            {
+              "title": "Sports News, Transfers, Scores | Watch Live Sport",
+              "url": "https://www.skysports.com/tennis/watch/6124788549237553112/rolex-shanghai-masters-2026"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "operation safe california",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Valley leaders clash as reports of ICE activity grow across the Valley",
+              "url": "https://abc30.com/post/valley-leaders-clash-reports-ice-activity-grow/19923240/"
+            },
+            {
+              "title": "Report: ICE launches enforcement surge in California, starting in San Diego",
+              "url": "https://www.nbcsandiego.com/news/local/report-ice-launches-enforcement-surge-california-starting-san-diego/4084781/"
+            },
+            {
+              "title": "Vanload of Central Valley farm workers reportedly picked up by ICE",
+              "url": "https://www.yourcentralvalley.com/news/local-news/ice-detains-central-valley-workers/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "nifty 50",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "India's Sensex slumps to 32-month low on oil surge, foreign exodus",
+              "url": "https://www.reuters.com/world/india/indian-shares-poised-muted-start-tcs-kicks-off-earnings-season-2026-10-08/"
+            },
+            {
+              "title": "Stock market crash today: BSE Sensex tanks over 1,000 points; Nifty50 at 22,231 - top reasons for fall",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-today-why-bse-sensex-nifty50-are-down-on-october-8-2026-top-reasons-for-fall-market-cap-fii-rbi-repo-rate-oil/articleshow/134782249.cms"
+            },
+            {
+              "title": "Stock Market Crash, Sensex Today: Investors Lose Rs 10 Lakh Crore As Sensex Tanks 1,000 Points",
+              "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-8-october-us-iran-war-oil-prices-12154002"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "sandro mamukelashvili",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Lakers' need for a big man behind Walker Kessler is only growing",
+              "url": "https://lakeshowlife.com/lakers-need-for-big-man-behind-walker-kessler-only-growing"
+            },
+            {
+              "title": "Sandro Mamukelashvili rocks the rim with dunk",
+              "url": "https://www.espn.in/video/clip/_/id/50121790/sandro-mamukelashvili-rocks-rim-dunk"
+            },
+            {
+              "title": "Lakers Expected to Pivot to Savvy 39% 3-PT Sniper as Walker Kessler Backup",
+              "url": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-pivot-3pt-sniper-backup/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "rei sakamoto",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "ATP Shanghai Day 3 Predictions Including Andrey Rublev vs Rei Sakamoto",
+              "url": "https://lastwordonsports.com/tennis/2026/10/08/atp-shanghai-day-3-predictions-rublev-sakamoto/"
+            },
+            {
+              "title": "Rei Sakamoto vs Andrey Rublev Prediction - ATP Shanghai Masters 2026",
+              "url": "https://www.statsinsider.com.au/news/rei-sakamoto-vs-andrey-rublev-prediction-atp-shanghai-masters-2026"
+            },
+            {
+              "title": "Rublev Enters Shanghai Masters Match Against Sakamoto as Favorite",
+              "url": "https://suaragarut.id/en/rublev-faces-sakamoto-shanghai-masters"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "bam adebayo",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Aces' A'ja Wilson wins 5th WNBA MVP, says no to pregame ceremony",
+              "url": "https://www.espn.com/wnba/story/_/id/50135041/sources-aces-star-aja-wilson-wins-record-5th-wnba-mvp-award"
+            },
+            {
+              "title": "Caitlin Clark left off 19 WNBA MVP ballots despite historic season as A’ja Wilson wins fifth award",
+              "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-left-off-19-wnba-mvp-ballots-despite-historic-season-aja-wilson-wins-fifth-award"
+            },
+            {
+              "title": "Las Vegas Aces’ A'ja Wilson Wins Record Fifth Kia WNBA Most Valuable Player Award",
+              "url": "https://www.wnba.com/news/wilson-named-2026-most-valuable-player"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 55,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 24,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 3,
+          "interest_max": 36,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 2,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 12,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "デニス テン",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「まるで別人だ」 フィギュア界に衝撃ニュース「本物のレジェンド」驚愕の77.39ハイスコア（THE ANSWER）",
+              "url": "https://news.yahoo.co.jp/articles/457c8285c175146ed2b826c1fbbec23ab384fef5"
+            },
+            {
+              "title": "「まるで別人だ」 フィギュア界に衝撃ニュース「本物のレジェンド」驚愕の77.39、3回転ジャンプ成功",
+              "url": "https://portal.uqmobile.jp/detail/1/6/12/10332_12_r_20261009_1791503341558815"
+            },
+            {
+              "title": "「まるで別人だ」 フィギュア界に衝撃ニュース「本物のレジェンド」驚愕の77.39、3回転ジャンプ成功 (2026年10月9日掲載)",
+              "url": "https://news.livedoor.com/topics/detail/32524825/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ひるおび",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ひるおび",
+              "url": "https://thetv.jp/program/0001016687/234/"
+            },
+            {
+              "title": "ひるおび",
+              "url": "https://thetv.jp/program/0001016685/235/"
+            },
+            {
+              "title": "企業が福利厚生で「マッチングアプリ」導入!大手1500社が社員の“恋愛支援”なぜ?【ひるおび】",
+              "url": "https://news.yahoo.co.jp/articles/49b66dd1053b45be37d1e0844573dccb53d488f2"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ハーゲンダッツ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ハーゲンダッツ、クリスピーサンド「栗とカシスのパフェ」＆バー「木苺のガトーショコラ」発売（グルメ Watch）",
+              "url": "https://news.yahoo.co.jp/articles/8a221767c1ca6c992be29a97b424f8941fa4b21b"
+            },
+            {
+              "title": "かぼちゃ感がすごい！かぼちゃ好きは絶対食べて！ハーゲンダッツの濃厚パンプキンが本気（アイスマン福留） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/e804b974c2c3d6996ba9c8198eb4b1978513ca57"
+            },
+            {
+              "title": "【ハーゲンダッツ】「パパパパンプキンタルト」発売　パンプキンのアイス・ソース・コーティング・クッキーで濃厚な味わい",
+              "url": "https://topics.smt.docomo.ne.jp/article/otonanswer/life/otonanswer-398405"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "si",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Nashville Predators Decide to Start Juuse Saros in Montreal",
+              "url": "https://sports.yahoo.com/articles/nashville-predators-decide-start-juuse-213748441.html"
+            },
+            {
+              "title": "NSH@TOR: Saros with a great save against Easton Cowan",
+              "url": "https://www.nhl.com/video/topic/highlights/nsh-tor-saros-with-a-great-save-against-easton-cowan-6406389981112"
+            },
+            {
+              "title": "Juuse Saros News: Tough loss in Toronto",
+              "url": "https://www.rotowire.com/hockey/headlines/juuse-saros-news-tough-loss-in-toronto-594980"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "今田耕司",
+          "traffic": "1000+",
+          "related_news": []
+        },
+        {
+          "rank": 6,
+          "keyword": "佐野雄大",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "佐野雄大、「INI」5周年ツアーも欠席 所属事務所発表 適応障害で療養中「改めて本人とも協議」（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/cd205cce621b9c68b6df890e00a787fa1a76e523?source=sns&dv=sp&mid=other&date=20261009&ctg=ent&bt=tw_up"
+            },
+            {
+              "title": "活動休止中のINI佐野雄大、適応障害を公表「現在は療養に専念」",
+              "url": "https://topics.smt.docomo.ne.jp/article/mdpr/entertainment/mdpr-4856618?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch3"
+            },
+            {
+              "title": "INI佐野雄大、京セラドーム大阪公演も出演見合わせ　適応障害で療養中",
+              "url": "https://news.infoseek.co.jp/article/sponichin_20261009_0135/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "miyavi 徹子の部屋",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "難民支援活動を行う世界的ギタリスト・MIYAVI、ヨルダンではギターを通して現地の人々と交流",
+              "url": "https://post.tv-asahi.co.jp/post-864247/"
+            },
+            {
+              "title": "本日10月9日「徹子の部屋」ゲスト情報",
+              "url": "https://topics.smt.docomo.ne.jp/amp/article/ggtnews/entertainment/ggtnews-xWkCh"
+            },
+            {
+              "title": "MIYAVI：ギターと出会うまではプロサッカー選手を夢見ていた 3人の子どもとのコミュニケーションを大切に 「徹子の部屋」で",
+              "url": "https://mainichikirei.jp/article/20261006dog00m100023000a.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "松村 北斗",
+          "traffic": "500+",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "財産",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "尹前大統領夫妻の拘置所内財産 大統領年俸の8倍",
+              "url": "https://news.yahoo.co.jp/articles/69553249e69a487b47a06c3ee89fc0c8f716ff6a"
+            },
+            {
+              "title": "尹錫悦、元大統領とキム·ゴンヒ女史が昨年拘束された後に受け取った領置金が計21億9000万ウォンと集計された。 今年の大統領年俸である約2億7000万ウォンの約8倍規模だ。共に民主党の李成允（イ·ソン..",
+              "url": "https://www.mk.co.kr/jp/society/12172029"
+            },
+            {
+              "title": "「その財産は『家』に返すのが筋」99歳女性が残した1億円近い預金 相続人ではない夫側の甥が語った『家』の論理と「意識・価値観」",
+              "url": "https://news.yahoo.co.jp/articles/95fc45994cf61e10c30cf1005715df0f262db33d?page=2"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "クレーム",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "調剤薬局の｢塩対応｣にクレーム カスハラ扱いされ出禁、名誉侵害訴訟",
+              "url": "https://www.nikkei.com/article/DGXZQOUD02A7E0S6A001C2000000/"
+            },
+            {
+              "title": "ハラスメント対策の強化",
+              "url": "https://www.gov-online.go.jp/media/commercials/202610/video-326005.html"
+            },
+            {
+              "title": "カスハラ対策、10月から義務化 新潟・上越の金融機関で県警が訓練（朝日新聞）",
+              "url": "https://news.yahoo.co.jp/articles/30c858cb7db4a2e29957142dc45103c6650a48b4"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 23,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "バズった",
+          "interest_avg": 11,
+          "interest_max": 43,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 1,
+          "interest_max": 30,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 9,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-10-09T05:04:42.071365+00:00"
+}

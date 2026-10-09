@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "with 카카오뱅크",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "여자친구 기다리는 남자친구의 심정",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "세종대왕",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "라인 YMZ47",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#해피버스돼잉",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "오하용가리",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#HAPPYIANDAY",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "오래 산다",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "같은 1초",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#젤리글래싱틴트",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "임라이브",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "한글날 기념",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "#애니멀_첫1위축하해",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "복스팩토리",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "노벨문학상",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#이_사람이_선생님이라면_무슨과목",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "싫어하는 음식",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "훈민정음",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "꼬들 1742",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "토스티드",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "간장게장",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "무직전생",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "츄리닝 랏코",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "좋은 연휴",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "애니멀 1위",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "영웅출현",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "발사이즈",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "카뱅 품앗이",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "눌럿습니",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "내부 공격",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Cowboys",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Bucs",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Todd Bowles",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Jake Ferguson",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Jerry",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Christian Parker",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Jalon Daniels",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "BLAND",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Bucky Irving",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "CeeDee",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Dak Prescott",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Schotty",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Buccaneers",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Turpin",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "#TBvsDAL",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Game 5",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "#GuardsBall",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Vogt",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Pickens",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Gavin Williams",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Al Michaels",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "New Yorker",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "#LaGranjaSalvación",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Goti",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Tampa Bay",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "NFC East",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Brian Schottenheimer",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "White Sox",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Going for 2",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Rogers",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Cowboys",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "matheson",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Bobrovsky",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Bucs",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Todd Bowles",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Marner",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Dak Prescott",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Jake Ferguson",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Brookfield",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Jerry Jones",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Jalon Daniels",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Easton Cowan",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Bucky Irving",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Nick Paul",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Anderson",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Buccaneers",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "CeeDee Lamb",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Hegseth",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Preds",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "White Sox",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Nashville",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "#GoSensGo",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Fort Hood",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Hutson",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "ullmark",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Eklund",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Embiid",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Carrie",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Tampa Bay",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "#GoAvsGo",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#ファミマルで皿洗い卒業",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#ファミマでお好み焼きチップス",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#雪肌精でいい夢を",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "あと半日",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "ブックオフ",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "ハッピーエンド",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#寝落ち界隈",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "ガルパン",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#祝キテファイ1000万回再生",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "ホワイトソックス",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "らしんばん",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "スカイチケット",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "鈴木宗男",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "濃厚ティラミスショコララテ",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "バイオハザード",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "VOCALOID7",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "ソルトちゃん",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "自民党の会合",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "ナナクロニクル",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "情報漏洩",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "アグネス",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "ナナロル",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "怪獣墓場",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "ハーピィ新規",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "引き取り希望",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "シリーズの相性診断",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "アルトメギア",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "ガーディアンズ",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "ファンパレくじ",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "ソルトくん",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "妖怪パロディボイス",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "シーボーズ",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "ドゥームズ",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "アスラン",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "マカロン",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "ホロライブ麻雀",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "デロリアン",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "きょうだい",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "ちいかわマーケット",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "濃厚ストロベリーカスタードラテ",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "濃厚メープルヘーゼルナッツラテ",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "公開処刑",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "宗男さん",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "にじさんじオフィシャルストア",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "ロッタちゃん",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "ハピミル",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "我らの道シール",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "シカホワ",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "ルシエルちゃん",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "ラルカフェ",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Cowboys",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#LaGranjaSalvación",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#ファミマルで皿洗い卒業",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#Aspire2026",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Bucs",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#IndiaMobileCongress",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Todd Bowles",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#ファミマでお好み焼きチップス",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Jake Ferguson",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Jerry",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "あと半日",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Christian Parker",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "ブックオフ",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Jalon Daniels",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Bucky Irving",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "BLAND",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Dak Prescott",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "ガルパン",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "ハッピーエンド",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "CeeDee",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Schotty",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "スカイチケット",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Rossi",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "ホワイトソックス",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Perú",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "らしんばん",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Buccaneers",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Gopay",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Sanatan Ke Rakshak",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Flamengo",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-09T05:04:42.071365+00:00"
+}
