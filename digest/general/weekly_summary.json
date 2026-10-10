@@ -9,13 +9,8 @@
   "top_rising": [
     {
       "keyword": "trend",
-      "growth": "+45%",
-      "total_mentions": 85
-    },
-    {
-      "keyword": "dance",
-      "growth": "+18%",
-      "total_mentions": 83
+      "growth": "+55%",
+      "total_mentions": 86
     },
     {
       "keyword": "후드집업",
@@ -31,18 +26,14 @@
       "keyword": "레이스나시",
       "growth": "+33%",
       "total_mentions": 47
-    }
-  ],
-  "most_cross_platform": [
+    },
     {
-      "keyword": "대구 마트",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
+      "keyword": "가죽자켓",
+      "growth": "+17%",
+      "total_mentions": 44
     }
   ],
+  "most_cross_platform": [],
   "naver_shopping_hot": [
     "원피스",
     "바람막이",
@@ -57,9 +48,9 @@
     "바람막이",
     "여성가디건",
     "스웨이드자켓",
-    "dance",
     "후드집업",
     "#viral",
+    "dance",
     "트위드자켓"
   ]
 }
