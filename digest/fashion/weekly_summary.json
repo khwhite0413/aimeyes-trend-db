@@ -1,39 +1,47 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-10-03",
-    "to": "2026-10-09"
+    "from": "2026-10-04",
+    "to": "2026-10-10"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+79%",
-      "total_mentions": 142
+      "growth": "+87%",
+      "total_mentions": 156
     },
     {
       "keyword": "#fashion",
-      "growth": "+27%",
-      "total_mentions": 90
+      "growth": "+60%",
+      "total_mentions": 95
     },
     {
       "keyword": "후드집업",
       "growth": "+9%",
-      "total_mentions": 79
+      "total_mentions": 80
     },
     {
       "keyword": "트위드자켓",
       "growth": "+10%",
-      "total_mentions": 73
+      "total_mentions": 74
     },
     {
       "keyword": "outfit",
-      "growth": "+38%",
-      "total_mentions": 60
+      "growth": "+100%",
+      "total_mentions": 64
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "대구 마트",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "원피스",
       "platforms": [
@@ -47,8 +55,8 @@
     "원피스",
     "바람막이",
     "여성가디건",
-    "스웨이드자켓",
-    "후드집업"
+    "후드집업",
+    "스웨이드자켓"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -59,7 +67,7 @@
     "스웨이드자켓",
     "후드집업",
     "트위드자켓",
-    "#ootd",
-    "ootd"
+    "outfit",
+    "#ootd"
   ]
 }
