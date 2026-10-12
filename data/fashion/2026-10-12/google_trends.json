@@ -1,0 +1,944 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "군인",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[더벨]아이티센엔텍, ‘제대군인 고용우수기업’ 인증 획득 - 머니투데이",
+              "url": "https://www.mt.co.kr/stock/2026/10/12/2026101210179668216"
+            },
+            {
+              "title": "충북북부보훈지청, 우륵문화제서 '제대군인 주간 홍보부스' 운영",
+              "url": "https://m.joongdo.co.kr/view.php?key=20261011010002435"
+            },
+            {
+              "title": "「지금부터 제대로 빛날 차례, 제대군인의 새로운 출발을 응원하며」",
+              "url": "http://www.daejeontoday.com/news/articleView.html?idxno=751310"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "배윤규",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "배윤규, ‘사랑이 온다’서 방 안 청춘에서 다시 걸어 나온 한규오",
+              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16243605"
+            },
+            {
+              "title": "‘사랑이 온다’ 배윤규, 하석진과 형제 케미→가족에겐 냉철한 장남…반전 매력",
+              "url": "https://m.anewsa.com/article_sub3.php?number=3206454&type=&mobile="
+            },
+            {
+              "title": "'사랑이온다' 하석진, 사기 당한 배윤규에 따뜻한 위로 \"트러플 파스타 해먹자\"",
+              "url": "http://www.joynews24.com/view/2013563"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "오타니 쇼헤이",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "오타니는 1할쳐도 성역! 다저스 이름값에 눈 멀었나 → 사장이 한다는 소리가..",
+              "url": "https://www.chosun.com/sports/world-baseball/2026/10/11/GY3WIMLFGMZTQZLGGRRTGMJQG4/"
+            },
+            {
+              "title": "'이젠 오타니가 안 무섭다' 105타석 0홈런, ML 데뷔 최악 침묵…17경기 장타 1개뿐, 다저스 우승 도전 '초비상'",
+              "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012568"
+            },
+            {
+              "title": "오타니 제대로 열받았네, 축하 파티 자리서 사라졌다…2년 전 땅을 치고 후회한 다저스 교훈 \"의심하지 말라\"",
+              "url": "https://www.koreadaily.com/article/20261009152109517"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "과태료",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"서울역 광장 음주금지\"…내년 3월부터 적발시 과태료 5만원",
+              "url": "https://www.yna.co.kr/view/AKR20261012047300004"
+            },
+            {
+              "title": "이제 서울역 광장서 술못마신다…금주구역 지정예고[서울25]",
+              "url": "https://www.khan.co.kr/article/202610121138001"
+            },
+            {
+              "title": "서울역 광장서 술 마시면 과태료 5만원…내년 3월부터 단속 추진",
+              "url": "https://www.news1.kr/local/moi/6316335"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "골프",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "국민의힘 윤상현 “휴일에 대통령 골프, 잘못은 아냐…참사 소비하는 정치 멈춰야”",
+              "url": "https://www.khan.co.kr/article/202610121051001"
+            },
+            {
+              "title": "\"대구 상가 사고 때 골프\"‥\"과도한 정쟁화 유감\"",
+              "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6857232_36967.html"
+            },
+            {
+              "title": "주진우 “골프중독 대통령 치료위해 ‘골프특검’ 발의”",
+              "url": "https://www.munhwa.com/article/11622720"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "전북은행",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[단독]전북은행, 국내 은행권 최초 비트코인 연계 대출",
+              "url": "https://www.edaily.co.kr/News/Read?newsId=02384566645612264&mediaCodeNo=257"
+            },
+            {
+              "title": "전북은행, 쏙뱅크에서 디지털자산 시장정보 제공",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=2004630"
+            },
+            {
+              "title": "전북은행, 비트코인 담보 원화 대출 사업 출시 보도",
+              "url": "https://www.tokenpost.kr/news/breaking/421218"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "dodgers vs brewers",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Dodgers fall 1-2 to Brewers, face World Series three-peat threat - CHOSUNBIZ",
+              "url": "https://biz.chosun.com/en/en-sports/2026/10/12/Z7LKZGDIBRG2DEP72M3XXBVVBM/"
+            },
+            {
+              "title": "Miz battles traffic, grinds into the 5th vs. vaunted LA lineup",
+              "url": "https://www.mlb.com/news/jacob-misiorowski-dodgers-brewers-nlcs-game-1"
+            },
+            {
+              "title": "The Milwaukee Brewers laughed first.Milwaukee beat the Los Angeles Dodgers 2-1 in Game 1 of the Cham..",
+              "url": "https://www.mk.co.kr/en/sports/12173467"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "축구 감독",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "손흥민 결정적 기회 놓쳤다…LAFC, 10명 뛴 밴쿠버와 1-1 무승부",
+              "url": "https://www.jemin.com/news/articleView.html?idxno=844212"
+            },
+            {
+              "title": "‘손흥민 7호골, 일본 골키퍼가 막았다!’ 한 골이나 마찬가지였던 손흥민 완벽한 슈팅, 슈퍼세이브에 막혔다…LAFC 0-1 뒤지고 전반종료",
+              "url": "https://www.osen.co.kr/article/G1112891121"
+            },
+            {
+              "title": "'96즈 대표팀 은퇴설' 손흥민 고충 토로했나, LAFC 감독 \"A매치 이후, 정신적 상태 얘기 나눴는데...\" - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/10/12/2026101123074238627"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "둠스데이",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "‘어벤져스: 둠스데이’ 12월 16일 개봉…닥터 둠과 어벤져스 대결",
+              "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683122"
+            },
+            {
+              "title": "'어벤저스: 둠스데이', 2026년 12월16일 개봉 확정 - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/10/12/2026101211407277148"
+            },
+            {
+              "title": "'어벤져스: 둠스데이', 12월 16일 개봉 확정…MCU 명운 걸렸다",
+              "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012570"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "제주항공",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "제주항공, 올해 탑승객 1천만명 돌파…역대 최단기간",
+              "url": "https://www.yna.co.kr/view/AKR20261012059500003"
+            },
+            {
+              "title": "제주항공, 올해 누적 탑승객 1000만명 달성…LCC 중 가장 빨랐다 - 머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/10/12/2026101210270866177"
+            },
+            {
+              "title": "제주항공, ’알짜노선’ 중국 운수권 확보…동계 노선 증편 By EBN",
+              "url": "https://kr.investing.com/news/stock-market-news/article-2122803"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "무신사",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "bryan cranston",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Bryan Cranston Reacts to Breaking Bad Being Named the No. 1 Television Show of the 21st Century (Exclusive)",
+              "url": "https://people.com/bryan-cranston-reacts-to-breaking-bad-named-no-1-tv-show-of-21st-century-exclusive-12169779"
+            },
+            {
+              "title": "The Best TV Shows of the 21st Century: Readers Choose Their Top Shows",
+              "url": "https://www.nytimes.com/interactive/2026/arts/television/reader-votes-tv-shows-21st-century.html"
+            },
+            {
+              "title": "FROM THE PUBLISHER | Peak TV",
+              "url": "https://www.olathereporter.com/features/from-the-publisher-peak-tv/article_7d1de132-7dd8-46cb-ae29-7344e7537117.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "learner tien",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Tien vs. Ruud Prediction at the Rolex Shanghai Masters – Monday, October 12",
+              "url": "https://www.bleachernation.com/picks/2026/10/10/tien-vs-ruud-prediction-at-the-rolex-shanghai-masters-monday-october-12/"
+            },
+            {
+              "title": "Bu vs Ruud • Shanghai 2026",
+              "url": "https://en.tennistemple.com/match/bu-ruud-shanghai-2026/9484524/"
+            },
+            {
+              "title": "Shanghai tennis picks: Tien vs. Ruud, Jodar vs. Lehecka",
+              "url": "https://tenngrand.com/shanghai-r3-previews-and-predictions-ruud-vs-tien-jodar-vs-lehecka/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "felix auger aliassime",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Jimmy Connors says if he thinks Alexander Zverev deserves to be world number one after ‘criticising’ him in the past",
+              "url": "https://sports.yahoo.com/articles/jimmy-connors-says-thinks-alexander-110000998.html"
+            },
+            {
+              "title": "Felix Auger-Aliassime responds to criticism of Zverev's two Grand Slam titles",
+              "url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/170389/felix-augeraliassime-responds-to-criticism-of-zverev-s-two-grand-slam-titles/"
+            },
+            {
+              "title": "Aliassime also lends a hand to Zverev and defends his season",
+              "url": "https://www.puntodebreak.com/en/2026/10/08/aliassime-also-lends-hand-to-zverev-and-defends-his-season"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "nicolas cage",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Nicolas Cage says he won’t work with Amazon again over AI dispute",
+              "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute"
+            },
+            {
+              "title": "Nicolas Cage reveals ‘True Detective’ season 5 role",
+              "url": "https://ew.com/nicolas-cage-reveals-true-detective-season-5-role-12167817"
+            },
+            {
+              "title": "Nicolas Cage Says He’s ‘Probably Not’ Working With Amazon Again After Refusing to Sign AI Waiver for ‘Spider-Noir,’ Teases Joining ‘True Detective’",
+              "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "leylah fernandez",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Best of Wuhan media day: Top quotes and Kostyuk, Eala's adventures",
+              "url": "https://www.wtatennis.com/news/4590461/best-of-wuhan-media-day-top-quotes-marta-kostyuks-alex-eala-adventures"
+            },
+            {
+              "title": "Alex Eala faces home bet Shi Han in Wuhan Open first round",
+              "url": "https://sports.inquirer.net/701106/alex-eala-faces-home-bet-shi-han-in-wuhan-open-first-round"
+            },
+            {
+              "title": "Tennis: Alex Eala to play China's Han Shi in first round of Wuhan Open",
+              "url": "https://www.abs-cbn.com/sports/othersports/2026/10/12/tennis-alex-eala-to-play-china-s-han-shi-in-first-round-of-wuhan-open-0023"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "nfc south",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Buccaneers Can Get Back in Division Race Over Next 3 Weeks",
+              "url": "https://sports.yahoo.com/articles/buccaneers-back-division-race-over-220143910.html"
+            },
+            {
+              "title": "Eyes On Two Sunday NFC South Games",
+              "url": "https://www.joebucsfan.com/2026/10/eyes-on-two-sunday-nfc-south-games/"
+            },
+            {
+              "title": "Tracking the NFC South: Falcons keep pace with Panthers after dominant win vs. Saints",
+              "url": "https://www.atlantafalcons.com/news/tracking-the-nfc-south-falcons-beat-saints-panthers-bucs"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "sonay kartal",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Anhelina Kalinina vs. Sonay Kartal prediction, odds, picks for WTA Wuhan Open 2026",
+              "url": "https://www.dimers.com/tennis/news/anhelina-kalinina-vs-sonay-kartal-tennis-prediction-wta-wuhan-open-2026-ac"
+            },
+            {
+              "title": "Kartal Faces Kalinina as Wuhan Open Begins First Round",
+              "url": "https://suaragarut.id/en/kartal-kalinina-wuhan-open-october-2026"
+            },
+            {
+              "title": "Maria Sakkari vs. Donna Vekic prediction, odds, picks for WTA Wuhan Open 2026",
+              "url": "https://www.dimers.com/tennis/news/maria-sakkari-vs-donna-vekic-tennis-prediction-wta-wuhan-open-2026-ac"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "san antonio",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "22-year-old passenger killed in 1604 crash, driver found intoxicated, San Antonio police say",
+              "url": "https://www.ksat.com/news/local/2026/10/11/22-year-old-passenger-killed-in-1604-crash-driver-found-intoxicated-san-antonio-police-say/"
+            },
+            {
+              "title": "SAPD: Intoxicated driver crashes into pillar on Loop 1604, killing passenger",
+              "url": "https://www.kens5.com/article/news/crime/san-antonio-intoxicated-driver-crash-loop-1604-passenger-death/273-1f6d172d-cbc0-485f-8f9c-8a2ee3e83e37"
+            },
+            {
+              "title": "Suspected DWI crash on city’s North Side killed 22-year-old passenger",
+              "url": "https://cedarnews.net/newstasks/1051220/suspected-dwi-crash-citys-north-side-killed/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "millionaire for life",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "NJ Lottery Pick-3, Pick-4, Cash 5, Pick 6 Lotto winning numbers for Saturday, Oct. 10",
+              "url": "https://www.yahoo.com/news/articles/nj-lottery-pick-3-pick-040045995.html"
+            },
+            {
+              "title": "NJ Lottery Pick-3, Pick-4, Cash 5, Millionaire for Life winning numbers for Tuesday, Oct. 6",
+              "url": "https://www.yahoo.com/news/articles/nj-lottery-pick-3-pick-040038720.html"
+            },
+            {
+              "title": "SD Lottery Mega Millions, Millionaire for Life winning numbers for Oct. 9, 2026",
+              "url": "https://www.argusleader.com/story/news/local/2026/10/09/south-dakota-lottery-results-friday-october-9-2026/92184096007/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "carrie season 2",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Stephen King and Mike Flanagan on the Resurrected ‘Carrie’",
+              "url": "https://www.nytimes.com/2026/10/10/arts/television/stephen-king-mike-flanagan-interview-carrie.html"
+            },
+            {
+              "title": "'Carrie': Finale of Mike Flanagan Series, Explained",
+              "url": "https://time.com/article/2026/10/05/carrie-mike-flanagan-finale-explained/"
+            },
+            {
+              "title": "‘Carrie’ Star Samantha Sloyan Finds the Love Inside Horror’s Most Nefarious Mother",
+              "url": "https://www.hollywoodreporter.com/tv/tv-features/carrie-ending-samantha-sloyan-margaret-white-interview-1236717193/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 40,
+          "interest_max": 100,
+          "interest_latest": 57,
+          "rank": 1
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 39,
+          "interest_max": 100,
+          "interest_latest": 54,
+          "rank": 2
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 36,
+          "interest_max": 91,
+          "interest_latest": 52,
+          "rank": 3
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 22,
+          "interest_max": 69,
+          "interest_latest": 40,
+          "rank": 4
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 17,
+          "interest_max": 88,
+          "interest_latest": 30,
+          "rank": 5
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 15,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 14,
+          "interest_max": 36,
+          "interest_latest": 17,
+          "rank": 7
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 3,
+          "interest_max": 15,
+          "interest_latest": 9,
+          "rank": 8
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 1,
+          "interest_max": 8,
+          "interest_latest": 8,
+          "rank": 9
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 12,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 9,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "brunello cucinelli",
+          "value": "160"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "loro piana",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury watches",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "louis vuitton",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "celine bag",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "definition of coquette",
+          "value": "450"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette bake shop",
+          "value": "200"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette lingerie",
+          "value": "140"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette d10",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette bainbridge",
+          "value": "110"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "香港ディズニーランド・ホテル",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "香港ディズニーランド・ホテルが2026年10月12日より全館一時休館 再開日未発表",
+              "url": "https://dpost.jp/2026/10/12/wp-142374/"
+            },
+            {
+              "title": "香港ディズニーランド・ホテルが全館休業、再開日は未定",
+              "url": "https://trilltrill.jp/articles/5099909"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "小峠英二",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "小峠英二の試乗最高 10月5日(月)放送分 第15回 ゲスト：土田晃之｜バラエティ｜見逃し無料配信はTVer！人気の動画見放題",
+              "url": "https://tver.jp/episodes/epehk9wcjd"
+            },
+            {
+              "title": "土田晃之、憧れの1台に感激「ハイテクだわぁ」 ソアラでもなく「スポーティーっぽいけど高級車」",
+              "url": "https://encount.press/archives/1077779/"
+            },
+            {
+              "title": "#18 | 小峠英二の試乗最高！",
+              "url": "https://www.bsfuji.tv/kotouge-drive/archives/detail.html?id=018"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ブログ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "【IT統括本部​ Ｓｋｙスタイル部​】AI Innovation Labの​AIサポートチームの​仕事紹介 PART2",
+              "url": "https://www.skygroup.jp/corporate-blog/article/2608/"
+            },
+            {
+              "title": "目指すのは「横綱」？ 番付でAI活用度を可視化するサイバーエージェントの組織づくりの裏側",
+              "url": "https://jbpress.ismedia.jp/articles/-/97267"
+            },
+            {
+              "title": "AIエージェント2万5千個創出の「その先」へ――Ｓｋｙ株式会社が目指す「利益創出型」のAI活用に向けた組織戦略",
+              "url": "https://prtimes.jp/main/html/rd/p/000001382.000001552.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "細田佳央太",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 5,
+          "keyword": "レナード・ミラー",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Leonard Miller goes for game-high 26 points",
+              "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-11/leonard-miller-goes-for-game-high-26-points"
+            },
+            {
+              "title": "The Bulls are quickly learning why they need Leonard Miller",
+              "url": "https://pippenainteasy.com/bulls-quickly-learning-why-need-leonard-miller"
+            },
+            {
+              "title": "Bulls' Leonard Miller: Double-doubles off bench",
+              "url": "https://www.cbssports.com/fantasy/basketball/news/bulls-leonard-miller-double-doubles-off-bench/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "ヒカキン 肺炎",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "ヒカキン、肺炎で入院していた 「悩んだ末に救急車を…」自身の“反省すべき”行動を告白（オリコン）",
+              "url": "https://news.yahoo.co.jp/articles/583233348ba353a7b5fd4b5c07bb13a556177e7f"
+            },
+            {
+              "title": "ヒカキン、肺炎で入院していた",
+              "url": "https://www.topics.or.jp/articles/-/1508203"
+            },
+            {
+              "title": "ヒカキン、自身のYouTubeを更新 肺炎で入院していたことを明かす (2026年10月12日掲載)",
+              "url": "https://news.livedoor.com/topics/detail/32545728/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "チケプラ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Adoのドキドキ秘密基地有料会員様限定LIVE「お前ら起きろ！Adoのドキドキ秘密基地 作戦本部大集合 @代々木第一体育館」に関する公演案内及び注意・禁止事項についてのご案内",
+              "url": "https://ado-dokidokihimitsukichi-daigakuimo.com/articles/news/arJbfMUdxYAy9qP6sdBQXfNg"
+            },
+            {
+              "title": "Ado、初となる有料会員様限定LIVE『お前ら起きろ！Adoのドキドキ秘密基地 作戦本部大集合@代々木第一体育館』開催！チケプラの顔認証入場システム採用＆公式リセール実施決定！",
+              "url": "https://ticketplus.co.jp/news/detail/1029"
+            },
+            {
+              "title": "Ado、初となる有料会員様限定LIVE『お前ら起きろ！Adoのドキドキ秘密基地 作戦本部大集合@代々木第一体育館』開催！チケプラの顔認証入場システム採用＆公式リセール実施決定！ (2026年10月9日掲載)",
+              "url": "https://news.livedoor.com/pr_topics/detail/32526679/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "記者",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "斎藤元彦知事「フリー記者出禁を判断」で会見紛糾 「私がしゃべっている時に被せてくるのは不規則発言」とも",
+              "url": "https://news.yahoo.co.jp/articles/4a654c8140215b72ae24724e279653d1c6c2409c"
+            },
+            {
+              "title": "円滑な会見へ、フリー記者拒否",
+              "url": "https://www.sanin-chuo.co.jp/articles/-/1093331"
+            },
+            {
+              "title": "円滑な会見へ、フリー記者拒否 「兵庫知事、恣意的に記者選別」",
+              "url": "https://373news.com/news/national/detail/2026100701002029"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "関根理紗",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "大下容子",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "不正アクセスのお知らせ",
+              "url": "https://www.sanyonews.jp/article/2002857"
+            },
+            {
+              "title": "玉川徹氏「都会生活者は飢えに直結する」急増するサイバー攻撃への対応で注意を喚起（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/5624b4e131f45e8a2bd13232f9aafe448e9a1b8e"
+            },
+            {
+              "title": "サイバーセキュリティーの常識が崩れた…「個人情報」の流出を防ぐ“身も蓋もない方法”",
+              "url": "https://diamond.jp/articles/-/400815"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 44,
+          "interest_max": 89,
+          "interest_latest": 26,
+          "rank": 1
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 41,
+          "interest_max": 100,
+          "interest_latest": 56,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 27,
+          "interest_max": 100,
+          "interest_latest": 43,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 25,
+          "interest_max": 100,
+          "interest_latest": 32,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 15,
+          "interest_max": 57,
+          "interest_latest": 26,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 10,
+          "interest_max": 44,
+          "interest_latest": 17,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 26,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 1,
+          "interest_max": 32,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 1,
+          "interest_max": 80,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 21,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "musinsa",
+          "value": "120"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-10-12T04:47:59.812567+00:00"
+}
