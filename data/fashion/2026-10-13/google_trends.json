@@ -1,0 +1,924 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "국무회의",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "이 대통령 “수사·공소 기관장 국무회의 참석 당연… 국정 방향 공유해야”",
+              "url": "https://www.hani.co.kr/arti/politics/bluehouse/1282097.html"
+            },
+            {
+              "title": "李, 사정기관장 국무회의 배석 논란에 \"헌법상 당연\"",
+              "url": "https://www.chosun.com/politics/politics_general/2026/10/13/JLS2ADTKSBBMBJH67GVETE6S3A/"
+            },
+            {
+              "title": "누구도 자기사건 재판관 될수 없다[MT시평/채진원] - 머니투데이",
+              "url": "https://www.mt.co.kr/opinion/2026/10/13/2026101214152452114"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "김천시",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "김천김밥축제, 흥행 넘어 ‘불편 제로’ 도전",
+              "url": "https://view.asiae.co.kr/article/2026101310505087304"
+            },
+            {
+              "title": "편의점부터 카페까지…지역의 맛 살리고 상생 나선다",
+              "url": "https://www.newsis.com/view/NISX20261011_0003821062"
+            },
+            {
+              "title": "김밥에 10만 원 썼는데 안 아깝다…역대급 호평으로 전국 1위 오른 ‘축제’",
+              "url": "https://www.sedaily.com/article/20100020"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "크래프톤",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "크래프톤, AI 인재 100명 이상 뽑는다…역대 최대 신입 공채",
+              "url": "https://www.newsis.com/view/NISX20261013_0003823798"
+            },
+            {
+              "title": "크래프톤, AI 인재 100명 이상 선발…역대 최대 규모",
+              "url": "https://www.asiae.co.kr/article/2026101314233596201"
+            },
+            {
+              "title": "크래프톤, 채용연계형 인턴십 모집…전직군 걸쳐 100명이상 선발",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1414216"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "정웅인",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"신동엽 때렸다\" 폭행설...정웅인 결국 입 열었다 - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/10/13/2026101221070315976"
+            },
+            {
+              "title": "정웅인 '후배 폭행' 루머에 입 열었다..\"홀로 감내 중\" 심경 최초공개",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/10/13/MZRTQMDCGYYWEZRQGJRDENJVHE/"
+            },
+            {
+              "title": "정웅인 둘째 딸, SNS 끊은 이유 \"서울대 가려고\"",
+              "url": "https://www.newsis.com/view/NISX20261013_0003823184"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "정대세",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'韓 여권 취득' 정대세…\"북한 감독으로 월드컵 다시 가고 싶다\"",
+              "url": "https://www.xportsnews.com/article/2206890"
+            },
+            {
+              "title": "정대세, “북한 대표팀 감독으로 월드컵 가고 싶다” : 스포츠",
+              "url": "https://news.jkn.co.kr/post/1020506"
+            },
+            {
+              "title": "정대세 “북한 대표팀 지휘봉 잡고 월드컵 가고 싶다”",
+              "url": "https://www.wikitree.co.kr/articles/1165804"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "rj 마이트",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "미드 '브레이킹 배드' 주인공 아들 역 미티 사망…향년 34세",
+              "url": "https://www.yna.co.kr/view/AKR20261013026500087"
+            },
+            {
+              "title": "'브레이킹 배드' RJ 미트, 34세 나이로 사망…\"배우이자 인권 운동가\"",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794606"
+            },
+            {
+              "title": "'브레이킹 배드' 월터 아들 역 배우 RJ 마이트, 34세로 사망",
+              "url": "https://www.newsis.com/view/NISX20261013_0003823055"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "은행",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "금융감독원, '해킹 유출' 예가람·웰컴저축은행 현장점검(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261012175251002"
+            },
+            {
+              "title": "줄줄 샌 저축은행 고객정보, 문제는 보안 사각지대…외부 서비스 점검 시급",
+              "url": "https://www.viva100.com/article/20261012500772"
+            },
+            {
+              "title": "금감원, ’정보 유출’ 예가람저축은행 오늘부터 현장점검",
+              "url": "https://www.yonhapnewstv.co.kr/news/MYH20261013124337P1F"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "에버랜드",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "파주시",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "파주시, 해오름마을~운정역 마을버스 079번 신설",
+              "url": "http://incheonilbo.com/news/articleView.html?idxno=1333973"
+            },
+            {
+              "title": "파주시, 운정역~해오름마을~운정중앙역 연결…파주 079번 마을버스 14일부터 운행",
+              "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037414"
+            },
+            {
+              "title": "파주시, GTX 연계 마을버스 노선 신설",
+              "url": "https://www.dailian.co.kr/news/view/1700815/%ED%8C%8C%EC%A3%BC%EC%8B%9C-GTX-%EC%97%B0%EA%B3%84-%EB%A7%88%EC%9D%84%EB%B2%84%EC%8A%A4-%EB%85%B8%EC%84%A0-%EC%8B%A0-2026"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "농협",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "임실군·농협, 기본소득 상생 맞손…하나로마트서 사용 가능",
+              "url": "https://www.yna.co.kr/view/AKR20261013088800055"
+            },
+            {
+              "title": "임실군, 농어촌 기본소득 농협 하나로마트로 사용처 확대",
+              "url": "https://www.news1.kr/local/jeonbuk/6318222"
+            },
+            {
+              "title": "임실군-지역농협 상생 협약…면 하나로마트·농자재점까지 가맹점 전격 확대",
+              "url": "https://www.pressian.com/pages/articles/2026101311065507450"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 60,
+          "interest_max": 100,
+          "interest_latest": 66,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 6,
+          "interest_max": 25,
+          "interest_latest": 13,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 90,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 40,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "dungeon crawler carl live action",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Dungeon Crawler Carl: Crawler Chaos Officially Arrives Next Month",
+              "url": "https://www.imdb.com/news/ni66056807/?ref_=nmnw_art_perm"
+            },
+            {
+              "title": "‘Dungeon Crawler Carl’ Live-Action TV Series to Begin Shooting in 2027, More Details Coming ‘Very Soon’",
+              "url": "https://variety.com/2026/tv/news/dungeon-crawler-carl-tv-series-filming-2027-release-date-1236907644/"
+            },
+            {
+              "title": "‘Dungeon Crawler Carl’ Star Officially Confirms How Princess Donut Will Change for Live-Action [Exclusive]",
+              "url": "https://collider.com/dungeon-crawler-carl-jeff-hays-princess-donut-live-action-changes/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "apple iphone duo",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Apple iPhone 18 Pro vs. iPhone Duo: Don't Buy Apple's Foldable Until You Read This",
+              "url": "https://www.pcmag.com/comparisons/apple-iphone-18-pro-vs-iphone-duo-dont-buy-foldable-until-you-read-this"
+            },
+            {
+              "title": "How to set up your iPhone Duo pre-order to make checkout faster",
+              "url": "https://appleinsider.com/inside/iphone-duo/tips/how-to-set-up-your-iphone-duo-pre-order-to-make-checkout-faster"
+            },
+            {
+              "title": "\"iPhone Duo is a waste of money\" Carl Pei, Nothing CEO says",
+              "url": "https://www.phonearena.com/news/iphone-duo-is-a-waste-of-money-carl-pei_id184000"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "carrie season 2",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Stephen King and His ‘King Whisperer’ Resurrect ‘Carrie’",
+              "url": "https://www.nytimes.com/2026/10/10/arts/television/stephen-king-mike-flanagan-interview-carrie.html"
+            },
+            {
+              "title": "This Terrifying New Series Just Might Be Your Next Spooky Season Obsession",
+              "url": "https://www.purewow.com/entertainment/carrie-prime-video-series"
+            },
+            {
+              "title": "The New Carrie Is Easily the Best Adaptation of Stephen King’s Book Since De Palma’s Movie",
+              "url": "https://slate.com/culture/2026/10/carrie-show-prime-video-stephen-king-2026-new-mike-flanagan.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "jakub mensik",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Highlights: Mensik outlasts Cerundolo to seal Shanghai R4 spot",
+              "url": "https://www.atptour.com/en/video/highlights-mensik-outlasts-cerundolo-to-seal-shanghai-2026-r4-spot"
+            },
+            {
+              "title": "Cerundolo vs. Mensik Prediction at the Rolex Shanghai Masters – Sunday, October 11",
+              "url": "https://www.bleachernation.com/picks/2026/10/09/cerundolo-vs-mensik-prediction-at-the-rolex-shanghai-masters-sunday-october-11/"
+            },
+            {
+              "title": "ATP Shanghai Day 5 Predictions Including Francisco Cerundolo vs Jakub Mensik",
+              "url": "https://lastwordonsports.com/tennis/2026/10/10/atp-shanghai-day-5-predictions-cerundolo-vs-mensik/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "hugh jackman",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "In 2009, Hugh Jackman met an Ethiopian coffee farmer who inspired a business; his Laughing Man Foundation",
+              "url": "https://timesofindia.indiatimes.com/world/us/in-2009-hugh-jackman-met-an-ethiopian-coffee-farmer-who-inspired-a-business-his-laughing-man-foundation-later-supported-safer-homes-healthcare-and-college-scholarships-for-farming-families/articleshow/134890227.cms"
+            },
+            {
+              "title": "Hugh Jackman turns 58: Revisit 8 of his iconic roles",
+              "url": "https://www.upi.com/Entertainment_News/2026/10/12/hugh-jackman-58th-birthday-roles/3521791568935/"
+            },
+            {
+              "title": "Things you didn’t know about Hugh Jackman",
+              "url": "https://indianexpress.com/photos/lifestyle-gallery/things-you-didnt-know-about-hugh-jackman-10916781/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "josh brolin",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Josh Brolin calls 'Sicario 3' cast work 'untouchable' as franchise moves forward without Sheridan script | OutKick",
+              "url": "https://www.foxnews.com/outkick-culture/josh-brolin-calls-sicario-3-cast-work-untouchable-franchise-moves-forward-without-sheridan-script"
+            },
+            {
+              "title": "Josh Brolin talks Sicario 3 without Taylor Sheridan",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/josh-brolin-talks-sicario-3-200731146.html"
+            },
+            {
+              "title": "Taylor Sheridan’s Sicario 3 Absence Officially Addressed By Josh Brolin",
+              "url": "https://screenrant.com/taylor-sheridan-sicario-3-absence-josh-brolin-response/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "oma vs nep",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Match Predictions: ICC CWC League 2 2026 - Match 135 - Oman vs Nepal and Match 136 - USA vs Namibia - October 13th",
+              "url": "https://www.cricketworld.com/match-predictions-icc-cwc-league-2-2026-match-135-oman-vs-nepal-and-match-136-usa-vs-namibia-october-13th/113782.htm"
+            },
+            {
+              "title": "Oman vs Nepal Live Scorecard: Live Cricket Score OMA vs NEP, Match 135, ICC CWC League 2, 2023-27",
+              "url": "https://www.indiatoday.in/live-score/cricket/oman-nepal-live-cricket-scorecard-273762"
+            },
+            {
+              "title": "NEP vs CAN, 133rd Match, ICC Cricket World Cup League Two 2023-27 - Commentary",
+              "url": "https://www.cricbuzz.com/live-cricket-scores/169921/can-vs-nep-133rd-match-icc-cricket-world-cup-league-two-2023-27"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "mackayla paige shot",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Reality TV personality \"Kash\" killed in downtown Oakland shooting, woman arrested",
+              "url": "https://www.ktvu.com/news/oakland-shooting-richmond-sunday"
+            },
+            {
+              "title": "Mackayla Paige: Reality television star 'Kash' from Now That's TV's 'Young & Reckless' shot and killed in Oakland",
+              "url": "https://abc7news.com/post/mackayla-paige-reality-television-star-kash-now-tvs-young-reckless-shot-killed-oakland/19933129/"
+            },
+            {
+              "title": "Reality TV personality shot and killed in downtown Oakland",
+              "url": "https://www.sfgate.com/bayarea/article/reality-tv-shooting-kash-22474234.php"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "kayli arseth",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Minnesota Man Fatally Shot Woman in Head After She Told Him She ‘Wasn’t Ready’ for a Relationship",
+              "url": "https://www.yahoo.com/news/us/articles/minnesota-man-fatally-shot-woman-195412978.html"
+            },
+            {
+              "title": "Man convicted for 'rejection killing' of Richfield woman",
+              "url": "https://www.kare11.com/article/news/crime/man-gets-life-in-prison-for-rejection-killing-of-richfield-woman-mn/89-420118c6-3e8b-43a0-9077-8e4dba92ddfa"
+            },
+            {
+              "title": "Man convicted of 1st-degree murder for death of Richfield woman who rejected his romantic advances",
+              "url": "https://kstp.com/kstp-news/local-news/man-convicted-of-1st-degree-murder-for-death-of-richfield-woman-who-rejected-his-romantic-advances/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "galatasaray",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Galatasaray - Barcelona maçı ne zaman, saat kaçta, hangi kanalda? UEFA Şampiyonlar Ligi Galatasaray Barcelona muhtemel 11'ler",
+              "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-barcelona-maci-ne-zaman-saat-kacta-hangi-kanalda-uefa-sampiyonlar-ligi-galatasaray-barcelona-muhtemel-11ler-43339408"
+            },
+            {
+              "title": "Okan Buruk'tan Lamine Yamal sözleri: 'Onu durdurmak için...'",
+              "url": "https://www.cumhuriyet.com.tr/spor/okan-buruk-tan-lamine-yamal-sozleri-onu-durdurmak-icin-2546059"
+            },
+            {
+              "title": "Türk futbol tarihinin en pahalı maçı yok sattı",
+              "url": "https://www.sozcu.com.tr/turk-futbol-tarihinin-en-pahali-maci-yok-satti-p368215"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 42,
+          "interest_max": 95,
+          "interest_latest": 70,
+          "rank": 1
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 40,
+          "interest_max": 100,
+          "interest_latest": 54,
+          "rank": 2
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 37,
+          "interest_max": 100,
+          "interest_latest": 56,
+          "rank": 3
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 23,
+          "interest_max": 82,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 20,
+          "interest_max": 82,
+          "interest_latest": 44,
+          "rank": 5
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 16,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 13,
+          "interest_max": 29,
+          "interest_latest": 25,
+          "rank": 7
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 3,
+          "interest_max": 13,
+          "interest_latest": 11,
+          "rank": 8
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 1,
+          "interest_max": 11,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 21,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "loro piana",
+          "value": "350"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "demellier bag",
+          "value": "300"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "toteme",
+          "value": "170"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "strathberry bag",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "the real real",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "ugg coquette slippers on sale",
+          "value": "16350"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette bainbridge",
+          "value": "11400"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette symbols copy and paste",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette bakery",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette new orleans",
+          "value": "60"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "nepal vs oman",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Nepal win but ODI status still not secure",
+              "url": "https://kathmandupost.com/sports/2026/10/11/nepal-beat-canada-by-24-runs-to-open-league-2-tri-series"
+            },
+            {
+              "title": "Nepal v Canada | Match Highlights | ICC Cricket World Cup League 2 2023-27",
+              "url": "https://www.icc-cricket.com/videos/nepal-v-canada-match-highlights-icc-cricket-world-cup-league-2-2023-27"
+            },
+            {
+              "title": "Nepal eyes win over Oman today",
+              "url": "https://myrepublica.nagariknetwork.com/news/nepal-eyes-win-over-oman-today-25-18.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "山本圭",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "シックスフラッグス",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "米遊園地で事故、1人死亡 ジェットコースターから転落か 他の4人も負傷（ロイター）",
+              "url": "https://news.yahoo.co.jp/articles/bbc02a4f4c33ac7e880b7c8f4395ea83d64e2df0"
+            },
+            {
+              "title": "遊園地のジェットコースターで男性が転落死、米ジョージア州のシックス・フラッグス",
+              "url": "https://www.cnn.co.jp/usa/35253483.html"
+            },
+            {
+              "title": "シックス・フラッグスの株価、ジョージア州のジェットコースター死亡事故を受けて下落 執筆",
+              "url": "https://jp.investing.com/news/stock-market-news/article-1709237"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "偵察機",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "墜落した「グローバルホーク」 機体回収船が作業開始 引き揚げ本格化（テレビ朝日系（ANN））",
+              "url": "https://news.yahoo.co.jp/articles/21b733751ad0bfb352d6a751d58e128a38c41e65"
+            },
+            {
+              "title": "墜落した空自グローバルホーク、海中から機体回収へ… 水深200〜300m",
+              "url": "https://flyteam.jp/news/article/146490"
+            },
+            {
+              "title": "空自の大型無人偵察機「グローバルホーク」墜落、鳥取県沖の海底から機体部品の引き揚げ開始",
+              "url": "https://www.yomiuri.co.jp/national/20261013-GYT1T00096/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ちいかわ",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "『ちいかわ』新商品にネット衝撃 売り切れ続出で「受注して下さい！」（オリコン）",
+              "url": "https://news.yahoo.co.jp/articles/fb238efe4800223f27ef26df4835c23b43da3150"
+            },
+            {
+              "title": "郵便局でゲット！便利すぎる「スヌーピーの新作ポーチ」、秘密は“3層の収納”（実物レビュー） の画像・写真",
+              "url": "https://lp.p.pia.jp/article/news/514592/photo-gallery/index.html?id=2"
+            },
+            {
+              "title": "「ちいかわ」くりまんじゅう、シーサーが可愛い“ねんどろいど”に！ 「缶ビール」「お酒の本」などオプションパーツも豊富",
+              "url": "https://www.inside-games.jp/article/2026/10/12/189127.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "リフォーム",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "約1万5000回再生のDIY！貼ってはがせる壁紙で叶える寝室リフォームに反響（LIMO）",
+              "url": "https://news.yahoo.co.jp/articles/07de61044ad67fdc8424912223d6120040ec1593"
+            },
+            {
+              "title": "貼ってはがせる壁紙でたった2時間半の寝室リフォーム！ のり不要で「賃貸でも挑戦しやすい」DIYに反響",
+              "url": "https://limo.media/articles/-/140299"
+            },
+            {
+              "title": "約3万8000回再生の「寝室ホテルライク計画」、中古マンションの壁がDIYで様変わり（LIMO）",
+              "url": "https://news.yahoo.co.jp/articles/34a5daa771a4f5c0f42e8bbac8ac28548b790ae2"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "クレヨンしんちゃん",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "この3連休がラストチャンス！淡路島で大人気の巨大アスレチックがいよいよ10月12日で終了！",
+              "url": "https://nijigennomori.com/2026/10/08/crayonshinchan-1149/"
+            },
+            {
+              "title": "本日からいよいよスタート！「クレヨンしちゃんアドベンチャーパーク」しんちゃんの世界観を大満喫！遊んで、つくって、思い出いっぱい！10月13日（火）より新チケット登場！",
+              "url": "http://www.excite.co.jp/news/article/Atpress_640585/"
+            },
+            {
+              "title": "シロとぶりぶりざえもんの色付け体験も選べる！ニジゲンノモリ「GRAND CHARIOT 北斗七星135°」クレヨンしんちゃんコラボルーム宿泊者限定「選べる宿泊特典」",
+              "url": "https://dtimes.jp/post-1410708/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "新垣結衣",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "星野源&新垣結衣 第1子誕生を報告",
+              "url": "https://news.yahoo.co.jp/pickup/6598618"
+            },
+            {
+              "title": "ガッキーがママに！２０２６年、人気女優の出産相次ぐ…高畑充希、満島ひかり、木村文乃ら",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/entertainment/hochi-20261013-OHT1T51135?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
+            },
+            {
+              "title": "女優の新垣結衣が第1子を出産、SNSで発表「親として、人として、ともに精進していきたいと…」",
+              "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900201787.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "トヨタ 新型",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "公道でトヨタ新型「GR GT」を目撃！ 超ロー＆ワイドな“走行姿”がSNSで拡散!! 650馬力以上のV8ハイブリッド搭載で2027年ごろ発売へ（VAGUE）",
+              "url": "https://news.yahoo.co.jp/articles/94acce0acb256ef36b346c3e134e74c13d1d0867?page=2"
+            },
+            {
+              "title": "【写真2】2026WEC第6戦富士",
+              "url": "https://www.as-web.jp/sports-car/1361780/attachment/07-2_t-11"
+            },
+            {
+              "title": "Akkodis ASP Team、FIA世界耐久選手権 第6戦「富士6時間耐久レース」に参戦｜Infoseekニュース",
+              "url": "https://news.infoseek.co.jp/article/prtimes_000000274_000010295/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "zeta に じ さん じ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "AIキャラ会話サービス「zeta」でにじさんじVTuberを無断生成 ANYCOLORが削除要請",
+              "url": "https://kai-you.net/article/96808"
+            },
+            {
+              "title": "AIキャラ会話サービス「zeta」でにじさんじVTuberを無断生成 ANYCOLORが削除要請",
+              "url": "https://www.chiba-tv.com/plus/detail/2026102106166"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 44,
+          "interest_max": 100,
+          "interest_latest": 26,
+          "rank": 1
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 28,
+          "interest_max": 100,
+          "interest_latest": 22,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 25,
+          "interest_max": 100,
+          "interest_latest": 25,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 23,
+          "interest_max": 61,
+          "interest_latest": 23,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 14,
+          "interest_max": 45,
+          "interest_latest": 17,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 10,
+          "interest_max": 52,
+          "interest_latest": 16,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 17,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 16,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 20,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-10-13T05:51:33.319657+00:00"
+}

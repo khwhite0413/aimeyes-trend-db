@@ -1,0 +1,720 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "아이폰",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "'애플 감성이 언제 적 얘기'…아이폰 민심 심상치 않다는데 [트렌드+]",
+              "url": "https://www.hankyung.com/article/202610138093g"
+            },
+            {
+              "title": "[초동시각]\"아이패드 사주세요\"…점유율 81% 삼성이 가지지 못한 것",
+              "url": "https://view.asiae.co.kr/article/2026100606174382671"
+            },
+            {
+              "title": "애플 ‘아이폰 듀오’ 출시 코앞…생산 차질에 흥행 변수",
+              "url": "https://zdnet.co.kr/view/?no=20261013080726"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "농축 우라늄",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "“호르무즈 파병 실기에... 걸프국, 韓 신뢰도 흔들려”",
+              "url": "https://www.sedaily.com/article/20100110"
+            },
+            {
+              "title": "핵잠·우라늄 농축 논의 중단 … 韓 잇단 요청에도 美 시큰둥",
+              "url": "https://www.mk.co.kr/news/politics/12173898"
+            },
+            {
+              "title": "이라크에 호르무즈까지…왜 파병 문제는 민주정부에서 유독 불거지나",
+              "url": "https://www.pressian.com/pages/articles/2026101215444916749"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "oma vs nep",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "NEP:17/0 (5.2) | Live Cricket Score | OMA vs NEP | icc cwc league 2 2023-27 | Cricket Scoreboard",
+              "url": "https://sports.ndtv.com/cricket/oma-vs-nep-scorecard-live-cricket-score-icc-cwc-league-2-2023-27-match-135-omnp10132026273762"
+            },
+            {
+              "title": "NEP vs CAN, 133rd Match, ICC Cricket World Cup League Two 2023-27 - Commentary",
+              "url": "https://www.cricbuzz.com/live-cricket-scores/169921/nep-vs-can-133rd-match-icc-cricket-world-cup-league-two-2023-27"
+            },
+            {
+              "title": "Nepal Competes Against Oman in ICC Men's Cricket World Cup League 2",
+              "url": "https://english.ratopati.com/story/83533/nepal-to-bat-first-against-oman"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "행정안전부",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "중수청장 후보자 “임은정 공개 비판, 조직 기강 무너뜨리는 행위”",
+              "url": "https://www.hani.co.kr/arti/society/society_general/1282098.html"
+            },
+            {
+              "title": "김지용 “임은정 공개 비판은 조직 기강 무너뜨리는 행위…전혀 사실 아냐”",
+              "url": "https://www.donga.com/news/Society/article/all/20261013/134831985/1"
+            },
+            {
+              "title": "檢 닮을라… 윤호중 '정치중수청' 경고장 - 머니투데이",
+              "url": "https://www.mt.co.kr/society/2026/10/13/2026101219451956493"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "국무회의",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "이 대통령 “수사·공소 기관장 국무회의 참석 당연… 국정 방향 공유해야”",
+              "url": "https://www.hani.co.kr/arti/politics/bluehouse/1282097.html"
+            },
+            {
+              "title": "李, 사정기관장 국무회의 배석 논란에 \"헌법상 당연\"",
+              "url": "https://www.chosun.com/politics/politics_general/2026/10/13/JLS2ADTKSBBMBJH67GVETE6S3A/"
+            },
+            {
+              "title": "누구도 자기사건 재판관 될수 없다[MT시평/채진원] - 머니투데이",
+              "url": "https://www.mt.co.kr/opinion/2026/10/13/2026101214152452114"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "김천시",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "김천김밥축제, 흥행 넘어 ‘불편 제로’ 도전",
+              "url": "https://view.asiae.co.kr/article/2026101310505087304"
+            },
+            {
+              "title": "편의점부터 카페까지…지역의 맛 살리고 상생 나선다",
+              "url": "https://www.newsis.com/view/NISX20261011_0003821062"
+            },
+            {
+              "title": "김밥에 10만 원 썼는데 안 아깝다…역대급 호평으로 전국 1위 오른 ‘축제’",
+              "url": "https://www.sedaily.com/article/20100020"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "크래프톤",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "크래프톤, AI 인재 100명 이상 뽑는다…역대 최대 신입 공채",
+              "url": "https://www.newsis.com/view/NISX20261013_0003823798"
+            },
+            {
+              "title": "크래프톤, AI 인재 100명 이상 선발…역대 최대 규모",
+              "url": "https://www.asiae.co.kr/article/2026101314233596201"
+            },
+            {
+              "title": "크래프톤, 채용연계형 인턴십 모집…전직군 걸쳐 100명이상 선발",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1414216"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "정웅인",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "\"신동엽 때렸다\" 폭행설...정웅인 결국 입 열었다 - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/10/13/2026101221070315976"
+            },
+            {
+              "title": "정웅인 '후배 폭행' 루머에 입 열었다..\"홀로 감내 중\" 심경 최초공개",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/10/13/MZRTQMDCGYYWEZRQGJRDENJVHE/"
+            },
+            {
+              "title": "정웅인 둘째 딸, SNS 끊은 이유 \"서울대 가려고\"",
+              "url": "https://www.newsis.com/view/NISX20261013_0003823184"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "정대세",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'韓 여권 취득' 정대세…\"북한 감독으로 월드컵 다시 가고 싶다\"",
+              "url": "https://www.xportsnews.com/article/2206890"
+            },
+            {
+              "title": "정대세, “북한 대표팀 감독으로 월드컵 가고 싶다” : 스포츠",
+              "url": "https://news.jkn.co.kr/post/1020506"
+            },
+            {
+              "title": "정대세 “북한 대표팀 지휘봉 잡고 월드컵 가고 싶다”",
+              "url": "https://www.wikitree.co.kr/articles/1165804"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "rj 마이트",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "미드 '브레이킹 배드' 주인공 아들 역 미티 사망…향년 34세",
+              "url": "https://www.yna.co.kr/view/AKR20261013026500087"
+            },
+            {
+              "title": "사망 12일 전 레드카펫→SNS 마지막글 \"영화 봐달라\"..'브레이킹배드' 34세 요절 배우 [Oh!llywood]",
+              "url": "https://www.chosun.com/entertainments/enter_general/2026/10/13/G43DAMJXGI2DMNRXGE2DKN3FHA/"
+            },
+            {
+              "title": "'브레이킹 배드' RJ 미트, 34세 나이로 사망…\"배우이자 인권 운동가\"",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794606"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 2,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 63,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "arthur gea",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Shelton praises Gea: ‘I got outplayed’",
+              "url": "https://www.atptour.com/en/news/shelton-reaction-shanghai-2026-sunday"
+            },
+            {
+              "title": "Ben Shelton stumbles in straight sets, Zverev wins in Shanghai",
+              "url": "https://www.espn.com/tennis/story/_/id/50154952/shelton-stumbles-straight-sets-loss-gea-shanghai-masters"
+            },
+            {
+              "title": "“Beyond Frustrated & Disappointed” – Fans React As Ben Shelton & Frances Tiafoe Suffer Double Heartbreak At Shanghai Masters On Same Day",
+              "url": "https://sports.yahoo.com/articles/beyond-frustrated-disappointed-fans-react-230204810.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "little village",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Family mourns Abbygail Somoza, 22-year-old killed in Little Village, Chicago shooting in 2800-block of West 23rd Street",
+              "url": "https://abc7chicago.com/post/family-mourns-abbygail-somoza-22-year-old-killed-little-village-chicago-shooting-2800-block-west-23rd-street/19933532/"
+            },
+            {
+              "title": "Halloween shopping trip turns deadly for 'loving and caring' woman, 22, shot in Little Village",
+              "url": "https://chicago.suntimes.com/crime/2026/10/10/woman-22-dies-after-shot-in-little-village"
+            },
+            {
+              "title": "Woman, 22, dies after being shot in Little Village on Saturday night, according to Chicago police",
+              "url": "https://wgntv.com/news/chicagocrime/woman-22-dies-after-being-shot-in-little-village-on-saturday-night-according-to-chicago-police/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "dungeon crawler carl live action",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Dungeon Crawler Carl: Crawler Chaos Officially Arrives Next Month",
+              "url": "https://www.imdb.com/news/ni66056807/?ref_=nmnw_art_perm"
+            },
+            {
+              "title": "‘Dungeon Crawler Carl’ Live-Action TV Series to Begin Shooting in 2027, More Details Coming ‘Very Soon’",
+              "url": "https://variety.com/2026/tv/news/dungeon-crawler-carl-tv-series-filming-2027-release-date-1236907644/"
+            },
+            {
+              "title": "‘Dungeon Crawler Carl’ Star Officially Confirms How Princess Donut Will Change for Live-Action [Exclusive]",
+              "url": "https://collider.com/dungeon-crawler-carl-jeff-hays-princess-donut-live-action-changes/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "apple iphone duo",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Apple iPhone 18 Pro vs. iPhone Duo: Don't Buy Apple's Foldable Until You Read This",
+              "url": "https://www.pcmag.com/comparisons/apple-iphone-18-pro-vs-iphone-duo-dont-buy-foldable-until-you-read-this"
+            },
+            {
+              "title": "How to set up your iPhone Duo pre-order to make checkout faster",
+              "url": "https://appleinsider.com/inside/iphone-duo/tips/how-to-set-up-your-iphone-duo-pre-order-to-make-checkout-faster"
+            },
+            {
+              "title": "\"iPhone Duo is a waste of money\" Carl Pei, Nothing CEO says",
+              "url": "https://www.phonearena.com/news/iphone-duo-is-a-waste-of-money-carl-pei_id184000"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "carrie season 2",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Stephen King and His ‘King Whisperer’ Resurrect ‘Carrie’",
+              "url": "https://www.nytimes.com/2026/10/10/arts/television/stephen-king-mike-flanagan-interview-carrie.html"
+            },
+            {
+              "title": "This Terrifying New Series Just Might Be Your Next Spooky Season Obsession",
+              "url": "https://www.purewow.com/entertainment/carrie-prime-video-series"
+            },
+            {
+              "title": "The New Carrie Is Easily the Best Adaptation of Stephen King’s Book Since De Palma’s Movie",
+              "url": "https://slate.com/culture/2026/10/carrie-show-prime-video-stephen-king-2026-new-mike-flanagan.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "jakub mensik",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Highlights: Mensik outlasts Cerundolo to seal Shanghai R4 spot",
+              "url": "https://www.atptour.com/en/video/highlights-mensik-outlasts-cerundolo-to-seal-shanghai-2026-r4-spot"
+            },
+            {
+              "title": "Cerundolo vs. Mensik Prediction at the Rolex Shanghai Masters – Sunday, October 11",
+              "url": "https://www.bleachernation.com/picks/2026/10/09/cerundolo-vs-mensik-prediction-at-the-rolex-shanghai-masters-sunday-october-11/"
+            },
+            {
+              "title": "ATP Shanghai Day 5 Predictions Including Francisco Cerundolo vs Jakub Mensik",
+              "url": "https://lastwordonsports.com/tennis/2026/10/10/atp-shanghai-day-5-predictions-cerundolo-vs-mensik/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "hugh jackman",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "In 2009, Hugh Jackman met an Ethiopian coffee farmer who inspired a business; his Laughing Man Foundation",
+              "url": "https://timesofindia.indiatimes.com/world/us/in-2009-hugh-jackman-met-an-ethiopian-coffee-farmer-who-inspired-a-business-his-laughing-man-foundation-later-supported-safer-homes-healthcare-and-college-scholarships-for-farming-families/articleshow/134890227.cms"
+            },
+            {
+              "title": "Hugh Jackman turns 58: Revisit 8 of his iconic roles",
+              "url": "https://www.upi.com/Entertainment_News/2026/10/12/hugh-jackman-58th-birthday-roles/3521791568935/"
+            },
+            {
+              "title": "Things you didn’t know about Hugh Jackman",
+              "url": "https://indianexpress.com/photos/lifestyle-gallery/things-you-didnt-know-about-hugh-jackman-10916781/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "josh brolin",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Josh Brolin calls 'Sicario 3' cast work 'untouchable' as franchise moves forward without Sheridan script | OutKick",
+              "url": "https://www.foxnews.com/outkick-culture/josh-brolin-calls-sicario-3-cast-work-untouchable-franchise-moves-forward-without-sheridan-script"
+            },
+            {
+              "title": "Josh Brolin talks Sicario 3 without Taylor Sheridan",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/josh-brolin-talks-sicario-3-200731146.html"
+            },
+            {
+              "title": "Taylor Sheridan’s Sicario 3 Absence Officially Addressed By Josh Brolin",
+              "url": "https://screenrant.com/taylor-sheridan-sicario-3-absence-josh-brolin-response/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "mackayla paige shot",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Reality TV personality \"Kash\" killed in downtown Oakland shooting, woman arrested",
+              "url": "https://www.ktvu.com/news/oakland-shooting-richmond-sunday"
+            },
+            {
+              "title": "Mackayla Paige: Reality television star 'Kash' from Now That's TV's 'Young & Reckless' shot and killed in Oakland",
+              "url": "https://abc7news.com/post/mackayla-paige-reality-television-star-kash-now-tvs-young-reckless-shot-killed-oakland/19933129/"
+            },
+            {
+              "title": "Reality TV personality shot and killed in downtown Oakland",
+              "url": "https://www.sfgate.com/bayarea/article/reality-tv-shooting-kash-22474234.php"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "oma vs nep",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Live Cricket Score | OMA vs NEP | icc cwc league 2 2023-27 | Cricket Scoreboard",
+              "url": "https://sports.ndtv.com/cricket/oma-vs-nep-scorecard-live-cricket-score-icc-cwc-league-2-2023-27-match-135-omnp10132026273762"
+            },
+            {
+              "title": "Match Predictions: ICC CWC League 2 2026 - Match 135 - Oman vs Nepal and Match 136 - USA vs Namibia - October 13th",
+              "url": "https://www.cricketworld.com/match-predictions-icc-cwc-league-2-2026-match-135-oman-vs-nepal-and-match-136-usa-vs-namibia-october-13th/113782.htm"
+            },
+            {
+              "title": "Oman vs Nepal Live Scorecard: Live Cricket Score OMA vs NEP, Match 135, ICC CWC League 2, 2023-27",
+              "url": "https://www.indiatoday.in/live-score/cricket/oman-nepal-live-cricket-scorecard-273762"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 69,
+          "interest_max": 100,
+          "interest_latest": 82,
+          "rank": 1
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 1,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "nepal vs oman",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Nepal win but ODI status still not secure",
+              "url": "https://kathmandupost.com/sports/2026/10/11/nepal-beat-canada-by-24-runs-to-open-league-2-tri-series"
+            },
+            {
+              "title": "Nepal v Canada | Match Highlights | ICC Cricket World Cup League 2 2023-27",
+              "url": "https://www.icc-cricket.com/videos/nepal-v-canada-match-highlights-icc-cricket-world-cup-league-2-2023-27"
+            },
+            {
+              "title": "Nepal eyes win over Oman today",
+              "url": "https://myrepublica.nagariknetwork.com/news/nepal-eyes-win-over-oman-today-25-18.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "山本圭",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "シックスフラッグス",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "米遊園地で事故、1人死亡 ジェットコースターから転落か 他の4人も負傷（ロイター）",
+              "url": "https://news.yahoo.co.jp/articles/bbc02a4f4c33ac7e880b7c8f4395ea83d64e2df0"
+            },
+            {
+              "title": "遊園地のジェットコースターで男性が転落死、米ジョージア州のシックス・フラッグス",
+              "url": "https://www.cnn.co.jp/usa/35253483.html"
+            },
+            {
+              "title": "シックス・フラッグスの株価、ジョージア州のジェットコースター死亡事故を受けて下落 執筆",
+              "url": "https://jp.investing.com/news/stock-market-news/article-1709237"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "偵察機",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "墜落した「グローバルホーク」 機体回収船が作業開始 引き揚げ本格化（テレビ朝日系（ANN））",
+              "url": "https://news.yahoo.co.jp/articles/21b733751ad0bfb352d6a751d58e128a38c41e65"
+            },
+            {
+              "title": "墜落した空自グローバルホーク、海中から機体回収へ… 水深200〜300m",
+              "url": "https://flyteam.jp/news/article/146490"
+            },
+            {
+              "title": "空自の大型無人偵察機「グローバルホーク」墜落、鳥取県沖の海底から機体部品の引き揚げ開始",
+              "url": "https://www.yomiuri.co.jp/national/20261013-GYT1T00096/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ちいかわ",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "『ちいかわ』新商品にネット衝撃 売り切れ続出で「受注して下さい！」（オリコン）",
+              "url": "https://news.yahoo.co.jp/articles/fb238efe4800223f27ef26df4835c23b43da3150"
+            },
+            {
+              "title": "郵便局でゲット！便利すぎる「スヌーピーの新作ポーチ」、秘密は“3層の収納”（実物レビュー） の画像・写真",
+              "url": "https://lp.p.pia.jp/article/news/514592/photo-gallery/index.html?id=2"
+            },
+            {
+              "title": "「ちいかわ」くりまんじゅう、シーサーが可愛い“ねんどろいど”に！ 「缶ビール」「お酒の本」などオプションパーツも豊富",
+              "url": "https://www.inside-games.jp/article/2026/10/12/189127.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "リフォーム",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "約1万5000回再生のDIY！貼ってはがせる壁紙で叶える寝室リフォームに反響（LIMO）",
+              "url": "https://news.yahoo.co.jp/articles/07de61044ad67fdc8424912223d6120040ec1593"
+            },
+            {
+              "title": "貼ってはがせる壁紙でたった2時間半の寝室リフォーム！ のり不要で「賃貸でも挑戦しやすい」DIYに反響",
+              "url": "https://limo.media/articles/-/140299"
+            },
+            {
+              "title": "約3万8000回再生の「寝室ホテルライク計画」、中古マンションの壁がDIYで様変わり（LIMO）",
+              "url": "https://news.yahoo.co.jp/articles/34a5daa771a4f5c0f42e8bbac8ac28548b790ae2"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "クレヨンしんちゃん",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "この3連休がラストチャンス！淡路島で大人気の巨大アスレチックがいよいよ10月12日で終了！",
+              "url": "https://nijigennomori.com/2026/10/08/crayonshinchan-1149/"
+            },
+            {
+              "title": "本日からいよいよスタート！「クレヨンしちゃんアドベンチャーパーク」しんちゃんの世界観を大満喫！遊んで、つくって、思い出いっぱい！10月13日（火）より新チケット登場！",
+              "url": "http://www.excite.co.jp/news/article/Atpress_640585/"
+            },
+            {
+              "title": "シロとぶりぶりざえもんの色付け体験も選べる！ニジゲンノモリ「GRAND CHARIOT 北斗七星135°」クレヨンしんちゃんコラボルーム宿泊者限定「選べる宿泊特典」",
+              "url": "https://dtimes.jp/post-1410708/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "新垣結衣",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "星野源&新垣結衣 第1子誕生を報告",
+              "url": "https://news.yahoo.co.jp/pickup/6598618"
+            },
+            {
+              "title": "ガッキーがママに！２０２６年、人気女優の出産相次ぐ…高畑充希、満島ひかり、木村文乃ら",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/entertainment/hochi-20261013-OHT1T51135?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
+            },
+            {
+              "title": "女優の新垣結衣が第1子を出産、SNSで発表「親として、人として、ともに精進していきたいと…」",
+              "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900201787.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "トヨタ 新型",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "公道でトヨタ新型「GR GT」を目撃！ 超ロー＆ワイドな“走行姿”がSNSで拡散!! 650馬力以上のV8ハイブリッド搭載で2027年ごろ発売へ（VAGUE）",
+              "url": "https://news.yahoo.co.jp/articles/94acce0acb256ef36b346c3e134e74c13d1d0867?page=2"
+            },
+            {
+              "title": "【写真2】2026WEC第6戦富士",
+              "url": "https://www.as-web.jp/sports-car/1361780/attachment/07-2_t-11"
+            },
+            {
+              "title": "Akkodis ASP Team、FIA世界耐久選手権 第6戦「富士6時間耐久レース」に参戦｜Infoseekニュース",
+              "url": "https://news.infoseek.co.jp/article/prtimes_000000274_000010295/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "zeta に じ さん じ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "AIキャラ会話サービス「zeta」でにじさんじVTuberを無断生成 ANYCOLORが削除要請",
+              "url": "https://kai-you.net/article/96808"
+            },
+            {
+              "title": "AIキャラ会話サービス「zeta」でにじさんじVTuberを無断生成 ANYCOLORが削除要請",
+              "url": "https://www.chiba-tv.com/plus/detail/2026102106166"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 21,
+          "interest_max": 100,
+          "interest_latest": 24,
+          "rank": 1
+        },
+        {
+          "keyword": "バズった",
+          "interest_avg": 10,
+          "interest_max": 44,
+          "interest_latest": 13,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 1,
+          "interest_max": 31,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 12,
+          "interest_latest": 6,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-10-13T05:54:05.387388+00:00"
+}
