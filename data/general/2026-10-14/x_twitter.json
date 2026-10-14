@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#Hyperdrive",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#베리즈_14일에_MMA_보내줘",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "스포티파이",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#디스이즈_지민데이",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#Happy21andOnlyJAMES",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#제임스의_빛이_차오르길",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "최광야구",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "앨런튜링",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "ALL ROUNDER BIRTHDAY",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "JAMTOBER",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "HAPPY BIRTHDAY JIMIN",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "오셀로와 이아",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "JAMASTERPIECE",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "방탄소년단 멤버들",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "튜링머신",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "전자발찌",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "우리 궁합",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "어떤 친구",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "주급 축하",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "오픈더도어",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "멤버들 모두",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "꼬들 1747",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "홍실 안무",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "마카로니",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "너의 모든 순간",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "니욘앤비욘",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "제임스 생일",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "로드스터",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "인천 칼부림",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "하이닉스",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#DWTS",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Guillermo",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#VisionQuest",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Ezra",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Jenna",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Tatyana",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Carrie Ann",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Connor",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#DWCS",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Amber",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "#WWENXT",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "MacKinnon",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Tyler",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Kessler",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Freddy Peralta",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Julia",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "#Blackhawks",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Hintz",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Alaska",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Maura",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Daniella",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Hochul",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Narnia",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Blakeman",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Rocchio",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Visconde",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Pasha",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Bank of America",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Witney",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Metallica",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Stolarz",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#DWTS",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Guillermo",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Rielly",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "ersson",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Kawhi",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Utah",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Raptors",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Tatyana",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Jenna",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Alaska",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "#VisionQuest",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "#DWCS",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Carrie Ann",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "#WWENXT",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Lane Hutson",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Ezra",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Scottie",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Maura",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Amber",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Knicks",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Hiller",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Engström",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Reilly",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "#WeTheNorth",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Julia",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Bolduc",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Josh Anderson",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Sabres",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Buium",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#auPAYとキノコ",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#濃密キャラメル",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "鉄道の日",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#マックのコーヒーでほっとひといき",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "チョコットランド",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "チョコラン",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#秋の推し麺選手権",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#秋の味覚といえば",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "ファミマの無限クリーム",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "モンスターファームアドバンス",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "プーさん",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "イマジネーション",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "土砂降り",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "層の家庭",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "スパイ容疑",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "焼きうどん",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "抗議決議",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Argon",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "メタスラアドバンス",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "くそばばあ",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "週の真ん中",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "PASSIONOIR",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "キオクシア",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "ビビミク",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "フロンティアパンチ",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "北海道新聞",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "ココスコラボ",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "日本のGDP",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "メタルスラッグアドバンス",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "杉山裕之",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "永井彪也選手",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "農相の進退",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "不振の原因",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "あなたの一度",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "虚血性心疾患",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "収録ファイト",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "誕生色の組み合わせ",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "舞茸の天ぷら",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "子どもの頃の夢",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "サハリン",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "ペラルタ",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "園田3R",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "一週間の疲れ",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "日本初の鉄道",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "はぬぴー",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "意外と嫌い",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "最後の仕事",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "アマテイ",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "トランスクジャ",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "キノコ・キノコ料理",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#DWTS",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#auPAYとキノコ",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#HALLOWEENTIPS",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#RoçaAFazenda",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Paredes",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#JANONESEUAUTORIZO",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Vasco Da Gama",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Flores",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Palacios",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Alarcón",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Piero Maza",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Lozano",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Guillermo",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "andrés gómez",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "HBD FAYE PERAYA",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Sencia",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Ezra",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Villa",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "鉄道の日",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Tatyana",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Jenna",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Ascacibar",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Justice for Bapuji",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Carrie Ann",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "PERTH UNLEASH THE ROCK",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Delgado",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "LOVE ON HIRE BLESSING DAY",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "チョコットランド",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Merentiel",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Stolarz",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-14T03:57:13.317731+00:00"
+}
