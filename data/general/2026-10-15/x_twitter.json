@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#Hyperdrive",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "바로 투표",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "두쫀김장선물",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "스포티파이",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "TOP10 방탄소년단",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#PLAVE",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#팸이랑_플리랑",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "TOP10 투표",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "롬앤 10주년",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "추가투표권",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "오하욘사",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "예수료 3천원",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "유니 오하",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "사이드카",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "유사코지",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#아로새겨_시작될_에반의_날",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "예매수수료",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "#마비노기_트친소",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "이번주 음중",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "하이닉스",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "TOP10 임영웅",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "스페셜 엠씨",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "진뷔국밥",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "예매환경",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "비서실장",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "무사만루",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "꼬들 1748",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "서버관리",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "국무회의 생중계",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "니욘앤비욘",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Dodgers",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Snell",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Brewers",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Jake Bauers",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Dave Roberts",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#AEWDynamite",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Uribe",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Joe Davis",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#Survivor51",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Will Smith",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Gasser",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "#NLCS",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Garrett Mitchell",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "#AEWCollision",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "DL Hall",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Edman",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Nick Wayne",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "#ChicagoPD",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Pat Murphy",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Giannis",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Back to Back",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Meredith",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Adam Copeland",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Muncy",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Jackson Chourio",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Ohtani",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Smoltz",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Kennesaw State",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Jalen Duren",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Missouri State",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Dobes",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Dodgers",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Blake Snell",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Wilson",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Jake Bauers",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#GoHabsGo",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Brewers",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Fowler",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Doerkson",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Emily Lowan",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "#Survivor51",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Slaf",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "#AEWDynamite",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "#CFMTL",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Doby",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Joe Davis",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Josh Anderson",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "#NLCS",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Hutson",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Alain Crête",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Greenland",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Capitals",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Washington",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Prime",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Caufield",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Ravi",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "51st State",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Milwaukee",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Andy",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Giannis",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "遊佐さん",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "遊佐浩二",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "ドジャース",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#CVBC発売おめでとう",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#ハッピーセットにUSJ",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "追加ストーリー",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "きのこの日",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "年の差婚",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "日経平均",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#Number_i_3rdAnniv",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "ブルワーズ",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "ロバーツ",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "武部新氏",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "織田くん",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "須藤晃さん",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "ブリュワーズ",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "エキスパンションパス",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "エドマン",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "織田翔希",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "バウアーズ",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "ファミマの無限クリーム",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "根本京里",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "浜田省吾",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "#Number_iLYs",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "根本さん",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "キオクシア",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "セルラン1位",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "万紫千紅DLC",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "#ぐーぴたっでハロウィン",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "就任会見",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "三重振り子ゴルフ",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "歳の差婚",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "玉置浩二らの名曲",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "おはぎ作り",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "簗氏の後任",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "オルヘル",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "メジャー挑戦",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "ウリーベ",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "PLv90",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "工藤新監督",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "大谷さん",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "インテーク",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "サンパラ",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "完全版商法",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "佐々木朗希",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "米球界挑戦",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "ワイルドピッチ",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "イフリート改",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "MLB挑戦",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "ミッチェル",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#OEXERCITODOLULAVOLTOU",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#LulaPaiDoFimDa6x1",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Dodgers",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "VITÓRIA DA CLASSE TRABALHADORA",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "erika hilton",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Carlos Miguel",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "遊佐さん",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Snell",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Brewers",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#ProvaDofazendeiro",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Jake Bauers",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "遊佐浩二",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Rick Azevedo",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "FIM DA ESCALA 6X1",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Dave Roberts",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#AEWDynamite",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "#ChestersXTeeteePor",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "ドジャース",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "LULA ACABOU COM A 6X1",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "अब्दुल कलाम",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Uribe",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Joe Davis",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Pregnancy Awareness",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Hulk",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Marlon Freitas",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "पूर्व राष्ट्रपति",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Will Smith",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "River",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Dobes",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Garrett Mitchell",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-15T03:39:01.790014+00:00"
+}

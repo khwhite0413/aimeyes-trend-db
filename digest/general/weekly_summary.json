@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-10-08",
-    "to": "2026-10-14"
+    "from": "2026-10-09",
+    "to": "2026-10-15"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "trend",
-      "growth": "+8%",
-      "total_mentions": 107
-    },
-    {
-      "keyword": "#shorts",
-      "growth": "+36%",
-      "total_mentions": 88
-    },
-    {
       "keyword": "트위드자켓",
       "growth": "+9%",
-      "total_mentions": 78
+      "total_mentions": 79
     },
     {
       "keyword": "#viral",
-      "growth": "+38%",
-      "total_mentions": 67
+      "growth": "+10%",
+      "total_mentions": 70
     },
     {
       "keyword": "트렌치코트",
-      "growth": "+43%",
-      "total_mentions": 66
+      "growth": "+25%",
+      "total_mentions": 69
+    },
+    {
+      "keyword": "레이스나시",
+      "growth": "+29%",
+      "total_mentions": 63
+    },
+    {
+      "keyword": "가죽자켓",
+      "growth": "+33%",
+      "total_mentions": 52
     }
   ],
   "most_cross_platform": [
@@ -44,22 +44,22 @@
     }
   ],
   "naver_shopping_hot": [
-    "후드집업",
     "스웨이드자켓",
-    "여성가디건",
+    "후드집업",
     "원피스",
+    "여성가디건",
     "트위드자켓"
   ],
   "top_keywords_overall": [
     "trend",
     "#shorts",
-    "후드집업",
     "스웨이드자켓",
-    "여성가디건",
+    "후드집업",
     "원피스",
+    "여성가디건",
     "바람막이",
     "트위드자켓",
-    "dance",
-    "#viral"
+    "#viral",
+    "트렌치코트"
   ]
 }
