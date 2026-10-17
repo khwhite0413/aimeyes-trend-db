@@ -1,8 +1,8 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-10-10",
-    "to": "2026-10-16"
+    "from": "2026-10-11",
+    "to": "2026-10-17"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -10,27 +10,22 @@
     {
       "keyword": "트위드자켓",
       "growth": "+9%",
-      "total_mentions": 80
-    },
-    {
-      "keyword": "트렌치코트",
-      "growth": "+11%",
-      "total_mentions": 71
-    },
-    {
-      "keyword": "#ootd",
-      "growth": "+11%",
-      "total_mentions": 66
-    },
-    {
-      "keyword": "ootd",
-      "growth": "+11%",
-      "total_mentions": 66
+      "total_mentions": 81
     },
     {
       "keyword": "style",
-      "growth": "+83%",
-      "total_mentions": 49
+      "growth": "+100%",
+      "total_mentions": 51
+    },
+    {
+      "keyword": "lookbook",
+      "growth": "+167%",
+      "total_mentions": 51
+    },
+    {
+      "keyword": "amp",
+      "growth": "+167%",
+      "total_mentions": 42
     }
   ],
   "most_cross_platform": [],
@@ -38,19 +33,19 @@
     "스웨이드자켓",
     "후드집업",
     "트위드자켓",
-    "여성가디건",
-    "원피스"
+    "원피스",
+    "여성가디건"
   ],
   "top_keywords_overall": [
     "fashion",
     "outfit",
-    "#fashion",
     "스웨이드자켓",
     "후드집업",
-    "여성가디건",
     "원피스",
+    "여성가디건",
     "트위드자켓",
     "바람막이",
+    "#fashion",
     "트렌치코트"
   ]
 }

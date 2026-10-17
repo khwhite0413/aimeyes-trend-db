@@ -1,0 +1,936 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "중간 선거",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "\"공화당 지면 선거 조작 주장\"...트럼프 불복 우려 확산",
+              "url": "https://www.ytn.co.kr/_ln/0104_202610161530297324"
+            },
+            {
+              "title": "트럼프 지지층, \"중간선거 조작될 것…계엄령·선거중단 해야\"",
+              "url": "https://www.asiae.co.kr/article/2026101710351025762"
+            },
+            {
+              "title": "美시민단체 \"47개주 유권자 정보 수집 위법\"…정부 상대 소송",
+              "url": "https://www.newsis.com/view/NISX20261016_0003829427"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "경주마라톤",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "증여세",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "삼성전자 급락에 증여세도 뚝?…‘절묘한 증여 타이밍’ [재계톡톡]",
+              "url": "https://www.mk.co.kr/news/business/12177911"
+            },
+            {
+              "title": "홍라희, 삼성SDS 지분 전량 처분…이재용 지분율은 9.2% 유지",
+              "url": "https://www.bloter.net/news/articleView.html?idxno=675918"
+            },
+            {
+              "title": "이재용 회장의 홍라희 여사 삼성전자 주식 매수거래를 통한 교훈 [기고]",
+              "url": "https://news.mtn.co.kr/article/2026101610001621980"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "제이비어 브런슨",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[단독] 브런슨 사령관, 선 넘으면…\"정부, 여러 채널 경고 검토\"",
+              "url": "https://news.jtbc.co.kr/article/NB12323405"
+            },
+            {
+              "title": "커지는 한미동맹 파열음… 주목받는 브런슨 ‘거친 입’",
+              "url": "https://www.donga.com/news/Politics/article/all/20261016/134857922/2"
+            },
+            {
+              "title": "브런슨 “남쪽 철책서 韓 시작”…與 “DMZ 주권 부정하나” 반발",
+              "url": "https://www.joongang.co.kr/article/25470394"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "차량 화재",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "경주 남산동서 한밤 농가 주차 SUV에 불…인명 피해 없어",
+              "url": "https://www.newsis.com/view/NISX20261015_0003826648"
+            },
+            {
+              "title": "한밤중 경주 농가 창고에 주차된 SUV 화재…쌀 나락 4톤 불 타",
+              "url": "https://www.news1.kr/local/daegu-gyeongbuk/6320549"
+            },
+            {
+              "title": "경주 남산동 농가 창고서 차량 화재",
+              "url": "http://www.hgnews.co.kr/default/index_view_page.php?part_idx=170&idx=59245"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "서효림",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "\"'故김수미 팔아 김치 판다' 시선 두려웠다\"…서효림, 2주기 맞춰 김치 론칭",
+              "url": "https://www.sportschosun.com/entertainment/2026-10-16/202610160100105130006791"
+            },
+            {
+              "title": "서효림, 故 김수미 2주기에 김치 브랜드 정식 론칭…“엄마가 옆에 와준 느낌”",
+              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16248998"
+            },
+            {
+              "title": "서효림, 故 김수미 떠난 지 2년 만에 결심…시어머니 따라 '김치 브랜드' 정식 론칭",
+              "url": "https://www.xportsnews.com/article/2208159"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "메이저 리그 사커",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "손흥민, 'LAFC 동료' 부앙가와 함께 MLS 이주의 팀 선정",
+              "url": "https://www.newsis.com/view/NISX20261017_0003829858"
+            },
+            {
+              "title": "살아난 ’흥부 듀오’ MLS 주간 베스트11 선정",
+              "url": "https://www.yonhapnewstv.co.kr/news/MYH20261016232306rae"
+            },
+            {
+              "title": "손흥민 25일만에 ‘골맛’, 2도움까지… 메시 제치고 도움 선두",
+              "url": "https://www.donga.com/news/Sports/article/all/20261016/134851378/2"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "레이스 대 가디언즈",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "탬파베이-클리블랜드 MLB ALCS 4차전 우천 순연",
+              "url": "https://www.yna.co.kr/view/AKR20261017022200007"
+            },
+            {
+              "title": "MLB 아메리칸리그 챔피언십 4차전 우천으로 연기",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802052&plink=ORI&cooper=RSS"
+            },
+            {
+              "title": "‘ALCS 4차전 비로 연기’ 4~7차전 휴식일 NO→‘밀워키는 웃는다’",
+              "url": "https://sports.donga.com/sports/article/all/20261017/134858603/1"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "조세",
+          "traffic": "2000+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "신승태",
+          "traffic": "200+",
+          "related_news": []
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 64,
+          "interest_max": 100,
+          "interest_latest": 68,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 8,
+          "interest_max": 29,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 38,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 34,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 17,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 93,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "gracie bon",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Influencer Gracie Bon Addresses Backlash for Posing in Front of Panama Earthquake Rubble",
+              "url": "https://ca.news.yahoo.com/influencer-gracie-bon-addresses-backlash-155945963.html"
+            },
+            {
+              "title": "Influencer 'with 55-inch bum' slammed for photoshoot in front of Panama earthquake ruins",
+              "url": "https://www.dailystar.co.uk/news/weird-news/influencer-with-55-inch-bum-37770096"
+            },
+            {
+              "title": "Influencer Defends Photos in Earthquake Ruins After Backlash: \"I Am Not Posing\"",
+              "url": "https://www.wideopencountry.com/influencer-defends-photos-in-earthquake-ruins-after-backlash-i-am-not-posing/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "utah jazz",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "One Utah Jazz Player Who Already Appears to Be Outside the Rotation",
+              "url": "https://www.si.com/nba/jazz/onsi/one-utah-jazz-player-who-already-appears-to-be-outside-the-rotation"
+            },
+            {
+              "title": "Josh Green may be key to Jazz finding Walker Kessler replacement",
+              "url": "https://thejnotes.com/josh-green-key-jazz-finding-walker-kessler-replacement"
+            },
+            {
+              "title": "Jazz are showing Josh Green isn't part of their future in the preseason",
+              "url": "https://thejnotes.com/jazz-showing-josh-green-isnt-part-future-preseason"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "trevon brazile",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Trevon Brazile is forcing his way into Nuggets rotation conversation",
+              "url": "https://nugglove.com/trevon-brazile-is-forcing-his-way-into-nuggets-rotation-conversation"
+            },
+            {
+              "title": "Nikola Jokic News: Settles for five points in loss",
+              "url": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-settles-for-five-points-in-loss-534533"
+            },
+            {
+              "title": "Mikel Brown Jr. (ankle) will return to lineup",
+              "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-14/mikel-brown-jr-ankle-will-return-to-lineup"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "demar derozan",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Nuggets' DeMar DeRozan: Available Friday",
+              "url": "https://www.cbssports.com/fantasy/basketball/news/nuggets-demar-derozan-available-friday/"
+            },
+            {
+              "title": "Avid Adelman said that DeMar DeRozan will not play …",
+              "url": "https://sports.yahoo.com/articles/avid-adelman-said-demar-derozan-012657178.html"
+            },
+            {
+              "title": "DeMar DeRozan News: Resting versus Clippers",
+              "url": "https://www.rotowire.com/basketball/headlines/demar-derozan-news-resting-versus-clippers-534475"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "nor easter storm",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Mandatory evacuation ordered for Hatteras Island visitors ahead of nor’easter; N.C. 12 closures expected",
+              "url": "https://islandfreepress.org/outer-banks-news/mandatory-evacuation-ordered-for-hatteras-island-visitors-ahead-of-noreaster-n-c-12-closures-expected/"
+            },
+            {
+              "title": "Coastal storm to bring flooding, winds, rain to parts of East Coast",
+              "url": "https://weather.com/2026/10/16/forecast/regional/coastal-storm-southeast-mid-atlantic"
+            },
+            {
+              "title": "New nor'easter to howl along mid-Atlantic coast by next week with renewed beach erosion, coastal flooding",
+              "url": "https://www.yahoo.com/news/weather-news/articles/noreaster-howl-along-mid-atlantic-172930288.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "donald trump administration midterm elections",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Opinion - Election time is here, and voters have caught on to con-man Trump",
+              "url": "https://ca.news.yahoo.com/opinion-election-time-voters-caught-150000125.html"
+            },
+            {
+              "title": "Trump’s Ice Maiden Cracks a Smile at Rival’s Demise",
+              "url": "https://www.thedailybeast.com/trumps-ice-maiden-cracks-a-smile-at-rivals-demise"
+            },
+            {
+              "title": "I’m Both Elated and Terrified to Hear That Trump’s Administration Is Coming Unstrung",
+              "url": "https://www.esquire.com/news-politics/politics/a74148310/trump-administration-wiley-zacharia-guilfoyle/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "santos",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Escalação do Fluminense: Marcão poupará titulares contra o Santos",
+              "url": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/10/16/escalacao-do-fluminense-marcao-poupara-titulares-contra-o-santos.ghtml"
+            },
+            {
+              "title": "Bruno Lima: Vendido por R$ 30 mi, Soteldo revê amigo Neymar e o Santos em baixa no Flu",
+              "url": "https://www.uol.com.br/esporte/colunas/bruno-lima/2026/10/16/vendido-por-r-30-mi-soteldo-reve-amigo-neymar-e-o-santos-em-baixa-no-flu.htm"
+            },
+            {
+              "title": "Veja como foi o treino do Fluminense na última quinta",
+              "url": "https://www.netflu.com.br/veja-como-foi-o-treino-do-fluminense-na-ultima-quinta/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "al horford",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Warriors' Kristaps Porzingis remains out indefinitely but will be around team",
+              "url": "https://www.espn.com/nba/story/_/id/50184641/warriors-kristaps-porzingis-indefinitely-team"
+            },
+            {
+              "title": "Steve Kerr doesn’t want Kristaps Porziņģis’ status to become ‘daily discussion’",
+              "url": "https://www.nytimes.com/athletic/7694668/2026/10/15/kristaps-porzingis-warriors-status-steve-kerr/"
+            },
+            {
+              "title": "Warriors' Kristaps Porziņģis breaks silence on mysterious health issues, remains out indefinitely",
+              "url": "https://www.cbssports.com/nba/news/warriors-kristaps-porzingis-mysterious-health-issues-timeline/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ziaire williams",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Ziaire Williams knows he will need to help rebound for the Lakers",
+              "url": "https://lakersnation.com/lakers-news-ziaire-williams-discusses-importance-of-team-rebounding/"
+            },
+            {
+              "title": "Walker Kessler impresses in preseason debut for Lakers",
+              "url": "https://www.espn.com/nba/story/_/id/50179763/walker-kessler-impresses-preseason-debut-lakers"
+            },
+            {
+              "title": "Walker Kessler says injury has made him hungrier to win every game this season",
+              "url": "https://www.silverscreenandroll.com/lakers-news/127346/lakers-news-walker-kessler-preseason"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "warriors game",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Warriors Announce New Starting Lineup for Preseason Game vs. Blazers",
+              "url": "https://www.si.com/nba/warriors/onsi/warriors-announce-new-starting-lineup-for-preseason-game-vs-blazers-01m53m88392n"
+            },
+            {
+              "title": "Charles Bassey lived out of a suitcase last year. Now he’s ready to help the Warriors",
+              "url": "https://www.mercurynews.com/2026/10/16/charles-bassey-warriors-center-rotation-curry/"
+            },
+            {
+              "title": "Draymond Green News: Won't play Tuesday",
+              "url": "https://www.rotowire.com/basketball/headlines/draymond-green-news-wont-play-tuesday-534327"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "OOTD",
+          "interest_avg": 45,
+          "interest_max": 93,
+          "interest_latest": 43,
+          "rank": 1
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 45,
+          "interest_max": 100,
+          "interest_latest": 63,
+          "rank": 2
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 37,
+          "interest_max": 100,
+          "interest_latest": 52,
+          "rank": 3
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 23,
+          "interest_max": 70,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 15,
+          "interest_max": 69,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 14,
+          "interest_max": 29,
+          "interest_latest": 16,
+          "rank": 6
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 7,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 3,
+          "interest_max": 19,
+          "interest_latest": 9,
+          "rank": 8
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 2,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 11,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 20,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "concerts",
+          "value": "44850"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "hc andersen født",
+          "value": "39000"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "best budget smartphone",
+          "value": "21400"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "loro piana",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "quiet luxury aesthetic",
+          "value": "120"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette bake shop",
+          "value": "12000"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "uggs coquette slippers",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette symbols copy and paste",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette uggs",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette fonts",
+          "value": "70"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "清水 対 g大阪",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "［プレビュー］ACL Eliteで得た勢いをぶつける清水戦。勝利の鍵は先制点にあり",
+              "url": "https://sports.yahoo.co.jp/official/detail/2026101600158-spnaviow"
+            },
+            {
+              "title": "【10月17日】清水エスパルスvsガンバ大阪のテレビ放送・ネット配信予定・視聴方法｜明治安田J1リーグ",
+              "url": "https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/shimizu-gosaka-j1-md10-livestreaming-20261017/12ormhdsqocs91qwc8ojgnosif"
+            },
+            {
+              "title": "G大阪FW土信田悠生「ボールを受ける回数が増えている」J1初得点へ気合　あす17日・清水戦",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20261016-0253"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "神戸尊",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "「この相棒で終わると思っていた」 なぜ今、神戸尊なのか？電撃交代に隠された“シナリオ” 今後の展開を深読みする",
+              "url": "https://news.yahoo.co.jp/articles/ad8c948dc616620bb0b8e493b8fa86fd24803e04"
+            },
+            {
+              "title": "寺脇康文→及川光博「相棒25」“途中交代”にフィナーレの予感… 歴代相棒集結を望むファンの期待と寂しさ",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkangendai/entertainment/nikkangendai-1255282?page=2"
+            },
+            {
+              "title": "『相棒』トリオ・ザ・捜一が新橋駅前SL広場に出現！オリジナル号外を配布しファン騒然",
+              "url": "https://post.tv-asahi.co.jp/post-869014/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "青いマックの日",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "HANA出演、「#青いリアタイマクパ」を開催 病気と向き合う子どもとその家族を想って視聴者に呼びかけ（CDJournal）",
+              "url": "https://news.yahoo.co.jp/articles/d01642cbbcf37a0b489f15220d5eb85ce72631bb"
+            },
+            {
+              "title": "関連動画 | HANA、JISOOの合図で「いただきマック」 メンバー考案の個性派セットに大盛り上がり",
+              "url": "https://www.oricon.co.jp/news/2486161/embed/video/?anc=113"
+            },
+            {
+              "title": "HANA、マックで「ハピハピになってほしい」！ ライブ配信イベントのレポート到着｜Infoseekニュース",
+              "url": "https://news.infoseek.co.jp/article/oshiraku_28745/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "エスピノサ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "井上尚弥はエスピノサに勝てるのか？ 元王者が考察「明らかにデカすぎる。負ける可能性が…」（東スポWEB）",
+              "url": "https://news.yahoo.co.jp/articles/0eed92ba64ac049bc0f7cff0938cc743b3476e07"
+            },
+            {
+              "title": "【ボクシング】井上尚弥への挑戦を計画しているバム陣営、尚弥戦を「本気で実現させたいと思っている」",
+              "url": "https://www.sanspo.com/article/20261017-BOHNXD4ROJMLPI7NQW4FFGONMM/?outputType=theme_fight"
+            },
+            {
+              "title": "井上尚弥「バムをダラダラ待つ気はないから…」 バム戦かフェザー級挑戦か、揺れるなかでもしっかり見据える5階級制覇 始動開始を宣言 （2026年10月14日掲載）",
+              "url": "https://news.ntv.co.jp/category/sports/bae20e2afdbc46668c918eedaeb11ee9"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "中井卓大",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "「消えた天才」と評されて…FC今治に加入の中井ピピが3試合連続出場なしで「意外な評判」は（AERA DIGITAL）",
+              "url": "https://news.yahoo.co.jp/articles/9e4f3af47af93a5b4bd91d600c6e4224367bf79a"
+            },
+            {
+              "title": "「消えた天才」と評されて…FC今治に加入の中井ピピが3試合連続出場なしで「意外な評判」は",
+              "url": "https://dot.asahi.com/articles/-/295305"
+            },
+            {
+              "title": "「消えた天才」と評されて…FC今治に加入の中井ピピが3試合連続出場なしで「意外な評判」は（AERA DIGITAL）",
+              "url": "https://topics.smt.docomo.ne.jp/article/dot/nation/dot-295305?fm=latestnews"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "桜島 噴火",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "桜島で噴火、噴煙高さ1600m 灰は鹿児島市街地方向などへ【きょう・あすの降灰予想】",
+              "url": "https://newsdig.tbs.co.jp/articles/mbc/3019249?display=1"
+            },
+            {
+              "title": "桜島で噴火、噴煙高さ1600m 灰は鹿児島市街地方向などへ【きょう・あすの降灰予想】（MBC南日本放送）",
+              "url": "https://news.yahoo.co.jp/articles/b2f9ccc99867f9eacad184e563ae3c5c8dd688cc"
+            },
+            {
+              "title": "鹿児島 桜島で爆発（噴火） 噴煙は火口上2,200mに 降灰に注意",
+              "url": "https://weathernews.jp/news/202610/160081/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "那覇空港",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【速報】那覇空港近くで交通規制 国道332号 単独事故で電柱倒壊 復旧作業に数時間（琉球新報）",
+              "url": "https://news.yahoo.co.jp/articles/d72ce7e7233d2dbe6b42766f740d58afc097e2e6"
+            },
+            {
+              "title": "【規制解除】那覇空港近くで信号機の付いた電柱が倒壊した事故 午前10時過ぎに復旧し交通規制解除",
+              "url": "https://newsdig.tbs.co.jp/articles/gallery/3016862"
+            },
+            {
+              "title": "【速報】那覇空港近くで交通規制 国道332号 単独事故で電柱倒壊 復旧作業に数時間",
+              "url": "https://www.47news.jp/15088905.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "上田綺世 怪我",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "上田綺世、足底筋膜断裂で戦線離脱へ　指揮官「この種のけがの回復期間を見極めるのは複雑」",
+              "url": "https://www.nikkansports.com/soccer/world/news/202610170000148.html"
+            },
+            {
+              "title": "なぜ上田綺世はゴールを量産できるのか？世界が警戒する“死角の支配者”の凄みをスペイン紙副編集長が分析【現地発】",
+              "url": "https://news.yahoo.co.jp/articles/1b0dc52bbb68bf665928f5f13da684e07b11cc9f"
+            },
+            {
+              "title": "「まじか」「冗談だろ」金曜夜、日本に飛び込んできた“悲報”にネット騒然「もうやめて」「アジアカップどないすんねん」",
+              "url": "https://www.soccerdigestweb.com/news/detail/id=198582"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ジェン・スン・フアン",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "コアウィーブの株価が11％超下落、エヌビディアCEOの「楽観」発言から一転",
+              "url": "https://forbesjapan.com/articles/detail/106777"
+            },
+            {
+              "title": "〔米国金融証券週報・展望〕AI投資減速への警戒感高まる(時事通信)",
+              "url": "https://finance.yahoo.co.jp/news/detail/1f5a5329b3ddf9114c3a02486b614fac092b3da0"
+            },
+            {
+              "title": "米コアウィーブ株12%安、売りやまず 財務体質でAI銘柄の選別色鮮明",
+              "url": "https://www.nikkei.com/article/DGXZQOGN15CHT0V11C26A0000000/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "高校サッカー選手権",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "国見軸に混戦模様…全国高校サッカー選手権長崎県大会がきょう開幕、３２校が熱戦（長崎新聞）",
+              "url": "https://news.yahoo.co.jp/articles/214aecfc00483681e4d51a4c91d543bf87e48b89"
+            },
+            {
+              "title": "明誠、平田、松江東などが初戦突破 選手権島根予選開幕",
+              "url": "https://www.chiba-tv.com/plus/detail/2026102121862"
+            },
+            {
+              "title": "国見軸に混戦模様…全国高校サッカー選手権長崎県大会がきょう開幕、32校が熱戦",
+              "url": "https://article.auone.jp/d253e5fd-dd0f-464f-be87-7744f32b3953"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 44,
+          "interest_max": 92,
+          "interest_latest": 45,
+          "rank": 1
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 34,
+          "interest_max": 100,
+          "interest_latest": 32,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 31,
+          "interest_max": 90,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 23,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 19,
+          "interest_max": 84,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 12,
+          "interest_max": 47,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 2,
+          "interest_max": 43,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 82,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 26,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 23,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "シーイン",
+          "value": "400"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "ディー ホリック",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 アイドル ファッション",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション きれい め",
+          "value": "50"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-10-17T03:22:47.001995+00:00"
+}
