@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "필라테스 수업",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "로드스터",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#Hyperdrive",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#마이with이파리",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "하트비트",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#JIN_IN_SANTIAGO_D3",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "체포하겠어",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#MostRequestedLive",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#브리즈랑_플리랑",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "나나곰 바게트",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "멀티홈런",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "KEONHO CAPTIVATES THE LENS",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "고인의 명복",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "등골브레이커",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "첫만남 신유",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "마이팬캠",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "IKEONIC",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "프랑스 시위",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "곰돌이 인형",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "스포티파이",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "꼬들 1751",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "강풍주의보",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "ACEKEON MAKNAE",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "HOGAN EFFECT",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "생일 축하",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "유우시 버블",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "유니 오하",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "5TH GEN IT BOY",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "바로 투표",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "누적 조회수",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "miami",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#AEWWrestleDream",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Florida State",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Mateer",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#UFCEdmonton",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Notre Dame",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Buckley",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Mensah",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Auburn",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Malachi Toney",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Macron",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "The French",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "París",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Céline Dion",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Duce Robinson",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Geórgia",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Ciampa",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Bama",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "CJ Carr",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Andrade",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Michael Irvin",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Norvell",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Bandido",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Noles",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Denbrock",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Mike Malott",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Canes",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Ashton Daniels",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Mallory",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "War Eagle",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "CFB Wainwright",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#UFCEdmonton",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#AEWWrestleDream",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Mike Malott",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Buckley",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Macron",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Frédéric",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Freddy",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Andrade",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Mr. Saturday Night",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Cole Caufield",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "#VWFC",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "The French",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Burakovsky",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Benson",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Islanders",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Chabot",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "#TFCLive",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Canadian Armed Forces",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "París",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "tage thompson",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Céline Dion",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Nick Wayne",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Notre Dame",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Chris Jericho",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Hyman",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Flyers",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Scuffles",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Andrew",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Cozens",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#仮面ライダーマイス",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#オメガホーン",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "設営完了",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "フランス",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#スパイシーザクザクジューシーマック誕生",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#precure",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "銀河連邦警察",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "不可思議",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#関西コミティア77",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "おジャ魔女",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "おやっさん",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "アギちゃん",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "イバル様",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "キエンカク",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "ティグ兄",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "アイキャッチ",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "ギャバリオンドルベロス",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "ニチアサ",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "華武利様",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "謎のまま",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "ミニスカートの日",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "十二支同盟",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "モンローウォーク",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "ムトン様",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "先代マイス",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "イバル閣下",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "カムリ様",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "シャウト",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "角獣人間",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "エクレール",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "フジタイヤキ",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "ヘドウィグ",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "ハンニンダー",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "イバル連合",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "ムトンさん",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "ムトンちゃん",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "マーゴットプレ",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "コスモギャバリオン",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "教育巡り",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "リュウズ",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "サトノエスケープ",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "シドニーハーバー",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "シードエグズ",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "ジェット先輩",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "エンジェモン",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "そくほー",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "市庁舎全焼",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "冷凍食品の日",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "シャドウの力",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "ギャバン",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#LulaTemOMaiorExercitoDoMundo",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#ExercitoDoLulaDominouTudo",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#AEWWrestleDream",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#DesbloqueiaOJanonesFlavio",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#LulaJaSomos5Milhoes",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "miami",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Gojek Mulai 1000 DiGoPay",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Roberta Luchsinger",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Florida State",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "フランス",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Francia",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Notre Dame",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Buckley",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Mateer",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "設営完了",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "BATEU O DESESPERO",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Kentucky",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Auburn",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Lulinha",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Acabou Lula",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Mensah",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "The French",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "LULA REELEITO",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "París",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Macron",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Malachi Toney",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Ciampa",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Bama",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Geórgia",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "銀河連邦警察",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-18T03:30:54.506010+00:00"
+}
