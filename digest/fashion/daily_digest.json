@@ -2,33 +2,11 @@
   "date": "2026-10-19",
   "mode": "fashion",
   "compared_to": "2026-10-18",
-  "total_keywords_today": 409,
+  "total_keywords_today": 393,
   "total_keywords_yesterday": 446,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
-    {
-      "keyword": "#ootd",
-      "change": "+8%",
-      "today_count": 14,
-      "yesterday_count": 13,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 14건, 어제 13건 기준"
-    },
-    {
-      "keyword": "ootd",
-      "change": "+8%",
-      "today_count": 14,
-      "yesterday_count": 13,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 14건, 어제 13건 기준"
-    },
     {
       "keyword": "#lookbook",
       "change": "+11%",
@@ -72,17 +50,6 @@
         "naver"
       ],
       "sample_note": "오늘 9건, 어제 8건 기준"
-    },
-    {
-      "keyword": "#shorts",
-      "change": "+17%",
-      "today_count": 7,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
       "keyword": "#秋コーデ",
@@ -162,29 +129,7 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "secret",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
       "keyword": "trends",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "show",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -206,17 +151,6 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "victoria",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
-    },
-    {
       "keyword": "#大人カジュアル",
       "change": "+50%",
       "today_count": 3,
@@ -226,22 +160,88 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#着回しコーデ",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "着回しコーデ",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "2026冬トレンド",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "冬本番",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "何が流行る",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
+    },
+    {
+      "keyword": "今年らしいカラー・アイテム・着こなしをまとめて解説",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 2건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
       "keyword": "fashion",
-      "change": "-6%",
-      "today_count": 15,
+      "change": "-19%",
+      "today_count": 13,
       "yesterday_count": 16,
       "confidence": "high"
     },
     {
       "keyword": "style",
-      "change": "-9%",
-      "today_count": 10,
+      "change": "-27%",
+      "today_count": 8,
       "yesterday_count": 11,
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "keyword": "lookbook",
@@ -252,15 +252,15 @@
     },
     {
       "keyword": "amp",
-      "change": "-11%",
-      "today_count": 8,
+      "change": "-44%",
+      "today_count": 5,
       "yesterday_count": 9,
       "confidence": "medium"
     },
     {
       "keyword": "outfit",
-      "change": "-44%",
-      "today_count": 5,
+      "change": "-22%",
+      "today_count": 7,
       "yesterday_count": 9,
       "confidence": "medium"
     },
@@ -273,9 +273,16 @@
     },
     {
       "keyword": "haul",
-      "change": "-29%",
-      "today_count": 5,
+      "change": "-71%",
+      "today_count": 2,
       "yesterday_count": 7,
+      "confidence": "low"
+    },
+    {
+      "keyword": "#fashion",
+      "change": "-17%",
+      "today_count": 5,
+      "yesterday_count": 6,
       "confidence": "medium"
     },
     {
@@ -289,13 +296,6 @@
       "keyword": "ideas",
       "change": "-50%",
       "today_count": 2,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "trend",
-      "change": "-25%",
-      "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     }
