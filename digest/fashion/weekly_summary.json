@@ -1,8 +1,8 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-10-12",
-    "to": "2026-10-18"
+    "from": "2026-10-13",
+    "to": "2026-10-19"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -10,47 +10,56 @@
     {
       "keyword": "트위드자켓",
       "growth": "+9%",
-      "total_mentions": 82
+      "total_mentions": 83
     },
     {
       "keyword": "ootd",
-      "growth": "+44%",
-      "total_mentions": 70
+      "growth": "+75%",
+      "total_mentions": 75
     },
     {
       "keyword": "#ootd",
-      "growth": "+44%",
-      "total_mentions": 69
+      "growth": "+75%",
+      "total_mentions": 74
     },
     {
       "keyword": "lookbook",
-      "growth": "+83%",
-      "total_mentions": 59
+      "growth": "+25%",
+      "total_mentions": 63
     },
     {
       "keyword": "style",
-      "growth": "+83%",
-      "total_mentions": 57
+      "growth": "+25%",
+      "total_mentions": 61
     }
   ],
-  "most_cross_platform": [],
+  "most_cross_platform": [
+    {
+      "keyword": "블라우스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    }
+  ],
   "naver_shopping_hot": [
-    "후드집업",
     "스웨이드자켓",
+    "후드집업",
     "여성가디건",
     "트위드자켓",
     "원피스"
   ],
   "top_keywords_overall": [
     "fashion",
-    "outfit",
-    "후드집업",
     "스웨이드자켓",
+    "후드집업",
     "여성가디건",
     "원피스",
     "트위드자켓",
+    "outfit",
+    "ootd",
     "바람막이",
-    "트렌치코트",
-    "ootd"
+    "#ootd"
   ]
 }

@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "이번주도",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "인간실격",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "소정의 월세",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "아디다스",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#Hyperdrive",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "후배그룹",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#브리즈트친소",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#idntt",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "신인남우상",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "블랙먼데이",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "용병 교환 용교",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "주가 시작",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "트리플코어",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "필라테스 수업",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "체포하겠어",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "미스터트롯4",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "커피 포카",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "요새 보는 유튜브",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "요새 사고",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "꼬들 1752",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "성폭행 피의자",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "프랑스 시위",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "제46회",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "주의 시작",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "#mary_review",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "#maryart_",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "유니 오하",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "완결 축하",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "일상 공유",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "중증외상센터",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Cowboys",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Packers",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Jordan Love",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Rams",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Matthew Golden",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Schotty",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Dak Prescott",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Kylie",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#GoPackGo",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#VSFashionShow",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Green Bay",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Pickens",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Megan",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "#DALvsGB",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Chargers",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Goti",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "CeeDee",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "#VictoriasSecretFashionShow",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Dee Winters",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Raiders",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Evan Williams",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Joey Porter Jr",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Brian Schottenheimer",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Cardinals",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Tucker Kraft",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Kenny Clark",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Ben Simmons",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "McVay",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Leslie Stahl",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "#VSFS2026",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Wainwright",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Macron",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Cowboys",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "París",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Vancouver",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Rams",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Kylie",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Jordan Love",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Packers",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "The French",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "#VSFashionShow",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Tommy",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "#GGROOMPARTY",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Canadian Armed Forces",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Céline Dion",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#Flames",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Europe",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Matthew Golden",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "#VictoriaSecretShow",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "#odpanama",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Ken Sim",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "devin cooley",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Megan",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "italy",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Travis Hunter",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Black Monday",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "La France",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Dak Prescott",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Coyne",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Gigi",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#イオンハロウィンキャンペーン",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#ラヴィット",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#てりやきチキンジューシーマック誕生",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "ミケちゃん",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "アチャモ",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#何にでも明太子スティック",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "リンリンさん",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#VIBYとLINEMOでおしゃべり",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "アローラディグダ",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "ウェリントン",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Blaz",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "既知コンテンツ反芻おじさん",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "無印良品週間",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "フランス",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "日比谷線",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "やすらぎさん",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "ゼッテェ",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "じょうのにちじょ",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "海外旅行の日",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "ブラックマンデー",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "打倒高市",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "添い寝グラビア",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "ジャンフェス",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "ちいかわジェット",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "ミセスさん",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "週の始まり",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "最寄りのエニタイム",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "怒りと恥辱",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "ドライセン",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "ハバキリ",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "政界再編",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "ブラックサンダー大好き",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "猫のご飯の時間",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "K/DA",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "夏の夕方の匂い",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "学校の下校時間",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "マクロン大統領",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "オノマトペ",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "イタリア",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "カフェの席選び",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "風邪気味の時",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "掃除の回数",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "健大高崎",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "犬の年齢",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "ベンシモ",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "職場の机の上の整理",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "厂原さん",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "定期券の更新",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "キオクシアプラ転",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "空間ごと好き",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Lula",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Cowboys",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#UmaSemanaParaOTetra",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Kylie",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Packers",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#VSFashionShow",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#LaGranjaGala",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Rams",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#VictoriasSecretFashionShow",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Jordan Love",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Megan",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "River",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Ministério da Prosperidade",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "#VSFS2026",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Pablo Marçal",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Matthew Golden",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Dak Prescott",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Barbara Palvin",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Schotty",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "UKE HIT 1 MILLION",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Green Bay",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Kendall",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Chargers",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "ミケちゃん",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Correa",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Belgrano",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Fantasy Bra",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Pickens",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Candice",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Adriana",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-19T03:41:59.360461+00:00"
+}
