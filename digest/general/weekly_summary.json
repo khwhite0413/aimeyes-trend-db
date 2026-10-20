@@ -9,8 +9,8 @@
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+7%",
-      "total_mentions": 106
+      "growth": "+20%",
+      "total_mentions": 108
     },
     {
       "keyword": "#viral",
@@ -19,13 +19,13 @@
     },
     {
       "keyword": "dance",
-      "growth": "+71%",
-      "total_mentions": 65
+      "growth": "+86%",
+      "total_mentions": 66
     },
     {
       "keyword": "#trending",
-      "growth": "+57%",
-      "total_mentions": 63
+      "growth": "+43%",
+      "total_mentions": 62
     },
     {
       "keyword": "가죽자켓",
@@ -39,6 +39,14 @@
       "platforms": [
         "google_trends",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "사이버펑크",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     }
@@ -60,6 +68,6 @@
     "원피스",
     "trend",
     "바람막이",
-    "트렌치코트"
+    "dance"
   ]
 }

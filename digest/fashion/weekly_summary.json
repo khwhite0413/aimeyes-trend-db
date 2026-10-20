@@ -9,18 +9,18 @@
   "top_rising": [
     {
       "keyword": "ootd",
-      "growth": "+56%",
-      "total_mentions": 80
+      "growth": "+78%",
+      "total_mentions": 82
     },
     {
       "keyword": "#ootd",
-      "growth": "+56%",
-      "total_mentions": 79
+      "growth": "+78%",
+      "total_mentions": 81
     },
     {
       "keyword": "lookbook",
-      "growth": "+25%",
-      "total_mentions": 65
+      "growth": "+50%",
+      "total_mentions": 67
     },
     {
       "keyword": "가죽자켓",
@@ -28,12 +28,20 @@
       "total_mentions": 55
     },
     {
-      "keyword": "경량패딩",
-      "growth": "+125%",
-      "total_mentions": 48
+      "keyword": "#lookbook",
+      "growth": "+300%",
+      "total_mentions": 50
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "사이버펑크",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "블라우스",
       "platforms": [
