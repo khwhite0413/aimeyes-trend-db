@@ -1,135 +1,146 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "mode": "fashion",
-  "compared_to": "2026-10-18",
-  "total_keywords_today": 393,
-  "total_keywords_yesterday": 446,
-  "data_days_available": 91,
+  "compared_to": "2026-10-19",
+  "total_keywords_today": 425,
+  "total_keywords_yesterday": 393,
+  "data_days_available": 92,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "#lookbook",
+      "keyword": "#ootd",
+      "change": "+8%",
+      "today_count": 14,
+      "yesterday_count": 13,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 14건, 어제 13건 기준"
+    },
+    {
+      "keyword": "ootd",
+      "change": "+8%",
+      "today_count": 14,
+      "yesterday_count": 13,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 14건, 어제 13건 기준"
+    },
+    {
+      "keyword": "레이스나시",
       "change": "+11%",
       "today_count": 10,
       "yesterday_count": 9,
       "confidence": "medium",
       "platforms": [
-        "youtube"
+        "naver"
       ],
       "sample_note": "오늘 10건, 어제 9건 기준"
     },
     {
-      "keyword": "가죽자켓",
-      "change": "+12%",
-      "today_count": 9,
-      "yesterday_count": 8,
+      "keyword": "amp",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
-        "naver"
+        "youtube"
       ],
-      "sample_note": "오늘 9건, 어제 8건 기준"
+      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "경량패딩",
-      "change": "+12%",
-      "today_count": 9,
-      "yesterday_count": 8,
+      "keyword": "코디",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
-        "naver"
+        "youtube"
       ],
-      "sample_note": "오늘 9건, 어제 8건 기준"
+      "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "레이스나시",
-      "change": "+12%",
-      "today_count": 9,
-      "yesterday_count": 8,
+      "keyword": "trend",
+      "change": "+100%",
+      "today_count": 6,
+      "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
-        "naver"
+        "youtube"
       ],
-      "sample_note": "오늘 9건, 어제 8건 기준"
+      "sample_note": "오늘 6건, 어제 3건 기준"
     },
     {
-      "keyword": "#秋コーデ",
-      "change": "+25%",
+      "keyword": "데일리룩",
+      "change": "+67%",
       "today_count": 5,
-      "yesterday_count": 4,
+      "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "秋コーデ",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
-    },
-    {
-      "keyword": "milan",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "october",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "luxury",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "pottery",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "아우터",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
       "keyword": "trends",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "#데일리룩",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#스트릿패션",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "스트릿패션",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "haul",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
+    },
+    {
+      "keyword": "show",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -140,7 +151,40 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "데일리룩",
+      "keyword": "she",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "하울",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "secret",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#fashionstyle",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -151,7 +195,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "#大人カジュアル",
+      "keyword": "#styleinspo",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -162,141 +206,97 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#着回しコーデ",
-      "change": "+50%",
+      "keyword": "#fyp",
+      "change": "+200%",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "着回しコーデ",
-      "change": "+50%",
+      "keyword": "fashionstyle",
+      "change": "+200%",
       "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "2026冬トレンド",
-      "change": "+100%",
-      "today_count": 2,
       "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "冬本番",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "何が流行る",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "今年らしいカラー・アイテム・着こなしをまとめて解説",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
     }
   ],
   "declining": [
     {
-      "keyword": "fashion",
-      "change": "-19%",
-      "today_count": 13,
-      "yesterday_count": 16,
-      "confidence": "high"
-    },
-    {
-      "keyword": "style",
-      "change": "-27%",
-      "today_count": 8,
-      "yesterday_count": 11,
+      "keyword": "#lookbook",
+      "change": "-10%",
+      "today_count": 9,
+      "yesterday_count": 10,
       "confidence": "medium"
     },
     {
-      "keyword": "lookbook",
-      "change": "-9%",
-      "today_count": 10,
-      "yesterday_count": 11,
-      "confidence": "high"
-    },
-    {
-      "keyword": "amp",
-      "change": "-44%",
-      "today_count": 5,
-      "yesterday_count": 9,
+      "keyword": "바람막이",
+      "change": "-10%",
+      "today_count": 9,
+      "yesterday_count": 10,
       "confidence": "medium"
     },
     {
-      "keyword": "outfit",
+      "keyword": "#데일리룩코디",
       "change": "-22%",
       "today_count": 7,
       "yesterday_count": 9,
       "confidence": "medium"
     },
     {
-      "keyword": "#39;s",
+      "keyword": "데일리룩코디",
+      "change": "-22%",
+      "today_count": 7,
+      "yesterday_count": 9,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "가죽자켓",
+      "change": "-11%",
+      "today_count": 8,
+      "yesterday_count": 9,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "트렌치코트",
+      "change": "-11%",
+      "today_count": 8,
+      "yesterday_count": 9,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "style",
+      "change": "-25%",
+      "today_count": 6,
+      "yesterday_count": 8,
+      "confidence": "medium"
+    },
+    {
+      "keyword": "outfit",
       "change": "-14%",
       "today_count": 6,
       "yesterday_count": 7,
       "confidence": "medium"
     },
     {
-      "keyword": "haul",
-      "change": "-71%",
-      "today_count": 2,
-      "yesterday_count": 7,
-      "confidence": "low"
-    },
-    {
-      "keyword": "#fashion",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "chic",
-      "change": "-20%",
+      "keyword": "#39;s",
+      "change": "-33%",
       "today_count": 4,
-      "yesterday_count": 5,
+      "yesterday_count": 6,
       "confidence": "low"
     },
     {
-      "keyword": "ideas",
-      "change": "-50%",
-      "today_count": 2,
-      "yesterday_count": 4,
+      "keyword": "#shorts",
+      "change": "-33%",
+      "today_count": 4,
+      "yesterday_count": 6,
       "confidence": "low"
     }
   ],

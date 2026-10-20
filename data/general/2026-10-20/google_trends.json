@@ -1,0 +1,716 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "휘발유",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "\"휘발유 또 오르나\"...유조선 운임 10배 폭등, 정유업계 비상",
+              "url": "https://www.hankyung.com/article/202610201964i"
+            },
+            {
+              "title": "아시아 정유사, 물량 회복에도 운임 폭등에 순마진 배럴당 7달러에 그쳐",
+              "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610192241313556fda4f5ab74_1"
+            },
+            {
+              "title": "이미 지난해 넘었다…VLCC 수요 폭증에 K조선 '활짝'",
+              "url": "https://daily.hankooki.com/news/articleView.html?idxno=1415720"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "보스턴다이내믹스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'로봇 3만대 시대 준비'⋯현대차그룹, 로봇 사업 체계 구체화",
+              "url": "http://www.inews24.com/view/2016625"
+            },
+            {
+              "title": "현대차그룹, 미래 투자로 승부…신차로 안방 되찾고 빅테크 인재 영입",
+              "url": "https://www.hankyung.com/article/2026101998601"
+            },
+            {
+              "title": "현대차, 아틀라스 양산 준비 가속…RX팀 신설로 로봇사업 강화",
+              "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101919371951262bd56fbc3c_1"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "kb증권",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "PC, 메모리 대란 한숨 돌렸다…내년 'AI B2B' 승부수",
+              "url": "https://www.etnews.com/20261019000211"
+            },
+            {
+              "title": "삼성전자, 내년 메모리 생산량 80% 확보...영업이익 555조 전망 By 알파경제 alphabiz",
+              "url": "https://kr.investing.com/news/stock-market-news/article-2132387"
+            },
+            {
+              "title": "삼성전자 주가 19% 떨어졌는데…KB증권 “내년 이익성장 이미 확보”",
+              "url": "https://stock.mk.co.kr/news/view/1177307"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "아리셀",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "23명 숨진 '아리셀 참사' 박순관 대표 징역 4년 확정",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6859246_36918.html"
+            },
+            {
+              "title": "23명 숨진 아리셀 참사…박순관 대표 감형된 징역 4년 확정(종합)",
+              "url": "https://www.newsis.com/view/NISX20261020_0003833183"
+            },
+            {
+              "title": "‘23명 사망’ 아리셀 대표 징역 4년 확정…아들 징역 7년",
+              "url": "https://www.hani.co.kr/arti/society/society_general/1283194.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "롯데손해보험",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "신한금융, 롯데손보 관리 가능? 돈도 사람도 시간도 없다",
+              "url": "https://www.investchosun.com/site/data/html_dir/2026/10/19/2026101980185.html"
+            },
+            {
+              "title": "보험사 M&A 속도내는데…롯데카드 새 주인 찾기는 ‘안갯속’",
+              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010006161"
+            },
+            {
+              "title": "롯데·신한EZ 합병 시 자산 14조…손보업계 7위권 접전 예고 By EBN",
+              "url": "https://kr.investing.com/news/stock-market-news/article-2130979"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "김시우",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "김시우·김주형, 우즈 복귀전 함께 뛸까?",
+              "url": "https://www.munhwa.com/article/11624760"
+            },
+            {
+              "title": "'골프 황제의 초청장' 받은 김시우·김주형…12월 히어로 월드 챌린지 출전",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805349"
+            },
+            {
+              "title": "PGA 투어 골퍼 김시우·김주형, 우즈가 주최하는 히어로 월드 챌린지 나선다",
+              "url": "https://www.chosun.com/international/international_general/2026/10/20/WJOCKHOM4NE5FJGFE365IFDCPY/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "이재",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "‘케데헌’ 이재, 외조부 신영균 옛 자택 부지서 깜짝 결혼",
+              "url": "https://www.chosun.com/culture-life/culture_general/2026/10/20/IKGYDNFYMVDSPAWOVR6HOT6B2M/"
+            },
+            {
+              "title": "‘케데헌’ 이재, 외조부 신영균 옛 자택 부지서 깜짝 결혼식",
+              "url": "https://www.donga.com/news/Society/article/all/20261020/134872738/2"
+            },
+            {
+              "title": "'케데헌' 이재·샘킴, 깜짝 결혼…지난 주말 외조부 신영균 품서",
+              "url": "https://www.newsis.com/view/NISX20261020_0003832466"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "현대로템",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "현대로템, 3분기 영업익 11% 감소…현대위아 방산 인수로 돌파구",
+              "url": "https://www.greened.kr/news/articleView.html?idxno=352450"
+            },
+            {
+              "title": "[특징주] 현대로템, 이라크·루마니아 K2 수주 불확실…주가 약세",
+              "url": "https://m.ekn.kr/view.php?key=20261020024348460"
+            },
+            {
+              "title": "“현대로템, 폴란드 전차에 발목 잡히고 수출 비중도 뚝”…목표가↓",
+              "url": "https://stock.mk.co.kr/news/view/1177266"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "나솔",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "‘나솔’ 34기 영숙 “조카만 16명” 8자매 막내 고백…8남매 영수도 ‘깜짝’",
+              "url": "https://www.sedaily.com/article/20103638"
+            },
+            {
+              "title": "34기 솔로녀, 당돌한 매력 발산 \"늘 내가 꼬시는 편\" (나는솔로) - 조선비즈",
+              "url": "https://biz.chosun.com/entertainment/tv/2026/10/20/GBSGMMLDMU3TQMLGMVRTAZTCMY/"
+            },
+            {
+              "title": "34기 영숙 “8자매 막내, 조카만 16명”…영수도 깜짝 (나는 솔로)",
+              "url": "https://sports.donga.com/ent/article/all/20261020/134872390/1"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "에릭 슈밋",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "에릭 슈밋, AI 앤스로픽 초기 투자로 27조원 잭팟",
+              "url": "https://www.chosun.com/economy/tech_it/2026/10/20/CW62JBD6ZVDP5B7P43JQNCZYDQ/"
+            },
+            {
+              "title": "역대급 실적에도 시장은 냉정…앤트로픽 IPO의 숙제",
+              "url": "https://kr.investing.com/analysis/article-200459483"
+            },
+            {
+              "title": "에릭 슈미트, 5년전 앤스로픽에 투자…최대 26조 '잭팟'",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03440726645614888"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 66,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 35,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 50,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "chris pratt",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Pope Leo XIV, Chris Pratt come together for new documentary about the tomb of St. Peter",
+              "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-chris-pratt-come-together-for-new-documentary-about-the-tomb-of-st-peter"
+            },
+            {
+              "title": "'Pétros ení': New film on St Peter’s tomb features Pope Leo",
+              "url": "https://www.vaticannews.va/en/vatican-city/news/2026-10/petros-eni-new-film-on-st-peter-with-an-appearance-by-pope.html"
+            },
+            {
+              "title": "Chris Pratt, Pope Leo Explore St. Peter's Tomb in Vatican Doc Trailer",
+              "url": "https://variety.com/2026/film/global/chris-pratt-pope-leo-st-peters-tomb-vatican-doc-trailer-1236913844/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "cade cunningham",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Detroit Pistons Star Cade Cunningham Makes Rare Comment About 7-Year-Old Daughter Riley",
+              "url": "https://sports.yahoo.com/articles/detroit-pistons-star-cade-cunningham-204520956.html"
+            },
+            {
+              "title": "Are the Detroit Pistons being overlooked? ‘The only thing that matters to us is what we do’",
+              "url": "https://www.nytimes.com/athletic/7688060/2026/10/19/pistons-overlooked-nba-season-opener/"
+            },
+            {
+              "title": "Pistons' Cade Cunningham reflects on the team's turnaround and the next chapter in Detroit",
+              "url": "https://www.wxyz.com/sports/pistons-cade-cunningham-reflects-on-the-teams-turnaround-and-the-next-chapter-in-detroit"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "xavier atkins",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Auburn LB Xavier Atkins' status still unsettled entering LSU game",
+              "url": "https://247sports.com/college/auburn/article/auburn-tigers-football-xavier-atkins-suspension-291518584/"
+            },
+            {
+              "title": "Will Xavier Atkins play against LSU? Here’s what Alex Golesh said",
+              "url": "https://www.al.com/auburnfootball/2026/10/will-xavier-atkins-play-against-lsu-heres-what-alex-golesh-said.html"
+            },
+            {
+              "title": "Auburn HC Alex Golesh has no update on star linebacker who was suspended for Georgia game",
+              "url": "https://sports.yahoo.com/articles/auburn-hc-alex-golesh-no-013010646.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "vikings standings",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Vikings will be active ahead of the NFL trade deadline. What moves are realistic?",
+              "url": "https://www.nfl.com/news/vikings-will-be-active-ahead-of-the-nfl-trade-deadline-what-moves-are-realistic"
+            },
+            {
+              "title": "Minnesota Vikings Receive Surprise Trade Rumor Before NFL Trade Deadline",
+              "url": "https://sports.yahoo.com/articles/minnesota-vikings-receive-surprise-trade-020138016.html"
+            },
+            {
+              "title": "Lewis: Vikings could target RB in trade",
+              "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-19/lewis-vikings-could-target-rb-in-trade"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "chiefs standings",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+              "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+            },
+            {
+              "title": "NFL Week 6 INSTANT Reactions LIVE: Rams DISASTER, Caleb Williams' Dominant Return",
+              "url": "https://sports.yahoo.com/nfl/article/nfl-week-6-instant-reactions-rams-complete-collapse-caleb-williams-dominant-return-061141382.html"
+            },
+            {
+              "title": "NFL Week 6 grades for every team that played so far: Browns, Steelers earn high marks, Colts get 'F'",
+              "url": "https://www.cbssports.com/nfl/news/nfl-grades-week-6-browns-ravens-afc-colts-2026/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "nfl rankings",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "2026 NFL Power Rankings: How all 32 teams stack up for Week 6",
+              "url": "https://www.espn.com/nfl/story/_/id/50166454/nfl-power-rankings-week-6-teams-biggest-issue-defense"
+            },
+            {
+              "title": "NFL Power Rankings, Week 6: Vikings, Patriots enter top 10; Eagles, Saints in free fall",
+              "url": "https://www.nfl.com/news/nfl-power-rankings-week-6-2026-nfl-season"
+            },
+            {
+              "title": "Monday Morning NFL Top 10 Rankings: Fantastic QB Play Elevates Bears, Packers, Patriots",
+              "url": "https://www.foxsports.com/stories/nfl/monday-morning-nfl-top-10-rankings-packers-patriots-make-big-moves"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "ann li",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Tennis star Alexander Bublik destroys racket before smashing drinks container in latest on-court outburst",
+              "url": "https://www.the-independent.com/tv/sport/alexander-bublik-shanghai-masters-brandon-nakashima-angry-video-b3065713.html"
+            },
+            {
+              "title": "October 20, 2026: Mariano Navone vs Juan Manuel Cerundolo: Set 2 Winner Tennis Prediction Market",
+              "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/mariano-navone-vs-juan-manuel-cerundolo-set-2-winner-oct-20-2026/"
+            },
+            {
+              "title": "Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns",
+              "url": "https://sports.yahoo.com/articles/andy-roddick-unfiltered-frances-tiafoe-200423404.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "emerson jones",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Ann Li vs Emerson Jones Prediction & Picks - Japan Women's Open",
+              "url": "https://www.sportytrader.com/us/picks/ann-li-emerson-jones-380471/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "magda linette",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Magda Linette i Katarzyna Kawa zagrają we wtorek. Oto godziny meczów",
+              "url": "https://sportowefakty.wp.pl/tenis/1280051/magda-linette-i-katarzyna-kawa-zagraja-we-wtorek-oto-godziny-meczow"
+            },
+            {
+              "title": "Tenis: Turniej WTA w Osace - mecz 1. rundy gry pojedynczej: Claire Liu - Magda Linette",
+              "url": "https://www.teleman.pl/tv/Tenis-Turniej-WTA-w-Osace-2688801"
+            },
+            {
+              "title": "Zheng na czele listy zgłoszeń turnieju WTA w Osace 2026",
+              "url": "https://www.tenis.net.pl/zheng-na-czele-listy-zgloszen-turnieju-wta-w-osace-2026/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "upton stout",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "49ers' Upton Stout: Ready for MNF",
+              "url": "https://www.cbssports.com/fantasy/football/news/49ers-upton-stout-ready-for-mnf/"
+            },
+            {
+              "title": "Upton Stout Injury: Questionable for MNF",
+              "url": "https://www.rotowire.com/football/headlines/upton-stout-injury-questionable-for-mnf-642954"
+            },
+            {
+              "title": "49ers' Upton Stout: Questionable for MNF",
+              "url": "https://www.cbssports.com/fantasy/football/news/49ers-upton-stout-questionable-for-mnf/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "home DIY",
+          "interest_avg": 53,
+          "interest_max": 100,
+          "interest_latest": 46,
+          "rank": 1
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 47,
+          "interest_max": 100,
+          "interest_latest": 49,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 6,
+          "interest_max": 33,
+          "interest_latest": 9,
+          "rank": 3
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 6,
+          "interest_max": 32,
+          "interest_latest": 8,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 1,
+          "interest_max": 21,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "台風",
+          "traffic": "100000+",
+          "related_news": [
+            {
+              "title": "【台風情報】大型で非常に強い台風30号（チャンパー） 最大瞬間風速75m/s“猛烈”な勢力へ 日本への影響は? 予想進路・雨と風のシミュレーションを見る（気象庁）（ｔｙｓテレビ山口）",
+              "url": "https://news.yahoo.co.jp/articles/f1acd36877c9f1c79ee1fd1a9fb1f0ebd0319099"
+            },
+            {
+              "title": "台風30号 23日から沖縄の先島諸島に接近見込み 最新情報確認を",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261020de61985"
+            },
+            {
+              "title": "台風30号(チャンパー)は非常に強い勢力で沖縄接近 進路は北寄りに変化",
+              "url": "https://weathernews.jp/news/202610/200091/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "女子ワールドカップ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「うそだろ」「残酷だ」W杯で衝撃の“17－０”！まさかの結果に世界仰天！「容赦ないな」「何が起きたんだ」",
+              "url": "https://news.yahoo.co.jp/articles/a88ad1ffaa9e7fadea2ef8c181058a5cea46d9e8"
+            },
+            {
+              "title": "「うそだろ」「残酷だ」W杯で衝撃の“17－０”！まさかの結果に世界仰天！「容赦ないな」「何が起きたんだ」",
+              "url": "https://news.livedoor.com/article/detail/32609047/"
+            },
+            {
+              "title": "日本の16歳逸材が「メッシだった」 世界の舞台で衝撃の“独走弾”…ファン驚愕「凄い選手が現れた」（FOOTBALL ZONE）",
+              "url": "https://news.yahoo.co.jp/articles/1823b6ecd5a0664d32a6603f7927b0355364a33a"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "百 条 委員 会",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "2ページ目 【百条委】「反対しづらい」9割近くが賛成 金銭授受疑惑で名指しされた県議は？ 福岡県議会（2026年10月19日掲載）",
+              "url": "https://news.ntv.co.jp/category/politics/fsd4d8923134b446699ca5a7d68b3ad450?p=2"
+            },
+            {
+              "title": "9月議会を振り返り「あるべき姿に戻す第一歩になった」服部知事定例会見（KBC九州朝日放送）",
+              "url": "https://news.yahoo.co.jp/articles/6cd5cefce894f06aacc6cd36b6bc1c3ece3b4b32"
+            },
+            {
+              "title": "閉会した福岡県議会 〝出来レース〟一変、問題次々と…ワンヘルス政策や海外活動",
+              "url": "https://www.nishinippon.co.jp/item/1550815/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "モンキーターン",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "挑戦の赤！REDが切り開くモンキーターンの新境地！「スマスロモンキーターンRED」",
+              "url": "https://news.p-world.co.jp/articles/34688/yugitsushin"
+            },
+            {
+              "title": "【新台】パチスロ『モンキーターン』に待望の最新作！通常AT中も一部は純増約6.5枚に！",
+              "url": "https://web-greenbelt.jp/post-119197/"
+            },
+            {
+              "title": "パチスロ新台『スマスロモンキーターンRED』ティザーPV公開！ATは純増約6.5枚/G",
+              "url": "https://p-town.dmm.com/specials/5490"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "藤垣裕子",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "東大学長選 文科省異例の検証要求",
+              "url": "https://news.yahoo.co.jp/pickup/6599456"
+            },
+            {
+              "title": "東京大学の学長選考、文科相「明確な説明なく遺憾」 経緯の検証依頼",
+              "url": "https://www.nikkei.com/article/DGXZQOUD200SU0Q6A021C2000000/"
+            },
+            {
+              "title": "藤垣裕子氏 - 東大に学長選考の経緯検証を要請 文科相「十分な説明を」 - 写真・画像(1/2)",
+              "url": "https://www.nishinippon.co.jp/image/1094158/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "たばこ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "「加熱式なら安心」のはずが──IQOSが肺の細胞に及ぼす影響、最新研究でわかったこと（石田雅彦） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/f0f29ebd80b2f40ac769035adfbdf872923038c4"
+            },
+            {
+              "title": "「渡したのは羽月だけ」“ゾンビたばこ”で有罪の滝口涼介氏が語った広島4選手との関係と逮捕の全貌（FRIDAY）",
+              "url": "https://news.yahoo.co.jp/articles/ebaf6c8455f5d964b3b6a12586291a9d950e5014"
+            },
+            {
+              "title": "［社説］ゾンビたばこのまん延を防げ",
+              "url": "https://www.nikkei.com/article/DGXZQODK164UF0W6A011C2000000/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "守田英正",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "「すぐ使うべきだ」「試合を支配し、ほぼミスをしない」なぜ先発起用しないのか。プレミア移籍の日本人MFに現地ファンからスタメン待望論「彼に才能があるのは誰もが知っている」（SOCCER DIGEST Web）",
+              "url": "https://news.yahoo.co.jp/articles/eea67431b41a33e00c4814a38088d753fc55afc2"
+            },
+            {
+              "title": "守田英正、途中出場から高評価「質の高さを見せた」　現地推奨「スタートから出場すべき」",
+              "url": "https://topics.smt.docomo.ne.jp/article/football_zone/sports/football_zone-679833"
+            },
+            {
+              "title": "守田英正が途中出場のハル、フラムに敗戦「あらゆる面で劣っていた」「大人と子供」監督なげく",
+              "url": "https://www.nikkansports.com/soccer/world/news/202610180000022.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "久留米 事故",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "緒方恵美",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "緒方恵美、咽頭がん公表の麻枝准氏にメッセージ「ダメだよ。ファンの人に背負わせちゃ。生きて」（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/0426e7121d9f03846b316d7ccfee927bf5a657d6"
+            },
+            {
+              "title": "『AIR』や『CLANNAD』などを手掛けた麻枝准氏が咽頭がんを公表。今後は緩和ケアをしつつ体力を温存して創作活動に専念",
+              "url": "https://www.famitsu.com/article/202610/91417"
+            },
+            {
+              "title": "シナリオライター・麻枝准さん 咽頭がん公表 「創作に専念」「積極的治療行わず」",
+              "url": "https://www.sankei.com/article/20261019-AUAE6A5UONMTXAS5PHAHIJ7QTI/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "ジュニオール・カミネロ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「なんと劇的な瞬間だ！」６年ぶりWS進出のレイズ、主砲の一撃に現地識者も熱狂「なんという本塁打だ」（THE DIGEST）",
+              "url": "https://news.yahoo.co.jp/articles/7c77760d932eb7b96f372258a0ea570a40ce0aaa"
+            },
+            {
+              "title": "レイズのカミネロがポストシーズン第１号　９試合目待望のアーチに本拠地大歓声　シーズン４２本塁打の２３歳",
+              "url": "https://topics.smt.docomo.ne.jp/article/hochi/sports/hochi-20261020-OHT1T51006"
+            },
+            {
+              "title": "レイズの主砲カミネロがリード広げる左翼ポール直撃の２ラン PO初本塁打に雄叫びあげて喜ぶ",
+              "url": "https://www.nikkansports.com/baseball/mlb/photonews/photonews_nsInc_202610200000263-1.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 16,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "バズった",
+          "interest_avg": 11,
+          "interest_max": 46,
+          "interest_latest": 14,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 1,
+          "interest_max": 14,
+          "interest_latest": 8,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-10-20T03:52:55.450677+00:00"
+}
