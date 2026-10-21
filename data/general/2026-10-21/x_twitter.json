@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "주술회전",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#이한의_바다에_별이_뜨는날",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "EAGLE-4",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "사이드카",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "만루홈런",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "캡슐 크림",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#TwoTwoTwo21",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#HAPPY_K_DAY",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "모의고사",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#올리브영",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "#축하의_바람이_분다",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "엣지러너",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "안겹침 신기",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "스페이스X",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "작귀 최애",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "정기잡담회",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "단체버블",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "한파주의보",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "꼬들 1754",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "계정은 특정",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "귀염 막둥이",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "순수 팬계정",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "시사타파",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "마루 생일",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "음원 영상",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "요새 보는 유튜브",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "멀티홈런",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "일상 공유",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "많은 이들의 존경",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "유홍준 국립중앙박물관장",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "CHET",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#DWTS",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Sixers",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "spurs",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Knicks",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Embiid",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Wemby",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Lebron",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Maxey",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Shai",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "76ers",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Drummond",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Brunson",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Jaylen Brown",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Tatyana",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#throwtheballup",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Vivek",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Ezra",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Jenna",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Julia",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Aaron Fox",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Amber",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Simons",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "#WWENXT",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Pasha",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Mara",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "#ThunderUp",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Alan",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Tatum",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Mikko",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Dobes",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#DWTS",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "CHET",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Shai",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Wemby",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Xhekaj",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "spurs",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Knicks",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Maxey",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Lebron",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Embiid",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Sixers",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Devon Levi",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Tatyana",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Jenna",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#ExtendTS2023",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Amber",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Columbus",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Celebrini",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "76ers",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Marshall Rifai",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Sharks",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "#WWENXT",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Cowan",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Drummond",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Alan",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Julia",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Pasha",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Maura",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Doby",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "雪ミクライブ",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#今だけのおトクな食べくらべポテナゲ登場",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#ミートボールいつ食べたい",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#マックにジューシーなチキンバーガー爆誕",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#UHA味覚糖",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#正官庄",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "千年原人",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "あかりの日",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "ポケカのパック",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "チーズトルティーヤ新発売",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "いとこ煮",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "ストスト",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "雷鳥の里",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "ジューシーマック",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "応募可能",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "千葉県北西部",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "観測史上",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "フィオニー",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "豪華賞品",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "週の真ん中",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "エアコン",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "エメラルド",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "MAMA当選",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "エジソン",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "ほうじ茶派",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "りょっピー",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "報告書訂正",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "アニマルver.3",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "チェット",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "冬至かぼちゃ",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "知事選不出馬",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "白熱電球",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "かいりきベアさん",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "グランドマスター",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "武部農水大臣",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "涼ちゃん",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "ジョイフルメドレー",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "風キャン",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "スペースX",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "ふりふりヘッドフィギュア",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "違法献金疑惑",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "プレデター",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "Amazonの注目商品",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "MAMA1",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "風強すぎ",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "就活セクハラ",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "鳥取県の平井伸治知事",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "MAMAプレミアム",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "台風の影響",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "セルフレジ",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Paredes",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Maracaná",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#DWTS",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "CHET",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Leo Jardim",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Sixers",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Knicks",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Lebron",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Embiid",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "O Vasco",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Maxey",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Point Coffee 5RB DiGoPay",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "spurs",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Wemby",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "#RoçaAFazenda",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Boca Juniors",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "FLÁVIO DONO DE BET",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "76ers",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Drummond",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "#NordestinosComLula",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Thiago Mendes",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Vasco Da Gama",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Shai",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Adson",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Brunson",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "#6MilhoesDeSoldadosDoLula",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Egito",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Villa",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Vamos Boca",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "#マックにジューシーなチキンバーガー爆誕",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-21T03:43:23.273878+00:00"
+}
