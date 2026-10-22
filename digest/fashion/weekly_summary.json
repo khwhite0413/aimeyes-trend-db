@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-10-15",
-    "to": "2026-10-21"
+    "from": "2026-10-16",
+    "to": "2026-10-22"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "fashion",
+      "growth": "+5%",
+      "total_mentions": 120
+    },
+    {
       "keyword": "ootd",
-      "growth": "+78%",
-      "total_mentions": 89
+      "growth": "+80%",
+      "total_mentions": 98
     },
     {
       "keyword": "#ootd",
-      "growth": "+78%",
-      "total_mentions": 88
+      "growth": "+80%",
+      "total_mentions": 97
+    },
+    {
+      "keyword": "후드집업",
+      "growth": "+8%",
+      "total_mentions": 85
     },
     {
       "keyword": "lookbook",
       "growth": "+44%",
-      "total_mentions": 72
-    },
-    {
-      "keyword": "#lookbook",
-      "growth": "+225%",
-      "total_mentions": 60
-    },
-    {
-      "keyword": "경량패딩",
-      "growth": "+80%",
-      "total_mentions": 53
+      "total_mentions": 76
     }
   ],
   "most_cross_platform": [
@@ -39,6 +39,30 @@
       "platforms": [
         "naver",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "후리스",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "후드집업",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "경량패딩",
+      "platforms": [
+        "naver",
+        "x_twitter"
       ],
       "count": 2
     },
@@ -54,20 +78,20 @@
   "naver_shopping_hot": [
     "스웨이드자켓",
     "트위드자켓",
-    "후드집업",
     "여성가디건",
-    "원피스"
+    "원피스",
+    "후드집업"
   ],
   "top_keywords_overall": [
     "fashion",
     "ootd",
     "#ootd",
+    "후드집업",
     "스웨이드자켓",
     "트위드자켓",
-    "후드집업",
     "여성가디건",
     "원피스",
     "lookbook",
-    "바람막이"
+    "#lookbook"
   ]
 }

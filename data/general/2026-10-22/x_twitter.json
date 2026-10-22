@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "여섯방 물림",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#Dear_MyDaRIWOO",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "레이몬드",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "한파주의보",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "북마크 공개",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "기준금리",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "바이오웨어",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "리우 생일",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "미니 인터뷰",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#마비노기_트친소",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "감기 조심",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "자캐커플 예약",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "엑소좀 스칼프 앰플",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "오기 일주일",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "엔시티 운동회",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "전기장판",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "콜라겐 아이패치",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "경량패딩",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "오하욘사",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "조기마감",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "책임감가지",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "#HAPPY_K_DAY",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "꼬들 1755",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "젤리 미스트",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "#올리브영",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "#바이오던스",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "엠에스바이오",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "겟투워크",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "천선란 작가님",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "엣지러너2",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Ty Jerome",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#AEWDynamite",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Giannis",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#Survivor51",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Blazers",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Anthony Edwards",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Angel Reese",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Suns",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Lamelo",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Mavs",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Lakers",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Heat",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "John Anderson",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Steph",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Wolves",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Luka",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Jovic",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Bioware",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "#WNBAFinals",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Pacers",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Kessler",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Kyrie",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Seminole Wind",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Kilby",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Pelicans",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Looney",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Bulls",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Zion",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Draymond",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Nick Wayne",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Brady",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Sens",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Raptors",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#CFMTL",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Kawhi",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Panthers",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "ullmark",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Greig",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Bulls",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#WeTheNorth",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Ty Jerome",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "#AEWDynamite",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "#Survivor51",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "CANADA IS OUR HOME",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Giannis",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#CanChamp",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Bioware",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "ersson",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Scottie",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Sanchez",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Blazers",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Cozens",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Kilby",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Pinto",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Anthony Edwards",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Halliday",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Forge",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Jake Sanderson",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Bennett",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Caleb Wilson",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#シェフりょうちゃんガストコラボ",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#ピザーラでハロウィン",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "神奈川県警",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#ライアーは誰だ",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#eoの10ギガつづく割",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#しゃぶ葉にゴジラ襲来",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "メンテナンス中",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "メンテ中",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "失効免許証",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "PHP問題",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "警備捜査",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "ホームページ",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Tomcat",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "アニメの日",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "ポケスリ",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "ログイン",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "GitLab",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "漆黒のチーズ団子",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "大泉洋さん",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "ドラフト",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "アクセス",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Java",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "王道ラブソング",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "ゴジラの背びれ餃子",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "仮想待合室",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "ロリポップ",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "復旧次第",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "警備部門",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "コスタノヴァ",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "山下智久さん",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "ポケセンオンライン",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "壁紙くじ",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "横断歩道",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "Node.js",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "飯テロ漫画",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "通常どおり",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "絶望のブラックチゲ",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "四コマ漫画",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "サイバー攻撃",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "オンブズマン",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "セキュリティ",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "日本の着物",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "サーバー",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "プログラミング言語",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "Claude Duet",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "不正持ち出し",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "ドリップコーヒーの日",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "ピザパーティー",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "シーザーサラダ",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "Myojo",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#LiveDoLulaComSeuExercito",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#LulaEJanonesAoVivo19h",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Carlos Miguel",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#AEWDynamite",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Ty Jerome",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Giannis",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Paulinho",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Nonato",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Hulk",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Abel Ferreira",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "#ProvaDofazendeiro",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "#シェフりょうちゃんガストコラボ",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Argentina",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Fabio",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Marcao",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Anthony Edwards",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "hold me tight",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "神奈川県警",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Blazers",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Angel Reese",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Bioware",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "GMMTV ACCOUNTABILITY",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Lakers",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Lamelo",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Suns",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Mavs",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Curry",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Heat",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Sens",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Luka",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-22T03:42:53.984706+00:00"
+}
