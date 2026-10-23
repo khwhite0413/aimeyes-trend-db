@@ -2,9 +2,9 @@
   "date": "2026-10-23",
   "mode": "general",
   "compared_to": "2026-10-22",
-  "total_keywords_today": 480,
+  "total_keywords_today": 494,
   "total_keywords_yesterday": 504,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -42,14 +42,14 @@
     },
     {
       "keyword": "dance",
-      "change": "+17%",
-      "today_count": 14,
+      "change": "+25%",
+      "today_count": 15,
       "yesterday_count": 12,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 14건, 어제 12건 기준"
+      "sample_note": "오늘 15건, 어제 12건 기준"
     },
     {
       "keyword": "#trending",
@@ -206,7 +206,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#tiktok",
+      "keyword": "challenge",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -217,7 +217,7 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "challenge",
+      "keyword": "#tiktok",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -266,15 +266,15 @@
     },
     {
       "keyword": "trends",
-      "change": "-67%",
-      "today_count": 1,
+      "change": "-33%",
+      "today_count": 2,
       "yesterday_count": 3,
       "confidence": "low"
     },
     {
       "keyword": "october",
-      "change": "-67%",
-      "today_count": 1,
+      "change": "-33%",
+      "today_count": 2,
       "yesterday_count": 3,
       "confidence": "low"
     },
@@ -308,15 +308,6 @@
       "platforms": [
         "naver",
         "youtube"
-      ],
-      "total_count": 2
-    },
-    {
-      "keyword": "저스틴 비버",
-      "platform_count": 2,
-      "platforms": [
-        "google_trends",
-        "x_twitter"
       ],
       "total_count": 2
     }

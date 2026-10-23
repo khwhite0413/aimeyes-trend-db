@@ -14,13 +14,13 @@
     },
     {
       "keyword": "ootd",
-      "growth": "+33%",
-      "total_mentions": 105
+      "growth": "+42%",
+      "total_mentions": 106
     },
     {
       "keyword": "#ootd",
-      "growth": "+45%",
-      "total_mentions": 104
+      "growth": "+55%",
+      "total_mentions": 105
     },
     {
       "keyword": "lookbook",
@@ -29,32 +29,25 @@
     },
     {
       "keyword": "#lookbook",
-      "growth": "+43%",
-      "total_mentions": 74
+      "growth": "+57%",
+      "total_mentions": 75
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "경량패딩",
+      "platforms": [
+        "naver",
+        "x_twitter",
+        "youtube"
+      ],
+      "count": 3
+    },
     {
       "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "저스틴 비버",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "경량패딩",
-      "platforms": [
-        "naver",
-        "x_twitter"
       ],
       "count": 2
     },
