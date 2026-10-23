@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#우지_개인고소_공지올려",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#플레디스_우지_보호해",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#Dear_MyDaRIWOO",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "랏코 품절",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "ANA 콜라보",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "디페스타",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#닝닝의생일_민족의영광",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "ANA 랏코",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "첫공 무인",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "ANA 우사기",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "#성매매_범죄수익_완전환수",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "카와 ANA",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "소니엔젤",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "전기장판",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "꼬들 1756",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "서방남친",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "AI 대신",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "저스틴 비버",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "트친정리",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "너무 혼잡",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "블언 기준",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "불금모닝",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "보고 있으면 가부장",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "오트 살구",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "ANA 하치",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "불금 가즈",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "여섯방 물림",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "레이몬드",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "페이티드",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "북마크 공개",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Cavs",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Jaylon Johnson",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Bears",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Sixers",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Drake Maye",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#VERZUZ",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "AJ Brown",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Luther Burden",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Patriots",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Ben Johnson",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Harden",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "76ers",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Cairo Santos",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Carl Thomas",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Al Michaels",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Caleb",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Pats",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Rome Odunze",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Maxey",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "#throwtheballup",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Loveland",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Josh McDaniels",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "#NEvsCHI",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Stevenson",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Dennis Allen",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "SWIFT",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Kenny Atkinson",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Philly",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Jaylen Brown",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Jokic",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Cavs",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Troy Stecher",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Sixers",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Drake Maye",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "AJ Brown",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Harden",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Nick Paul",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "CONSCRIPTS ARE VICTIMS",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Maxey",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Bears",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "76ers",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Bouchard",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Jaylen Brown",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Askarov",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Patriots",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#911onABC",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Jarvis",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Ben Johnson",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Donovan Mitchell",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "ersson",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Pats",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Caleb Williams",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Rangers",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Lebron",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "IRCC and CBSA",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "#JusticeForIranianConscripts",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Mike Johnson",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Philly",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Luther",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Cowan",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "松井秀喜",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "巨人新監督",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "午後会見",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "松井さん",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "長嶋さん",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "日刊スポーツ",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#金曜日はマックのチキン曜日",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Muse",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "モグラーニャ",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "巨人ファン",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "ゴジラ監督",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "ヤンキース",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "#レノア抗菌ビーズ",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "#ビーグマ部活応援団",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "#吉野家の牛すき鍋膳",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "ジャイアンツ",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "デジタル庁",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "#ZIPジェスチャー駅伝チャレンジ",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "じゃがりこ",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "織田くん",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "コーチ陣",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "高橋由伸",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "ミスター",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "京都観光マナー啓発",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "ヘッドコーチ",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "東大寺の境内",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "子鹿の死骸4体",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "長嶋監督",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "文化勲章",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "iPhone Duo",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "パーソナルAIエージェント",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "野生動物の可能性",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "ANAモール",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "奈良・興福寺",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "私のコード",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "コーチ経験",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "ファンタズム",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "背番号55",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "私たち両方",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "松井巨人",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "松井マジ",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "サラダ味",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "これ友達",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "ちいかわマーケット",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "上位キャラクター",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "巨人応援",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "ビッグニュース",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "長嶋茂雄",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "プライズ化",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "マイギャラリー",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Flamengo",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Muslera",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "松井秀喜",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#LulaVaiVirar",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Estudiantes",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "松井監督",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Cavs",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Rossi",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Paquetá",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "巨人新監督",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Leonardo Jardim",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Bears",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Sixers",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "午後会見",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Jaylon Johnson",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#DesculpaLula",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "松井さん",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Drake Maye",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Bruno Henrique",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "carrascal",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "#EliminacaoAFazenda",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "#VERZUZ",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Arrascaeta",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "#FLAxEST",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "AJ Brown",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Patriots",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Maracaná",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Luther Burden",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "76ers",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Ben Johnson",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-23T03:47:25.598486+00:00"
+}

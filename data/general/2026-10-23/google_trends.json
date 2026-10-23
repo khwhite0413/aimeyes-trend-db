@@ -1,0 +1,712 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "네이버지도",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "한국도로공사, 민·관 교통안전 데이터 공유 협의체 만든다",
+              "url": "https://www.electimes.com/news/articleView.html?idxno=373794"
+            },
+            {
+              "title": "한국도로공사, 민·관 교통안전 데이터 공유 협의체 MOU 체결",
+              "url": "https://www.munhwa.com/article/11625735"
+            },
+            {
+              "title": "고속도로 사고, 내비로 더 빨리 알린다…네카오·티맵 협력",
+              "url": "https://stock.mk.co.kr/news/view/1179251"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "김혜선",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "김혜선, 결혼 8년 차 위기…독일인 남편 \"고국 돌아가고 싶다\" 눈물",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/GI2GIM3DMQZWCZBZMY2GGOBSG4/"
+            },
+            {
+              "title": "김혜선, 10살 때 고아 된 사연…\"초등학생 때 신문 배달\" - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102308020944407"
+            },
+            {
+              "title": "김혜선, 前남친 때문에 가슴 보형물 수술…\"우울증으로 은퇴\" ('특종세상')",
+              "url": "https://www.osen.co.kr/article/G1112896996"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "이혜영",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "이혜영, 미국 3층 대저택 '친정집 공개'...\"조카 연예인급 외모\" - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102310384784027"
+            },
+            {
+              "title": "이혜영, 90세 母 위한 미국 3층 대저택 공개…“가족 잘 사는 모습에 안심”",
+              "url": "https://www.donga.com/news/Culture/article/all/20261023/134894107/1"
+            },
+            {
+              "title": "이혜영, 미국 대저택서 언니 옷방 공개…“명품은 다 내가 준 거야” 통 큰 FLEX ('못말려') - 조선비즈",
+              "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/MY2TCN3FGFRGEOLBMNSTSN3FMI/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "압구정",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "심형래, ‘디워’ 역주행에 ‘2천만원’ 뿌린다... 이경애 “잘 되면 주기로”",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/10/20/MU3DSZJXGA2TGNBYGQ2WMMJXGY/"
+            },
+            {
+              "title": "‘영구’ 심형래, 놀라웠던 전성기…“압구정 현대 7800만원일 때 편당 8000만원 CF 100편 찍어”",
+              "url": "https://www.sedaily.com/article/20103828"
+            },
+            {
+              "title": "심형래 \"CF 100편 넘게 찍어…압구정 아파트 100채 값\"",
+              "url": "https://www.newsis.com/view/NISX20261020_0003833057"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "메타",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "메타, 매출 호조에도 AI 지출 확대…수익성 회복이 관건",
+              "url": "https://www.jemin.com/news/articleView.html?idxno=845045"
+            },
+            {
+              "title": "Wedbush, Muse 수요에 메타 목표주가 920달러로 상향",
+              "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2137548"
+            },
+            {
+              "title": "메타, AI·인프라에 1093조원 쏟아붓는다… 역대급 투자 약정 - 머니투데이",
+              "url": "https://www.mt.co.kr/world/2026/10/22/2026102221144945454"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "인천지하철",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "인천지하철 와이파이 5G 전환…\"전국 확대 추진\"",
+              "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610221103515546"
+            },
+            {
+              "title": "인천지하철 와이파이 3배 빨라졌다‥LTE에서 5G로 전환",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6859711_36918.html"
+            },
+            {
+              "title": "인천 지하철 국내 첫 ‘5G 와이파이’…고화질 영상도 끊김 없어 [영상]",
+              "url": "https://www.kyeonggi.com/article/20261021580559"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "르브론 제임스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "“국가 연주중 몸 풀다니”…트럼프, 르브론 제임스에 사과 요구",
+              "url": "https://www.donga.com/news/Inter/article/all/20261023/134894139/2"
+            },
+            {
+              "title": "트럼프, 르브론 제임스 맹비난… \"국가 연주 중 美 모독, 완전한 수치\"",
+              "url": "https://www.chosun.com/international/us/2026/10/23/QLISGX7CW5CKROVQAQPM3GTOWE/"
+            },
+            {
+              "title": "NBA 슈퍼스타 제임스 국가 연주 중 스트레칭… 트럼프 “미국 모독했다”",
+              "url": "https://www.munhwa.com/article/11625731"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "저스틴 비버",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "저스틴 비버, 아내와 한국 왔다…성수동 팝업엔 밤샘 대기줄",
+              "url": "https://www.hankyung.com/article/202610239942H"
+            },
+            {
+              "title": "저스틴 비버, 13년 만에 내한했다…패션브랜드 팝업 인산인해",
+              "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134895043/1"
+            },
+            {
+              "title": "서울에 펼쳐지는 저스틴 비버의 취향들, 스카이라크 성수 팝업 개최",
+              "url": "https://www.marieclairekorea.com/fashion/2026/10/skylrk/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "오세훈 2 심 선고",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "김민석 \"오세훈, 1심 유죄 유지될 것‥'서울시장 선거' 마음의 준비\"",
+              "url": "https://imnews.imbc.com/news/2026/politics/article/6860150_36911.html"
+            },
+            {
+              "title": "\"재선거 마음의 준비\" \"무죄 확신\"…긴장감 감도는 여야",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811848"
+            },
+            {
+              "title": "[속보]김민석 “오세훈 항소심 유죄 무게…서울시장선거 마음의 준비”",
+              "url": "https://www.munhwa.com/article/11625642"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "카카오맵",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "김밥대장 정다현 : “김밥도 직업이 된다” 전국 800곳 누빈 덕후의 실행력",
+              "url": "https://longblack.co/note/2153"
+            },
+            {
+              "title": "“김천 김밥축제, 줄 서지 말고 주문하세요”…카카오페이 QR오더 도입",
+              "url": "https://stock.mk.co.kr/news/view/1180083"
+            },
+            {
+              "title": "“김천 자두 넣은 칠성사이다 맛본다”…롯데칠성, '김천 김밥축제' 참여",
+              "url": "https://www.etnews.com/20261022000085"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 2,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 39,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "nfc north standings",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "NFL Power Rankings: How all 32 teams stack up for Week 7, plus offensive issues",
+              "url": "https://www.espn.com/nfl/story/_/id/50218886/nfl-power-rankings-week-7-teams-biggest-issue-offense"
+            },
+            {
+              "title": "NFL Power Rankings, Week 7: Rams, Seahawks plummet; Texans, Saints, Cardinals biggest risers",
+              "url": "https://www.nfl.com/news/nfl-power-rankings-week-7-2026-nfl-season"
+            },
+            {
+              "title": "NFL Projection Model clashes with Week 7 power rankings: 49ers at No. 7?",
+              "url": "https://www.nytimes.com/athletic/7707963/2026/10/21/nfl-week-7-power-rankings-49ers-projections/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "marcus stokes",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Marcus Stokes connects for 59-yard TD pass",
+              "url": "https://www.espn.com/watch/player/_/id/50254304"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "onside kick",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "NFL Needs to 'Address the Onside Kick,' Troy Vincent Says as League Explores Rule Changes",
+              "url": "https://bleacherreport.com/articles/25513801-nfl-needs-address-onside-kick-troy-vincent-says-league-explores-rule-changes"
+            },
+            {
+              "title": "Oregon high school football coach fired after 63-0 win, multiple onside kicks - The Athletic",
+              "url": "https://www.nytimes.com/athletic/7689662/2026/10/14/high-school-football-coach-fired-oregon/"
+            },
+            {
+              "title": "Marist Catholic High School removes Zach Loboy as head varsity football coach",
+              "url": "https://kval.com/news/local/marist-catholic-high-school-removes-zach-loboy-as-head-varsity-football-coach"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "nfc north",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Lions approach first divisional matchup with urgency",
+              "url": "https://www.espn.com/video/clip/_/id/50254295/lions-approach-first-divisional-matchup-urgency"
+            },
+            {
+              "title": "Can the Lions slow down Jordan Love, Packers?",
+              "url": "https://sports.yahoo.com/video/can-the-lions-slow-down-jordan-love-packers-025152329.html"
+            },
+            {
+              "title": "Packers cross the lake to face Detroit",
+              "url": "https://www.packers.com/news/packers-cross-the-lake-to-face-detroit-week-7-2026"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "bears standings",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Bears’ trick play with offensive lineman running the ball negated by penalty",
+              "url": "https://www.nytimes.com/athletic/7715827/2026/10/22/bears-patriots-thursday-night-football-trick-play/"
+            },
+            {
+              "title": "Rare NFL penalty: Bears become first team in 16 years to get flagged for illegal forward handoff",
+              "url": "https://www.cbssports.com/nfl/news/what-is-illegal-forward-handing-bears-patriots-nfl-penalty/"
+            },
+            {
+              "title": "Bears' handoff to G Joe Thuney on trick play disallowed",
+              "url": "https://chicago.suntimes.com/bears/2026/10/22/bears-handoff-to-g-joe-thuney-on-trick-play-disallowed"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "rings of power season 3",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Sauron recruits his future Ringwraiths in Rings of Power S3 trailer",
+              "url": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/"
+            },
+            {
+              "title": "'Lord of the Rings: The Rings Of Power' Season 3 Trailer Unveiled",
+              "url": "https://deadline.com/2026/10/lord-of-the-rings-the-rings-of-power-season-3-trailer-1237169096/"
+            },
+            {
+              "title": "Back into the Fray: 'LOTR: The Rings of Power' - Season 3' Full Trailer",
+              "url": "https://www.firstshowing.net/2026/back-into-the-fray-lotr-the-rings-of-power-season-3-full-trailer/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "afc east",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Miami Dolphins, New York Jets have clear plans for future success",
+              "url": "https://www.espn.com/nfl/story/_/id/50233043/miami-dolphins-new-york-jets-afc-east-rebuild"
+            },
+            {
+              "title": "Dolphins Face Nightmare Matchup With Garrett Wilson, Jets’ Offense",
+              "url": "https://sports.yahoo.com/articles/dolphins-face-nightmare-matchup-garrett-231540218.html"
+            },
+            {
+              "title": "Jets Ready for First Home AFC East Test Against Dolphins",
+              "url": "https://www.newyorkjets.com/news/jets-ready-for-first-home-afc-east-test-against-dolphin-10-21-2026"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "the gentlemen film new release",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Guy Ritchie & Charlie Hunnam's Solid Crime Thriller That's Now a Netflix Smash Is Getting a New Release",
+              "url": "https://movieweb.com/the-gentlemen-4k-blu-ray-release/"
+            },
+            {
+              "title": "Guy Ritchie’s The Gentlemen Returns With Exciting New Release This December",
+              "url": "https://screenrant.com/guy-ritchie-the-gentlemen-collectors-edition-steelbook-release-date/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "fixer upper chip bought a mansion",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Chip and Joanna Gaines Give First Look at New 15,000-Square-Foot Texas Mansion",
+              "url": "https://www.instyle.com/chip-joanna-gaines-reveal-15000-square-foot-mansion-texas-12188587"
+            },
+            {
+              "title": "‘Fixer Upper’ to Return With New Spinoff Series as Chip & Joanna Gaines Renovate a Mansion",
+              "url": "https://www.yahoo.com/entertainment/tv/articles/fixer-upper-return-spinoff-series-010546200.html"
+            },
+            {
+              "title": "Chip and Joanna Gaines to Star in New Show, ‘Fixer Upper: Chip Bought a Mansion’ — See the Trailer! (Exclusive)",
+              "url": "https://people.com/fixer-upper-chip-bought-a-mansion-watch-the-trailer-exclusive-12186561"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "robbie gould",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Chicago Bears all-time points leader resigns from high school coaching role",
+              "url": "https://www.usatoday.com/story/sports/high-school/football/2026/10/21/robbie-gould-saint-viator-football-coach-departure/92370641007/"
+            },
+            {
+              "title": "Former Chicago Bears kicker Robbie Gould steps down as St. Viator football coach",
+              "url": "https://www.chicagotribune.com/2026/10/21/robbie-gould-resigns-st-viator-coach/"
+            },
+            {
+              "title": "Former Chicago Bears kicker Robbie Gould to resign as head football coach of Saint Viator High School in Arlington Heights",
+              "url": "https://abc7chicago.com/post/former-chicago-bears-kicker-robbie-gould-resign-head-football-coach-saint-viator-high-school-arlington-heights/19966777/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "home DIY",
+          "interest_avg": 49,
+          "interest_max": 100,
+          "interest_latest": 100,
+          "rank": 1
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 46,
+          "interest_max": 100,
+          "interest_latest": 59,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 6,
+          "interest_max": 33,
+          "interest_latest": 10,
+          "rank": 3
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 5,
+          "interest_max": 30,
+          "interest_latest": 11,
+          "rank": 4
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 1,
+          "interest_max": 25,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "日本中央競馬会競馬学校",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 2,
+          "keyword": "松井稼頭央",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "松井稼頭央氏が“動画全盛時代”での指導に私見「選手もしっかりと勉強しているなか…」（THE DIGEST）",
+              "url": "https://news.yahoo.co.jp/articles/95a2f325f79b9dbf9ac8670a6df6bd1ec769feb9"
+            },
+            {
+              "title": "松井稼頭央氏が“動画全盛時代”での指導に私見「選手もしっかりと勉強しているなか…」",
+              "url": "https://portal.uqmobile.jp/detail/1/6/10/10424_10_r_20261021_1792565961878325"
+            },
+            {
+              "title": "松井稼頭央氏が“動画全盛時代”での指導に私見「選手もしっかりと勉強しているなか…」",
+              "url": "https://www.chiba-tv.com/plus/detail/2026102140576"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "iphone duo",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "iPhone「Duo」品薄 高額転売横行",
+              "url": "https://news.yahoo.co.jp/pickup/6599790"
+            },
+            {
+              "title": "Apple初の折りたたみ型「iPhone Duo」発売 30万円超も購入客「安い」",
+              "url": "https://www.nikkei.com/article/DGXZQOUC2088F0Q6A021C2000000/"
+            },
+            {
+              "title": "初の折りたたみ型ｉＰｈｏｎｅ発売、さっそく入手の男性「高価だが新しい形に期待」…税込み３６万円台から",
+              "url": "https://www.yomiuri.co.jp/economy/20261023-GYT1T00115/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "岡本綾子",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "岡本綾子会員 令和8年度「文化功労者」選出について",
+              "url": "https://www.lpga.or.jp/news/info/84313"
+            },
+            {
+              "title": "岡本綾子氏が文化功労者に選出「身の引き締まる思い」 プロゴルファー3人目（ゴルフダイジェスト・オンライン（GDO））",
+              "url": "https://news.yahoo.co.jp/articles/bb222b1baa42fe8ca74c9bcf9e3ea1bd2852f792"
+            },
+            {
+              "title": "文化功労者の岡本綾子さん 世界のアヤコ、女子ゴルフ飛躍の先駆者",
+              "url": "https://www.nikkei.com/article/DGXZQODH214HG0R21C26A0000000/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "原辰徳",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "11/23(月・祝)ファイターズOBやサンリオキャラクターも参加！「北広島市スポーツフェスティバル Supported by Sanrio」開催",
+              "url": "https://www.fighters.co.jp/news/detail/202600962251.html"
+            },
+            {
+              "title": "原辰徳さん＆栗山英樹さんＷＢＣ優勝監督、代表選手による特別トークショー開催…１１月２３日エスコンフィールド「北広島市スポーツフェスティバル ｓｕｐｐｏｒｔｅｄ ｂｙ Ｓａｎｒｉｏ」（スポーツ報知）",
+              "url": "https://news.yahoo.co.jp/articles/806da3777618246fab9bacfdda13ebe1b242017a"
+            },
+            {
+              "title": "サンリオキャラクターと一緒に楽しもう！「北広島市スポーツフェスティバル Supported by Sanrio」11月23日エスコンフィールドHOKKAIDOで開催",
+              "url": "https://prtimes.jp/main/html/rd/p/000001040.000071317.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "歌舞伎",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "中村児太郎の〝廃業〟やむなし 度重なる暴力報道で名門「成駒屋」の看板にキズ（東スポWEB）",
+              "url": "https://news.yahoo.co.jp/articles/b261c58b034790e826c8a02aa1b5352a027f40cf"
+            },
+            {
+              "title": "中村児太郎「逮捕」で猛批判　「歌右衛門・福助」親子ダブル襲名披露は絶望的か",
+              "url": "https://topics.smt.docomo.ne.jp/article/zak2/entertainment/zak2-TEPYBDPIU5EJBDWKW5R62AEW2U"
+            },
+            {
+              "title": "歌舞伎俳優・中村児太郎さん、知人女性への傷害容疑で逮捕 容疑認める、現在は釈放",
+              "url": "https://www.sankei.com/article/20261021-BICWOLMNPVLYDDZSRIAKB65CLE/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "宮本茂",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "【文化勲章】“マリオの生みの親”任天堂ゲームデザイナー・宮本茂氏に受章決定 ゲーム業界からは初",
+              "url": "https://news.yahoo.co.jp/pickup/6599789"
+            },
+            {
+              "title": "任天堂の宮本茂さんに文化勲章、ゲーム分野初の受章…大衆音楽の都倉俊一さん・ノーベル賞の硤合憲三さんも",
+              "url": "https://www.yomiuri.co.jp/culture/20261023-GYT1T00118/"
+            },
+            {
+              "title": "文化勲章に「マリオ」の宮本氏やノーベル賞のそ※合氏ら8人",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261023de64035"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "阪神 コーチ 退団 なぜ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "“辞任ドミノ”の阪神 「コーチ4名」が“異例の退団”、「和田ヘッド」も“配置転換”の本当の理由 藤川監督が抱える“重すぎる課題”とは",
+              "url": "https://news.yahoo.co.jp/articles/02fe17ecb688d0c1dc71996584b1b09c0ff89208"
+            },
+            {
+              "title": "阪神・藤川監督の「恐怖政治」に辟易、次々逃げ出す腹心コーチ…試合中の罵声は相手ベンチまで到達【緊急連載】阪神CS惨敗の病 #3",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkangendai/sports/nikkangendai-1257347?page=2"
+            },
+            {
+              "title": "阪神・藤川球児監督に「進退を問う声」 CS惨敗でリーグ連覇の監督に何が",
+              "url": "https://dot.asahi.com/articles/-/295581?page=1"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "高橋由伸",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "【ドラフト】阪神は「ポスト」がテーマ　巨人、DeNAは当日判断／セ・リーグ指名動向",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkansports/sports/f-bb-tp0-261022-202610210001304"
+            },
+            {
+              "title": "【ドラフト】巨人総括 18年ぶり上位４位まで高校生 監督不在で編成部門の将来投資が濃く出た形（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/35f7a00fe43295026802d7f26897aebbeeedfdfd"
+            },
+            {
+              "title": "【巨人】１１年ぶりの監督不在ドラフト 高橋由伸氏に監督就任要請段階で迎えた１５年のドラ７はチームに不可欠な中継ぎに成長",
+              "url": "https://hochi.news/articles/20261021-OHT1T51314.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "flamengo",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Flamengo é eliminado da Libertadores e internet não perdoa; veja zoações",
+              "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/22/flamengo-perde-e-internet-nao-perdoa-veja-zoacoes.ghtml"
+            },
+            {
+              "title": "Libertadores: Muslera brilha, Estudiantes bate Fla nos pênaltis e pega Palmeiras na final",
+              "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/10/22/flamengo-x-estudiantes-libertadores.ghtm"
+            },
+            {
+              "title": "Leonardo Jardim tem dúvida na escalação contra o Estudiantes",
+              "url": "https://www.band.com.br/nacional/brasil/leonardo-jardim-tem-duvida-na-escalacao-contra-o-estudiantes"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 14,
+          "interest_max": 100,
+          "interest_latest": 13,
+          "rank": 1
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 10,
+          "interest_max": 32,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 1,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 8,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 27,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-10-23T03:47:25.598486+00:00"
+}

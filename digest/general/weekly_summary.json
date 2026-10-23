@@ -1,39 +1,55 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-10-16",
-    "to": "2026-10-22"
+    "from": "2026-10-17",
+    "to": "2026-10-23"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+13%",
-      "total_mentions": 117
+      "growth": "+40%",
+      "total_mentions": 123
     },
     {
       "keyword": "#viral",
-      "growth": "+27%",
-      "total_mentions": 96
+      "growth": "+21%",
+      "total_mentions": 102
+    },
+    {
+      "keyword": "trend",
+      "growth": "+45%",
+      "total_mentions": 83
     },
     {
       "keyword": "dance",
-      "growth": "+50%",
-      "total_mentions": 76
+      "growth": "+40%",
+      "total_mentions": 82
     },
     {
       "keyword": "#trending",
-      "growth": "+22%",
-      "total_mentions": 68
-    },
-    {
-      "keyword": "경량패딩",
-      "growth": "+83%",
-      "total_mentions": 59
+      "growth": "+20%",
+      "total_mentions": 71
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "후드티",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "저스틴 비버",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "경량패딩",
       "platforms": [
@@ -55,8 +71,8 @@
     "스웨이드자켓",
     "트위드자켓",
     "여성가디건",
-    "원피스",
-    "후드집업"
+    "후드집업",
+    "원피스"
   ],
   "top_keywords_overall": [
     "#shorts",
@@ -64,10 +80,10 @@
     "스웨이드자켓",
     "트위드자켓",
     "여성가디건",
-    "원피스",
     "후드집업",
     "trend",
+    "원피스",
     "dance",
-    "바람막이"
+    "#trending"
   ]
 }
