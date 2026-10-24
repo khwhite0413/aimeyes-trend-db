@@ -1,8 +1,8 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-10-17",
-    "to": "2026-10-23"
+    "from": "2026-10-18",
+    "to": "2026-10-24"
   },
   "days_analyzed": 7,
   "confidence": "high",
@@ -10,27 +10,27 @@
     {
       "keyword": "fashion",
       "growth": "+12%",
-      "total_mentions": 119
-    },
-    {
-      "keyword": "ootd",
-      "growth": "+42%",
-      "total_mentions": 106
+      "total_mentions": 120
     },
     {
       "keyword": "#ootd",
-      "growth": "+55%",
-      "total_mentions": 105
+      "growth": "+31%",
+      "total_mentions": 111
     },
     {
-      "keyword": "lookbook",
-      "growth": "+38%",
-      "total_mentions": 78
+      "keyword": "ootd",
+      "growth": "+31%",
+      "total_mentions": 111
     },
     {
       "keyword": "#lookbook",
-      "growth": "+57%",
-      "total_mentions": 75
+      "growth": "+22%",
+      "total_mentions": 79
+    },
+    {
+      "keyword": "#데일리룩코디",
+      "growth": "+22%",
+      "total_mentions": 74
     }
   ],
   "most_cross_platform": [
@@ -65,12 +65,12 @@
     "트위드자켓",
     "여성가디건",
     "후드집업",
-    "원피스"
+    "경량패딩"
   ],
   "top_keywords_overall": [
     "fashion",
-    "ootd",
     "#ootd",
+    "ootd",
     "스웨이드자켓",
     "트위드자켓",
     "여성가디건",

@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "나귀욤미",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "카와 포켓",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "귀여운척 해봣어",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "치이포케",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "코미버스",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "부스 오픈",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "주급 축하",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "계란말이 시사",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "시사 품절",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "lck 내전",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "#에이티즈",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "영포에버",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "#카페레봄",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "가요대전",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "#주의평화카페",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "오세훈 무죄",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "디페스타",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "#착취범죄수익완전환수해",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "김태형 감독",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "포켓 시사",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "도시락 시리즈",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "#GOLDENHOUR_Part6",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "새우튀김 우사기",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "LCK 4팀",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "VALUE JUHOONS POTENTIAL",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "체포하겠어",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "꼬들 1757",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "공자학원",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "넷플잔치",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "포켓 성공",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#SmackDown",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Tatum",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#WorldSeries",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#thelastdrivein",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Brook Lopez",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Giannis",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Contreras",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Aaron Ashby",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#MutantFam",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#BostonBlue",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Mikal",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Michin",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Mason Williams",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Paul Reed",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Giulia",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Nesmith",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Hornets",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Pacers",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Klay",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Bangtan",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Heat",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Wild Bill",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Rockets",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Steven Matz",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "End 3Q",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Podz",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Jackson Chourio",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Mavs",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "John Smoltz",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Josh Hart",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#GoHabsGo",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Jake Evans",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Scottie",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Turkey",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#SmackDown",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Raptors",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Kawhi",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Bioware",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Mercer",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "ethan",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Devils",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Jets",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Hellebuyck",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Winnipeg",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Command",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "GUIDELINE FOR CONSCRIPTS",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Fowler",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "#thelastdrivein",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Wizards",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Hila",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Hawks",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "trae young",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "#WorldSeries",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "matheson",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "yandle",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Shead",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "#MutantFam",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Bedard",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Tatum",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Haití",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "ラポスタ",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "LINEマンガ",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "マンガとアニメ両方",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "人気アニメ",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "見放題パス購入分のコイン",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "全額還元中",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "勢ぞろい",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#あったらいいなナッティ",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "カグラバチ",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#Niらいぶ_北海道",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "#No3TOUR_北海道",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "ミャスティ",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "文鳥の日",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "ワールドシリーズ",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "男女混合",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "マーガリン",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "#ひな時間",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "#ミキティダイニング",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "スバおつヴぁる",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "スコラーリ",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "ソロコン",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "ハジマザ",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "コントレラス",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "アシュビー",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "雨の土曜日",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "中村貴浩",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "桜蘭高校ホスト部",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "トミージョン",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "男女合同",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "ケムナ誠",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "京都5R",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "追加公演",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "アルテミスS",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "タンタフェリチア",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "リコルディオーロ",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "誰か連番",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "ビジューブリランテ",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "プレゼントとメッセージ",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "メッセージの入力",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "飯テロ漫画",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "ミューレフェス",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "新潟4R",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "Neko",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "パピヨン",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "イニシャルポイント",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "東京4R",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "桐谷さん",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "ミジオロウスキー",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "SHANK",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "土砂降り",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#DebateNaGlobo",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Flavio",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Ana Clara",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#SomosTodos9Dedos",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "ラポスタ",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Tralli",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#FLAZZRP1",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#SmackDown",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "belém",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Richarlison",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Tatum",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Gugo",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "#LaGranjaTraición",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Impressão",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Young Forever",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Cracolândia",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Nordeste",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Bangtan",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Tarcísio",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Flavinho",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "見放題パス購入分のコイン",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "全額還元中",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "マンガとアニメ両方",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "人気アニメ",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "LINEマンガ",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "勢ぞろい",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Gopay",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "XCRY X WINGSTOP",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Knicks",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "ARMYMX MUCHO PICANTE",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-24T03:41:40.668698+00:00"
+}
