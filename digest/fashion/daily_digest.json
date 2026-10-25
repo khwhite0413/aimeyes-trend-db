@@ -2,9 +2,9 @@
   "date": "2026-10-25",
   "mode": "fashion",
   "compared_to": "2026-10-24",
-  "total_keywords_today": 464,
+  "total_keywords_today": 463,
   "total_keywords_yesterday": 476,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -74,6 +74,17 @@
       "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
+      "keyword": "outfit",
+      "change": "+29%",
+      "today_count": 9,
+      "yesterday_count": 7,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 9건, 어제 7건 기준"
+    },
+    {
       "keyword": "victoria",
       "change": "+14%",
       "today_count": 8,
@@ -140,6 +151,17 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
+      "keyword": "#outfit",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
       "keyword": "meesho",
       "change": "+100%",
       "today_count": 4,
@@ -173,17 +195,6 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "street",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
       "keyword": "#wego",
       "change": "+50%",
       "today_count": 3,
@@ -207,17 +218,6 @@
     },
     {
       "keyword": "#トレンド",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "トレンド",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -286,17 +286,17 @@
       "confidence": "medium"
     },
     {
-      "keyword": "#haul",
-      "change": "-60%",
-      "today_count": 2,
+      "keyword": "amp",
+      "change": "-20%",
+      "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "#outfitideas",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
+      "keyword": "#haul",
+      "change": "-60%",
+      "today_count": 2,
+      "yesterday_count": 5,
       "confidence": "low"
     }
   ],
