@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#별의_궤적이_빛나는_1위",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "유니 오하",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "심장소리",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#노_맘대로_즐기는_리노생일",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#NIKKE4thAnniversary",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#HappyLeeKnowDay",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "체포하겠어",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "애니비아",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "전작가님",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "블러피니쉬 섀도우",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "트친 찾기",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "또챠즈케",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "레이브 1위",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "#에이티즈",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "페니비아",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "김홍도 축제",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "꼬들 1758",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "기대 UP",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "새끼 손가락",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "킬링 파트",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "넷플잔치",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "새곰님 생일",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "코미버스",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "룸살롱640억",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "디플러스기아",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "우르수스",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "시그널2",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "음중 1위",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "무안공항",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "다음 경기",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Arch Manning",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Ole Miss",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Lincoln Riley",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Cheesecake Factory",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Sal Frelick",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Cam Coleman",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Wisconsin",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Clemson",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#HookEm",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#AEWCollision",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Hokies",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Dabo",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Caleb Wilson",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Chambliss",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Giannis",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Vandy",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Tennessee",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Ian Seymour",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Badgers",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Hudson",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "#NavarreteFoster",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "The Last Outfit",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Big 12",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "#Svengoolie",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "James Franklin",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Iowa",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Frank Martin",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Saddam Hussein",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Kewan Lacy",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Maiava",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Leafs",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "oilers",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Jarry",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "McDavid",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Stolarz",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#PassionNeverSleeps",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Draisaitl",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Matthews",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#AEWCollision",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Stecher",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Cuthbert",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Simpson",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Tanev",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Levi",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Cowan",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Hudson",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Cozens",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Ole Miss",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Drake Batherson",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Giannis",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "#VWFC",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Roslovic",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Johansson",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "William Nylander",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Walman",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Babcock",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Hyman",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Bouchard",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Volk",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Miami Heat",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "設営完了",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "オメガホーン",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "おジャ魔女",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "ギャバン",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#Tシャツと帽子セットプレゼント",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "ノヴァルクス",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#仮面ライダーマイス",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "ティグ兄",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "京都競馬場",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#日曜のへそ",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "#M3秋2026",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "#precure",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "ロブチェン",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "ニチアサ",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "マシュタン",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "弩城怜慈",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "ノイエルング",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "ダノンカンタービレ",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "土砂降り",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "鉄壁のレイジ",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "新刊完売",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "シャウト",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "アギちゃん",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "イバル様",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "マジカルステージ",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "小笠原諸島西方沖",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "エフフォーリア産駒",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "M7.0",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "深発地震",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "異常震域",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "世界パスタデー",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "ボスラー",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "魔空空間",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "マキバオー",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "売り子さん",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "小笠原の地震",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "ReLIT",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "カルボナーラ",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "コラボ回",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "ゴールデンプロミス",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "チャンミ決勝",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "M7.5",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "シアルナーレ",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "そくほー",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "野沢雅子さん",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "怒城怜慈",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "ジェット先輩",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "生存フラグ",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "ハンニンダー",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "既刊完売",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "設営完了",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#EuVotoFazendoL",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Neymar",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "オメガホーン",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "おジャ魔女",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "ギャバン",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Gojek DiGoPay 1000 Aja",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "LULA REELEITO",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "शरद पूर्णिमा",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Arch Manning",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Corinthians",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "#HojeEuVotoLula",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Néstor",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Ole Miss",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Lincoln Riley",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Cheesecake Factory",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "#仮面ライダーマイス",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "#Tシャツと帽子セットプレゼント",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "#precure",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "ティグ兄",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "ニチアサ",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "マシュタン",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "プリキュア",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Sark",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Sal Frelick",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "弩城怜慈",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "京都競馬場",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "ロブチェン",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Cam Coleman",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Wisconsin",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-25T03:39:42.250263+00:00"
+}

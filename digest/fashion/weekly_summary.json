@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-10-18",
-    "to": "2026-10-24"
+    "from": "2026-10-19",
+    "to": "2026-10-25"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+19%",
-      "total_mentions": 121
+      "growth": "+62%",
+      "total_mentions": 126
     },
     {
       "keyword": "#ootd",
       "growth": "+31%",
-      "total_mentions": 111
+      "total_mentions": 115
     },
     {
       "keyword": "ootd",
       "growth": "+31%",
-      "total_mentions": 111
+      "total_mentions": 115
+    },
+    {
+      "keyword": "lookbook",
+      "growth": "+40%",
+      "total_mentions": 84
     },
     {
       "keyword": "#lookbook",
-      "growth": "+22%",
-      "total_mentions": 79
-    },
-    {
-      "keyword": "#데일리룩코디",
-      "growth": "+22%",
-      "total_mentions": 74
+      "growth": "+20%",
+      "total_mentions": 82
     }
   ],
   "most_cross_platform": [
@@ -42,6 +42,14 @@
         "youtube"
       ],
       "count": 3
+    },
+    {
+      "keyword": "후드티",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
     },
     {
       "keyword": "블라우스",
@@ -63,20 +71,20 @@
   "naver_shopping_hot": [
     "스웨이드자켓",
     "트위드자켓",
-    "여성가디건",
     "후드집업",
+    "여성가디건",
     "경량패딩"
   ],
   "top_keywords_overall": [
     "fashion",
     "#ootd",
     "ootd",
+    "lookbook",
     "스웨이드자켓",
     "트위드자켓",
-    "여성가디건",
     "후드집업",
-    "원피스",
-    "lookbook",
-    "#lookbook"
+    "여성가디건",
+    "#lookbook",
+    "원피스"
   ]
 }
