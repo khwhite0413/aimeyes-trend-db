@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-10-19",
-    "to": "2026-10-25"
+    "from": "2026-10-20",
+    "to": "2026-10-26"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+62%",
-      "total_mentions": 126
+      "growth": "+13%",
+      "total_mentions": 130
     },
     {
-      "keyword": "#ootd",
-      "growth": "+31%",
-      "total_mentions": 115
+      "keyword": "#shorts",
+      "growth": "+22%",
+      "total_mentions": 83
     },
     {
-      "keyword": "ootd",
-      "growth": "+31%",
-      "total_mentions": 115
+      "keyword": "경량패딩",
+      "growth": "+44%",
+      "total_mentions": 80
     },
     {
-      "keyword": "lookbook",
+      "keyword": "#fashion",
       "growth": "+40%",
-      "total_mentions": 84
+      "total_mentions": 55
     },
     {
-      "keyword": "#lookbook",
-      "growth": "+20%",
-      "total_mentions": 82
+      "keyword": "가죽자켓",
+      "growth": "+12%",
+      "total_mentions": 55
     }
   ],
   "most_cross_platform": [
@@ -58,22 +58,14 @@
         "youtube"
       ],
       "count": 2
-    },
-    {
-      "keyword": "사이버펑크",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
     "스웨이드자켓",
     "트위드자켓",
     "후드집업",
-    "여성가디건",
-    "경량패딩"
+    "경량패딩",
+    "여성가디건"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -83,8 +75,8 @@
     "스웨이드자켓",
     "트위드자켓",
     "후드집업",
+    "#shorts",
     "여성가디건",
-    "#lookbook",
-    "원피스"
+    "#lookbook"
   ]
 }

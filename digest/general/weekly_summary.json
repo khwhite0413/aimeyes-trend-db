@@ -1,34 +1,34 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-10-19",
-    "to": "2026-10-25"
+    "from": "2026-10-20",
+    "to": "2026-10-26"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#shorts",
-      "growth": "+11%",
-      "total_mentions": 128
-    },
-    {
       "keyword": "trend",
-      "growth": "+25%",
-      "total_mentions": 94
-    },
-    {
-      "keyword": "#trending",
-      "growth": "+44%",
-      "total_mentions": 79
+      "growth": "+10%",
+      "total_mentions": 93
     },
     {
       "keyword": "경량패딩",
       "growth": "+33%",
-      "total_mentions": 73
+      "total_mentions": 76
+    },
+    {
+      "keyword": "가죽자켓",
+      "growth": "+12%",
+      "total_mentions": 55
     },
     {
       "keyword": "후리스",
+      "growth": "+200%",
+      "total_mentions": 42
+    },
+    {
+      "keyword": "패딩조끼",
       "growth": "+300%",
       "total_mentions": 35
     }
@@ -49,33 +49,25 @@
         "youtube"
       ],
       "count": 2
-    },
-    {
-      "keyword": "사이버펑크",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
     }
   ],
   "naver_shopping_hot": [
     "스웨이드자켓",
     "트위드자켓",
     "후드집업",
-    "여성가디건",
-    "경량패딩"
+    "경량패딩",
+    "여성가디건"
   ],
   "top_keywords_overall": [
     "#shorts",
-    "#viral",
     "trend",
-    "dance",
+    "#viral",
     "스웨이드자켓",
     "트위드자켓",
     "후드집업",
+    "dance",
     "여성가디건",
-    "원피스",
-    "#trending"
+    "#trending",
+    "원피스"
   ]
 }
