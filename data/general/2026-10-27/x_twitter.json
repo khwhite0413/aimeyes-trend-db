@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "당신과 최애의 이별 사유",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "체포하겠어",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "리제 오하",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "트리 우사기",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "리프레쉬",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "부정선거",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "기현이 코로나",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "징역 3년",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "발롱도르",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "꼬들 1760",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "자동차학과",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "사이드카",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "리디아고",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "카스트로",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "세츠나하나비",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#FAM_브리즈_하나된이모션",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "KEONHO CHANEL BOY REDEFINED",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "라멘 랏코",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "이번주도",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "앤트로픽",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "지그재그",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "#시영이_생일_분석중",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "#NeonAndBeYOUNG",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "유니유니",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "인썸니아",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "채상병 순직",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "#PradaFW26",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "평균 여자",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "IKEONIC",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "#JAMESxPRADA",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Brewers",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Eagles",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Cowboys",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#WWERAW",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Rays",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Jay-Z",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Tanner McKee",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Saquon",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "#WinOurWay",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#WorldSeries",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Giannis",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Javonte Williams",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Kiah Stokes",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Bayley",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Cooper Flagg",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "#ThisIsMyCrew",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Jalen Carter",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Riq Woolen",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Jake Ferguson",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Schotty",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Jordan Davis",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Brandon Woodruff",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Pickens",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Makai Lemon",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Overshown",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "#DALvsPHI",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Fangio",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Lyra",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Christian Parker",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Harry Kane",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Toronto",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Olivia Chow",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Brewers",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Brad Bradford",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Sportsnet",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Flames",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#WWERAW",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Bobrovsky",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Cowboys",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Mississauga",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Harry Kane",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Rays",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Gridin",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "FAIRNESS FOR CONSCRIPTS",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Alvin",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Eagles",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Crombie",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "CP24",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "#WorldSeries",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Giannis",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Indian Act",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Jay-Z",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "#TOpoli",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Formenton",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Cooley",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Parrish",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Bayley",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Calgary",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Tanner McKee",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Rogers",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "ちばてつや先生",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#一日だけなってみたいもの",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "PC電源",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "パソコンの電源",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "バロンドール",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "スポーツ漫画の歴史",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "漫画家初の文化勲章",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#私ゆらぎません",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "後進育成",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "ブルワーズ",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "#TyrantSurvival",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "緊急要請",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "ちば先生",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "#サーティワン新作",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "#ローソンララキャンペーン",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "読書の日",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "ブリュワーズ",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "正午の攻撃予告前",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "デュアルシャドウ",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "プロモーション",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "協力申し出",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "セキュリティー会社",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "ハリーケイン",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "あしたのジョー",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "トフィー",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "テディベア",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "脅迫受け",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "細野大臣",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "のたり松太郎",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "読書週間",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "食料・水・トイレの備え",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "紫電改のタカ",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "無罪主張",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "ハリスの旋風",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "電源切れ",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "米大統領",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "ノルウェー",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "GMOの件",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "チューハイ",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "Siri AI",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "大人の味覚",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "ランキング入賞",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "リンカー",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "ミルウォーキー",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "尼崎4R",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "ハウラー",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "iPad mini",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "キオクシ",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "ウッドラフ",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "読書ゼロ",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "ちばてつや先生",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Brewers",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Cowboys",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "Eagles",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Harry Kane",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#WWERAW",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#LaGranjaCapataz",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#BallonDor",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Rays",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "ちば先生",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "#一日だけなってみたいもの",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Jay-Z",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "PC電源",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "#ApontaPeão",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "パソコンの電源",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "FELIZ ANIVERSÁRIO LULA",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "あしたのジョー",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "スポーツ漫画の歴史",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Tanner McKee",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "漫画家初の文化勲章",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Giannis",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "後進育成",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "Saquon",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "バロンドール",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "ブルワーズ",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Dhyan Ke Labh",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "のたり松太郎",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "緊急要請",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Bayley",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "紫電改のタカ",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-27T04:06:29.831423+00:00"
+}

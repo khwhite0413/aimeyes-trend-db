@@ -1,0 +1,965 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "마라톤",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "옥천군청 김현진 선수, 전국 마라톤 대회 하프 부문 '우승'",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3733488"
+            },
+            {
+              "title": "옥천군청 김현진, 전국 마라톤 하프 여자부 우승",
+              "url": "https://www.inews24.com/view/2019325"
+            },
+            {
+              "title": "옥천군청 김현진, 전국 마라톤 하프 부문 우승",
+              "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2349332"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "카카오모빌리티",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "택시 호출료 배분 불투명 논란…황운하·택시노조, 전면 실태조사 촉구",
+              "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1107121"
+            },
+            {
+              "title": "“목적지도 모르고 콜 수락”…카카오T 자동배차, 기사들 “갑질 아니냐”",
+              "url": "https://wemakenews.co.kr/news/view.php?no=26681"
+            },
+            {
+              "title": "\"카카오모빌리티 노동위 진정\"…택시·플랫폼 갈등 재점화",
+              "url": "https://www.newstomato.com/ReadNews.aspx?no=1318039"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "姆巴佩",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "东鹏饮料集团：坚决反对伤害民族感情的行为，终止与姆巴佩全部合作",
+              "url": "https://www.nbd.com.cn/articles/2026-10-27/4619895.html"
+            },
+            {
+              "title": "极目锐评丨吃中国饭，砸中国锅？姆巴佩，不配！",
+              "url": "https://www.ctdsb.net/c1476_202610/2889168.html"
+            },
+            {
+              "title": "蒙牛乳业声明：即日起，终止与姆巴佩的全部合作",
+              "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae0188aed385native.htm"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "소방관",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "(설명) 내년 소방안전교부세 감액 규모 3,561억 원...지자체 부담 더 는다(조선일보)",
+              "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148974321"
+            },
+            {
+              "title": "\"소방관 개꿀…출동 없으면 꿀잠, 빨대 맞다\" 공무원글 논란 - 머니투데이",
+              "url": "https://www.mt.co.kr/society/2026/10/27/2026102710324848343"
+            },
+            {
+              "title": "구부렸다 다시 뻣뻣해진 추미애, 의도는 다른 곳에 있는데 예산으로 논란? (261026 월요일 클립) 강수영 이정주",
+              "url": "https://www.khan.co.kr/video/article/202610262200001"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "임성근",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'채 상병 순직 책임' 임성근, 대법서 징역 3년 확정‥유족 \"부모 눈물 외면한 판결\"",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6860979_36918.html"
+            },
+            {
+              "title": "[속보] ‘채상병특검 수사대상 1호’ 임성근 전 사단장 징역 3년 확정···순직 3년 만에",
+              "url": "https://www.khan.co.kr/article/202610271040001"
+            },
+            {
+              "title": "[이시각헤드라인] 10월 27일 뉴스센터",
+              "url": "https://www.yonhapnewstv.co.kr/news/MYH20261027113646CAf"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "gpt-6.1",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "GPT-6.1 Terra in GitHub Copilot",
+              "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot/"
+            },
+            {
+              "title": "OpenAI unveils GPT-6.1 Terra, cutting API prices in half",
+              "url": "https://en.fnnews.com/news/202610271024152411"
+            },
+            {
+              "title": "GPT-6.1 Terra makes a strong case for being OpenAI's best bang for your AI buck",
+              "url": "https://www.androidauthority.com/gpt-6-1-terra-3728234/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "농성",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "반도체 주52시간제 예외… 시행령 땜질한다는 정부",
+              "url": "https://www.donga.com/news/Politics/article/all/20261027/134913313/2"
+            },
+            {
+              "title": "메가특구 ‘특별연장근로 보완’… 내일 사회적 대화서 논의할듯",
+              "url": "https://www.munhwa.com/article/11626632"
+            },
+            {
+              "title": "[기획] 호남팹이 ‘재벌 특혜’라는 李 지지층",
+              "url": "https://www.dt.co.kr/article/12091307"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "급여",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "\"월급 받자마자 텅장\"…직장인 평균 하루 만에 43% 빠져나가, 한 달 뒤엔 3%만 남아",
+              "url": "https://www.chosun.com/economy/economy_general/2026/10/27/JXV6GCMMVJD7NEZULYZYW5IJEQ/"
+            },
+            {
+              "title": "“어제 받은 월급, 어디로 사라졌나요”…한달 뒤면 잔액 3%만 남아",
+              "url": "https://www.mk.co.kr/news/economy/12186574"
+            },
+            {
+              "title": "\"월급은 잠시 머물다 간다\"…한 달 뒤 통장엔 3%만",
+              "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027090330yk2"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "정가은",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "‘이혼’ 정가은, 결혼반지 팔러 갔다가 당황…“정품 아닐 확률 90% 이상”",
+              "url": "https://www.donga.com/news/Culture/article/all/20261027/134914815/2"
+            },
+            {
+              "title": "'132억 사기 이혼' 정가은, 결혼반지 감정 맡겼는데..\"가품 확률 90%\"",
+              "url": "https://www.koreadaily.com/article/20261026042410355"
+            },
+            {
+              "title": "“양육비도 못 받았는데”…정가은, 결혼반지 가품 가능성에 분노",
+              "url": "https://www.mk.co.kr/news/culture/12186553"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "관광지",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "경북문화관광공사, 계절에 상관없이 즐기는 관광지 소개",
+              "url": "https://www.viva100.com/article/20261027500216"
+            },
+            {
+              "title": "춥거나 비 와도 즐기는 경북 여행…실내·체험 관광지 4개 테마 제안",
+              "url": "https://www.edaily.co.kr/News/Read?newsId=03470246645617184&mediaCodeNo=257"
+            },
+            {
+              "title": "비 오는 날도, 한겨울에도…경북 실내 관광지 11곳 주목",
+              "url": "https://www.kbmaeil.com/article/20261027500144"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 65,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 7,
+          "interest_max": 20,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 57,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 92,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 60,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "yaxel lendeborg",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Yaxel Lendeborg’s girlfriend Tacarra makes telling 3-word comment about Warriors future",
+              "url": "https://sports.yahoo.com/articles/yaxel-lendeborg-girlfriend-tacarra-makes-022700185.html"
+            },
+            {
+              "title": "‘Worst Talent Evaluator in the NBA,’ ‘No Worse Coach for a Young Player’ — Hoops World Reacts As Steve Kerr Criticizes Warriors Rookie Yaxel Lendeborg",
+              "url": "https://sports.yahoo.com/articles/worst-talent-evaluator-nba-no-203339245.html"
+            },
+            {
+              "title": "Kerr Calls Out Yaxel Lendeborg with Brutally Honest Quote on 'Very Poor' Awareness in New Video",
+              "url": "https://bleacherreport.com/articles/25520051-kerr-calls-out-yaxel-lendeborg-brutally-honest-quote-very-poor-awareness-new-video"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "meghan markle",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Meghan Markle Is Reportedly Leaving U.K. for “Weeks” for Major Career Move—And Her Kids May Join Her",
+              "url": "https://www.instyle.com/meghan-markle-leaving-uk-for-weeks-film-junior-masterchef-australia-kids-harry-12195511"
+            },
+            {
+              "title": "Meghan, Duchess of Sussex, to co-host Junior MasterChef Australia: ‘It was an easy yes’",
+              "url": "https://www.theguardian.com/uk-news/2026/oct/27/meghan-duchess-of-sussex-junior-masterchef-australia-it-ntwnfb"
+            },
+            {
+              "title": "Meghan agrees to major Aussie TV role",
+              "url": "https://www.news.com.au/entertainment/celebrity-life/royals/meghan-takes-on-major-aussie-tv-role-filming-locally-over-weeks-and-harry-kids-could-even-join-her/news-story/9aa206722b8782b8c554c45df0f1f7c5"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "joe keery",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Joe Keery Reveals Most-Active Texter in ‘Stranger Things’ Group Chat (Exclusive)",
+              "url": "https://people.com/joe-keery-reveals-most-active-texter-in-stranger-things-group-chat-exclusive-12190202"
+            },
+            {
+              "title": "Does the 'Stranger Things' Cast Still Keep In Touch? Joe Keery Talks Group Chat & Who's the Most Active",
+              "url": "https://www.justjared.com/2026/10/24/does-the-stranger-things-cast-still-keep-in-touch-joe-keery-talks-group-chat-whos-the-most-active/"
+            },
+            {
+              "title": "Inside the Stranger Things Cast Chat: Joe Keery Reveals the Co-Star Who Won’t Stop Messaging as the Franchise Enters Its Defining Era",
+              "url": "https://www.istitutoimpariamo.it/inside-the-stranger-things-cast-chat-joe-keery-reveals-the-co-star-who-wont-stop-messaging-as-the-franchise-enters-its-defining-era/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "aaron gordon",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Aaron Gordon Praises David Adelman's New System",
+              "url": "https://sports.yahoo.com/articles/aaron-gordon-praises-david-adelmans-063453607.html"
+            },
+            {
+              "title": "What We Learned About the Nuggets Rotation in Season Opener",
+              "url": "https://www.si.com/nba/nuggets/onsi/what-we-learned-about-the-nuggets-rotation-in-season-opener"
+            },
+            {
+              "title": "David Adelman Could Change Approach to Nuggets’ Rotation",
+              "url": "https://roundtable.io/sports/nba/nuggets/news/david-adelman-could-change-approach-to-nuggets-rotation"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "gary sánchez",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Gary Sanchez Doesn’t Rule Out Yankees Return In Free Agency",
+              "url": "https://heavy.com/sports/mlb/new-york-yankees/gary-sanchez-doesnt-rule-out-yankees-return-in-free-agency/"
+            },
+            {
+              "title": "“I'm a Free Man”: 33-Year-Old Brewers Star Opens Up on Potential Yankees Reunion",
+              "url": "https://www.aol.com/articles/im-free-man-33-old-044627000.html"
+            },
+            {
+              "title": "A Yankees reunion with Gary Sanchez needs a smaller role",
+              "url": "https://empiresportsmedia.com/new-york-yankees/a-yankees-reunion-with-gary-sanchez-needs-a-smaller-role/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "nikola jokić",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Nikola Jokic rallies Nuggets from 23 down, says booing fans 'not welcome anymore'",
+              "url": "https://www.espn.com/nba/story/_/id/50274046/nikola-jokic-says-booing-nuggets-fans-not-welcome-anymore"
+            },
+            {
+              "title": "Starting 5: Stars Deliver, Rookies Rise",
+              "url": "https://www.nba.com/news/starting-5-october-25-2026"
+            },
+            {
+              "title": "Nuggets complete 23-point comeback to force OT, beat Pelicans in home opener",
+              "url": "https://www.denverpost.com/2026/10/24/denver-nuggets-vs-new-orleans-pelicans-score-home-opener/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "skydance",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Here's the buyout package Skydance is offering employees who don't want to work in person 5 days a week",
+              "url": "https://www.businessinsider.com/skydance-buyout-offer-details-rto-5-days-paramount-warner-bros-2026-10"
+            },
+            {
+              "title": "Ellison’s CBS-CNN Split-Screen",
+              "url": "https://www.status.news/p/david-ellison-skydance-cnn-cbs-news-buyouts-return-office"
+            },
+            {
+              "title": "Skydance Offers Voluntary Buyouts, Moves To Five-Day In-Office Policy Across Company",
+              "url": "https://deadline.com/2026/10/skydance-moves-five-day-in-office-policy-across-company-1237187310/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "noah wyle",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "TV Talk: ‘The Pitt’ prepares to film in Pittsburgh for season 3 scenes",
+              "url": "https://triblive.com/aande/movies-tv/tv-talk-the-pitt-prepares-to-film-in-pittsburgh-for-season-3-scenes/"
+            },
+            {
+              "title": "'The Pitt' actors talk upcoming season of the hit medical show",
+              "url": "https://www.wtae.com/article/the-pitt-actors-in-pittsburgh/74254825"
+            },
+            {
+              "title": "'The Pitt' comes to Pittsburgh: What did cast members have to say?",
+              "url": "https://www.post-gazette.com/ae/tv-radio/2026/10/26/the-pitt-pittsburgh-agh/stories/202610260046"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "nfl week 8",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Fantasy football free agent pickups: Malik Willis, Jonah Coleman lead top options",
+              "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50286135/fantasy-football-waivers-free-agent-pickups-nfl-week-8"
+            },
+            {
+              "title": "2026 NFL fantasy football waiver wire, Week 8: Rookie WR KC Concepcion headlines top 15 targets",
+              "url": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-8-rookie-wr-kc-concepcion-headlines-top-15-targets"
+            },
+            {
+              "title": "Fantasy Football Waiver Wire Advice: Players to Add, Stash & Drop (Week 8)",
+              "url": "https://www.fantasypros.com/2026/10/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-8-2026/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "darryn peterson",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Jazz's Darryn Peterson: Struggles with shot on Sunday",
+              "url": "https://www.cbssports.com/fantasy/basketball/news/jazzs-darryn-peterson-struggles-with-shot-on-sunday/"
+            },
+            {
+              "title": "SUPRISES 5 Things LEARNED in Utah Jazz Training Camp: Jaren Jackson Jr., Darryn Peterson, Ace Bailey",
+              "url": "https://www.wqad.com/video/sports/locked-on/lo-utah/jazz-show/suprises-5-things-learned-in-utah-jazz-training-camp-jaren-jackson-jr-darryn-peterson-ace-bailey/535-ec41788f-63bb-4f0a-91d9-2449e2729c71"
+            },
+            {
+              "title": "Darryn Peterson's Learning Curve Hit Another Bump Against the Lakers",
+              "url": "https://sports.yahoo.com/articles/darryn-petersons-learning-curve-hit-110005335.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 42,
+          "interest_max": 100,
+          "interest_latest": 84,
+          "rank": 1
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 34,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 30,
+          "interest_max": 73,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 16,
+          "interest_max": 47,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 15,
+          "interest_max": 34,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 15,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 4,
+          "interest_max": 74,
+          "interest_latest": 74,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 3,
+          "interest_max": 20,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 32,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 10,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "nordstrom",
+          "value": "31300"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "prada",
+          "value": "130"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "hc andersen født",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "what is a 401k",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "best budget smartphone",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "nevus",
+          "value": "29750"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "ostrich or emu",
+          "value": "16300"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "mac coquette eyeshadow",
+          "value": "140"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "prima boston",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette style clothes",
+          "value": "80"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "松岡修造",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "人生後半に｢ヨボヨボ化する人｣と｢若々しい人｣はここが違う…松岡修造(58)が実践する｢1日の超ルーティン｣",
+              "url": "https://president.jp/articles/-/120447?page=1"
+            },
+            {
+              "title": "松岡修造「弱さは力なんですよ」井桁弘恵と語る、緊張や苦しみとの向き合い方",
+              "url": "https://news.j-wave.co.jp/2026/10/content-5686.html"
+            },
+            {
+              "title": "松岡修造さんが睡眠時間を削ってでも続ける、首肩腰をいたわる健康習慣 (2026年10月25日掲載)",
+              "url": "https://news.livedoor.com/topics/detail/32650052/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ブランドン・ウッドラフ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「満を持して登場か？」長期離脱のウッドラフにWSで登板機会はあるのか？ ロースター入りの背景にあるブリュワーズの期待とは",
+              "url": "https://news.yahoo.co.jp/articles/244bae689a39076e5fe2a811f7b9f48a8b17a306"
+            },
+            {
+              "title": "ブルワーズがサプライズ、３カ月半IL入りした右腕ウッドラフがワールドシリーズで復帰",
+              "url": "https://www.nikkansports.com/baseball/mlb/news/202610240000076.html"
+            },
+            {
+              "title": "NBAバックスの対応に感謝を述べたブルワーズの左腕ガサー（撮影・杉浦 大介通信員）",
+              "url": "https://www.sponichi.co.jp/baseball/news/2026/10/24/gazo/20261024s10001007164000p.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "堀大輔氏",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "「公的な場でぶっ殺せる」ショートスリーパー堀大輔氏 高須幹弥氏への発言が波紋…父・克弥氏も「容赦しない」とブチ切れ参戦で泥沼展開へ",
+              "url": "https://portal.uqmobile.jp/detail/1/5/9/10416_9_r_20261026_1793010394329325"
+            },
+            {
+              "title": "ショートスリーパー・堀大輔氏、睡眠改善プログラムの新規募集を終了 今後は継続希望者のみ提供",
+              "url": "https://news.livedoor.com/article/detail/32648461/?from_page=internal"
+            },
+            {
+              "title": "高須幹弥氏、堀大輔氏の発言に動画で説明 柔術なら応じる考え",
+              "url": "https://mediadogs.jp/2026/10/26/takasu-mikiya-hori-jiujitsu-response/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "国債",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "大手生保、国債の入れ替え加速 長期金利上昇で 今年度下期",
+              "url": "https://news.yahoo.co.jp/pickup/6600265"
+            },
+            {
+              "title": "円債は償還多く残高減、保険新契約対応では超長期債購入＝住友生命・26年度下期運用計画",
+              "url": "https://www.reuters.com/jp/opinion/ARYM2WFMVFJ3VMV6MLDKWRJDSA-2026-10-26/"
+            },
+            {
+              "title": "生保各社 長期金利上昇で国債入れ替え方針 | NHKニュース | 金利、金融、日本銀行（日銀）",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261025de65326"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "秋季関東地区高等学校野球大会",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "みんなの高校野球：空白の4日間 横浜が県内連勝43ストップで練習中断し得たもの",
+              "url": "https://mainichi.jp/articles/20261026/k00/00m/050/352000c"
+            },
+            {
+              "title": "球界ここだけの話　最初で最後の甲子園へ　帝京三がかなえた65年目の悲願「名前を甲子園に残すぞ」",
+              "url": "https://topics.smt.docomo.ne.jp/article/sanspo/sports/sanspo-_sports_baseball_high_PD4TAVGQIZMOVPKC7MSFDWMLKI"
+            },
+            {
+              "title": "春の甲子園へ大きく前進！センバツ“当確ランプ”をともした名門6校",
+              "url": "https://www.baseballchannel.jp/npb/298134/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "読書",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "小学生 漫画「読まない」3割弱",
+              "url": "https://news.yahoo.co.jp/pickup/6600268"
+            },
+            {
+              "title": "読書で学力アップは時間より「好き」が大事? 親のサポート法は",
+              "url": "https://mainichi.jp/articles/20261021/k00/00m/040/075000c"
+            },
+            {
+              "title": "「読書好き」小中学生69% 時間は短め、娯楽多様化",
+              "url": "https://www.nikkei.com/article/DGXZQOUD220O70S6A021C2000000/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "オリーセ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "バイエルン名誉会長、生え抜きの18歳MFに辛辣「スーパースターとは程遠い。オリーセとは天と地の差」…恋人とのSNS活動を問題視？（GOAL）",
+              "url": "https://news.yahoo.co.jp/articles/3647de2eeba6bf8c9a34253907c2e8cfe0870063"
+            },
+            {
+              "title": "バイエルン所属の逸材にプレミア勢が関心　将来性豊かなアタッカーは出場機会の多さを求める？",
+              "url": "https://topics.smt.docomo.ne.jp/article/theworldmagazine/sports/theworldmagazine-511327"
+            },
+            {
+              "title": "ウリ・ヘーネスが「スーパースターには程遠い」と発言。アーセナル、リヴァプール、マンチェスター・ユナイテッドがバイエルンの10代の逸材レナート・カールの動向を注視",
+              "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E3%82%A6%E3%83%AA-%E3%83%98%E3%83%BC%E3%83%8D%E3%82%B9%E3%81%8B%E3%82%99-%E3%82%B9%E3%83%BC%E3%83%8F%E3%82%9A%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AB%E3%81%AF%E7%A8%8B%E9%81%A0%E3%81%84-%E3%81%A8%E7%99%BA%E8%A8%80-%E3%82%A2%E3%83%BC%E3%82%BB%E3%83%8A%E3%83%AB-%E3%83%AA%E3%82%A6%E3%82%99%E3%82%A1%E3%83%95%E3%82%9A%E3%83%BC%E3%83%AB-%E3%83%9E%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC-%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%88%E3%82%99%E3%81%8B%E3%82%99%E3%83%8F%E3%82%99%E3%82%A4%E3%82%A8%E3%83%AB%E3%83%B3%E3%81%AE10%E4%BB%A3%E3%81%AE%E9%80%B8%E6%9D%90%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%88-%E3%82%AB%E3%83%BC%E3%83%AB%E3%81%AE%E5%8B%95%E5%90%91%E3%82%92%E6%B3%A8%E8%A6%96/blt7e23ae6d3f2282ff"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "風",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "【台風情報】非常に強い勢力「台風31号（インファ）」最大瞬間風速70m/s・中心気圧950hPaまで発達予想…今後の進路、日本への影響は?11月6日にかけての雨と風のシミュレーション【気象庁27日6時45分発表】（RSK山陽放送）",
+              "url": "https://news.yahoo.co.jp/articles/a622cf2ff7d831d89e9bc8267a219d92d035086d"
+            },
+            {
+              "title": "【台風情報】31号は最大瞬間風速70m予想「非常に強い」勢力で11月1日ごろ小笠原近海へ【雨風シミュレーション11月6日まで・アンサンブル予報】気象庁の進路予想",
+              "url": "https://newsdig.tbs.co.jp/articles/gallery/3039646"
+            },
+            {
+              "title": "台風31号 11月1日には小笠原近海まで北上 非常に強い勢力で(気象予報士 中川 裕美子 2026年10月27日)",
+              "url": "https://tenki.jp/forecaster/y_nakagawa/2026/10/27/41105.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ボートレース",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "【動画】【オープニングセレモニー】SG第73回ボートレースダービー - スポーツナビ「株式会社日本レジャーチャンネル」",
+              "url": "https://sports.yahoo.co.jp/video/player/28437018"
+            },
+            {
+              "title": "【尼崎ボート　SGボートレースダービー】馬場貴也　バイオの調整はつかめた",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20261027-0006"
+            },
+            {
+              "title": "【ボートレース】岩瀬裕亮が好素性機の39号機ゲット「外周りとペラの調整を」／尼崎SG",
+              "url": "https://www.nikkansports.com/public_race/photonews/photonews_nsInc_202610260001296-0.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "ヤクセル・レンデボーグ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "相手ベンチからの野次を発奮材料にエドワーズが45得点！ヤニスも脱帽「俺たちは意気消沈した」＜DUNKSHOOT＞",
+              "url": "https://news.yahoo.co.jp/articles/7e95e1b4e509ef50a98cf2d56336f25d13ccd09b"
+            },
+            {
+              "title": "「完全にリスペクトを失った」…ウォリアーズ新人レンデボーグ、“泣き言”ばかりのドンチッチを痛烈批判",
+              "url": "https://basketballking.jp/news/world/20261024/639207.html/2"
+            },
+            {
+              "title": "ヤニス・アデトクンボが2戦合計71得点も…ヒートが開幕2連敗、計42点差の完敗で早くも警鐘",
+              "url": "https://basketball.fanpiece.com/jp/%E3%83%A4%E3%83%8B%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%87%E3%83%88%E3%82%AF%E3%83%B3%E3%83%9C%E3%81%8C2%E6%88%A6%E5%90%88%E8%A8%8871%E5%BE%97%E7%82%B9%E3%82%82%E2%80%A6%E3%83%92%E3%83%BC%E3%83%88%E3%81%8C%E9%96%8B%E5%B9%952%E9%80%A3%E6%95%97-%E8%A8%8842%E7%82%B9%E5%B7%AE%E3%81%AE%E5%AE%8C%E6%95%97%E3%81%A7%E6%97%A9%E3%81%8F%E3%82%82%E8%AD%A6%E9%90%98-c1512269.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-10-27T04:04:01.026667+00:00"
+}
