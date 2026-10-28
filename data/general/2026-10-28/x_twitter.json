@@ -1,0 +1,877 @@
+{
+  "platform": "x_twitter",
+  "mode": "general",
+  "countries": {
+    "korea": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "교통정리",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "아르바이터",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "넷플릭스 10주년 하드털",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "갑옷시사",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "카와 시사",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "하이닉스",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#니케4주년결전",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "사타판빙",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "포옹 필요행",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "청룡영화상",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "설탕도넛",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "용병 교환",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "프로이트",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "감기조심",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "대신증권",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "다이노스",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "영업이익",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "유니유니 오하",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "데뷔 1주년",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "연뮤 용교",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "용교 용병",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "도시괴담",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "미래에셋",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "주주환원",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "경량패딩",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "종이접기",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "네타냐후",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "선관위 특검",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "사이드카",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "외국인 노동자",
+          "volume": ""
+        }
+      ]
+    },
+    "united-states": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#DWTS",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "Tatyana",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "#VisionQuest",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#WorldSeries",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Jayson Tatum",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "Shirley",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Nets",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Ashby",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Connor",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Mikel Brown",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Pistons",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "Brunson",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "David Hamilton",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "Blazers",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "#WWENXT",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Paul Reed",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "Amber",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Jenna",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Josh Hart",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Maura",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Rylee",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Ezra",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "#TheDropFX",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Duncan Robinson",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Mitchell Robinson",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "Scoot Henderson",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Chandler Simpson",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Deni",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Cadê",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "Varly",
+          "volume": ""
+        }
+      ]
+    },
+    "canada": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "Fowler",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "#DWTS",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "Toronto",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "#GoHabsGo",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "Brazil",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "PSPP",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "Tatyana",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "Lula",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "Eurovision",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "Indian Act",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Harry Kane",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "carey",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "Mikel Brown",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "STOP REFUSING CONSCRIPTS",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "Fleetwood",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Shirley",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "#WWENXT",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Florian Xhekaj",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "Texier",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Tatum",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "Halloween",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Netanyahu",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "First Nations",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "Rylee",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "Bibi",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "#Canucks",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "Calder",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Olivia Chow",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "David Hamilton",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "#VisionQuest",
+          "volume": ""
+        }
+      ]
+    },
+    "japan": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#出身地当てます",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "答えの組み合わせ",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "純度100",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "シーサーだらけくじ",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#NIKKE4周年決戦",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#びっくりドンキートリックオアガリバー",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "木枯らし1号",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#特報コトダマンエヴァコラボ開催",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "スーパーアルバイター",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "#三角チョコパイ白の新作早く食べたい",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "こんなのレア",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "交通整理",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "さたぱんびん",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "思い出のポケカ",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "京浜東北線",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "スイッスイッ",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "神奈川県民",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "東京都民",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "ハガレン",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "大阪府民",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "アルコスハウ",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "パンダの日",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "タイヤ交換",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "埼玉県民",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "カイエンペッパー",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "群馬県民",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "アウトランダーズ",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "最優秀杢代賞",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "アシュビー",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "ハッシュ",
+          "volume": ""
+        },
+        {
+          "rank": 31,
+          "topic": "兵庫県民",
+          "volume": ""
+        },
+        {
+          "rank": 32,
+          "topic": "愛知県民",
+          "volume": ""
+        },
+        {
+          "rank": 33,
+          "topic": "アーモンド",
+          "volume": ""
+        },
+        {
+          "rank": 34,
+          "topic": "夏タイヤ",
+          "volume": ""
+        },
+        {
+          "rank": 35,
+          "topic": "北海道民",
+          "volume": ""
+        },
+        {
+          "rank": 36,
+          "topic": "変身忍者嵐",
+          "volume": ""
+        },
+        {
+          "rank": 37,
+          "topic": "アロライ",
+          "volume": ""
+        },
+        {
+          "rank": 38,
+          "topic": "イカクイズ",
+          "volume": ""
+        },
+        {
+          "rank": 39,
+          "topic": "週の真ん中",
+          "volume": ""
+        },
+        {
+          "rank": 40,
+          "topic": "運転見合わせ",
+          "volume": ""
+        },
+        {
+          "rank": 41,
+          "topic": "デビュー4周年",
+          "volume": ""
+        },
+        {
+          "rank": 42,
+          "topic": "福岡県民",
+          "volume": ""
+        },
+        {
+          "rank": 43,
+          "topic": "タイガーフォーム",
+          "volume": ""
+        },
+        {
+          "rank": 44,
+          "topic": "磁気テープ",
+          "volume": ""
+        },
+        {
+          "rank": 45,
+          "topic": "北辰テスト",
+          "volume": ""
+        },
+        {
+          "rank": 46,
+          "topic": "京都府民",
+          "volume": ""
+        },
+        {
+          "rank": 47,
+          "topic": "風キャン",
+          "volume": ""
+        },
+        {
+          "rank": 48,
+          "topic": "千葉県民",
+          "volume": ""
+        },
+        {
+          "rank": 49,
+          "topic": "雲ひとつ",
+          "volume": ""
+        },
+        {
+          "rank": 50,
+          "topic": "アーセナル",
+          "volume": ""
+        }
+      ]
+    },
+    "global": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "topic": "#出身地当てます",
+          "volume": ""
+        },
+        {
+          "rank": 2,
+          "topic": "答えの組み合わせ",
+          "volume": ""
+        },
+        {
+          "rank": 3,
+          "topic": "純度100",
+          "volume": ""
+        },
+        {
+          "rank": 4,
+          "topic": "シーサーだらけくじ",
+          "volume": ""
+        },
+        {
+          "rank": 5,
+          "topic": "#DeportTheBolsonaros",
+          "volume": ""
+        },
+        {
+          "rank": 6,
+          "topic": "#DWTS",
+          "volume": ""
+        },
+        {
+          "rank": 7,
+          "topic": "#NIKKE4周年決戦",
+          "volume": ""
+        },
+        {
+          "rank": 8,
+          "topic": "#CorridaDasBlogueiras8",
+          "volume": ""
+        },
+        {
+          "rank": 9,
+          "topic": "スーパーアルバイター",
+          "volume": ""
+        },
+        {
+          "rank": 10,
+          "topic": "木枯らし1号",
+          "volume": ""
+        },
+        {
+          "rank": 11,
+          "topic": "Tatyana",
+          "volume": ""
+        },
+        {
+          "rank": 12,
+          "topic": "こんなのレア",
+          "volume": ""
+        },
+        {
+          "rank": 13,
+          "topic": "さたぱんびん",
+          "volume": ""
+        },
+        {
+          "rank": 14,
+          "topic": "シーサーくじ",
+          "volume": ""
+        },
+        {
+          "rank": 15,
+          "topic": "交通整理",
+          "volume": ""
+        },
+        {
+          "rank": 16,
+          "topic": "Hoseok",
+          "volume": ""
+        },
+        {
+          "rank": 17,
+          "topic": "ヨルシカ",
+          "volume": ""
+        },
+        {
+          "rank": 18,
+          "topic": "Public Reviews",
+          "volume": ""
+        },
+        {
+          "rank": 19,
+          "topic": "思い出のポケカ",
+          "volume": ""
+        },
+        {
+          "rank": 20,
+          "topic": "Selamat Hari Sumpah Pemuda",
+          "volume": ""
+        },
+        {
+          "rank": 21,
+          "topic": "スイッスイッ",
+          "volume": ""
+        },
+        {
+          "rank": 22,
+          "topic": "Jayson Tatum",
+          "volume": ""
+        },
+        {
+          "rank": 23,
+          "topic": "AARON MERCURY X ALLS FAIR",
+          "volume": ""
+        },
+        {
+          "rank": 24,
+          "topic": "ハガレン",
+          "volume": ""
+        },
+        {
+          "rank": 25,
+          "topic": "HOY NO SE VE LA GRANJA",
+          "volume": ""
+        },
+        {
+          "rank": 26,
+          "topic": "東京都民",
+          "volume": ""
+        },
+        {
+          "rank": 27,
+          "topic": "神奈川県民",
+          "volume": ""
+        },
+        {
+          "rank": 28,
+          "topic": "Nets",
+          "volume": ""
+        },
+        {
+          "rank": 29,
+          "topic": "Mikel Brown",
+          "volume": ""
+        },
+        {
+          "rank": 30,
+          "topic": "TLE SAFE ZONE 1M",
+          "volume": ""
+        }
+      ]
+    }
+  },
+  "collected_at": "2026-10-28T04:35:10.655343+00:00"
+}

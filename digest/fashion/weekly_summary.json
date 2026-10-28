@@ -1,36 +1,31 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-10-21",
-    "to": "2026-10-27"
+    "from": "2026-10-22",
+    "to": "2026-10-28"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#shorts",
-      "growth": "+12%",
-      "total_mentions": 84
-    },
-    {
       "keyword": "경량패딩",
-      "growth": "+44%",
-      "total_mentions": 84
-    },
-    {
-      "keyword": "#fashion",
-      "growth": "+50%",
-      "total_mentions": 60
+      "growth": "+27%",
+      "total_mentions": 89
     },
     {
       "keyword": "outfit",
-      "growth": "+43%",
-      "total_mentions": 57
+      "growth": "+50%",
+      "total_mentions": 59
     },
     {
       "keyword": "가죽자켓",
-      "growth": "+12%",
-      "total_mentions": 56
+      "growth": "+25%",
+      "total_mentions": 58
+    },
+    {
+      "keyword": "후리스",
+      "growth": "+80%",
+      "total_mentions": 53
     }
   ],
   "most_cross_platform": [
@@ -69,21 +64,21 @@
     }
   ],
   "naver_shopping_hot": [
+    "트위드자켓",
     "스웨이드자켓",
     "후드집업",
-    "트위드자켓",
     "경량패딩",
-    "여성가디건"
+    "가죽자켓"
   ],
   "top_keywords_overall": [
     "fashion",
     "#ootd",
     "ootd",
-    "#shorts",
     "경량패딩",
+    "트위드자켓",
     "스웨이드자켓",
     "후드집업",
-    "트위드자켓",
+    "#shorts",
     "lookbook",
     "여성가디건"
   ]
