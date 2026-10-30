@@ -1,0 +1,939 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [
+        {
+          "rank": 5,
+          "keyword": "겨울옷",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "옷 잘 입는 사람들은 ‘이 패딩’을 선택합니다",
+              "url": "https://www.vogue.co.kr/2026/10/28/%EC%98%B7-%EC%9E%98-%EC%9E%85%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4-%ED%8C%A8%EB%94%A9%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%A9%EB%8B%88%EB%8B%A4/"
+            },
+            {
+              "title": "매출 320% 급증…입소문 탄 '등골 프로텍터'",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822203"
+            },
+            {
+              "title": "할인 안 해도 나오자마자 '불티'…요즘 잘 팔리는 겨울옷",
+              "url": "https://www.hankyung.com/article/2026102943341"
+            }
+          ]
+        }
+      ],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "k2 흑표",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "K2 전차 30대 고장이라더니…폴란드 “현재 멈춘 건 몇 대, 정비도 포함” [밀리터리+]",
+              "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261029601016"
+            },
+            {
+              "title": "독일 전차 걷어낸 폴란드 공장, 한국 K2 기지로 탈바꿈… 2028년 첫 출격",
+              "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610300942554836fbbec65dfb_1"
+            },
+            {
+              "title": "전차 위 ‘그물 같은 천’의 진화... 현대로템 K2, 열 흔적까지 줄인다",
+              "url": "https://www.insight.co.kr/news/579580"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "콜오브듀티 이태원",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[단독] '콜오브듀티' 측 \"머리 숙여 위로와 사과‥'이태원 참사' 장면 삭제\"",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36918.html"
+            },
+            {
+              "title": "\"경악스럽다\" 참사 영상 쓴 게임사…삭제 요구에도 ‘거부’",
+              "url": "https://news.jtbc.co.kr/article/NB12325491"
+            },
+            {
+              "title": "'콜 오브 듀티' 이태원 참사 영상 사용 논란...\"수정해야\"",
+              "url": "https://www.ytn.co.kr/_ln/0106_202610290328421426"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "사이드카",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "미국발 AI 쇼크에 코스피 급락…5,700선 후퇴",
+              "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030102127OQe"
+            },
+            {
+              "title": "코스피, 5600선도 위태…삼전닉스 5~7%대 급락",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04031126645618168"
+            },
+            {
+              "title": "\"삼전닉스 또 왜 이래\"…구글 쇼크에 코스피 급락, 매도 사이드카 - 머니투데이",
+              "url": "https://www.mt.co.kr/stock/2026/10/30/2026103010085715254"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "갈마동 화재",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "속보 대전 갈마동 타이어판매점 큰불...대응 1단계 발령",
+              "url": "https://www.ytn.co.kr/_ln/0115_202610301055496239"
+            },
+            {
+              "title": "대전 갈마동 타이어 업체 화재…헬기 동원해 진화",
+              "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030105155OmJ"
+            },
+            {
+              "title": "대전 갈마동 타이어 판매점서 불…소방 대응 1단계 진화 중",
+              "url": "https://www.yna.co.kr/view/AKR20261030069700063"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "겨울옷",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "옷 잘 입는 사람들은 ‘이 패딩’을 선택합니다",
+              "url": "https://www.vogue.co.kr/2026/10/28/%EC%98%B7-%EC%9E%98-%EC%9E%85%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4-%ED%8C%A8%EB%94%A9%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%A9%EB%8B%88%EB%8B%A4/"
+            },
+            {
+              "title": "매출 320% 급증…입소문 탄 '등골 프로텍터'",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822203"
+            },
+            {
+              "title": "할인 안 해도 나오자마자 '불티'…요즘 잘 팔리는 겨울옷",
+              "url": "https://www.hankyung.com/article/2026102943341"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "k패스",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "기후동행카드 종료, 기후동행패스 전환 방법은?",
+              "url": "https://kbthink.com/life/card/climate-pass.html"
+            },
+            {
+              "title": "모두의카드 가입 700만 명…환급은 정률·정액 중 유리한 쪽 적용",
+              "url": "https://www.famtimes.co.kr/news/articleView.html?idxno=703724"
+            },
+            {
+              "title": "아산시, ‘충남형 모두의 카드’ 집중 홍보…시민 교통비 부담 줄인다",
+              "url": "http://www.canews.kr/news/articleView.html?idxno=9685"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "강균성",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "'혼전순결' 강균성, 오늘 14세 연하 유하진과 '속전속결' 결혼",
+              "url": "https://www.newsis.com/view/NISX20261030_0003847490"
+            },
+            {
+              "title": "강균성, 14세 연하 배우 유하진과 오늘(30일) 결혼…9년 전 인연이 부부로",
+              "url": "https://www.segye.com/newsView/20261030502627"
+            },
+            {
+              "title": "강균성, 14세 연하 배우 유하진과 결혼식…\"평생 함께 걸어갈 사람\" [N디데이]",
+              "url": "https://www.news1.kr/entertain/celebrity-topic/6336512"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "한국장학재단",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "생활비가 돌려막기로…고금리·다중채무 악순환",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8697950"
+            },
+            {
+              "title": "대구시·iM뱅크, 학자금대출 상환 지원해 청년 신용회복 돕는다",
+              "url": "https://www.yna.co.kr/view/AKR20261028128200053"
+            },
+            {
+              "title": "[심양섭의 정론직격] 누가 과연 청년들을 빚투에서 구해 줄 것인가?",
+              "url": "https://www.pennmike.com/news/articleView.html?idxno=130591"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "재판",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "與, ‘조희대 국조’에 李 파기환송 사건 포함 시사… 재판 개입 논란",
+              "url": "https://www.donga.com/news/Politics/article/all/20261030/134936135/2"
+            },
+            {
+              "title": "與 “조희대 계엄동조 의혹 집중 국정조사”",
+              "url": "https://www.munhwa.com/article/11627628"
+            },
+            {
+              "title": "선출직 의원에 당돌한 관료·대법원장 국조…권력의 위험신호 [논설실 Pick]",
+              "url": "https://www.mk.co.kr/news/economy/12190042"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "광군제",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "알리, 광군제 내달 1일 개막…110원에 '모델 Y' 응모 이벤트",
+              "url": "https://www.yna.co.kr/view/AKR20261029067600030"
+            },
+            {
+              "title": "알리익스프레스, '110원 전기차•쿠폰 추첨'에 최대 80% 할인…11.11 광군제 11월 1일 개막",
+              "url": "https://www.newsis.com/view/ALSX20261029_0000008016"
+            },
+            {
+              "title": "알리익스프레스, 광군제 내달 1일 시작…최대 80% 할인·테슬라 경품",
+              "url": "https://zdnet.co.kr/view/?no=20261029171849"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "무신사",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "scarlett johansson",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "The Seductive Sci-Fi Nightmare That Turns A Simple Pickup Into A Death Trap",
+              "url": "https://www.yahoo.com/entertainment/articles/seductive-sci-fi-nightmare-turns-231741875.html"
+            },
+            {
+              "title": "Scarlett Johansson’s Most Unsettling Sci-Fi Movie Is Officially Getting Cut From Netflix",
+              "url": "https://www.polygon.com/scarlett-johansson-under-the-skin-sci-fi-movie-leaving-netflix-november-2026/"
+            },
+            {
+              "title": "Scarlett Johansson's 108-Minute Sci-Fi Thriller Is the Perfect Watch Before It's Cut From Netflix",
+              "url": "https://collider.com/scarlett-johansson-under-the-skin-cut-from-netflix/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "prop 40",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "What to know about California’s other tax-the-rich measure: Prop. 3",
+              "url": "https://calmatters.org/politics/elections/2026/10/prop-3-california/"
+            },
+            {
+              "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+              "url": "https://www.bbc.com/news/articles/ck4g1jg4n9dno"
+            },
+            {
+              "title": "California's Prop 40: What to know about the billionaire wealth tax",
+              "url": "https://finance.yahoo.com/personal-finance/taxes/article/californias-prop-40-what-to-know-about-the-billionaire-wealth-tax-202611704.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "kris jenner",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Kris Jenner, 70, Reveals She Was Offered Adult Diapers Endorsement Deal: ‘How Many Millions?’",
+              "url": "https://firstforwomen.com/kris-jenner-70-reveals-she-was-offered-adult-diapers-endorsement-deal-how-many-millions/"
+            },
+            {
+              "title": "Kris Jenner adult diaper deal: Kim Kardashian shut down the surprising endorsement offer",
+              "url": "https://www.hola.com/us/celebrities/20261029932071/kris-jenner-adult-diaper-deal-kim-kardashian/"
+            },
+            {
+              "title": "‘Such a Buzzkill’: Kris Jenner Says She Turned Down Millions for an Adult Diaper Campaign Because Kim Kardashian ‘Said No’",
+              "url": "https://www.aol.com/articles/buzzkill-kris-jenner-says-she-123555000.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "pasaporte",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Ofrecían pasaportes de EEUU en pocos días: empresas enfrentan una demanda millonaria por fraude",
+              "url": "https://www.periodicocubano.com/ofrecian-pasaportes-de-eeuu-en-pocos-dias-ahora-estas-empresas-enfrentan-una-demanda-millonaria-por-fraude/"
+            },
+            {
+              "title": "Demandan a dos empresas por presuntos engaños en trámites de pasaportes en Estados Unidos",
+              "url": "https://www.cibercuba.com/noticias/2026-10-29-u1-e199370-s27061-nid344162-demandan-dos-empresas-presuntos-enganos-tramites"
+            },
+            {
+              "title": "Flávio Bolsonaro denuncia el \"robo\" de las elecciones sin aportar pruebas y agradece a Milei y Trump por su salida de Brasil hacia EE.UU.",
+              "url": "https://www.bbc.com/mundo/articles/cq0lde6plwgpo"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "alycia parks",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "How to watch the women’s Toray Pan Pacific Open Tennis: Streaming options for the Quarterfinal",
+              "url": "https://www.nytimes.com/athletic/7730002/2026/10/27/womens-toray-pan-pacific-open-tennis-stream-how-to-watch-october-30-2/"
+            },
+            {
+              "title": "WTA Tokyo Quarterfinal Predictions Including Elena Rybakina vs Leylah Fernandez",
+              "url": "https://lastwordonsports.com/tennis/2026/10/29/wta-tokyo-quarterfinal-predictions-rybakina-fernandez/"
+            },
+            {
+              "title": "Elena Rybakina vs. Leylah Fernandez prediction, odds, picks for WTA Toray Pan Pacific Open 2026",
+              "url": "https://www.dimers.com/tennis/news/elena-rybakina-vs-leylah-fernandez-tennis-prediction-wta-toray-pan-pacific-open-2026-ac"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "ja morant injury",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Ja Morant Leaves Blazers-Grizzlies Game with Hamstring Injury",
+              "url": "https://www.blazersedge.com/trail-blazers-news/117690/ja-morant-leaves-blazers-grizzlies-game-with-hamstring-injury"
+            },
+            {
+              "title": "Ja Morant Injured in Revenge Game vs. Grizzlies, Box Score Stats, Highlights for Dame, Top Players",
+              "url": "https://bleacherreport.com/articles/25527076-ja-morant-injured-revenge-game-vs-grizzlies-box-score-stats-highlights-dame-top-players"
+            },
+            {
+              "title": "Trail Blazers' Ja Morant ruled out of game vs. Grizzlies with hamstring injury",
+              "url": "https://sports.yahoo.com/nba/article/trail-blazers-ja-morant-ruled-out-of-game-vs-grizzlies-with-hamstring-injury-042019042.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "joshua groban",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Meet the candidates for California Supreme Court Justice",
+              "url": "https://www.kpbs.org/news/politics/2026/10/27/2026-general-california-supreme-court-justices"
+            },
+            {
+              "title": "Election Day is Californians’ last chance to vote on up to 1,000 judges",
+              "url": "https://thevoicesf.org/election-day-is-californians-last-chance-to-vote-on-up-to-1000-judges/"
+            },
+            {
+              "title": "JUDGES: Yes on Groban & Evans, NO on Do, Dato, Raphael & Motoike!",
+              "url": "https://www.orangejuiceblog.com/2026/10/judges-yes-on-groban-evans-no-on-do-dato-raphael-motoike/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "yang hansen",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Trail Blazers Exercise Team Option On Contracts Of Donovan Clingan, Yang Hansen | Portland Trail Blazers",
+              "url": "https://blazers.com/news/trail-blazers-exercise-team-option-on-contracts-of-donovan-clingan-yang-hansen"
+            },
+            {
+              "title": "Portland Trail Blazers Announce Yang Hansen Move Before Grizzlies Game",
+              "url": "https://sports.yahoo.com/articles/portland-trail-blazers-announce-yang-031458372.html"
+            },
+            {
+              "title": "Blazers Assign Yang Hansen to Rip City Remix",
+              "url": "https://www.blazersedge.com/trail-blazers-news/117632/portland-trail-blazers-assign-yang-hansen-to-rip-city-remix"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "flood warning",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "Flood Watch expires after periods of heavy rain, rockfalls, and road closures in East Maui and ʻĪao",
+              "url": "https://mauinow.com/2026/10/29/flood-watch-expires-after-periods-of-heavy-rain-rockfalls-and-road-closures-in-east-maui-and-%CA%BBiao/"
+            },
+            {
+              "title": "Flash flood warnings issued for Hawaii island, east Maui",
+              "url": "https://www.staradvertiser.com/2026/10/29/breaking-news/flood-advisories-posted-for-parts-of-maui-as-rain-soaks-valley-isle/"
+            },
+            {
+              "title": "Flash flooding possible for Maui County, Oʻahu: Wednesday Forecast",
+              "url": "https://www.khon2.com/weather-blog/flash-flooding-threat-maui-oahu/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "karim lópez",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Karim López sufre lesión y no debuta con los Memphis Grizzlies - esto",
+              "url": "https://oem.com.mx/esto/basquetbol/karim-lopez-sufre-lesion-y-no-debuta-con-los-memphis-grizzlies-32799861"
+            },
+            {
+              "title": "¿Qué lesión tiene Karim López? El mexicano de los Grizzlies sigue sin debutar en la NBA",
+              "url": "https://www.clarosports.com/us/que-lesion-tiene-karim-lopez-el-mexicano-de-los-grizzlies-sigue-sin-debutar-en-la-nba/"
+            },
+            {
+              "title": "Jaquez Jr aporta con los Bucks, Karim espera el debut",
+              "url": "https://vivabasquet.com/116750-jaquez-jr-aporta-con-los-bucks-karim-espera-el-debut/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 12
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "遭難",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【山岳遭難】国立公園大山に地質調査のため5人グループで入山 1人が転倒し額と腕を強打し自力下山を断念、救助要請 登山届未提出 | BSSニュース | BSS山陰放送 (2ページ)",
+              "url": "https://newsdig.tbs.co.jp/articles/bss/3046876?page=2"
+            },
+            {
+              "title": "大山下山男性転倒、救助 命に別条なし",
+              "url": "https://www.nnn.co.jp/articles/-/821414"
+            },
+            {
+              "title": "【山岳遭難】国立公園大山に地質調査のため5人グループで入山 1人が転倒し額と腕を強打し自力下山を断念、救助要請 登山届未提出（BSS山陰放送）",
+              "url": "https://news.yahoo.co.jp/articles/a17cbf7439e4472430c8568b76f39216a593d22f"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "巨人 コーチ 陣 一覧",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "【巨人】松井秀喜新監督が始動 高橋由伸ヘッドも同席で選手たちへ6分13秒訓示（日テレNEWS NNN）",
+              "url": "https://news.yahoo.co.jp/articles/a8fae36d4dbffff91fbd6aaf6e2c56c03994c9b9"
+            },
+            {
+              "title": "巨人・松井秀喜新監督「ワクワクしています」チーム再建へ本格始動 球場入りにファンからは大歓声",
+              "url": "https://newsdig.tbs.co.jp/articles/-/3049744"
+            },
+            {
+              "title": "2026秋季キャンプメンバーについて",
+              "url": "https://www.giants.jp/news/31625/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "テイラースウィフト",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "テイラー・スウィフト、結婚式の装飾や備品48億円相当すべてを焼却処分「痕跡が残らないよう」",
+              "url": "https://www.nikkansports.com/entertainment/news/202610280000261.html"
+            },
+            {
+              "title": "テイラー・スウィフト、結婚式のセットはすべて焼却 「オークションサイトに出品されるのを阻止するため」と関係者（ELLEgirl）",
+              "url": "https://news.yahoo.co.jp/articles/89b979d54ba3a188b4ffd3f917f2f68767f229f3"
+            },
+            {
+              "title": "テイラー・スウィフトとその夫は、激しい批判の嵐に直面している。",
+              "url": "https://www.vietnam.vn/ja/vo-chong-taylor-swift-hung-bao-chi-trich"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "ジャングリア沖縄",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ジャングリア主導の森岡毅氏「事業しっかり進める」 株主総会継続会に出席（琉球新報）",
+              "url": "https://news.yahoo.co.jp/articles/cfcbd89829628a0b2b7f646e163d8bdadc74a0b7"
+            },
+            {
+              "title": "ジャングリア運営会社の株主総会終了　「刀」森岡代表、経営改善策問う取材には応えず",
+              "url": "https://topics.smt.docomo.ne.jp/article/okinawa/region/okinawa-20261030123900"
+            },
+            {
+              "title": "ジャングリア、株主総会の継続会 親会社、那覇市で３０日に",
+              "url": "https://www.iwate-np.co.jp/article/kyodo/2026/10/21/1652351"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "五十嵐亮太",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 6,
+          "keyword": "槙原寛己",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「最後の最後で目立ててよかった」見事な走塁であっと驚かせたソフトバンク・イヒネ イツア 悔しさ吐露も…来季の飛躍誓う",
+              "url": "https://news.ntv.co.jp/category/sports/4f1f342e6d0e46e2b1b5d92ec61f922d"
+            },
+            {
+              "title": "【ソフトバンク】日本シリーズで好走塁イヒネ　小久保監督「レギュラーを」定位置取りに期待",
+              "url": "https://www.nikkansports.com/m/baseball/news/202610290001825_m.html?mode=all"
+            },
+            {
+              "title": "【日本シリーズ】「あとアウトひとつ」が遠すぎる... DeNAを絶望に追い込んだソフトバンクの恐るべき強さ ３連敗から奇跡は起こせるか",
+              "url": "https://sportiva.shueisha.co.jp/clm/baseball/npb/2026/10/28/_dena_4/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "甲斐野央",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "4歳の息子が「パパもこの曲にして！」西武・甲斐野央を支えた“魔曲誕生”の舞台裏「なにわ男子」メンバーと偶然空港で…「勇気100％」クローザーの横顔（市川忍）",
+              "url": "https://number.bunshun.jp/articles/-/872486?page=4"
+            },
+            {
+              "title": "【激突ッ】甲斐野央 Vs.山川穂高『160㌔出た！一歩も譲らぬ意地と意地のぶつかり合い！』 Alek Manoah (0LJySUmsKc)",
+              "url": "https://media.unisba.ac.id/d29c33d4/25763badN-EtLfKNtpE"
+            },
+            {
+              "title": "「嘘でしょ？」山川穂高の人的補償で西武へ…甲斐野央が振り返る“運命の分岐点”「あの強いホークス相手に投げるのか…」から始まった守護神への道（Number Web）",
+              "url": "https://news.yahoo.co.jp/articles/68b6ae504328c783bd228fc2fe4f59bffa57c749?page=2"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "黒柳徹子",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "『徹子の部屋』出演の38歳女優が「絶世の美女」 視聴者くぎ付け「いつまでも若い」「世界一可愛い」（ENCOUNT）",
+              "url": "https://news.yahoo.co.jp/articles/bfb2acd1e56d0f697feef7dae713c45c7669ccf6"
+            },
+            {
+              "title": "佐々木希、夫のスキャンダルも「つらい体験は人生の糧に」…フォトエッセイで赤裸々に",
+              "url": "https://www.yomiuri.co.jp/culture/20261021-GYT1T00295/"
+            },
+            {
+              "title": "【実際の投稿】「劣化知らず」佐々木希、黒柳徹子とツーショット",
+              "url": "https://www.chunichi.co.jp/article/1332032"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "坂本怜",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "坂本怜 難敵に完勝で8強、元世界31位に53分でストレート勝ち＜男子テニス＞（tennis365.net）",
+              "url": "https://news.yahoo.co.jp/articles/815a15caf332c2edb6bdcc1d1201d96e5e78f62d"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "gap",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Pregnant Savannah Chrisley Marries Jason Galanis in Secret Church Wedding in the Cayman Islands (Exclusive)",
+              "url": "https://people.com/savannah-chrisley-and-jason-galanis-are-married-exclusive-12201371"
+            },
+            {
+              "title": "Savannah Chrisley and Fiancé Snapped Up $2 Million Nashville Family Home—Months Before Revealing Baby News",
+              "url": "https://www.realtor.com/news/reality-tv/savannah-chrisley-fiance-jason-buy-nashville-family-home-baby-news/"
+            },
+            {
+              "title": "Pregnant Savannah Chrisley’s Mystery Fiance Identified as Jason Galanis",
+              "url": "https://www.usmagazine.com/celebrity-news/news/pregnant-savannah-chrisleys-mystery-fiance-jason-revealed/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 10
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-10-30T04:45:52.475914+00:00"
+}
