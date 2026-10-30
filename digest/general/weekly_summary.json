@@ -8,6 +8,11 @@
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "#shorts",
+      "growth": "+6%",
+      "total_mentions": 128
+    },
+    {
       "keyword": "#viral",
       "growth": "+36%",
       "total_mentions": 86
@@ -26,14 +31,18 @@
       "keyword": "패딩조끼",
       "growth": "+83%",
       "total_mentions": 60
-    },
-    {
-      "keyword": "#tiktok",
-      "growth": "+125%",
-      "total_mentions": 48
     }
   ],
-  "most_cross_platform": [],
+  "most_cross_platform": [
+    {
+      "keyword": "trick or treat",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    }
+  ],
   "naver_shopping_hot": [
     "스웨이드자켓",
     "후드집업",
@@ -43,8 +52,8 @@
   ],
   "top_keywords_overall": [
     "#shorts",
-    "trend",
     "#viral",
+    "trend",
     "스웨이드자켓",
     "후드집업",
     "경량패딩",

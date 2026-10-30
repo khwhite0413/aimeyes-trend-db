@@ -8,6 +8,11 @@
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "lookbook",
+      "growth": "+9%",
+      "total_mentions": 76
+    },
+    {
       "keyword": "후리스",
       "growth": "+57%",
       "total_mentions": 63
@@ -25,18 +30,26 @@
   ],
   "most_cross_platform": [
     {
-      "keyword": "겨울옷",
+      "keyword": "지그재그",
       "platforms": [
-        "google_trends",
+        "x_twitter",
         "youtube"
       ],
       "count": 2
     },
     {
-      "keyword": "지그재그",
+      "keyword": "원피스",
       "platforms": [
-        "x_twitter",
+        "naver",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "trick or treat",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     },
@@ -50,14 +63,6 @@
     },
     {
       "keyword": "후드티",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "블라우스",
       "platforms": [
         "naver",
         "youtube"
@@ -81,7 +86,7 @@
     "후드집업",
     "트위드자켓",
     "lookbook",
-    "여성가디건",
-    "#데일리룩코디"
+    "#데일리룩코디",
+    "데일리룩코디"
   ]
 }
