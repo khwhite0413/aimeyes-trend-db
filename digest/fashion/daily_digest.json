@@ -2,21 +2,21 @@
   "date": "2026-10-31",
   "mode": "fashion",
   "compared_to": "2026-10-30",
-  "total_keywords_today": 530,
+  "total_keywords_today": 556,
   "total_keywords_yesterday": 507,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "fashion",
-      "change": "+13%",
-      "today_count": 17,
+      "change": "+20%",
+      "today_count": 18,
       "yesterday_count": 15,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 17건, 어제 15건 기준"
+      "sample_note": "오늘 18건, 어제 15건 기준"
     },
     {
       "keyword": "패딩조끼",
@@ -74,15 +74,26 @@
       "sample_note": "오늘 9건, 어제 7건 기준"
     },
     {
+      "keyword": "outfit",
+      "change": "+125%",
+      "today_count": 9,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 9건, 어제 4건 기준"
+    },
+    {
       "keyword": "#fashion",
-      "change": "+17%",
-      "today_count": 7,
+      "change": "+33%",
+      "today_count": 8,
       "yesterday_count": 6,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
+      "sample_note": "오늘 8건, 어제 6건 기준"
     },
     {
       "keyword": "탑텐",
@@ -107,17 +118,6 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "outfit",
-      "change": "+50%",
-      "today_count": 6,
-      "yesterday_count": 4,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 4건 기준"
-    },
-    {
       "keyword": "looks",
       "change": "+25%",
       "today_count": 5,
@@ -129,29 +129,18 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "trends",
-      "change": "+25%",
+      "keyword": "fall",
+      "change": "+150%",
       "today_count": 5,
-      "yesterday_count": 4,
+      "yesterday_count": 2,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
+      "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
-      "keyword": "fall",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#haul",
+      "keyword": "street",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -160,6 +149,17 @@
         "youtube"
       ],
       "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "dress",
+      "change": "+100%",
+      "today_count": 4,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
       "keyword": "여성경량패딩",
@@ -173,15 +173,15 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "dress",
-      "change": "+50%",
+      "keyword": "diwali",
+      "change": "+200%",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
       "keyword": "#ytshorts",
@@ -206,6 +206,17 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
+      "keyword": "ideas",
+      "change": "NEW",
+      "today_count": 3,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건 (신규)"
+    },
+    {
       "keyword": "#outfit",
       "change": "+50%",
       "today_count": 3,
@@ -215,20 +226,23 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "heels",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
     }
   ],
   "declining": [
+    {
+      "keyword": "#ootd",
+      "change": "-17%",
+      "today_count": 10,
+      "yesterday_count": 12,
+      "confidence": "high"
+    },
+    {
+      "keyword": "ootd",
+      "change": "-17%",
+      "today_count": 10,
+      "yesterday_count": 12,
+      "confidence": "high"
+    },
     {
       "keyword": "lookbook",
       "change": "-8%",
@@ -284,23 +298,11 @@
       "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
-    },
-    {
-      "keyword": "style",
-      "change": "-50%",
-      "today_count": 2,
-      "yesterday_count": 4,
-      "confidence": "low"
-    },
-    {
-      "keyword": "바람막이",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
-      "confidence": "low"
     }
   ],
-  "new_entries": [],
+  "new_entries": [
+    "ideas"
+  ],
   "cross_platform_hot": [
     {
       "keyword": "원피스",

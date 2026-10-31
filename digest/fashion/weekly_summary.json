@@ -20,15 +20,7 @@
   ],
   "most_cross_platform": [
     {
-      "keyword": "원피스",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "halloween",
+      "keyword": "지그재그",
       "platforms": [
         "x_twitter",
         "youtube"
@@ -36,10 +28,10 @@
       "count": 2
     },
     {
-      "keyword": "trick or treat",
+      "keyword": "원피스",
       "platforms": [
-        "google_trends",
-        "x_twitter"
+        "naver",
+        "youtube"
       ],
       "count": 2
     },
@@ -56,6 +48,14 @@
       "platforms": [
         "naver",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "trick or treat",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     }
