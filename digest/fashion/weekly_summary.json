@@ -8,11 +8,6 @@
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+20%",
-      "total_mentions": 113
-    },
-    {
       "keyword": "후리스",
       "growth": "+33%",
       "total_mentions": 72
@@ -21,11 +16,6 @@
       "keyword": "패딩조끼",
       "growth": "+50%",
       "total_mentions": 71
-    },
-    {
-      "keyword": "#fashion",
-      "growth": "+12%",
-      "total_mentions": 52
     },
     {
       "keyword": "amp",
@@ -43,7 +33,15 @@
       "count": 2
     },
     {
-      "keyword": "원피스",
+      "keyword": "halloween",
+      "platforms": [
+        "x_twitter",
+        "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "경량패딩",
       "platforms": [
         "naver",
         "youtube"
@@ -51,9 +49,9 @@
       "count": 2
     },
     {
-      "keyword": "halloween",
+      "keyword": "원피스",
       "platforms": [
-        "x_twitter",
+        "naver",
         "youtube"
       ],
       "count": 2
@@ -63,14 +61,6 @@
       "platforms": [
         "google_trends",
         "x_twitter"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "경량패딩",
-      "platforms": [
-        "naver",
-        "youtube"
       ],
       "count": 2
     }
@@ -92,6 +82,6 @@
     "스웨이드자켓",
     "#데일리룩코디",
     "데일리룩코디",
-    "lookbook"
+    "후리스"
   ]
 }
