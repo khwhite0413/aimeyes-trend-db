@@ -1,21 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-10-25",
-    "to": "2026-10-31"
+    "from": "2026-10-26",
+    "to": "2026-11-01"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "fashion",
+      "growth": "+20%",
+      "total_mentions": 113
+    },
+    {
       "keyword": "후리스",
-      "growth": "+50%",
-      "total_mentions": 68
+      "growth": "+33%",
+      "total_mentions": 72
     },
     {
       "keyword": "패딩조끼",
-      "growth": "+71%",
-      "total_mentions": 66
+      "growth": "+50%",
+      "total_mentions": 71
+    },
+    {
+      "keyword": "#fashion",
+      "growth": "+12%",
+      "total_mentions": 52
+    },
+    {
+      "keyword": "amp",
+      "growth": "+200%",
+      "total_mentions": 41
     }
   ],
   "most_cross_platform": [
@@ -36,17 +51,9 @@
       "count": 2
     },
     {
-      "keyword": "경량패딩",
+      "keyword": "halloween",
       "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "후드티",
-      "platforms": [
-        "naver",
+        "x_twitter",
         "youtube"
       ],
       "count": 2
@@ -58,12 +65,20 @@
         "x_twitter"
       ],
       "count": 2
+    },
+    {
+      "keyword": "경량패딩",
+      "platforms": [
+        "naver",
+        "youtube"
+      ],
+      "count": 2
     }
   ],
   "naver_shopping_hot": [
     "경량패딩",
-    "패딩조끼",
     "후리스",
+    "패딩조끼",
     "트위드자켓",
     "후드집업"
   ],
@@ -72,11 +87,11 @@
     "#ootd",
     "ootd",
     "경량패딩",
+    "트위드자켓",
     "후드집업",
     "스웨이드자켓",
-    "트위드자켓",
-    "lookbook",
     "#데일리룩코디",
-    "데일리룩코디"
+    "데일리룩코디",
+    "lookbook"
   ]
 }
