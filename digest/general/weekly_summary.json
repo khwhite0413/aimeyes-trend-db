@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-10-26",
-    "to": "2026-11-01"
+    "from": "2026-10-27",
+    "to": "2026-11-02"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#viral",
-      "growth": "+56%",
-      "total_mentions": 92
+      "growth": "+50%",
+      "total_mentions": 98
+    },
+    {
+      "keyword": "trend",
+      "growth": "+20%",
+      "total_mentions": 78
     },
     {
       "keyword": "후리스",
       "growth": "+33%",
-      "total_mentions": 72
+      "total_mentions": 75
     },
     {
       "keyword": "패딩조끼",
-      "growth": "+50%",
-      "total_mentions": 71
+      "growth": "+33%",
+      "total_mentions": 75
     },
     {
       "keyword": "#trending",
-      "growth": "+38%",
-      "total_mentions": 65
-    },
-    {
-      "keyword": "#tiktok",
-      "growth": "+50%",
-      "total_mentions": 53
+      "growth": "+22%",
+      "total_mentions": 68
     }
   ],
   "most_cross_platform": [
@@ -56,16 +56,16 @@
     "후리스",
     "패딩조끼",
     "트위드자켓",
-    "후드집업"
+    "스웨이드자켓"
   ],
   "top_keywords_overall": [
     "#shorts",
     "#viral",
     "경량패딩",
     "트위드자켓",
-    "후드집업",
     "스웨이드자켓",
     "trend",
+    "후드집업",
     "후리스",
     "패딩조끼",
     "#trending"
