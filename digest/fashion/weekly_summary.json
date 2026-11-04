@@ -1,41 +1,41 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-10-28",
-    "to": "2026-11-03"
+    "from": "2026-10-29",
+    "to": "2026-11-04"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+38%",
-      "total_mentions": 119
+      "growth": "+92%",
+      "total_mentions": 128
     },
     {
       "keyword": "후리스",
-      "growth": "+33%",
-      "total_mentions": 78
+      "growth": "+20%",
+      "total_mentions": 81
     },
     {
       "keyword": "패딩조끼",
-      "growth": "+33%",
-      "total_mentions": 78
+      "growth": "+20%",
+      "total_mentions": 81
     },
     {
       "keyword": "#fashion",
-      "growth": "+83%",
-      "total_mentions": 55
+      "growth": "+133%",
+      "total_mentions": 63
     },
     {
       "keyword": "#shorts",
-      "growth": "+60%",
-      "total_mentions": 50
+      "growth": "+57%",
+      "total_mentions": 56
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "경량패딩",
+      "keyword": "코트",
       "platforms": [
         "naver",
         "youtube"
@@ -51,7 +51,7 @@
       "count": 2
     },
     {
-      "keyword": "원피스",
+      "keyword": "경량패딩",
       "platforms": [
         "naver",
         "youtube"
@@ -59,7 +59,7 @@
       "count": 2
     },
     {
-      "keyword": "코트",
+      "keyword": "원피스",
       "platforms": [
         "naver",
         "youtube"
@@ -76,11 +76,11 @@
     }
   ],
   "naver_shopping_hot": [
-    "경량패딩",
     "후리스",
+    "경량패딩",
     "패딩조끼",
-    "트위드자켓",
-    "탑텐"
+    "탑텐",
+    "트위드자켓"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -89,9 +89,9 @@
     "패딩조끼",
     "트위드자켓",
     "스웨이드자켓",
+    "후드집업",
     "#ootd",
     "ootd",
-    "후드집업",
-    "#데일리룩코디"
+    "#fashion"
   ]
 }
