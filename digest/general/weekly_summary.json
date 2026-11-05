@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-10-29",
-    "to": "2026-11-04"
+    "from": "2026-10-30",
+    "to": "2026-11-05"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "#viral",
-      "growth": "+14%",
-      "total_mentions": 104
-    },
-    {
       "keyword": "후리스",
-      "growth": "+20%",
-      "total_mentions": 81
+      "growth": "+9%",
+      "total_mentions": 83
     },
     {
       "keyword": "패딩조끼",
-      "growth": "+20%",
-      "total_mentions": 81
-    },
-    {
-      "keyword": "trend",
       "growth": "+9%",
-      "total_mentions": 80
+      "total_mentions": 83
     },
     {
       "keyword": "탑텐",
-      "growth": "+120%",
-      "total_mentions": 56
+      "growth": "+67%",
+      "total_mentions": 61
+    },
+    {
+      "keyword": "dance",
+      "growth": "+167%",
+      "total_mentions": 40
+    },
+    {
+      "keyword": "ranking",
+      "growth": "+300%",
+      "total_mentions": 37
     }
   ],
   "most_cross_platform": [
@@ -60,11 +60,11 @@
     }
   ],
   "naver_shopping_hot": [
-    "후리스",
     "경량패딩",
+    "후리스",
     "패딩조끼",
-    "탑텐",
-    "트위드자켓"
+    "트위드자켓",
+    "탑텐"
   ],
   "top_keywords_overall": [
     "#shorts",
@@ -75,7 +75,7 @@
     "trend",
     "트위드자켓",
     "스웨이드자켓",
-    "후드집업",
-    "#trending"
+    "#trending",
+    "후드집업"
   ]
 }
