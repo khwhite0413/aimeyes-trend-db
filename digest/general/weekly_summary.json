@@ -1,36 +1,36 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-10-30",
-    "to": "2026-11-05"
+    "from": "2026-10-31",
+    "to": "2026-11-06"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "후리스",
-      "growth": "+9%",
-      "total_mentions": 83
-    },
-    {
-      "keyword": "패딩조끼",
-      "growth": "+9%",
-      "total_mentions": 83
-    },
-    {
       "keyword": "trend",
-      "growth": "+9%",
-      "total_mentions": 81
-    },
-    {
-      "keyword": "#trending",
-      "growth": "+12%",
-      "total_mentions": 65
+      "growth": "+33%",
+      "total_mentions": 86
     },
     {
       "keyword": "탑텐",
-      "growth": "+67%",
-      "total_mentions": 61
+      "growth": "+43%",
+      "total_mentions": 65
+    },
+    {
+      "keyword": "halloween",
+      "growth": "+300%",
+      "total_mentions": 43
+    },
+    {
+      "keyword": "dance",
+      "growth": "+133%",
+      "total_mentions": 43
+    },
+    {
+      "keyword": "ranking",
+      "growth": "+133%",
+      "total_mentions": 42
     }
   ],
   "most_cross_platform": [
@@ -39,22 +39,6 @@
       "platforms": [
         "x_twitter",
         "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "중간선거",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "trick or treat",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
       ],
       "count": 2
     }
@@ -69,13 +53,13 @@
   "top_keywords_overall": [
     "#shorts",
     "#viral",
+    "trend",
     "경량패딩",
     "후리스",
     "패딩조끼",
-    "trend",
     "트위드자켓",
-    "스웨이드자켓",
     "#trending",
-    "후드집업"
+    "탑텐",
+    "스웨이드자켓"
   ]
 }

@@ -1,36 +1,31 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-10-30",
-    "to": "2026-11-05"
+    "from": "2026-10-31",
+    "to": "2026-11-06"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+60%",
-      "total_mentions": 136
-    },
-    {
-      "keyword": "후리스",
-      "growth": "+9%",
-      "total_mentions": 83
-    },
-    {
-      "keyword": "패딩조끼",
-      "growth": "+9%",
-      "total_mentions": 83
+      "growth": "+56%",
+      "total_mentions": 149
     },
     {
       "keyword": "#fashion",
-      "growth": "+117%",
-      "total_mentions": 68
+      "growth": "+88%",
+      "total_mentions": 77
     },
     {
       "keyword": "탑텐",
-      "growth": "+67%",
-      "total_mentions": 61
+      "growth": "+43%",
+      "total_mentions": 65
+    },
+    {
+      "keyword": "style",
+      "growth": "+400%",
+      "total_mentions": 57
     }
   ],
   "most_cross_platform": [
@@ -39,14 +34,6 @@
       "platforms": [
         "x_twitter",
         "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "중간선거",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
       ],
       "count": 2
     },
@@ -87,11 +74,11 @@
     "경량패딩",
     "후리스",
     "패딩조끼",
-    "트위드자켓",
     "#fashion",
-    "스웨이드자켓",
-    "후드집업",
+    "트위드자켓",
     "탑텐",
-    "lookbook"
+    "스웨이드자켓",
+    "#shorts",
+    "style"
   ]
 }

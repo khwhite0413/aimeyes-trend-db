@@ -1,0 +1,937 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "나나",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "나나 “제가 도덕적 물의 일으켰나”…악플러에 일침 무슨 일?",
+              "url": "https://www.donga.com/news/Culture/article/all/20261106/134976663/2"
+            },
+            {
+              "title": "\"내가 무슨 잘못했나?\"…나나, '탑과 열애' 악플에 작심 발언 - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110605173851313"
+            },
+            {
+              "title": "“공개 연애, 내 사생활… 미안할 일 아냐” 나나, ♥탑과 열애 비난에 정면 반박",
+              "url": "https://sports.khan.co.kr/article/202611060214003"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "징역형",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "모르는 여중생 뺨 때린 40대 남성...1심 벌금→2심 징역형, 왜?",
+              "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611060851275372_005.html"
+            },
+            {
+              "title": "식당서 여중생 뺨 때린 40대…2심 “벌금형 가볍다” 징역형에 집유",
+              "url": "https://www.donga.com/news/Society/article/all/20261106/134976304/2"
+            },
+            {
+              "title": "처음 본 13살 여중생 때린 40대, 항소심서 징역형 선거",
+              "url": "https://www.kyeonggi.com/article/20261106580010"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "김구라",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "김구라 아들 그리, 결혼한다 “군대 기다려준 여친과 준비 중”",
+              "url": "https://www.mk.co.kr/news/hot-issues/12200239"
+            },
+            {
+              "title": "서인영 \"주식·코인하던 지인들, 하루아침 부자 됐다 거지행\" - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110609304066291"
+            },
+            {
+              "title": "‘김구라, 며느리 보겠네’…子 그리 “여친과 결혼 준비 중”",
+              "url": "https://sports.khan.co.kr/article/202611060907003"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "lng선",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[단독]마스가 늦어져도 간다…한화, 美조선소 인력 7500명으로 확대 추진",
+              "url": "https://view.asiae.co.kr/article/2026110609134821645"
+            },
+            {
+              "title": "韓 LNG선 최대 발주처인데…美 환경 평가 강화에 업황 악화 우려↑",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443438"
+            },
+            {
+              "title": "\"美 민주당 승리에 LNG선 수주 우려\"…韓 조선주 영향은",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03116006645643096"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "warriors vs heat",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Heat vs Warriors Prediction, Top Picks & Best Bet for Tonight's NBA Game",
+              "url": "https://www.covers.com/nba/heat-vs-warriors-prediction-picks-odds-nov-5-2026"
+            },
+            {
+              "title": "GAME THREAD: Klay Thompson returns to Golden State as Heat (3-5) face Warriors (5-3)",
+              "url": "https://hothothoops.com/2026/11/05/game-thread-klay-thompson-returns-to-golden-state-as-heat-3-5-face-warriors-5-3/"
+            },
+            {
+              "title": "How to watch Heat vs Warriors: Live stream NBA Basketball, TV channel",
+              "url": "https://www.thebiglead.com/how-to-watch-heat-vs-warriors-live-stream-nba-basketball-tv-channel/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "래미안원베일리",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "[르포] 강남 은마아파트 가보니 “분담금에 세금 겹쳐 급락했지만… 매수는 현금부자만”",
+              "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611041530490450645"
+            },
+            {
+              "title": "집 안가보고 잡던 원베일리도 14.5억 ‘뚝’, 강남 아파트 시련의 계절 왔다",
+              "url": "https://www.mk.co.kr/news/economy/12200273"
+            },
+            {
+              "title": "반포 래미안원베일리 14억 '뚝'…집값 흔들린 단지들 특징은",
+              "url": "https://www.hankyung.com/article/2026110699296"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "교산",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "위례 분담금 1256억 투입 불균형 해소…하남시, 대광위에 교통망 건의",
+              "url": "http://incheonilbo.com/news/articleView.html?idxno=1336140"
+            },
+            {
+              "title": "하남교산 2029년 첫 입주…송파하남선은 2032년 이후 개통 예상",
+              "url": "https://m.ekn.kr/view.php?key=20261106023246280"
+            },
+            {
+              "title": "국토부 대광위원장 \"3기 신도시 입주 맞춰 교통시설 적기 구축 총력\"",
+              "url": "https://www.newsis.com/view/NISX20261105_0003856851"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "황우석",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "[단독] 황우석 박사, 지난 4월 아랍에미리트 국적 취득 대한민국 국적 상실",
+              "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513473"
+            },
+            {
+              "title": "대한민국 국적 상실... '황우석 박사'에 대한 뜻밖의 소식이 전해졌다",
+              "url": "https://www.wikitree.co.kr/articles/1172447"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "연천군",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "장흥 오리농장서 조류인플루엔자 확인...24시간 이동 중지",
+              "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611061104144423"
+            },
+            {
+              "title": "연천군, AI 대응 재난안전대책본부 가동…24시간 방역체계 강화",
+              "url": "https://www.kyeonggi.com/article/20261106580215"
+            },
+            {
+              "title": "[패트롤] 경기도-동두천-양주시-의정부시-포천시",
+              "url": "https://www.ekn.kr/web/view.php?key=20261106025596401"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "국제결혼",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "아뜨리앙 클라르하임, `2026 고객신뢰도 1위 프리미엄 브랜드` 침구 부문 대상",
+              "url": "https://mydaily.co.kr/page/view/2026110612415592245"
+            },
+            {
+              "title": "효기국제결혼, ‘2026 고객신뢰도 1위 프리미엄 브랜드 대상’ 수상",
+              "url": "https://www.koreadaily.com/article/20261103232548991"
+            },
+            {
+              "title": "빌딩샵AI, 포브스 선정 '2026 고객신뢰도 1위 프리미엄 브랜드' 대상 수상",
+              "url": "https://www.etnews.com/20261103000378"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 56,
+          "interest_max": 100,
+          "interest_latest": 61,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 5,
+          "interest_max": 14,
+          "interest_latest": 11,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 44,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 6,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 58,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [
+        {
+          "rank": 1,
+          "keyword": "brandin podziemski",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Brandin Podziemski is already quietly justifying his Warriors extension",
+              "url": "https://bluemanhoop.com/brandin-podziemski-is-already-quietly-justifying-his-warriors-extension"
+            },
+            {
+              "title": "NBA Notes: Warriors, Brandin Podziemski, Pistons, Ron Holland, Sixers",
+              "url": "https://www.yardbarker.com/nba/articles/nba_notes_warriors_brandin_podziemski_pistons_ron_holland_sixers/s1_17038_44496350"
+            },
+            {
+              "title": "Postgame Warriors Talk: Brandin Podziemski ‑ 11/2/26",
+              "url": "https://www.nba.com/warriors/videos/postgame-warriors-talk-brandin-podziemski-11-2-26"
+            }
+          ]
+        }
+      ],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "brandin podziemski",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Brandin Podziemski is already quietly justifying his Warriors extension",
+              "url": "https://bluemanhoop.com/brandin-podziemski-is-already-quietly-justifying-his-warriors-extension"
+            },
+            {
+              "title": "NBA Notes: Warriors, Brandin Podziemski, Pistons, Ron Holland, Sixers",
+              "url": "https://www.yardbarker.com/nba/articles/nba_notes_warriors_brandin_podziemski_pistons_ron_holland_sixers/s1_17038_44496350"
+            },
+            {
+              "title": "Postgame Warriors Talk: Brandin Podziemski ‑ 11/2/26",
+              "url": "https://www.nba.com/warriors/videos/postgame-warriors-talk-brandin-podziemski-11-2-26"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "mw4 season 1 release date",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Intel Drop: All You Need to Know about the Modern Warfare 4 Season 1 Battle Pass System, BlackCell, and New Store Bundles",
+              "url": "https://www.callofduty.com/blog/2026/11/call-of-duty-modern-warfare-4-season-1-battle-pass-blackcell-store-bundles"
+            },
+            {
+              "title": "Call of Duty: Warzone Is Adding One of Its Most Requested Features Very Soon",
+              "url": "https://www.ign.com/articles/call-of-duty-warzone-is-adding-a-weather-system-this-week"
+            },
+            {
+              "title": "CoD MW4 Rally Point Guide: How to Play, PvE Features, Rewards & Season 1 Details",
+              "url": "https://www.mmoexp.com/News/cod-mw4-rally-point-guide-how-to-play-pve-features-rewards-season-1-details.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "kiyomi mcmiller",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "McMiller erupts for career-high 42 in 95-65 win over UCF",
+              "url": "https://floridagators.com/news/2026/11/5/womens-basketball-mcmiller-erupts-for-42-in-gators-95-65-win-over-ucf"
+            },
+            {
+              "title": "Florida’s Kiyomi McMiller Leaves NCAA Fans Talking After Becoming Fifth Player in Program History to Post Back-to-Back 30-Point Games",
+              "url": "https://sports.yahoo.com/articles/florida-kiyomi-mcmiller-leaves-ncaa-040720531.html"
+            },
+            {
+              "title": "Gators’ transfer Kiyomi McMiller explodes for 42 points as Florida routs UCF",
+              "url": "https://www.orlandosentinel.com/2026/11/05/florida-gators-womens-basketball-kiyomi-mckiller-tammi-reiss-ucf-knights/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "dan koh",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Koh sails to victory in Sixth District House race",
+              "url": "https://www.bostonglobe.com/2026/11/03/metro/koh-wins-sixth-district-house-asian-american/"
+            },
+            {
+              "title": "Congressman-elect Dan Koh says his first priority is to 'get to the bottom of Donald Trump’s corruption'",
+              "url": "https://www.wbur.org/news/2026/11/04/dan-koh-elected-salem-lynn-congress-representative"
+            },
+            {
+              "title": "Dan Koh wins race to replace Congressman Seth Moulton",
+              "url": "https://www.wgbh.org/news/politics/2026-11-03/dan-koh-wins-race-to-replace-congressman-seth-moulton"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "giannis antetokounmpo",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Is Giannis Antetokounmpo Playing Tonight? (Injury Update Betting Impact for Heat vs. Warriors)",
+              "url": "https://www.si.com/betting/giannis-antetokounmpo-injury-update-betting-impact-for-heat-vs-warriors-nov-5"
+            },
+            {
+              "title": "Visiting Heat are listing Giannis Antetokounmpo as …",
+              "url": "https://sports.yahoo.com/articles/visiting-heat-listing-giannis-antetokounmpo-214454898.html"
+            },
+            {
+              "title": "Giannis Antetokounmpo final status for Miami Heat vs LA Clippers revealed",
+              "url": "https://basketnews.com/news-258840-giannis-antetokounmpo-final-status-for-miami-heat-vs-la-clippers-revealed.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "bryce james",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Bryce James stats: Lebron James' son makes first college start for Arizona",
+              "url": "https://www.usatoday.com/story/sports/ncaab/big12/2026/11/03/bryce-james-arizona-basketball-first-start-stats/92579162007/"
+            },
+            {
+              "title": "Bryce James' Full Box Score, Highlights From MCBB Debut in Arizona's Upset Loss to UCLA",
+              "url": "https://bleacherreport.com/articles/25528879-bryce-james-full-box-score-highlights-mcbb-debut-arizonas-upset-loss-ucla"
+            },
+            {
+              "title": "“We got another Make-A-Swish Kid” – Jason Whitlock accuses LeBron James of forcing Bryce onto Arizona's roster",
+              "url": "https://www.basketballnetwork.net/college/jason-whitlock-accuses-lebron-james-of-forcing-bryce-onto-arizonas-roster"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "jaguars nfl standings",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Steelers fall in AFC playoff standings after Ravens loss to Jaguars",
+              "url": "https://sports.yahoo.com/articles/steelers-fall-afc-playoff-standings-042007897.html"
+            },
+            {
+              "title": "Steelers fall in AFC playoff standings after Ravens loss to Jaguars",
+              "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-nfl-playoffs/177525/steelers-fall-in-afc-playoff-standings-after-ravens-loss-to-jaguars"
+            },
+            {
+              "title": "Jaguars the class of the AFC? Jordan Love for MVP? Exploring underrated NFL storylines",
+              "url": "https://www.nytimes.com/athletic/7753648/2026/11/05/nfl-underrated-storylines-jaguars-jordan-love-kirk-cousins/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "the lowdown",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'The Lowdown': Kyle MacLachlan Breaks Down Donald's Return",
+              "url": "https://www.tvinsider.com/1301953/the-lowdown-season-2-episode-5-kyle-maclachlan-interview-donald-washberg-jed-sallsman/"
+            },
+            {
+              "title": "Emmy nominee Kyle MacLachlan discusses returning for Season 2 of comedic noir 'The Lowdown'",
+              "url": "https://www.kvue.com/article/entertainment/in-the-spotlight/kyle-maclachlan-interview-season-2-the-lowdown-ethan-hawke-sterlin-harjo/507-4997c7f5-f955-4ec9-9b9a-0d354b52fb7b"
+            },
+            {
+              "title": "Emmy nominee Kyle MacLachlan discusses returning for Season 2 of comedic noir 'The Lowdown'",
+              "url": "https://www.newscentermaine.com/video/entertainment/in-the-spotlight/kyle-maclachlan-interview-season-2-the-lowdown-ethan-hawke-sterlin-harjo/507-fbb7ac41-e5e6-485b-b090-5d2b12df6263"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ethan hawke",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Levon Hawke to Star With Anthony Hopkins in Indie Drama ‘Twenty-Seven’ (EXCLUSIVE)",
+              "url": "https://variety.com/2026/film/news/levon-hawke-anthony-hopkins-twenty-seven-gregory-caruso-1236940057/"
+            },
+            {
+              "title": "Ethan Hawke’s Son Levon Hawke Lands First Leading Role Opposite Anthony Hopkins",
+              "url": "https://people.com/levon-hawke-lands-first-leading-film-role-opposite-anthony-hopkins-12239107"
+            },
+            {
+              "title": "Levon Hawke to Star With Anthony Hopkins in Indie Drama ‘Twenty-Seven’ (Exclusive)",
+              "url": "https://www.imdb.com/it/news/ni66097212/?ref_=nwc_art_perm"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "maya hawke",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+              "url": "https://deadline.com/2026/11/maya-hawke-magic-the-gathering-movie-1237213391/"
+            },
+            {
+              "title": "Maya Hawke Joins ‘Magic: The Gathering’ Movie Adaptation",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/maya-hawke-magic-the-gathering-1236747928/"
+            },
+            {
+              "title": "‘Magic: The Gathering’ Movie Casts Maya Hawke in Key Role",
+              "url": "https://gizmodo.com/magic-the-gathering-movie-casts-a-stranger-things-star-2000835204"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "OOTD",
+          "interest_avg": 37,
+          "interest_max": 100,
+          "interest_latest": 74,
+          "rank": 1
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 29,
+          "interest_max": 100,
+          "interest_latest": 39,
+          "rank": 2
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 26,
+          "interest_max": 70,
+          "interest_latest": 39,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 19,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 18,
+          "interest_max": 59,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 12,
+          "interest_max": 24,
+          "interest_latest": 22,
+          "rank": 6
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 3,
+          "interest_max": 33,
+          "interest_latest": 12,
+          "rank": 7
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 2,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 15,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "best laptop for work",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "tufted coquette",
+          "value": "21050"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "ugg coquette slippers on sale",
+          "value": "8800"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d5",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette fonts",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette patisserie",
+          "value": "150"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ゴールド",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "ゴールド（金）の価格が史上最高値から約30％下落…「リスク資産化」する3つの背景（海外）",
+              "url": "https://news.yahoo.co.jp/articles/079ba2293e699d5ba0a8e0055c1533f0a11150e2"
+            },
+            {
+              "title": "三段跳びで金４０８０ドル",
+              "url": "https://gold.mmc.co.jp/toshima_t/2026/11/4409.html"
+            },
+            {
+              "title": "金が急騰、2日で5%高 原油安で米利上げ継続の思惑後退",
+              "url": "https://www.nikkei.com/article/DGXZQOUB052JZ0V01C26A1000000/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "加山雄三",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "金融市場",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "株価急落、日銀12月利上げに暗雲 市場予想5割台前半に",
+              "url": "https://www.nikkei.com/article/DGXZQOFL060BJTW6A101C2000000/"
+            },
+            {
+              "title": "日銀利上げのペースとターミナルレート｜Newsモーニングサテライト（モーサテ）",
+              "url": "https://txbiz.tv-tokyo.co.jp/nms/vod/post_351710"
+            },
+            {
+              "title": "日銀の12月利上げは流動的と判断 〜「報道」と「分析」のあいだ〜（TBS CROSS DIG with Bloomberg）",
+              "url": "https://news.yahoo.co.jp/articles/c6389c904d3a429b3969d33cafef0e263a906e0c?page=2"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "消費税減税",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "消費税減税法案が衆院通過 国民民主や公明など全野党が反対",
+              "url": "https://www.nikkei.com/article/DGXZQOUA060IV0W6A101C2000000/"
+            },
+            {
+              "title": "読む政治：消費減税法案は「主戦場」参院へ 与党は「農相辞任」がトラウマ",
+              "url": "https://mainichi.jp/articles/20261106/k00/00m/010/120000c"
+            },
+            {
+              "title": "玉川徹氏「何かズレている」「国債発行額がどんと増えましたとなれば…」消費税減税法案に懐疑的（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/355dffbdce8b35d115792cef633a84ea48aa7a32"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "7011",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "52 Whitestone Drive, Austins Ferry, Tas 7011",
+              "url": "https://www.realestate.com.au/property-house-tas-austins+ferry-152868040"
+            },
+            {
+              "title": "66 Whitestone Drive, Austins Ferry, Tas 7011",
+              "url": "https://www.realestate.com.au/property-house-tas-austins+ferry-152842172"
+            },
+            {
+              "title": "4 Keynsham Road, Claremont, Tas 7011",
+              "url": "https://www.realestate.com.au/property-house-tas-claremont-445410112"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "ケンタッキー 福袋 2027",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "【KFC】「ケンタ福袋」が今年も発売決定！ 3,900円で5,280円相当の引換券入り。めっちゃお得（GAME Watch）",
+              "url": "https://news.yahoo.co.jp/articles/d2a97d35ea4de06f2e52759a8fe9a109a3834aa5"
+            },
+            {
+              "title": "ケンタッキー福袋2027、あの「バーレル」が陶器に 11月13日抽選開始、3900円の中身は",
+              "url": "https://www.fukuishimbun.co.jp/articles/-/2740478"
+            },
+            {
+              "title": "オリコンニュース：［福袋2027］ケンタッキー、5280円相当の引換券が付いて3900円 “バーレル型”の耐熱容器も",
+              "url": "https://mainichi.jp/articles/20261106/orc/00m/200/049000c"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "アヴァンシア",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "ホンダ、新型「アヴァンシア」近日発売を予告 次世代ハイブリッドシステム「Honda Hybrid」搭載",
+              "url": "https://car.watch.impress.co.jp/docs/news/2154299.html"
+            },
+            {
+              "title": "ホンダ「新型エリシオン」まもなく登場!? 最上級の「高級ミニバン」復活説は本当なの？ 実際は高級3列シートSUVか",
+              "url": "https://topics.smt.docomo.ne.jp/article/kurumanews/trend/kurumanews-1131934?page=2"
+            },
+            {
+              "title": "ホンダの新型モデル『アヴァンシア』予告映像を初公開！ 今月全貌公開される次世代ハイブリッド第1弾 5月発表SUVコンセプトの市販版？",
+              "url": "https://www.autocar.jp/post/1292823"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "神田愛花",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "和久田麻由子、日テレ新報道番組のメインキャスターに等身大の自分で挑む…母親としての目線も",
+              "url": "https://www.yomiuri.co.jp/culture/tv/20261031-GYT1T00204/"
+            },
+            {
+              "title": "NHK出身アナの明暗》神田愛花、有働由美子の「ぶっちゃけ爆発力」はプラスに…和久田麻由子、武田真一の「変わらない安定性」はマイナスか（女性自身",
+              "url": "https://news.yahoo.co.jp/articles/bfdff3ad0a4c8a9105c36121e1c0e0367ccc84d9"
+            },
+            {
+              "title": "和久田麻由子とたどる、記者たちの取材の軌跡。土曜日の夜、注目のニュースや話題の真相に迫る「追跡ドキュメンタリー型」ニュース番組です。",
+              "url": "https://tver.jp/live/simul/le8avub840"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ハイヒールモモコ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "大阪のショーパブママ、ベティさん死去 店舗が公式発表・メッセージ 『月曜から夜ふかし』が最後の地上波出演に",
+              "url": "https://www.oricon.co.jp/news/2490813/full/"
+            },
+            {
+              "title": "「ニューハーフ」の語源…ベティさん死去 家族ぐるみで親交あったハイヒール・モモコが追悼「突然すぎてショック」（ENCOUNT）",
+              "url": "https://news.yahoo.co.jp/articles/9b2d8b2994b8b84a3bf33636716e0f5af022de24"
+            },
+            {
+              "title": "「ニューハーフ文化」先駆けの存在「Bettyのマヨネーズ」ママ死去　同店SNSで発表",
+              "url": "https://topics.smt.docomo.ne.jp/article/nikkangeinou/entertainment/f-et-tp0-261105-202611050000420"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "ランス・ストロール",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Why Aston Martin's Mexico City GP ended after five laps",
+              "url": "https://www.formula1.com/en/latest/article/why-aston-martins-mexico-city-grand-prix-ended-after-five-laps.2j9GYm3FSjAOGu23hmaMTA"
+            },
+            {
+              "title": "Why a new Honda F1 engine problem was brutally exposed",
+              "url": "https://www.the-race.com/formula-1/honda-f1-engine-problem-aston-martin-mexico-brazil/"
+            },
+            {
+              "title": "Aston Martin knew before Mexico GP it would not finish, Honda brings new countermeasures",
+              "url": "https://www.motorsport.com/f1/news/aston-martin-knew-before-mexico-gp-it-would-not-finish-honda-brings-new-countermeasures/10871784/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 44,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 41,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 24,
+          "interest_max": 92,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 21,
+          "interest_max": 71,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 12,
+          "interest_max": 46,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 8,
+          "interest_max": 34,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 4,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 23,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-11-06T05:31:26.740061+00:00"
+}
