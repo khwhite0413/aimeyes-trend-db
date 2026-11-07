@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-10-31",
-    "to": "2026-11-06"
+    "from": "2026-11-01",
+    "to": "2026-11-07"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+61%",
-      "total_mentions": 150
+      "growth": "+73%",
+      "total_mentions": 158
     },
     {
       "keyword": "#fashion",
-      "growth": "+100%",
-      "total_mentions": 78
+      "growth": "+129%",
+      "total_mentions": 86
     },
     {
       "keyword": "탑텐",
-      "growth": "+43%",
+      "growth": "+12%",
+      "total_mentions": 67
+    },
+    {
+      "keyword": "style",
+      "growth": "+333%",
       "total_mentions": 65
     },
     {
       "keyword": "#shorts",
       "growth": "+11%",
-      "total_mentions": 60
-    },
-    {
-      "keyword": "style",
-      "growth": "+333%",
-      "total_mentions": 55
+      "total_mentions": 61
     }
   ],
   "most_cross_platform": [
@@ -44,14 +44,6 @@
     },
     {
       "keyword": "경량패딩",
-      "platforms": [
-        "naver",
-        "youtube"
-      ],
-      "count": 2
-    },
-    {
-      "keyword": "원피스",
       "platforms": [
         "naver",
         "youtube"
@@ -76,14 +68,14 @@
   ],
   "top_keywords_overall": [
     "fashion",
+    "#fashion",
     "경량패딩",
     "후리스",
     "패딩조끼",
-    "#fashion",
     "트위드자켓",
     "탑텐",
-    "스웨이드자켓",
+    "style",
     "#shorts",
-    "후드집업"
+    "스웨이드자켓"
   ]
 }
