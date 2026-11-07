@@ -2,32 +2,43 @@
   "date": "2026-11-07",
   "mode": "general",
   "compared_to": "2026-11-06",
-  "total_keywords_today": 500,
+  "total_keywords_today": 486,
   "total_keywords_yesterday": 485,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
       "keyword": "#shorts",
-      "change": "+5%",
-      "today_count": 22,
+      "change": "+10%",
+      "today_count": 23,
       "yesterday_count": 21,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 22건, 어제 21건 기준"
+      "sample_note": "오늘 23건, 어제 21건 기준"
+    },
+    {
+      "keyword": "trend",
+      "change": "+12%",
+      "today_count": 19,
+      "yesterday_count": 17,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 19건, 어제 17건 기준"
     },
     {
       "keyword": "#viral",
-      "change": "+11%",
-      "today_count": 20,
+      "change": "+6%",
+      "today_count": 19,
       "yesterday_count": 18,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 20건, 어제 18건 기준"
+      "sample_note": "오늘 19건, 어제 18건 기준"
     },
     {
       "keyword": "#couple",
@@ -162,7 +173,18 @@
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "#youtubeshorts",
+      "keyword": "fashion",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "유행하는",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -173,18 +195,7 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "youtubeshorts",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#fyp",
+      "keyword": "diwali",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -207,17 +218,6 @@
     },
     {
       "keyword": "lifehacks",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#diy",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -293,7 +293,7 @@
       "confidence": "low"
     },
     {
-      "keyword": "fashion",
+      "keyword": "october",
       "change": "-33%",
       "today_count": 2,
       "yesterday_count": 3,
