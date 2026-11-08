@@ -1,54 +1,45 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-11-01",
-    "to": "2026-11-07"
+    "from": "2026-11-02",
+    "to": "2026-11-08"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#shorts",
-      "growth": "+35%",
-      "total_mentions": 119
+      "growth": "+38%",
+      "total_mentions": 124
     },
     {
       "keyword": "#viral",
-      "growth": "+36%",
-      "total_mentions": 111
+      "growth": "+7%",
+      "total_mentions": 113
     },
     {
       "keyword": "trend",
-      "growth": "+111%",
-      "total_mentions": 94
-    },
-    {
-      "keyword": "탑텐",
-      "growth": "+12%",
-      "total_mentions": 67
+      "growth": "+60%",
+      "total_mentions": 101
     },
     {
       "keyword": "dance",
-      "growth": "+12%",
-      "total_mentions": 51
-    }
-  ],
-  "most_cross_platform": [
+      "growth": "+120%",
+      "total_mentions": 54
+    },
     {
-      "keyword": "halloween",
-      "platforms": [
-        "x_twitter",
-        "youtube"
-      ],
-      "count": 2
+      "keyword": "몽클레어패딩",
+      "growth": "+150%",
+      "total_mentions": 49
     }
   ],
+  "most_cross_platform": [],
   "naver_shopping_hot": [
     "경량패딩",
     "후리스",
     "패딩조끼",
-    "트위드자켓",
-    "탑텐"
+    "몽클레어패딩",
+    "트위드자켓"
   ],
   "top_keywords_overall": [
     "#shorts",
@@ -60,6 +51,6 @@
     "트위드자켓",
     "탑텐",
     "#trending",
-    "스웨이드자켓"
+    "dance"
   ]
 }
