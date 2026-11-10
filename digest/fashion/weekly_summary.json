@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-11-03",
-    "to": "2026-11-09"
+    "from": "2026-11-04",
+    "to": "2026-11-10"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+18%",
-      "total_mentions": 174
-    },
-    {
       "keyword": "#fashion",
-      "growth": "+36%",
-      "total_mentions": 100
-    },
-    {
-      "keyword": "style",
-      "growth": "+57%",
-      "total_mentions": 82
+      "growth": "+8%",
+      "total_mentions": 102
     },
     {
       "keyword": "#shorts",
-      "growth": "+25%",
-      "total_mentions": 72
+      "growth": "+22%",
+      "total_mentions": 75
     },
     {
-      "keyword": "outfit",
-      "growth": "+17%",
+      "keyword": "몽클레어패딩",
+      "growth": "+83%",
+      "total_mentions": 61
+    },
+    {
+      "keyword": "lookbook",
+      "growth": "+12%",
       "total_mentions": 58
+    },
+    {
+      "keyword": "amp",
+      "growth": "+75%",
+      "total_mentions": 51
     }
   ],
   "most_cross_platform": [
@@ -43,7 +43,7 @@
       "count": 2
     },
     {
-      "keyword": "경량패딩",
+      "keyword": "원피스",
       "platforms": [
         "naver",
         "youtube"
@@ -52,11 +52,11 @@
     }
   ],
   "naver_shopping_hot": [
-    "후리스",
     "경량패딩",
+    "후리스",
     "패딩조끼",
     "몽클레어패딩",
-    "트위드자켓"
+    "탑텐"
   ],
   "top_keywords_overall": [
     "fashion",
@@ -66,8 +66,8 @@
     "패딩조끼",
     "style",
     "#shorts",
-    "트위드자켓",
     "탑텐",
-    "outfit"
+    "트위드자켓",
+    "몽클레어패딩"
   ]
 }
