@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-11-05",
-    "to": "2026-11-11"
+    "from": "2026-11-06",
+    "to": "2026-11-12"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+12%",
-      "total_mentions": 180
-    },
-    {
-      "keyword": "#fashion",
-      "growth": "+31%",
-      "total_mentions": 107
-    },
-    {
       "keyword": "#shorts",
-      "growth": "+10%",
-      "total_mentions": 76
+      "growth": "+20%",
+      "total_mentions": 78
     },
     {
       "keyword": "몽클레어패딩",
-      "growth": "+71%",
-      "total_mentions": 67
+      "growth": "+50%",
+      "total_mentions": 72
     },
     {
       "keyword": "lookbook",
-      "growth": "+10%",
-      "total_mentions": 61
+      "growth": "+57%",
+      "total_mentions": 62
+    },
+    {
+      "keyword": "#데일리룩코디",
+      "growth": "+57%",
+      "total_mentions": 58
+    },
+    {
+      "keyword": "데일리룩코디",
+      "growth": "+57%",
+      "total_mentions": 58
     }
   ],
   "most_cross_platform": [
@@ -45,8 +45,8 @@
   ],
   "naver_shopping_hot": [
     "경량패딩",
-    "후리스",
     "패딩조끼",
+    "후리스",
     "몽클레어패딩",
     "써스데이아일랜드"
   ],
@@ -54,12 +54,12 @@
     "fashion",
     "#fashion",
     "경량패딩",
-    "후리스",
     "패딩조끼",
-    "style",
+    "후리스",
     "#shorts",
+    "style",
     "몽클레어패딩",
     "lookbook",
-    "트위드자켓"
+    "amp"
   ]
 }
