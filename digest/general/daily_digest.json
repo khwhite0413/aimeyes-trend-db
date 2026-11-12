@@ -2,11 +2,22 @@
   "date": "2026-11-12",
   "mode": "general",
   "compared_to": "2026-11-11",
-  "total_keywords_today": 462,
+  "total_keywords_today": 472,
   "total_keywords_yesterday": 468,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
+    {
+      "keyword": "#viral",
+      "change": "+8%",
+      "today_count": 14,
+      "yesterday_count": 13,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 14건, 어제 13건 기준"
+    },
     {
       "keyword": "diwali",
       "change": "+33%",
@@ -17,6 +28,17 @@
         "youtube"
       ],
       "sample_note": "오늘 12건, 어제 9건 기준"
+    },
+    {
+      "keyword": "#trending",
+      "change": "+12%",
+      "today_count": 9,
+      "yesterday_count": 8,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
       "keyword": "막스마라패딩",
@@ -52,29 +74,7 @@
       "sample_note": "오늘 6건, 어제 5건 기준"
     },
     {
-      "keyword": "#explore",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#lifehacks",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "lifehacks",
+      "keyword": "challenge",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -107,15 +107,37 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "#charanspy",
-      "change": "+200%",
+      "keyword": "los",
+      "change": "+50%",
       "today_count": 3,
-      "yesterday_count": 1,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "de",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#explore",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
       "keyword": "happy",
@@ -129,40 +151,40 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "charanspy",
-      "change": "+200%",
+      "keyword": "cookies",
+      "change": "NEW",
       "today_count": 3,
+      "yesterday_count": 0,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건 (신규)"
+    },
+    {
+      "keyword": "트렌드",
+      "change": "+100%",
+      "today_count": 2,
       "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "iconic",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "keyword": "2주차",
+      "change": "+100%",
+      "today_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "english",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "mashup",
+      "keyword": "ki",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -195,29 +217,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "lastlo",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "november",
-      "change": "+100%",
-      "today_count": 2,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건, 어제 1건 기준"
-    },
-    {
-      "keyword": "5m",
+      "keyword": "#charanspy",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -230,34 +230,6 @@
   ],
   "declining": [
     {
-      "keyword": "#shorts",
-      "change": "-13%",
-      "today_count": 20,
-      "yesterday_count": 23,
-      "confidence": "high"
-    },
-    {
-      "keyword": "trend",
-      "change": "-6%",
-      "today_count": 15,
-      "yesterday_count": 16,
-      "confidence": "high"
-    },
-    {
-      "keyword": "#viral",
-      "change": "-8%",
-      "today_count": 12,
-      "yesterday_count": 13,
-      "confidence": "high"
-    },
-    {
-      "keyword": "#trending",
-      "change": "-12%",
-      "today_count": 7,
-      "yesterday_count": 8,
-      "confidence": "medium"
-    },
-    {
       "keyword": "dance",
       "change": "-14%",
       "today_count": 6,
@@ -266,10 +238,10 @@
     },
     {
       "keyword": "diy",
-      "change": "-29%",
-      "today_count": 5,
+      "change": "-57%",
+      "today_count": 3,
       "yesterday_count": 7,
-      "confidence": "medium"
+      "confidence": "low"
     },
     {
       "keyword": "트위드자켓",
@@ -286,20 +258,50 @@
       "confidence": "medium"
     },
     {
-      "keyword": "#tiktok",
+      "keyword": "#trend",
       "change": "-20%",
       "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
     {
-      "keyword": "#trend",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
+      "keyword": "#usa",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "ranking",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "usa",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "songs",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "hacks",
+      "change": "-50%",
+      "today_count": 2,
+      "yesterday_count": 4,
       "confidence": "low"
     }
   ],
-  "new_entries": [],
+  "new_entries": [
+    "cookies"
+  ],
   "cross_platform_hot": []
 }
