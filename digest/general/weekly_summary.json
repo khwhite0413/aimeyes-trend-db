@@ -14,13 +14,13 @@
     },
     {
       "keyword": "dance",
-      "growth": "+38%",
-      "total_mentions": 59
+      "growth": "+62%",
+      "total_mentions": 61
     },
     {
       "keyword": "diwali",
-      "growth": "+150%",
-      "total_mentions": 57
+      "growth": "+125%",
+      "total_mentions": 56
     },
     {
       "keyword": "#trending",
@@ -33,7 +33,16 @@
       "total_mentions": 54
     }
   ],
-  "most_cross_platform": [],
+  "most_cross_platform": [
+    {
+      "keyword": "월즈 결승",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    }
+  ],
   "naver_shopping_hot": [
     "경량패딩",
     "후리스",
