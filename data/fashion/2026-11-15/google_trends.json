@@ -1,0 +1,962 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "차예련",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "'학폭 의혹' 차예련, 20년 지기 \"지금의 차예련 응원\"..SNS 공구 없앴다 [Oh!쎈 이슈]",
+              "url": "https://www.koreadaily.com/article/20261113145034652"
+            },
+            {
+              "title": "차예련 20년 친분 미용실 원장 \"단편적 사건들로 사람 인생에 돌 던지지 마라\"",
+              "url": "https://www.news1.kr/society/general-society/6354031"
+            },
+            {
+              "title": "'고막 손상 학폭·캐디 반말' 의혹 휩싸인 차예련…20년 지기 지인의 눈물 섞인 옹호",
+              "url": "https://www.fnnews.com/news/202611132058155589"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "f-35b",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Japan-based US fighter jets deployed to Korea during joint drills",
+              "url": "https://www.koreaherald.com/article/10935377"
+            },
+            {
+              "title": "Keen Sword 27: Mobility Exercise",
+              "url": "https://www.marines.mil/News/Article/Article/4645431/keen-sword-27-mobility-exercise/"
+            },
+            {
+              "title": "Rain or shine",
+              "url": "https://www.af.mil/News/Photos/igphoto/2004026630/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "케이조선",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "yousri belgaroui",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "How Alex Pereira's striking and Glover Teixeira's wrestling are helping Yousri Belgaroui",
+              "url": "https://www.sherdog.com/news/news/How-Alex-Pereiras-striking-and-Glover-Teixeiras-wrestling-are-helping-Yousri-Belgaroui-203596"
+            },
+            {
+              "title": "\"Bite My…\" – UFC 334 Presser Gets Wild as Caio Borralho Responds to Opponent's \"Kill\" Threats",
+              "url": "https://twaslnews1.twaslnews.com/7672857/"
+            },
+            {
+              "title": "UFC 334 live blog: Caio Borralho vs. Yousri Belgaroui",
+              "url": "https://www.mmafighting.com/ufc/521231/ufc-334-live-blog-caio-borralho-vs-yousri-belgaroui"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "카르다노",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "카르다노 가격이 10% 하락",
+              "url": "https://kr.investing.com/news/cryptocurrency-news/article-2176091"
+            },
+            {
+              "title": "카르다노(ADA) 0.1440달러 지지선 지킬까…시장 전반 매도에 12% 급락",
+              "url": "https://www.coinreaders.com/270351"
+            },
+            {
+              "title": "카르다노 가격 전망: 매도세 주도권 장악에 5주 연속 하락세 지속",
+              "url": "https://www.tmgm.com/ko/analysis/market-news/article/cardano-price-forecast-extends-losing-streak-to-five-weeks-as-bears-gain-control-202611090433"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "uroš medić",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "UFC 334: Confusion reigns in Uros Medic vs. Kevin Holland after Bruce Buffer reads wrong scores in bizarre draw",
+              "url": "https://sports.yahoo.com/mma/article/ufc-334-confusion-reigns-in-uros-medic-vs-kevin-holland-after-bruce-buffer-reads-wrong-scores-in-bizarre-majority-draw-041030152.html"
+            },
+            {
+              "title": "UFC 334 live blog: Uros Medic vs. Kevin Holland",
+              "url": "https://www.mmafighting.com/ufc/521230/ufc-334-live-blog-uros-medic-vs-kevin-holland"
+            },
+            {
+              "title": "Uros Medic vs. Kevin Holland prediction, pick, start time, odds for UFC 334",
+              "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/14/uros-medic-vs-kevin-holland-ufc-334-prediction-expert-pick/92771950007/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "한동희",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "'악!' 오른손 맞은 한동희, 결국 경기 빠졌다…\"뼈에는 이상 無, 송구 불편해 보호 차원 교체\" [오!쎈 도쿄]",
+              "url": "https://biz.chosun.com/sports/baseball/2026/11/14/ME4TCMJRMJSDQOBQGY4TMOLGMI/"
+            },
+            {
+              "title": "만루 기회 살려 2점차 벌리는 김휘집",
+              "url": "https://www.newsis.com/view/NISI20261114_0002292136"
+            },
+            {
+              "title": "[사진]김휘집,'오늘도 타점 올렸어' - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/11/14/202611142009776418O"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "축제",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "김치 휘낭시에·김치 붕어빵 맛본다…20일 ‘김치의 날’ 축제",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01397286645646048"
+            },
+            {
+              "title": "농식품부, 20일 aT서 '김치의 날' 행사…김장 체험·김치 할인",
+              "url": "https://www.yna.co.kr/view/AKR20261114028600030"
+            },
+            {
+              "title": "올해 '김치의 날' 기념식, 체험형으로 개최…김치 맛보고, 30% 할인까지",
+              "url": "https://www.news1.kr/economy/agri-food/6354293"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "김성한",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "잠실구장 2032년엔 꼭 만나자…백발 노장과 전설들, 빗속의 작별",
+              "url": "https://www.hani.co.kr/arti/society/society_general/1287334.html"
+            },
+            {
+              "title": "르노코리아, '잠실 더 라스트 이닝 by 르노' 성황리 마무리",
+              "url": "https://www.etnews.com/20261115000070"
+            },
+            {
+              "title": "[포토] MVP 이병규, 야신에 꾸벅 - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/11/14/2026111420392575543"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "nz vs ind",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Ball by Ball Commentary & Live Score - NZ vs IND, 5th ODI",
+              "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-odi-1539441/ball-by-ball-commentary"
+            },
+            {
+              "title": "India vs New Zealand T20I Series 2026: Results, Records and Key Performances",
+              "url": "https://www.aninews.in/news/business/india-vs-new-zealand-t20i-series-2026-results-records-and-key-performances20261113153922"
+            },
+            {
+              "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+              "url": "https://www.cricbuzz.com/player-match-performance/match/161271/player/13363/bowling"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 60,
+          "interest_max": 100,
+          "interest_latest": 69,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 5,
+          "interest_max": 16,
+          "interest_latest": 12,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 87,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 23,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 8,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 10,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 48,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ali abdelaziz",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Six from Team Nurmagomedov, eight in all get prison time over Dvalishvili brawl",
+              "url": "https://www.espn.com/mma/story/_/id/50471378/8-people-get-prison-nurmagomedov-dvalishvili-brawl"
+            },
+            {
+              "title": "UFC star and 21-year-old friend reportedly cleared to wrestle at RAF days after fending off hotel lobby ambush",
+              "url": "https://www.foxnews.com/outkick-sports/ufc-star-21-year-old-friend-reportedly-cleared-wrestle-raf-days-after-fending-off-hotel-lobby-ambush"
+            },
+            {
+              "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
+              "url": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "raul rosas jr",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Colby Covington killed his RAF aura with embarrassing loss to Raul Rosas Jr. — ‘He’s supposed to beat Khamzat?’",
+              "url": "https://www.mmamania.com/raf-wrestling-schedule-cards-live-results/484184/colby-covington-killed-his-raf-aura-embarrassing-loss-raul-rosas-jr-hes-supposed-beat-khamzat"
+            },
+            {
+              "title": "Conor McGregor vows to ‘take over’ event after last-minute Dillon Danis withdrawal",
+              "url": "https://bloodyelbow.com/2026/11/02/conor-mcgregor-vows-to-take-over-event-after-last-minute-dillon-danis-withdrawal/"
+            },
+            {
+              "title": "Henry Cejudo, Kamaru Usman roast Colby Covington for embarrassing 43-second loss: ‘He’s supposed to beat Khamzat Chimaev?‘",
+              "url": "https://sports.yahoo.com/articles/henry-cejudo-kamaru-usman-roast-190000189.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "francis ngannou",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Vadim Nemkov sees ‘really good’ chance Fedor Emelianenko beats Francis Ngannou in boxing",
+              "url": "https://www.mmafighting.com/pfl/520659/vadim-nemkov-sees-really-good-chance-fedor-emelianenko-beats-francis-ngannou-in-boxing"
+            },
+            {
+              "title": "Nemkov Sees Fedor Beating Ngannou In Boxing",
+              "url": "https://www.yardbarker.com/mma/articles/nemkov_sees_fedor_beating_ngannou_in_boxing/s1_17349_44557432"
+            },
+            {
+              "title": "Dana White Shuts Down Francis Ngannou vs. Jon Jones Talk, Blasts Former UFC Champ",
+              "url": "https://mmasucka.com/news/dana-white-shuts-down-francis-ngannou-vs-jon-jones-talk-blasts-former-ufc-champ/"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "conor mcgregor",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Conor McGregor places UFC 334 bet with €6 million payout",
+              "url": "https://bloodyelbow.com/2026/11/14/conor-mcgregor-places-ufc-334-bet-with-e6-million-payout/"
+            },
+            {
+              "title": "Six from Team Nurmagomedov, eight in all get prison time over Dvalishvili brawl",
+              "url": "https://www.espn.com/mma/story/_/id/50471378/8-people-get-prison-nurmagomedov-dvalishvili-brawl"
+            },
+            {
+              "title": "UFC star and 21-year-old friend reportedly cleared to wrestle at RAF days after fending off hotel lobby ambush",
+              "url": "https://www.foxnews.com/outkick-sports/ufc-star-21-year-old-friend-reportedly-cleared-wrestle-raf-days-after-fending-off-hotel-lobby-ambush"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "wayshawn parker",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Breckterfield Reflects on BYU, Looks Ahead to Arizona",
+              "url": "https://247sports.com/college/utah/article/utah-defensive-ends-coach-inoke-breckterfield-reflects-on-byu-looks-ahead-to-arizona-292631749/"
+            },
+            {
+              "title": "Mark Atuaia Discusses Utah's Backfield Heading Into Arizona",
+              "url": "https://www.on3.com/teams/utah-utes/news/mark-atuaia-utah-running-backs-arizona/"
+            },
+            {
+              "title": "Mark Atuaia Talks Parker, RB Room",
+              "url": "https://247sports.com/article/utahs-mark-atuaia-talks-wayshawn-parker-rb-room-292602437/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "utah tech football",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Eastern Washington looks to stop Utah Tech’s run game | Things to watch",
+              "url": "https://www.spokesman.com/stories/2026/nov/13/eastern-washington-looks-to-stop-utah-techs-run-ga/"
+            },
+            {
+              "title": "Talking Eags: After brutal loss to Idaho, EWU looks to finish difficult season on positive note",
+              "url": "https://www.swxlocalsports.com/spokane/eastern-washington/talking-eags-after-brutal-loss-to-idaho-ewu-looks-to-finish-difficult-season-on-positive/article_4ca1bd9b-0ea5-45fd-a2f5-35456883af7c.html"
+            },
+            {
+              "title": "Eastern Washington Eagles vs Oregon State Beavers Prediction, Picks, Prop Bets For November 09, 2026 - NCAAB",
+              "url": "https://www.covers.com/sport/basketball/ncaab/matchup/391466/picks"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "sj sharks",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "San Jose Sharks shake up power play units amid extended slump",
+              "url": "https://www.mercurynews.com/2026/11/13/san-jose-sharks-sam-dickinson-macklin-celebrini-2/"
+            },
+            {
+              "title": "Which Dickinson Trait Should Translate to Sharks’ Power Play? Where Can He Improve?",
+              "url": "https://sanjosehockeynow.com/san-jose-sharks-sam-dickinson-ryan-warsofsky-power-play/"
+            },
+            {
+              "title": "Sharks Practice Notes: Stenberg Officially Top Line? Dickinson Finally Gets PP1 QB Spot",
+              "url": "https://sharkshockeydigest.com/san-jose-sharks-stenberg-top-line-dickinson-power-play-warsofsky-lineup-mammoth-predators/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "target black friday 2026",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
+              "url": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026"
+            },
+            {
+              "title": "I found 41 early Black Friday deals worth shopping ahead of Thanksgiving week",
+              "url": "https://www.cnn.com/cnn-underscored/deals/best-black-friday-deals-2026-11-09"
+            },
+            {
+              "title": "Black Friday 2026: Early deals from Kate Spade, Dyson, Ring, Ugg and more, plus everything we know so far about the big sale",
+              "url": "https://shopping.yahoo.com/deals/breaking-news/article/black-friday-2026-early-deals-from-kate-spade-dyson-ring-ugg-and-more-plus-everything-we-know-so-far-about-the-big-sale-200906354.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "heisman race",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Heisman race after Week 10 - CJ Carr, new contenders emerge",
+              "url": "https://www.espn.com/college-football/story/_/id/50433120/heisman-race-week-10-cj-carr"
+            },
+            {
+              "title": "Latest Heisman Trophy 2026 Odds as Jeremiah Smith Rises, CJ Carr Falls",
+              "url": "https://bleacherreport.com/articles/25533303-latest-heisman-trophy-2026-odds-jeremiah-smith-rises-cj-carr-falls"
+            },
+            {
+              "title": "Heisman Rankings After Week 10: Julian Sayin, Malachi Toney Injuries Have Thrown Race Wide Open",
+              "url": "https://www.si.com/college-football/heisman-rankings-after-week-10-julian-sayin-malachi-toney-injuries-have-thrown-race-wide-open"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "nevada basketball",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Nevada basketball versus Utah Valley: Three keys to victory and a prediction",
+              "url": "https://nevadasportsnet.com/news/reporters/nevada-basketball-versus-utah-valley-three-keys-to-victory-and-a-prediction"
+            },
+            {
+              "title": "Utah Valley vs Nevada Prediction, Picks & Odds | 14 Nov 2026",
+              "url": "https://www.sportsgambler.com/betting-tips/basketball/utah-valley-wolverines-vs-nevada-wolf-pack-prediction-odds-2026-11-14/"
+            },
+            {
+              "title": "Utah Valley vs Nevada Prediction (Nov 14): Nevada 80% — Odds & Live Score",
+              "url": "https://www.accuscore.com/game/cmwfow2nxmgi6o001f6v8v2w1"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 47,
+          "interest_max": 100,
+          "interest_latest": 56,
+          "rank": 1
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 37,
+          "interest_max": 100,
+          "interest_latest": 49,
+          "rank": 2
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 30,
+          "interest_max": 72,
+          "interest_latest": 61,
+          "rank": 3
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 22,
+          "interest_max": 45,
+          "interest_latest": 27,
+          "rank": 4
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 17,
+          "interest_max": 73,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 16,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 4,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 3,
+          "interest_max": 35,
+          "interest_latest": 18,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "sadrican quiet luxury",
+          "value": "650"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "bottega veneta",
+          "value": "600"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "demellier bag",
+          "value": "400"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "polene bag",
+          "value": "180"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "polene",
+          "value": "140"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "the birth of venus",
+          "value": "51250"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "black panther",
+          "value": "27600"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "white peony",
+          "value": "20250"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "florence italy",
+          "value": "12750"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "golden retriever",
+          "value": "11400"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "ベガルタ",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "【環境省×Ｊリーグ】「服のらくデコ活 クラブ対抗衣類回収バトル」中間結果発表および第二回目開催のお知らせ",
+              "url": "https://www.vegalta.co.jp/news-game/2026/11/post-866.html"
+            },
+            {
+              "title": "【環境省×Ｊリーグ】「服のらくデコ活 クラブ対抗衣類回収バトル」中間結果発表",
+              "url": "https://www.mito-hollyhock.net/news/p=55993/"
+            },
+            {
+              "title": "【11月15日 J2 秋田戦】JR東日本 エキタグPRブースのお知らせ",
+              "url": "https://www.vegalta.co.jp/news-game/2026/11/post-874.html"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "ini 京セラドーム",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【11月15日】INI 5周年ツアーファイナル公演の配信視聴方法は？",
+              "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/ini-5-anniversary-tour-final-broadcast/blt391bb0488bdb6aca"
+            },
+            {
+              "title": "韓国ドラマ『君を憶えてる』はどこで見れる？全16話を見放題で観られる動画配信サービス",
+              "url": "https://www.banger.jp/news/192291/"
+            },
+            {
+              "title": "【60代・70代向け】U-NEXT無料体験の登録方法を1画面ずつ解説｜テレビで見る方法と解約まで【2026年11月最新】",
+              "url": "https://www.banger.jp/news/192477/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "今治 対 磐田",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "バリグル出店情報（11月15日 磐田戦）",
+              "url": "https://www.fcimabari.com/news/w4z7wuajo0"
+            },
+            {
+              "title": "ジュビロ磐田 攻撃の質高め勝ち点3を 15日、敵地で今治戦【J2見どころ】",
+              "url": "https://news.at-s.com/article/2097185"
+            },
+            {
+              "title": "11/15(日)今治戦 JUBI-PASS STAMP STICKER アウェイ販売のお知らせ",
+              "url": "https://www.jubilo-iwata.co.jp/news/jubilogoods261110"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "兼近大樹",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "残り4戦!今田美桜とAIゴチ!せいやの代打・兼近は自腹回避できるか?",
+              "url": "https://tver.jp/episodes/epyobl2t5c"
+            },
+            {
+              "title": "今田美桜 歴代マネジャーに送られる引き継ぎ事項 朝食は必ず…「お願いしているわけじゃないけど」（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/976950194ed1b9b420daf2e6f24d932e415b2c0e"
+            },
+            {
+              "title": "今田美桜が“AIゴチ”参戦！佐野勇斗(M!LK)がAIで映画ポスター生成 お題で作った一枚に今田もドハマり⁉",
+              "url": "https://www.ntv.co.jp/gurunai/articles/471gvelhe93ntrwuc2y.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "岡本和真",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "失踪騒動、IL入り中にカジノ、無断帰国…岡本和真ブルージェイズ、貧打線解消へ193発“問題児”の獲得浮上（中日スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/dab322acba5e9afada90bc04a661d11d3740879c"
+            },
+            {
+              "title": "ブルージェイズの野手事情はリーグ最少本塁打の長打力不足 今季は最下位も25年はリーグ優勝",
+              "url": "https://www.nikkansports.com/baseball/mlb/photonews/photonews_nsInc_202611060001555-0.html"
+            },
+            {
+              "title": "村上宗隆も岡本和真も大谷翔平もチーム本塁打王。ブルージェイズは「岡本と15本塁打以下の仲間たち」",
+              "url": "https://news.yahoo.co.jp/expert/articles/ed6cbdaeff3fd92e5978b399889016fc66913b5e"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "ケイラハリソン",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【放送/生中継】UFC 334 メインイベント 生中継 2026年11月14日",
+              "url": "https://www.jpx.co.jp/learning/tour/virtual-tour/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2Fsb2tpdG9pdC5jb20vZm94L3h5ei54bWwiLz48L2tycGFubz4=&id=video-%E6%94%BE%E9%80%81-%E7%94%9F%E4%B8%AD%E7%B6%99-ufc-334-%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-%E7%94%9F%E4%B8%AD%E7%B6%99-2026%E5%B9%B411%E6%9C%8814%E6%97%A5-3zwo3"
+            },
+            {
+              "title": "【UFC】ケイラ・ハリソンに挑戦するアマンダ・ヌネス「（元同門の）彼女は“ライオネス”とは練習したことがない。100％のアマンダとは対峙したことがないんだ」＝11.14『UFC 334』（ゴング格闘技）",
+              "url": "https://news.yahoo.co.jp/articles/f9bdb159ad600022dfa1c98dd56caf3f8176a86f"
+            },
+            {
+              "title": "【UFC 334】ガヌvsホキットの日程・放送予定",
+              "url": "https://www.sportingnews.com/jp/mma/news/2026-11-15-ufc-334-gane-vs-hokit-schedule-tv-ott/507ec07ec11f176947004812"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "スカパー",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "スカパー！で単独契約できる55チャンネルの月額料金を調査 中央値は813円、6割超が1,000円以下 ジャンル別ではスポーツが平均1,972円で最も高い",
+              "url": "https://www.value-press.com/pressrelease/384418"
+            },
+            {
+              "title": "久間田琳加、中島瑠菜の頼れる姉役に 『お姉ちゃんの翠くん』新場面カット公開（vois ヴォイス）",
+              "url": "https://news.yahoo.co.jp/articles/04c1678d5c3b4bdc77eafcadf65b078bd0a967f9"
+            },
+            {
+              "title": "橋本将生、初主演映画「お姉ちゃんの翠くん」で“愛され年上男子”を熱演 「かっこよくいることを意識しました」",
+              "url": "https://fan.books.rakuten.co.jp/articles/r558gjewr83644bdaxodz9ww"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "明石家さんま",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "いとうあさこ、紅白出場者発表巡り私見「あれがちょっと残念だった…何だろうね？」（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/caf1623529e73ac033ad9392a2b6a290707496dc"
+            },
+            {
+              "title": "明石家さんま、モーニング娘。にイジワル指令「来週まで何でもめたか聞いてこい」",
+              "url": "https://www.nikkansports.com/entertainment/news/202611140001961.html"
+            },
+            {
+              "title": "Juice=Juice「なぜ紅白出られない？」　ファンが疑うNHKの選考基準",
+              "url": "https://topics.smt.docomo.ne.jp/article/zak2/entertainment/zak2-SFHVMP7RCZAPZGZWPZRMNTMNIE?page=3"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "町田 対 神戸",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Ｊ１横浜ＦＭ・三井寺真が復帰しベンチ入り！ 先発大幅７人変更で逆転勝利狙う…鹿島戦スタメン発表（スポーツ報知）",
+              "url": "https://news.yahoo.co.jp/articles/7e634a91a5c587d4e3f14013880312ac91fa6774"
+            },
+            {
+              "title": "【11月15日】町田ゼルビアvsヴィッセル神戸の放送予定・キックオフ時間・視聴方法｜ルヴァンカップ準々決勝 第2戦",
+              "url": "https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/machida-kobe-levain-cup-quarterfinals-second-match-tv-20261115/1jublgvxsz6xu1x7dyklhvzchx"
+            },
+            {
+              "title": "【ルヴァン杯】ベスト4に進むのは？ 柏、鹿島、町田、浦和がリードを持って第2戦へ",
+              "url": "https://news.ntv.co.jp/category/sports/6b8990c2eb4f41f1b2556b7e56405722"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "コンサドーレ札幌",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "明治安田Ｊ２リーグ 10月度 月間表彰 受賞のお知らせ",
+              "url": "https://www.consadole-sapporo.jp/news/2026/11/15982/"
+            },
+            {
+              "title": "川井 健太",
+              "url": "https://www.jleague.jp/j2/monthly_awards/2026-27/10/manager/"
+            },
+            {
+              "title": "田川知樹 １０月度月間ＭＶＰ初受賞「チーム全員で受け取った感覚」勲章携え次はクラブ無失点記録更新へ",
+              "url": "https://www.doshinsports.com/article_detail/id=27336"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 39,
+          "interest_max": 100,
+          "interest_latest": 54,
+          "rank": 1
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 28,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 27,
+          "interest_max": 100,
+          "interest_latest": 31,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 18,
+          "interest_max": 67,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 15,
+          "interest_max": 58,
+          "interest_latest": 34,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 10,
+          "interest_max": 80,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 2,
+          "interest_max": 40,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 20,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 12,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 12,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 16,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "原宿 韓国 ファッション",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 系 ファッション レディース",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション 通販",
+          "value": "40"
+        },
+        {
+          "parent_keyword": "ストリート系",
+          "query": "ストリート 系 レディース",
+          "value": "40"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-11-15T05:17:33.048976+00:00"
+}
