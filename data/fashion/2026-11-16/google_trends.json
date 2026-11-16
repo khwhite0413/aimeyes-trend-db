@@ -1,0 +1,945 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "용인반도체클러스터",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[르포] 양산 검증 장벽 허문다…SK하이닉스가 용인에 품은 '상생의 팹'",
+              "url": "https://zdnet.co.kr/view/?no=20261113134910"
+            },
+            {
+              "title": "8,700억 들인 반도체 시험장…소부장 키운다",
+              "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116091456N2l"
+            },
+            {
+              "title": "하이닉스 \"내년 용인 팹 가동\"...내부 협력업체 공간도",
+              "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611161104164083"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "건강 수명",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "전남광주 농어촌과 경기 신도시, 건강수명 ‘12년 격차’",
+              "url": "https://www.hani.co.kr/arti/society/health/1287463.html"
+            },
+            {
+              "title": "\"가난하면 검진도 못 받아\"‥'건강도 불평등'",
+              "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865818_37004.html"
+            },
+            {
+              "title": "사는 곳 따라 건강수명 12년 차이…분당 72.8세, 영광 60.9세",
+              "url": "https://www.abcn.kr/news/articleView.html?idxno=94572"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "은행",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "\"차기 은행연합회장은 나\"…의지 드러낸 후보 '5파전'(종합)",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444945"
+            },
+            {
+              "title": "윤종원 전 기업은행장, 은행연합회 회장 후보 고사",
+              "url": "https://stock.mk.co.kr/news/view/1199430"
+            },
+            {
+              "title": "은행권 대변할 차기 회장은…민·관 경쟁 속 ‘관전 포인트’",
+              "url": "https://m.ekn.kr/view.php?key=20261115022529816"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "hlb테라퓨틱스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[ET특징주] HLB테라퓨틱스, 각막염 신약 미국 임상 3상 유효성 확인 실패… 주가 '하한가'",
+              "url": "https://www.etnews.com/20261116000175"
+            },
+            {
+              "title": "HLB테라퓨틱스 주가 장중 하한가, 신경영양성각막염 치료제 미국 임상3상 유의성 확보 실패",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452045"
+            },
+            {
+              "title": "HLB테라퓨틱스 'RGN-259' 3번째 임상 실패 … 개발비 834억 회수 가능할까",
+              "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/16/2026111650128.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "노동조합",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "대한항공·조종사노조, 3년치 임단협 잠정 합의",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8713795"
+            },
+            {
+              "title": "대한항공·조종사노조, 3년치 임단협 잠정합의…19일부터 투표",
+              "url": "https://stock.mk.co.kr/news/view/1199438"
+            },
+            {
+              "title": "대한항공 조종사노조 잠정합의…사측 \"시니어리티는 인사권, 특별공로금 지급\"",
+              "url": "https://www.newsis.com/view/NISX20261116_0003869376"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "노슬비",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "‘MZ 무속인’ 노슬비 “김정은 2년 안에 사망할 것”",
+              "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/HUDRRNRGPJDVTGTNUESKYXA76I/"
+            },
+            {
+              "title": "'젠슨 황 불륜설 알고 있었다는' MZ 무속인, 이번엔 ○○○ 사망설 '무리수'",
+              "url": "https://www.newsis.com/view/NISX20261115_0003868815"
+            },
+            {
+              "title": "\"김정은 2년 내 사망\"...MZ무당 노슬비, 1000만원 걸었다",
+              "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100102260009440"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "삼성전기",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "'227만원→86만원' 5개월새 62% 증발한 이 주식…삼전·닉스보다 더 깨졌다",
+              "url": "https://view.asiae.co.kr/article/2026111511094655140"
+            },
+            {
+              "title": "주가 62% 폭락 “정말 큰일이다” 했는데…280만원 간다는 ‘이 주식’, 전망 보니",
+              "url": "https://www.sedaily.com/article/20114570"
+            },
+            {
+              "title": "“240만원→80만원, 절망입니다” 하이닉스보다 더 심하다…한달 새 ‘반토막’ 국민 황제주 추락",
+              "url": "https://biz.heraldcorp.com/article/10937134"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "스카프 아저씨",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "CNN도 사흘 연속 찾아간 ’스카프 아저씨’…인터뷰는 거절",
+              "url": "https://www.yonhapnewstv.co.kr/news/AKR20261116092751SNn"
+            },
+            {
+              "title": "‘남대문 스카프 아저씨’ 보조 알바 해보니… 아이돌급 환호에 이유 있었다",
+              "url": "https://www.chosun.com/national/weekend/2026/11/14/PEZEH22ZWNA7BG5EJBAU4D7P3M/"
+            },
+            {
+              "title": "외신도 주목한 남대문 시장 화제 인물 스카프맨 ‘스카프리오’",
+              "url": "https://www.newsis.com/view/NISX20261116_0003868870"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "한화",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "한화금융, 뉴욕서 'PLUS NY 2026' 개최…월가 인재 꿈꾸는 청년 750명 모여",
+              "url": "https://www.etnews.com/20261116000033"
+            },
+            {
+              "title": "한화금융, 뉴욕서 'PLUS NY 2026' 개최…차세대 금융인재 육성",
+              "url": "https://www.newspim.com/news/view/20261116000506"
+            },
+            {
+              "title": "한화금융, 뉴욕 월가 미래 이끌 인재 키운다 By EBN",
+              "url": "https://kr.investing.com/news/stock-market-news/article-2176375"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "개헌",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "조정식 “개헌 특위서 ‘현직 대통령에 미적용’ 명시할수도”",
+              "url": "https://www.donga.com/news/Politics/article/all/20261116/135030322/1"
+            },
+            {
+              "title": "조 의장 \"헌법개정자문위원회 공동위원장에 김형오·정세균\"",
+              "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611161109050524_005.html"
+            },
+            {
+              "title": "정점식 \"이번 정부에서 개헌 없다…조정식, 개헌을 李탈옥 미끼로\"",
+              "url": "https://www.chosun.com/politics/assembly/2026/11/16/A6RT45JWCVCCLOCU77RYRP7E4Q/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 59,
+          "interest_max": 100,
+          "interest_latest": 67,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 5,
+          "interest_max": 17,
+          "interest_latest": 9,
+          "rank": 2
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 3,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 11,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "afc north standings",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "NFL playoff chance tiers: Where all 32 teams fit in 2026 postseason picture",
+              "url": "https://www.espn.com/nfl/story/_/id/50463347/2026-nfl-playoffs-chances-odds-tiers-32-teams-nfc-afc"
+            },
+            {
+              "title": "Column: Sizing up the battle ahead in the NFC North, which could send all 4 teams to the playoffs",
+              "url": "https://www.chicagotribune.com/2026/11/15/chicago-bears-nfc-north-race/"
+            },
+            {
+              "title": "Examining NFC playoff picture at end of Sunday in Week 10 of 2026 | 'NFL GameDay Final'",
+              "url": "https://www.nfl.com/videos/examining-nfc-playoff-picture-at-end-of-sunday-in-week-10-of-2026-nfl-gameday-final"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "xbox project helix console",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Microsoft says Xbox Helix is a console, not a PC — but it will be able to play your PC games: \"It is not a PC that can also play console games\"",
+              "url": "https://www.windowscentral.com/gaming/xbox/microsoft-says-xbox-helix-is-a-console-not-a-pc-but-it-will-be-able-to-play-your-pc-games-helix-is-designed-to-be-a-console-that-can-also-play-games-from-your-pc"
+            },
+            {
+              "title": "'The Ultimate Gaming Machine' - Xbox Reveals Tons Of New Project Helix Information",
+              "url": "https://www.purexbox.com/news/2026/11/the-ultimate-gaming-machine-xbox-reveals-tons-of-new-project-helix-information"
+            },
+            {
+              "title": "Xbox Reveals New Project Helix Details, Calls It 'a Console Capable of Playing Games From Your PC'",
+              "url": "https://www.ign.com/articles/xbox-confirms-project-helix-is-a-console-capable-of-playing-games-from-your-pc"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ravens vs chargers",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Chargers vs. Ravens prediction, odds, time: NFL Week 10 'Monday Night Football' picks by proven model",
+              "url": "https://www.cbssports.com/betting/news/chargers-ravens-prediction-odds-time-nfl-week-10-monday-night-football-picks/"
+            },
+            {
+              "title": "Chargers vs Ravens Player Props for Omarion Hampton, Zay Flowers, Oronde Gadsden",
+              "url": "https://sports.yahoo.com/articles/chargers-vs-ravens-player-props-030036407.html"
+            },
+            {
+              "title": "Experts release new Chargers vs. Ravens predictions for Monday Night Football Week 10",
+              "url": "https://www.oregonlive.com/betting/2026/11/experts-release-new-chargers-vs-ravens-predictions-for-monday-night-football-week-10.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "sharks game",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Predators at Sharks projected lineups",
+              "url": "https://www.nhl.com/news/nashville-predators-san-jose-sharks-game-preview-november-15-2026"
+            },
+            {
+              "title": "Predators Look to Keep Momentum Rolling in San Jose",
+              "url": "https://sports.yahoo.com/articles/predators-look-keep-momentum-rolling-005449646.html"
+            },
+            {
+              "title": "Nashville Predators vs. San Jose Sharks",
+              "url": "https://www.espn.com/watch/player/_/eventCalendarId/401892725"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "the mighty nein season 2 release",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Prime Video Reveals ‘The Mighty Nein’ Season 2 Premiere Date & Details",
+              "url": "https://www.yahoo.com/entertainment/tv/articles/prime-video-reveals-mighty-nein-223325495.html"
+            },
+            {
+              "title": "Critical Role’s The Mighty Nein Officially Returns With New Episodes In 4 Months",
+              "url": "https://www.imdb.com/news/ni66112983/?ref_=ttnw_art_perm"
+            },
+            {
+              "title": "Vox Machina Sequel The Mighty Nein Sets Season 2 Release Date for Prime Video",
+              "url": "https://www.aol.com/articles/vox-machina-sequel-mighty-nein-041344000.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "will howard",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Will Howard News: Working as emergency QB again",
+              "url": "https://www.rotowire.com/football/headlines/will-howard-injury-working-as-emergency-qb-again-648019"
+            },
+            {
+              "title": "NFL Inactive Report",
+              "url": "https://www.corsicanadailysun.com/sports/national_sports/nfl-inactive-report/article_2ab46e4c-ddac-5431-b41a-c9886b26fc81.html"
+            },
+            {
+              "title": "Steelers' Will Howard: Working as emergency QB again",
+              "url": "https://www.cbssports.com/fantasy/football/news/steelers-will-howard-working-as-emergency-qb-again/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "vgk",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Golden Knights Stock Up, Stock Down: Through 20 Games",
+              "url": "https://sinbin.vegas/golden-knights-stock-up-stock-down-through-20-games/"
+            },
+            {
+              "title": "How far can the goaltending take the Vegas Golden Knights?",
+              "url": "https://vegashockeyknight.com/how-far-can-the-goaltending-take-the-vegas-golden-knights"
+            },
+            {
+              "title": "As Golden Knights search for offense, goalies have stepped up",
+              "url": "https://www.reviewjournal.com/sports/goldenknights/as-golden-knights-search-for-offense-goalies-have-stepped-up-3910952/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "donald trump iran war",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack"
+            },
+            {
+              "title": "Third US aircraft carrier said to arrive in Mideast as Washington shores up troops",
+              "url": "https://www.timesofisrael.com/liveblog-november-16-2026/"
+            },
+            {
+              "title": "USS Theodore Roosevelt to join 2 US aircraft carriers in Middle East within next day: Report",
+              "url": "https://www.aa.com.tr/en/americas/uss-theodore-roosevelt-to-join-2-us-aircraft-carriers-in-middle-east-within-next-day-report/4125964"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "oklahoma city thunder vs sacramento kings match player stats",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Capitals vs Lightning Picks, Prop Bets For November 17, 2026 - NHL Predictions",
+              "url": "https://www.covers.com/sport/hockey/nhl/matchup/382613/picks"
+            },
+            {
+              "title": "Licensable picture: NCAA Mens Basketball 2026: Green Bay Vs St. Thomas NOV 08",
+              "url": "https://www.reutersconnect.com/item/ncaa-mens-basketball-2026-green-bay-vs-st-thomas-nov-08/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBOVjNESjk"
+            },
+            {
+              "title": "Saint Thomas Tommies play the Green Bay Phoenix in non-conference play",
+              "url": "https://abcnews.com/Sports/wireStory/saint-thomas-tommies-play-green-bay-phoenix-conference-137951252"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "governors awards 2026",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Governors Awards: Glenn Close, Ridley Scott Get Oscars (Live Updates)",
+              "url": "https://variety.com/2026/awards/news/governors-awards-glenn-close-ridley-scott-oscars-live-blog-1236948318/"
+            },
+            {
+              "title": "Governors Awards: Glenn Close, Ridley Scott, Floyd Norman Honorary Oscars",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-governors-awards-glenn-close-ridley-scott-floyd-norman-1236749503/"
+            },
+            {
+              "title": "Governors Awards 2026: Fashion—All of the Best Looks From the Red Carpet",
+              "url": "https://www.vogue.com/slideshow/2026-governors-awards-red-carpet-best-looks"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "streetwear",
+          "interest_avg": 47,
+          "interest_max": 100,
+          "interest_latest": 88,
+          "rank": 1
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 26,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 21,
+          "interest_max": 39,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 19,
+          "interest_max": 46,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 11,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 10,
+          "interest_max": 46,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 4,
+          "interest_max": 25,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 4,
+          "interest_max": 16,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 42,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "sadrican quiet luxury",
+          "value": "300"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "polene bag",
+          "value": "200"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "toteme",
+          "value": "140"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "polene",
+          "value": "100"
+        },
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "loewe",
+          "value": "90"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "moño coquette",
+          "value": "400"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette raleigh menu",
+          "value": "300"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "ugg coquette crinkle",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "ugg coquette slippers on sale",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "ugg coquette slippers",
+          "value": "50"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "amd",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Intel takes unexpected bite out of AMD's desktop CPU market share",
+              "url": "https://www.pcgamer.com/hardware/processors/intel-takes-massive-chunk-out-of-amds-desktop-cpu-market-share-in-unexpected-turnaround-may-be-due-to-the-red-teams-dominance-in-gaming-chips-weirdly/"
+            },
+            {
+              "title": "AMD Loses Desktop CPU Share for the First Time in Months, Intel Regains Ground",
+              "url": "https://www.techpowerup.com/354824/amd-loses-desktop-cpu-share-for-the-first-time-in-months-intel-regains-ground"
+            },
+            {
+              "title": "AMD Snatches More Server CPU Share As Intel Rallies In Desktop Market",
+              "url": "https://hothardware.com/news/amd-snipes-more-server-cpu-share-intel-rallies-desktop-market"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "マックス・フェルスタッペン",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "フェルスタッペンがチームメイトを苦しめる？ レッドブル元代表「彼のドライビングスタイルは異常なんだ」",
+              "url": "https://jp.motorsport.com/f1/news/christian-horner-explains-why-max-verstappens-abnormal-driving-style-destroys-his-team-mates/10874735/"
+            },
+            {
+              "title": "ロレンソ、マルケスを「二輪界のアイルトン・セナ、MotoGPのマックス・フェルスタッペン」と称賛（motorsport.com 日本版）",
+              "url": "https://news.yahoo.co.jp/articles/02a7e0d523805e69372d45684f3e32fc7f79a6d7"
+            },
+            {
+              "title": "マルク・マルケスの「偉大さ」をチチョ・ロレンソが語る",
+              "url": "https://kininarubikenews.com/archives/106541"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "抹茶 ティラミス フラペチーノ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "とろり、ほろ苦、クリーミーに重なる抹茶を贅沢に味わうホリデー体験『抹茶 ティラミス フラペチーノ®』を11月20日（金）より発売",
+              "url": "https://stories.starbucks.co.jp/press/2026/pr-2026-1116/"
+            },
+            {
+              "title": "スタバ新作フラペチーノは抹茶ティラミス マスカルポーネ重ねた一杯",
+              "url": "https://www.fukuishimbun.co.jp/articles/-/2747969"
+            },
+            {
+              "title": "「買い占めたい」「しかもお手頃」スタバの『新作350円スイーツ』何回も食べたくなる“大人な味”で、完全にハマりました！",
+              "url": "https://news.yahoo.co.jp/articles/28857abe8f3263585d46c3f07314b25b90eb70e2"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "富岳",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "日本9月设备利用指数月率 1.6%，前值-4.20%。",
+              "url": "https://news.futunn.com/flash/1004575269/japan-s-capacity-utilization-index-rose-1-6-month-on"
+            },
+            {
+              "title": "据日经新闻：日本超级计算机 “富岳” 遭遇未经授权的访问。",
+              "url": "https://news.futunn.com/flash/1004575644/according-to-nikkei-news-japan-s-supercomputer-fugaku-was-subjected"
+            },
+            {
+              "title": "日本央行审议委员高田创：随着海外央行进入加息周期，日本央行必须警惕海外利率可能将日本中性利",
+              "url": "https://news.futunn.com/flash/1004574336/bank-of-japan-policy-board-member-hajime-takada-as-overseas"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "tobe",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ISSEI 年内でTOBEとの契約終了を発表「本当に追求したいHIP HOPに挑戦してみたい」",
+              "url": "https://news.yahoo.co.jp/pickup/6602784"
+            },
+            {
+              "title": "ＩＳＳＥＩ、年内でのＴＯＢＥ退所を発表 謝罪もつづる「驚かせてしまってごめんなさい」２年前にＳＴＡＲＴＯから移籍",
+              "url": "https://www.yomiuri.co.jp/culture/hochi/20261116064-OHT1T51074/"
+            },
+            {
+              "title": "ISSEI、年内でTOBEとの専属エージェント契約を終了を発表「責任と覚悟を持って、新しい道を歩んでいきたい」【コメント全文】",
+              "url": "https://www.oricon.co.jp/news/2493172/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "三菱ufjフィナンシャル・グループ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "三菱ＵＦＪは３日続落、今期最終益・配当予想引き上げも物足りなさを意識した売り優勢",
+              "url": "https://kabutan.jp/news/marketnews/?b=n202611160190"
+            },
+            {
+              "title": "大手銀行「預金増えぬ時代」に備え 社債調達5割増、融資は選別",
+              "url": "https://www.nikkei.com/article/DGXZQOUB1222E0S6A111C2000000/"
+            },
+            {
+              "title": "3メガバンク中間決算 最高益更新",
+              "url": "https://news.yahoo.co.jp/pickup/6602512"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "サッカーベルギー代表 対 サッカーイタリア代表",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "FIFAランキングが変動、ベルギーに大敗のイタリアが2ランクダウン アメリカ勝利で日本代表との差が開く、韓国は1ランクアップ",
+              "url": "https://news.yahoo.co.jp/articles/ba9754591e88f7ef7d10c16f9e2ee821298b0e30"
+            },
+            {
+              "title": "日本に敗れたブラジル、モロッコに抜かれFIFAランキング７位に転落！日本は17位変わらず",
+              "url": "https://www.nikkansports.com/soccer/japan/news/202611140001969.html"
+            },
+            {
+              "title": "「日本に負けて判定に文句を言っているようでは終わりだ」衝撃の最新FIFAランクに母国ファンも唖然…森保ジャパンに敗れたブラジル、モロッコに抜かれて6位「数年前なら信じられないニュース」",
+              "url": "https://cocokara-next.com/football/japan/japan-vs-brazil-20261114-04/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "トレード",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "衝撃の“2対1トレード”…まさかの移籍劇を経験した選手（3）巨人で復活した“安打製造機”（ベースボールチャンネル）",
+              "url": "https://news.yahoo.co.jp/articles/c52b1f60c662429e788186b89199d531b963d0bc"
+            },
+            {
+              "title": "巨人ドラ６の神奈川大・松平快聖が８回２失点の好投「先発、中継ぎとしてジャイアンツの力に」",
+              "url": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202611060001408-0.html"
+            },
+            {
+              "title": "まさかの“放出”に…無償トレードで移籍した選手（4）阪神加入も”わずか2年後”に…？（ベースボールチャンネル）",
+              "url": "https://news.yahoo.co.jp/articles/dc10d26dfdaea622ff3d63b15dd54827f0215fb5"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ハーフナー・マイク",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "ブラジルを苦しめた「真のMVP」 3得点の攻撃陣よりも光った活躍…復帰DFは「めちゃくちゃ良かった」（FOOTBALL ZONE）",
+              "url": "https://news.yahoo.co.jp/articles/2d89cce3bfbc41e60a2b3ff012c5adf7d667b117"
+            },
+            {
+              "title": "「戻ってきたのはすごく大きい」解説者の林陵平氏がブラジル戦で最もポジティブな収穫として挙げた選手は？「これから４年後に向けて引っ張っていってほしい」",
+              "url": "https://www.soccerdigestweb.com/news/detail/id=199801"
+            },
+            {
+              "title": "画像・写真：守備する町田ら サッカー：時事ドットコム",
+              "url": "https://www.jiji.com/jc/p?id=20261114215913-0094177220"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "プロレス",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "マグナムTOKYO「業界に言いたいことはいっぱいある」 プロレス業界に再び関わって感じた違和感とは？（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/4ac46b022ea3e28a17dc633b5006c680d88ce43b"
+            },
+            {
+              "title": "練習で汗を流す堤聖也（撮影・郡司 修）",
+              "url": "https://www.sponichi.co.jp/battle/news/2026/11/16/gazo/20261114s10021000210000p.html"
+            },
+            {
+              "title": "闘龍門1期生のWエースの本音…CIMA「敵わない存在」、マグナムTOKYO「プロレスでは天才だった」",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20261116-0141"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 36,
+          "interest_max": 100,
+          "interest_latest": 43,
+          "rank": 1
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 29,
+          "interest_max": 100,
+          "interest_latest": 38,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 28,
+          "interest_max": 100,
+          "interest_latest": 35,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 18,
+          "interest_max": 60,
+          "interest_latest": 33,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 14,
+          "interest_max": 72,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 11,
+          "interest_max": 55,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 22,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 1,
+          "interest_max": 46,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 54,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "zara",
+          "value": "140"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 男子 ファッション",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "楽天 ファッション",
+          "value": "60"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "原宿 韓国 ファッション",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 冬 ファッション",
+          "value": "40"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-11-16T05:15:19.077481+00:00"
+}
