@@ -2,22 +2,21 @@
   "date": "2026-11-16",
   "mode": "fashion",
   "compared_to": "2026-11-15",
-  "total_keywords_today": 492,
+  "total_keywords_today": 482,
   "total_keywords_yesterday": 483,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "경량패딩",
-      "change": "+8%",
-      "today_count": 13,
-      "yesterday_count": 12,
+      "keyword": "fashion",
+      "change": "+6%",
+      "today_count": 18,
+      "yesterday_count": 17,
       "confidence": "high",
       "platforms": [
-        "naver",
         "youtube"
       ],
-      "sample_note": "오늘 13건, 어제 12건 기준"
+      "sample_note": "오늘 18건, 어제 17건 기준"
     },
     {
       "keyword": "막스마라패딩",
@@ -42,26 +41,15 @@
       "sample_note": "오늘 12건, 어제 11건 기준"
     },
     {
-      "keyword": "겨울",
-      "change": "+33%",
-      "today_count": 8,
-      "yesterday_count": 6,
-      "confidence": "medium",
+      "keyword": "#fashion",
+      "change": "+10%",
+      "today_count": 11,
+      "yesterday_count": 10,
+      "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 8건, 어제 6건 기준"
-    },
-    {
-      "keyword": "데일리룩",
-      "change": "+100%",
-      "today_count": 6,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 3건 기준"
+      "sample_note": "오늘 11건, 어제 10건 기준"
     },
     {
       "keyword": "무스탕",
@@ -86,7 +74,7 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
-      "keyword": "outfit",
+      "keyword": "데일리룩",
       "change": "+67%",
       "today_count": 5,
       "yesterday_count": 3,
@@ -97,7 +85,7 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
-      "keyword": "shopping",
+      "keyword": "outfit",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
@@ -108,7 +96,19 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "트렌드",
+      "keyword": "weather",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "google_trends",
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#겨울코디",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -130,17 +130,6 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#겨울코디",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
       "keyword": "패션",
       "change": "+200%",
       "today_count": 3,
@@ -150,6 +139,17 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 1건 기준"
+    },
+    {
+      "keyword": "트렌드",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
       "keyword": "겨울코디",
@@ -231,13 +231,6 @@
   ],
   "declining": [
     {
-      "keyword": "#fashion",
-      "change": "-10%",
-      "today_count": 9,
-      "yesterday_count": 10,
-      "confidence": "medium"
-    },
-    {
       "keyword": "lookbook",
       "change": "-30%",
       "today_count": 7,
@@ -246,15 +239,15 @@
     },
     {
       "keyword": "#데일리룩코디",
-      "change": "-33%",
-      "today_count": 6,
+      "change": "-22%",
+      "today_count": 7,
       "yesterday_count": 9,
       "confidence": "medium"
     },
     {
       "keyword": "데일리룩코디",
-      "change": "-33%",
-      "today_count": 6,
+      "change": "-22%",
+      "today_count": 7,
       "yesterday_count": 9,
       "confidence": "medium"
     },
@@ -267,8 +260,8 @@
     },
     {
       "keyword": "style",
-      "change": "-22%",
-      "today_count": 7,
+      "change": "-44%",
+      "today_count": 5,
       "yesterday_count": 9,
       "confidence": "medium"
     },
@@ -299,18 +292,25 @@
       "today_count": 5,
       "yesterday_count": 6,
       "confidence": "medium"
+    },
+    {
+      "keyword": "haul",
+      "change": "-50%",
+      "today_count": 3,
+      "yesterday_count": 6,
+      "confidence": "low"
     }
   ],
   "new_entries": [],
   "cross_platform_hot": [
     {
-      "keyword": "경량패딩",
+      "keyword": "weather",
       "platform_count": 2,
       "platforms": [
-        "naver",
+        "google_trends",
         "youtube"
       ],
-      "total_count": 13
+      "total_count": 3
     }
   ]
 }
