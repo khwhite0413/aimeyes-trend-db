@@ -1,0 +1,711 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "보스턴다이내믹스",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "임무 성공률 99% ‘스팟’ 이어 ‘아틀라스’까지···자동차 넘어 반도체 공장 첫 실증",
+              "url": "https://www.khan.co.kr/article/202611180927001"
+            },
+            {
+              "title": "로봇군단, 공장으로 성큼…아틀라스 ‘반도체팹’서도 현장 테스트",
+              "url": "https://www.hani.co.kr/arti/economy/marketing/1287930.html"
+            },
+            {
+              "title": "현대차 아틀라스, 자동차 밖 첫 시험대는 ‘美 반도체 공장’",
+              "url": "https://www.chosun.com/economy/industry-company/2026/11/18/7YJBDJ6QHBFQNDNYVABG4UR5WA/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "로또",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "\"회사에서 확인한 로또, 1등 31억 당첨\"…인증글 올린 직장인",
+              "url": "https://www.edaily.co.kr/News/Read?newsId=02122166645647032&mediaCodeNo=257"
+            },
+            {
+              "title": "\"2등 당첨되는 꿈\" 회사에서 확인한 로또, 31억 대박...'음소거 환호' - 머니투데이",
+              "url": "https://www.mt.co.kr/index.php/society/2026/11/18/2026111805495346241"
+            },
+            {
+              "title": "제1250회 로또 1등 9명···당첨금 31억원",
+              "url": "https://www.khan.co.kr/article/202611142052001"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "병무청",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "병무청, 19일 수능날 병역판정검사 미실시…20일부터 재개",
+              "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6357747"
+            },
+            {
+              "title": "경인지방병무청,수능시험 19일 병역판정검사 휴무",
+              "url": "https://sports.donga.com/region/article/all/20261118/135045691/1"
+            },
+            {
+              "title": "부산울산병무청, 수능일 병역판정검사 휴무…20일 재개",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755771"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "에레디 아",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "‘45홈런’ 김도영, 3루 수비도 1위…데뷔 첫 KBO 수비상",
+              "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716061"
+            },
+            {
+              "title": "화려하게 부활한 KIA 김도영, 2026 일구대상 수상",
+              "url": "https://www.yna.co.kr/view/AKR20261118064900007"
+            },
+            {
+              "title": "프로야구 kt 위즈, 4년 연속 KBO 수비상 수상자 배출 실패",
+              "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041332"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "조태용",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "'체포 지시 부인' 조태용 전 국정원장 징역 2년 6개월 확정",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6866573_36918.html"
+            },
+            {
+              "title": "대법 “조태용, 윤석열 정치인 체포 지시 보고받아”…징역 2년 6개월 확정",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8716000"
+            },
+            {
+              "title": "[속보]조태용 전 국정원장 ‘계엄 위증·정치관여’ 2년6개월 실형 확정",
+              "url": "https://www.khan.co.kr/article/202611181112001"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "england vs australia",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "Australia vs England LIVE: Ninja Stadium, Hobart - cricket score, commentary & updates",
+              "url": "https://www.bbc.com/sport/cricket/live/c9324g081j1t"
+            },
+            {
+              "title": "AUS vs ENG 2026/27, AUS vs ENG 3rd ODI Match Preview - Beardman back for rare ODI series decider in Hobart",
+              "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-3rd-odi-1528705/match-preview"
+            },
+            {
+              "title": "Mahli Beardman’s ODI historic debut was one to savour",
+              "url": "https://www.swtimes.com.au/news/south-western-times/mahli-beardmans-historic-odi-debut-was-one-to-savour-as-the-south-west-fast-bowler-made-a-name-for-himself-c-23168578"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "김치",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "익산 남중동 새마을부녀회, 정성 담은 김장김치 나눔",
+              "url": "https://sjbnews.com/news/news.php?number=892856&year=2026"
+            },
+            {
+              "title": "돈암1동 지역사회보장협의체, 취약계층 184가구에 사랑의 김장 전달",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755159"
+            },
+            {
+              "title": "김치·쌀·성금까지…안성 곳곳서 펼쳐지는 겨울맞이 나눔",
+              "url": "https://www.newsis.com/view/NISX20261118_0003873238"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "수성구",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "부정행위 계획하는 20대 동행해보니… “용산서 커닝용 기판·초소형스피커 3만3000원에 득템”",
+              "url": "https://www.munhwa.com/article/11632249"
+            },
+            {
+              "title": "[자막뉴스] \"'AI 커닝 장비' 어디 썼는지 다 안다\"…중국 업자 \"1200만 원씩 내라\" 협박",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851735"
+            },
+            {
+              "title": "수능 코앞인데…中 AI 커닝업체 \"韓 주문 밀려 바쁘다\"",
+              "url": "https://www.hankyung.com/article/202611184572i"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "부산광역시",
+          "traffic": "1000+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "건설",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "국토부, 사망사고 발생 대형건설사 12곳 안전관리 점검",
+              "url": "https://www.electimes.com/news/articleView.html?idxno=374930"
+            },
+            {
+              "title": "올 들어 건설 현장서 106명 숨져…절반 가량이 ‘추락’ 사망",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8715993"
+            },
+            {
+              "title": "수도권매립지관리공사, 겨울철 대비 주요 시설 안전 점검",
+              "url": "https://www.kyeonggi.com/article/20261118580215"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 58,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "aldo de nigris",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "La Mansión VIP: Ellos son Deiby Ruiz y Yetus Prime, los nuevos participantes en el reality: video",
+              "url": "https://www.dallasnews.com/espanol/al-dia/espectaculos/article/la-mansion-vip-deiby-ruiz-yetus-prime-22536032.php"
+            },
+            {
+              "title": "¿Doña Alegría celosa? Explota contra Yetus por beso a Cinthia Cossio tras rumores de romance: “Muy corriente”",
+              "url": "https://www.tvnotas.com.mx/espectaculos-mexico/dona-alegria-celosa-explota-contra-yetus-por-beso-a-cinthia-cossio-tras-rumores-de-romance-muy-corriente"
+            },
+            {
+              "title": "’La Mansión VIP’ recibe nuevos habitantes! Yetus Prime y Deiby Ruiz se integran al reality de HotSpanish",
+              "url": "https://www.lavozarizona.com/story/entretenimiento/2026/11/17/quin-es-yetus-prime-deiby-ruiz-la-mansion-vip-nuevos-habitantes/92823545007/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "blake griffin",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Oklahoma native Blake Griffin says taxpayers had little choice on $900 million Thunder arena",
+              "url": "https://www.nytimes.com/athletic/7789522/2026/11/17/blake-griffin-thunder-stadium-fans-taxpayers/"
+            },
+            {
+              "title": "“My Parents Were Teachers”: Blake Griffin Rips Thunder’s $850 Million Taxpayer-Funded Arena Deal",
+              "url": "https://www.basketballnews.com/news/basketballnews-nba-active-news-my-parents-were-teachers-blake-griffin-rips-oklahoma-city-thunders-eight-fifty-million-taxpayer-funded-arena-deal/"
+            },
+            {
+              "title": "Blake Griffin says Oklahoma City citizens are forced to chip in $850m to Thunder’s $900m arena",
+              "url": "https://sports.yahoo.com/articles/blake-griffin-says-oklahoma-city-102417323.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "darius garland",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Clippers 113-105 Hornets (Nov 15, 2026) Game Recap",
+              "url": "https://www.espn.com/nba/recap/_/gameId/401909987"
+            },
+            {
+              "title": "Brandon Miller struggles, Clippers get hot as Hornets lose again",
+              "url": "https://atthehive.com/charlotte-hornets-vs-los-angeles-clippers-game-13-recap-and-analysis/"
+            },
+            {
+              "title": "Darius Garland 27 Pts, 6 Reb, 7 Ast vs. Charlotte Hornets (11.15.26)",
+              "url": "https://www.nba.com/clippers/videos/darius-garland-27-pts-6-reb-7-ast-vs-charlotte-hornets-11-15-26"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "san francisco weather",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather",
+              "url": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts"
+            },
+            {
+              "title": "Video: Waterspout spotted over SF Bay",
+              "url": "https://www.kron4.com/weather/video-waterspout-spotted-over-sf-bay/"
+            },
+            {
+              "title": "Tornado warning, waterspouts and hail sweep Bay Area in rare severe storm",
+              "url": "https://www.nbcbayarea.com/news/local/bay-area-severe-weather-tornado-warning-waterspouts-hail/4177244/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "dijonai carrington",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Chicago Sky’s DiJonai Carrington Named as Potential Target for Atlanta Dream",
+              "url": "https://sports.yahoo.com/articles/chicago-sky-dijonai-carrington-named-233910251.html"
+            },
+            {
+              "title": "Angel Reese's Dream named strong fit for prized WNBA free agent",
+              "url": "https://www.sportingnews.com/us/wnba/atlanta-dream/news/angel-reeses-dream-named-strong-fit-prized-wnba-free-agent/e6214000347b187799c5187d"
+            },
+            {
+              "title": "Dream Offseason: Bench Depth and DiJonai Carrington",
+              "url": "https://roundtable.io/sports/wnba/opinion/dijonai-carrington-named-as-potential-dream-addition-after-finals-run"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "jonathan majors",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Marvel Started Planning for Robert Downey Jr.’s Doctor Doom Before Jonathan Majors Was Fired and ‘Avengers: The Kang Dynasty’ Fell Apart, Says Kevin Feige",
+              "url": "https://variety.com/2026/film/news/doctor-doom-avengers-kang-dynasty-jonathan-majors-fired-1236950563/"
+            },
+            {
+              "title": "Marvel Studios boss says Doom was already going to replace Kang after ‘Quantumania’ flop",
+              "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-17/marvel-kevin-feige-kang-doom-avengers-doomsday"
+            },
+            {
+              "title": "Marvel Boss Officially Reveals Why Avengers Switched from Kang to Doctor Doom",
+              "url": "https://www.polygon.com/avengers-doomsday-doctor-doom-kang-dynasty-switch/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "hugging face",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "California sues OpenAI over hacking risks",
+              "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident"
+            },
+            {
+              "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+              "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html"
+            },
+            {
+              "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+              "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "dallas stars",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Morning Skate Report: Nov. 17, 2026 | Vegas Golden Knights",
+              "url": "https://www.nhl.com/goldenknights/news/morning-skate-report-nov-17-2026"
+            },
+            {
+              "title": "Dallas Stars vs Vegas Golden Knights Prediction, Picks & Odds | 17 Nov 2026",
+              "url": "https://www.sportsgambler.com/betting-tips/ice-hockey/dallas-stars-vs-vegas-golden-knights-prediction-odds-2026-11-17/"
+            },
+            {
+              "title": "Golden Knights blow late lead, lose to Stars in OT",
+              "url": "https://www.reviewjournal.com/sports/goldenknights/golden-knights-blow-late-lead-lose-to-stars-in-ot-3915816/?utm_campaign=widget&utm_medium=section_row&utm_source=sports_motor-sports_nascar&utm_term=Golden%20Knights%20blow%20late%20lead%2C%20lose%20to%20Stars%20in%20OT"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "ryan adams",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Singer Ryan Adams Engaged to Kate Farr After Whirlwind Romance, 30-Year Age Gap",
+              "url": "https://www.tmz.com/2026/11/17/ryan-adams-engaged-to-kate-farr/"
+            },
+            {
+              "title": "Mandy Moore’s ex Ryan Adams engaged to woman 30 years younger than him: ‘I’ve never been happier’",
+              "url": "https://pagesix.com/2026/11/17/celebrity-news/mandy-moores-ex-ryan-adams-engaged-to-woman-30-years-younger-than-him/"
+            },
+            {
+              "title": "Ryan Adams, 52, engaged to fellow musician Kate Farr, 22, after 6 months of dating",
+              "url": "https://ew.com/ryan-adams-engaged-kate-farr-12261648"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "jarred vanderbilt",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Lakers Big Man Has Warning Before Hornets Matchup",
+              "url": "https://sports.yahoo.com/articles/lakers-big-man-warning-hornets-054047640.html"
+            },
+            {
+              "title": "Jarred Vanderbilt has played his way back to Lakers relevancy",
+              "url": "https://lakeshowlife.com/jarred-vanderbilt-played-his-way-back-to-lakers-relevancy"
+            },
+            {
+              "title": "Lakers’ Much-Maligned Big Man to Get Chance Amid Injury Woes",
+              "url": "https://heavy.com/sports/nba/los-angeles-lakers/big-man-to-get-chance-amid-injury-woes/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "self care",
+          "interest_avg": 50,
+          "interest_max": 100,
+          "interest_latest": 63,
+          "rank": 1
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 41,
+          "interest_max": 100,
+          "interest_latest": 47,
+          "rank": 2
+        },
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 4,
+          "interest_max": 31,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 4,
+          "interest_max": 20,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 3,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 16,
+          "interest_latest": 0,
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "アドマイヤ ズーム",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "【マイルCS】スターアニス・松山弘平騎手 一問一答「勝負になるんじゃないかと思います」（サンケイスポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/cf552b10053eab317340c7e53153d68e07ad2e72"
+            },
+            {
+              "title": "武豊騎手が「アドマイヤ」で19年ぶりGI制覇なるか マイルCSにアドマイヤズームで参戦だ",
+              "url": "https://news.netkeiba.com/?pid=news_view&no=348316"
+            },
+            {
+              "title": "【マイルCS・調教班の鬼ジャッジ】エルデナリは買いか？最終追い切りの〝驚き〟の内容",
+              "url": "https://tospo-keiba.jp/breaking_news/77844"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "阿部智則",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "ロン毛から雰囲気一変 5年ぶりTV出演…47歳芸人の今が話題「印象違う」「髪型素敵」（ENCOUNT）",
+              "url": "https://news.yahoo.co.jp/articles/3e7e04dc0d17c0bf3bc9b485778d22f6864641fa"
+            },
+            {
+              "title": "秋山20年来の友達と、泳いで、高級ビュッフェで大食い＆小食い！【#６ 千葉県浦安市】",
+              "url": "https://tver.jp/episodes/epu9ya1e12"
+            },
+            {
+              "title": "ロン毛から雰囲気一変 5年ぶりTV出演…47歳芸人の今が話題「印象違う」「髪型素敵」",
+              "url": "https://portal.uqmobile.jp/detail/1/5/9/10316_9_r_20261118_1794961702160484"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "八村塁",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "【NBA】八村塁が３ポイント４本を含む20得点も…クリッパーズは12連敗中のジャズに大敗し連勝ストップ＜DUNKSHOOT＞",
+              "url": "https://news.yahoo.co.jp/articles/0973d8681cb375858905436895b6565c0833fa5d"
+            },
+            {
+              "title": "八村塁は先発で約25分出場し4得点…クリッパーズが13点ビハインドからホーネッツに逆転",
+              "url": "https://nba.docomo.ne.jp/news/194582"
+            },
+            {
+              "title": "八村塁 3戦ぶり2桁得点！前半シュート好調で13得点、3P全て決めた クリッパーズ3連勝へ4点リード",
+              "url": "https://www.sponichi.co.jp/sports/news/2026/11/18/kiji/20261118s00011061171000c.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "喜多川海夢",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「着せ恋」喜多川海夢が白猫に!? 猫耳＆しっぽがキュートすぎるフィギュアが全国のアミューズメント施設に登場",
+              "url": "https://news.yahoo.co.jp/articles/fe030a373db7aa69385a156cd441e9dd2c2f7cdf"
+            },
+            {
+              "title": "TVアニメ「その着せ替え人形は恋をする」より1/4スケールフィギュア「喜多川海夢 -黒江雫 Ver.-」が11月18日より予約開始",
+              "url": "https://hobby.watch.impress.co.jp/docs/news/2157449.html"
+            },
+            {
+              "title": "SHIBUYA SCRAMBLE FIGURE、TVアニメ『その着せ替え人形は恋をする』より「喜多川海夢 -黒江雫 Ver.-」の1/4スケールフィギュアを本日より予約受付開始！",
+              "url": "https://prtimes.jp/main/html/rd/p/000001519.000006792.html"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "ブランドン・ミラー",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "CHA starts White, Miller, Williams, Reid, Diabaté",
+              "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-17/cha-starts-white-miller-williams-reid-diabate"
+            },
+            {
+              "title": "Hornets Panic Meter: Should Charlotte Be Worried About Brandon Miller?",
+              "url": "https://sports.yahoo.com/articles/hornets-panic-meter-charlotte-worried-190005105.html"
+            },
+            {
+              "title": "Brandon Miller Off the Injury Report for Sunday - NBA News | Fantasy Basketball",
+              "url": "https://www.rotoballer.com/player-news/brandon-miller-off-the-injury-report-for-sunday/1994158"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "航空機",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "推定ロシア機領空侵犯 福岡沖ノ島",
+              "url": "https://news.yahoo.co.jp/pickup/6602882"
+            },
+            {
+              "title": "ロシア軍機数機、韓国の防空識別圏に進入…韓国軍が戦闘機投入、領空侵犯なし",
+              "url": "https://www.afpbb.com/articles/biz/3663008?ctm_campaign=biz_news"
+            },
+            {
+              "title": "日ロ首脳会談“模索”の中…ロシア機“領空侵犯”外交ウィーク始まる",
+              "url": "https://news.tv-asahi.co.jp/news_international/articles/900204547.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "ガナー・ヘンダーソン",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【ドジャース】ＷＢＣ米国代表のスター遊撃手獲りへ１対４トレード急浮上＝米報道「真の解決策」（東スポWEB）",
+              "url": "https://news.yahoo.co.jp/articles/14909d0855daf221fc8bcb58f485c30ae5496124"
+            },
+            {
+              "title": "最強左腕との再契約より…ド軍が狙うべき松井元同僚 55億円男が流出、“上位互換”に期待",
+              "url": "https://article.auone.jp/c69baa59-5939-4f9e-96db-848c86581580"
+            },
+            {
+              "title": "ドジャースFAの中継ぎ鉄腕『ベシア争奪戦』が勃発…MLBの「半分の球団」が興味、ドジャース引き止めも年俸は4倍か",
+              "url": "https://www.chunichi.co.jp/article/1340599"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "市原隼人",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "ライズ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "新色のアースカラーに黒パーツで武装！ 1点ずつ単独で選べる外装が揃う「ライズ」登場（Auto Messe Web）",
+              "url": "https://news.yahoo.co.jp/articles/5e6caed1f3fc5aa72dc9f6c920b10026dc0d46bb"
+            },
+            {
+              "title": "国民的人気のSUVが3回目のお色直し！ トヨタ・ライズがマイナーチェンジと特別仕様車「Z“POWERFUL”」を追加",
+              "url": "https://news.yahoo.co.jp/articles/ed238460c80d7b8d18e3f2031e3411f6764efed1?source=rss"
+            },
+            {
+              "title": "「ロッキー／ライズ」が一部改良で燃費改善、HEVモデルは静粛性と加速感を向上：電動化",
+              "url": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news046.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "セルゲイ ラブロフ",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "仏軍要員のウクライナ駐留、「共戦」ではなく訓練支援＝仏外相（ロイター）",
+              "url": "https://news.yahoo.co.jp/articles/5bbb64fc36842633ab382ddf7b2a42729bb1f5dc"
+            },
+            {
+              "title": "フランス、水面下でウクライナ派兵か ロシア反発「もはや直接参戦」",
+              "url": "https://www.asahi.com/articles/ASVCK5359VCKUHBI02MM.html"
+            },
+            {
+              "title": "仏政府、ウクライナへの軍派遣認める 整備要員など「戦闘意図なし」",
+              "url": "https://www.nikkei.com/article/DGXZQOGR17CN20X11C26A1000000/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 22,
+          "interest_max": 100,
+          "interest_latest": 21,
+          "rank": 1
+        },
+        {
+          "keyword": "バズった",
+          "interest_avg": 12,
+          "interest_max": 49,
+          "interest_latest": 14,
+          "rank": 2
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 1,
+          "interest_max": 13,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 45,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 33,
+          "interest_latest": 0,
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-11-18T06:22:09.163018+00:00"
+}
