@@ -2,9 +2,9 @@
   "date": "2026-11-18",
   "mode": "fashion",
   "compared_to": "2026-11-17",
-  "total_keywords_today": 453,
+  "total_keywords_today": 471,
   "total_keywords_yesterday": 454,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -75,6 +75,17 @@
       "sample_note": "오늘 12건, 어제 11건 기준"
     },
     {
+      "keyword": "ootd",
+      "change": "+167%",
+      "today_count": 8,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 8건, 어제 3건 기준"
+    },
+    {
       "keyword": "무스탕",
       "change": "+33%",
       "today_count": 8,
@@ -84,17 +95,6 @@
         "naver"
       ],
       "sample_note": "오늘 8건, 어제 6건 기준"
-    },
-    {
-      "keyword": "winter",
-      "change": "+17%",
-      "today_count": 7,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
       "keyword": "haul",
@@ -109,25 +109,14 @@
     },
     {
       "keyword": "#ootd",
-      "change": "+100%",
-      "today_count": 6,
+      "change": "+133%",
+      "today_count": 7,
       "yesterday_count": 3,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 6건, 어제 3건 기준"
-    },
-    {
-      "keyword": "ootd",
-      "change": "+100%",
-      "today_count": 6,
-      "yesterday_count": 3,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 6건, 어제 3건 기준"
+      "sample_note": "오늘 7건, 어제 3건 기준"
     },
     {
       "keyword": "outfit",
@@ -141,15 +130,37 @@
       "sample_note": "오늘 6건, 어제 4건 기준"
     },
     {
-      "keyword": "코디",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
+      "keyword": "dress",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
+      "keyword": "#outfitideas",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 2건 기준"
+    },
+    {
+      "keyword": "outfitideas",
+      "change": "+150%",
+      "today_count": 5,
+      "yesterday_count": 2,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 2건 기준"
     },
     {
       "keyword": "겨울코디",
@@ -174,37 +185,26 @@
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "コスパ",
-      "change": "+100%",
+      "keyword": "코디",
+      "change": "+33%",
       "today_count": 4,
-      "yesterday_count": 2,
+      "yesterday_count": 3,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "#outfitideas",
-      "change": "+100%",
+      "keyword": "wedding",
+      "change": "+300%",
       "today_count": 4,
-      "yesterday_count": 2,
+      "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
-    },
-    {
-      "keyword": "outfitideas",
-      "change": "+100%",
-      "today_count": 4,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 1건 기준"
     },
     {
       "keyword": "퍼자켓",
@@ -232,8 +232,8 @@
   "declining": [
     {
       "keyword": "fashion",
-      "change": "-6%",
-      "today_count": 15,
+      "change": "-12%",
+      "today_count": 14,
       "yesterday_count": 16,
       "confidence": "high"
     },
@@ -259,18 +259,18 @@
       "confidence": "medium"
     },
     {
-      "keyword": "amp",
-      "change": "-33%",
-      "today_count": 4,
+      "keyword": "winter",
+      "change": "-17%",
+      "today_count": 5,
       "yesterday_count": 6,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
-      "keyword": "dress",
-      "change": "-20%",
-      "today_count": 4,
-      "yesterday_count": 5,
-      "confidence": "low"
+      "keyword": "amp",
+      "change": "-17%",
+      "today_count": 5,
+      "yesterday_count": 6,
+      "confidence": "medium"
     },
     {
       "keyword": "써스데이아일랜드",
@@ -302,7 +302,6 @@
     }
   ],
   "new_entries": [
-    "look",
     "jeans"
   ],
   "cross_platform_hot": [
