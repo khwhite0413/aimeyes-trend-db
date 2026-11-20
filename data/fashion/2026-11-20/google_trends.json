@@ -1,0 +1,916 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "레미콘",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "한국토지주택공사, 3기 신도시 레미콘 품질 전 과정 추적…2028년 전국 확대",
+              "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722299"
+            },
+            {
+              "title": "LH, 3기 신도시에 ‘레미콘 통합 품질관리 시스템’ 도입",
+              "url": "https://www.joongboo.com/news/articleView.html?idxno=363742809"
+            },
+            {
+              "title": "소프트자이온, 레미콘 품질업무자동화 플랫폼 '위시드콘(Weseed CON)' 출시",
+              "url": "https://www.etnews.com/20261117000118"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "리사 수",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "“기억 못 하면 금붕어?”…젠슨 황 딸, 직원에게 막말 논란",
+              "url": "https://www.donga.com/news/Inter/article/all/20261120/135060075/1"
+            },
+            {
+              "title": "엔비디아 임시 CEO “앞으로 나아가자” 임금 인상 시사…직원들 56% “젠슨 황 복귀 원해”",
+              "url": "https://www.khan.co.kr/article/202611191250001"
+            },
+            {
+              "title": "젠슨 황의 불륜 스캔들…두 여자의 주얼리를 보면 삶이 보인다 [민은미의 파인주얼리]",
+              "url": "https://www.hankyung.com/article/202611169480i"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "빅뱅",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "빅뱅 출신 승리, 만삭 아내와 동반 입국 포착…양손에 캐리어·명품백 직접 챙겨",
+              "url": "https://sports.khan.co.kr/article/202611190925003"
+            },
+            {
+              "title": "빅뱅 승리, 만삭 아내와 공항서 포착…내년 1월 출산 예정",
+              "url": "https://www.yonhapnewstv.co.kr/news/AKR20261119104039UNO"
+            },
+            {
+              "title": "승리, 임신한 20대 아내와 공항 포착…얼굴 가리는 아내",
+              "url": "https://www.newsis.com/view/NISX20261119_0003874236"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "빅뱅 신곡",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "20주년 빅뱅, 오늘 신곡 깜짝 발표…제목도 비밀, 기습 발매",
+              "url": "https://www.khan.co.kr/article/202611201044001"
+            },
+            {
+              "title": "빅뱅, 오늘(20일) 새 디지털 싱글 기습 공개…데뷔 20주년 대미 장식",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855191"
+            },
+            {
+              "title": "빅뱅, 오늘(20일) 기습 컴백…신곡은 ‘기립’",
+              "url": "https://www.chosun.com/entertainments/music/2026/11/20/GFSTINRWGRQWIMJTHFRTCNBRGA/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "대상 공원 빅 트리",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "창원시, 흉물 논란 ‘빅트리’ 개선 추진…55억 투입",
+              "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717837"
+            },
+            {
+              "title": "창원 빅트리 실내 전망시설·스카이라운지 도입 체류형 전망공간화 - 머니투데이",
+              "url": "https://www.mt.co.kr/policy/2026/11/19/2026111916581072736"
+            },
+            {
+              "title": "‘못생겨서 유명한’ 빅트리…55억 추가 투입해 2028년 개장",
+              "url": "https://www.hani.co.kr/arti/area/yeongnam/1288132.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "하마",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "세컨드레이디까지 추모 동참... 美 ‘국민 하마’ 피오나의 마지막 길",
+              "url": "https://www.chosun.com/international/international_general/2026/11/20/D6WXP4E4JZH25GHNTVL5GPUTFA/"
+            },
+            {
+              "title": "美동물원 하마, 관광객 모자 삼켜 폐사…“수술 불가능했다”",
+              "url": "https://www.donga.com/news/Inter/article/all/20261120/135058463/1"
+            },
+            {
+              "title": "\"피오나, 고마웠어\"…美 '스타 하마' 사망에 애도 물결",
+              "url": "https://www.yna.co.kr/view/AKR20261120079900009"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "안개",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "안개 폭포 쏟아지는 아침…‘올해의 기상 사진’ 1위",
+              "url": "https://www.hani.co.kr/arti/science/science_general/1288275.html"
+            },
+            {
+              "title": "산 할아버지, 구름모자 썼네…‘올해의 기상 사진’ 후보들",
+              "url": "https://www.hani.co.kr/arti/science/science_general/1287157.html"
+            },
+            {
+              "title": "호남·제주 '겨울 왕국'...현재 눈 상황은? [앵커리포트]",
+              "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611200758253794_005.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "한화이글스",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "초대박! 'WS 준우승팀 우완' 숄텐스, 전격 방출! 美 \"한화행 임박\"→탬파도 \"KBO 도전한다\" - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/11/20/2026112012055272273"
+            },
+            {
+              "title": "154km 팔색조 투수, ‘WS 준우승’ 탬파베이에서 방출→한국에 온다 “볼넷·장타 억제 뛰어나”",
+              "url": "https://www.chosun.com/sports/baseball/2026/11/20/GZRTONRVMMYDEZDFHE4GMMJXGA/"
+            },
+            {
+              "title": "MLB 탬파베이 우완 숄턴스, 한국 온다…국내 구단과 협상 막바지",
+              "url": "https://www.yna.co.kr/view/AKR20261120059700007"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "발전",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "서부발전, 재생에너지 전문가 20명 위촉…사업 개발 자문 확대",
+              "url": "https://biz.chosun.com/industry/company/2026/11/20/QTNPOR6PDJCUDARRRJKJWKNHKM/"
+            },
+            {
+              "title": "서부발전, 태양광·VPP까지 재생에너지 자문체계 확대",
+              "url": "https://www.newscj.com/news/articleView.html?idxno=3450678"
+            },
+            {
+              "title": "“사업개발 자문 확대”…서부발전, 재생에너지 전문가 20명 위촉",
+              "url": "https://www.mk.co.kr/news/business/12214496"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "웨이모",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "“리콜 뒤 또 공사 차로 진입”…미 캘리포니아주, 웨이모 로보택시 고속도로 주행 일시 중단",
+              "url": "https://www.khan.co.kr/article/202611191320011"
+            },
+            {
+              "title": "웨이모, 美 전역 고속도로 자율주행 중단 … 반복되는 안전성 논란",
+              "url": "https://www.autoview.co.kr/ko-kr/articles/102581"
+            },
+            {
+              "title": "손님 태우고 '뚝'…철도 건널목서 아찔한 상황",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854840"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 59,
+          "interest_max": 100,
+          "interest_latest": 100,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 6,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 1,
+          "interest_max": 92,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 88,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 5,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 4,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 77,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "sri lanka vs pakistan",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "Milan Rathnayaka fights but Pakistan in control",
+              "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-2nd-test-1550712/match-report"
+            },
+            {
+              "title": "Pakistan Sri Lanka Cricket",
+              "url": "https://www.wvnews.com/sports/pro/pakistan-sri-lanka-cricket/image_476f6f1d-275e-5e42-a3c0-daecf6c2bef2.html"
+            },
+            {
+              "title": "Recent Match Report - Pakistan vs Sri Lanka, Sri Lanka tour of Pakistan, 2nd Test | ESPN.com",
+              "url": "https://www.espn.com/cricket/series/19430/report/1550712/day/1/pakistan-vs-sri-lanka-2nd-test-24707"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "awards show",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "The 10 Best Looks From the Country Music Association Awards Red Carpet",
+              "url": "https://www.nytimes.com/2026/11/18/style/cma-country-music-association-awards-red-carpet.html"
+            },
+            {
+              "title": "Celebrity Photos Updated Daily: Taylor Swift, Tim McGraw, Faith Hill, Timothée Chalamet and More",
+              "url": "https://people.com/star-tracks-thursday-november-19-2026-new-celebrity-photos-updated-daily-12263522"
+            },
+            {
+              "title": "All the Country Stars in Taylor Swift’s CMA Awards Performance, Explained",
+              "url": "https://www.rollingstone.com/music/music-country/taylor-swift-cma-awards-performance-all-the-country-stars-1235660996/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "the body season 2",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "The Problem With ‘3 Body Problem’ Is That It Stinks",
+              "url": "https://defector.com/the-problem-with-3-body-problem-is-that-it-stinks"
+            },
+            {
+              "title": "‘3 Body Problem’ Sets Season 2 Release Date At Netflix",
+              "url": "https://deadline.com/2026/11/3-body-problem-season-2-release-date-netflix-1237225311/"
+            },
+            {
+              "title": "‘3 Body Problem’ season 2 gets a release date as Netflix drops stunning new trailer",
+              "url": "https://www.space.com/entertainment/space-movies-shows/netflixs-3-body-problem-season-2-trailer-gives-us-a-release-date-and-a-chilling-warning-they-are-coming-to-exterminate-us"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "liam hemsworth",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Jennifer Lawrence Dropped A Throwback Post With The Hunger Games’ Peeta And Gale (And Her Caption Is A+)",
+              "url": "https://www.cinemablend.com/movies/jennifer-lawrence-throwback-post-hunger-games-josh-hutcherson-liam-hemsworth-funny-caption"
+            },
+            {
+              "title": "Jennifer Lawrence Shares Never-Before-Seen Throwback Photos with ‘Hunger Games’ Co-Stars Liam Hemsworth & Josh Hutcherson",
+              "url": "https://www.imdb.com/news/ni66114648/?ref_=nwc_art_perm"
+            },
+            {
+              "title": "Jennifer Lawrence shares throwback with Josh Hutcherson, Liam Hemsworth",
+              "url": "https://www.geo.tv/latest/691483-jennifer-lawrence-shares-throwback-with-josh-hutcherson-liam-hemsworth"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "florida flash flooding",
+          "traffic": "20000+",
+          "related_news": [
+            {
+              "title": "In Florida, More Rain Threatens Flooded Areas and Roads",
+              "url": "https://www.nytimes.com/2026/11/19/weather/florida-floods-rain-closures-evacuations.html"
+            },
+            {
+              "title": "WATCH LIVE: Flash Flood Warning issued for Brevard County",
+              "url": "https://www.clickorlando.com/news/local/2026/11/20/watch-live-flash-flood-warning-issued-for-brevard-county/"
+            },
+            {
+              "title": "Florida flooding rain topped monthly, fall, all-time records",
+              "url": "https://weather.com/2026/11/19/news/weather/florida-flood-forecast-record-rain"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "where is mandy's house in gta 6",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "GTA 6 Mandy Actor Officially Reveals Her Identity in Video After Character Goes Viral",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/gta-6-mandy-actor-officially-233345828.html"
+            },
+            {
+              "title": "Who’s Mandy in GTA 6? Why gamers are obsessed with this NPC",
+              "url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/video-games-consoles/mandy-gta-6-pipework-mission-b3087768.html"
+            },
+            {
+              "title": "Goodbye, Lucia: GTA 6 Fans' Official New Obsession Is Mandy",
+              "url": "https://www.polygon.com/gta-6-mandy-who-is-pipework-mission-lucia-jason-chapter-reddit/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "haiti news",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
+              "url": "https://www.aljazeera.com/news/2026/11/19/why-are-bukeles-salvadoran-troops-in-haiti-and-what-have-they-achieved"
+            },
+            {
+              "title": "El Salvador’s president confirms and celebrates attack on home of key Haitian gang leader",
+              "url": "https://apnews.com/article/haiti-bukele-jeff-canaan-gangs-attack-home-4397ab6847be1d1dcc9c5bc600a4953f"
+            },
+            {
+              "title": "El Salvador Destroys Another Gang Stronghold as ‘Gift’ to Haiti",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-18/el-salvador-destroys-another-gang-stronghold-as-gift-to-haiti"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "apple iphone 20",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Apple Reportedly Testing Four iPhone 20 Designs: Will All Make the Cut?",
+              "url": "https://www.techrepublic.com/article/news-apple-iphone-20-four-designs-2027/"
+            },
+            {
+              "title": "New leaks detail next year’s iPhone Pro redesign and iPhone Duo 2",
+              "url": "https://9to5mac.com/2026/11/18/new-leaks-detail-next-years-iphone-pro-redesign-and-iphone-duo-2/"
+            },
+            {
+              "title": "The 20th anniversary iPhone is reportedly ditching aluminum once again",
+              "url": "https://www.phonearena.com/news/the-20th-anniversary-iphone-is-reportedly-ditching-aluminum-once-again_id184934"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "kraken game",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "NHL Mic Drop: Hurricanes Dominate Global Series Finland",
+              "url": "https://www.nhl.com/video/nhl-mic-drop-hurricanes-dominate-global-series-finland-6408617823112"
+            },
+            {
+              "title": "Hurricanes 4-1 Kraken (Nov 12, 2026) Game Recap",
+              "url": "https://www.espn.com/nhl/recap/_/gameId/401891808"
+            },
+            {
+              "title": "Svechnikov and Jankowski each score twice, Carolina beats Kraken 5-1 to sweep series in Finland",
+              "url": "https://www.ncnewsonline.com/sports/national_sports/svechnikov-and-jankowski-each-score-twice-carolina-beats-kraken-5-1-to-sweep-series-in/article_d186703f-948a-5998-87bb-ae50f025dfa2.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "jlo",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Jennifer Lopez, 57, Goes Pantsless in a Sheer Green Bodysuit and a Plunging Nude Bralette",
+              "url": "https://www.instyle.com/jennifer-lopez-steps-out-sheer-pantsless-look-transparent-bodysuit-12261540"
+            },
+            {
+              "title": "Jennifer Lopez stuns in glamorous lace gown amid NYC outing",
+              "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jennifer-lopez-stuns-glamorous-lace-043201661.html"
+            },
+            {
+              "title": "Jennifer Lopez Wears Daringly Sheer Look as She Goes Completely Pantsless for New Interview",
+              "url": "https://people.com/jennifer-lopez-goes-pantsless-in-sheer-bodysuit-12262580"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "OOTD",
+          "interest_avg": 19,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 17,
+          "interest_max": 63,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 15,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 9,
+          "interest_max": 40,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 7
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 8
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 7,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "sri lanka vs pakistan",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Pakistan close on victory as Sri Lanka reach 167-5 at lunch",
+              "url": "https://www.afp.com/en/pakistan-close-victory-sri-lanka-reach-167-5-lunch"
+            },
+            {
+              "title": "Milan Rathnayaka fights but Pakistan in control",
+              "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-2nd-test-1550712/match-report-3"
+            },
+            {
+              "title": "Recent Match Report - Pakistan vs Sri Lanka, Sri Lanka tour of Pakistan, 2nd Test | ESPN.com",
+              "url": "https://www.espn.com/cricket/series/19430/report/1550712/day/3/pakistan-vs-sri-lanka-2nd-test-19430"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "マルク・マルケス",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "プレスカンファレンス～「重要なのは締め括ること」",
+              "url": "https://www.motogp.com/ja/news/2026/11/19/media-day-dispatch-motogp-match-point-2-incoming-at-portimao/1186058"
+            },
+            {
+              "title": "【MotoGP】スプリントレースはいかにマルケス10度目王座への道を開いたか？ 数字で見る2026年タイトル争いのカギ",
+              "url": "https://news.yahoo.co.jp/articles/7235b8e94251932e57ebbf59e19989d59103ae2b"
+            },
+            {
+              "title": "2026年MotoGP第21戦ポルトガルGP TV放送＆タイムスケジュール",
+              "url": "https://www.as-web.jp/bike/1375094"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "則本昂大",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "巨人・則本昂大が移籍後初の契約更改 現状維持の年俸4億3000万円でサイン「悔しさをぶつけたい」（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/a6651186025173f071fb3c8970ced72a730d0050"
+            },
+            {
+              "title": "巨人・則本が現状維持でサイン「今年の成績に対しては、僕自身も物足りなさや情けなさ」 来季が3年契約の2年目",
+              "url": "https://article.auone.jp/a75d8b7e-bd40-4029-a0aa-3c97ae8af474"
+            },
+            {
+              "title": "【巨人】則本昂大、現状維持でサイン「先発でも中継ぎでも」加入２年目の来季へ",
+              "url": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202611200000947-0.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "航空自衛隊 芦屋基地",
+          "traffic": "200+",
+          "related_news": []
+        },
+        {
+          "rank": 5,
+          "keyword": "六花 亭 不正 アクセス",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "紀藤正樹氏 六花亭のクレカ情報流出に「あまりにまずい…顧客に直接電話して注意喚起すべき事案がついに」",
+              "url": "https://news.yahoo.co.jp/articles/ab5c602f11db7a767cd52b92acea4e09d6d80c15"
+            },
+            {
+              "title": "六花亭、カード情報8000件流出の恐れ セキュリティーコードなど",
+              "url": "https://www.nikkei.com/article/DGXZQOFC192YG0Z11C26A1000000/"
+            },
+            {
+              "title": "「六花亭オンラインショップ」不正アクセス被害、セキュリティコードなど利用者のクレカ情報8000件流出か「身に覚えのない請求がないか確認を」六花亭が注意呼びかけ",
+              "url": "https://newsdig.tbs.co.jp/articles/-/3099056"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "植田海",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "阪神 植田は現状維持２５００万円 今月上旬に手術 「しびれがひどくて日常生活に支障があった」すでにジョグ再開",
+              "url": "https://news.yahoo.co.jp/articles/adbcf560c4e892f2fe33b276a5c1ba5b6e540ea3"
+            },
+            {
+              "title": "【阪神】植田海が現状維持の2500万円で更改「良いところで走ってくれたと」",
+              "url": "https://www.nikkansports.com/baseball/news/202611200000584.html"
+            },
+            {
+              "title": "【阪神】植田海が現状維持２５００万円でサイン「日常生活にも支障が出るぐらい」手術を経て来季２年契約２年目「体は楽になった」「キャンプは大丈夫」",
+              "url": "https://article.auone.jp/63a33b66-f917-42d5-813d-3164e53d1793"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "なにわ男子",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "なにわ男子・道枝駿佑、ロン毛＆黒髪でドラマ撮影へ…“王子様キャラ”のオーラ消し気づく人はわずか（SmartFLASH）",
+              "url": "https://news.yahoo.co.jp/articles/57412ff37e4cf414b165c3a9363399ddfa5c316e"
+            },
+            {
+              "title": "「神すぎませんか」道枝駿佑、映画『うるわしの宵の月』待望のオフショット大量公開にファン歓喜」「イケメンすぎてさすがに辛い」",
+              "url": "https://topics.smt.docomo.ne.jp/amp/article/dailynewsonline/entertainment/dailynewsonline-3125219"
+            },
+            {
+              "title": "なにわ男子・道枝駿佑が「最後の砦」と呼ばれる理由。相次ぐ逆風でもノースキャンダル貫くプロ根性",
+              "url": "https://joshi-spa.jp/1437723/3"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "横浜市長公舎",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "横浜・原澤新市長が家賃42万円の新居 税金で9割負担 初期費用168万円も（テレビ朝日系（ANN））",
+              "url": "https://news.yahoo.co.jp/articles/c65c0f80745a9478f5c3c245ff4601c7a147ebff"
+            },
+            {
+              "title": "横浜市の原沢市長、公舎入居せず別の住宅に 市が修繕調査のため提案、月37万円負担",
+              "url": "https://www.sankei.com/article/20261120-UZY5QWRYE5LLPCBRXTXCNUEVZA/"
+            },
+            {
+              "title": "横浜市長公舎、老朽化で廃止へ 築１００年、政令市で唯一",
+              "url": "https://www.okinawatimes.co.jp/articles/-/1970883"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "netflix",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Guarding Stars review – Leighton Meester is a delight in fizzy Netflix holiday romance",
+              "url": "https://www.theguardian.com/film/2026/nov/18/guarding-stars-review-netflix-leighton-meester"
+            },
+            {
+              "title": "Jared Padalecki Is Right Where He Never Expected to Be",
+              "url": "https://collider.com/jared-padalecki-netflix-guarding-stars-supernatural-gilmore-girls/"
+            },
+            {
+              "title": "Netflix’s New #1 Movie Is Everything a Cheesy Holiday Movie Should Be",
+              "url": "https://www.purewow.com/entertainment/netflix-guarding-stars"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "岸辺駅",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "JR京都線で人身事故 一部運転見合わせ（レスキューナウニュース）",
+              "url": "https://news.yahoo.co.jp/articles/67204262163632fc84a9a2131eb16e3b2ae53537"
+            },
+            {
+              "title": "【運転見合わせ】JR京都線の京都～吹田駅間 岸辺駅で人身事故",
+              "url": "https://newsdig.tbs.co.jp/articles/-/3100883"
+            },
+            {
+              "title": "【速報】JR京都線・琵琶湖線（京都・米原方面）の列車に遅れ 車両の確認をした影響で | 関西のニュース | ニュース",
+              "url": "https://www.ktv.jp/news/articles/?id=31083"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 41,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 37,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 27,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 20,
+          "interest_max": 63,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 14,
+          "interest_max": 54,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 11,
+          "interest_max": 42,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 3,
+          "interest_max": 71,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 30,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 14,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "ストリート系",
+          "query": "ストリート 系 髪型 女子",
+          "value": "150"
+        },
+        {
+          "parent_keyword": "ストリート系",
+          "query": "ストリート 系 ブランド 一覧",
+          "value": "140"
+        },
+        {
+          "parent_keyword": "ストリート系",
+          "query": "ストリート 系 ファッション ブランド",
+          "value": "80"
+        },
+        {
+          "parent_keyword": "ストリート系",
+          "query": "ストリート 系 ファッション メンズ",
+          "value": "50"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-11-20T06:05:46.030700+00:00"
+}

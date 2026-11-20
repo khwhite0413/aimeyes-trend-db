@@ -1,27 +1,27 @@
 {
-  "run_date": "2026-08-21",
-  "run_timestamp": "2026-08-21T14:40:30.534879+00:00",
-  "mode": "fashion",
+  "run_date": "2026-11-20",
+  "run_timestamp": "2026-11-20T06:08:11.080828+00:00",
+  "mode": "general",
   "results": {
     "youtube": {
       "status": "success",
-      "items": 105
+      "items": 104
     },
     "google_trends": {
       "status": "success",
-      "items": 110
+      "items": 64
     },
     "x_twitter": {
       "status": "success",
-      "items": 273
+      "items": 250
     },
     "naver": {
       "status": "success",
-      "items": 24
+      "items": 12
     },
     "pinterest": {
       "status": "success",
-      "items": 36
+      "items": 21
     }
   }
 }
