@@ -2,11 +2,22 @@
   "date": "2026-11-21",
   "mode": "fashion",
   "compared_to": "2026-11-20",
-  "total_keywords_today": 475,
+  "total_keywords_today": 465,
   "total_keywords_yesterday": 471,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
+    {
+      "keyword": "lookbook",
+      "change": "+12%",
+      "today_count": 9,
+      "yesterday_count": 8,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 9건, 어제 8건 기준"
+    },
     {
       "keyword": "여성패딩",
       "change": "+14%",
@@ -17,17 +28,6 @@
         "naver"
       ],
       "sample_note": "오늘 8건, 어제 7건 기준"
-    },
-    {
-      "keyword": "겨울",
-      "change": "+17%",
-      "today_count": 7,
-      "yesterday_count": 6,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
       "keyword": "코트",
@@ -43,25 +43,25 @@
     },
     {
       "keyword": "ootd",
-      "change": "+20%",
-      "today_count": 6,
+      "change": "+40%",
+      "today_count": 7,
       "yesterday_count": 5,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
+      "sample_note": "오늘 7건, 어제 5건 기준"
     },
     {
-      "keyword": "look",
-      "change": "+67%",
-      "today_count": 5,
-      "yesterday_count": 3,
+      "keyword": "#ootd",
+      "change": "+50%",
+      "today_count": 6,
+      "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 3건 기준"
+      "sample_note": "오늘 6건, 어제 4건 기준"
     },
     {
       "keyword": "코디",
@@ -75,29 +75,40 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
-      "keyword": "#ootd",
-      "change": "+25%",
-      "today_count": 5,
-      "yesterday_count": 4,
-      "confidence": "medium",
+      "keyword": "look",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 5건, 어제 4건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
       "keyword": "패션",
-      "change": "+100%",
-      "today_count": 4,
+      "change": "+50%",
+      "today_count": 3,
       "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 2건 기준"
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "vs",
+      "keyword": "street",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "2026年冬",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -120,17 +131,6 @@
     },
     {
       "keyword": "outfitinspo",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#haul",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -245,16 +245,23 @@
       "confidence": "high"
     },
     {
-      "keyword": "#shorts",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
+      "keyword": "winter",
+      "change": "-12%",
+      "today_count": 7,
+      "yesterday_count": 8,
       "confidence": "medium"
     },
     {
+      "keyword": "#shorts",
+      "change": "-33%",
+      "today_count": 4,
+      "yesterday_count": 6,
+      "confidence": "low"
+    },
+    {
       "keyword": "데일리룩",
-      "change": "-40%",
-      "today_count": 3,
+      "change": "-60%",
+      "today_count": 2,
       "yesterday_count": 5,
       "confidence": "low"
     },
@@ -262,13 +269,6 @@
       "keyword": "outfits",
       "change": "-60%",
       "today_count": 2,
-      "yesterday_count": 5,
-      "confidence": "low"
-    },
-    {
-      "keyword": "amp",
-      "change": "-20%",
-      "today_count": 4,
       "yesterday_count": 5,
       "confidence": "low"
     },
@@ -287,14 +287,14 @@
       "confidence": "low"
     },
     {
-      "keyword": "italy",
-      "change": "-50%",
-      "today_count": 2,
+      "keyword": "겨울코디",
+      "change": "-25%",
+      "today_count": 3,
       "yesterday_count": 4,
       "confidence": "low"
     },
     {
-      "keyword": "milan",
+      "keyword": "italy",
       "change": "-50%",
       "today_count": 2,
       "yesterday_count": 4,
