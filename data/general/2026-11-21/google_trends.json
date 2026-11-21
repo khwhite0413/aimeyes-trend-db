@@ -1,0 +1,740 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "피겨스케이팅",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "피겨 김서영, 개인 최고점으로 시니어 그랑프리 5차 쇼트 3위",
+              "url": "https://imnews.imbc.com/news/2026/sports/article/6867446_36946.html"
+            },
+            {
+              "title": "피겨 김서영, 5차 그랑프리 쇼트 3위…김유성·이해인도 메달 도전",
+              "url": "https://www.donga.com/news/Sports/article/all/20261121/135064584/1"
+            },
+            {
+              "title": "피겨 김서영, 시니어 그랑프리 5차 쇼트 3위…개인 최고점",
+              "url": "https://www.yna.co.kr/view/AKR20261121000500007"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "의성군",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "지방소멸 위기 의성, 경북 첫 청년친화도시 됐다",
+              "url": "https://www.yna.co.kr/view/AKR20261120042100053"
+            },
+            {
+              "title": "의성군, 국무조정실 주관 '2026년 청년친화도시' 선정…도내 최초 - 머니투데이",
+              "url": "https://www.mt.co.kr/policy/2026/11/20/2026112009040476615"
+            },
+            {
+              "title": "춘천 ‘청년 친화도시’ 지정…“실험하는 도시 조성!”",
+              "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716915"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "전북 대 fc 서울",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "\"두 개 다 잡을 수는 없지만, 승점 3점이 목표\" 김기동 감독, 아시아 무대에 무게...우승 확정한 서울의 남은 시즌 운영 계획 [현장 인터뷰] - 머니투데이",
+              "url": "https://www.mt.co.kr/sports/2026/11/21/202611211305774612O"
+            },
+            {
+              "title": "아시아 무대 절실한 전북 vs 챔피언 체면 걸린 서울...선발 라인업 공개 [오!쎈 전주]",
+              "url": "https://www.chosun.com/sports/football/2026/11/21/HA4GINRWGM4WKOBSGM3GCZTGHA/"
+            },
+            {
+              "title": "'전주성에서 우승팀 잡는다' 전북 현대, FC서울 상대로 반격 준비...ACL 진출권 향한 중요한 승부 [오!쎈 프리뷰]",
+              "url": "https://www.osen.co.kr/article/G1112912557"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "휴대 전화",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "이 대통령 \"국가시험 전면 개편\"‥범정부 TF",
+              "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867425_37012.html"
+            },
+            {
+              "title": "수험생연대 “정부 수능 대책, 실효성 없고 혼란 초래”···교육부 장관 사퇴 촉구",
+              "url": "https://www.khan.co.kr/article/202611211414001"
+            },
+            {
+              "title": "이번 주말부터 주요 대학들 논술 실시... ‘AI 부정행위’ 대응 총력",
+              "url": "https://www.chosun.com/national/education/2026/11/21/C76MBS6ZWZBNZB4LM6C6SK7KNY/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "보이저 1호",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "[그래픽] 보이저 1호 '1광일' 거리 통과",
+              "url": "https://www.yna.co.kr/view/GYH20261117000600044"
+            },
+            {
+              "title": "우주 심연에서 날아온 ’생존 신호’…보이저 1호 ’1광일 전파’ 수신",
+              "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120140419XEz"
+            },
+            {
+              "title": "광속 1일 거리…보이저 1호가 ‘픽’한 태양계 사진첩 [놀라운 우주]",
+              "url": "https://www.hani.co.kr/arti/science/science_general/1288424.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "양산신문",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "탈선",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "[속보] 일반열차 중단된 천안-대전에 임시열차 15대 투입",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6867466_36918.html"
+            },
+            {
+              "title": "[자막뉴스] 화물열차 탈선에 천안~대전 일반열차 'STOP'…임시열차 15대 긴급 투입",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856927"
+            },
+            {
+              "title": "논술·면접 시험 봐야하는데…수험생 경부선 탈선에 어쩌나 ‘발동동’",
+              "url": "https://www.hani.co.kr/arti/society/society_general/1288427.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "맥도날드",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "존박이 랩으로 주문한 그 버거 어디 갔지?…맥도날드 ‘빅아치’ 사라진 이유",
+              "url": "https://m.ddaily.co.kr/page/view/2026112015561438469"
+            },
+            {
+              "title": "맥플러리 랩 터진 존박·곽진언…비프리도 알아본 ‘커플 부츠’[누구템]",
+              "url": "https://www.edaily.co.kr/News/Read?newsId=01764646645648016&mediaCodeNo=257"
+            },
+            {
+              "title": "Everything K-POP and More! - 위버스 매거진",
+              "url": "https://magazine.weverse.io/article/view/2026"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "전현무",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "'공개 연애 두 번' 전현무 \"밤바다 데이트…배가 끊겼다 하기도\"",
+              "url": "https://www.newsis.com/view/NISX20261120_0003877494"
+            },
+            {
+              "title": "이주연 \"매니저가 화장실까지 쫓아와\"...'이것' 감시 폭로 - 머니투데이",
+              "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112014004899150"
+            },
+            {
+              "title": "오렌지캬라멜 리지, '음주운전' 5년 지났지만 방송서 통편집",
+              "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/GQ4DMOJXMVTGCNJUG42GKM3DMM/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "빅터 레이예스",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "롯데 초비상! 211안타 괴물 타자 레이예스, 일본에 빼앗기나...NPB 이적 가능성 제기",
+              "url": "https://www.chosun.com/sports/baseball/2026/11/21/MU3DGNRTMMYGIZBRGBRTKMJYGM/"
+            },
+            {
+              "title": "퍼즐 맞춘 키움·스텝 꼬인 한화… 외인시장 ‘요동’",
+              "url": "https://www.segye.com/newsView/20261119515089"
+            },
+            {
+              "title": "레이예스 잡고 투수는 고민…난제 된 롯데 외인 퍼즐",
+              "url": "https://mobile.busan.com/view/busan/view.php?code=2026111914480405218"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "자기계발",
+          "interest_avg": 1,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "general hospital",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Why Sonny May Not Be Behind the Pier Shooting on GH",
+              "url": "https://www.yahoo.com/entertainment/tv/articles/why-sonny-may-not-behind-191555543.html"
+            },
+            {
+              "title": "General Hospital Recap: Everyone’s Coming for Sonny and Jude’s Secret Accomplice is Revealed!",
+              "url": "https://www.soapoperadigest.com/content/general-hospital-recap-everyones-coming-for-sonny-and-judes-secret-accomplice-is-revealed/"
+            },
+            {
+              "title": "General Hospital recap: Bullets Fly at The Piers!",
+              "url": "https://daytimeconfidential.com/2026/11/19/perkies-observations-bullets-fly-at-the-piers-on-general-hospital"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "where is the strip club in gta6",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "How to find strip clubs in GTA 6: all locations, is there sex and nudity, and how to get a private dance",
+              "url": "https://escorenews.com/en/article/82818-how-to-find-strip-clubs-in-gta-6-all-locations-is-there-sex-and-nudity-and-how-to-get-a-private-dance"
+            },
+            {
+              "title": "The Heel of GTA 6: what it is and why it has become one of the most sought-after places in the video game",
+              "url": "https://www.elconstitucional.es/en/ecm/find/the-heel-of-gta-6-what-it-is-and-why-it-has-become-one-of-the-most-sought-after-places-in-the-video-game_10403_102.html"
+            },
+            {
+              "title": "GTA 6 Features Three Strip Clubs Across Vice City and Leonida",
+              "url": "https://bsinews.id/en/gta-six-strip-clubs-locations"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "ziaire williams",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Fantasy adds, NBA bets to make for Friday: Jazz keep red-hot Bamba in lineup",
+              "url": "https://www.espn.com/fantasy/basketball/story/_/id/50541974/fantasy-basketball-tips-nba-betting-picks-today"
+            },
+            {
+              "title": "NBA Matchups: November 20",
+              "url": "https://establishtherun.com/nba-matchups-november-20-3/"
+            },
+            {
+              "title": "NBA Predictions and Moneyline Picks Today: Friday, Nov. 20",
+              "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-20-2026"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "aaron gordon",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Renck: Nuggets can’t win like Broncos with their defense. Aaron Gordon needs to start scoring.",
+              "url": "https://www.denverpost.com/2026/11/19/nuggets-celtics-defense-gordon-jokic/"
+            },
+            {
+              "title": "What's wrong with Aaron Gordon?",
+              "url": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd/eYWBwYv00OpM/"
+            },
+            {
+              "title": "Aaron Gordon's Shooting Slump Challenges Denver Nuggets",
+              "url": "https://demokratis.co.id/en/aaron-gordon-shooting-slump"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "cameron johnson",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Nuggets' Cameron Johnson: Quiet in victory",
+              "url": "https://www.cbssports.com/fantasy/basketball/news/nuggets-cameron-johnson-quiet-in-victory/"
+            },
+            {
+              "title": "Cameron Johnson rocks the rim with powerful flush",
+              "url": "https://www.espn.com/video/clip/_/id/50493940/cameron-johnson-rocks-rim-powerful-flush"
+            },
+            {
+              "title": "Cameron Johnson News: Quiet in victory",
+              "url": "https://www.rotowire.com/basketball/headlines/cameron-johnson-news-quiet-in-victory-539998"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "biggest black friday deals",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "We shopped 147 early Black Friday sales to find the 98 best deals worth shopping now",
+              "url": "https://www.cnn.com/cnn-underscored/deals/best-black-friday-deals-2026-11-20"
+            },
+            {
+              "title": "Early Black Friday deals live now: Ugg, Michael Kors, Hoka, Dyson, Ring and more are on major sale for the 2026 holiday event",
+              "url": "https://shopping.yahoo.com/deals/breaking-news/article/early-black-friday-deals-live-now-ugg-michael-kors-hoka-dyson-ring-and-more-are-on-major-sale-for-the-2026-holiday-event-150406596.html"
+            },
+            {
+              "title": "Black Friday Holiday Deals, Approved by Executive Editor Adrianna Brach",
+              "url": "https://www.today.com/shop/gift-sales-adrianna-brach-rcna610463"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "kevin durant",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Exclusive | Kevin Durant Lists U-Shaped Arizona House for $13.9 Million",
+              "url": "https://www.wsj.com/real-estate/luxury-homes/kevin-durant-paradise-valley-arizona-home-0053e726"
+            },
+            {
+              "title": "Kevin Durant’s Arizona House in Photos",
+              "url": "https://robbreport.com/shelter/celebrity-homes/gallery/kevin-durant-house-in-photos-1238846785/"
+            },
+            {
+              "title": "NBA star Kevin Durant lists Paradise Valley estate for $13.9M after agent swap",
+              "url": "https://www.bizjournals.com/phoenix/news/2026/11/19/kevin-durant-lists-u-shaped-paradise-valley-estate.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "darius acuff jr.",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Darius Acuff with 18 and 12 assists in loss",
+              "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-21/darius-acuff-with-18-and-12-assists-in-loss"
+            },
+            {
+              "title": "Darius Acuff is showing flashes of NBA stardom, but he has one massive problem",
+              "url": "https://www.sbnation.com/nba/1136952/darius-acuff-rookie-scouting-report-stats-good-bad-breakdown"
+            },
+            {
+              "title": "Damian Lillard respects Darius Acuff Jr.’s mentality. He also knows the test ahead",
+              "url": "https://www.nytimes.com/athletic/7790682/2026/11/18/darius-acuff-damian-lillard-winning-kings/"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "fred vanvleet",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Fred VanVleet's 'fresh slate' is driving Houston's early season success",
+              "url": "https://www.espn.com/nba/story/_/id/50524821/nba-houston-rockets-fred-vanvleet-injury-comeback"
+            },
+            {
+              "title": "How a season without their ‘admiral’ showed the Rockets what they were missing",
+              "url": "https://www.espnlacrosse.com/2026/11/20/how-a-season-without-their-admiral-showed-the-rockets-what-they-were-missing/"
+            },
+            {
+              "title": "Michael C. Wright: Fred VanVleet brings 'sense of calm' to Rockets",
+              "url": "https://www.espn.com/video/clip/_/id/50543371/fred-vanvleet-brings-sense-calm-rockets"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "gilberto mora",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Ajax and Dortmund in with a chance of signing Mexican sensation Mora",
+              "url": "https://www.flashscore.com/news/flashscore-sources-mora-could-shun-giants-for-ajax-or-dortmund-as-january-transfer-looms/jV4tD2bm/"
+            },
+            {
+              "title": "Xolos seek to keep Gilberto Mora six more months despite European interest",
+              "url": "https://onefootball.com/en/news/xolos-seek-to-keep-gilberto-mora-six-more-months-despite-european-interest-43803493"
+            },
+            {
+              "title": "Sebastián Abreu Applauds Gilberto Mora’s Rise and International Ambitions with Xolos",
+              "url": "https://www.soyfutbol.com/en/leagues/sebastian-abreu-applauds-gilberto-moras-rise-and-international-ambitions-with-xolos-20261120-0034.html"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "木村 拓哉",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "33万円でも完売》木村拓哉『HERO』から25年” 愛用ダウン”発売延期にファンの嘆き（女性セブンプラス",
+              "url": "https://news.yahoo.co.jp/articles/044840c19a2c4ee649a069668993a4d126d59b3d"
+            },
+            {
+              "title": "《33万円でも完売》木村拓哉『HERO』から25年” 愛用ダウン”発売延期にファンの嘆き",
+              "url": "https://topics.smt.docomo.ne.jp/article/j7p/entertainment/j7p-186338?page=2"
+            },
+            {
+              "title": "《33万円でも完売》木村拓哉『HERO』から25年” 愛用ダウン”発売延期にファンの嘆き (1/2)",
+              "url": "https://j7p.jp/186338?IMAGE=2&PAGE&utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=imagepage_link"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "東京ヴェルディ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【11/21更新】スタジアムグルメ情報",
+              "url": "https://www.verdy.co.jp/page/3173"
+            },
+            {
+              "title": "AWAY 東京ヴェルディ戦限定！「旅するグランパスくん」グッズのお知らせ",
+              "url": "https://nagoya-grampus.jp/news/2026/1119away-13.php"
+            },
+            {
+              "title": "【11/20更新】グッズ情報",
+              "url": "https://www.verdy.co.jp/page/3176"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "埼玉西武ライオンズ",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "西武球団寮、お風呂の場所に衝撃 入寮初日に思った「早く寮を出たい」",
+              "url": "https://sports.yahoo.co.jp/column/detail/2026110100003-spnavi"
+            },
+            {
+              "title": "11/28(土)『LIONS THANKS FESTA 2026 supported by Olive 後夜祭 in 西武園ゆうえんち』を初開催！西武園ゆうえんちで最後まで盛り上がりましょう！",
+              "url": "https://www.seibulions.jp/news/detail/202602113605.html"
+            },
+            {
+              "title": "【西武】ファンフェスタ後夜祭の開催を発表 辻発彦元監督や金子侑司氏ら球団OB4人がトークショー",
+              "url": "https://news.ntv.co.jp/category/sports/6f11def372a6436985a041939454c8d1"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "三井ショッピングパーク",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "「三井ショッピングパークアプリ」で情報漏洩、サービス緊急停止 件数調査中",
+              "url": "https://news.yahoo.co.jp/articles/42abf3dd8205166918a76250fd4f0a8e5c498530"
+            },
+            {
+              "title": "三井ショッピングパークアプリに不正アクセス、ポイント会員の個人情報の一部漏えい…アプリ提供停止",
+              "url": "https://www.yomiuri.co.jp/economy/20261119-GYT1T00326/"
+            },
+            {
+              "title": "「三井ショッピングパークアプリ」で情報漏洩、サービス緊急停止 件数調査中",
+              "url": "https://article.auone.jp/a03de358-dded-424f-bea5-d97f20090c8b"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "福井 雪",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "三連休スタートは北日本の山沿いで積雪急増 落雷や突風にも注意を",
+              "url": "https://weathernews.jp/news/202611/210111/"
+            },
+            {
+              "title": "石川県内冬型の気圧配置で寒さ続く 夕方にかけて高波に警戒（テレビ金沢）",
+              "url": "https://news.yahoo.co.jp/articles/8372930ea718776f07f59b1d8dcc7c7bf6c3bf43"
+            },
+            {
+              "title": "事故で立ち往生“雪被害”相次ぐ 台風並みの暴風も…“初寒波”襲来 3連休にも影響",
+              "url": "https://news.tv-asahi.co.jp/news_society/articles/900204841.html"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "純烈 酒井",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "〈11/22はいい夫婦の日〉純烈リーダー・酒井「妻の力は計り知れない」 子どもたちに苦労を見せず「演じ切ってくれました」",
+              "url": "https://dot.asahi.com/aerakids/articles/-/298144"
+            },
+            {
+              "title": "純烈・酒井一圭、寿命60歳宣告から19キロ減量…51歳で体を変えた恩人の後押し",
+              "url": "https://chanto.jp.net/articles/-/1009505?display=b"
+            },
+            {
+              "title": "「自閉症の弟を頼む」亡き父の遺言…接し方に戸惑い「ヒーローになれなかった」純烈・酒井が「引き継いだもの」（CHANTO WEB）",
+              "url": "https://news.yahoo.co.jp/articles/7bccf561e5c34759f3d407eec998f47211cc644c?page=2"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "デーブ・スペクター",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "デーブ・スペクター「失礼すぎる」紅白めぐり使用止めるべき“２文字”を指摘（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/c7c11b1c1611388c4018582195128a4c1c9c8464"
+            },
+            {
+              "title": "徳光和夫、紅白出場歌手にチクリ「意味不明の名前の方もいらっしゃいます」　",
+              "url": "https://www.sanspo.com/article/20261114-WTTDZYGOYJDEFJQCRRH4V3UXX4/"
+            },
+            {
+              "title": "デーブ・スペクター氏、紅白の「落選」表現に苦言「失礼すぎる」1.3万超いいね！の反響",
+              "url": "https://topics.smt.docomo.ne.jp/article/ggtnews/entertainment/ggtnews-3ST3k"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "ツエーゲン金沢",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "【写真】J3鹿児島ユナイテッド、6戦ぶり白星なるか ２１日敵地で金沢戦",
+              "url": "https://373news.com/news/local/photo/243131/"
+            },
+            {
+              "title": "【11/21(土)鹿児島戦】ブース出店位置・タイムスケジュール",
+              "url": "https://www.zweigen-kanazawa.jp/news/?id=19419"
+            },
+            {
+              "title": "【11/21(土)鹿児島戦】App Bankスペシャルマッチ！",
+              "url": "https://prtimes.jp/main/html/rd/p/000001370.000045234.html"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "佐野 勇 斗",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "M!LK佐野勇斗「つい先程…」 “報告”に祝福の声続々「おめでとう」「本当にすごい」（オリコン）",
+              "url": "https://news.yahoo.co.jp/articles/402836aedd8c74ac1c4a28b3542699331b39b156"
+            },
+            {
+              "title": "M！LK佐野勇斗　MV再生回数1億回突破に“爆裂感謝”もファンからツッコミ続出「本当にごめんなさい」",
+              "url": "https://topics.smt.docomo.ne.jp/article/sponichi/entertainment/sponichi-spngoo-20261121-0177"
+            },
+            {
+              "title": "M!LK・佐野勇斗 （C）ORICON NewS inc.",
+              "url": "https://www.sankei.com/article/20261121-B7SXKIPIOVINRKJKC3FFA26LUU/photo/2ZZJVZGLR5POXMPWQ2BJEWYJWI/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "sixtones 日産スタジアム",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "SMAP、SUPER EIGHT、Snow Man、SixTONES……選ばれし者だけが立てる場所、日産スタジアムに刻まれた4つの物語",
+              "url": "https://news.yahoo.co.jp/articles/e460db52cc7bbec8281c38ac46e78dc130386622"
+            },
+            {
+              "title": "＜新横浜線などが混雑＞11月21日（土）・22日（日）夜は日産スタジアムでライブ",
+              "url": "https://shin-yoko.net/2026/11/18/nissan_stadium2026-8/"
+            },
+            {
+              "title": "SMAP、SUPER EIGHT、Snow Man、SixTONES……選ばれし者だけが立てる場所、日産スタジアムに刻まれた4つの物語",
+              "url": "https://news.livedoor.com/topics/detail/32851694/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-11-21T06:00:27.417016+00:00"
+}
