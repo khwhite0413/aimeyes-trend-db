@@ -1,39 +1,47 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-11-15",
-    "to": "2026-11-21"
+    "from": "2026-11-16",
+    "to": "2026-11-22"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "dance",
-      "growth": "+60%",
-      "total_mentions": 83
+      "growth": "+20%",
+      "total_mentions": 85
     },
     {
-      "keyword": "막스마라패딩",
-      "growth": "+9%",
-      "total_mentions": 82
-    },
-    {
-      "keyword": "에르노패딩",
-      "growth": "+9%",
-      "total_mentions": 82
+      "keyword": "#trending",
+      "growth": "+33%",
+      "total_mentions": 64
     },
     {
       "keyword": "무스탕",
-      "growth": "+80%",
-      "total_mentions": 52
+      "growth": "+67%",
+      "total_mentions": 57
     },
     {
       "keyword": "여성패딩",
       "growth": "+33%",
-      "total_mentions": 46
+      "total_mentions": 48
+    },
+    {
+      "keyword": "#dance",
+      "growth": "+25%",
+      "total_mentions": 41
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "휴머노이드",
+      "platforms": [
+        "google_trends",
+        "youtube"
+      ],
+      "count": 2
+    },
     {
       "keyword": "weather",
       "platforms": [
@@ -45,21 +53,21 @@
   ],
   "naver_shopping_hot": [
     "경량패딩",
-    "후리스",
-    "패딩조끼",
+    "에르노패딩",
     "막스마라패딩",
-    "에르노패딩"
+    "후리스",
+    "패딩조끼"
   ],
   "top_keywords_overall": [
     "#shorts",
     "#viral",
     "dance",
     "경량패딩",
+    "에르노패딩",
+    "막스마라패딩",
     "후리스",
     "패딩조끼",
-    "trend",
-    "막스마라패딩",
-    "에르노패딩",
-    "몽클레어패딩"
+    "몽클레어패딩",
+    "trend"
   ]
 }
