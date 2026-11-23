@@ -1,80 +1,69 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "mode": "general",
-  "compared_to": "2026-11-21",
-  "total_keywords_today": 560,
-  "total_keywords_yesterday": 543,
-  "data_days_available": 91,
+  "compared_to": "2026-11-22",
+  "total_keywords_today": 558,
+  "total_keywords_yesterday": 560,
+  "data_days_available": 92,
   "overall_confidence": "high",
   "rising": [
     {
-      "keyword": "#viral",
-      "change": "+8%",
-      "today_count": 14,
-      "yesterday_count": 13,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 14건, 어제 13건 기준"
-    },
-    {
-      "keyword": "#trending",
-      "change": "+33%",
-      "today_count": 12,
-      "yesterday_count": 9,
-      "confidence": "medium",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 12건, 어제 9건 기준"
-    },
-    {
-      "keyword": "무스탕",
-      "change": "+11%",
-      "today_count": 10,
-      "yesterday_count": 9,
-      "confidence": "medium",
-      "platforms": [
-        "naver"
-      ],
-      "sample_note": "오늘 10건, 어제 9건 기준"
-    },
-    {
       "keyword": "trend",
+      "change": "+57%",
+      "today_count": 11,
+      "yesterday_count": 7,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 11건, 어제 7건 기준"
+    },
+    {
+      "keyword": "퍼자켓",
       "change": "+17%",
       "today_count": 7,
       "yesterday_count": 6,
       "confidence": "medium",
       "platforms": [
-        "youtube"
+        "naver"
       ],
       "sample_note": "오늘 7건, 어제 6건 기준"
     },
     {
-      "keyword": "퍼자켓",
-      "change": "+20%",
-      "today_count": 6,
-      "yesterday_count": 5,
-      "confidence": "medium",
-      "platforms": [
-        "naver"
-      ],
-      "sample_note": "오늘 6건, 어제 5건 기준"
-    },
-    {
-      "keyword": "버버리패딩",
+      "keyword": "#funny",
       "change": "+25%",
       "today_count": 5,
       "yesterday_count": 4,
       "confidence": "medium",
       "platforms": [
-        "naver"
+        "youtube"
       ],
       "sample_note": "오늘 5건, 어제 4건 기준"
     },
     {
-      "keyword": "recipe",
+      "keyword": "funny",
+      "change": "+25%",
+      "today_count": 5,
+      "yesterday_count": 4,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 5건, 어제 4건 기준"
+    },
+    {
+      "keyword": "#tiktok",
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 4건, 어제 3건 기준"
+    },
+    {
+      "keyword": "#trend",
       "change": "+100%",
       "today_count": 4,
       "yesterday_count": 2,
@@ -85,51 +74,29 @@
       "sample_note": "오늘 4건, 어제 2건 기준"
     },
     {
-      "keyword": "뉴발란스패딩",
+      "keyword": "#ytshorts",
       "change": "+33%",
       "today_count": 4,
       "yesterday_count": 3,
       "confidence": "low",
       "platforms": [
-        "naver"
+        "youtube"
       ],
       "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "마세요",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#ytshorts",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
       "keyword": "ytshorts",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
+      "change": "+33%",
+      "today_count": 4,
+      "yesterday_count": 3,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 4건, 어제 3건 기준"
     },
     {
-      "keyword": "#fyp",
+      "keyword": "makeup",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -140,18 +107,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "tips",
-      "change": "+50%",
-      "today_count": 3,
-      "yesterday_count": 2,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "#recipe",
+      "keyword": "#viralvideo",
       "change": "+200%",
       "today_count": 3,
       "yesterday_count": 1,
@@ -162,7 +118,7 @@
       "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
-      "keyword": "#話題",
+      "keyword": "#challenge",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -173,18 +129,62 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "fashion",
-      "change": "NEW",
-      "today_count": 2,
-      "yesterday_count": 0,
+      "keyword": "challenge",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 2건 (신규)"
+      "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "댄스",
+      "keyword": "#fun",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "today",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "fun",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "여성패딩바지",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "naver"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "#comedy",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -195,7 +195,7 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "ㅋㅋ",
+      "keyword": "comedy",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
@@ -206,24 +206,13 @@
       "sample_note": "오늘 2건, 어제 1건 기준"
     },
     {
-      "keyword": "quot",
-      "change": "NEW",
-      "today_count": 2,
-      "yesterday_count": 0,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 2건 (신규)"
-    },
-    {
-      "keyword": "만들기",
+      "keyword": "여자무스탕",
       "change": "+100%",
       "today_count": 2,
       "yesterday_count": 1,
       "confidence": "low",
       "platforms": [
-        "youtube"
+        "naver"
       ],
       "sample_note": "오늘 2건, 어제 1건 기준"
     }
@@ -231,71 +220,75 @@
   "declining": [
     {
       "keyword": "dance",
-      "change": "-19%",
-      "today_count": 13,
-      "yesterday_count": 16,
+      "change": "-8%",
+      "today_count": 12,
+      "yesterday_count": 13,
       "confidence": "high"
     },
     {
       "keyword": "#shorts",
-      "change": "-13%",
-      "today_count": 13,
-      "yesterday_count": 15,
+      "change": "-23%",
+      "today_count": 10,
+      "yesterday_count": 13,
       "confidence": "high"
     },
     {
       "keyword": "후리스",
-      "change": "-8%",
-      "today_count": 11,
-      "yesterday_count": 12,
+      "change": "-9%",
+      "today_count": 10,
+      "yesterday_count": 11,
       "confidence": "high"
     },
     {
-      "keyword": "패딩조끼",
-      "change": "-8%",
-      "today_count": 11,
-      "yesterday_count": 12,
-      "confidence": "high"
-    },
-    {
-      "keyword": "#dance",
-      "change": "-17%",
-      "today_count": 5,
-      "yesterday_count": 6,
+      "keyword": "몽클레어패딩",
+      "change": "-10%",
+      "today_count": 9,
+      "yesterday_count": 10,
       "confidence": "medium"
     },
     {
-      "keyword": "요즘",
-      "change": "-40%",
+      "keyword": "#lifehacks",
+      "change": "-25%",
       "today_count": 3,
-      "yesterday_count": 5,
+      "yesterday_count": 4,
+      "confidence": "low"
+    },
+    {
+      "keyword": "lifehacks",
+      "change": "-25%",
+      "today_count": 3,
+      "yesterday_count": 4,
       "confidence": "low"
     },
     {
       "keyword": "trends",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
       "confidence": "low"
     },
     {
-      "keyword": "diy",
-      "change": "-25%",
-      "today_count": 3,
-      "yesterday_count": 4,
+      "keyword": "mashup",
+      "change": "-67%",
+      "today_count": 1,
+      "yesterday_count": 3,
       "confidence": "low"
     },
     {
-      "keyword": "food",
+      "keyword": "hacks",
+      "change": "-33%",
+      "today_count": 2,
+      "yesterday_count": 3,
+      "confidence": "low"
+    },
+    {
+      "keyword": "tips",
       "change": "-33%",
       "today_count": 2,
       "yesterday_count": 3,
       "confidence": "low"
     }
   ],
-  "new_entries": [
-    "fashion",
-    "quot"
-  ],
+  "new_entries": [],
   "cross_platform_hot": []
 }
