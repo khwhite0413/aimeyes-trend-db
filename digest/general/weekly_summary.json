@@ -1,39 +1,48 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-11-17",
-    "to": "2026-11-23"
+    "from": "2026-11-18",
+    "to": "2026-11-24"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "dance",
-      "growth": "+9%",
-      "total_mentions": 88
-    },
-    {
-      "keyword": "경량패딩",
-      "growth": "+9%",
-      "total_mentions": 83
-    },
-    {
-      "keyword": "에르노패딩",
-      "growth": "+9%",
-      "total_mentions": 83
-    },
-    {
-      "keyword": "막스마라패딩",
-      "growth": "+9%",
-      "total_mentions": 83
-    },
-    {
       "keyword": "#trending",
-      "growth": "+50%",
-      "total_mentions": 67
+      "growth": "+33%",
+      "total_mentions": 71
+    },
+    {
+      "keyword": "무스탕",
+      "growth": "+25%",
+      "total_mentions": 65
+    },
+    {
+      "keyword": "여성패딩",
+      "growth": "+33%",
+      "total_mentions": 52
+    },
+    {
+      "keyword": "퍼자켓",
+      "growth": "+75%",
+      "total_mentions": 39
+    },
+    {
+      "keyword": "funny",
+      "growth": "+60%",
+      "total_mentions": 35
     }
   ],
-  "most_cross_platform": [],
+  "most_cross_platform": [
+    {
+      "keyword": "사이드카",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    }
+  ],
   "naver_shopping_hot": [
     "경량패딩",
     "에르노패딩",
@@ -42,8 +51,8 @@
     "후리스"
   ],
   "top_keywords_overall": [
-    "#shorts",
     "#viral",
+    "#shorts",
     "dance",
     "경량패딩",
     "에르노패딩",

@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-11-17",
-    "to": "2026-11-23"
+    "from": "2026-11-18",
+    "to": "2026-11-24"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "fashion",
-      "growth": "+56%",
-      "total_mentions": 135
-    },
-    {
-      "keyword": "에르노패딩",
-      "growth": "+9%",
-      "total_mentions": 83
-    },
-    {
-      "keyword": "막스마라패딩",
-      "growth": "+9%",
-      "total_mentions": 83
+      "growth": "+50%",
+      "total_mentions": 140
     },
     {
       "keyword": "#fashion",
-      "growth": "+78%",
-      "total_mentions": 76
+      "growth": "+114%",
+      "total_mentions": 82
     },
     {
       "keyword": "무스탕",
+      "growth": "+25%",
+      "total_mentions": 65
+    },
+    {
+      "keyword": "lookbook",
+      "growth": "+100%",
+      "total_mentions": 59
+    },
+    {
+      "keyword": "#데일리룩코디",
       "growth": "+67%",
-      "total_mentions": 61
+      "total_mentions": 57
     }
   ],
   "most_cross_platform": [
@@ -39,6 +39,14 @@
       "platforms": [
         "naver",
         "youtube"
+      ],
+      "count": 2
+    },
+    {
+      "keyword": "사이드카",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     },
@@ -63,9 +71,9 @@
     "경량패딩",
     "에르노패딩",
     "막스마라패딩",
+    "#fashion",
     "패딩조끼",
     "후리스",
-    "#fashion",
     "몽클레어패딩",
     "무스탕",
     "lookbook"
