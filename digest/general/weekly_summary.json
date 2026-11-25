@@ -8,6 +8,11 @@
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "#trending",
+      "growth": "+25%",
+      "total_mentions": 68
+    },
+    {
       "keyword": "무스탕",
       "growth": "+11%",
       "total_mentions": 67
@@ -23,26 +28,12 @@
       "total_mentions": 42
     },
     {
-      "keyword": "버버리패딩",
-      "growth": "+133%",
-      "total_mentions": 34
-    },
-    {
-      "keyword": "뉴발란스패딩",
-      "growth": "+150%",
-      "total_mentions": 26
+      "keyword": "funny",
+      "growth": "+50%",
+      "total_mentions": 39
     }
   ],
-  "most_cross_platform": [
-    {
-      "keyword": "핫트랙스",
-      "platforms": [
-        "google_trends",
-        "x_twitter"
-      ],
-      "count": 2
-    }
-  ],
+  "most_cross_platform": [],
   "naver_shopping_hot": [
     "경량패딩",
     "에르노패딩",
@@ -56,10 +47,10 @@
     "경량패딩",
     "에르노패딩",
     "막스마라패딩",
+    "dance",
     "패딩조끼",
     "후리스",
-    "몽클레어패딩",
-    "dance",
-    "무스탕"
+    "trend",
+    "#trending"
   ]
 }
