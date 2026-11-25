@@ -1,49 +1,49 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-11-18",
-    "to": "2026-11-24"
+    "from": "2026-11-19",
+    "to": "2026-11-25"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
-      "keyword": "fashion",
-      "growth": "+50%",
-      "total_mentions": 140
-    },
-    {
       "keyword": "#fashion",
-      "growth": "+114%",
-      "total_mentions": 82
-    },
-    {
-      "keyword": "무스탕",
-      "growth": "+25%",
-      "total_mentions": 65
+      "growth": "+88%",
+      "total_mentions": 90
     },
     {
       "keyword": "lookbook",
-      "growth": "+140%",
-      "total_mentions": 61
+      "growth": "+50%",
+      "total_mentions": 68
+    },
+    {
+      "keyword": "무스탕",
+      "growth": "+11%",
+      "total_mentions": 67
     },
     {
       "keyword": "#데일리룩코디",
-      "growth": "+50%",
-      "total_mentions": 56
+      "growth": "+100%",
+      "total_mentions": 60
+    },
+    {
+      "keyword": "데일리룩코디",
+      "growth": "+100%",
+      "total_mentions": 60
     }
   ],
   "most_cross_platform": [
     {
-      "keyword": "코트",
+      "keyword": "핫트랙스",
       "platforms": [
-        "naver",
-        "youtube"
+        "google_trends",
+        "x_twitter"
       ],
       "count": 2
     },
     {
-      "keyword": "경량패딩",
+      "keyword": "코트",
       "platforms": [
         "naver",
         "youtube"
@@ -53,21 +53,21 @@
   ],
   "naver_shopping_hot": [
     "경량패딩",
-    "막스마라패딩",
     "에르노패딩",
+    "막스마라패딩",
     "패딩조끼",
     "무스탕"
   ],
   "top_keywords_overall": [
     "fashion",
-    "경량패딩",
-    "막스마라패딩",
-    "에르노패딩",
     "#fashion",
+    "경량패딩",
+    "에르노패딩",
+    "막스마라패딩",
     "패딩조끼",
     "후리스",
+    "lookbook",
     "몽클레어패딩",
-    "무스탕",
-    "lookbook"
+    "무스탕"
   ]
 }

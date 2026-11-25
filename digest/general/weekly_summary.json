@@ -1,43 +1,52 @@
 {
   "mode": "general",
   "week_range": {
-    "from": "2026-11-18",
-    "to": "2026-11-24"
+    "from": "2026-11-19",
+    "to": "2026-11-25"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "무스탕",
-      "growth": "+25%",
-      "total_mentions": 65
+      "growth": "+11%",
+      "total_mentions": 67
     },
     {
       "keyword": "여성패딩",
-      "growth": "+33%",
-      "total_mentions": 52
+      "growth": "+14%",
+      "total_mentions": 54
     },
     {
       "keyword": "퍼자켓",
-      "growth": "+75%",
-      "total_mentions": 39
-    },
-    {
-      "keyword": "funny",
-      "growth": "+60%",
-      "total_mentions": 35
-    },
-    {
-      "keyword": "#funny",
       "growth": "+40%",
-      "total_mentions": 33
+      "total_mentions": 42
+    },
+    {
+      "keyword": "버버리패딩",
+      "growth": "+133%",
+      "total_mentions": 34
+    },
+    {
+      "keyword": "뉴발란스패딩",
+      "growth": "+150%",
+      "total_mentions": 26
     }
   ],
-  "most_cross_platform": [],
+  "most_cross_platform": [
+    {
+      "keyword": "핫트랙스",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    }
+  ],
   "naver_shopping_hot": [
     "경량패딩",
-    "막스마라패딩",
     "에르노패딩",
+    "막스마라패딩",
     "패딩조끼",
     "무스탕"
   ],
@@ -45,12 +54,12 @@
     "#shorts",
     "#viral",
     "경량패딩",
-    "막스마라패딩",
     "에르노패딩",
-    "dance",
+    "막스마라패딩",
     "패딩조끼",
     "후리스",
-    "trend",
-    "몽클레어패딩"
+    "몽클레어패딩",
+    "dance",
+    "무스탕"
   ]
 }
