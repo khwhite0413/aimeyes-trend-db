@@ -1,39 +1,47 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-11-19",
-    "to": "2026-11-25"
+    "from": "2026-11-20",
+    "to": "2026-11-26"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
       "keyword": "#fashion",
-      "growth": "+62%",
-      "total_mentions": 88
+      "growth": "+36%",
+      "total_mentions": 95
     },
     {
       "keyword": "lookbook",
-      "growth": "+50%",
-      "total_mentions": 68
+      "growth": "+38%",
+      "total_mentions": 71
     },
     {
       "keyword": "무스탕",
-      "growth": "+11%",
-      "total_mentions": 67
+      "growth": "+22%",
+      "total_mentions": 69
     },
     {
       "keyword": "#데일리룩코디",
-      "growth": "+80%",
-      "total_mentions": 59
+      "growth": "+14%",
+      "total_mentions": 62
     },
     {
       "keyword": "데일리룩코디",
-      "growth": "+80%",
-      "total_mentions": 59
+      "growth": "+14%",
+      "total_mentions": 62
     }
   ],
   "most_cross_platform": [
+    {
+      "keyword": "kbo 시상식",
+      "platforms": [
+        "google_trends",
+        "x_twitter"
+      ],
+      "count": 2
+    },
     {
       "keyword": "코트",
       "platforms": [
@@ -44,8 +52,8 @@
     }
   ],
   "naver_shopping_hot": [
-    "경량패딩",
     "에르노패딩",
+    "경량패딩",
     "막스마라패딩",
     "패딩조끼",
     "무스탕"
@@ -53,13 +61,13 @@
   "top_keywords_overall": [
     "fashion",
     "#fashion",
-    "경량패딩",
     "에르노패딩",
+    "경량패딩",
     "막스마라패딩",
     "패딩조끼",
     "후리스",
     "lookbook",
-    "몽클레어패딩",
-    "무스탕"
+    "무스탕",
+    "몽클레어패딩"
   ]
 }

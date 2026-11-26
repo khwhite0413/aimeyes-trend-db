@@ -1,0 +1,938 @@
+{
+  "platform": "google_trends",
+  "mode": "fashion",
+  "countries": {
+    "KR": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "백철승",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "현대차그룹, 위기 속 안정 선택...계열사 4곳 수장 교체",
+              "url": "https://zdnet.co.kr/view/?no=20261126105023"
+            },
+            {
+              "title": "현대차·기아 사장 유임…현대모비스 신임 대표에 백철승",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446649"
+            },
+            {
+              "title": "[오늘Who] 호세 무뇨스에 다시 기회 준 정의선, 현대차 내년 신차 부재 속 판매 반등할지 주목",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=453022"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "맥도날드",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "햄버거 먹으려 새벽부터 우르르…맥도날드에 300명 몰렸다 [권용훈의 트렌드워치]",
+              "url": "https://www.hankyung.com/article/202611250457i"
+            },
+            {
+              "title": "애슐리퀸즈, '그랜드 롯데몰 수지점' 개점…340여석으로 확장",
+              "url": "https://www.yna.co.kr/view/AKR20261124093200030"
+            },
+            {
+              "title": "이랜드이츠 애슐리퀸즈, 롯데몰 수지점 확장 리뉴얼",
+              "url": "https://www.lawissue.co.kr/view.php?ud=202611241826511402204ead0791_12"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "리트 냥이",
+          "traffic": "5000+",
+          "related_news": [
+            {
+              "title": "[속보]경찰, ‘리트 만점자’ 자택과 ‘수능 시험지 보관’ 고교 압수수색",
+              "url": "https://www.khan.co.kr/article/202611261111001"
+            },
+            {
+              "title": "[사건현장] 고 이진우 자취방 압수수색…핵심증거 확보할까?",
+              "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126151715igx"
+            },
+            {
+              "title": "경찰, '리트 만점자 부정 시험 의혹' 법전원협의회에 수사 협조 요청",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6868769_36918.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "남동공단 화재",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "[속보] 인천 고잔동 남동산단서 큰 불…소방당국 진화 중",
+              "url": "https://www.yonhapnewstv.co.kr/news/MYH202611261333259pw"
+            },
+            {
+              "title": "인천 남동공단 화재 진압 중...근무자 1명 연락 두절",
+              "url": "https://www.ytn.co.kr/_ln/0103_202611261542308593"
+            },
+            {
+              "title": "인천 남동공단 공장 화재 2시간만 초진··· 인명피해 확인 중",
+              "url": "https://www.incheontoday.com/news/articleView.html?idxno=326961"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "태안해양경찰서",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "담보금 30억원 미납한 중국어선 선장 등 2명 구속",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8723367"
+            },
+            {
+              "title": "경계선 2.8㎞ 안쪽서 까나리 8t···무허가 조업 중국어선 2척 나포",
+              "url": "https://www.khan.co.kr/article/202611261412001"
+            },
+            {
+              "title": "[경인어젠다] 외국어선 불법조업, 처벌 강화로 차단",
+              "url": "https://www.kyeongin.com/article/1775413"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "목동",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "목동4단지 2차 현설도 현대건설만 참석…수의계약 수순",
+              "url": "https://www.newsis.com/view/NISX20261126_0003884596"
+            },
+            {
+              "title": "'공사비 3조' 서울 목동아파트7단지 시공사 선정 돌입, 현장설명회 12월3일",
+              "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452888"
+            },
+            {
+              "title": "목동 '대장' 7단지, 시공사 선정 돌입 … 첫 경쟁입찰 성사되나",
+              "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550230.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "종합 부동산 세",
+          "traffic": "2000+",
+          "related_news": [
+            {
+              "title": "주택 종부세 대상자 72.6만명·18.7만명↑…공시가 상승 영향",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446802"
+            },
+            {
+              "title": "올해 주택분 종부세 73만명···1년 새 19만명 늘었다",
+              "url": "https://www.khan.co.kr/article/202611261600011"
+            },
+            {
+              "title": "집값 올랐다고 좋아했는데…종부세 대상자 18.8만명 늘었다 - 머니투데이",
+              "url": "https://www.mt.co.kr/economy/2026/11/26/2026112614020377979"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "보험",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "보험사 판매수수료 상한 강화…과다경쟁 막는다",
+              "url": "https://news.kbs.co.kr/news/view.do?ncd=8723331"
+            },
+            {
+              "title": "보험 판매수수료 과당경쟁 막는다…지급한도·공시 규제 강화",
+              "url": "https://www.yna.co.kr/view/AKR20261126093600002"
+            },
+            {
+              "title": "보험사 ‘수수료 돈잔치’ 제동…금융당국, 상한 더 조인다",
+              "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02765046645649656"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "2027학년도 대학수학능력시험",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
+              "url": "https://news.jtbc.co.kr/article/NB12329904"
+            },
+            {
+              "title": "[자막뉴스] 해마다 자랑하던 수능 만점 소식…올해는 학생도 학부모도 '쉬쉬'",
+              "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008864968&oaid=N1008849840&plink=ISSUE&cooper=SBSNEWSMOBEND"
+            },
+            {
+              "title": "수능 만점 최소 3명 나왔는데…“신원 공개 거부” 쉬쉬하는 이유",
+              "url": "https://www.joongang.co.kr/article/25482149"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "kbo 시상식",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "[속보] '2026 KBO 시상식' MVP KIA 김도영",
+              "url": "https://www.etoday.co.kr/news/view/2653422"
+            },
+            {
+              "title": "FA 시장 ‘뜨거운 감자’ 구자욱 “특수한 시기, 말·행동 모두 조심스러워”",
+              "url": "https://www.donga.com/news/Sports/article/all/20261126/135096466/1"
+            },
+            {
+              "title": "'45홈런' 김도영 vs '197탈삼진' 곽빈…정규시즌 MVP는 누구",
+              "url": "https://www.newsis.com/view/NISX20261125_0003883347"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "무신사",
+          "interest_avg": 49,
+          "interest_max": 100,
+          "interest_latest": 52,
+          "rank": 1
+        },
+        {
+          "keyword": "지그재그",
+          "interest_avg": 3,
+          "interest_max": 9,
+          "interest_latest": 7,
+          "rank": 2
+        },
+        {
+          "keyword": "Y2K패션",
+          "interest_avg": 0,
+          "interest_max": 94,
+          "interest_latest": 0,
+          "rank": 3
+        },
+        {
+          "keyword": "미니멀코어",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "스트릿패션",
+          "interest_avg": 0,
+          "interest_max": 16,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "빈티지코디",
+          "interest_avg": 0,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "OOTD",
+          "interest_avg": 0,
+          "interest_max": 1,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "데일리룩",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "계절코디",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "패션하울",
+          "interest_avg": 0,
+          "interest_max": 25,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "코디룩북",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        },
+        {
+          "keyword": "뉴트럴톤",
+          "interest_avg": 0,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 13
+        },
+        {
+          "keyword": "콜라주레이어링",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 14
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "Y2K패션",
+          "query": "y2k 패션 남자",
+          "value": "90"
+        }
+      ],
+      "monitoring_keywords": [
+        "Y2K패션",
+        "미니멀코어",
+        "레이어링",
+        "스트릿패션",
+        "빈티지코디",
+        "OOTD",
+        "무신사",
+        "지그재그",
+        "데일리룩",
+        "계절코디",
+        "패션하울",
+        "코디룩북",
+        "뉴트럴톤",
+        "콜라주레이어링"
+      ]
+    },
+    "US": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "battlestar galactica",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Battlestar Galactica's Showrunner Loved One Scene The Sci-Fi Channel Wanted To Cut",
+              "url": "https://www.tvline.com/2321643/battlestar-galactica-showrunner-loved-scene-sci-fi-channel-wanted-cut/"
+            },
+            {
+              "title": "After 6 Years, Battlestar Galactica Movie Gets an Update That Nobody Wanted To Hear",
+              "url": "https://www.yahoo.com/entertainment/tv/articles/6-years-battlestar-galactica-movie-124500986.html"
+            },
+            {
+              "title": "Francis Lawrence Exits the 'Battlestar Galactica' Movie, Blames a 'Horse Race' With a TV Reboot",
+              "url": "https://www.fanbolt.com/190329/battlestar-galactica-movie-francis-lawrence-exits/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "seattle weather",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Thanksgiving travel could be impacted by heavy rain, strong winds arriving in western Washington",
+              "url": "https://www.king5.com/article/weather/severe-weather/thanksgiving-travel-could-be-impacted-heavy-rain-strong-winds-western-washington/281-a74ef4bb-8722-4fad-966a-3d464b6d4bb6"
+            },
+            {
+              "title": "Extreme tides start to land on Washington coast",
+              "url": "https://www.kuow.org/environment/2026-11-24/extreme-tides-start-to-land-on-washington-coast"
+            },
+            {
+              "title": "Coastal flooding swamps Western WA before Thanksgiving",
+              "url": "https://www.seattletimes.com/seattle-news/weather/western-wa-hit-by-coastal-flooding-before-thanksgiving/"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "lance reddick",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Courtney B. Vance Honors Lance Reddick While Taking Over as Zeus in Percy Jackson",
+              "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/courtney-b-vance-honors-lance-211242438.html"
+            },
+            {
+              "title": "Courtney B. Vance on Taking Over Late Lance Reddick’s “Percy Jackson” Role: ‘Making Sure That I’m Doing Right by Him’ (Exclusive)",
+              "url": "https://www.aol.com/articles/courtney-b-vance-taking-over-172926000.html"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "keyword": "medal",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Late Night Rips Into Trump for Honoring Rudy Giuliani",
+              "url": "https://www.nytimes.com/2026/11/25/arts/television/late-night-trump-giuliani.html"
+            },
+            {
+              "title": "Giuliani awarded Presidential Medal of Freedom",
+              "url": "https://www.politico.com/news/2026/11/24/rudy-giuliani-presidential-medal-of-freedom-01182011"
+            },
+            {
+              "title": "Trump awards Medal of Freedom to former NYC Mayor Rudy Giuliani",
+              "url": "https://abcnews.com/Politics/trump-award-medal-freedom-former-nyc-mayor-rudy/story?id=138411544"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "gta6 leonida",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "Leaker Cyberleek Releases The Xbox Build Executable for GTA 6",
+              "url": "https://80.lv/articles/leaker-cyberleek-releases-the-xbox-build-executable-for-gta-6"
+            },
+            {
+              "title": "Unauthorized 'GTA 6' PC port shut down by Rockstar Games' parent company",
+              "url": "https://mashable.com/tech/gta-6-pc-port-project-shut-down-by-take-two"
+            },
+            {
+              "title": "GTA VI Console Graphics Settings Revealed: Higher Framerate Theoretically Possible on PS5 Pro",
+              "url": "https://www.techpowerup.com/355211/gta-vi-console-graphics-settings-revealed-higher-framerate-theoretically-possible-on-ps5-pro"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "winter",
+          "traffic": "10000+",
+          "related_news": [
+            {
+              "title": "LIVE RADAR: Snow moves into St. Louis as Thanksgiving travel ramps up",
+              "url": "https://www.ksdk.com/article/weather/live-snow-radar-st-louis-thanksgiving-weather-forecast/63-539ce31e-124b-4c99-a0e8-12e835eb54c0"
+            },
+            {
+              "title": "MoDOT warns travelers of heavy overnight snow risks",
+              "url": "https://fox2now.com/news/missouri/modot-warns-travelers-of-heavy-overnight-snow-risks/"
+            },
+            {
+              "title": "Winter Weather Advisory for Springfield area heading into Thanksgiving",
+              "url": "https://www.nprillinois.org/illinois/2026-11-24/winter-storm-watch-for-springfield-area-heading-into-thanksgiving"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "keyword": "lion",
+          "traffic": "1000+",
+          "related_news": [
+            {
+              "title": "Search on for lioness seen roaming Istanbul's outskirts",
+              "url": "https://www.cbsnews.com/news/lioness-istanbul-turkey-outskirts-search/"
+            },
+            {
+              "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
+              "url": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html"
+            },
+            {
+              "title": "Turkish officials backtrack after 24-hour hunt for Istanbul lioness, saying she never existed",
+              "url": "https://abcnews.com/International/wireStory/turkish-officials-backtrack-after-24-hour-hunt-istanbul-138404359"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "travel",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "US travelers facing long airport lines, bad weather in the run up to Thanksgiving",
+              "url": "https://apnews.com/article/travel-thanksgiving-airports-highways-041a81e33ed10df50e89dc04705a6dcc"
+            },
+            {
+              "title": "Travelers are worried about airline tech meltdowns ahead of Thanksgiving. Should they be?",
+              "url": "https://travel.yahoo.com/flights/article/aviation-tech-outages-thanksgiving-travel-205820796.html"
+            },
+            {
+              "title": "Higher travel costs put a dent in Thanksgiving travel plans",
+              "url": "https://katu.com/news/local/higher-travel-costs-put-a-dent-in-thanksgiving-travel-plans-aaa-pdx-portland-international-airport"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "radio",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Nashville rapper’s song featured in popular video game Grand Theft Auto VI. Here’s what to know",
+              "url": "https://www.wsmv.com/2026/11/20/nashville-rappers-song-featured-popular-video-game-grand-theft-auto-vi-heres-what-know/"
+            },
+            {
+              "title": "GTA 6's Dirty South Classics Radio Station Shows Love for the Southern Rap Game, Representing Its Setting Perfectly",
+              "url": "https://www.ign.com/articles/this-gta-6-radio-station-represents-its-florida-inspired-setting-perfectly"
+            },
+            {
+              "title": "3 Forgotten Southern Rap Classics Getting a Second Life in GTA 6",
+              "url": "https://www.vice.com/en/article/3-forgotten-southern-rap-classics-getting-a-second-life-in-gta-6/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "keyword": "robert downey jr",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "Wolverine Fans Are Now Positive Hugh Jackman Shows Up in Avengers: Doomsday, Here’s Why",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/wolverine-fans-now-positive-hugh-180925483.html"
+            },
+            {
+              "title": "RDJ’s Thanksgiving Post May Confirm Spider-Man in DOOMSDAY",
+              "url": "https://nerdist.com/article/robert-downey-jr-thanksgiving-post-confirm-spider-man-avengers-doomsday-rdj/"
+            },
+            {
+              "title": "The Biggest Characters Still Missing From the Final Avengers: Doomsday Trailer",
+              "url": "https://reactormag.com/missing-characters-final-avengers-doomsday-trailer/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "OOTD",
+          "interest_avg": 36,
+          "interest_max": 94,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "Amazon fashion",
+          "interest_avg": 35,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "streetwear",
+          "interest_avg": 29,
+          "interest_max": 100,
+          "interest_latest": 61,
+          "rank": 3
+        },
+        {
+          "keyword": "coquette",
+          "interest_avg": 24,
+          "interest_max": 76,
+          "interest_latest": 73,
+          "rank": 4
+        },
+        {
+          "keyword": "capsule wardrobe",
+          "interest_avg": 17,
+          "interest_max": 91,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "Y2K fashion",
+          "interest_avg": 14,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "quiet luxury",
+          "interest_avg": 2,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "vintage fashion",
+          "interest_avg": 2,
+          "interest_max": 10,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "mob wife aesthetic",
+          "interest_avg": 0,
+          "interest_max": 2,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "thrift fashion",
+          "interest_avg": 0,
+          "interest_max": 21,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "seasonal outfits",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 11
+        },
+        {
+          "keyword": "outfit lookbook",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "rank": 12
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "quiet luxury",
+          "query": "best quiet luxury bags",
+          "value": "70"
+        },
+        {
+          "parent_keyword": "mob wife aesthetic",
+          "query": "mob wife aesthetic outfits",
+          "value": "400"
+        },
+        {
+          "parent_keyword": "mob wife aesthetic",
+          "query": "what is mob wife aesthetic",
+          "value": "200"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "steal coquette d10",
+          "value": "555800"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "coquette d10 safe code",
+          "value": "504500"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "steal the coquette d10",
+          "value": "451550"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette '64",
+          "value": "326900"
+        },
+        {
+          "parent_keyword": "coquette",
+          "query": "invetero coquette '64 gta 6",
+          "value": "204150"
+        }
+      ],
+      "monitoring_keywords": [
+        "quiet luxury",
+        "mob wife aesthetic",
+        "coquette",
+        "streetwear",
+        "vintage fashion",
+        "capsule wardrobe",
+        "thrift fashion",
+        "OOTD",
+        "seasonal outfits",
+        "Amazon fashion",
+        "Y2K fashion",
+        "outfit lookbook"
+      ]
+    },
+    "JP": {
+      "trending_fashion": [],
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "青龍映画賞",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "韓国「青龍映画賞」開催 「もしもの愛」でソル・ギョング＆チョン・ドヨンが主演賞をアベック受賞（デイリースポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/57db96253564e45831c313de772f6b473021dbf4"
+            },
+            {
+              "title": "『コロニー／群体』ク・ギョファン、青龍映画賞で助演男優賞！ヨン・サンホ監督が“感染者”のモノマネで祝福!?",
+              "url": "https://www.asahi.com/and/entertainment/17081780"
+            },
+            {
+              "title": "オリコンニュース：ク・ギョファン、青龍映画賞で助演男優賞受賞 ヨン・サンホ監督がゾンビのモノマネで祝福『コロニー／群体』",
+              "url": "https://mainichi.jp/articles/20261126/orc/00m/200/093000c"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "keyword": "バンテリンドーム",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "中日２軍拠点誘致「ぜひ北名古屋市へ」 名鉄犬山線沿いに市民有志らが看板設置",
+              "url": "https://www.chunichi.co.jp/article/1344562"
+            },
+            {
+              "title": "中日・新保茉良、花田旭の写真を投稿する",
+              "url": "https://dnomotoke.com/archives/20261126134521/"
+            },
+            {
+              "title": "中日２軍拠点誘致「ぜひ北名古屋市へ」 名鉄犬山線沿いに市民有志らが看板設置",
+              "url": "https://www.47news.jp/15285670.html"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "keyword": "三浦翔平",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "粛清",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "中国の次期首相候補が失脚、習近平の粛清ラッシュが止まらないわけ #エキスパートトピ（高口康太） - エキスパート",
+              "url": "https://news.yahoo.co.jp/expert/articles/0db0c31d41fcffc45ce00bc77cc1d721f1ae4840"
+            },
+            {
+              "title": "次期指導部人事に影響必至 上海市トップ失脚で―中国",
+              "url": "https://www.jiji.com/jc/article?k=2026112501025&g=int"
+            },
+            {
+              "title": "中国、汚職摘発の「逃げ道」ふさぐ 退職後・海外・仮想通貨にも網",
+              "url": "https://www.nikkei.com/article/DGXZQOGM030NB0T01C26A1000000/"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "keyword": "岩田明子",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "母は「ごめんね、ごめんね」を繰り返し…ジャーナリスト岩田明子さんが直面した“介護と仕事の両立”の限界 (文春オンライン)",
+              "url": "https://newspicks.com/news/17988866/"
+            },
+            {
+              "title": "母は「ごめんね、ごめんね」を繰り返し…ジャーナリスト岩田明子さんが直面した“介護と仕事の両立”の限界（文春オンライン）",
+              "url": "https://news.yahoo.co.jp/articles/8d299bc12cf790d21d872f81bb2d4e2802d0452b?page=2"
+            },
+            {
+              "title": "【画像】岩田明子さん 認知症の母の「ごめんね」と介護の限界",
+              "url": "https://news.livedoor.com/article/image_detail/32902704/?img_id=57811722"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "keyword": "秋山翔吾",
+          "traffic": "100+",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "lemino",
+          "traffic": "500+",
+          "related_news": [
+            {
+              "title": "NTTドコモ presents Lemino BOXING ダブル世界タイトルマッチ 矢吹正道vsミエル・ファハルド",
+              "url": "https://lemino.docomo.ne.jp/?crid=Y3JpZDovL3BsYWxhLmlwdHZmLmpwL2dyb3VwL2IxMDU2MGU%3D"
+            },
+            {
+              "title": "【11月26日】石井武志vsザイヴァージョン・メデシロのテレビ放送/ネット配信予定・視聴方法｜Lemino BOXING",
+              "url": "https://www.dazn.com/ja-JP/news/%E3%83%9B%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%AF/takeshi-ishii-vs-zyvyr-john-medecilo-lemino-boxing-livestreaming-broadcast-20261126/12zv78bkbr3761gregznt00hlx"
+            },
+            {
+              "title": "３度目防衛戦のIBF王者矢吹正道、当日計量クリア「AIに聞いた」体重調整で「完璧。過去一」（日刊スポーツ）",
+              "url": "https://news.yahoo.co.jp/articles/c0f2c1ee515a6df1e913d3f0caf564745d967a3d"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "keyword": "東急",
+          "traffic": "100+",
+          "related_news": [
+            {
+              "title": "マイクロバスが「鉄道シミュレーター車両」に⁉ 東急グループが開発「RideLIVE」、2027年2月から順次イベント展開（鉄道コム）",
+              "url": "https://news.yahoo.co.jp/articles/9b61a8c9b38225c95dacc4829426024d3c16b758"
+            },
+            {
+              "title": "【鉄道運転シミュレータを搭載したマイクロバスを開発】 東急電鉄６０００系・９０００系車両を外装ラッピングで忠実に再現 移動式シミュレータカー「ＲｉｄｅＬＩＶＥ™（ライドライブ）」",
+              "url": "https://prtimes.jp/main/html/rd/p/000000002.000192406.html"
+            },
+            {
+              "title": "東急9000系・6000系がバスに？！驚きの“移動式”シミュレータ登場、実物部品で大井町線全線を運転",
+              "url": "https://raillab.jp/news/article/35823"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "keyword": "堂安律",
+          "traffic": "1000+",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "ダノンデサイル",
+          "traffic": "200+",
+          "related_news": [
+            {
+              "title": "【有馬記念】ファン投票第1回中間発表、ダノンデサイルが27万7171票で1位 2位ロブチェン（スポニチアネックス）",
+              "url": "https://news.yahoo.co.jp/articles/a8ecdc04cfd733afee15f8932b0b4db79c9efa89"
+            },
+            {
+              "title": "【有馬記念】ファン投票中間発表 1位はダノンデサイル、2位がロブチェン 投票は12月6日まで",
+              "url": "https://tospo-keiba.jp/breaking_news/78193"
+            },
+            {
+              "title": "有馬記念のファン投票実施",
+              "url": "https://www.sanspo.com/race/article/general/20261119-KUTDUDQ3EBMXDESLM4VTNQBXUU/"
+            }
+          ]
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "ユニクロコーデ",
+          "interest_avg": 50,
+          "interest_max": 95,
+          "interest_latest": 0,
+          "rank": 1
+        },
+        {
+          "keyword": "ミニマル",
+          "interest_avg": 32,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 2
+        },
+        {
+          "keyword": "骨格診断",
+          "interest_avg": 31,
+          "interest_max": 100,
+          "interest_latest": 36,
+          "rank": 3
+        },
+        {
+          "keyword": "GUコーデ",
+          "interest_avg": 24,
+          "interest_max": 100,
+          "interest_latest": 0,
+          "rank": 4
+        },
+        {
+          "keyword": "ストリート系",
+          "interest_avg": 16,
+          "interest_max": 63,
+          "interest_latest": 0,
+          "rank": 5
+        },
+        {
+          "keyword": "韓国ファッション",
+          "interest_avg": 11,
+          "interest_max": 92,
+          "interest_latest": 0,
+          "rank": 6
+        },
+        {
+          "keyword": "古着コーデ",
+          "interest_avg": 1,
+          "interest_max": 24,
+          "interest_latest": 0,
+          "rank": 7
+        },
+        {
+          "keyword": "Y2Kファッション",
+          "interest_avg": 0,
+          "interest_max": 26,
+          "interest_latest": 0,
+          "rank": 8
+        },
+        {
+          "keyword": "着回しコーデ",
+          "interest_avg": 0,
+          "interest_max": 18,
+          "interest_latest": 0,
+          "rank": 9
+        },
+        {
+          "keyword": "季節コーデ",
+          "interest_avg": 0,
+          "interest_max": 19,
+          "interest_latest": 0,
+          "rank": 10
+        },
+        {
+          "keyword": "プチプラコーデ",
+          "interest_avg": 0,
+          "interest_max": 34,
+          "interest_latest": 0,
+          "rank": 11
+        }
+      ],
+      "related_queries": [
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション サイト",
+          "value": "250"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 アイドル 空港 ファッション",
+          "value": "200"
+        },
+        {
+          "parent_keyword": "韓国ファッション",
+          "query": "韓国 ファッション アプリ",
+          "value": "40"
+        },
+        {
+          "parent_keyword": "ストリート系",
+          "query": "ストリート 系 ダウン",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "ストリート系",
+          "query": "ストリート 系 ブランド レディース",
+          "value": "50"
+        },
+        {
+          "parent_keyword": "ストリート系",
+          "query": "骨格 ウェーブ ストリート 系",
+          "value": "50"
+        }
+      ],
+      "monitoring_keywords": [
+        "韓国ファッション",
+        "ストリート系",
+        "古着コーデ",
+        "ミニマル",
+        "Y2Kファッション",
+        "着回しコーデ",
+        "GUコーデ",
+        "ユニクロコーデ",
+        "季節コーデ",
+        "プチプラコーデ",
+        "骨格診断"
+      ]
+    }
+  },
+  "collected_at": "2026-11-26T07:14:06.456704+00:00"
+}
