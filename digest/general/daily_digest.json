@@ -2,9 +2,9 @@
   "date": "2026-11-27",
   "mode": "general",
   "compared_to": "2026-11-26",
-  "total_keywords_today": 464,
+  "total_keywords_today": 443,
   "total_keywords_yesterday": 480,
-  "data_days_available": 92,
+  "data_days_available": 91,
   "overall_confidence": "high",
   "rising": [
     {
@@ -19,37 +19,37 @@
       "sample_note": "오늘 17건, 어제 15건 기준"
     },
     {
-      "keyword": "#viral",
-      "change": "+14%",
-      "today_count": 16,
-      "yesterday_count": 14,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 16건, 어제 14건 기준"
-    },
-    {
-      "keyword": "trend",
-      "change": "+15%",
-      "today_count": 15,
-      "yesterday_count": 13,
-      "confidence": "high",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 15건, 어제 13건 기준"
-    },
-    {
       "keyword": "dance",
-      "change": "+17%",
-      "today_count": 14,
+      "change": "+42%",
+      "today_count": 17,
       "yesterday_count": 12,
       "confidence": "high",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 14건, 어제 12건 기준"
+      "sample_note": "오늘 17건, 어제 12건 기준"
+    },
+    {
+      "keyword": "trend",
+      "change": "+23%",
+      "today_count": 16,
+      "yesterday_count": 13,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 16건, 어제 13건 기준"
+    },
+    {
+      "keyword": "#viral",
+      "change": "+7%",
+      "today_count": 15,
+      "yesterday_count": 14,
+      "confidence": "high",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 15건, 어제 14건 기준"
     },
     {
       "keyword": "#trending",
@@ -85,7 +85,29 @@
       "sample_note": "오늘 9건, 어제 8건 기준"
     },
     {
-      "keyword": "survival",
+      "keyword": "comedy",
+      "change": "+133%",
+      "today_count": 7,
+      "yesterday_count": 3,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 7건, 어제 3건 기준"
+    },
+    {
+      "keyword": "#dance",
+      "change": "+20%",
+      "today_count": 6,
+      "yesterday_count": 5,
+      "confidence": "medium",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 6건, 어제 5건 기준"
+    },
+    {
+      "keyword": "#comedy",
       "change": "+67%",
       "today_count": 5,
       "yesterday_count": 3,
@@ -96,37 +118,15 @@
       "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
-      "keyword": "christmas",
-      "change": "+33%",
-      "today_count": 4,
+      "keyword": "survival",
+      "change": "+67%",
+      "today_count": 5,
       "yesterday_count": 3,
-      "confidence": "low",
+      "confidence": "medium",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "#comedy",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
-    },
-    {
-      "keyword": "comedy",
-      "change": "+33%",
-      "today_count": 4,
-      "yesterday_count": 3,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 4건, 어제 3건 기준"
+      "sample_note": "오늘 5건, 어제 3건 기준"
     },
     {
       "keyword": "#cooking",
@@ -162,15 +162,15 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "your",
-      "change": "+50%",
+      "keyword": "huss",
+      "change": "NEW",
       "today_count": 3,
-      "yesterday_count": 2,
+      "yesterday_count": 0,
       "confidence": "low",
       "platforms": [
         "youtube"
       ],
-      "sample_note": "오늘 3건, 어제 2건 기준"
+      "sample_note": "오늘 3건 (신규)"
     },
     {
       "keyword": "#outdoors",
@@ -182,17 +182,6 @@
         "youtube"
       ],
       "sample_note": "오늘 3건, 어제 2건 기준"
-    },
-    {
-      "keyword": "smart",
-      "change": "+200%",
-      "today_count": 3,
-      "yesterday_count": 1,
-      "confidence": "low",
-      "platforms": [
-        "youtube"
-      ],
-      "sample_note": "오늘 3건, 어제 1건 기준"
     },
     {
       "keyword": "bushcraft",
@@ -217,7 +206,18 @@
       "sample_note": "오늘 3건, 어제 2건 기준"
     },
     {
-      "keyword": "#diy",
+      "keyword": "#recipe",
+      "change": "+50%",
+      "today_count": 3,
+      "yesterday_count": 2,
+      "confidence": "low",
+      "platforms": [
+        "youtube"
+      ],
+      "sample_note": "오늘 3건, 어제 2건 기준"
+    },
+    {
+      "keyword": "最新ニュースtop10",
       "change": "+50%",
       "today_count": 3,
       "yesterday_count": 2,
@@ -234,13 +234,6 @@
       "change": "-10%",
       "today_count": 9,
       "yesterday_count": 10,
-      "confidence": "medium"
-    },
-    {
-      "keyword": "#funny",
-      "change": "-11%",
-      "today_count": 8,
-      "yesterday_count": 9,
       "confidence": "medium"
     },
     {
@@ -279,16 +272,16 @@
       "confidence": "low"
     },
     {
-      "keyword": "mashup",
-      "change": "-33%",
-      "today_count": 2,
+      "keyword": "trends",
+      "change": "-67%",
+      "today_count": 1,
       "yesterday_count": 3,
       "confidence": "low"
     },
     {
-      "keyword": "trends",
-      "change": "-67%",
-      "today_count": 1,
+      "keyword": "#fyp",
+      "change": "-33%",
+      "today_count": 2,
       "yesterday_count": 3,
       "confidence": "low"
     },
@@ -300,6 +293,8 @@
       "confidence": "low"
     }
   ],
-  "new_entries": [],
+  "new_entries": [
+    "huss"
+  ],
   "cross_platform_hot": []
 }
