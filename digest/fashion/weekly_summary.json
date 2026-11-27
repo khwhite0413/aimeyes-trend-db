@@ -1,36 +1,36 @@
 {
   "mode": "fashion",
   "week_range": {
-    "from": "2026-11-20",
-    "to": "2026-11-26"
+    "from": "2026-11-21",
+    "to": "2026-11-27"
   },
   "days_analyzed": 7,
   "confidence": "high",
   "top_rising": [
     {
+      "keyword": "fashion",
+      "growth": "+6%",
+      "total_mentions": 139
+    },
+    {
       "keyword": "#fashion",
-      "growth": "+18%",
-      "total_mentions": 93
+      "growth": "+36%",
+      "total_mentions": 97
     },
     {
       "keyword": "lookbook",
-      "growth": "+62%",
-      "total_mentions": 73
+      "growth": "+44%",
+      "total_mentions": 78
     },
     {
       "keyword": "무스탕",
       "growth": "+22%",
-      "total_mentions": 69
+      "total_mentions": 71
     },
     {
       "keyword": "#데일리룩코디",
-      "growth": "+29%",
-      "total_mentions": 63
-    },
-    {
-      "keyword": "데일리룩코디",
-      "growth": "+29%",
-      "total_mentions": 63
+      "growth": "+43%",
+      "total_mentions": 66
     }
   ],
   "most_cross_platform": [
@@ -44,8 +44,8 @@
     }
   ],
   "naver_shopping_hot": [
-    "에르노패딩",
     "경량패딩",
+    "에르노패딩",
     "막스마라패딩",
     "패딩조끼",
     "무스탕"
@@ -53,13 +53,13 @@
   "top_keywords_overall": [
     "fashion",
     "#fashion",
-    "에르노패딩",
     "경량패딩",
+    "에르노패딩",
     "막스마라패딩",
-    "패딩조끼",
     "lookbook",
-    "후리스",
+    "패딩조끼",
     "무스탕",
-    "몽클레어패딩"
+    "후리스",
+    "#데일리룩코디"
   ]
 }
