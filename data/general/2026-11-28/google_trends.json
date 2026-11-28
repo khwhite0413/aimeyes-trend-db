@@ -1,0 +1,364 @@
+{
+  "platform": "google_trends",
+  "mode": "general",
+  "countries": {
+    "KR": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "신민아",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 2,
+          "keyword": "루친스키",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "목동",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "김도영",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 5,
+          "keyword": "기사",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 6,
+          "keyword": "설인아",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "군함",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 8,
+          "keyword": "주유소",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "임용고시",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "성시경 쌈디",
+          "traffic": "",
+          "related_news": []
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "밈 트렌드",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "틱톡 챌린지",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "생활꿀팁",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "인테리어DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "먹방레시피",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "자기계발",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "밈 트렌드",
+        "틱톡 챌린지",
+        "생활꿀팁",
+        "인테리어DIY",
+        "먹방레시피",
+        "자기계발"
+      ]
+    },
+    "US": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "alaska earthquake center",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 2,
+          "keyword": "gordon ramsay",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "wlfi",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "jodie foster",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 5,
+          "keyword": "dustin hoffman",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 6,
+          "keyword": "wes enis",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "robin givens",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 8,
+          "keyword": "gta 6 chapter 3 mission list",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "texas tech basketball",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "mega millions winning numbers",
+          "traffic": "",
+          "related_news": []
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "TikTok trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "viral memes",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "life hacks",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "home DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "food trends",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        },
+        {
+          "keyword": "self care",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 6
+        }
+      ],
+      "monitoring_keywords": [
+        "TikTok trends",
+        "viral memes",
+        "life hacks",
+        "home DIY",
+        "food trends",
+        "self care"
+      ]
+    },
+    "JP": {
+      "all_trending": [
+        {
+          "rank": 1,
+          "keyword": "エスパルス 試合",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 2,
+          "keyword": "赤根 所長",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 3,
+          "keyword": "柏 対 広島",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 4,
+          "keyword": "安田 成美",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 5,
+          "keyword": "安青錦新大",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 6,
+          "keyword": "りくりゅうペア",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 7,
+          "keyword": "国家 公務員",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 8,
+          "keyword": "ゆなすみペア",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 9,
+          "keyword": "田中碧",
+          "traffic": "",
+          "related_news": []
+        },
+        {
+          "rank": 10,
+          "keyword": "子役",
+          "traffic": "",
+          "related_news": []
+        }
+      ],
+      "keyword_interest": [
+        {
+          "keyword": "バズった",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 1
+        },
+        {
+          "keyword": "TikTokトレンド",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 2
+        },
+        {
+          "keyword": "ライフハック",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 3
+        },
+        {
+          "keyword": "100均DIY",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 4
+        },
+        {
+          "keyword": "バズレシピ",
+          "interest_avg": 0,
+          "interest_max": 0,
+          "interest_latest": 0,
+          "error": "The request failed: Google returned a response with code 429",
+          "rank": 5
+        }
+      ],
+      "monitoring_keywords": [
+        "バズった",
+        "TikTokトレンド",
+        "ライフハック",
+        "100均DIY",
+        "バズレシピ"
+      ]
+    }
+  },
+  "collected_at": "2026-11-28T06:46:38.605143+00:00"
+}
